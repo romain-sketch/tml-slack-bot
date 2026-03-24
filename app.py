@@ -17,9 +17,9 @@ SLACK_APP_TOKEN   = os.environ["SLACK_APP_TOKEN"]
 ANTHROPIC_API_KEY = os.environ["ANTHROPIC_API_KEY"]
 SLACK_EXPORT_DIR  = os.environ.get("SLACK_EXPORT_DIR", "./slack_export")
 
-LIVE_MESSAGES_PER_CHANNEL = 200   # recent messages fetched live per channel
-HARD_CHAR_LIMIT            = 80_000  # ~20k tokens, safe for free tier
-CACHE_TTL_SECONDS          = 300     # refresh live data every 5 min
+LIVE_MESSAGES_PER_CHANNEL = 200
+HARD_CHAR_LIMIT            = 80_000
+CACHE_TTL_SECONDS          = 300
 CHARS_PER_TOKEN            = 4
 
 # ── Prompt ────────────────────────────────────────────────────────────────────
@@ -138,13 +138,13 @@ def get_bot_channels(client) -> dict:
 
 # ── Channel scoring ───────────────────────────────────────────────────────────
 CHANNEL_KEYWORDS = {
-    "best-practices":               ["best practice", "tips", "advice", "conseil", "recommand", "feedback"],
+    "best-practices":               ["best practice", "tips", "advice", "conseil", "recommand", "feedback", "abm", "account based", "account-based"],
     "stack-and-tools":              ["tool", "outil", "stack", "software", "app", "saas", "platform"],
     "content-tips-sharing":         ["content", "contenu", "article", "post", "linkedin", "blog", "copywriting"],
     "jobs-and-hiring":              ["job", "hiring", "recrutement", "poste", "freelance", "offer"],
     "general":                      ["general", "news", "annonce", "hello", "bonjour"],
     "parttimecmo":                  ["cmo", "part time", "consultant", "mission"],
-    "b2b-marketing-targets":        ["b2b", "icp", "target", "persona", "account"],
+    "b2b-marketing-targets":        ["b2b", "icp", "target", "persona", "account", "abm", "account based"],
     "b2b-hr-targets":               ["hr", "rh", "ressources humaines"],
     "watercooler":                  ["fun", "humour", "culture"],
     "angel-investing":              ["invest", "startup", "funding", "business angel"],
@@ -185,7 +185,7 @@ claude = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
 def handle_mention(event, client, say):
     thread_ts = event.get("thread_ts") or event["ts"]
 
-    # Résoudre les mentions dans la question
+    # Résoudre les mentions (@Gaelle Le Goff etc.) dans la question
     def resolve_mentions(text):
         def resolve(m):
             uid = m.group(1)
@@ -193,9 +193,15 @@ def handle_mention(event, client, say):
         return re.sub(r"<@([A-Z0-9]+)>", resolve, text).strip()
 
     question = resolve_mentions(event["text"])
-    # Enlever la mention du bot
-    bot_id = client.auth_test()["user_id"]
-    question = re.sub(rf"@{bot_id}", "", question).strip()
+
+    # Enlever la mention du bot lui-même
+    try:
+        bot_id = client.auth_test()["user_id"]
+        bot_name = user_map.get(bot_id, bot_id)
+        question = re.sub(rf"@{re.escape(bot_name)}", "", question).strip()
+        question = re.sub(rf"@{re.escape(bot_id)}", "", question).strip()
+    except:
+        pass
 
     if not question:
         say(text="Ask me anything about the Slack messages! 🙂", thread_ts=thread_ts)
@@ -236,4 +242,9 @@ def handle_mention(event, client, say):
         answer = f"⚠️ Error: {e}"
 
     say(text=answer + f"\n\n_Sources: {channels_used}_", thread_ts=thread_ts)
+
+# ── Start ─────────────────────────────────────────────────────────────────────
+if __name__ == "__main__":
+    handler = SocketModeHandler(app, SLACK_APP_TOKEN)
+    print("⚡ Bot started — static export + live Slack API")
     handler.start()
