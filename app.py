@@ -184,7 +184,17 @@ claude = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
 @app.event("app_mention")
 def handle_mention(event, client, say):
     thread_ts = event.get("thread_ts") or event["ts"]
-    question  = re.sub(r"<@[A-Z0-9]+>", "", event["text"]).strip()
+def resolve_question_mentions(text):
+    def resolve(m):
+        uid = m.group(1)
+        name = user_map.get(uid, uid)
+        return f"@{name}"
+    return re.sub(r"<@([A-Z0-9]+)>", resolve, text).strip()
+
+question = resolve_question_mentions(event["text"])
+# Enlever la mention du bot lui-même
+bot_info = client.auth_test()
+question = re.sub(rf"@{bot_info['user']}\b", "", question).strip()
 
     if not question:
         say(text="Ask me anything about the Slack messages! 🙂", thread_ts=thread_ts)
