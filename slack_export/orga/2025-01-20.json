@@ -1,0 +1,427 @@
+[
+    {
+        "user": "U06U1GG592M",
+        "type": "message",
+        "ts": "1737382722.310159",
+        "client_msg_id": "a5148048-84eb-44f8-ace1-52511648bf5f",
+        "text": "*GESTION DES INBOUNDS - SMB + Mid Market Segment*\nHello à tous, :wave:\nOn réfléchit actuellement à la meilleure manière *d'organiser notre équipe Sales\/SDR pour optimiser la gestion des inbounds* tout en équilibrant les ressources avec une équipe déjà dédiée à l'*outbound*.\nQuelques points de friction :\n• Sur certains marchés, (FR\/IT\/SP) le volume inbound est trop faible pour justifier une équipe SDR dédiée par pays. \n• D’un autre côté, envoyer les inbound directement aux AE\/IS n’est pas optimal, car ils sont souvent en meetings et rappellent trop tard, ce qui impacte les conversions (et on est déjà pas super bons sur les délais).\nAuriez-vous des retours d'expérience ou des best practices sur :\n1. *La répartition des leads inbound* (ex. : équipe dédiée, rotation entre les Sales...).\n2. *Les missions complémentaires possibles pour les SDR inbound* sur des marchés à faible volume (pour maximiser leur temps et leur impact). _=&gt; réduction des no-show, réactivation d’Inbound mal travaillés, support sur les campagne mkt etc._ ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "84a1e781f35c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-31\/7202740482978_84a1e781f35c228ca958_72.jpg",
+            "first_name": "Carolane",
+            "real_name": "Carolane Guyon",
+            "display_name": "Carolane (Veesion)",
+            "team": "T017AGS2KE0",
+            "name": "c.guyon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737382722.310159",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1737446177.160239",
+        "reply_users": [
+            "U0177A5V42F",
+            "U06U1GG592M",
+            "U07R7CUFM7H"
+        ],
+        "replies": [
+            {
+                "user": "U0177A5V42F",
+                "ts": "1737385570.032339"
+            },
+            {
+                "user": "U06U1GG592M",
+                "ts": "1737387096.215169"
+            },
+            {
+                "user": "U0177A5V42F",
+                "ts": "1737388210.460449"
+            },
+            {
+                "user": "U07R7CUFM7H",
+                "ts": "1737404526.684889"
+            },
+            {
+                "user": "U06U1GG592M",
+                "ts": "1737446177.160239"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "coHMv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "GESTION DES INBOUNDS - SMB + Mid Market Segment",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nHello à tous, "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nOn réfléchit actuellement à la meilleure manière "
+                            },
+                            {
+                                "type": "text",
+                                "text": "d'organiser notre équipe Sales\/SDR pour optimiser la gestion des inbounds",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " tout en équilibrant les ressources avec une équipe déjà dédiée à l'"
+                            },
+                            {
+                                "type": "text",
+                                "text": "outbound",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\nQuelques points de friction :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Sur certains marchés, (FR\/IT\/SP) le volume inbound est trop faible pour justifier une équipe SDR dédiée par pays. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "D’un autre côté, envoyer les inbound directement aux AE\/IS n’est pas optimal, car ils sont souvent en meetings et rappellent trop tard, ce qui impacte les conversions (et on est déjà pas super bons sur les délais)."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nAuriez-vous des retours d'expérience ou des best practices sur :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "La répartition des leads inbound",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " (ex. : équipe dédiée, rotation entre les Sales...)."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Les missions complémentaires possibles pour les SDR inbound",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " sur des marchés à faible volume (pour maximiser leur temps et leur impact). "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "=> réduction des no-show, réactivation d’Inbound mal travaillés, support sur les campagne mkt etc. ",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U084LQF8023",
+        "text": "<@U084LQF8023> has joined the channel",
+        "type": "message",
+        "ts": "1737385380.099009"
+    },
+    {
+        "user": "U0177A5V42F",
+        "type": "message",
+        "ts": "1737385570.032339",
+        "client_msg_id": "44e32f6c-66b0-468f-8506-9d17bb9be0fb",
+        "text": "Hello Carolane,\nSur les marchés à faible volume, tu as regardé pour monter une équipe multilingue centralisée ? Concernant les langues parlées c'est jouable d'avoir des profiles bilingues pour adresser les différents pays. Sur la partie des missions complémentaires, effectivement toutes les taches BOFU sont une bonnes pistes mais ce serait intéressant de regarder aussi coté CSM avec traitement de ticket niveau 1. Les profils sont très similaires et tu pourrais négocier plus facilement de garder ton équipe si ils ont un impact sur les deux extremités du parcours.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ebca9b04129",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-17\/1245815650949_7ebca9b041296679a81d_72.jpg",
+            "first_name": "Guillaume",
+            "real_name": "Guillaume Laguette",
+            "display_name": "Guillaume Laguette (echOpen)",
+            "team": "T017AGS2KE0",
+            "name": "laguette.guillaume",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737382722.310159",
+        "parent_user_id": "U06U1GG592M",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/P0Qg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Carolane,\nSur les marchés à faible volume, tu as regardé pour monter une équipe multilingue centralisée ? Concernant les langues parlées c'est jouable d'avoir des profiles bilingues pour adresser les différents pays. Sur la partie des missions complémentaires, effectivement toutes les taches BOFU sont une bonnes pistes mais ce serait intéressant de regarder aussi coté CSM avec traitement de ticket niveau 1. Les profils sont très similaires et tu pourrais négocier plus facilement de garder ton équipe si ils ont un impact sur les deux extremités du parcours."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06U1GG592M",
+        "type": "message",
+        "ts": "1737387096.215169",
+        "client_msg_id": "b1a4401f-09d3-4190-8c98-e1a14e6ff9de",
+        "text": "Effectivement on a discuté de profils multilingues ! (FR \/ IT \/ SP)\nSuper intéressant la partie CSM, je n'y avais pas du tout pensé",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "84a1e781f35c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-31\/7202740482978_84a1e781f35c228ca958_72.jpg",
+            "first_name": "Carolane",
+            "real_name": "Carolane Guyon",
+            "display_name": "Carolane (Veesion)",
+            "team": "T017AGS2KE0",
+            "name": "c.guyon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737382722.310159",
+        "parent_user_id": "U06U1GG592M",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o85vL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Effectivement on a discuté de profils multilingues ! (FR \/ IT \/ SP)\nSuper intéressant la partie CSM, je n'y avais pas du tout pensé"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0177A5V42F",
+        "type": "message",
+        "ts": "1737388210.460449",
+        "client_msg_id": "f28c4674-a4cc-41b3-989b-ac9502aa257e",
+        "text": "C'est un long shot mais par ces temps de rareté budgétaire il faut être créatif :sweat_smile:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ebca9b04129",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-17\/1245815650949_7ebca9b041296679a81d_72.jpg",
+            "first_name": "Guillaume",
+            "real_name": "Guillaume Laguette",
+            "display_name": "Guillaume Laguette (echOpen)",
+            "team": "T017AGS2KE0",
+            "name": "laguette.guillaume",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737382722.310159",
+        "parent_user_id": "U06U1GG592M",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EwGl9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est un long shot mais par ces temps de rareté budgétaire il faut être créatif "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sweat_smile",
+                "users": [
+                    "U06U1GG592M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U07R7CUFM7H",
+        "type": "message",
+        "ts": "1737404526.684889",
+        "edited": {
+            "user": "U07R7CUFM7H",
+            "ts": "1737404545.000000"
+        },
+        "client_msg_id": "c4f24bbd-783a-4843-aceb-e2022040360e",
+        "text": "Hello Carolane,\nDe notre côté, on avait fait une version hybrid.\nDans certaine geo ou répondre en anglais est ok, on gardait l'équipe centrale et tu prends des english speaker qui utilise chat gpt pour translate en binôme avec un AE billingue pour relire les campagnes prio.\nIdem créativité avec des ressources limités :wink:\n\nEn revanche on a ensuite pour d'autre raison arrêté ce  segments SMB\/ Mid-market, donc pas vraiment le temps d'avoir de vrais retours constructifs.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "1eabd032cd82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-05\/8152020385456_1eabd032cd826d3f64b3_72.jpg",
+            "first_name": "Mayeul",
+            "real_name": "Mayeul",
+            "display_name": "Mayeul (Mangopay)",
+            "team": "T017AGS2KE0",
+            "name": "mayeul.wattecamps",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737382722.310159",
+        "parent_user_id": "U06U1GG592M",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xYzs6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Carolane,\nDe notre côté, on avait fait une version hybrid.\nDans certaine geo ou répondre en anglais est ok, on gardait l'équipe centrale et tu prends des english speaker qui utilise chat gpt pour translate en binôme avec un AE billingue pour relire les campagnes prio.\nIdem créativité avec des ressources limités "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nEn revanche on a ensuite pour d'autre raison arrêté ce  segments SMB\/ Mid-market, donc pas vraiment le temps d'avoir de vrais retours constructifs."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06U1GG592M",
+        "type": "message",
+        "ts": "1737446177.160239",
+        "client_msg_id": "3447f362-49c5-4bac-aaf0-0763a06a4240",
+        "text": "ok merci Mayeul !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "84a1e781f35c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-31\/7202740482978_84a1e781f35c228ca958_72.jpg",
+            "first_name": "Carolane",
+            "real_name": "Carolane Guyon",
+            "display_name": "Carolane (Veesion)",
+            "team": "T017AGS2KE0",
+            "name": "c.guyon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737382722.310159",
+        "parent_user_id": "U06U1GG592M",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZXsiq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok merci Mayeul !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

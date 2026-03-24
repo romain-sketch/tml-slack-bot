@@ -1,0 +1,545 @@
+[
+    {
+        "user": "U08C1HZNT8S",
+        "type": "message",
+        "ts": "1739175260.299989",
+        "client_msg_id": "64b24e45-aca5-45d8-bdb8-c7e4180c0ce9",
+        "text": "Hello ! J'ai récemment rejoint TechMarketingLeaders et je suis ravie de faire partie de cette communauté :blush:\n\nPour me présenter rapidement, je suis Directrice Marketing chez Impact Plus, une entreprise spécialisée dans la mesure de l'empreinte carbone de la publicité digitale. J'ai hâte de pouvoir échanger avec vous sur les bonnes pratiques, en particulier en ce qui concerne le scaling d'une startup.\n\nEn attendant, je vous souhaite à tous une très belle semaine !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "61c9836da04d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-06\/8423651765825_61c9836da04d5e9d3e43_72.jpg",
+            "first_name": "Séverine",
+            "real_name": "Séverine Loeuille (Impact Plus)",
+            "display_name": "Séverine Loeuille (Impact Plus)",
+            "team": "T017AGS2KE0",
+            "name": "severine.loeuille",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739175260.299989",
+        "reply_count": 10,
+        "reply_users_count": 10,
+        "latest_reply": "1739350448.975869",
+        "reply_users": [
+            "U017RAZCAGZ",
+            "U01A4GMRRR9",
+            "U067GNGDATD",
+            "U02N2EVMFCG",
+            "U0177A5V42F",
+            "U04L04T475K",
+            "U065DFPCQMP",
+            "U022RFSKQQK",
+            "U017H09S857",
+            "U08C1HZNT8S"
+        ],
+        "replies": [
+            {
+                "user": "U017RAZCAGZ",
+                "ts": "1739176811.666729"
+            },
+            {
+                "user": "U01A4GMRRR9",
+                "ts": "1739177500.070699"
+            },
+            {
+                "user": "U067GNGDATD",
+                "ts": "1739177569.255119"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1739178827.953119"
+            },
+            {
+                "user": "U0177A5V42F",
+                "ts": "1739190642.838229"
+            },
+            {
+                "user": "U04L04T475K",
+                "ts": "1739192003.114379"
+            },
+            {
+                "user": "U065DFPCQMP",
+                "ts": "1739288838.485809"
+            },
+            {
+                "user": "U022RFSKQQK",
+                "ts": "1739293433.339329"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1739314962.433019"
+            },
+            {
+                "user": "U08C1HZNT8S",
+                "ts": "1739350448.975869"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IXIc0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello ! J'ai récemment rejoint TechMarketingLeaders et je suis ravie de faire partie de cette communauté "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nPour me présenter rapidement, je suis Directrice Marketing chez Impact Plus, une entreprise spécialisée dans la mesure de l'empreinte carbone de la publicité digitale. J'ai hâte de pouvoir échanger avec vous sur les bonnes pratiques, en particulier en ce qui concerne le scaling d'une startup.\n\nEn attendant, je vous souhaite à tous une très belle semaine !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "the_horns",
+                "users": [
+                    "U03CY07UZJM",
+                    "U017RAZCAGZ",
+                    "U04HP95GK55",
+                    "U063A8VPPG9",
+                    "U016SBPG7K9",
+                    "U017CURDPB5",
+                    "U0177A5V42F",
+                    "U084KTR7YKX",
+                    "U06DYTRDLUD"
+                ],
+                "count": 9
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U069NSTHZ3Q",
+                    "U017RAZCAGZ",
+                    "U02N2EVMFCG",
+                    "U016SBPG7K9"
+                ],
+                "count": 4
+            },
+            {
+                "name": "wave",
+                "users": [
+                    "U055KSYA2AH",
+                    "U017RAZCAGZ",
+                    "U02N2EVMFCG",
+                    "U063Q1LA69W",
+                    "U06CZESF7QF",
+                    "U06LENY5V6Z",
+                    "U06MLNEGNKB",
+                    "U016SBPG7K9",
+                    "U06M6E5M524",
+                    "U084KTR7YKX",
+                    "U08554C4R7C",
+                    "U03P99RGMTN",
+                    "U06ETLB8QDP",
+                    "U07D08K3U0K",
+                    "U065DFPCQMP",
+                    "U017H09S857",
+                    "U0859A8P14K"
+                ],
+                "count": 17
+            },
+            {
+                "name": "star-struck",
+                "users": [
+                    "U084LQF8023"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1739176119.908609",
+        "client_msg_id": "bd459375-5b5f-410a-a632-49a27860ea97",
+        "text": "avec plaisir!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738919345.580469",
+        "parent_user_id": "U03CY07UZJM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5I1pF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "avec plaisir!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017RAZCAGZ",
+        "type": "message",
+        "ts": "1739176811.666729",
+        "client_msg_id": "7d8467f7-2e7c-47ea-8b0c-85db68961846",
+        "text": "Welcome consoeur de l'impact :recycle:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2e6e61c8f204",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-20\/1251040887619_2e6e61c8f20434050630_72.jpg",
+            "first_name": "Hélène",
+            "real_name": "Hélène Draoulec (Phenix)",
+            "display_name": "Hélène Draoulec (Phenix)",
+            "team": "T017AGS2KE0",
+            "name": "hdraoulec",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739175260.299989",
+        "parent_user_id": "U08C1HZNT8S",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cVdTS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome consoeur de l'impact "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "recycle",
+                                "unicode": "267b-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U08C1HZNT8S"
+                ],
+                "count": 1
+            },
+            {
+                "name": "recycle",
+                "users": [
+                    "U08C1HZNT8S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1739177500.070699",
+        "client_msg_id": "f3769361-b457-4da8-a5f5-0446a1214aed",
+        "text": "Welcome <@U08C1HZNT8S>!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739175260.299989",
+        "parent_user_id": "U08C1HZNT8S",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G5lT1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08C1HZNT8S"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U067GNGDATD",
+        "type": "message",
+        "ts": "1739177569.255119",
+        "client_msg_id": "7d30189b-80c9-49f8-b8d5-2bb2e9a5b11e",
+        "text": "Welcome Séverine!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "gd73dcdb62f7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d73dcdb62f793ad670516a42032e3fa5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Diard",
+            "display_name": "Old Account \/ Do not use",
+            "team": "T017AGS2KE0",
+            "name": "adiard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739175260.299989",
+        "parent_user_id": "U08C1HZNT8S",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rVOmL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome Séverine!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03CY07UZJM",
+        "type": "message",
+        "ts": "1739178335.181529",
+        "client_msg_id": "de74078e-707a-49e1-b725-8ffb2c83995b",
+        "text": "C'est fait",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "cf1b09b1a910",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-02\/6894190939717_cf1b09b1a910eb11be75_72.jpg",
+            "first_name": "Patrice",
+            "real_name": "Patrice Barbesier",
+            "display_name": "Patrice Barbesier",
+            "team": "T017AGS2KE0",
+            "name": "patrice.barbesier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738919345.580469",
+        "parent_user_id": "U03CY07UZJM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HN97m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est fait"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1739178827.953119",
+        "client_msg_id": "AF1EB6BF-16F6-4730-9ACE-77E28318A4BD",
+        "text": "Welcome :hugging_face:  ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739175260.299989",
+        "parent_user_id": "U08C1HZNT8S",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kmYDh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hugging_face",
+                                "unicode": "1f917"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0177A5V42F",
+        "type": "message",
+        "ts": "1739190642.838229",
+        "client_msg_id": "c4afc803-24e2-4372-9ae3-ea575baf3cb8",
+        "text": "Bienvenue <@U08C1HZNT8S>, au plaisir de te rencontrer lors d'un prochain évènement !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ebca9b04129",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-17\/1245815650949_7ebca9b041296679a81d_72.jpg",
+            "first_name": "Guillaume",
+            "real_name": "Guillaume Laguette",
+            "display_name": "Guillaume Laguette (echOpen)",
+            "team": "T017AGS2KE0",
+            "name": "laguette.guillaume",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739175260.299989",
+        "parent_user_id": "U08C1HZNT8S",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kDzU0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bienvenue "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08C1HZNT8S"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", au plaisir de te rencontrer lors d'un prochain évènement !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04L04T475K",
+        "type": "message",
+        "ts": "1739192003.114379",
+        "client_msg_id": "ce18e583-4f7e-4bf2-8db5-0eed97452719",
+        "text": "Welcome <@U08C1HZNT8S> :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "992240f01962",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4685704045204_992240f019622b6b0af8_72.jpg",
+            "first_name": "Antoine",
+            "real_name": "Antoine Yahia Cherif",
+            "display_name": "Antoine Yahia Cherif",
+            "team": "T017AGS2KE0",
+            "name": "antoine.yc008",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739175260.299989",
+        "parent_user_id": "U08C1HZNT8S",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WM8Qr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08C1HZNT8S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

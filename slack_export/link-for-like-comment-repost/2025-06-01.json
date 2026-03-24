@@ -1,0 +1,115 @@
+[
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1748844260.376559",
+        "client_msg_id": "858b0082-1c24-4e97-b2dd-a6ba2e12e347",
+        "text": "Hello, l'équipe étendue de <#C06GD6ME5CM|the-book> sera à VivaTech dans 10 jours. N'hésitez pas à liker ou partager <https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:7335183505280184321\/>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748844260.376559",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1748851226.296299",
+        "reply_users": [
+            "U042GV737MX"
+        ],
+        "replies": [
+            {
+                "user": "U042GV737MX",
+                "ts": "1748851226.296299"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:7335183505280184321\/",
+                "image_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/D4E22AQGrt3E42nRaRw\/feedshare-shrink_800\/B4EZcvOg8iH0Ag-\/0\/1748844027520?e=2147483647&v=beta&t=w5NLSTUMn3V_J0q0pkPgh8CMYySD8vrArV_3FGrYBOc",
+                "image_width": 800,
+                "image_height": 559,
+                "image_bytes": 74647,
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:7335183505280184321\/",
+                "fallback": "#vivatech2025 | Yannig Roth",
+                "text": ":spiral_calendar_pad: Will you attend #Vivatech2025 ?\n\nIf yes, join us at the Exec Arena, on Friday June 13th (3:00 PM CET).\n\nThe TechMarketingLeaders community will share&amp;quot;Marketing Successes (and Fails) from French Tech Startups &amp; Unicorns&amp;quot;\n\nWe will share how Alan leverages AI in marketing, Contentsquare&amp;#39;s blueprint for flagship events, the real story behind going international, how branding fuels Growth…\n\nExpect high-impact insights, actionable takeaways, and a few epic fails (just try not to take those home with you)",
+                "title": "#vivatech2025 | Yannig Roth",
+                "title_link": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:7335183505280184321\/",
+                "service_name": "linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7YDsw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, l'équipe étendue de "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C06GD6ME5CM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sera à VivaTech dans 10 jours. N'hésitez pas à liker ou partager "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:7335183505280184321\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U063A8VPPG9",
+                    "U08HF5YQM6G",
+                    "U06CZESF7QF",
+                    "U04SM1RGPJB",
+                    "U020QK16RMJ",
+                    "U07BLPPL3C1",
+                    "U03P99RGMTN",
+                    "U017CURDPB5",
+                    "U017H09S857"
+                ],
+                "count": 9
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U04CW99BP3Q"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U067GNGDATD"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "user": "U01MVJPEEH3",
+        "type": "message",
+        "ts": "1750658982.791329",
+        "client_msg_id": "76C5D0B7-53B5-4C13-9318-BCDA095FD194",
+        "text": "Hello,\nPour un projet similaire, on avait trouvé une alternative entre 100% in house (très chronophage) et externalisation Yougov (assez coûteux): passer par une JE. On leur avait fourni le listing comme ça on était sûr de la qualité de la base et ils ont fait les relances tel, ne serait ce que pour expliquer le projet et demander de répondre à l'<http:\/\/%C3%A9crit.|écrit><http:\/\/%C3%A9crit.|.> Ça avait bien fonctionné ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4a6a5004b64",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-06\/9627187901735_b4a6a5004b643abc6bec_72.png",
+            "first_name": "Camille",
+            "real_name": "Camille Moreau",
+            "display_name": "Camille Moreau (Mantu)",
+            "team": "T017AGS2KE0",
+            "name": "camille.moreau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750439275.763999",
+        "parent_user_id": "U065DFPCQMP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tlUqi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello,\nPour un projet similaire, on avait trouvé une alternative entre 100% in house (très chronophage) et externalisation Yougov (assez coûteux): passer par une JE. On leur avait fourni le listing comme ça on était sûr de la qualité de la base et ils ont fait les relances tel, ne serait ce que pour expliquer le projet et demander de répondre à l'"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/%C3%A9crit.",
+                                "text": "écrit"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/%C3%A9crit.",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Ça avait bien fonctionné "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U03P99RGMTN",
+                    "U065DFPCQMP",
+                    "U06LENY5V6Z"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

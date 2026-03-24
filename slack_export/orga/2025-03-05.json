@@ -1,0 +1,236 @@
+[
+    {
+        "user": "U086LFGGVUG",
+        "type": "message",
+        "ts": "1741190452.408229",
+        "client_msg_id": "a4776590-06ca-4f13-b5d0-dcff73ed12ce",
+        "text": "hello !\nj'ai une question sur le rôle de partnerships manager (focus ++ apport d'affaires, prescripteurs)\n• avez-vous ce type de rôle dans vos teams? \/ ou plutôt rattaché Sales (ou autre!?)\n• rémunération variable (par exemple sur l'ARR de pipe apporté): yes \/ no ?\nMerciii pour votre aide toujours précieuse :gem:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "8037084d031e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-01-03\/8241041927621_8037084d031e372f4d94_72.jpg",
+            "first_name": "Laura",
+            "real_name": "Laura Silva",
+            "display_name": "Laura Silva",
+            "team": "T017AGS2KE0",
+            "name": "laura.silva",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741190452.408229",
+        "reply_count": 6,
+        "reply_users_count": 6,
+        "latest_reply": "1742540023.344099",
+        "reply_users": [
+            "U06MLNEGNKB",
+            "U04HP95GK55",
+            "U069NSTHZ3Q",
+            "U01789XN2UV",
+            "U04L35Y9D08",
+            "U0859A8P14K"
+        ],
+        "replies": [
+            {
+                "user": "U06MLNEGNKB",
+                "ts": "1741194993.726879"
+            },
+            {
+                "user": "U04HP95GK55",
+                "ts": "1741205816.904289"
+            },
+            {
+                "user": "U069NSTHZ3Q",
+                "ts": "1741255823.215819"
+            },
+            {
+                "user": "U01789XN2UV",
+                "ts": "1741262190.938819"
+            },
+            {
+                "user": "U04L35Y9D08",
+                "ts": "1741686982.659869"
+            },
+            {
+                "user": "U0859A8P14K",
+                "ts": "1742540023.344099"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "of1lj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello !\nj'ai une question sur le rôle de partnerships manager (focus ++ apport d'affaires, prescripteurs)\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "avez-vous ce type de rôle dans vos teams? \/ ou plutôt rattaché Sales (ou autre!?)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "rémunération variable (par exemple sur l'ARR de pipe apporté): yes \/ no ?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nMerciii pour votre aide toujours précieuse "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "gem",
+                                "unicode": "1f48e"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06MLNEGNKB",
+        "type": "message",
+        "ts": "1741194993.726879",
+        "client_msg_id": "540690a3-a43b-4c34-93ef-746ce6ae7809",
+        "text": "Ce type de contrat est côté Sales. La rém est fixe (50 % à la signature et 50 % 6 mois plus tard)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9484de19a0b4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-25\/7476258473346_9484de19a0b48472edf8_72.jpg",
+            "first_name": "Priscilla",
+            "real_name": "Priscilla (Memo Bank)",
+            "display_name": "Priscilla (Memo Bank)",
+            "team": "T017AGS2KE0",
+            "name": "priscilla.cavrois",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741190452.408229",
+        "parent_user_id": "U086LFGGVUG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6AB1P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ce type de contrat est côté Sales. La rém est fixe (50 % à la signature et 50 % 6 mois plus tard)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U086LFGGVUG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04HP95GK55",
+        "type": "message",
+        "ts": "1741205816.904289",
+        "client_msg_id": "D9BE8DEA-82D0-4954-93A2-54D0A67FF069",
+        "text": "• Côté sales aussi de mon côté (mais je gère aussi les sales). Elle a commencé en marketing, donc les deux fonctionnent.\n• Rémunération variable avec un % du CA réalisé   ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c346c82c7f22",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-06\/6302019761282_c346c82c7f22a623d69d_72.jpg",
+            "first_name": "Raphael",
+            "real_name": "Raphael Dardek",
+            "display_name": "Raphael (Kyka)",
+            "team": "T017AGS2KE0",
+            "name": "rdardek",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741190452.408229",
+        "parent_user_id": "U086LFGGVUG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6bniK",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Côté sales aussi de mon côté (mais je gère aussi les sales). Elle a commencé en marketing, donc les deux fonctionnent."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Rémunération variable avec un % du CA réalisé   "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U086LFGGVUG"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

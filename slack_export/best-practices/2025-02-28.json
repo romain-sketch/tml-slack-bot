@@ -1,0 +1,431 @@
+[
+    {
+        "user": "U017RAZCAGZ",
+        "type": "message",
+        "ts": "1740749206.221569",
+        "client_msg_id": "1c879306-6ab3-4e10-9a85-f79f5819420a",
+        "text": "Hello, on lance un projet de repositionnement de Phenix \/ réévaluation de notre plateforme de marque. Pas forcément envie de travailler avec une grosse agence lourde et compliquée, plutôt avec un free qui pourrait nous challenger. Avez-vous des recos ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2e6e61c8f204",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-20\/1251040887619_2e6e61c8f20434050630_72.jpg",
+            "first_name": "Hélène",
+            "real_name": "Hélène Draoulec (Phenix)",
+            "display_name": "Hélène Draoulec (Phenix)",
+            "team": "T017AGS2KE0",
+            "name": "hdraoulec",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740749206.221569",
+        "reply_count": 6,
+        "reply_users_count": 5,
+        "latest_reply": "1740766136.730929",
+        "reply_users": [
+            "U0183AS3MB6",
+            "U04L04T475K",
+            "U063A8VPPG9",
+            "U07MNBM4WLV",
+            "U02N2EVMFCG"
+        ],
+        "replies": [
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1740750815.287169"
+            },
+            {
+                "user": "U04L04T475K",
+                "ts": "1740751246.945369"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1740751733.117859"
+            },
+            {
+                "user": "U07MNBM4WLV",
+                "ts": "1740753910.870399"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1740766019.376709"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1740766136.730929"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N9mu4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, on lance un projet de repositionnement de Phenix \/ réévaluation de notre plateforme de marque. Pas forcément envie de travailler avec une grosse agence lourde et compliquée, plutôt avec un free qui pourrait nous challenger. Avez-vous des recos ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1740750815.287169",
+        "client_msg_id": "ab02cf9a-c40f-4e7c-9f50-06a6c9160190",
+        "text": "<@U04L04T475K> :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740749206.221569",
+        "parent_user_id": "U017RAZCAGZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OLTlL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04L04T475K"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02N2EVMFCG",
+                    "U06DYTRDLUD"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U04L04T475K",
+        "type": "message",
+        "ts": "1740751246.945369",
+        "client_msg_id": "43c83177-7281-45e9-861a-8e7572ccbc3d",
+        "text": "hééé oui c'est ma spécialité ça! Je t'écris en privé Hélène :wink: .\nMerci Jordan !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "992240f01962",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4685704045204_992240f019622b6b0af8_72.jpg",
+            "first_name": "Antoine",
+            "real_name": "Antoine Yahia Cherif",
+            "display_name": "Antoine Yahia Cherif",
+            "team": "T017AGS2KE0",
+            "name": "antoine.yc008",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740749206.221569",
+        "parent_user_id": "U017RAZCAGZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JtzPx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hééé oui c'est ma spécialité ça! Je t'écris en privé Hélène "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            },
+                            {
+                                "type": "text",
+                                "text": " .\nMerci Jordan !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1740751733.117859",
+        "client_msg_id": "4E767971-036A-495D-B45D-697A93C33F60",
+        "text": "<@U017RAZCAGZ> je recommande <@U04L04T475K> à fond ! Il nous a aidé à faire tout ça chez PayFit puis l’implémentation! ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740749206.221569",
+        "parent_user_id": "U017RAZCAGZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+gCfE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U017RAZCAGZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je recommande "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04L04T475K"
+                            },
+                            {
+                                "type": "text",
+                                "text": " à fond ! Il nous a aidé à faire tout ça chez PayFit puis "
+                            },
+                            {
+                                "type": "text",
+                                "text": "l’implément"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ation! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04L04T475K",
+                    "U06DYTRDLUD"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U07MNBM4WLV",
+        "type": "message",
+        "ts": "1740753910.870399",
+        "client_msg_id": "80e400a3-6d1b-4e1e-8368-9ee7191a2978",
+        "text": "<https:\/\/www.linkedin.com\/in\/carolinepandraud\/|Caroline de SOUL>, trop forte sur ces sujets, elle avait fait un très bon taf sur Playplay.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "028ce63b55be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7733128030774_028ce63b55be29945d4f_72.jpg",
+            "first_name": "Domitille",
+            "real_name": "Domitille de Saint-Exupéry",
+            "display_name": "Domitille de Saint-Exupéry (lemlist)",
+            "team": "T017AGS2KE0",
+            "name": "domitille433",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740749206.221569",
+        "parent_user_id": "U017RAZCAGZ",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/carolinepandraud\/",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "thumb_url": "https:\/\/static.licdn.com\/scds\/common\/u\/images\/email\/artdeco\/logos\/96\/linkedin-bug-color.png",
+                "thumb_width": 96,
+                "thumb_height": 96,
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/carolinepandraud\/",
+                "fallback": "Caroline Pandraud-Durand - SOUL Narrative Studio | LinkedIn",
+                "text": "I build strategic narratives for tech leaders, with a focus on B2B AI and software. · Experience: SOUL Narrative Studio · Education: ESSEC Business School Paris · Location: Paris · 500+ connections on LinkedIn. View Caroline Pandraud-Durand’s profile on LinkedIn, a professional community of 1 billion members.",
+                "title": "Caroline Pandraud-Durand - SOUL Narrative Studio | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/carolinepandraud\/",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1j91d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/carolinepandraud\/",
+                                "text": "Caroline de SOUL"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", trop forte sur ces sujets, elle avait fait un très bon taf sur Playplay."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1740766019.376709",
+        "client_msg_id": "50aa1309-ebc7-4838-86e6-59d12f955ca5",
+        "text": "Go pour <@U04L04T475K>!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740749206.221569",
+        "parent_user_id": "U017RAZCAGZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8k\/Mc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Go pour "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04L04T475K"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1740766136.730929",
+        "client_msg_id": "9f734d8c-f8e4-466e-88de-5bf92535da97",
+        "text": "J'ai aussi eu de super echos sur Caroline, évidemment, et j'ai récemment rencontré <https:\/\/www.linkedin.com\/in\/benedicteelnemerstrategiemarquecommunicationdircomexternaliseefreelanceevenementiel\/?originalSubdomain=fr|Bénédicte> qui fait ça. Mais je n'ai encore travaillé avec aucune de ces marketeuses",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740749206.221569",
+        "parent_user_id": "U017RAZCAGZ",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/benedicteelnemerstrategiemarquecommunicationdircomexternaliseefreelanceevenementiel\/?originalSubdomain=fr",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "thumb_url": "https:\/\/static.licdn.com\/scds\/common\/u\/images\/email\/artdeco\/logos\/96\/linkedin-bug-color.png",
+                "thumb_width": 96,
+                "thumb_height": 96,
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/benedicteelnemerstrategiemarquecommunicationdircomexternaliseefreelanceevenementiel\/?originalSubdomain=fr",
+                "fallback": "Bénédicte El Nemer - Belnem Communication | LinkedIn",
+                "text": "Belnem Communication est née d’une conviction forte : trop de dirigeants sous-estiment l’impact d’une communication claire et stratégique sur leur succès.\n\nAprès 20 ans dans des secteurs exigeants, j’ai voulu offrir aux chefs d&amp;#39;entreprise un accompagnement sur mesure pour valoriser leur expertise, fédérer leurs équipes et atteindre leurs objectifs tout en leur permettant de rester concentrés sur leur cœur de métier.\n\n​Mon objectif : transformer votre communication en un levier puissant, rentable et durable qui reflète votre vision et engage vos publics.\n\nMon expérience en tant que Directrice Communication en entreprise m&amp;#39;a permis de piloter avec succès des projets d&amp;#39;envergure et de coordonner des campagnes de communication efficaces. \n\nJe m&amp;#39;attache à analyser les résultats pour guider mes actions avec agilité et viser une performance accrue, en collaboration étroite avec les acteurs clés. · Expérience : Belnem Communication · Formation : CELSA - Ecole des hautes études en sciences de l&amp;#39;information et de la communication · Lieu : Cabriès · 500 relations ou plus sur LinkedIn. Consultez le profil de Bénédicte El Nemer sur LinkedIn, une communauté professionnelle d’un milliard de membres.",
+                "title": "Bénédicte El Nemer - Belnem Communication | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/benedicteelnemerstrategiemarquecommunicationdircomexternaliseefreelanceevenementiel\/?originalSubdomain=fr",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hcbOD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai aussi eu de super echos sur Caroline, évidemment, et j'ai récemment rencontré "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/benedicteelnemerstrategiemarquecommunicationdircomexternaliseefreelanceevenementiel\/?originalSubdomain=fr",
+                                "text": "Bénédicte"
+                            },
+                            {
+                                "type": "text",
+                                "text": " qui fait ça. Mais je n'ai encore travaillé avec aucune de ces marketeuses"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

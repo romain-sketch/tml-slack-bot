@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1737626346.580429",
+        "client_msg_id": "13de0f28-6242-4c9d-87fc-185730dcf6af",
+        "text": "On ne va pas renouveler après les 12 mois normalement.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737563888.780929",
+        "parent_user_id": "U08300D2NJY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yu3df",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On ne va pas renouveler après les 12 mois normalement."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U08300D2NJY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

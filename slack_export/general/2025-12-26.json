@@ -1,0 +1,82 @@
+[
+    {
+        "user": "U020QK16RMJ",
+        "type": "message",
+        "ts": "1766739148.170359",
+        "client_msg_id": "d8e87e46-87bc-43ee-aac2-b33712a168b5",
+        "text": "Tellement drôle et cringe à la fois. Il me stresse le Bojan",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "56d8a678e801",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-18\/7292097443269_56d8a678e801350db84a_72.png",
+            "first_name": "Joël",
+            "real_name": "Joël Gaudeul",
+            "display_name": "Joël (Swan)",
+            "team": "T017AGS2KE0",
+            "name": "joel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1766593862.117299",
+        "parent_user_id": "U065DFPCQMP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "67rxq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tellement drôle et cringe à la fois. Il me stresse le Bojan"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07BLPPL3C1",
+        "type": "message",
+        "ts": "1766742198.415479",
+        "client_msg_id": "aec3175e-b81a-4e2a-a7b3-fc282dbf0de4",
+        "text": "Prochaine masterclass organisée par Bojan ? A commencer par une petite médiation sur le tapis de Yoga",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a188c365467d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-16\/7728349993798_a188c365467d3e63d25d_72.jpg",
+            "first_name": "Esther",
+            "real_name": "Esther Daga",
+            "display_name": "Esther Daga (Powell)",
+            "team": "T017AGS2KE0",
+            "name": "estherdaga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1766593862.117299",
+        "parent_user_id": "U065DFPCQMP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QnNNz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Prochaine masterclass organisée par Bojan ? A commencer par une petite médiation sur le tapis de Yoga"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

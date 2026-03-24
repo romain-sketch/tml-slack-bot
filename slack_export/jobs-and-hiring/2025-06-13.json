@@ -1,0 +1,82 @@
+[
+    {
+        "user": "U04L04T475K",
+        "type": "message",
+        "ts": "1749821668.262679",
+        "client_msg_id": "EA343747-E7F5-4E99-93FC-9728F541513E",
+        "text": "Salut Mégane ! Pas ouvert au part Time ? :D ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "992240f01962",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4685704045204_992240f019622b6b0af8_72.jpg",
+            "first_name": "Antoine",
+            "real_name": "Antoine Yahia Cherif",
+            "display_name": "Antoine Yahia Cherif",
+            "team": "T017AGS2KE0",
+            "name": "antoine.yc008",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749051204.389499",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CigrP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salut Mégane ! Pas ouvert au part Time ? :D "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1749826529.506409",
+        "client_msg_id": "6C2B2B95-F30C-49C3-BCD6-F0E64688FEF9",
+        "text": "Hello ! Non full time !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749051204.389499",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vMXWx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello ! Non full time !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

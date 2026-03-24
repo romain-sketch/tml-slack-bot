@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U03CY07UZJM",
+        "type": "message",
+        "ts": "1740922585.349029",
+        "client_msg_id": "265443b9-57d8-4dd0-9464-d04b851b71dc",
+        "text": "Vachement intéressant, merci Paul!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "cf1b09b1a910",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-02\/6894190939717_cf1b09b1a910eb11be75_72.jpg",
+            "first_name": "Patrice",
+            "real_name": "Patrice Barbesier",
+            "display_name": "Patrice Barbesier",
+            "team": "T017AGS2KE0",
+            "name": "patrice.barbesier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740038547.777839",
+        "parent_user_id": "U03CY07UZJM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7vGwv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Vachement intéressant, merci Paul!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

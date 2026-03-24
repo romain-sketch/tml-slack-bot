@@ -1,0 +1,325 @@
+[
+    {
+        "user": "U04TU0UA2R1",
+        "type": "message",
+        "ts": "1751374302.630869",
+        "client_msg_id": "ff2bb8b4-dc92-466a-8410-2cbe00d44ce8",
+        "text": "*Salaire content manager junior ?*\n\nHello :wave:\n\nOn travaille actuellement sur nos grilles salariales et j'ai un doute sur comment calibrer le job de \"Content manager\" qui chez nous est un job très axé sur de la production de vidéos et n'intègre pas la partie rédaction SEO.\n\n:point_right: *Question pour vous : c'est quoi le salaire d'un content manager chez vous ? notamment pour des profils juniors 0-3 ans d'XP ?*\n\nPour notre calibrage on utilise Figures (:raised_hands: <@U078PFP7A4B>) mais sur le dataset \"Content Manager\" j'ai un résultat que je trouve très bizarre.\nJ'ai donc voulu le décortiquer par localisation et je trouve quelque chose d'assez suprenant.\n• si je prends `Lyon + Nantes + Paris + remote` j'ai une fourchette qui va de 37K€ en junior à 57K€ en senior ce qui me semble cohérent avec le marché\n• si je prends `Other` j'ai un résultat hyper bizarre avec un salaire junior à 25K€ (!) ce qui me semble très en dessous de la réalité du marché\nDu coup mon intuition c'est que dans `Other` il doit y avoir une boîte qui recrute énormément de profils juniors au lance pierre et que du coup ça fuck up le dataset mais malheureusement je n'arrive pas à avoir plus d'infos sur le dataset.\n\n:point_right: *Question spécifique pour toi <@U078PFP7A4B> : est ce que sur Figures on a moyen d'avoir plus de données précision sur le dataset ?*  Si tu es dispo pour regarder le sujet en MP je suis très chaud car ça peut m'aider à aligner mes RH \/ ma direction sur le bon niveau de salaire pour ce job.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2349ebc07255",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-15\/4939175993079_2349ebc07255c4ecc3fc_72.jpg",
+            "first_name": "Adrien",
+            "real_name": "Adrien Le Roy",
+            "display_name": "Adrien Le Roy (Indy)",
+            "team": "T017AGS2KE0",
+            "name": "adrien.le.roy2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1751374302.630869",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1751380422.633629",
+        "reply_users": [
+            "U078PFP7A4B",
+            "U08PLD4KPS8"
+        ],
+        "replies": [
+            {
+                "user": "U078PFP7A4B",
+                "ts": "1751374621.571779"
+            },
+            {
+                "user": "U08PLD4KPS8",
+                "ts": "1751380422.633629"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fYalb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salaire content manager junior ?",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nHello "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nOn travaille actuellement sur nos grilles salariales et j'ai un doute sur comment calibrer le job de \"Content manager\" qui chez nous est un job très axé sur de la production de vidéos et n'intègre pas la partie rédaction SEO.\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_right",
+                                "unicode": "1f449",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Question pour vous : c'est quoi le salaire d'un content manager chez vous ? notamment pour des profils juniors 0-3 ans d'XP ?",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nPour notre calibrage on utilise Figures ("
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "unicode": "1f64c"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U078PFP7A4B"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") mais sur le dataset \"Content Manager\" j'ai un résultat que je trouve très bizarre.\nJ'ai donc voulu le décortiquer par localisation et je trouve quelque chose d'assez suprenant.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "si je prends "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Lyon + Nantes + Paris + remote",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " j'ai une fourchette qui va de 37K€ en junior à 57K€ en senior ce qui me semble cohérent avec le marché"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "si je prends "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Other",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " j'ai un résultat hyper bizarre avec un salaire junior à 25K€ (!) ce qui me semble très en dessous de la réalité du marché"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Du coup mon intuition c'est que dans "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Other",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " il doit y avoir une boîte qui recrute énormément de profils juniors au lance pierre et que du coup ça fuck up le dataset mais malheureusement je n'arrive pas à avoir plus d'infos sur le dataset.\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_right",
+                                "unicode": "1f449",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Question spécifique pour toi ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U078PFP7A4B",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " : est ce que sur Figures on a moyen d'avoir plus de données précision sur le dataset ?",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "  Si tu es dispo pour regarder le sujet en MP je suis très chaud car ça peut m'aider à aligner mes RH \/ ma direction sur le bon niveau de salaire pour ce job."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1751374621.571779",
+        "client_msg_id": "b598048d-e3df-402a-b9af-d20497dd9e67",
+        "text": "Hello Adrien,\n\nRavie de voir que vous utilisez Figures :clap:\nJe viens te voir en MP :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1751374302.630869",
+        "parent_user_id": "U04TU0UA2R1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qNZNK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Adrien,\n\nRavie de voir que vous utilisez Figures "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "clap",
+                                "unicode": "1f44f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nJe viens te voir en MP "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04TU0UA2R1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U08PLD4KPS8",
+        "type": "message",
+        "ts": "1751380422.633629",
+        "client_msg_id": "9e88e6ff-54a5-43da-acab-c2f9dd17f8b0",
+        "text": "Hello Adrien,\nJe confirme que le 25K est un \"outlier\".\nPour la grille content manager, je pense que 57K c'est un peu bas sur les profils senior (pas un souci pour vous puisque tu cherches un junior), notamment profils natifs bilingues.  Mais bon, c'est un domaine très secoué en ce moment avec les TJMs des free qui s'effondrent donc cela se reflète peut-être dans les salaires en CDI...",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ed1e5a6e17a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-15\/8903493241218_7ed1e5a6e17a9b117971_72.jpg",
+            "first_name": "Ségolène",
+            "real_name": "Ségolène Finet",
+            "display_name": "Ségolène Finet",
+            "team": "T017AGS2KE0",
+            "name": "finetsegolene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1751374302.630869",
+        "parent_user_id": "U04TU0UA2R1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xT81s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Adrien,\nJe confirme que le 25K est un \"outlier\".\nPour la grille content manager, je pense que 57K c'est un peu bas sur les profils senior (pas un souci pour vous puisque tu cherches un junior), notamment profils natifs bilingues.  Mais bon, c'est un domaine très secoué en ce moment avec les TJMs des free qui s'effondrent donc cela se reflète peut-être dans les salaires en CDI..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04TU0UA2R1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "user": "U06U1GG592M",
+        "type": "message",
+        "ts": "1736584451.824669",
+        "client_msg_id": "17ED658E-D692-4244-AC34-8E98335DB72E",
+        "text": "Hello :wave::skin-tone-3:  trop bien Yes je peux le 17 janvier et lundi 20 janvier ! ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "84a1e781f35c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-31\/7202740482978_84a1e781f35c228ca958_72.jpg",
+            "first_name": "Carolane",
+            "real_name": "Carolane Guyon",
+            "display_name": "Carolane (Veesion)",
+            "team": "T017AGS2KE0",
+            "name": "c.guyon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1733246670.981899",
+        "parent_user_id": "U06U1GG592M",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4PCH5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b-1f3fc",
+                                "skin_tone": 3
+                            },
+                            {
+                                "type": "text",
+                                "text": "  trop bien Yes je peux le 17 janvier et lundi 20 janvier ! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

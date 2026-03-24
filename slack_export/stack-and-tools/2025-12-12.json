@@ -1,0 +1,83 @@
+[
+    {
+        "user": "U08V1NE4BUJ",
+        "type": "message",
+        "ts": "1765534246.268099",
+        "client_msg_id": "7b597a2d-11b1-4071-82f5-155c5893a2bb",
+        "text": "Agence 1600, rapport qualité\/prix\/accompagnement très très fort. Voici leur réal pour Fundora\n\n<https:\/\/youtu.be\/ZjTyCTOnUEM>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "3654a4fc5d4e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-02\/8999698350033_3654a4fc5d4e25a0a92c_72.jpg",
+            "first_name": "Alan",
+            "real_name": "Alan Huet (Fundora)",
+            "display_name": "Alan HUET",
+            "team": "T017AGS2KE0",
+            "name": "alan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1765471012.988769",
+        "parent_user_id": "U092U6UDLMN",
+        "attachments": [
+            {
+                "from_url": "https:\/\/youtu.be\/ZjTyCTOnUEM",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/ZjTyCTOnUEM\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/ZjTyCTOnUEM?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Fundora : les fonds s&#39;ouvrent enfin à vous.\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/ZjTyCTOnUEM",
+                "fallback": "YouTube Video: Fundora : les fonds s'ouvrent enfin à vous.",
+                "title": "Fundora : les fonds s'ouvrent enfin à vous.",
+                "title_link": "https:\/\/youtu.be\/ZjTyCTOnUEM",
+                "author_name": "Fundora",
+                "author_link": "https:\/\/www.youtube.com\/@Fundoraclub",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tuFYT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Agence 1600, rapport qualité\/prix\/accompagnement très très fort. Voici leur réal pour Fundora\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/ZjTyCTOnUEM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U092U6UDLMN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0A2RBDS1E3",
+        "text": "<@U0A2RBDS1E3> has joined the channel",
+        "type": "message",
+        "ts": "1765548546.405729"
+    }
+]

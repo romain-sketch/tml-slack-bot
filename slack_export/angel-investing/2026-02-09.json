@@ -1,0 +1,120 @@
+[
+    {
+        "user": "U09BVQYR1GA",
+        "type": "message",
+        "ts": "1770626664.777699",
+        "client_msg_id": "71c55785-a4cd-4e72-b86d-481f681cea40",
+        "text": "Moi je suis aussi interessée par ce sujet. voici un podcast que Jordana avait partagé avec moi dans un autre thread il y aquelques semaines. Épisode <https:\/\/youtu.be\/dr_pTrEcB2I|ici sur Youtube> ou <https:\/\/smartlink.ausha.co\/conquete-jordan-chenevier|ici sur les plateformes.> Il est lié à ton sujet <@U0946E8A2US> mais pas 100% je crois\n\n<@U01789XN2UV> <@U0946E8A2US> cela m'intéresserait de faire un call pour que Adrien tu nous racontes plus.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0ee28ebc77d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-09-09\/9480262349955_0ee28ebc77d7f64eb0e1_72.png",
+            "first_name": "Tania",
+            "real_name": "Tania",
+            "display_name": "Tania",
+            "team": "T017AGS2KE0",
+            "name": "tsaezgrowth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770407321.685579",
+        "parent_user_id": "U0946E8A2US",
+        "attachments": [
+            {
+                "from_url": "https:\/\/youtu.be\/dr_pTrEcB2I",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/dr_pTrEcB2I\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/dr_pTrEcB2I?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"L’advisor derrière Zapier Reddit, Ramp &amp; G2 - (Guillaume Cabane, Growth Partner) Conquête #83\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/dr_pTrEcB2I",
+                "fallback": "YouTube Video: L’advisor derrière Zapier Reddit, Ramp & G2 - (Guillaume Cabane, Growth Partner) Conquête #83",
+                "title": "L’advisor derrière Zapier Reddit, Ramp &amp; G2 - (Guillaume Cabane, Growth Partner) Conquête #83",
+                "title_link": "https:\/\/youtu.be\/dr_pTrEcB2I",
+                "author_name": "Bulldozer [FR]",
+                "author_link": "https:\/\/www.youtube.com\/@bulldozer-collective-fr",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            },
+            {
+                "image_url": "https:\/\/image.ausha.co\/ono9KGprd93XvWiD0S9dwhLAj5iW75RlyzdtqxYR_400x400.jpeg",
+                "image_width": 400,
+                "image_height": 400,
+                "image_bytes": 41155,
+                "from_url": "https:\/\/smartlink.ausha.co\/conquete-jordan-chenevier",
+                "service_icon": "https:\/\/image.ausha.co\/ono9KGprd93XvWiD0S9dwhLAj5iW75RlyzdtqxYR_400x400.jpeg",
+                "id": 2,
+                "original_url": "https:\/\/smartlink.ausha.co\/conquete-jordan-chenevier",
+                "fallback": "Conquête",
+                "text": "Dans Conquête, Jordan (CEO @ Bulldozer) invite des experts en Marketing et Growth pour parler de ce qu'ils font de mieux. On aborde leurs stratégies, leurs méthodes, leur organisation, etc.\nHébergé par Ausha. Visitez <http:\/\/ausha.co\/fr\/politique-de-confidentialite|ausha.co\/fr\/politique-de-confidentialite> pour plus d'informations.",
+                "title": "Conquête",
+                "title_link": "https:\/\/smartlink.ausha.co\/conquete-jordan-chenevier",
+                "service_name": "smartlink.ausha.co"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PZSzY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Moi je suis aussi interessée par ce sujet. voici un podcast que Jordana avait partagé avec moi dans un autre thread il y aquelques semaines. Épisode "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/dr_pTrEcB2I",
+                                "text": "ici sur Youtube"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ou "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/smartlink.ausha.co\/conquete-jordan-chenevier",
+                                "text": "ici sur les plateformes."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Il est lié à ton sujet "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0946E8A2US"
+                            },
+                            {
+                                "type": "text",
+                                "text": " mais pas 100% je crois\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01789XN2UV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0946E8A2US"
+                            },
+                            {
+                                "type": "text",
+                                "text": " cela m'intéresserait de faire un call pour que Adrien tu nous racontes plus."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

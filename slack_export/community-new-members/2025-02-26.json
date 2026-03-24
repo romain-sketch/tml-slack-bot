@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U042GV737MX",
+        "type": "message",
+        "ts": "1740597593.727729",
+        "client_msg_id": "8c4965b2-f1f6-4444-803d-9a2591b164e8",
+        "text": "Welcome !!!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "477225f2b12e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4077716786404_477225f2b12eccc47dc4_72.png",
+            "first_name": "Claire",
+            "real_name": "Claire Chauvallon",
+            "display_name": "Claire Chauvallon",
+            "team": "T017AGS2KE0",
+            "name": "chauvallon.claire",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740390076.338299",
+        "parent_user_id": "U08EN5GRYCC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xraIZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome !!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U08EN5GRYCC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

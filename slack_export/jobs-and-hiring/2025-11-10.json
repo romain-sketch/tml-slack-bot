@@ -1,0 +1,209 @@
+[
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1762766509.243189",
+        "client_msg_id": "6fe208f7-ae25-4b4d-8490-c51f32fc6c62",
+        "text": "les offres off-market :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gGPhP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "les offres off-market "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1762766517.439039",
+        "client_msg_id": "5e202bc5-c247-4390-b8d1-3424bbcb24a8",
+        "text": "tu vas bientot pouvoir faire de l'immobilier!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762766517.439039",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1762772322.370589",
+        "reply_users": [
+            "U063A8VPPG9",
+            "U084KTR7YKX"
+        ],
+        "replies": [
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1762768509.147539"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1762772322.370589"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Aon1q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tu vas bientot pouvoir faire de l'immobilier!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U06DYTRDLUD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1762768509.147539",
+        "client_msg_id": "F9174EC4-C525-437C-BB26-049AE4200CBC",
+        "text": "J y songe ahahah!!!! ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762766517.439039",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c8t4n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J y songe ahahah!!!! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1762772322.370589",
+        "client_msg_id": "4ad9a6fc-4baf-410a-bc82-aee3bad671e3",
+        "text": "les Kretz version french tech",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762766517.439039",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ylmfo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "les Kretz version french tech"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U063A8VPPG9",
+                    "U0951RDNKU6",
+                    "U03P99RGMTN",
+                    "U07MNBM4WLV",
+                    "U08EN5GRYCC",
+                    "U025AMSNGF8",
+                    "U06TF9YAWEM",
+                    "U06DYTRDLUD",
+                    "U078PFP7A4B"
+                ],
+                "count": 9
+            }
+        ]
+    }
+]

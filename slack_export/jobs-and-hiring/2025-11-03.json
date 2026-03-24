@@ -1,0 +1,664 @@
+[
+    {
+        "user": "U08PEJM137X",
+        "type": "message",
+        "ts": "1762163933.489369",
+        "edited": {
+            "user": "U08PEJM137X",
+            "ts": "1762163961.000000"
+        },
+        "client_msg_id": "22a80798-573c-4dd0-86f3-0a7eaf8cec7a",
+        "text": "Bonjour à tous !\n\nJe suis actuellement à la recherche de ma prochaine aventure professionnelle.\n\nMon profil en quelques mots :\n• *Spécialiste CRM \/ MarTech \/ Demand Gen* \n• 10 ans d’expérience, principalement dans des environnements *tech B2B* mais aussi côté conseil pendant 3 ans\n• 7 ans passés à Londres, donc *anglais courant*.\n• Actuellement basée à *Annecy*, ouverte à l’*hybride sur Paris*.\n• Intérêt particulier pour les secteurs de la *santé* et du *sport*, mais ouverte à d’autres domaines.\nSi vous entendez parler d’un besoin ou d’un poste qui pourrait matcher, je serais ravie d’en discuter :slightly_smiling_face:\n :point_right: <https:\/\/www.linkedin.com\/in\/severineloeuille\/|Mon profil LinkedIn>\n\nMerci d’avance pour vos relais ou intros :pray:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b98ee70a24e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-24\/9792276790672_b98ee70a24e8f7089231_72.png",
+            "first_name": "Séverine",
+            "real_name": "Séverine Loeuille",
+            "display_name": "Séverine Loeuille",
+            "team": "T017AGS2KE0",
+            "name": "loeuille.severine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/severineloeuille\/",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "thumb_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/D4E03AQHr2ERR0sR4Yg\/profile-displayphoto-shrink_200_200\/profile-displayphoto-shrink_200_200\/0\/1701268981582?e=2147483647&v=beta&t=NBZRcQwIQvAJada4Fb9FmbJq_JlUF8DCGBmmcqmWUe4",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/severineloeuille\/",
+                "fallback": "Séverine Loeuille - TechMarketingLeaders | LinkedIn",
+                "text": "With over 10 years of experience in digital marketing and CRM, I have contributed to the… · Experience: TechMarketingLeaders · Location: Annecy · 500+ connections on LinkedIn. View Séverine Loeuille’s profile on LinkedIn, a professional community of 1 billion members.",
+                "title": "Séverine Loeuille - TechMarketingLeaders | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/severineloeuille\/",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PU\/b+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour à tous !\n\nJe suis actuellement à la recherche de ma prochaine aventure professionnelle.\n\nMon profil en quelques mots :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Spécialiste CRM \/ MarTech \/ Demand Gen ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "10 ans d’expérience, principalement dans des environnements "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "tech B2B",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " mais aussi côté conseil pendant 3 ans"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "7 ans passés à Londres, donc "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "anglais courant",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Actuellement basée à "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Annecy",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", ouverte à l’"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "hybride sur Paris",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Intérêt particulier pour les secteurs de la "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "santé",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " et du "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "sport",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", mais ouverte à d’autres domaines."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nSi vous entendez parler d’un besoin ou d’un poste qui pourrait matcher, je serais ravie d’en discuter "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_right",
+                                "unicode": "1f449"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/severineloeuille\/",
+                                "text": "Mon profil LinkedIn"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nMerci d’avance pour vos relais ou intros "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01A4GMRRR9",
+                    "U08EN5GRYCC",
+                    "U017RAZCAGZ",
+                    "U06DYTRDLUD"
+                ],
+                "count": 4
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U02N2EVMFCG",
+                    "U078PFP7A4B",
+                    "U06DYTRDLUD",
+                    "U03P99RGMTN"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U08PEJM137X",
+        "type": "message",
+        "ts": "1762164204.870109",
+        "client_msg_id": "aafdde69-f4da-497a-8b3d-62d1a0cce07c",
+        "text": "Merci pour le partage <@U03CY07UZJM>!\n\nSais-tu par hasard si le poste Demand Gen est ouvert au remote \/ hybride ? Ce n’est pas indiqué sur la fiche de poste. Merci d’avance !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b98ee70a24e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-24\/9792276790672_b98ee70a24e8f7089231_72.png",
+            "first_name": "Séverine",
+            "real_name": "Séverine Loeuille",
+            "display_name": "Séverine Loeuille",
+            "team": "T017AGS2KE0",
+            "name": "loeuille.severine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761906094.155779",
+        "parent_user_id": "U03CY07UZJM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YqXZL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci pour le partage "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CY07UZJM"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!\n\nSais-tu par hasard si le poste Demand Gen est ouvert au remote \/ hybride ? Ce n’est pas indiqué sur la fiche de poste. Merci d’avance !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03CY07UZJM",
+        "type": "message",
+        "ts": "1762166301.765929",
+        "client_msg_id": "3dc0a48e-ee8c-4495-9414-4c64d290d688",
+        "text": "alors non pas d'infos, désolé",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "cf1b09b1a910",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-02\/6894190939717_cf1b09b1a910eb11be75_72.jpg",
+            "first_name": "Patrice",
+            "real_name": "Patrice Barbesier",
+            "display_name": "Patrice Barbesier",
+            "team": "T017AGS2KE0",
+            "name": "patrice.barbesier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761906094.155779",
+        "parent_user_id": "U03CY07UZJM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M6c3J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "alors non pas d'infos, désolé"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1762166413.671869",
+        "client_msg_id": "abf7098b-861c-428f-8b63-ba40ec1f7ce9",
+        "text": "<@U08PEJM137X> je pense que ca se tente mais faut connaitre le marché IL, une grosse partie de l'équipe est à TLV, le reste à Paris.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761906094.155779",
+        "parent_user_id": "U03CY07UZJM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TvA7J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U08PEJM137X"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je pense que ca se tente mais faut connaitre le marché IL, une grosse partie de l'équipe est à TLV, le reste à Paris."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08PEJM137X",
+        "type": "message",
+        "ts": "1762167651.091549",
+        "client_msg_id": "92ee6317-e42c-4722-96b2-94068f2eb88f",
+        "text": "Ca marche, merci pour les infos <@U063A8VPPG9> !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b98ee70a24e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-24\/9792276790672_b98ee70a24e8f7089231_72.png",
+            "first_name": "Séverine",
+            "real_name": "Séverine Loeuille",
+            "display_name": "Séverine Loeuille",
+            "team": "T017AGS2KE0",
+            "name": "loeuille.severine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761906094.155779",
+        "parent_user_id": "U03CY07UZJM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cNc4E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ca marche, merci pour les infos "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U063A8VPPG9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07MNBM4WLV",
+        "type": "message",
+        "ts": "1762175780.729559",
+        "client_msg_id": "ec1f9076-b0a0-45ab-96c7-44973c279131",
+        "text": "Hello la team,\n\nSi vous cherchez un.e PMM mid (3-4 ans XP PMM) j'ai un candidat TRES strong pour vous.\n\nIl a fait le meilleur B-case de tous les candidats que j'ai vu sur ce rôle.\n\nMAIS... on a décidé de ne pas avancer car il a une personnalité douce et conciliante (prof de yoga...) alors que chez lemlist on a des gros caractères sur tous les rôles adjacents (PM, Growth, Sales...).\nEt on a eu peur qu'il se fasse un peu manger.\n\nMais honnêtement, c'est le \"no go\" le plus dur que j'ai eu à donner à un candidat.\nDans mon ancienne boite je l'aurais recruté les yeux fermés par exemple.\n\nJe peux pas vous partager son profil là car son employeur ne sait pas qu'il cherche.\n\nMais si vous êtes intéressés dites moi en MP et je vous fais une intro.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "028ce63b55be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7733128030774_028ce63b55be29945d4f_72.jpg",
+            "first_name": "Domitille",
+            "real_name": "Domitille de Saint-Exupéry",
+            "display_name": "Domitille de Saint-Exupéry (lemlist)",
+            "team": "T017AGS2KE0",
+            "name": "domitille433",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762175780.729559",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1762245336.235469",
+        "reply_users": [
+            "U01A4GMRRR9",
+            "U02N2EVMFCG",
+            "U069NSTHZ3Q",
+            "U063Q1LA69W"
+        ],
+        "replies": [
+            {
+                "user": "U01A4GMRRR9",
+                "ts": "1762176481.717749"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1762178014.972969"
+            },
+            {
+                "user": "U069NSTHZ3Q",
+                "ts": "1762188399.448569"
+            },
+            {
+                "user": "U063Q1LA69W",
+                "ts": "1762245336.235469"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aoO\/S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello la team,\n\nSi vous cherchez un.e PMM mid (3-4 ans XP PMM) j'ai un candidat TRES strong pour vous.\n\nIl a fait le meilleur B-case de tous les candidats que j'ai vu sur ce rôle.\n\nMAIS... on a décidé de ne pas avancer car il a une personnalité douce et conciliante (prof de yoga...) alors que chez lemlist on a des gros caractères sur tous les rôles adjacents (PM, Growth, Sales...).\nEt on a eu peur qu'il se fasse un peu manger.\n\nMais honnêtement, c'est le \"no go\" le plus dur que j'ai eu à donner à un candidat.\nDans mon ancienne boite je l'aurais recruté les yeux fermés par exemple.\n\nJe peux pas vous partager son profil là car son employeur ne sait pas qu'il cherche.\n\nMais si vous êtes intéressés dites moi en MP et je vous fais une intro."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U084KTR7YKX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1762176481.717749",
+        "client_msg_id": "4f8963f4-7a99-4a72-bdf8-e1e15c76d26d",
+        "text": "Yoga Vs Hyrox...:-)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762175780.729559",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qmG6r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yoga Vs Hyrox...:-)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U09BVQYR1GA",
+                    "U07MNBM4WLV",
+                    "U06DYTRDLUD",
+                    "U084KTR7YKX"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1762178014.972969",
+        "client_msg_id": "e84bbe8f-0716-4e50-9af6-06d56e1087ca",
+        "text": "<@U069NSTHZ3Q> ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762175780.729559",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sLnIH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U069NSTHZ3Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U069NSTHZ3Q"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U069NSTHZ3Q",
+        "type": "message",
+        "ts": "1762188399.448569",
+        "client_msg_id": "b40e4021-1800-4920-879e-1c23674ef086",
+        "text": "yes, <@U07MNBM4WLV> je suis en plein process de recrutement, tu peux me l'envoyer stp?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "fbbca81fca0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-30\/7816371623809_fbbca81fca0c916c8c15_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Gannau (Oodrive)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "m.gannau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762175780.729559",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rQtxL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07MNBM4WLV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je suis en plein process de recrutement, tu peux me l'envoyer stp?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U07MNBM4WLV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

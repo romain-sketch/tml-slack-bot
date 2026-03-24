@@ -1,0 +1,1231 @@
+[
+    {
+        "user": "U06MHCCLQG3",
+        "type": "message",
+        "ts": "1768225436.136839",
+        "edited": {
+            "user": "U06MHCCLQG3",
+            "ts": "1768225444.000000"
+        },
+        "client_msg_id": "8e6cc90c-fb64-4455-8ceb-6be5cfe09444",
+        "text": "Hello à tous !\nOn réfléchit à notre stack de tracking pour mesurer l'usage de nos features product. On hésite entre Mixpanel (le classique) et Datadog (pour tout centraliser côté tech). Est-ce que certains utilisent Datadog pour du pur Product Analytics ? C’est assez fluide pour un PM ou trop rigide ?\n• Si vous aviez le choix aujourd'hui, vous partiriez sur quoi ? (Je suis preneur d'autres reco type Amplitude, June, PostHog...)\nMerci pour vos retours d'expérience ! :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c0d40ab69a35",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-02\/6731971842677_c0d40ab69a3508d4c595_72.png",
+            "first_name": "Arnaud",
+            "real_name": "Arnaud Delubac (Greenly)",
+            "display_name": "Arnaud Delubac",
+            "team": "T017AGS2KE0",
+            "name": "arnaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1768225436.136839",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1768233493.109349",
+        "reply_users": [
+            "U0177A5V42F",
+            "U055KSYA2AH",
+            "U01A4GMRRR9",
+            "U0946E8A2US"
+        ],
+        "replies": [
+            {
+                "user": "U0177A5V42F",
+                "ts": "1768225652.438559"
+            },
+            {
+                "user": "U055KSYA2AH",
+                "ts": "1768228163.806919"
+            },
+            {
+                "user": "U01A4GMRRR9",
+                "ts": "1768232320.212129"
+            },
+            {
+                "user": "U0946E8A2US",
+                "ts": "1768233493.109349"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zhq1y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello à tous !\nOn réfléchit à notre stack de tracking pour mesurer l'usage de nos features product. On hésite entre Mixpanel (le classique) et Datadog (pour tout centraliser côté tech). Est-ce que certains utilisent Datadog pour du pur Product Analytics ? C’est assez fluide pour un PM ou trop rigide ?\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Si vous aviez le choix aujourd'hui, vous partiriez sur quoi ? (Je suis preneur d'autres reco type Amplitude, June, PostHog...)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci pour vos retours d'expérience ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0177A5V42F",
+        "type": "message",
+        "ts": "1768225652.438559",
+        "client_msg_id": "1cbdb9b2-ceb4-4c10-b221-fea87aabe1fa",
+        "text": "Hello, yes on est passé chez Datadog coté PM et je suis plutot satisfait à date.\nSi tu as des questions d'usage, je peux les envoyer à mon PM !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ebca9b04129",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-17\/1245815650949_7ebca9b041296679a81d_72.jpg",
+            "first_name": "Guillaume",
+            "real_name": "Guillaume Laguette",
+            "display_name": "Guillaume Laguette (echOpen)",
+            "team": "T017AGS2KE0",
+            "name": "laguette.guillaume",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1768225436.136839",
+        "parent_user_id": "U06MHCCLQG3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g4boK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, yes on est passé chez Datadog coté PM et je suis plutot satisfait à date.\nSi tu as des questions d'usage, je peux les envoyer à mon PM !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "le buuuuuuuurn",
+        "files": [
+            {
+                "id": "F0A90SZFWEL",
+                "created": 1768227666,
+                "timestamp": 1768227666,
+                "name": "Screenshot 2026-01-12 at 15.21.04.png",
+                "title": "Screenshot 2026-01-12 at 15.21.04.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04A6JMRWCS",
+                "user_team": "T017AGS2KE0",
+                "editable": false,
+                "size": 19939,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F0A90SZFWEL\/screenshot_2026-01-12_at_15.21.04.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F0A90SZFWEL\/download\/screenshot_2026-01-12_at_15.21.04.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A90SZFWEL-c9b83d31fe\/screenshot_2026-01-12_at_15.21.04_64.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A90SZFWEL-c9b83d31fe\/screenshot_2026-01-12_at_15.21.04_80.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A90SZFWEL-c9b83d31fe\/screenshot_2026-01-12_at_15.21.04_360.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360_w": 360,
+                "thumb_360_h": 34,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A90SZFWEL-c9b83d31fe\/screenshot_2026-01-12_at_15.21.04_480.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_480_w": 480,
+                "thumb_480_h": 46,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A90SZFWEL-c9b83d31fe\/screenshot_2026-01-12_at_15.21.04_160.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A90SZFWEL-c9b83d31fe\/screenshot_2026-01-12_at_15.21.04_720.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720_w": 720,
+                "thumb_720_h": 69,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A90SZFWEL-c9b83d31fe\/screenshot_2026-01-12_at_15.21.04_800.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_800_w": 800,
+                "thumb_800_h": 76,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A90SZFWEL-c9b83d31fe\/screenshot_2026-01-12_at_15.21.04_960.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_960_w": 960,
+                "thumb_960_h": 91,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A90SZFWEL-c9b83d31fe\/screenshot_2026-01-12_at_15.21.04_1024.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 97,
+                "original_w": 1082,
+                "original_h": 103,
+                "thumb_tiny": "AwAFADDQaMkkiV1z2GD\/ADFOAIPLE+xxS0UANKkjG9h78U6iigAooooA\/9k=",
+                "permalink": "https:\/\/techmarketingleaders.slack.com\/files\/U017U6M2G00\/F0A90SZFWEL\/screenshot_2026-01-12_at_15.21.04.png",
+                "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F0A90SZFWEL-e90b834676",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04A6JMRWCS",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "edP5Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "le buuuuuuuurn"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1768227672.511579",
+        "client_msg_id": "7a8f0f86-cb19-4f27-84a0-9120665eb694",
+        "thread_ts": "1767807581.583969",
+        "parent_user_id": "U04A6JMRWCS"
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1768227945.193049",
+        "client_msg_id": "3161a1a6-2e3d-49c8-b809-ef653cdf6f10",
+        "text": "AHAHAHAHAHAHAH :joy::joy::joy:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1767807581.583969",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ajie5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "AHAHAHAHAHAHAH "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U0A0QG03DLN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1768227958.137219",
+        "client_msg_id": "8c2b1aab-6c5b-4013-895d-f01d8c1a10e0",
+        "text": "je le prends pas mal du tout. Du tout.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1767807581.583969",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yhBrn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je le prends pas mal du tout. Du tout."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U063A8VPPG9",
+                    "U0A0QG03DLN"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1768227971.435529",
+        "client_msg_id": "0be6127f-cf11-4862-810a-e62ae3a7e485",
+        "text": "C’est Snowflake qui ont gagné",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1767807581.583969",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GYn6C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C’est Snowflake qui ont gagné"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1768227978.403839",
+        "client_msg_id": "37f2f8a9-4648-40e9-a0fc-0c0dbb1c6c86",
+        "text": "(je blague hein !)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1767807581.583969",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "34F1j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(je blague hein !)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1768227986.751799",
+        "client_msg_id": "8602f7b4-9191-4789-9c4a-502b3dbb5392",
+        "text": "évidemment",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1767807581.583969",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7w7kJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "évidemment"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1768227990.783599",
+        "client_msg_id": "eade7814-c015-4c73-8698-257b3979741d",
+        "text": "(mais ça aurait été très drôle :smile: )",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1767807581.583969",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xLyHU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(mais ça aurait été très drôle "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            },
+                            {
+                                "type": "text",
+                                "text": " )"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U055KSYA2AH",
+        "type": "message",
+        "ts": "1768228163.806919",
+        "client_msg_id": "ebf6fc4d-ac0a-4698-8a85-52df12f7192f",
+        "text": "Heap (Content Square) chez nous",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "77f967801b39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-02\/5198498072658_77f967801b39b2c56563_72.png",
+            "first_name": "Olivier",
+            "real_name": "Olivier Milcent",
+            "display_name": "Olivier Milcent (DeepReach)",
+            "team": "T017AGS2KE0",
+            "name": "omilcent",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1768225436.136839",
+        "parent_user_id": "U06MHCCLQG3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yO11Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Heap (Content Square) chez nous"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Pas pour brag, mais comme tu te moquais de mon use case, na.",
+        "files": [
+            {
+                "id": "F0A84K2UBQW",
+                "created": 1768228223,
+                "timestamp": 1768228223,
+                "name": "Capture d’écran 2026-01-12 à 15.29.40.png",
+                "title": "Capture d’écran 2026-01-12 à 15.29.40.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04SM1RGPJB",
+                "user_team": "T017AGS2KE0",
+                "editable": false,
+                "size": 67625,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F0A84K2UBQW\/capture_d___e__cran_2026-01-12_a___15.29.40.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F0A84K2UBQW\/download\/capture_d___e__cran_2026-01-12_a___15.29.40.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A84K2UBQW-88a233007c\/capture_d___e__cran_2026-01-12_a___15.29.40_64.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A84K2UBQW-88a233007c\/capture_d___e__cran_2026-01-12_a___15.29.40_80.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A84K2UBQW-88a233007c\/capture_d___e__cran_2026-01-12_a___15.29.40_360.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360_w": 360,
+                "thumb_360_h": 45,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A84K2UBQW-88a233007c\/capture_d___e__cran_2026-01-12_a___15.29.40_480.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_480_w": 480,
+                "thumb_480_h": 60,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A84K2UBQW-88a233007c\/capture_d___e__cran_2026-01-12_a___15.29.40_160.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A84K2UBQW-88a233007c\/capture_d___e__cran_2026-01-12_a___15.29.40_720.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720_w": 720,
+                "thumb_720_h": 90,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A84K2UBQW-88a233007c\/capture_d___e__cran_2026-01-12_a___15.29.40_800.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_800_w": 800,
+                "thumb_800_h": 100,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A84K2UBQW-88a233007c\/capture_d___e__cran_2026-01-12_a___15.29.40_960.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_960_w": 960,
+                "thumb_960_h": 120,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A84K2UBQW-88a233007c\/capture_d___e__cran_2026-01-12_a___15.29.40_1024.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 128,
+                "original_w": 1714,
+                "original_h": 214,
+                "thumb_tiny": "AwAGADDTIB60UUUAIVVvvAHjHI7UtFFACBQAAAAB0HpQFVSSFAJ64H+fWlooA\/\/Z",
+                "permalink": "https:\/\/techmarketingleaders.slack.com\/files\/U017U6M2G00\/F0A84K2UBQW\/capture_d___e__cran_2026-01-12_a___15.29.40.png",
+                "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F0A84K2UBQW-ffe9120a7b",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04SM1RGPJB",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RFT\/R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pas pour brag, mais comme tu te moquais de mon use case, na."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1768228236.180669",
+        "client_msg_id": "c537b66f-2bf7-44b6-aeed-b1bf0d990a5d",
+        "thread_ts": "1767807581.583969",
+        "parent_user_id": "U04A6JMRWCS"
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1768228263.882509",
+        "client_msg_id": "7ac44286-4a86-4d74-a1eb-d9da06bc2b49",
+        "text": "Tssss. Je suis sûr tu as graissé la pâte des jurés",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1767807581.583969",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U81Fr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tssss. Je suis sûr tu as graissé la pâte des jurés"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1768228361.520489",
+        "client_msg_id": "81CF659B-764E-4543-A514-298F139AB0B1",
+        "text": "Ahahahha je vous kif ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1767807581.583969",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "brTkt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ahahahha je vous kif "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1768228399.193669",
+        "client_msg_id": "318f3d6f-a659-42cb-bf20-25d01efdf8c5",
+        "text": "la pâte, non, sauf si c'est du pâté de canard",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1767807581.583969",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x0Dmq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "la pâte, non, sauf si c'est du pâté de canard"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1768228461.923519",
+        "client_msg_id": "5dbc3129-0382-4943-a25a-7958291b33f5",
+        "text": "j'aurai pris du pâté de canard, Selma",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1767807581.583969",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iOnh6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "j'aurai pris du pâté de canard, Selma"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1768229310.331329",
+        "client_msg_id": "3492ff1c-4269-41cc-8740-f9c7e969dc77",
+        "text": "tu es un vrai.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1767807581.583969",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LU2HN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tu es un vrai."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1768232320.212129",
+        "client_msg_id": "6a08e5c7-dbd3-4be7-864f-e6c5d290b164",
+        "text": "<@U06MHCCLQG3> Evidement que je ne peux que te recommander Contentsquare (Heap) :slightly_smiling_face: Si tu as besoin de contact chez nous, fais moi signe !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1768225436.136839",
+        "parent_user_id": "U06MHCCLQG3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P4Y73",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06MHCCLQG3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Evidement que je ne peux que te recommander Contentsquare (Heap) "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Si tu as besoin de contact chez nous, fais moi signe !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart_hands",
+                "users": [
+                    "U06MHCCLQG3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "<@U04A6JMRWCS> on attendais ton message :slightly_smiling_face:",
+        "files": [
+            {
+                "id": "F0A80TJFK0B",
+                "created": 1768232637,
+                "timestamp": 1768232637,
+                "name": "Capture d’écran 2026-01-12 à 16.43.34.png",
+                "title": "Capture d’écran 2026-01-12 à 16.43.34.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01A4GMRRR9",
+                "user_team": "T017AGS2KE0",
+                "editable": false,
+                "size": 39164,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F0A80TJFK0B\/capture_d___e__cran_2026-01-12_a___16.43.34.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F0A80TJFK0B\/download\/capture_d___e__cran_2026-01-12_a___16.43.34.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A80TJFK0B-220d1666a5\/capture_d___e__cran_2026-01-12_a___16.43.34_64.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A80TJFK0B-220d1666a5\/capture_d___e__cran_2026-01-12_a___16.43.34_80.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A80TJFK0B-220d1666a5\/capture_d___e__cran_2026-01-12_a___16.43.34_360.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360_w": 360,
+                "thumb_360_h": 152,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A80TJFK0B-220d1666a5\/capture_d___e__cran_2026-01-12_a___16.43.34_480.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_480_w": 480,
+                "thumb_480_h": 203,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A80TJFK0B-220d1666a5\/capture_d___e__cran_2026-01-12_a___16.43.34_160.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "original_w": 520,
+                "original_h": 220,
+                "thumb_tiny": "AwAVADCzHarGY9pzszjcM1JukJUhk2n3\/kafUUTbgPmQnAPC4wKAHq\/7tWdl5GSQeKcWxjJ69KYxxtIZQPpRztOXXPrjp\/kUAP3dOevTmlyfWo85QEuvUc44NCOCMl0bJ4xQA+mIrqAGfd7kU+igBCCRgNg+uKTD7idwxnoR\/n3p1FACKCFAY5PrjrS0UUAf\/9k=",
+                "permalink": "https:\/\/techmarketingleaders.slack.com\/files\/U017U6M2G00\/F0A80TJFK0B\/capture_d___e__cran_2026-01-12_a___16.43.34.png",
+                "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F0A80TJFK0B-95b7113919",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U01A4GMRRR9",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+bvWa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04A6JMRWCS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on attendais ton message "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1768232638.764189",
+        "client_msg_id": "5a66c2e0-8049-4a87-8e20-0b7bc0b9af7d",
+        "thread_ts": "1767807581.583969",
+        "parent_user_id": "U04A6JMRWCS"
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1768232668.256109",
+        "client_msg_id": "5a0db4ee-f3ac-404d-9ede-5896566ef4c6",
+        "text": "_roulé en boule sur mon canapé, à manger du pâté de canard_",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1767807581.583969",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8tvVH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "roulé en boule sur mon canapé, à manger du pâté de canard",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U063A8VPPG9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1768232770.625159",
+        "client_msg_id": "e9d98d14-d520-4897-814b-34d451b22423",
+        "text": "ça c'est une bonne occupation de son temps :heart:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1767807581.583969",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/tTQF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ça c'est une bonne occupation de son temps "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart",
+                                "unicode": "2764-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0946E8A2US",
+        "type": "message",
+        "ts": "1768233493.109349",
+        "client_msg_id": "C41AA04B-E59F-48C7-820E-3DD5C1355B72",
+        "text": "(Désolé <@U01A4GMRRR9>. Pour ma défense j'ai jamais utilisé Contentsquare mais je suis sûr que c'est très bien :innocent:)\n\nJe suis un Die hard Amplitude fan. Parfait pour produc analytics (je préfère largement leur UX à celle de Mixpanel et ça me parait toujours bien plus poussé et complet). \nJ'ai testé PostHog récemment, vraiment bien mais c'est encore un peu tôt sur le product\/web analytics je trouve. Amplitude est plus mature. ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "f73f6d38e4eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-07-23\/9238905089862_f73f6d38e4eb792c8c6a_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult",
+            "team": "T017AGS2KE0",
+            "name": "thibaut.davoult",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1768225436.136839",
+        "parent_user_id": "U06MHCCLQG3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ieneQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(Désolé "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01A4GMRRR9"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Pour ma défense j'ai jamais utilisé Contentsquare mais je suis sûr que c'est très bien "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "innocent",
+                                "unicode": "1f607"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")\n\nJe suis un Die hard Amplitude fan"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Parfait pour produc analytics (je préfère largement leur UX à celle de Mixpanel et ça me parait toujours bien plus poussé et complet)"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nJ'ai testé PostHog récemment, vraiment bien mais c'est encore un peu tôt sur le product\/web analytics je trouve"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Amplitude est plus mature"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1768238361.608849",
+        "client_msg_id": "a808f420-de7b-498a-9d29-b6fcb6c9663d",
+        "text": "[Call feedback PMM PLG]\n\nHello les TML !\n\nOn va (enfin) recruter un Product Marketing Manager chez Weglot, avec donc un scope Self-service\/PLG motion (majorité du temps) + Sales motion.\n\nNotre VP Product aimerait échanger avec des PMM orientés PLG pour mieux comprendre leur scope et leurs missions. Le PMM sera rattaché à elle.\n\nEst-ce que certains d’entre vous ont des PMM dédiés majoritairement au PLG dans vos boites et qui pourraient être partants pour un quick call ?\n\n<@U07MNBM4WLV> Vous avez recruté un PMM au final ?\n\nMerci d’avance :pray:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1768238361.608849",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1768492365.442219",
+        "reply_users": [
+            "U07MNBM4WLV"
+        ],
+        "replies": [
+            {
+                "user": "U07MNBM4WLV",
+                "ts": "1768492365.442219"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DSXsY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[Call feedback PMM PLG]\n\nHello les TML !\n\nOn va (enfin) recruter un Product Marketing Manager chez Weglot, avec donc un scope Self-service\/PLG motion (majorité du temps) + Sales motion.\n\nNotre VP Product aimerait échanger avec des PMM orientés PLG pour mieux comprendre leur scope et leurs missions. Le PMM sera rattaché à elle.\n\nEst-ce que certains d’entre vous ont des PMM dédiés majoritairement au PLG dans vos boites et qui pourraient être partants pour un quick call ?\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07MNBM4WLV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Vous avez recruté un PMM au final ?\n\nMerci d’avance "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

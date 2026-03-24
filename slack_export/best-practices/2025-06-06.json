@@ -1,0 +1,774 @@
+[
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1749200598.377299",
+        "client_msg_id": "09f5efbf-0acb-4e26-8895-031ddceaf406",
+        "text": "Hello ! Question RP : quand vous signez un gros client, à partir de quelle taille de contrat ça devient jouable de faire une presse release et peut être repris dans la presse (même spécialisée ?)\n\nJ'ai <https:\/\/www.abcbourse.com\/marches\/alan-remporte-le-contrat-sante-de-bercy-300000-personnes-concernees_665094|cet exemple de Alan> (<@U017H09S857>) en tête. Bon je vous annonce tout de suite qu'on en est loin, mais on vient de signer un très gros compte avec un très gros contrat (pour nous), et je me demande quels facteurs sont à prendre en compte et si on a une opportunité ici.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749200598.377299",
+        "reply_count": 10,
+        "reply_users_count": 8,
+        "latest_reply": "1749635123.285279",
+        "reply_users": [
+            "U02N2EVMFCG",
+            "U03CY07UZJM",
+            "U01A4GMRRR9",
+            "U017H09S857",
+            "U016SBPG7K9",
+            "U0859A8P14K",
+            "U08SA22HS0J",
+            "U08PLD4KPS8"
+        ],
+        "replies": [
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1749201731.386569"
+            },
+            {
+                "user": "U03CY07UZJM",
+                "ts": "1749202755.155179"
+            },
+            {
+                "user": "U01A4GMRRR9",
+                "ts": "1749205585.975789"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1749209279.865169"
+            },
+            {
+                "user": "U016SBPG7K9",
+                "ts": "1749209738.462239"
+            },
+            {
+                "user": "U0859A8P14K",
+                "ts": "1749212850.827619"
+            },
+            {
+                "user": "U08SA22HS0J",
+                "ts": "1749217566.829079"
+            },
+            {
+                "user": "U08PLD4KPS8",
+                "ts": "1749630277.280479"
+            },
+            {
+                "user": "U016SBPG7K9",
+                "ts": "1749632619.798559"
+            },
+            {
+                "user": "U08SA22HS0J",
+                "ts": "1749635123.285279"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ySMLe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello ! Question RP : quand vous signez un gros client, à partir de quelle taille de contrat ça devient jouable de faire une presse release et peut être repris dans la presse (même spécialisée ?)\n\nJ'ai "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.abcbourse.com\/marches\/alan-remporte-le-contrat-sante-de-bercy-300000-personnes-concernees_665094",
+                                "text": "cet exemple de Alan"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ("
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U017H09S857"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") en tête. Bon je vous annonce tout de suite qu'on en est loin, mais on vient de signer un très gros compte avec un très gros contrat (pour nous), et je me demande quels facteurs sont à prendre en compte et si on a une opportunité ici."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1749201731.386569",
+        "client_msg_id": "0CBC3C09-CFCD-4984-A751-A2D166155031",
+        "text": "Je pense pas qu’il y ait de taille (y a pas que ça qui compte) dès lors que ça valorise Livestorm, un ou plusieurs features ou RTB, ou même des personnes en interne chez vous. Faut que ça plaise à la Presse mais que ça puisse aussi réveiller du _pipe_ ou flatter des égos, _my 2 cents_",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749200598.377299",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rT\/b+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je pense pas "
+                            },
+                            {
+                                "type": "text",
+                                "text": "qu’il"
+                            },
+                            {
+                                "type": "text",
+                                "text": " y ait de taille (y a pas que ça qui compte) dès lors que ça valorise Livestorm, un ou plusieurs features ou RTB, ou même des personnes en interne chez vous. Faut que ça plaise à la Presse mais que ça puisse aussi réveiller du "
+                            },
+                            {
+                                "type": "text",
+                                "text": "pipe",
+                                "style": {
+                                    "bold": false,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ou flatter des égos, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "my 2 cents",
+                                "style": {
+                                    "bold": false,
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U084KTR7YKX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03CY07UZJM",
+        "type": "message",
+        "ts": "1749202755.155179",
+        "edited": {
+            "user": "U03CY07UZJM",
+            "ts": "1749202766.000000"
+        },
+        "client_msg_id": "4f8db8c2-6afd-4cd4-95e4-7e60f60b0e73",
+        "text": "Dès que le compte est intéressant car :\n• ouvre une nouvelle verticale\n• ouvre un nouveau segment\n• ouvre un nouveau pays\n• ou parce que c'est une marque très connue \nFaut foncer ! Soit je contactais des médias spécialisés pour leur proposer une exclu, soit je demande directement au client de passer par son agence RP",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "cf1b09b1a910",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-02\/6894190939717_cf1b09b1a910eb11be75_72.jpg",
+            "first_name": "Patrice",
+            "real_name": "Patrice Barbesier",
+            "display_name": "Patrice Barbesier",
+            "team": "T017AGS2KE0",
+            "name": "patrice.barbesier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749200598.377299",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BNem9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dès que le compte est intéressant car :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ouvre une nouvelle verticale"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ouvre un nouveau segment"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ouvre un nouveau pays"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ou parce que c'est une marque très connue "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nFaut foncer ! Soit je contactais des médias spécialisés pour leur proposer une exclu, soit je demande directement au client de passer par son agence RP"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1749205585.975789",
+        "client_msg_id": "d1ecfd0e-55f4-453a-a1fe-088791b2871e",
+        "text": "<@U016SBPG7K9> On a traité le problème à l'envers de notre coté. Il y a une clause de Comm dans nos contrats (event, Win release,...) que le client peut retirer ou annoter.\nAprès les Win releases ou en general tu n'as pas de use case\/data\/.. sont très rarement reprise par la Presse. C'est plus pour ton site\/social",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749200598.377299",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dVxt1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U016SBPG7K9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " On a traité le problème à l'envers de notre coté. Il y a une clause de Comm dans nos contrats (event, Win release,...) que le client peut retirer ou annoter.\nAprès les Win releases ou en general tu n'as pas de use case\/data\/.. sont très rarement reprise par la Presse. C'est plus pour ton site\/social"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1749209279.865169",
+        "client_msg_id": "c76390f3-2956-4359-b73c-1943c9a96a05",
+        "text": "Je précise qu'on n'a pas fait de PR sur l'exemple que tu cites <@U016SBPG7K9> et que nous n'avons pas confirmé la news",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749200598.377299",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tSEE6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je précise qu'on n'a pas fait de PR sur l'exemple que tu cites "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U016SBPG7K9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et que nous n'avons pas confirmé la news"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U06DYTRDLUD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1749209738.462239",
+        "client_msg_id": "860FB605-9A07-42D8-8B6C-26C1940E9327",
+        "text": "Ah, en effet <@U017H09S857> c'est une bonne précision à apporter :sweat_smile: ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749200598.377299",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O2Owo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, en effet "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U017H09S857"
+                            },
+                            {
+                                "type": "text",
+                                "text": " c'est une bonne précision à apporter "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0859A8P14K",
+        "type": "message",
+        "ts": "1749212850.827619",
+        "client_msg_id": "269943AB-EC13-4025-B209-18A2D6F611BE",
+        "text": "Hello ! Les fois où nous avons été repris dans la presse ce fut en effet (y compris ancienne boîte ) lorsque cela montrait une ouverture à l’international car la presse peut prendre ça sous l’angle pepite tech française qui rayonne . Sinon il fait au moins essayer de trouver une histoire à raconter pour aller au delà du « win «  et montrer comment votre alliance fera plus que 1+1 =2. Par ex révolutionner \/ transformer le quotidien de xxx",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "de9373c86530",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8178910826725_de9373c86530dc48c9e8_72.png",
+            "first_name": "Alexandra",
+            "real_name": "Alexandra Lougovoy",
+            "display_name": "Alexandra Lougovoy (Eudonet)",
+            "team": "T017AGS2KE0",
+            "name": "a.lougovoy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749200598.377299",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W7kvf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello ! Les fois où nous avons été repris dans la presse ce fut en effet (y compris ancienne boîte ) lorsque cela montrait une ouverture à "
+                            },
+                            {
+                                "type": "text",
+                                "text": "l’international"
+                            },
+                            {
+                                "type": "text",
+                                "text": " car la presse peut prendre ça sous "
+                            },
+                            {
+                                "type": "text",
+                                "text": "l’angle"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pepite tech française qui rayonne . Sinon il fait au moins essayer de trouver une histoire à raconter pour aller au delà du « win «  et montrer comment votre alliance fera plus que 1+1 =2"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Par ex révolutionner \/ transformer le quotidien de xxx"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08V1NE4BUJ",
+        "type": "message",
+        "ts": "1749217068.282549",
+        "client_msg_id": "11bfde16-9422-4e86-aa47-741b1e5560af",
+        "text": "Hello tout le monde !\n\nQuelles sont les meilleures pratiques ou outils IA que vous avez intégrés dans vos process marketing (growth, content, CRM, automation…) et qui vous ont vraiment fait gagner en productivité ou en impact ces derniers mois ?\n\nToujours curieux de benchmarker ce qui marche vraiment chez les meilleurs :eyes:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "3654a4fc5d4e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-02\/8999698350033_3654a4fc5d4e25a0a92c_72.jpg",
+            "first_name": "Alan",
+            "real_name": "Alan Huet (Fundora)",
+            "display_name": "Alan HUET",
+            "team": "T017AGS2KE0",
+            "name": "alan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Qz\/J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello tout le monde !\n\nQuelles sont les meilleures pratiques ou outils IA que vous avez intégrés dans vos process marketing (growth, content, CRM, automation…) et qui vous ont vraiment fait gagner en productivité ou en impact ces derniers mois ?\n\nToujours curieux de benchmarker ce qui marche vraiment chez les meilleurs "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes",
+                                "unicode": "1f440"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U068DB6D669",
+        "type": "message",
+        "ts": "1749217452.981589",
+        "client_msg_id": "cc8e8c2c-c55d-43ad-8806-cc5d2de4aae8",
+        "text": "Bonjour à tous,\nQuestion *RGAA* : est-ce que certains ont des équipes qui ont commencé à bosser le sujet et seraient partants pour en discuter avec ma lead product design?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "cb7e9b45516b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-04\/6282433336134_cb7e9b45516b7fc36964_72.png",
+            "first_name": "Melissa",
+            "real_name": "Melissa (HelloAsso)",
+            "display_name": "Melissa (HelloAsso)",
+            "team": "T017AGS2KE0",
+            "name": "sanchotmelissa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749217452.981589",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1749217597.504399",
+        "reply_users": [
+            "U01A4GMRRR9"
+        ],
+        "replies": [
+            {
+                "user": "U01A4GMRRR9",
+                "ts": "1749217576.312959"
+            },
+            {
+                "user": "U01A4GMRRR9",
+                "ts": "1749217597.504399"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fHV7c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour à tous,\nQuestion"
+                            },
+                            {
+                                "type": "text",
+                                "text": " RGAA ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ": est-ce que certains ont des équipes qui ont commencé à bosser le sujet et seraient partants pour en discuter avec ma lead product design?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08SA22HS0J",
+        "type": "message",
+        "ts": "1749217566.829079",
+        "client_msg_id": "6be24345-69f5-40a0-8327-bde29ddb1b26",
+        "text": "Je rejoins <@U01A4GMRRR9>. La presse spécialisée est souvent friante de use-cases avec des retours chiffrés. On préfère donc attendre d'avoir des premiers résultats pour communiquer sur un client, plutôt que de griller notre cartouche avec une annonce de signature.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "266d9356f19e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-07\/10243863201635_266d9356f19e63bc9267_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu BONENFANT (SecLab)",
+            "display_name": "Matthieu BONENFANT (SecLab)",
+            "team": "T017AGS2KE0",
+            "name": "matthieu.bonenfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749200598.377299",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bmS5V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je rejoins "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01A4GMRRR9"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". La presse spécialisée est souvent friante de use-cases avec des retours chiffrés. On préfère donc attendre d'avoir des premiers résultats pour communiquer sur un client, plutôt que de griller notre cartouche avec une annonce de signature."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U020QK16RMJ",
+                    "U06DYTRDLUD"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1749217576.312959",
+        "client_msg_id": "185fb5ff-6b7c-4279-8726-6a5b822a16f8",
+        "text": "Hello, Contentsquare a une fondation dédiée  ce sujet. Y'a quelques ressources sur leur site : <https:\/\/www.contentsquare-foundation.org\/fr\/>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749217452.981589",
+        "parent_user_id": "U068DB6D669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "opdjM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, Contentsquare a une fondation dédiée  ce sujet. Y'a quelques ressources sur leur site : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.contentsquare-foundation.org\/fr\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U069NSTHZ3Q",
+                    "U068DB6D669"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1749217597.504399",
+        "client_msg_id": "5ee79194-800c-4190-9b55-9668f0b402f9",
+        "text": "Il y a même des formations gratuites de mémoire",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749217452.981589",
+        "parent_user_id": "U068DB6D669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vjUKY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Il y a même des formations gratuites de mémoire"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

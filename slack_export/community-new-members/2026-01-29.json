@@ -1,0 +1,385 @@
+[
+    {
+        "user": "U08PLD4KPS8",
+        "type": "message",
+        "ts": "1769676639.327499",
+        "client_msg_id": "f67a9594-7ace-4515-b472-22bfeaf813d2",
+        "text": "Merci pour le feedback! Je me rends compte que j'ai par erreur inséré la demande pour Hortense dans la conversation au sujet de Daphné :see_no_evil:. Ce qui rend la conversation au sujet d'Hortense moins visible.  Mais je ne sais pas trop comment désolidariser ces deux conversations après coup. Une suggestion?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ed1e5a6e17a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-15\/8903493241218_7ed1e5a6e17a9b117971_72.jpg",
+            "first_name": "Ségolène",
+            "real_name": "Ségolène Finet",
+            "display_name": "Ségolène Finet",
+            "team": "T017AGS2KE0",
+            "name": "finetsegolene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769608886.152139",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oj2hX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci pour le feedback! Je me rends compte que j'ai par erreur inséré la demande pour Hortense dans la conversation au sujet de Daphné "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "see_no_evil",
+                                "unicode": "1f648"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Ce qui rend la conversation au sujet d'Hortense moins visible.  Mais je ne sais pas trop comment désolidariser ces deux conversations après coup. Une suggestion?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U020QK16RMJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U020QK16RMJ",
+        "type": "message",
+        "ts": "1769694297.127299",
+        "text": "<@U08PLD4KPS8> propose un profil.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "56d8a678e801",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-18\/7292097443269_56d8a678e801350db84a_72.png",
+            "first_name": "Joël",
+            "real_name": "Joël Gaudeul",
+            "display_name": "Joël (Swan)",
+            "team": "T017AGS2KE0",
+            "name": "joel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769694297.127299",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1770017434.758309",
+        "reply_users": [
+            "U017RAZCAGZ",
+            "U017H09S857",
+            "U08PLD4KPS8"
+        ],
+        "replies": [
+            {
+                "user": "U017RAZCAGZ",
+                "ts": "1769698601.651309"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1769799890.113619"
+            },
+            {
+                "user": "U08PLD4KPS8",
+                "ts": "1770017434.758309"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "ts": "1769614272.141069",
+                "author_id": "U08PLD4KPS8",
+                "channel_id": "C016PJWLH5M",
+                "channel_team": "T017AGS2KE0",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T017AGS2KE0",
+                        "channel": "C016PJWLH5M",
+                        "ts": "1769614272.141069",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "1zRI\/",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Bonjour,\nJ'aimerais recommander "
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/www.linkedin.com\/in\/hortense-pignal\/",
+                                                    "text": "Hortense Pignal"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": ", Head of Marketing chez Accenta (n'a pas le titre de CMO mais fait un job de CMO).  Accenta est une scale up dans le secteur très porteur et très concurrentiel de la géothermie (150 collaborateurs).   Je connais bien Hortense et suis impressionnée par sa grande curiosité et son esprit de partage -- et aussi par ce qu'elle a construit chez Accenta (brand, product marketing, growth, revops). Elle est très active dans la communauté UnlockM donc je crois que vous êtes plusieurs à la connaître."
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/techmarketingleaders.slack.com\/archives\/C016PJWLH5M\/p1769614272141069?thread_ts=1769608886.152139&cid=C016PJWLH5M",
+                "is_share": true,
+                "fallback": "[January 28th, 2026 4:31 PM] finetsegolene: Bonjour,\nJ'aimerais recommander <https:\/\/www.linkedin.com\/in\/hortense-pignal\/|Hortense Pignal>, Head of Marketing chez Accenta (n'a pas le titre de CMO mais fait un job de CMO).  Accenta est une scale up dans le secteur très porteur et très concurrentiel de la géothermie (150 collaborateurs).   Je connais bien Hortense et suis impressionnée par sa grande curiosité et son esprit de partage -- et aussi par ce qu'elle a construit chez Accenta (brand, product marketing, growth, revops). Elle est très active dans la communauté UnlockM donc je crois que vous êtes plusieurs à la connaître.",
+                "text": "Bonjour,\nJ'aimerais recommander <https:\/\/www.linkedin.com\/in\/hortense-pignal\/|Hortense Pignal>, Head of Marketing chez Accenta (n'a pas le titre de CMO mais fait un job de CMO).  Accenta est une scale up dans le secteur très porteur et très concurrentiel de la géothermie (150 collaborateurs).   Je connais bien Hortense et suis impressionnée par sa grande curiosité et son esprit de partage -- et aussi par ce qu'elle a construit chez Accenta (brand, product marketing, growth, revops). Elle est très active dans la communauté UnlockM donc je crois que vous êtes plusieurs à la connaître.",
+                "author_name": "Ségolène Finet",
+                "author_link": "https:\/\/techmarketingleaders.slack.com\/team\/U08PLD4KPS8",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2025-05-15\/8903493241218_7ed1e5a6e17a9b117971_48.jpg",
+                "author_subname": "Ségolène Finet",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Thread in Slack Conversation"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q9Jai",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U08PLD4KPS8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " propose un profil."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U08PLD4KPS8",
+                    "U08SA22HS0J",
+                    "U07BLPPL3C1",
+                    "U06TF9YAWEM"
+                ],
+                "count": 4
+            },
+            {
+                "name": "x",
+                "users": [
+                    "U017RAZCAGZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1769695040.275999",
+        "client_msg_id": "53d642db-6366-43e0-a2ae-945a1fad6a56",
+        "text": "Pour moi daphné correspond pas a la charte non ? Elle a un boss marketing",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769608886.152139",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xlDaS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour moi daphné correspond pas a la charte non ? Elle a un boss marketing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06DYTRDLUD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U017RAZCAGZ",
+        "type": "message",
+        "ts": "1769698601.651309",
+        "client_msg_id": "9c2e92e3-7e08-4cc9-8bb5-a8b314735df2",
+        "text": "Hello ! Je la connais, je la trouve très sympa mais très junior. Pour moi c'est oui, mais dans quelques années.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2e6e61c8f204",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-20\/1251040887619_2e6e61c8f20434050630_72.jpg",
+            "first_name": "Hélène",
+            "real_name": "Hélène Draoulec (Phenix)",
+            "display_name": "Hélène Draoulec (Phenix)",
+            "team": "T017AGS2KE0",
+            "name": "hdraoulec",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769694297.127299",
+        "parent_user_id": "U020QK16RMJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GctJl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello ! Je la connais, je la trouve très sympa mais très junior. Pour moi c'est oui, mais dans quelques années."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06DYTRDLUD",
+        "type": "message",
+        "ts": "1769702948.610509",
+        "client_msg_id": "331b094a-d7bd-483d-8d5d-7b1b08182077",
+        "text": "Je rejoins Selma, pour moi elle correspond pas à la charte",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901f49789864",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-17\/6483135134229_901f4978986494a521e4_72.jpg",
+            "first_name": "Flora",
+            "real_name": "Flora Wolfer",
+            "display_name": "Flora Wolfer (Payplug)",
+            "team": "T017AGS2KE0",
+            "name": "fwolfer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769608886.152139",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3A4Cm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je rejoins Selma, pour moi elle correspond pas à la charte"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0951RDNKU6",
+        "type": "message",
+        "ts": "1769721253.692729",
+        "client_msg_id": "c246b6e4-f182-4ad2-bf75-59ec71662d6d",
+        "text": "Welcome <@U0ABUV23EG0> :heart_hands:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "85dcd88ccf2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-06\/9660924995297_85dcd88ccf2fa3d8be38_72.jpg",
+            "first_name": "Marion",
+            "real_name": "Marion de Robillard",
+            "display_name": "Marion de Robillard",
+            "team": "T017AGS2KE0",
+            "name": "marionderobillard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769457342.346559",
+        "parent_user_id": "U0ABUV23EG0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+qVmt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0ABUV23EG0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_hands",
+                                "unicode": "1faf6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

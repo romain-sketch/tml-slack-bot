@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U07BLPPL3C1",
+        "type": "message",
+        "ts": "1771444106.569699",
+        "client_msg_id": "53386d3b-65f0-4df6-86de-9926edbfd1a3",
+        "text": "N'hésites pas à faire un call avec Emily et Yann !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a188c365467d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-16\/7728349993798_a188c365467d3e63d25d_72.jpg",
+            "first_name": "Esther",
+            "real_name": "Esther Daga",
+            "display_name": "Esther Daga (Powell)",
+            "team": "T017AGS2KE0",
+            "name": "estherdaga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770893532.872699",
+        "parent_user_id": "U03CY07UZJM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pCauR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "N'hésites pas à faire un call avec Emily et Yann !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U03CY07UZJM"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

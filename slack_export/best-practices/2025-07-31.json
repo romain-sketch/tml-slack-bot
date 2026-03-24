@@ -1,0 +1,152 @@
+[
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1753955304.626049",
+        "client_msg_id": "873372bc-6b3a-4fb3-b77c-05661896af46",
+        "text": "je suis déjà allée à Amsterdam mais pas pour ça :joy:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1753876537.846419",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1TAgU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je suis déjà allée à Amsterdam mais pas pour ça "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "laughing",
+                "users": [
+                    "U07MNBM4WLV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1753955380.435329",
+        "edited": {
+            "user": "U084KTR7YKX",
+            "ts": "1753955397.000000"
+        },
+        "client_msg_id": "a9bbd588-a7b5-4fa2-b000-8bbad2aac0fe",
+        "text": "si tu n'es pas sûre de l'audience, tu peux toujours envoyer 1 personne en année 1 pour assesser l'event avec des obj précis \/ learnings pour cette personne",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1753876537.846419",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LaqcC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si tu n'es pas sûre de l'audience, tu peux toujours envoyer 1 personne en année 1 pour assesser l'event avec des obj précis \/ learnings pour cette personne"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U096Z0V3VR9",
+        "text": "<@U096Z0V3VR9> has joined the channel",
+        "type": "message",
+        "ts": "1753955409.267809"
+    },
+    {
+        "user": "U07MNBM4WLV",
+        "type": "message",
+        "ts": "1753970178.138169",
+        "client_msg_id": "0ce5fd0f-3277-428d-a129-b5626c1cc932",
+        "text": "j'ai pas envie d'envoyer un sales pour rien :smile:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "028ce63b55be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7733128030774_028ce63b55be29945d4f_72.jpg",
+            "first_name": "Domitille",
+            "real_name": "Domitille de Saint-Exupéry",
+            "display_name": "Domitille de Saint-Exupéry (lemlist)",
+            "team": "T017AGS2KE0",
+            "name": "domitille433",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1753876537.846419",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+e1mX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "j'ai pas envie d'envoyer un sales pour rien "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

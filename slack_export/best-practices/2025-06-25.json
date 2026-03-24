@@ -1,0 +1,104 @@
+[
+    {
+        "user": "U04HP95GK55",
+        "type": "message",
+        "ts": "1750835005.917879",
+        "client_msg_id": "86F54F7E-970B-4A36-A4D5-5F75ABED034E",
+        "text": "Hello tout le monde, vous avez une reco d’outil pour faire une veille régulière sur votre secteur d’activité ? Ex. Feedly, Talkwalker\nJe cherche un outil qui agrège mais aussi qui trie les informations par pertinence\/popularité. ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c346c82c7f22",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-06\/6302019761282_c346c82c7f22a623d69d_72.jpg",
+            "first_name": "Raphael",
+            "real_name": "Raphael Dardek",
+            "display_name": "Raphael (Kyka)",
+            "team": "T017AGS2KE0",
+            "name": "rdardek",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750835005.917879",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1750839760.363209",
+        "reply_users": [
+            "U092U6UDLMN"
+        ],
+        "replies": [
+            {
+                "user": "U092U6UDLMN",
+                "ts": "1750839760.363209"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WbNJa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello tout le monde, vous avez une reco d’outil pour faire une veille régulière sur votre secteur d’activité ? Ex. Feedly, Talkwalker\nJe cherche un outil qui agrège mais aussi qui trie les informations par pertinence\/popularité. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U092U6UDLMN",
+        "type": "message",
+        "ts": "1750839760.363209",
+        "client_msg_id": "fa2c598d-7c36-45e6-b423-024651d3266e",
+        "text": "Feedly est très bien. Mais on peut vite se retrouver \"noyé\" par le flux d'actualité.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e910bc968404",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-19\/9072876473829_e910bc968404c2c0b5d1_72.png",
+            "first_name": "Bastien",
+            "real_name": "Bastien Meaux (DialOnce)",
+            "display_name": "Bastien Meaux",
+            "team": "T017AGS2KE0",
+            "name": "bmeaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750835005.917879",
+        "parent_user_id": "U04HP95GK55",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kbQ0U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Feedly est très bien. Mais on peut vite se retrouver \"noyé\" par le flux d'actualité."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04HP95GK55"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

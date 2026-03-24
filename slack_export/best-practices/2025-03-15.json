@@ -1,0 +1,67 @@
+[
+    {
+        "user": "U06DYTRDLUD",
+        "type": "message",
+        "ts": "1742033261.637979",
+        "client_msg_id": "85de1aaf-4128-4bdf-a81e-9672a3fe34db",
+        "text": "CR envoyé, je disparais pour la semaine :ski:!\nMerci à tous pour l'échange :smiley:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901f49789864",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-17\/6483135134229_901f4978986494a521e4_72.jpg",
+            "first_name": "Flora",
+            "real_name": "Flora Wolfer",
+            "display_name": "Flora Wolfer (Payplug)",
+            "team": "T017AGS2KE0",
+            "name": "fwolfer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741011937.270369",
+        "parent_user_id": "U06DYTRDLUD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zBLyw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "CR envoyé, je disparais pour la semaine "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ski",
+                                "unicode": "1f3bf"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!\nMerci à tous pour l'échange "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiley",
+                                "unicode": "1f603"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U08554C4R7C",
+                    "U03P99RGMTN",
+                    "U07D08K3U0K"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

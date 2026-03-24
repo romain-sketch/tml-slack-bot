@@ -1,0 +1,441 @@
+[
+    {
+        "user": "U067VEJFT5F",
+        "type": "message",
+        "ts": "1750068311.064599",
+        "client_msg_id": "3404cae7-8214-449c-a805-d10ae3e18042",
+        "text": "Hello everyone!\nJ'accompagne une banque publique de développement qui finance les collectivités et on est en train de créer du contenu autour de la thématique de l'eau.\n==&gt;Je me demandais si parmi vous quelqu'un fait partie ou connait des\n*start-ups innovantes au service de la gestion de l’eau en France et ailleurs ?* \n*Gracias !* ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9fcbd8d4bd09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-05\/6296382564371_9fcbd8d4bd095d25ab4c_72.jpg",
+            "first_name": "Amandine",
+            "real_name": "Amandine Moreau",
+            "display_name": "Amandine Moreau",
+            "team": "T017AGS2KE0",
+            "name": "a.gremont.pro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750068311.064599",
+        "reply_count": 6,
+        "reply_users_count": 6,
+        "latest_reply": "1750082143.655519",
+        "reply_users": [
+            "U01A4GMRRR9",
+            "U08QZ6EKE4Q",
+            "U02N2EVMFCG",
+            "U0177A5V42F",
+            "U067VEJFT5F",
+            "U017CURDPB5"
+        ],
+        "replies": [
+            {
+                "user": "U01A4GMRRR9",
+                "ts": "1750069681.543799"
+            },
+            {
+                "user": "U08QZ6EKE4Q",
+                "ts": "1750070606.087419"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1750071112.148019"
+            },
+            {
+                "user": "U0177A5V42F",
+                "ts": "1750072963.907849"
+            },
+            {
+                "user": "U067VEJFT5F",
+                "ts": "1750073639.891099"
+            },
+            {
+                "user": "U017CURDPB5",
+                "ts": "1750082143.655519"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R02SQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello everyone!\nJ'accompagne une banque publique de développement qui finance les collectivités et on est en train de créer du contenu autour de la thématique de l'eau.\n==>Je me demandais si parmi vous quelqu'un fait partie ou connait des\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "start-ups innovantes au service de la gestion de l’eau en France et ailleurs ? ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Gracias ! ",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1750069681.543799",
+        "client_msg_id": "58a25673-7a39-4f1c-851f-a4bc5aa25938",
+        "text": "Presque : <https:\/\/www.whaleseeker.com\/> mais dis moi si interet",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750068311.064599",
+        "parent_user_id": "U067VEJFT5F",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.whaleseeker.com\/",
+                "image_url": "https:\/\/static.wixstatic.com\/media\/d08f31_e6c63215048546bb805eb503d673ca54%7Emv2.png\/v1\/fit\/w_2500,h_1330,al_c\/d08f31_e6c63215048546bb805eb503d673ca54%7Emv2.png",
+                "image_width": 1259,
+                "image_height": 945,
+                "image_bytes": 29917,
+                "service_icon": "https:\/\/static.wixstatic.com\/media\/d08f31_6d89f9aa04574ee28e22abaabee1bbc8%7Emv2.png\/v1\/fill\/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01\/d08f31_6d89f9aa04574ee28e22abaabee1bbc8%7Emv2.png",
+                "id": 1,
+                "original_url": "https:\/\/www.whaleseeker.com\/",
+                "fallback": "Whale Seeker: Home | Whale Seeker - Marine Mammal and Bird Detection",
+                "text": "Whale Seeker, Inc. is a for-profit corporation based in Quebec, Canada. Whale Seeker ethically uses AI to automate marine mammal and bird detection imagery, delivering better, simpler, and faster detection data. They help scale marine mammal detection for many clients ranging from governments, industry, and NGOs. Founded in 2018, the company collaborates with maritime industry partners, academic institutions, and governments to create solutions to promote healthy marine mammals and oceans.",
+                "title": "Home | Whale Seeker - Marine Mammal and Bird Detection",
+                "title_link": "https:\/\/www.whaleseeker.com\/",
+                "service_name": "Whale Seeker"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LCQKR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Presque : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.whaleseeker.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " mais dis moi si interet"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08QZ6EKE4Q",
+        "type": "message",
+        "ts": "1750070606.087419",
+        "client_msg_id": "F55CE74A-CADE-4C98-96ED-117B631119F6",
+        "text": "Moi je connais <https:\/\/fr.linkedin.com\/in\/estherdelbourg|Esther Crauser-Delbourg> qui a fondé Water Wiser, cabinet de conseil en gestion de l’eau si ça t’intéresse aussi Amandine ! \nTu me dis si besoin d’une intro :) ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "af98f77e53d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-04-30\/8830001157444_af98f77e53d62c5ee9ca_72.png",
+            "first_name": "Sybille",
+            "real_name": "Sybille d’Hérouville",
+            "display_name": "Sybille d’Hérouville",
+            "team": "T017AGS2KE0",
+            "name": "sybille.dherouville",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750068311.064599",
+        "parent_user_id": "U067VEJFT5F",
+        "attachments": [
+            {
+                "from_url": "https:\/\/fr.linkedin.com\/in\/estherdelbourg",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/fr.linkedin.com\/in\/estherdelbourg",
+                "fallback": "Esther Crauser-Delbourg - Water Wiser | LinkedIn",
+                "text": "Expérience : Water Wiser · Formation : Ecole polytechnique · Lieu : Paris · 500 relations ou plus sur LinkedIn. Consultez le profil de Esther Crauser-Delbourg sur LinkedIn, une communauté professionnelle d’un milliard de membres.",
+                "title": "Esther Crauser-Delbourg - Water Wiser | LinkedIn",
+                "title_link": "https:\/\/fr.linkedin.com\/in\/estherdelbourg",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gP9Ik",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Moi je connais "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fr.linkedin.com\/in\/estherdelbourg",
+                                "text": "Esther Crauser-Delbourg"
+                            },
+                            {
+                                "type": "text",
+                                "text": " qui a fondé Water Wiser, cabinet de conseil en gestion de l’eau si ça t’intéresse aussi Amandine ! \nTu me dis si besoin d’une intro :) "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1750071112.148019",
+        "client_msg_id": "b52b0e16-3c30-4400-9ac3-15b9c9846dc0",
+        "text": "Castalie ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750068311.064599",
+        "parent_user_id": "U067VEJFT5F",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jrVga",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Castalie ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U067VEJFT5F",
+                    "U06DYTRDLUD"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U0177A5V42F",
+        "type": "message",
+        "ts": "1750072963.907849",
+        "client_msg_id": "956cd88e-4d60-46e4-9ee1-7fb489472701",
+        "text": "Pas une startup mais si intéressant que connais la DG adjointe de <https:\/\/www.astee.org\/>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ebca9b04129",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-17\/1245815650949_7ebca9b041296679a81d_72.jpg",
+            "first_name": "Guillaume",
+            "real_name": "Guillaume Laguette",
+            "display_name": "Guillaume Laguette (echOpen)",
+            "team": "T017AGS2KE0",
+            "name": "laguette.guillaume",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750068311.064599",
+        "parent_user_id": "U067VEJFT5F",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m7Th0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pas une startup mais si intéressant que connais la DG adjointe de "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.astee.org\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U067VEJFT5F",
+        "type": "message",
+        "ts": "1750073639.891099",
+        "client_msg_id": "862c6b95-970c-49a0-aef0-39a99401661e",
+        "text": "Oh mais vous êtes de vraies perles ! Merci beaucoup, je regarde tout ça !\n<@U08QZ6EKE4Q> je vois qu'Esther était dans ma promo à l'essec, c'est drôle ! je te fais signe si besoin d'une intro oui.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9fcbd8d4bd09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-05\/6296382564371_9fcbd8d4bd095d25ab4c_72.jpg",
+            "first_name": "Amandine",
+            "real_name": "Amandine Moreau",
+            "display_name": "Amandine Moreau",
+            "team": "T017AGS2KE0",
+            "name": "a.gremont.pro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750068311.064599",
+        "parent_user_id": "U067VEJFT5F",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "By6pc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh mais vous êtes de vraies perles ! Merci beaucoup, je regarde tout ça !\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08QZ6EKE4Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je vois qu'Esther était dans ma promo à l'essec, c'est drôle ! je te fais signe si besoin d'une intro oui."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "wink",
+                "users": [
+                    "U08QZ6EKE4Q"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U017CURDPB5",
+        "type": "message",
+        "ts": "1750082143.655519",
+        "client_msg_id": "1cda2236-1869-4072-b5e8-df52fbe7914d",
+        "text": "Hello <@U067VEJFT5F>, toujours dans mon sujet favori, les toilettes. D'énormes enjeux autour des milliards de mètre cube gaspillées par les chasses d'eau (toilettes privées et publics) et donc des solutions sans eau, du recyclage d'urine, etc. On peut s'appeler pour en parler, y'a tout un eco-système autour du sujet.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "671ad569fbc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5982967598243_671ad569fbc40977de70_72.jpg",
+            "first_name": "David",
+            "real_name": "David Remaud",
+            "display_name": "David Remaud (iBanFirst)",
+            "team": "T017AGS2KE0",
+            "name": "david.remaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750068311.064599",
+        "parent_user_id": "U067VEJFT5F",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vB6KN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U067VEJFT5F"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", toujours dans mon sujet favori, les toilettes. D'énormes enjeux autour des milliards de mètre cube gaspillées par les chasses d'eau (toilettes privées et publics) et donc des solutions sans eau, du recyclage d'urine, etc. On peut s'appeler pour en parler, y'a tout un eco-système autour du sujet."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U03P99RGMTN",
+                    "U067VEJFT5F"
+                ],
+                "count": 2
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U067VEJFT5F"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,125 @@
+[
+    {
+        "user": "U017CURDPB5",
+        "type": "message",
+        "ts": "1737282595.025849",
+        "client_msg_id": "b0aafc15-7cd6-4ee4-9dc2-1d7037944f70",
+        "text": "Hello, top le post ! Sinon il reste des places pour le 29 ? J'aimerais inviter <https:\/\/www.linkedin.com\/in\/matthieu-chaigne-\/|Matthieu Chaigne>, en plus d'être Dir Com iBanFirst, il a écrit des bouquins (sociaux, nudge) et il a été dir com de ministres. Gros profil, gros réseau, et très sympa ! Dites moi",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "671ad569fbc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5982967598243_671ad569fbc40977de70_72.jpg",
+            "first_name": "David",
+            "real_name": "David Remaud",
+            "display_name": "David Remaud (iBanFirst)",
+            "team": "T017AGS2KE0",
+            "name": "david.remaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737282595.025849",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1737283614.572639",
+        "reply_users": [
+            "U02N2EVMFCG"
+        ],
+        "replies": [
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1737283614.572639"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v7J43",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, top le post ! Sinon il reste des places pour le 29 ? J'aimerais inviter "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/matthieu-chaigne-\/",
+                                "text": "Matthieu Chaigne"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", en plus d'être Dir Com iBanFirst, il a écrit des bouquins (sociaux, nudge) et il a été dir com de ministres. Gros profil, gros réseau, et très sympa ! Dites moi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U017H09S857",
+                    "U0182J18ULQ",
+                    "U0183AS3MB6",
+                    "U03P99RGMTN"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1737283614.572639",
+        "client_msg_id": "5B21D1AE-A18D-411F-941F-9B9D563DDA30",
+        "text": "Go super idée :+1:  ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737282595.025849",
+        "parent_user_id": "U017CURDPB5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KGuww",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Go super idée "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

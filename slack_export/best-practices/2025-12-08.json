@@ -1,0 +1,410 @@
+[
+    {
+        "user": "U03CY07UZJM",
+        "type": "message",
+        "ts": "1765184046.440669",
+        "client_msg_id": "482c5ff3-2dc7-4ed8-89f7-588c86ee8b1f",
+        "text": "ok entendu Tania",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "cf1b09b1a910",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-02\/6894190939717_cf1b09b1a910eb11be75_72.jpg",
+            "first_name": "Patrice",
+            "real_name": "Patrice Barbesier",
+            "display_name": "Patrice Barbesier",
+            "team": "T017AGS2KE0",
+            "name": "patrice.barbesier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764844309.404179",
+        "parent_user_id": "U03CY07UZJM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pX3PD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok entendu Tania"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U09BVQYR1GA",
+        "type": "message",
+        "ts": "1765186640.947579",
+        "client_msg_id": "54e72099-093b-499e-8890-bbb60a421290",
+        "text": "Hey Patrice",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0ee28ebc77d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-09-09\/9480262349955_0ee28ebc77d7f64eb0e1_72.png",
+            "first_name": "Tania",
+            "real_name": "Tania",
+            "display_name": "Tania",
+            "team": "T017AGS2KE0",
+            "name": "tsaezgrowth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764844309.404179",
+        "parent_user_id": "U03CY07UZJM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MeCY\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Patrice"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08V1NE4BUJ",
+        "type": "message",
+        "ts": "1765194808.980829",
+        "client_msg_id": "b8af1497-c3a2-4f1b-a0ff-e51b7ee367ac",
+        "text": "Hello ! Chez Fundora, nous cherchons à entrer en contact avec des responsables partenariats \/ CMO de néo-banques afin d’intégrer notre offre d’investissement directement dans leur produit – un peu à l’image de Revolut, qui propose des avantages et réductions selon le niveau d’abonnement.\n Auriez-vous des intro chaleureuses à me partager s’il vous plaît ? :pray::skin-tone-3:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "3654a4fc5d4e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-02\/8999698350033_3654a4fc5d4e25a0a92c_72.jpg",
+            "first_name": "Alan",
+            "real_name": "Alan Huet (Fundora)",
+            "display_name": "Alan HUET",
+            "team": "T017AGS2KE0",
+            "name": "alan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1765194808.980829",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1765276066.876549",
+        "reply_users": [
+            "U02N2EVMFCG",
+            "U08V1NE4BUJ",
+            "U06MLNEGNKB"
+        ],
+        "replies": [
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1765199118.755559"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1765199162.304769"
+            },
+            {
+                "user": "U08V1NE4BUJ",
+                "ts": "1765199248.007919"
+            },
+            {
+                "user": "U08V1NE4BUJ",
+                "ts": "1765199467.032419"
+            },
+            {
+                "user": "U06MLNEGNKB",
+                "ts": "1765275992.698519"
+            },
+            {
+                "user": "U08V1NE4BUJ",
+                "ts": "1765276066.876549"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4xdPy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello ! Chez Fundora, nous cherchons à entrer en contact avec des responsables partenariats \/ CMO de néo-banques afin d’intégrer notre offre d’investissement directement dans leur produit – un peu à l’image de Revolut, qui propose des avantages et réductions selon le niveau d’abonnement.\n Auriez-vous des intro chaleureuses à me partager s’il vous plaît ? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f-1f3fc",
+                                "skin_tone": 3
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1765199118.755559",
+        "client_msg_id": "80bd9edb-76ce-4f15-aebc-a332fb151165",
+        "text": "<@U0182J18ULQ> déjà :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1765194808.980829",
+        "parent_user_id": "U08V1NE4BUJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5q3eS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0182J18ULQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " déjà "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1765199162.304769",
+        "client_msg_id": "650479ee-843f-457c-8f54-76455fd4c26b",
+        "text": "<@U06MLNEGNKB> (mais vous êtes B2B non ?)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1765194808.980829",
+        "parent_user_id": "U08V1NE4BUJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JhkOh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06MLNEGNKB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (mais vous êtes B2B non ?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08V1NE4BUJ",
+        "type": "message",
+        "ts": "1765199248.007919",
+        "edited": {
+            "user": "U08V1NE4BUJ",
+            "ts": "1765199255.000000"
+        },
+        "client_msg_id": "810a290b-c800-4300-b062-00db6ec9c294",
+        "text": "Merci Yannig ! <@U0182J18ULQ>, ouvert à en discuter ? :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "3654a4fc5d4e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-02\/8999698350033_3654a4fc5d4e25a0a92c_72.jpg",
+            "first_name": "Alan",
+            "real_name": "Alan Huet (Fundora)",
+            "display_name": "Alan HUET",
+            "team": "T017AGS2KE0",
+            "name": "alan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1765194808.980829",
+        "parent_user_id": "U08V1NE4BUJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nSFzn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci Yannig ! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0182J18ULQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", ouvert à en discuter ? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08V1NE4BUJ",
+        "type": "message",
+        "ts": "1765199467.032419",
+        "client_msg_id": "4BD5A586-454D-493E-A9D1-9E9248CDB86F",
+        "text": "<@U06MLNEGNKB> très chaud pour en discuter avec toi, on a beaucoup de pro qui investissent sur la plateforme :)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "3654a4fc5d4e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-02\/8999698350033_3654a4fc5d4e25a0a92c_72.jpg",
+            "first_name": "Alan",
+            "real_name": "Alan Huet (Fundora)",
+            "display_name": "Alan HUET",
+            "team": "T017AGS2KE0",
+            "name": "alan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1765194808.980829",
+        "parent_user_id": "U08V1NE4BUJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J60fU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06MLNEGNKB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " très chaud pour en discuter avec toi, on a beaucoup de pro qui investissent sur la plateforme :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017CURDPB5",
+        "type": "message",
+        "ts": "1765262069.497489",
+        "client_msg_id": "5f6a9070-ace8-4edb-a2ea-044682a5a1f4",
+        "text": "Salut Alain, on peut s'appeler si tu veux. Meme si on vise de la PME\/ETI et on a qu'une licence \"PSP\" pas bancaire. cheers",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "671ad569fbc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5982967598243_671ad569fbc40977de70_72.jpg",
+            "first_name": "David",
+            "real_name": "David Remaud",
+            "display_name": "David Remaud (iBanFirst)",
+            "team": "T017AGS2KE0",
+            "name": "david.remaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1765262069.497489",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1765276079.854989",
+        "reply_users": [
+            "U08V1NE4BUJ"
+        ],
+        "replies": [
+            {
+                "user": "U08V1NE4BUJ",
+                "ts": "1765276079.854989"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Diw\/w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salut Alain, on peut s'appeler si tu veux. Meme si on vise de la PME\/ETI et on a qu'une licence \"PSP\" pas bancaire. cheers"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

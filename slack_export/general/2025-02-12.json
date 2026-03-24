@@ -1,0 +1,606 @@
+[
+    {
+        "user": "U08C1HZNT8S",
+        "type": "message",
+        "ts": "1739350448.975869",
+        "client_msg_id": "2e5072ca-e8d3-4d50-8aef-cb627fe9497f",
+        "text": "Merci à tous :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "61c9836da04d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-06\/8423651765825_61c9836da04d5e9d3e43_72.jpg",
+            "first_name": "Séverine",
+            "real_name": "Séverine Loeuille (Impact Plus)",
+            "display_name": "Séverine Loeuille (Impact Plus)",
+            "team": "T017AGS2KE0",
+            "name": "severine.loeuille",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739175260.299989",
+        "parent_user_id": "U08C1HZNT8S",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tv1Qa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci à tous "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07MNBM4WLV",
+        "type": "message",
+        "ts": "1739350541.248599",
+        "client_msg_id": "0e820858-1bab-4c2d-bdcf-09dd30ee933f",
+        "text": "Hello la team,\n\nj'ai un ami entrepreneur qui a des soucis de communication avec son associé.\nIl cherche quelqu'un pour le (les?) coacher sur le sujet.\n\nJe sais que certains d'entre vous ont monté ou ont leur boite et fond déjà du coaching.\nDites moi svp si ça pourrait vous intéresser ?\n\nMerci bcp pour lui ! :heart:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "028ce63b55be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7733128030774_028ce63b55be29945d4f_72.jpg",
+            "first_name": "Domitille",
+            "real_name": "Domitille de Saint-Exupéry",
+            "display_name": "Domitille de Saint-Exupéry (lemlist)",
+            "team": "T017AGS2KE0",
+            "name": "domitille433",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739350541.248599",
+        "reply_count": 8,
+        "reply_users_count": 7,
+        "latest_reply": "1739373687.466659",
+        "reply_users": [
+            "U065DFPCQMP",
+            "U04SM1RGPJB",
+            "U022RFSKQQK",
+            "U06U1GG592M",
+            "U02N2EVMFCG",
+            "U063A8VPPG9",
+            "U07MNBM4WLV"
+        ],
+        "replies": [
+            {
+                "user": "U065DFPCQMP",
+                "ts": "1739352226.093309"
+            },
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1739352482.120029"
+            },
+            {
+                "user": "U022RFSKQQK",
+                "ts": "1739352754.957209"
+            },
+            {
+                "user": "U06U1GG592M",
+                "ts": "1739356604.245629"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1739358572.508149"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1739362227.629139"
+            },
+            {
+                "user": "U07MNBM4WLV",
+                "ts": "1739363255.028589"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1739373687.466659"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MuIbz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello la team,\n\nj'ai un ami entrepreneur qui a des soucis de communication avec son associé.\nIl cherche quelqu'un pour le (les?) coacher sur le sujet.\n\nJe sais que certains d'entre vous ont monté ou ont leur boite et fond déjà du coaching.\nDites moi svp si ça pourrait vous intéresser ?\n\nMerci bcp pour lui ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart",
+                                "unicode": "2764-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U065DFPCQMP",
+        "type": "message",
+        "ts": "1739352226.093309",
+        "client_msg_id": "0A5A5BB4-620B-4BD9-A422-ED9D933E4385",
+        "text": "<@U022RFSKQQK> ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50040e0261e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-15\/6198553206674_50040e0261e7ba62e840_72.jpg",
+            "first_name": "Gaelle",
+            "real_name": "Gaelle Le Goff",
+            "display_name": "Gaelle Le Goff",
+            "team": "T017AGS2KE0",
+            "name": "gaelle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739350541.248599",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P7nvP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U022RFSKQQK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U022RFSKQQK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1739352482.120029",
+        "edited": {
+            "user": "U04SM1RGPJB",
+            "ts": "1739352491.000000"
+        },
+        "client_msg_id": "f76e8b79-d172-4f25-8084-5437aefdd1f3",
+        "text": "<https:\/\/www.linkedin.com\/company\/sidekicks-cc\/> Ils étaient intervenus auprès de nos founders chez skillup et ils en étaient contents",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739350541.248599",
+        "parent_user_id": "U07MNBM4WLV",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/company\/sidekicks-cc\/",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "thumb_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/D4E0BAQG6IhEPdOkVaQ\/company-logo_200_200\/company-logo_200_200\/0\/1689591537605?e=2147483647&v=beta&t=iZwJ-v2QrFCh4yWKOHQ2UMeXVLRUB1SAv2wMnGDyxDg",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/company\/sidekicks-cc\/",
+                "fallback": "Sidekicks | LinkedIn",
+                "text": "Sidekicks | 639 followers on LinkedIn. Nous bousculons les leaders pour qu’ils maximisent l&amp;#39;impact de leur organisation | Nous bousculons les leaders pour qu’ils maximisent l&amp;#39;impact de leur organisation\nNous avons sélectionné les meilleurs &amp;quot;sparring partners&amp;quot; pour les accompagner avec bienveillance mais sans complaisance dans leur stratégie, leur posture et leur décisions.\n\nPosture unique : À mi-chemin entre le coach et le consultant pour garantir une véritable prise de recul tout en agissant de façon concrète et pro-active\n\nSélection exigeante : Les Sidekicks sont eux-mêmes des leaders confirmés et engagés pour mettre leur expérience au profit de leur pairs\n\nMéthode rigoureuse : Tous les Sidekicks sont supervisés par des pairs afin d&amp;#39;assurer la qualité de leur posture en évitant tous biais dans leur approche\n\n100% challengeant : La bienveillance sans complaisance est au coeur de nos convictions, essentielle pour réussir des transformations",
+                "title": "Sidekicks | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/company\/sidekicks-cc\/",
+                "service_name": "linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Na9fM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/company\/sidekicks-cc\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Ils étaient intervenus auprès de nos founders chez skillup et ils en étaient contents"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U07MNBM4WLV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U022RFSKQQK",
+        "type": "message",
+        "ts": "1739352754.957209",
+        "client_msg_id": "1ce95feb-522c-4c72-b3b3-733f8a956de2",
+        "text": "<@U07MNBM4WLV> on peut en discuter avec plaisir, je t'écris en MP. Je fais partie aussi du collectif Sidekicks <@U04SM1RGPJB> :wink: Ravie du feedback positif!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "67fe59b92c78",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-01\/6569222233124_67fe59b92c782b5917b3_72.jpg",
+            "first_name": "Aude",
+            "real_name": "Aude Romelly",
+            "display_name": "Aude Romelly",
+            "team": "T017AGS2KE0",
+            "name": "aromelly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739350541.248599",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+FHJF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U07MNBM4WLV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on peut en discuter avec plaisir, je t'écris en MP. Je fais partie aussi du collectif Sidekicks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04SM1RGPJB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Ravie du feedback positif!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U07MNBM4WLV",
+                    "U04SM1RGPJB"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06U1GG592M",
+        "type": "message",
+        "ts": "1739356604.245629",
+        "client_msg_id": "7ef6ba4e-df69-47dd-8aa1-3aa3552f10d4",
+        "text": "Hello Domitille, je peux te recommander Aurelle : <https:\/\/www.aurelle-montanger.com\/>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "84a1e781f35c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-31\/7202740482978_84a1e781f35c228ca958_72.jpg",
+            "first_name": "Carolane",
+            "real_name": "Carolane Guyon",
+            "display_name": "Carolane (Veesion)",
+            "team": "T017AGS2KE0",
+            "name": "c.guyon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739350541.248599",
+        "parent_user_id": "U07MNBM4WLV",
+        "attachments": [
+            {
+                "image_url": "https:\/\/static.wixstatic.com\/media\/db1503_0cd2b5e3acbf43a0bae3601d17a46a64%7Emv2.png\/v1\/fit\/w_2500,h_1330,al_c\/db1503_0cd2b5e3acbf43a0bae3601d17a46a64%7Emv2.png",
+                "image_width": 1280,
+                "image_height": 720,
+                "image_bytes": 314376,
+                "from_url": "https:\/\/www.aurelle-montanger.com\/",
+                "service_icon": "https:\/\/static.wixstatic.com\/media\/db1503_45465ae8a09b407e8e9abeada8e9bb3b%7Emv2.jpg\/v1\/fill\/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01\/db1503_45465ae8a09b407e8e9abeada8e9bb3b%7Emv2.jpg",
+                "id": 1,
+                "original_url": "https:\/\/www.aurelle-montanger.com\/",
+                "fallback": "Aurelle Montanger: ACCUEIL | Aurelle Montanger",
+                "title": "ACCUEIL | Aurelle Montanger",
+                "title_link": "https:\/\/www.aurelle-montanger.com\/",
+                "service_name": "Aurelle Montanger"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "38akr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Domitille, je peux te recommander Aurelle : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.aurelle-montanger.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1739358572.508149",
+        "client_msg_id": "45cd402a-ae41-42d9-9132-2f747c93ee24",
+        "text": "Moi je suis coaché par <https:\/\/www.linkedin.com\/in\/eobadia?originalSubdomain=fr|Emmanuel>, ça m'aide beaucoup :)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739350541.248599",
+        "parent_user_id": "U07MNBM4WLV",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/eobadia?originalSubdomain=fr",
+                "thumb_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/C4E03AQGD8npQncb1bw\/profile-displayphoto-shrink_200_200\/profile-displayphoto-shrink_200_200\/0\/1617368561469?e=2147483647&v=beta&t=coDTGmZ2t_8Ub4SDqjYlypBgGLlKB-lZFcwQuqZsz8A",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/eobadia?originalSubdomain=fr",
+                "fallback": "Emmanuel Obadia - Emmanuel Obadia &amp; Partners | LinkedIn",
+                "text": "Are you ready to shake things up? \nMy motto is “Authentic leadership: unlocking the… · Expérience : Emmanuel Obadia &amp; Partners · Formation : Télécom SudParis · Lieu : Paris et périphérie · 500 relations ou plus sur LinkedIn. Consultez le profil de Emmanuel Obadia sur LinkedIn, une communauté professionnelle d’un milliard de membres.",
+                "title": "Emmanuel Obadia - Emmanuel Obadia &amp; Partners | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/eobadia?originalSubdomain=fr",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IP5Ec",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Moi je suis coaché par "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/eobadia?originalSubdomain=fr",
+                                "text": "Emmanuel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", ça m'aide beaucoup :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1739362227.629139",
+        "client_msg_id": "c91d5405-24f1-4090-8abe-04162c089fca",
+        "text": "ohhh Emmanuel etait mon 1er boss chez Salesforce, il est top top !!!! je conseille",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739350541.248599",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3vicx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ohhh Emmanuel etait mon 1er boss chez Salesforce, il est top top !!!! je conseille"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U02N2EVMFCG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U07MNBM4WLV",
+        "type": "message",
+        "ts": "1739363255.028589",
+        "client_msg_id": "c584637c-50fc-4b5c-8b28-2e5669c116f9",
+        "text": "Génial, merci à tous pour vos recos, j'ai tout partagé !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "028ce63b55be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7733128030774_028ce63b55be29945d4f_72.jpg",
+            "first_name": "Domitille",
+            "real_name": "Domitille de Saint-Exupéry",
+            "display_name": "Domitille de Saint-Exupéry (lemlist)",
+            "team": "T017AGS2KE0",
+            "name": "domitille433",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739350541.248599",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "83Gm\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Génial, merci à tous pour vos recos, j'ai tout partagé !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1739373687.466659",
+        "client_msg_id": "3216c292-d690-45b6-8cd5-b4382926acfa",
+        "text": "Un gars en or, même si un peu _old school_ :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739350541.248599",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CdRTe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un gars en or, même si un peu "
+                            },
+                            {
+                                "type": "text",
+                                "text": "old school",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

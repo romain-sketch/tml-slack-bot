@@ -1,0 +1,104 @@
+[
+    {
+        "user": "U017CURDPB5",
+        "type": "message",
+        "ts": "1746795549.293219",
+        "client_msg_id": "b0ec88cf-bff9-4031-b8a2-fba086e2e274",
+        "text": "<@U067VEJFT5F>, tu peux contacter Matthieu Chaigne que tu connais bien :wink: Il est très branché RP et Politique\/MInistère et pourra te filer des noms",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "671ad569fbc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5982967598243_671ad569fbc40977de70_72.jpg",
+            "first_name": "David",
+            "real_name": "David Remaud",
+            "display_name": "David Remaud (iBanFirst)",
+            "team": "T017AGS2KE0",
+            "name": "david.remaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1746629200.290279",
+        "parent_user_id": "U067VEJFT5F",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mADp\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U067VEJFT5F"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", tu peux contacter Matthieu Chaigne que tu connais bien "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Il est très branché RP et Politique\/MInistère et pourra te filer des noms"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U067VEJFT5F",
+        "type": "message",
+        "ts": "1746808465.393809",
+        "client_msg_id": "1df2a02b-19ee-4ad4-b9ad-ced9a76b6d67",
+        "text": "Merci à tous ! Quelle pluie de contacts :slightly_smiling_face: y a plus qu'à !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9fcbd8d4bd09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-05\/6296382564371_9fcbd8d4bd095d25ab4c_72.jpg",
+            "first_name": "Amandine",
+            "real_name": "Amandine Moreau",
+            "display_name": "Amandine Moreau",
+            "team": "T017AGS2KE0",
+            "name": "a.gremont.pro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1746629200.290279",
+        "parent_user_id": "U067VEJFT5F",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6QoTZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci à tous ! Quelle pluie de contacts "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " y a plus qu'à !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

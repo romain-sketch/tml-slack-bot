@@ -1,0 +1,167 @@
+[
+    {
+        "user": "U067GNGDATD",
+        "type": "message",
+        "ts": "1750320240.401159",
+        "client_msg_id": "95E4CF68-ADA3-4697-86BC-D759B2E40759",
+        "text": "Même combat ici et nous faisons comme <@U0859A8P14K> \nOn en profite pour récupérer les plannings des stages pour l’année suivante.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "gd73dcdb62f7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d73dcdb62f793ad670516a42032e3fa5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Diard",
+            "display_name": "Old Account \/ Do not use",
+            "team": "T017AGS2KE0",
+            "name": "adiard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750256733.880449",
+        "parent_user_id": "U059T4KRCUC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bjslx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Même combat ici et nous faisons comme "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0859A8P14K"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nOn en profite pour récupérer les plannings des stages pour "
+                            },
+                            {
+                                "type": "text",
+                                "text": "l’année"
+                            },
+                            {
+                                "type": "text",
+                                "text": " suivante."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U059T4KRCUC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U059T4KRCUC",
+        "type": "message",
+        "ts": "1750320925.155129",
+        "client_msg_id": "83d0dd7e-fcdf-4bb0-bf27-9c7749adbb3e",
+        "text": "Merci!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "57639ff481aa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-29\/5337202241186_57639ff481aa2740f127_72.png",
+            "first_name": "Isa",
+            "real_name": "Isa",
+            "display_name": "Isa",
+            "team": "T017AGS2KE0",
+            "name": "ilejeune",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750256733.880449",
+        "parent_user_id": "U059T4KRCUC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zdgqo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U092U6UDLMN",
+        "text": "<@U092U6UDLMN> has joined the channel",
+        "type": "message",
+        "ts": "1750322160.111909"
+    },
+    {
+        "user": "U0177A5V42F",
+        "type": "message",
+        "ts": "1750347934.881489",
+        "client_msg_id": "8c50ecd4-98a5-4c87-991e-3eb00d71fc4b",
+        "text": "<@U059T4KRCUC> Une des pistes serait de mobiliser les étudiants eux memes si tu as des alumnis de certaines écoles. On a fait ca avec l'X et son réseau pour la diffusion d'annonce (Canal what'sapp + Intranet + bouche a oreille). Ca pénètre beaucoup plus vite que les réseaux admin de l'école. Le problème c'est qu'il faut avoir une approche par établissement donc limité aux grosses institutions.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ebca9b04129",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-17\/1245815650949_7ebca9b041296679a81d_72.jpg",
+            "first_name": "Guillaume",
+            "real_name": "Guillaume Laguette",
+            "display_name": "Guillaume Laguette (echOpen)",
+            "team": "T017AGS2KE0",
+            "name": "laguette.guillaume",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750256733.880449",
+        "parent_user_id": "U059T4KRCUC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EFHP3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U059T4KRCUC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Une des pistes serait de mobiliser les étudiants eux memes si tu as des alumnis de certaines écoles. On a fait ca avec l'X et son réseau pour la diffusion d'annonce (Canal what'sapp + Intranet + bouche a oreille). Ca pénètre beaucoup plus vite que les réseaux admin de l'école. Le problème c'est qu'il faut avoir une approche par établissement donc limité aux grosses institutions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U059T4KRCUC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

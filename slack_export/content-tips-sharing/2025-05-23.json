@@ -1,0 +1,342 @@
+[
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1748013991.131989",
+        "client_msg_id": "9d681866-1d4c-4de3-9d75-4a38bf2724de",
+        "text": "Hello, je cherche un lieu à Paris pour faire une nouvelle journée offsite avec mon équipe Marketing.\nIdéalement un loft ou un espace avec une atmosphère chill pour favoriser les échanges et discussions.\n\n• Capacité : 10 personnes\n• Quartier central genre 9e\/10e\/11e ca serait parfait\nSi vous avez des recos je suis preneur !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748013991.131989",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1748281079.156619",
+        "reply_users": [
+            "U02N2EVMFCG",
+            "U03P99RGMTN",
+            "U067VEJFT5F"
+        ],
+        "replies": [
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1748073967.454549"
+            },
+            {
+                "user": "U03P99RGMTN",
+                "ts": "1748249820.896309"
+            },
+            {
+                "user": "U03P99RGMTN",
+                "ts": "1748249880.230449"
+            },
+            {
+                "user": "U067VEJFT5F",
+                "ts": "1748281079.156619"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vJcXV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, je cherche un lieu à Paris pour faire une nouvelle journée offsite avec mon équipe Marketing.\nIdéalement un loft ou un espace avec une atmosphère chill pour favoriser les échanges et discussions.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Capacité : 10 personnes"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Quartier central genre 9e\/10e\/11e ca serait parfait"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nSi vous avez des recos je suis preneur !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U069NSTHZ3Q",
+        "type": "message",
+        "ts": "1748014348.934749",
+        "client_msg_id": "2fc9ec64-9255-490c-a0ed-6ec1e32025f3",
+        "text": "hello, j'ai fait celui là  l'an dernier à 13, topissime <https:\/\/www.kactus.com\/fr\/lieux\/woom-faubourg-des-arts>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "fbbca81fca0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-30\/7816371623809_fbbca81fca0c916c8c15_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Gannau (Oodrive)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "m.gannau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748014348.934749",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1748015444.736879",
+        "reply_users": [
+            "U06CZESF7QF",
+            "U069NSTHZ3Q",
+            "U063A8VPPG9"
+        ],
+        "replies": [
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1748014480.990949"
+            },
+            {
+                "user": "U069NSTHZ3Q",
+                "ts": "1748014857.967189"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1748015444.736879"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.kactus.com\/fr\/lieux\/woom-faubourg-des-arts",
+                "service_icon": "https:\/\/www.kactus.com\/apple-touch-icon.png?v=K4ctusR3brAnDing2",
+                "id": 1,
+                "original_url": "https:\/\/www.kactus.com\/fr\/lieux\/woom-faubourg-des-arts",
+                "fallback": "WOOM Faubourg des Arts  - Tarifs en ligne Séminaire &amp; Soirée",
+                "text": "Devis en 24h pour un événement professionnel à WOOM Faubourg des Arts (75010 Paris). Tarifs, photos, avis en ligne.",
+                "title": "WOOM Faubourg des Arts  - Tarifs en ligne Séminaire &amp; Soirée",
+                "title_link": "https:\/\/www.kactus.com\/fr\/lieux\/woom-faubourg-des-arts",
+                "service_name": "Kactus"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GrMqe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello, j'ai fait celui là  l'an dernier à 13, topissime "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kactus.com\/fr\/lieux\/woom-faubourg-des-arts"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1748014480.990949",
+        "client_msg_id": "b74bd3df-ee0c-4e69-8b85-5c58ecd2170f",
+        "text": "Oh mais ca a l’air parfait ! Merci beaucoup !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748014348.934749",
+        "parent_user_id": "U069NSTHZ3Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4EKbi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh mais ca a l’air parfait ! Merci beaucoup !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U069NSTHZ3Q"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U069NSTHZ3Q",
+        "type": "message",
+        "ts": "1748014857.967189",
+        "client_msg_id": "ea591192-9477-4d09-886d-c9aaf1b7b641",
+        "text": "on avait fini par un apero dinatoire dans la cuisine, la responsable etait très sympa.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "fbbca81fca0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-30\/7816371623809_fbbca81fca0c916c8c15_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Gannau (Oodrive)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "m.gannau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748014348.934749",
+        "parent_user_id": "U069NSTHZ3Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DZh0g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "on avait fini par un apero dinatoire dans la cuisine, la responsable etait très sympa."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U06CZESF7QF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1748015444.736879",
+        "edited": {
+            "user": "U063A8VPPG9",
+            "ts": "1748015481.000000"
+        },
+        "client_msg_id": "D5A3CA90-5395-4678-A3DF-682DED74DE52",
+        "text": "Trop marrant j avais fait le même lieu. Mais on était 50 !\n<@U06CZESF7QF> j avais fait venir un pizzaiolo en plus et c était trop trop bien ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748014348.934749",
+        "parent_user_id": "U069NSTHZ3Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J662a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Trop marrant j avais fait le même lieu. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Mais on était 50 !"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06CZESF7QF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " j avais fait venir un pizzaiolo en plus et c était trop trop bien "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

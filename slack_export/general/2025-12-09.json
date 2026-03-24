@@ -1,0 +1,545 @@
+[
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1765276739.855379",
+        "client_msg_id": "37511969-6730-42fb-98cd-2b02f0cf60c4",
+        "text": "Tous ceux qui veulent venir pourriez vous mettre un :smiling_imp: svp qu'on voit si on reserve ou pas?\nSelma sera la à 18h et moi 18h ou avant si des gens sont chauds avant :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764575278.299119",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gwba2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tous ceux qui veulent venir pourriez vous mettre un "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_imp",
+                                "unicode": "1f608"
+                            },
+                            {
+                                "type": "text",
+                                "text": " svp qu'on voit si on reserve ou pas?\nSelma sera la à 18h et moi 18h ou avant si des gens sont chauds avant "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "smiling_imp",
+                "users": [
+                    "U07PEP71X4Y",
+                    "U04L04T475K",
+                    "U078PFP7A4B",
+                    "U056DAY3YD8",
+                    "U04TU0UA2R1",
+                    "U04SM1RGPJB",
+                    "U08M0JP81DK",
+                    "U092PH1F2CA",
+                    "U063A8VPPG9"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "user": "U04L04T475K",
+        "type": "message",
+        "ts": "1765277925.448219",
+        "client_msg_id": "82ddd346-1481-4b5a-b446-f96f75903e77",
+        "text": "i'm in <@U063A8VPPG9>! je vais juste partir vers 19",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "992240f01962",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4685704045204_992240f019622b6b0af8_72.jpg",
+            "first_name": "Antoine",
+            "real_name": "Antoine Yahia Cherif",
+            "display_name": "Antoine Yahia Cherif",
+            "team": "T017AGS2KE0",
+            "name": "antoine.yc008",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764575278.299119",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9tCy2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i'm in "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U063A8VPPG9"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! je vais juste partir vers 19"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1765279162.810769",
+        "client_msg_id": "bf30cca6-4344-495e-b2d4-8ad808a1166e",
+        "text": "on est une dizaine, va falloir !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764575278.299119",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lcMjY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "on est une dizaine, va falloir !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1765282728.110819",
+        "client_msg_id": "7994dc91-7d1a-4130-a490-b498985069a0",
+        "text": "ils viennent de m'envoyer bouler !!!Non mais ils me chauffent lol",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764575278.299119",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Zy9t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ils viennent de m'envoyer bouler !!!Non mais ils me chauffent lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U08HF5YQM6G",
+                    "U092PH1F2CA",
+                    "U078PFP7A4B",
+                    "U08M0JP81DK"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1765282750.113439",
+        "client_msg_id": "16b8a222-4f58-4fed-85a6-9057fd2fb06a",
+        "text": "Go changer de bar",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764575278.299119",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8T0uk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Go changer de bar"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04L35Y9D08",
+        "type": "message",
+        "ts": "1765293132.002679",
+        "client_msg_id": "64ae2bbf-baed-451e-9003-364bfbd3d77b",
+        "text": "J’avais envie de voir ce que ça faisait de travailler avec un département qualité et remplir des formulaires de compliance pour un chaque nouveau champ dans le CRM :sweat_smile:\nOn bosse avec <http:\/\/siview.ai|siview.ai> - ils font du soft dans le secteur de la réfraction, ils cartonnent cette année",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "568f5815adda",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4705573084496_568f5815addab51accfb_72.jpg",
+            "first_name": "Paul",
+            "real_name": "Paul LEMONNIER",
+            "display_name": "Paul",
+            "team": "T017AGS2KE0",
+            "name": "paul.lemonnier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764837846.871339",
+        "parent_user_id": "U08PEJM137X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iRi9I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J’avais envie de voir ce que ça faisait de travailler avec un département qualité et remplir des formulaires de compliance pour un chaque nouveau champ dans le CRM "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nOn bosse avec "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/siview.ai",
+                                "text": "siview.ai"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - ils font du soft dans le secteur de la réfraction, ils cartonnent cette année"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0177A5V42F",
+        "type": "message",
+        "ts": "1765293855.917589",
+        "edited": {
+            "user": "U0177A5V42F",
+            "ts": "1765293870.000000"
+        },
+        "client_msg_id": "df9e3abb-6d39-4a88-b7ab-6b0343d7409c",
+        "text": "Excellent !\nEn parlant d'ophtalmo, j'étais tombé sur cette boite il y a quelques semaines. Très belle réussite également et j'ai entendu qu'ils cherchent à s'étendre en europe :wink:\n<https:\/\/www.bvimedical.fr\/>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ebca9b04129",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-17\/1245815650949_7ebca9b041296679a81d_72.jpg",
+            "first_name": "Guillaume",
+            "real_name": "Guillaume Laguette",
+            "display_name": "Guillaume Laguette (echOpen)",
+            "team": "T017AGS2KE0",
+            "name": "laguette.guillaume",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764837846.871339",
+        "parent_user_id": "U08PEJM137X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sLIw5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Excellent !\nEn parlant d'ophtalmo, j'étais tombé sur cette boite il y a quelques semaines. Très belle réussite également et j'ai entendu qu'ils cherchent à s'étendre en europe "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.bvimedical.fr\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04L35Y9D08",
+                    "U08PEJM137X"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1765299364.632619",
+        "client_msg_id": "f0f57007-b707-488a-ba8d-c9fc97fe6843",
+        "text": "Selma a booké dans le 8 arrt pour 12 pour 18h jeudi.  <https:\/\/www.tripadvisor.fr\/Restaurant_Review-g187147-d1899096-Reviews-Le_Huitieme_Arrt-Paris_Ile_de_France.html>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764575278.299119",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GpkWL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Selma a booké dans le 8 arrt pour 12 pour 18h jeudi.  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.tripadvisor.fr\/Restaurant_Review-g187147-d1899096-Reviews-Le_Huitieme_Arrt-Paris_Ile_de_France.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart_hands",
+                "users": [
+                    "U078PFP7A4B",
+                    "U04L04T475K",
+                    "U07PEP71X4Y",
+                    "U08HF5YQM6G"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1765299431.851639",
+        "client_msg_id": "1a0cbce0-ad11-4f9b-8578-def1833f263f",
+        "text": "pour être honnête, ils étaient pas bcp plus sympas :smile:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764575278.299119",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pSwyp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pour être honnête, ils étaient pas bcp plus sympas "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U063A8VPPG9",
+                    "U056DAY3YD8",
+                    "U092PH1F2CA",
+                    "U078PFP7A4B",
+                    "U08HF5YQM6G"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1765299494.337979",
+        "client_msg_id": "30a090c1-df04-45e6-9e0c-0fb00dbaeed7",
+        "text": "Ils savent qu'on vient pour bitcher je pense !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764575278.299119",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JdYcQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ils savent qu'on vient pour bitcher je pense !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U092PH1F2CA",
+                    "U078PFP7A4B",
+                    "U056DAY3YD8",
+                    "U08HF5YQM6G",
+                    "U0183AS3MB6"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

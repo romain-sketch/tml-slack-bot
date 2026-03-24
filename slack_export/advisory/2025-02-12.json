@@ -1,0 +1,319 @@
+[
+    {
+        "subtype": "thread_broadcast",
+        "user": "U03QPMQA31V",
+        "thread_ts": "1679916418.064819",
+        "root": {
+            "user": "U0468UYMUUS",
+            "type": "message",
+            "ts": "1679916418.064819",
+            "edited": {
+                "user": "U0468UYMUUS",
+                "ts": "1679916425.000000"
+            },
+            "client_msg_id": "44165f19-605e-469e-8673-b78bcf25aaee",
+            "text": "Hello, quelqu'un pourrait m'expliquer comment vous fonctionnez svp ? quel status ? rem c'est uniquement contre des stocks? comment vous mesurer le temps passé vs le # de stocks ? :slightly_smiling_face:\nMerci",
+            "team": "T017AGS2KE0",
+            "thread_ts": "1679916418.064819",
+            "reply_count": 16,
+            "reply_users_count": 6,
+            "latest_reply": "1739544288.756059",
+            "reply_users": [
+                "U03QPMQA31V",
+                "U01A4GMRRR9",
+                "U02N2EVMFCG",
+                "U04L04T475K",
+                "U063A8VPPG9",
+                "U067GNGDATD"
+            ],
+            "replies": [
+                {
+                    "user": "U03QPMQA31V",
+                    "ts": "1679919240.521739"
+                },
+                {
+                    "user": "U01A4GMRRR9",
+                    "ts": "1679919799.315039"
+                },
+                {
+                    "user": "U02N2EVMFCG",
+                    "ts": "1679925180.876869"
+                },
+                {
+                    "user": "U04L04T475K",
+                    "ts": "1680104838.168279"
+                },
+                {
+                    "user": "U03QPMQA31V",
+                    "ts": "1739351109.361579"
+                },
+                {
+                    "user": "U063A8VPPG9",
+                    "ts": "1739362175.963139"
+                },
+                {
+                    "user": "U03QPMQA31V",
+                    "ts": "1739368742.937309"
+                },
+                {
+                    "user": "U063A8VPPG9",
+                    "ts": "1739371395.619849"
+                },
+                {
+                    "user": "U067GNGDATD",
+                    "ts": "1739475470.091899"
+                },
+                {
+                    "user": "U01A4GMRRR9",
+                    "ts": "1739518008.272339"
+                },
+                {
+                    "user": "U067GNGDATD",
+                    "ts": "1739520693.048559"
+                },
+                {
+                    "user": "U063A8VPPG9",
+                    "ts": "1739525837.766019"
+                },
+                {
+                    "user": "U03QPMQA31V",
+                    "ts": "1739530423.192069"
+                },
+                {
+                    "user": "U02N2EVMFCG",
+                    "ts": "1739542912.947559"
+                },
+                {
+                    "user": "U063A8VPPG9",
+                    "ts": "1739542974.690579"
+                },
+                {
+                    "user": "U03QPMQA31V",
+                    "ts": "1739544288.756059"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "INTq",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Hello, quelqu'un pourrait m'expliquer comment vous fonctionnez svp ? quel status ? rem c'est uniquement contre des stocks? comment vous mesurer le temps passé vs le # de stocks ? "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "slightly_smiling_face",
+                                    "unicode": "1f642"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nMerci"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1739351109.361579",
+        "client_msg_id": "30FE0417-A3DB-44A8-951B-567B445F2554",
+        "text": "Salut à tous,\n\nJe reviens sur le sujet ci-dessus.\n\nAuriez-vous des éléments sur les standards de marché en termes de TJM pour de l’advisory CMO et autres options (stocks notamment volume et conditions).\n\nJe reprends de l’advisory on the side et j’ai une opportunité dans une boite qui se lance tout juste après avoir sécurisé son financement et me propose de l’accompagner à raison de 3 à 5 jours par <http:\/\/mois.je|mois.je> voudrais leur faire une proposition. \n\nMerci à tous ! ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gb6hC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salut à tous,\n\nJe reviens sur le sujet ci-dessus.\n\nAuriez-vous des éléments sur les standards de marché en termes de TJM pour de l’advisory CMO et autres options (stocks notamment volume et conditions).\n\nJe reprends de l’advisory on the side et j’ai une opportunité dans une boite qui se lance tout juste après avoir sécurisé son financement et me propose de l’accompagner à raison de 3 à 5 jours par mois.je voudrais leur faire une proposition. \n\nMerci à tous ! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U084KTR7YKX",
+                    "U065DFPCQMP",
+                    "U063A8VPPG9",
+                    "U067GNGDATD"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1739362175.963139",
+        "client_msg_id": "6a7bccb0-33ff-43fa-9060-d33d589295f3",
+        "text": "Hello <@U03QPMQA31V> alors perso ca depend si c'est en seed ou serie A.\nJe fonctionne pas à moins de 500e de l'heure en advisory + stocks, si c'est seed, tu peux augmenter le nombre de stocks et diminuer le tarif , mais il faut que tu crois dans la boite. :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679916418.064819",
+        "parent_user_id": "U0468UYMUUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LDkI8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03QPMQA31V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " alors perso ca depend si c'est en seed ou serie A.\nJe fonctionne pas à moins de 500e de l'heure en advisory + stocks, si c'est seed, tu peux augmenter le nombre de stocks et diminuer le tarif , mais il faut que tu crois dans la boite. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03QPMQA31V",
+        "type": "message",
+        "ts": "1739368742.937309",
+        "client_msg_id": "7688934A-1B04-4008-AC3E-27BD12490077",
+        "text": "Merci Emmanuelle ! \nEn effet plutôt seed\nPour le stock, quels conseils as-tu pour définir le bon montant et structure ? Merci encore  ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "920d362f50c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-26\/3858025441956_920d362f50c400fcafe0_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu Pouget-Abadie",
+            "display_name": "Matthieu PA (Orisha)",
+            "team": "T017AGS2KE0",
+            "name": "mpougetabadie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679916418.064819",
+        "parent_user_id": "U0468UYMUUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6XBYM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci Emmanuelle ! \nEn"
+                            },
+                            {
+                                "type": "text",
+                                "text": " effet plutôt seed\nPour le stock, quels conseils as-tu pour définir le bon montant et structure ? Merci encore  "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1739371395.619849",
+        "client_msg_id": "53a43155-29e9-45e7-9e9b-da7773b021bf",
+        "text": "je pense que sur les stocks <@U01A4GMRRR9> sera de meilleur conseil que moi non? moi je capte pas tout aux BSA Air lol",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679916418.064819",
+        "parent_user_id": "U0468UYMUUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aIr2J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je pense que sur les stocks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01A4GMRRR9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sera de meilleur conseil que moi non? moi je capte pas tout aux BSA Air lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03QPMQA31V"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U03QPMQA31V"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

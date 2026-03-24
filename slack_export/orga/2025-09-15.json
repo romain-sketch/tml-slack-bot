@@ -1,0 +1,138 @@
+[
+    {
+        "user": "U05H3SJKYFQ",
+        "type": "message",
+        "ts": "1757954828.876239",
+        "client_msg_id": "a0adca09-638f-44ec-b836-b9eedc8b7f2b",
+        "text": "Hello à toutes et tous ! Nouvelle question orga :slightly_smiling_face: comment êtes vous organisés sur le scope com (dont RP)\/content\/brand\/social media ? Un seul pôle, plusieurs ? Pour quelles raisons ? Comment gérez-vous le côté global\/local en particulier l'aspect scalabilité (ne pas pouvoir placer typiquement un\/e comms manager par marché) ? Mutualisation des rôles\/ressources entre project management des grosses campagnes, reporting ou encore sales enablement et de quelle manière ?\nMerci d'avance pour vos retours",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0931617f5e75",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-04\/5842709801061_0931617f5e75eee9f27b_72.jpg",
+            "first_name": "Raphaëlle",
+            "real_name": "Raphaëlle Béguinel - Malt",
+            "display_name": "Raphaëlle Béguinel - Malt",
+            "team": "T017AGS2KE0",
+            "name": "rbeguinel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757954828.876239",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1758268424.718909",
+        "reply_users": [
+            "U01A4GMRRR9",
+            "U04CW99BP3Q",
+            "U05H3SJKYFQ"
+        ],
+        "replies": [
+            {
+                "user": "U01A4GMRRR9",
+                "ts": "1758003334.319319"
+            },
+            {
+                "user": "U04CW99BP3Q",
+                "ts": "1758007805.042899"
+            },
+            {
+                "user": "U05H3SJKYFQ",
+                "ts": "1758096003.572989"
+            },
+            {
+                "user": "U04CW99BP3Q",
+                "ts": "1758268424.718909"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5+fYU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello à toutes et tous ! Nouvelle question orga "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " comment êtes vous organisés sur le scope com (dont RP)\/content\/brand\/social media ? Un seul pôle, plusieurs ? Pour quelles raisons ? Comment gérez-vous le côté global\/local en particulier l'aspect scalabilité (ne pas pouvoir placer typiquement un\/e comms manager par marché) ? Mutualisation des rôles\/ressources entre project management des grosses campagnes, reporting ou encore sales enablement et de quelle manière ?\nMerci d'avance pour vos retours"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1758003334.319319",
+        "client_msg_id": "572FFA97-D257-4EB2-B6C9-9A58765BE144",
+        "text": "Hello !\nOn a une équipe Corp Comm qui gère PR NA, PR EMEA (dotted line au VP field), social et Analyst relation \n\nOn a une agence RP au US et une autre sur EMEA (mais avec des personnes locales sur UK\/ FR\/ DE \/ IT)\n\nOn a une autre équipe brand \/ content global . L equipe content global va Créer du contenu mais aussi assurer la coordination avec les autres ententites qui vont faire du cotenu. Celui ci peut venir des équipes Customer MKG, Field, ….\n\nSur nos campagnes globales , on a 2 personnes en gestion de projet en transverses. \n\nBon je te jettes 2\/3 infos mais dispo pour un call rapide si besoin . \n\nMon conseil : pas d orga parfaite . Il faut aligner les équipes par les KPI  et les leaders.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757954828.876239",
+        "parent_user_id": "U05H3SJKYFQ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c\/R2P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello !\nOn a une équipe Corp Comm qui gère PR NA, PR EMEA (dotted line au VP field), social et Analyst relation \n\nOn a une agence RP au US et une autre sur EMEA (mais avec des personnes locales sur UK\/ FR\/ DE \/ IT)\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "On a une autre équipe brand \/ content global "
+                            },
+                            {
+                                "type": "text",
+                                "text": ". L equipe content global va Créer du contenu mais aussi assurer la coordination avec les autres ententites qui vont faire du cotenu. Celui ci peut venir des équipes Customer MKG, Field, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "…"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n\nSur nos campagnes globales , on a 2 personnes en gestion de projet en transverses. \n\nBon je te jettes 2\/3 infos mais dispo pour un call rapide si besoin . \n\nMon conseil : pas d orga parfaite . Il faut aligner les équipes par les KPI  et les leaders"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

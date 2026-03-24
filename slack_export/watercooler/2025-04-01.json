@@ -1,0 +1,46 @@
+[
+    {
+        "user": "U08300D2NJY",
+        "type": "message",
+        "ts": "1743522972.754139",
+        "client_msg_id": "30b04299-1f23-455d-a9f7-3e598578f31b",
+        "text": "Je t'envoie un mp <@U067VEJFT5F>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "06ec2fecf14f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-29\/8102732354515_06ec2fecf14fc6511a05_72.jpg",
+            "first_name": "Keyvan",
+            "real_name": "Keyvan",
+            "display_name": "Keyvan",
+            "team": "T017AGS2KE0",
+            "name": "keyvan.hamidzadeh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743413808.613479",
+        "parent_user_id": "U067VEJFT5F",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r4go7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je t'envoie un mp "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U067VEJFT5F"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

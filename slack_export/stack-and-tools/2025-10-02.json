@@ -1,0 +1,72 @@
+[
+    {
+        "user": "U092U6UDLMN",
+        "type": "message",
+        "ts": "1759390283.310979",
+        "client_msg_id": "baeeed4c-799a-4fec-9883-5052b57f6e83",
+        "text": "La communauté slack <https:\/\/businessops.io\/|Business Operations Network> (dédié aux Ops) pourrait peut-être t'aider ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e910bc968404",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-19\/9072876473829_e910bc968404c2c0b5d1_72.png",
+            "first_name": "Bastien",
+            "real_name": "Bastien Meaux (DialOnce)",
+            "display_name": "Bastien Meaux",
+            "team": "T017AGS2KE0",
+            "name": "bmeaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759335468.329909",
+        "parent_user_id": "U017CURDPB5",
+        "attachments": [
+            {
+                "from_url": "https:\/\/businessops.io\/",
+                "id": 1,
+                "original_url": "https:\/\/businessops.io\/",
+                "fallback": "La 1ère communauté Ops en France - Business Operations Network",
+                "text": "Développez votre carrière et dépassez vos objectifs professionnels en tirant parti de la puissance d'un réseau inégalable. Rejoignez des professionnels des entreprises les plus actives et les plus en avance sur leur marché.",
+                "title": "La 1ère communauté Ops en France - Business Operations Network",
+                "title_link": "https:\/\/businessops.io\/",
+                "service_name": "businessops.io"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yw8Cz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "La communauté slack "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/businessops.io\/",
+                                "text": "Business Operations Network"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (dédié aux Ops) pourrait peut-être t'aider ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U017CURDPB5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

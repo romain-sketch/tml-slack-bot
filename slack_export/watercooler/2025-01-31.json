@@ -1,0 +1,166 @@
+[
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1738311535.805459",
+        "client_msg_id": "dad7579b-1fa6-4242-8974-218bf8d00081",
+        "text": "<@U01MVJPEEH3> Félicitations par avance !!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738256528.147519",
+        "parent_user_id": "U01MVJPEEH3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gejmy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01MVJPEEH3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Félicitations par avance !!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01MVJPEEH3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1738311634.248149",
+        "client_msg_id": "68e5b965-4e42-4a51-806f-d43cd1418d5f",
+        "text": "<https:\/\/kellblog.com\/>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738227960.871559",
+        "parent_user_id": "U04A6JMRWCS",
+        "attachments": [
+            {
+                "from_url": "https:\/\/kellblog.com\/",
+                "service_icon": "https:\/\/i0.wp.com\/kellblog.com\/wp-content\/uploads\/2024\/11\/Wordpress-Transparent.png?fit=180%2C180&amp;ssl=1",
+                "id": 1,
+                "original_url": "https:\/\/kellblog.com\/",
+                "fallback": "Kellblog",
+                "text": "Kellblog covers topics related to starting, leading, and scaling enterprise software startups including company strategy, financing strategy, go-to-market strategy, sales, marketing, positioning, messaging, and metrics",
+                "title": "Kellblog",
+                "title_link": "https:\/\/kellblog.com\/",
+                "service_name": "kellblog.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dTpda",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/kellblog.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U017CURDPB5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U084LQF8023",
+        "type": "message",
+        "ts": "1738326067.437379",
+        "client_msg_id": "ff43fc8b-1a68-4809-8579-34b6b853b010",
+        "text": "félicitations !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a70a92c39694",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-01-20\/8306570351351_a70a92c3969457259db9_72.jpg",
+            "first_name": "Cosmina",
+            "real_name": "Cosmina Trifan",
+            "display_name": "Cosmina Trifan",
+            "team": "T017AGS2KE0",
+            "name": "cosmi.trifan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738256528.147519",
+        "parent_user_id": "U01MVJPEEH3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uwLvx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "félicitations !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01MVJPEEH3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

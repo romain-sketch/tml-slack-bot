@@ -1,0 +1,55 @@
+[
+    {
+        "user": "U06U1GG592M",
+        "type": "message",
+        "ts": "1739261099.936979",
+        "client_msg_id": "758cc606-62f5-4362-88b1-06f90206b4d2",
+        "text": "Hello, possible d'enregistrer le call à tout hasard ? :smiley: <@U04SM1RGPJB>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "84a1e781f35c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-31\/7202740482978_84a1e781f35c228ca958_72.jpg",
+            "first_name": "Carolane",
+            "real_name": "Carolane Guyon",
+            "display_name": "Carolane (Veesion)",
+            "team": "T017AGS2KE0",
+            "name": "c.guyon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738659623.127509",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OH\/fP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, possible d'enregistrer le call à tout hasard ? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiley",
+                                "unicode": "1f603"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04SM1RGPJB"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

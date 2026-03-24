@@ -1,0 +1,646 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U0AAYJQAL8N",
+        "text": "<@U0AAYJQAL8N> has joined the channel",
+        "type": "message",
+        "ts": "1769510208.848329"
+    },
+    {
+        "user": "U054GRSQCTX",
+        "type": "message",
+        "ts": "1769516259.192599",
+        "client_msg_id": "3166f6a5-0516-43c1-b916-dbdc3f48d312",
+        "text": "Encore félicitations <@U06CZESF7QF> pour ce *Next Market Live* consacré à l'Espagne ! Content d'avoir pu partager ces best practices avec tout le monde. Et félicitations à l'équipe pour l’organisation c’était ultra fluide, du grand art :clap: .\n\nJe suis preneur du lien du replay dès qu’il est dispo pour le faire tourner :wink:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "01f920d8d689",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-24\/5180782979568_01f920d8d689435b5764_72.jpg",
+            "first_name": "Tarik",
+            "real_name": "Tarik Magra",
+            "display_name": "Tarik Magra",
+            "team": "T017AGS2KE0",
+            "name": "tarik.magra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769516259.192599",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1769532173.413029",
+        "reply_users": [
+            "U06CZESF7QF",
+            "U08EN5GRYCC"
+        ],
+        "replies": [
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1769525674.544509"
+            },
+            {
+                "user": "U08EN5GRYCC",
+                "ts": "1769529053.549669"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1769532173.413029"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yhs6o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Encore félicitations "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06CZESF7QF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour ce "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Next Market Live",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " consacré à l'Espagne ! Content d'avoir pu partager ces best practices avec tout le monde. Et félicitations à l'équipe pour l’organisation c’était ultra fluide, du grand art "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "clap",
+                                "unicode": "1f44f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " .\n\nJe suis preneur du lien du replay dès qu’il est dispo pour le faire tourner "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "blue_heart",
+                "users": [
+                    "U06CZESF7QF",
+                    "U07MNBM4WLV"
+                ],
+                "count": 2
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U08EN5GRYCC",
+                    "U07MNBM4WLV"
+                ],
+                "count": 2
+            },
+            {
+                "name": "es",
+                "users": [
+                    "U08EN5GRYCC",
+                    "U0AAYJQAL8N"
+                ],
+                "count": 2
+            },
+            {
+                "name": "dancer",
+                "users": [
+                    "U08EN5GRYCC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1769525674.544509",
+        "client_msg_id": "ef75d7d5-6302-4da2-a33b-b7d6a051ef59",
+        "text": "Merci à toi ! C’était top d’avoir ton retour d’expérience sur le sujet.\n\nYes je te donne les replays dès qu’ils sont dispos",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769516259.192599",
+        "parent_user_id": "U054GRSQCTX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nrh8q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci à toi ! C’était top d’avoir ton retour d’expérience sur le sujet.\n\nYes je te donne les replays dès qu’ils sont dispos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U054GRSQCTX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U08EN5GRYCC",
+        "type": "message",
+        "ts": "1769529053.549669",
+        "client_msg_id": "0ad7287f-6c6a-4930-8867-ed59e147c77a",
+        "text": "Hola Eugène, je suis également intéressée par le replay, si c’est possible;-) Merci.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "3944e9004e51",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-23\/8520970014112_3944e9004e5166d3f29d_72.png",
+            "first_name": "Armelle",
+            "real_name": "Armelle Jaclot",
+            "display_name": "Armelle Jaclot",
+            "team": "T017AGS2KE0",
+            "name": "armelle.jaclot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769516259.192599",
+        "parent_user_id": "U054GRSQCTX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yXqM4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hola Eugène, je suis également intéressée par le replay, si c’est possible;-) Merci."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1769532173.413029",
+        "client_msg_id": "ea45f69e-2426-4b88-a5ec-38a331fd435d",
+        "text": "Yes avec plaisir. Si tu es inscrite sur l’event tu les recevras. Si c’est pas le cas tu peux encore t’inscrire : <https:\/\/www.weglot.com\/events\/next-market-live-spain>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769516259.192599",
+        "parent_user_id": "U054GRSQCTX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2oJdW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes avec plaisir. Si tu es inscrite sur l’event tu les recevras. Si c’est pas le cas tu peux encore t’inscrire : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.weglot.com\/events\/next-market-live-spain"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U08EN5GRYCC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U07MNBM4WLV",
+        "type": "message",
+        "ts": "1769539216.865769",
+        "client_msg_id": "b6da7b0f-8bad-450c-89dd-477d551e5899",
+        "text": "Hello la team\nVous auriez des exemples cools d'usage de Claude Code pour vous \/ votre équipe Marketing svp ?!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "028ce63b55be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7733128030774_028ce63b55be29945d4f_72.jpg",
+            "first_name": "Domitille",
+            "real_name": "Domitille de Saint-Exupéry",
+            "display_name": "Domitille de Saint-Exupéry (lemlist)",
+            "team": "T017AGS2KE0",
+            "name": "domitille433",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769539216.865769",
+        "reply_count": 6,
+        "reply_users_count": 5,
+        "latest_reply": "1770311330.683549",
+        "reply_users": [
+            "U017H09S857",
+            "U07MNBM4WLV",
+            "U065DFPCQMP",
+            "U06CZESF7QF",
+            "U078PFP7A4B"
+        ],
+        "replies": [
+            {
+                "user": "U017H09S857",
+                "ts": "1769547001.694439"
+            },
+            {
+                "user": "U07MNBM4WLV",
+                "ts": "1769548450.979339"
+            },
+            {
+                "user": "U065DFPCQMP",
+                "ts": "1769549267.474819"
+            },
+            {
+                "user": "U065DFPCQMP",
+                "ts": "1769549287.974169"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1769689879.390039"
+            },
+            {
+                "user": "U078PFP7A4B",
+                "ts": "1770311330.683549"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m5h9g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello la team\nVous auriez des exemples cools d'usage de Claude Code pour vous \/ votre équipe Marketing svp ?!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08SA22HS0J",
+        "type": "message",
+        "ts": "1769541353.062479",
+        "client_msg_id": "8a0fb41d-6449-4a32-a504-c3948cbb84fd",
+        "text": "Je sais pas si c'est très cool mais j’ai vibe-codé via Claude Code notre traducteur FR&lt;&gt;En avec choix du type de trad (littéral-scientique-marketing-cool) et gestion de lexique.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "266d9356f19e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-07\/10243863201635_266d9356f19e63bc9267_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu BONENFANT (SecLab)",
+            "display_name": "Matthieu BONENFANT (SecLab)",
+            "team": "T017AGS2KE0",
+            "name": "matthieu.bonenfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769541353.062479",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1769602822.803139",
+        "reply_users": [
+            "U07MNBM4WLV",
+            "U0A11HFGA31"
+        ],
+        "replies": [
+            {
+                "user": "U07MNBM4WLV",
+                "ts": "1769548421.426219"
+            },
+            {
+                "user": "U0A11HFGA31",
+                "ts": "1769602822.803139"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "azSGa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je sais pas si c'est très cool mais j’ai vibe-codé via Claude Code notre traducteur FR<>En avec choix du type de trad (littéral-scientique-marketing-cool) et gestion de lexique."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1769547001.694439",
+        "client_msg_id": "C2D5F491-0D0C-408F-BDB6-18E403444164",
+        "text": "Évidemment tu as aussi le use case de Victor pour Dayuse",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769539216.865769",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ATeH+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Évidemment tu as aussi le use case de Victor pour Dayuse"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07MNBM4WLV",
+        "type": "message",
+        "ts": "1769548421.426219",
+        "client_msg_id": "48e3bfb9-e2ea-4ac8-b36b-2d055eac267e",
+        "text": "c'est MEGA cool tu veux dire :smile:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "028ce63b55be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7733128030774_028ce63b55be29945d4f_72.jpg",
+            "first_name": "Domitille",
+            "real_name": "Domitille de Saint-Exupéry",
+            "display_name": "Domitille de Saint-Exupéry (lemlist)",
+            "team": "T017AGS2KE0",
+            "name": "domitille433",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769541353.062479",
+        "parent_user_id": "U08SA22HS0J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DJcu8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "c'est MEGA cool tu veux dire "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07MNBM4WLV",
+        "type": "message",
+        "ts": "1769548450.979339",
+        "client_msg_id": "b6aaed96-1d3f-4d8f-893c-fb06231ecd24",
+        "text": "ah oui level expert ++ ahah",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "028ce63b55be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7733128030774_028ce63b55be29945d4f_72.jpg",
+            "first_name": "Domitille",
+            "real_name": "Domitille de Saint-Exupéry",
+            "display_name": "Domitille de Saint-Exupéry (lemlist)",
+            "team": "T017AGS2KE0",
+            "name": "domitille433",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769539216.865769",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OPMfk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ah oui level expert ++ ahah"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U065DFPCQMP",
+        "type": "message",
+        "ts": "1769549267.474819",
+        "client_msg_id": "0D734C1D-3955-47BA-969A-92A1A24393AA",
+        "text": "<https:\/\/www.linkedin.com\/posts\/jeremygoillot_je-lance-un-whatsapp-ultra-s%C3%A9lectif-pour-activity-7418921432170237952-ZkzL?utm_source=share&amp;utm_medium=member_ios&amp;rcm=ACoAAAA-VNQB56B9aUs0myFt7waoHI9NN0VIEMw|https:\/\/www.linkedin.com\/posts\/jeremygoillot_je-lance-un-whatsapp-ultra-s%C3%A9lectif-pour-activity-7418921432170237952-ZkzL?utm_source=share&amp;utm_medium=member_ios&amp;rcm=ACoAAAA-VNQB56B9aUs0myFt7waoHI9NN0VIEMw>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50040e0261e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-15\/6198553206674_50040e0261e7ba62e840_72.jpg",
+            "first_name": "Gaelle",
+            "real_name": "Gaelle Le Goff",
+            "display_name": "Gaelle Le Goff",
+            "team": "T017AGS2KE0",
+            "name": "gaelle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769539216.865769",
+        "parent_user_id": "U07MNBM4WLV",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/posts\/jeremygoillot_je-lance-un-whatsapp-ultra-s%C3%A9lectif-pour-activity-7418921432170237952-ZkzL?utm_source=share&utm_medium=member_ios&rcm=ACoAAAA-VNQB56B9aUs0myFt7waoHI9NN0VIEMw",
+                "image_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/D4E22AQFNVw6NhWxyiw\/feedshare-shrink_2048_1536\/B4EZvTmYu6GwAk-\/0\/1768781614372?e=2147483647&v=beta&t=dQudvWkZKz8KONIF8KWYdnLbiN9ou4mAkfCXpJZJTcw",
+                "image_width": 1179,
+                "image_height": 1216,
+                "image_bytes": 201521,
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/posts\/jeremygoillot_je-lance-un-whatsapp-ultra-s%C3%A9lectif-pour-activity-7418921432170237952-ZkzL?utm_source=share&amp;utm_medium=member_ios&amp;rcm=ACoAAAA-VNQB56B9aUs0myFt7waoHI9NN0VIEMw",
+                "fallback": "JE LANCE UN WHATSAPP ULTRA SÉLECTIF POUR TOUS LES PROFILS NON-TECH QUI SONT ACCROS À CLAUDE CODE !  Je suis le seul à ne plus dormir la nuit et juste penser à tout ce que je peux faire avec Claude… | Jérémy Goillot | 378 commentaires",
+                "text": "JE LANCE UN WHATSAPP ULTRA SÉLECTIF POUR TOUS LES PROFILS NON-TECH QUI SONT ACCROS À CLAUDE CODE !\n\nJe suis le seul à ne plus dormir la nuit et juste penser à tout ce que je peux faire avec Claude Code ? \n\nMa femme m’interdit de prononcer le mot « Clau….. »\n\nJe cherche d’autres personnes pour en discuter !\n\nQui est chaud ?\n\nPS : Fais-moi rêver en commentaire, qu’est-ce que tu as buildé la semaine dernière ? \nÇa me fait du temps pour review les candidatures :eyes:\n\nPlaces restantes 43\/50| 378 commentaires sur LinkedIn",
+                "title": "JE LANCE UN WHATSAPP ULTRA SÉLECTIF POUR TOUS LES PROFILS NON-TECH QUI SONT ACCROS À CLAUDE CODE !  Je suis le seul à ne plus dormir la nuit et juste penser à tout ce que je peux faire avec Claude… | Jérémy Goillot | 378 commentaires",
+                "title_link": "https:\/\/www.linkedin.com\/posts\/jeremygoillot_je-lance-un-whatsapp-ultra-s%C3%A9lectif-pour-activity-7418921432170237952-ZkzL?utm_source=share&utm_medium=member_ios&rcm=ACoAAAA-VNQB56B9aUs0myFt7waoHI9NN0VIEMw",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aYtKy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/posts\/jeremygoillot_je-lance-un-whatsapp-ultra-s%C3%A9lectif-pour-activity-7418921432170237952-ZkzL?utm_source=share&utm_medium=member_ios&rcm=ACoAAAA-VNQB56B9aUs0myFt7waoHI9NN0VIEMw",
+                                "text": "https:\/\/www.linkedin.com\/posts\/jeremygoillot_je-lance-un-whatsapp-ultra-s%C3%A9lectif-pour-activity-7418921432170237952-ZkzL?utm_source=share&utm_medium=member_ios&rcm=ACoAAAA-VNQB56B9aUs0myFt7waoHI9NN0VIEMw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U07MNBM4WLV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U065DFPCQMP",
+        "type": "message",
+        "ts": "1769549287.974169",
+        "client_msg_id": "5237068E-B076-462A-88E3-305639E9739C",
+        "text": "Infiltre ce club ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50040e0261e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-15\/6198553206674_50040e0261e7ba62e840_72.jpg",
+            "first_name": "Gaelle",
+            "real_name": "Gaelle Le Goff",
+            "display_name": "Gaelle Le Goff",
+            "team": "T017AGS2KE0",
+            "name": "gaelle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769539216.865769",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P+Skc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Infiltre ce club "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

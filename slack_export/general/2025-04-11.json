@@ -1,0 +1,53 @@
+[
+    {
+        "user": "U03CY07UZJM",
+        "type": "message",
+        "ts": "1744357862.771609",
+        "client_msg_id": "f7519197-bb92-4f39-a875-70fa1b9064bf",
+        "text": "Bien le bonjour! Qui connaît une communauté slack Marketing en Allemagne ? Comme TML ou équivalent, ça serait top merci!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "cf1b09b1a910",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-02\/6894190939717_cf1b09b1a910eb11be75_72.jpg",
+            "first_name": "Patrice",
+            "real_name": "Patrice Barbesier",
+            "display_name": "Patrice Barbesier",
+            "team": "T017AGS2KE0",
+            "name": "patrice.barbesier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ip3gp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bien le bonjour! Qui connaît une communauté slack Marketing en Allemagne ? Comme TML ou équivalent, ça serait top merci!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "x",
+                "users": [
+                    "U06CZESF7QF",
+                    "U067GNGDATD",
+                    "U063A8VPPG9",
+                    "U078PFP7A4B",
+                    "U08EN5GRYCC"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

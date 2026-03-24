@@ -1,0 +1,226 @@
+[
+    {
+        "user": "U08EN5T6F4L",
+        "type": "message",
+        "ts": "1758876478.575469",
+        "client_msg_id": "13a8c5eb-8cf1-48af-ae7b-ed6252f866eb",
+        "text": "Invitation envoyée pour le call vendredi 3 octobre à 12h00 : _\"Implémentation de Dust : retours d’expérience &amp; impact orga\"_\n\n<@U02N2EVMFCG> <@U017CURDPB5> je vous ai mis dans la boucle.\n\nPour les autres, si vous souhaitez rejoindre l’échange, dites-le-moi et je vous ajoute volontiers :raised_hands:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "731ca28d6808",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-18\/8615871359542_731ca28d68086f39666f_72.png",
+            "first_name": "Sidney",
+            "real_name": "Sidney Ouarzazi",
+            "display_name": "Sidney Ouarzazi (Sellsy)",
+            "team": "T017AGS2KE0",
+            "name": "sidney.o",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1754574378.314379",
+        "parent_user_id": "U086LFGGVUG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C713K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Invitation envoyée pour le call vendredi 3 octobre à 12h00 : "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\"Implémentation de Dust : retours d’expérience & impact orga\"",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02N2EVMFCG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U017CURDPB5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je vous ai mis dans la boucle.\n\nPour les autres, si vous souhaitez rejoindre l’échange, dites-le-moi et je vous ajoute volontiers "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "unicode": "1f64c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U086LFGGVUG"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U086LFGGVUG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U086LFGGVUG",
+        "type": "message",
+        "ts": "1758885510.348729",
+        "client_msg_id": "2a216858-9955-4541-b8ba-96e1ef22d77b",
+        "text": "merci beaucoup <@U08EN5T6F4L> !!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "8037084d031e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-01-03\/8241041927621_8037084d031e372f4d94_72.jpg",
+            "first_name": "Laura",
+            "real_name": "Laura Silva",
+            "display_name": "Laura Silva",
+            "team": "T017AGS2KE0",
+            "name": "laura.silva",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1754574378.314379",
+        "parent_user_id": "U086LFGGVUG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8plqE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "merci beaucoup "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08EN5T6F4L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " !!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1758886660.028199",
+        "client_msg_id": "BC35B89F-F4F0-4B6C-824B-5D96019D6415",
+        "text": "J’avais complètement zappé ce thread… sorry ! \nPas dispo le 3\/10 mais vous semblez être entre de bonnes mains !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1754574378.314379",
+        "parent_user_id": "U086LFGGVUG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P36OQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J’avais complètement zappé ce thread… sorry ! "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPas dispo le 3\/10 mais vous semblez être entre de bonnes mains !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017CURDPB5",
+        "type": "message",
+        "ts": "1758892316.195969",
+        "client_msg_id": "da648bd3-f943-44b3-b2a5-6c6dd3a6eede",
+        "text": "merci <@U08EN5T6F4L>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "671ad569fbc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5982967598243_671ad569fbc40977de70_72.jpg",
+            "first_name": "David",
+            "real_name": "David Remaud",
+            "display_name": "David Remaud (iBanFirst)",
+            "team": "T017AGS2KE0",
+            "name": "david.remaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1754574378.314379",
+        "parent_user_id": "U086LFGGVUG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o1OtF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08EN5T6F4L"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "user": "U0177A5V42F",
+        "type": "message",
+        "ts": "1746195910.232459",
+        "client_msg_id": "51f4ffe4-5cdf-42c1-b336-a641fd815d2c",
+        "text": "Hello, sur un sujet loin de nos conversations usuelles, quelqu'un aurait un contact dans les équipes qui produisent la série Hypocrate ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ebca9b04129",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-17\/1245815650949_7ebca9b041296679a81d_72.jpg",
+            "first_name": "Guillaume",
+            "real_name": "Guillaume Laguette",
+            "display_name": "Guillaume Laguette (echOpen)",
+            "team": "T017AGS2KE0",
+            "name": "laguette.guillaume",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nCQbb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, sur un sujet loin de nos conversations usuelles, quelqu'un aurait un contact dans les équipes qui produisent la série Hypocrate ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "x",
+                "users": [
+                    "U017RAZCAGZ",
+                    "U063A8VPPG9",
+                    "U06DYTRDLUD",
+                    "U017H09S857",
+                    "U02N2EVMFCG",
+                    "U01A4GMRRR9",
+                    "U06CZESF7QF",
+                    "U07D08K3U0K",
+                    "U069NSTHZ3Q",
+                    "U08QZ6EKE4Q"
+                ],
+                "count": 10
+            }
+        ]
+    }
+]

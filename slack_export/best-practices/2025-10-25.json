@@ -1,0 +1,59 @@
+[
+    {
+        "user": "U06MHCCLQG3",
+        "type": "message",
+        "ts": "1761408393.559539",
+        "client_msg_id": "1d276ee9-4fe4-47a6-82b1-ade2550d521e",
+        "text": "Merci beaucoup <@U063Q1LA69W>, je vais le contacter:)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c0d40ab69a35",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-02\/6731971842677_c0d40ab69a3508d4c595_72.png",
+            "first_name": "Arnaud",
+            "real_name": "Arnaud Delubac (Greenly)",
+            "display_name": "Arnaud Delubac",
+            "team": "T017AGS2KE0",
+            "name": "arnaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760688761.356399",
+        "parent_user_id": "U06MHCCLQG3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8glz7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci beaucoup "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U063Q1LA69W"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", je vais le contacter:)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U063Q1LA69W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

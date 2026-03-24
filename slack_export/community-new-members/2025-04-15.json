@@ -1,0 +1,91 @@
+[
+    {
+        "user": "U06TF9YAWEM",
+        "type": "message",
+        "ts": "1744701459.499989",
+        "client_msg_id": "c0eb9d76-d6db-4f3e-ae30-cf1b1db78744",
+        "text": "Merci à tous pour vos retours ! Je l'ajoute !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "bd18243d01f9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-04-13\/8768953549904_bd18243d01f97fe02075_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Lhermitte",
+            "display_name": "Marie Lhermitte (Lucca)",
+            "team": "T017AGS2KE0",
+            "name": "marie.lhermitte78",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744615848.180359",
+        "parent_user_id": "U06TF9YAWEM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SSPVc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci à tous pour vos retours ! Je l'ajoute !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U067GNGDATD",
+        "type": "message",
+        "ts": "1744785059.716629",
+        "client_msg_id": "6c519d60-0528-4bed-9762-f6d3ab3e26d7",
+        "text": "Super profil!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "gd73dcdb62f7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d73dcdb62f793ad670516a42032e3fa5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Diard",
+            "display_name": "Old Account \/ Do not use",
+            "team": "T017AGS2KE0",
+            "name": "adiard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744615848.180359",
+        "parent_user_id": "U06TF9YAWEM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YBd\/s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Super profil!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U06TF9YAWEM"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

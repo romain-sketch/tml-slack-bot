@@ -1,0 +1,79 @@
+[
+    {
+        "user": "U04TU0UA2R1",
+        "type": "message",
+        "ts": "1747386257.754389",
+        "client_msg_id": "96daee7e-92b8-4a00-883c-9d65e907a2f7",
+        "text": "Hello !\nY en a t il parmi vous qui utilisent <https:\/\/heyflow.com\/|Heyflow> ?\nOn réfléchit à le mettre en place chez Indy et j'aurais aimé prendre quelques retours d'XP :pray:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2349ebc07255",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-15\/4939175993079_2349ebc07255c4ecc3fc_72.jpg",
+            "first_name": "Adrien",
+            "real_name": "Adrien Le Roy",
+            "display_name": "Adrien Le Roy (Indy)",
+            "team": "T017AGS2KE0",
+            "name": "adrien.le.roy2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/heyflow.com\/",
+                "service_icon": "https:\/\/heyflow.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/heyflow.com\/",
+                "fallback": "Heyflow: Convert more website visitors into leads with Heyflow",
+                "text": "Create interactive lead funnels, multi-step forms and customized landing pages that drive conversions and engage your website visitors—without writing any code.",
+                "title": "Convert more website visitors into leads with Heyflow",
+                "title_link": "https:\/\/heyflow.com\/",
+                "service_name": "Heyflow"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8G2yk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello !\nY en a t il parmi vous qui utilisent "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/heyflow.com\/",
+                                "text": "Heyflow"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ?\nOn réfléchit à le mettre en place chez Indy et j'aurais aimé prendre quelques retours d'XP "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "x",
+                "users": [
+                    "U06CZESF7QF",
+                    "U06M6E5M524",
+                    "U025AMSNGF8",
+                    "U06DYTRDLUD"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

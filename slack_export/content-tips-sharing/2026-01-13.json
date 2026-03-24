@@ -1,0 +1,45 @@
+[
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1768293252.647959",
+        "client_msg_id": "390e6650-5de5-49b4-bcae-ebd45df08da7",
+        "text": "ah j'aimerai bien parler à de telles personnes aussi :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qHB2i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ah j'aimerai bien parler à de telles personnes aussi "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,172 @@
+[
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1756462412.282319",
+        "client_msg_id": "1ef21ee6-6e0b-4359-802f-5e209c3ddf86",
+        "text": "Hello, Je suis en train de mettre à jour mes tarifs pour de l'accompagnement contre Equity.\nJ'ai en tête un multiple de X3 (Série B) à X5 (pre-seed)  de la valeur cash selon le stade de la boîte.\nEst-ce que l'un de vous applique ce type de ratio ? Merci !!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756462412.282319",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1756842123.979549",
+        "reply_users": [
+            "U063A8VPPG9",
+            "U01A4GMRRR9",
+            "U04HP95GK55",
+            "U02N2EVMFCG"
+        ],
+        "replies": [
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1756468048.598649"
+            },
+            {
+                "user": "U01A4GMRRR9",
+                "ts": "1756470548.327979"
+            },
+            {
+                "user": "U04HP95GK55",
+                "ts": "1756549751.492919"
+            },
+            {
+                "user": "U01A4GMRRR9",
+                "ts": "1756667148.324369"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1756842123.979549"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wUXJc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, Je suis en train de mettre à jour mes tarifs pour de l'accompagnement contre Equity.\nJ'ai en tête un multiple de X3 (Série B) à X5 (pre-seed)  de la valeur cash selon le stade de la boîte.\nEst-ce que l'un de vous applique ce type de ratio ? Merci !!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1756468048.598649",
+        "client_msg_id": "42F18C15-BF7B-44E1-A05A-185630862F69",
+        "text": "Hello\nMoi j applique le x3 pour tout le monde (enfin j ai 3 clients ne nous enflammons pas :joy: )",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756462412.282319",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qOok+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello\nMoi j applique le x3 pour tout le monde (enfin j ai 3 clients ne nous enflammons pas "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            },
+                            {
+                                "type": "text",
+                                "text": " )"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01A4GMRRR9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1756470548.327979",
+        "client_msg_id": "93c5f7f5-50db-4de9-8b7a-8cc2cd8cef7a",
+        "text": "Merci !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756462412.282319",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CHpyc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

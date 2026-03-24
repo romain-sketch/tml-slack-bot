@@ -1,0 +1,138 @@
+[
+    {
+        "user": "U04L35Y9D08",
+        "type": "message",
+        "ts": "1751970626.019669",
+        "client_msg_id": "c92b701e-efe4-4afb-bfa4-594aba64f703",
+        "text": "Hello Marie,\nJ’envoie le CV à la RH d’un client.\nTu le connais \/ sais ce qu’il cherche, plus exactement ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "568f5815adda",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4705573084496_568f5815addab51accfb_72.jpg",
+            "first_name": "Paul",
+            "real_name": "Paul LEMONNIER",
+            "display_name": "Paul",
+            "team": "T017AGS2KE0",
+            "name": "paul.lemonnier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1751871568.329349",
+        "parent_user_id": "U069NSTHZ3Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7HIXH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Marie,\nJ’envoie le CV à la RH d’un client.\nTu le connais \/ sais ce qu’il cherche, plus exactement ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U069NSTHZ3Q",
+        "type": "message",
+        "ts": "1751977685.846999",
+        "client_msg_id": "637e7b87-1615-4519-bd69-8ce49c36554d",
+        "text": "merci <@U04L35Y9D08>, c'est ami d'ami donc je ne connais pas personnellement. Il chercher large dans \"Marketing Digital &amp; Data Analytics en région parisienne\"",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "fbbca81fca0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-30\/7816371623809_fbbca81fca0c916c8c15_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Gannau (Oodrive)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "m.gannau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1751871568.329349",
+        "parent_user_id": "U069NSTHZ3Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+O\/aJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04L35Y9D08"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", c'est ami d'ami donc je ne connais pas personnellement. Il chercher large dans \"Marketing Digital & Data Analytics en région parisienne\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08PLD4KPS8",
+        "type": "message",
+        "ts": "1751991241.723819",
+        "client_msg_id": "e025df5f-d184-43ed-8322-7279b0054eb9",
+        "text": "Pardon <@U06MLNEGNKB> de te répondre tardivement. Merci pour ton message. La personne à laquelle je pensais vient d'accepter une autre offre donc timing n'est pas le bon au final, mais merci pour ta réponse!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ed1e5a6e17a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-15\/8903493241218_7ed1e5a6e17a9b117971_72.jpg",
+            "first_name": "Ségolène",
+            "real_name": "Ségolène Finet",
+            "display_name": "Ségolène Finet",
+            "team": "T017AGS2KE0",
+            "name": "finetsegolene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1751027364.723839",
+        "parent_user_id": "U06MLNEGNKB",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BOh1Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pardon "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06MLNEGNKB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " de te répondre tardivement. Merci pour ton message. La personne à laquelle je pensais vient d'accepter une autre offre donc timing n'est pas le bon au final, mais merci pour ta réponse!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

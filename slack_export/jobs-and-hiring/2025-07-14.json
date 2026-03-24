@@ -1,0 +1,95 @@
+[
+    {
+        "user": "U08PLD4KPS8",
+        "type": "message",
+        "ts": "1752489081.216689",
+        "client_msg_id": "0d3c05e6-c6a4-4e39-9623-374db225dcc7",
+        "text": "Bonjour <@U016SBPG7K9>\nSi elle n'en fait pas déjà partie, je lui conseillerai de rejoindre le slack \"*Les Meufs du Growth*\".  Il y a des annonces de postes (CDI et freelance)  régulièrement et la communauté est très bienveillante.\nVoir les infos <https:\/\/lesmeufsdugrowth.fr\/a-propos\/|ici> et <https:\/\/www.linkedin.com\/company\/les-meufs-du-growth\/posts\/?feedView=all|ici>.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ed1e5a6e17a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-15\/8903493241218_7ed1e5a6e17a9b117971_72.jpg",
+            "first_name": "Ségolène",
+            "real_name": "Ségolène Finet",
+            "display_name": "Ségolène Finet",
+            "team": "T017AGS2KE0",
+            "name": "finetsegolene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1752241282.137469",
+        "parent_user_id": "U016SBPG7K9",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/company\/les-meufs-du-growth\/posts\/?feedView=all",
+                "service_icon": "https:\/\/static.licdn.com\/sc\/h\/1exdo4axa6eaw1jioxh1vu4fj",
+                "thumb_url": "https:\/\/static.licdn.com\/scds\/common\/u\/images\/logos\/favicons\/v1\/favicon.ico",
+                "thumb_width": 16,
+                "thumb_height": 16,
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/company\/les-meufs-du-growth\/posts\/?feedView=all",
+                "fallback": "LinkedIn: LinkedIn Login, Sign in | LinkedIn",
+                "text": "Login to LinkedIn to keep in touch with people you know, share ideas, and build your career.",
+                "title": "LinkedIn Login, Sign in | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/company\/les-meufs-du-growth\/posts\/?feedView=all",
+                "service_name": "LinkedIn"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w5gxT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U016SBPG7K9"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nSi elle n'en fait pas déjà partie, je lui conseillerai de rejoindre le slack \""
+                            },
+                            {
+                                "type": "text",
+                                "text": "Les Meufs du Growth",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\".  Il y a des annonces de postes (CDI et freelance)  régulièrement et la communauté est très bienveillante.\nVoir les infos "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/lesmeufsdugrowth.fr\/a-propos\/",
+                                "text": "ici"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/company\/les-meufs-du-growth\/posts\/?feedView=all",
+                                "text": "ici"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

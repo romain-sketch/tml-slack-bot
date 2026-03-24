@@ -1,0 +1,99 @@
+[
+    {
+        "user": "U06MHCCLQG3",
+        "type": "message",
+        "ts": "1748379486.757829",
+        "client_msg_id": "c3a34f94-34d2-4e93-8992-fec35444af9f",
+        "text": "<https:\/\/elevenlabs.io\/fr>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c0d40ab69a35",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-02\/6731971842677_c0d40ab69a3508d4c595_72.png",
+            "first_name": "Arnaud",
+            "real_name": "Arnaud Delubac (Greenly)",
+            "display_name": "Arnaud Delubac",
+            "team": "T017AGS2KE0",
+            "name": "arnaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743096814.445339",
+        "parent_user_id": "U07MNBM4WLV",
+        "attachments": [
+            {
+                "from_url": "https:\/\/elevenlabs.io\/fr",
+                "image_url": "https:\/\/elevenlabs.io\/cover.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 144879,
+                "service_icon": "https:\/\/elevenlabs.io\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/elevenlabs.io\/fr",
+                "fallback": "ElevenLabs: Text to Speech gratuit, générateur de voix IA &amp; API Audio | ElevenLabs",
+                "text": "Créez la parole la plus réaliste avec nos outils audio IA en milliers de voix et 32 langues. API et SDK faciles à utiliser. Solutions vocales évolutives, sécurisées et personnalisables adaptées aux besoins des entreprises. Recherche pionnière en Text to Speech et génération de voix IA.",
+                "title": "Text to Speech gratuit, générateur de voix IA &amp; API Audio | ElevenLabs",
+                "title_link": "https:\/\/elevenlabs.io\/fr",
+                "service_name": "ElevenLabs"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MY2sS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/elevenlabs.io\/fr"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06MHCCLQG3",
+        "type": "message",
+        "ts": "1748379489.991389",
+        "client_msg_id": "3d135cb0-a6c9-4cd2-89b6-1384733912bb",
+        "text": "Très solide",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c0d40ab69a35",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-02\/6731971842677_c0d40ab69a3508d4c595_72.png",
+            "first_name": "Arnaud",
+            "real_name": "Arnaud Delubac (Greenly)",
+            "display_name": "Arnaud Delubac",
+            "team": "T017AGS2KE0",
+            "name": "arnaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743096814.445339",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ga+cT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Très solide"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

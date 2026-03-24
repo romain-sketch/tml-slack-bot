@@ -1,0 +1,110 @@
+[
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1745309747.817569",
+        "client_msg_id": "21fc1541-92d7-403f-9ac0-df7c84ba51fc",
+        "text": "(Désolé pour la réponse tardive j’étais off la semaine dernière)\nSuper intéressant !\n\n• Nous le “haut du panier” est géré côté Sales par une Partnership Sales Manager qui s’occupe des Reseller + Grosses agences qui ramènent de l’Enterprise\n• Côté Marketing, on a 2 Partnership Managers:\n    ◦ 1 focus Tech Partners (CMS pour nous)\n    ◦ 1 focus Web Agencies mais dont le rôle est vraiment de faire parler de nous et d’avoir un peu de relation privilégié avec quelques grosses agences mais il gère pas les resellers donc",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744270610.240309",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "138df",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(Désolé pour la réponse tardive j’étais off la semaine dernière)\nSuper intéressant !\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Nous le “haut du panier” est géré côté Sales par une Partnership Sales Manager qui s’occupe des Reseller + Grosses agences qui ramènent de l’Enterprise"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Côté Marketing, on a 2 Partnership Managers:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "1 focus Tech Partners (CMS pour nous)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "1 focus Web Agencies mais dont le rôle est vraiment de faire parler de nous et d’avoir un peu de relation privilégié avec quelques grosses agences mais il gère pas les resellers donc"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U07MNBM4WLV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U07MNBM4WLV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

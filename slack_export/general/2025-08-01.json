@@ -1,0 +1,87 @@
+[
+    {
+        "user": "U06V83JDFLY",
+        "type": "message",
+        "ts": "1754043481.481569",
+        "client_msg_id": "971548d3-afb0-4b9b-83fb-f27cdf2c444b",
+        "text": "Bel été et bonnes vacances à toute l'équipe ! :man-surfing:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "39fba6d53211",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-04\/8126170700274_39fba6d5321185e59f92_72.png",
+            "first_name": "Alban",
+            "real_name": "Alban Péan (Civitime)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "alban.pean",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1753447533.748379",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uhFT8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bel été et bonnes vacances à toute l'équipe ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-surfing",
+                                "unicode": "1f3c4-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U059T4KRCUC",
+        "type": "message",
+        "ts": "1754064929.590369",
+        "client_msg_id": "83d14142-2153-458d-85dd-8125239ae554",
+        "text": "Love it! Ne rien faire for once please! La course tjs à la croissance, la productivité, l'achievement c'est motivant mais je suis 100% d'accord il faut savoir faire un break et enjoy la simplicité et la beauté des choses!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "57639ff481aa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-29\/5337202241186_57639ff481aa2740f127_72.png",
+            "first_name": "Isa",
+            "real_name": "Isa",
+            "display_name": "Isa",
+            "team": "T017AGS2KE0",
+            "name": "ilejeune",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1753447533.748379",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kmdaw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Love it! Ne rien faire for once please! La course tjs à la croissance, la productivité, l'achievement c'est motivant mais je suis 100% d'accord il faut savoir faire un break et enjoy la simplicité et la beauté des choses!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1740988815.859589",
+        "client_msg_id": "dbf3088d-7bef-45fb-bbd8-5453a48bb778",
+        "text": "Petit update sur les ventes :closed_book:\n• en janvier, nous avons 1563 ouvrages sortis de nos stocks et 40 en février pas de retours à ce stade \"_ce qui est très positif_\" selon Dunod\n• continuez à promouvoir le livre, ses contenus, ses chapitres, et à le mettre en avant lors d'événements\n• *demandez à vos connaissances de poster des commentaires positifs* sur Amazon (principalement) et la Fnac, leurs algorithmes y sont sensibles à partir d’une vingtaine de commentaires positifs.\n• l'asso TML touchera les droits d’auteur en 2026, pas en 2025, c'est la norme Dunod",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q+ptK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Petit update sur les ventes "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "closed_book",
+                                "unicode": "1f4d5"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "en janvier, nous avons 1563 ouvrages sortis de nos stocks et 40 en février pas de retours à ce stade \""
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "ce qui est très positif",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "\" selon Dunod"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "continuez à promouvoir le livre, ses contenus, ses chapitres, et à le mettre en avant lors d'événements"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "demandez à vos connaissances de poster des commentaires positifs",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " sur Amazon (principalement) et la Fnac, leurs algorithmes y sont sensibles à partir d’une vingtaine de commentaires positifs."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "l'asso TML touchera les droits d’auteur en 2026, pas en 2025, c'est la norme Dunod"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U078PFP7A4B",
+                    "U04SM1RGPJB",
+                    "U017RAZCAGZ",
+                    "U07LN85V6TG",
+                    "U03CY07UZJM",
+                    "U067GNGDATD",
+                    "U07D08K3U0K",
+                    "U01A4GMRRR9",
+                    "U08EN5GRYCC",
+                    "U03QPMQA31V",
+                    "U016SBPG7K9",
+                    "U03P99RGMTN",
+                    "U017CURDPB5",
+                    "U02MZTE8GCF",
+                    "U065DFPCQMP"
+                ],
+                "count": 15
+            }
+        ]
+    }
+]

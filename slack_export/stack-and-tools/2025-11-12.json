@@ -1,0 +1,417 @@
+[
+    {
+        "user": "U092PH1F2CA",
+        "type": "message",
+        "ts": "1762944327.691809",
+        "client_msg_id": "227416aa-41ee-44d7-8431-130635a0d8f7",
+        "text": "Bonjour!\nJe cherche à *doubler* plusieurs vidéos de démonstration produit (en anglais, d’une durée d’environ 1 heure chacune) en français, pas de doublage labial (les lèvres n’ont pas besoin d’être synchronisées exactement), mais un doublage audio + traduction.\n Je recherche un *outil d’IA* capable de réaliser cela à moindre coût.\nMerci d’avance pour vos suggestions.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9a39d2d117ff",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-23\/9092853310756_9a39d2d117ffed6b6a7d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Diard",
+            "display_name": "Alexandre Diard (ex PeopleSpheres)",
+            "team": "T017AGS2KE0",
+            "name": "diard.alexandre",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jZK\/q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour!\nJe cherche à "
+                            },
+                            {
+                                "type": "text",
+                                "text": "doubler",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " plusieurs vidéos de démonstration produit (en anglais, d’une durée d’environ 1 heure chacune) en français, pas de doublage labial (les lèvres n’ont pas besoin d’être synchronisées exactement), mais un doublage audio + traduction.\n Je recherche un "
+                            },
+                            {
+                                "type": "text",
+                                "text": "outil d’IA",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " capable de réaliser cela à moindre coût.\nMerci d’avance pour vos suggestions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1762944419.253859",
+        "client_msg_id": "b7e56511-28e5-4ff1-b049-28402fa2d80a",
+        "text": "Synthesia non?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "swdfm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Synthesia non?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0183AS3MB6",
+                    "U063A8VPPG9"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U06CZESF7QF",
+                    "U069NSTHZ3Q"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U08PLD4KPS8",
+        "type": "message",
+        "ts": "1762969532.591549",
+        "edited": {
+            "user": "U08PLD4KPS8",
+            "ts": "1762969551.000000"
+        },
+        "client_msg_id": "ef6dfa9b-6690-484a-8982-0afdf5c1134a",
+        "text": "Hello,\nQuelle app AI recommandez-vous pour la prise de note en réunion _présentielle_ quand il y a entre 4 et 8 interlocuteurs?\nJe pensais partir sur Notion (que je trouve bien sur la prise de note lors des calls mais que je n'ai pas encore testé sur du présentiel avec du monde).  Encore un abonnement SaaS mensuel, youpi. J'ai trouvé <https:\/\/www.reddit.com\/r\/ProductivityApps\/comments\/1mp5gn8\/tested_5_ai_note_taking_apps_for_inperson\/?tl=fr|ce fil Reddit> qui mentionne plusieurs outils, dont Granola.\nDes retours ou reco? Un outil gratuit (rêvons rêvons) qui tient la route?\nMille mercis!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ed1e5a6e17a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-15\/8903493241218_7ed1e5a6e17a9b117971_72.jpg",
+            "first_name": "Ségolène",
+            "real_name": "Ségolène Finet",
+            "display_name": "Ségolène Finet",
+            "team": "T017AGS2KE0",
+            "name": "finetsegolene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762969532.591549",
+        "reply_count": 6,
+        "reply_users_count": 6,
+        "latest_reply": "1763104911.345929",
+        "reply_users": [
+            "U08QZ6EKE4Q",
+            "U0946E8A2US",
+            "U063Q1LA69W",
+            "U06UK9NGTB4",
+            "U09BVQYR1GA",
+            "U04SM1RGPJB"
+        ],
+        "replies": [
+            {
+                "user": "U08QZ6EKE4Q",
+                "ts": "1762973427.832029"
+            },
+            {
+                "user": "U0946E8A2US",
+                "ts": "1762973648.818919"
+            },
+            {
+                "user": "U063Q1LA69W",
+                "ts": "1763018196.703959"
+            },
+            {
+                "user": "U06UK9NGTB4",
+                "ts": "1763023888.244109"
+            },
+            {
+                "user": "U09BVQYR1GA",
+                "ts": "1763101988.940289"
+            },
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1763104911.345929"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "image_url": "https:\/\/share.redd.it\/preview\/post\/1mp5gn8?tl=fr",
+                "image_width": 1120,
+                "image_height": 584,
+                "image_bytes": 59439,
+                "from_url": "https:\/\/www.reddit.com\/r\/ProductivityApps\/comments\/1mp5gn8\/tested_5_ai_note_taking_apps_for_inperson\/?tl=fr",
+                "service_icon": "https:\/\/www.reddit.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.reddit.com\/r\/ProductivityApps\/comments\/1mp5gn8\/tested_5_ai_note_taking_apps_for_inperson\/?tl=fr",
+                "fallback": "Reddit: From the ProductivityApps community on Reddit",
+                "text": "Explore this post and more from the ProductivityApps community",
+                "title": "From the ProductivityApps community on Reddit",
+                "title_link": "https:\/\/www.reddit.com\/r\/ProductivityApps\/comments\/1mp5gn8\/tested_5_ai_note_taking_apps_for_inperson\/?tl=fr",
+                "service_name": "Reddit"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gGqx+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello,\nQuelle app AI recommandez-vous pour la prise de note en réunion "
+                            },
+                            {
+                                "type": "text",
+                                "text": "présentielle",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " quand il y a entre 4 et 8 interlocuteurs?\nJe pensais partir sur Notion (que je trouve bien sur la prise de note lors des calls mais que je n'ai pas encore testé sur du présentiel avec du monde).  Encore un abonnement SaaS mensuel, youpi. J'ai trouvé "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.reddit.com\/r\/ProductivityApps\/comments\/1mp5gn8\/tested_5_ai_note_taking_apps_for_inperson\/?tl=fr",
+                                "text": "ce fil Reddit"
+                            },
+                            {
+                                "type": "text",
+                                "text": " qui mentionne plusieurs outils, dont Granola.\nDes retours ou reco? Un outil gratuit (rêvons rêvons) qui tient la route?\nMille mercis!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08QZ6EKE4Q",
+        "type": "message",
+        "ts": "1762973427.832029",
+        "client_msg_id": "cca2f911-edb5-45cc-b960-7772500ade64",
+        "text": "J'ai justement entendu parler de Granola en bien récemment, mais pas testé personnellement de mon côté Ségolène. Et je ne sais pas si c'était pour de la prise de note en présentiel ou non dans les faits... Je peux creuser si tu veux !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "af98f77e53d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-04-30\/8830001157444_af98f77e53d62c5ee9ca_72.png",
+            "first_name": "Sybille",
+            "real_name": "Sybille d’Hérouville",
+            "display_name": "Sybille d’Hérouville",
+            "team": "T017AGS2KE0",
+            "name": "sybille.dherouville",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762969532.591549",
+        "parent_user_id": "U08PLD4KPS8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AcOdZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai justement entendu parler de Granola en bien récemment, mais pas testé personnellement de mon côté Ségolène. Et je ne sais pas si c'était pour de la prise de note en présentiel ou non dans les faits... Je peux creuser si tu veux !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U08PLD4KPS8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0946E8A2US",
+        "type": "message",
+        "ts": "1762973648.818919",
+        "client_msg_id": "248B7FC5-AF60-408E-B1D5-05EE89CB6611",
+        "text": "J'utilise Granola depuis ~6 mois. \nXP excellente : ça détecte les calls et se lance tout seul sans inviter un tool au meeting. \nQualité du transcript excellent en EN, parfois approximatif en FR\nInté Notion nickel. \n\nAu global c'est le meilleur tool que j'ai testé pour du call recording généraliste. Je recommande :+1:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "f73f6d38e4eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-07-23\/9238905089862_f73f6d38e4eb792c8c6a_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult",
+            "team": "T017AGS2KE0",
+            "name": "thibaut.davoult",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762969532.591549",
+        "parent_user_id": "U08PLD4KPS8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0sDSB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'utilise Granola depuis ~6 mois. \nXP excellente : ça détecte les calls et se lance tout seul sans inviter un tool au meeting"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nQualité du transcript excellent en EN, parfois approximatif en FR\nInté Notion nickel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\nAu global c'est le meilleur tool que j'ai testé pour du call recording généraliste"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Je recommande "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thumbsup",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U08PLD4KPS8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U063Q1LA69W",
+        "type": "message",
+        "ts": "1763018196.703959",
+        "client_msg_id": "8e0ea8ab-8e4f-4f7f-9938-4d11e39cf1b8",
+        "text": "<@U08PLD4KPS8> idem pour Granola\nRetours excellents de plusieurs personnes ! Je reco",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "92164dc1a505",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-29\/6530542210935_92164dc1a50580eb3d38_72.jpg",
+            "first_name": "Jolhane",
+            "real_name": "Jolhane Leite",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "jolhaneleite",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762969532.591549",
+        "parent_user_id": "U08PLD4KPS8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vxnNB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U08PLD4KPS8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " idem pour Granola\nRetours excellents de plusieurs personnes ! Je reco"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U08PLD4KPS8"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

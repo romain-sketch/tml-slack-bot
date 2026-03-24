@@ -1,0 +1,68 @@
+[
+    {
+        "user": "U017RBREWC9",
+        "type": "message",
+        "ts": "1739044364.508769",
+        "client_msg_id": "9d0e4e58-3253-4480-a477-1ea1e5e53bea",
+        "text": "Je pense que <https:\/\/dust.tt\/|Dust> répond à ton besoin (c’est en test chez Batch, ce n’est pas moi qui pilote le projet mais je peux me renseigner si tu veux)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e7fed2c3531e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-04\/9013749604145_e7fed2c3531e67bdbec9_72.png",
+            "first_name": "",
+            "real_name": "Clotilde Rousseau",
+            "display_name": "Clotilde Rousseau (Batch)",
+            "team": "T017AGS2KE0",
+            "name": "rousseau.clotilde",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738947766.432889",
+        "parent_user_id": "U017CURDPB5",
+        "attachments": [
+            {
+                "image_url": "https:\/\/dust.tt\/static\/og_image.png",
+                "image_width": 2400,
+                "image_height": 1260,
+                "image_bytes": 142094,
+                "from_url": "https:\/\/dust.tt\/",
+                "service_icon": "https:\/\/dust.tt\/static\/AppIcon.png",
+                "id": 1,
+                "original_url": "https:\/\/dust.tt\/",
+                "fallback": "Dust - Accelerate your entire organization with custom AI agents",
+                "text": "The way we work is changing. Break down knowledge silos and amplify team performance with data-augmented, customizable and secure AI assistants.",
+                "title": "Dust - Accelerate your entire organization with custom AI agents",
+                "title_link": "https:\/\/dust.tt\/",
+                "service_name": "dust.tt"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0v6rx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je pense que "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/dust.tt\/",
+                                "text": "Dust"
+                            },
+                            {
+                                "type": "text",
+                                "text": " répond à ton besoin (c’est en test chez Batch, ce n’est pas moi qui pilote le projet mais je peux me renseigner si tu veux)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "user": "U03P99RGMTN",
+        "type": "message",
+        "ts": "1746517140.528199",
+        "edited": {
+            "user": "U03P99RGMTN",
+            "ts": "1746517151.000000"
+        },
+        "client_msg_id": "1a643b7b-d835-48a3-99ea-5a31210886be",
+        "text": "indeed! Je note et en plus on va en avoir besoin bientôt !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2f8b530bfffa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-28\/7656384027105_2f8b530bfffa39d455d3_72.png",
+            "first_name": "Julie",
+            "real_name": "Julie Asselin (365Talents)",
+            "display_name": "Julie Asselin (365Talents)",
+            "team": "T017AGS2KE0",
+            "name": "julie.asselin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1746454943.479239",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hAQwr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "indeed! Je note et en plus on va en avoir besoin bientôt !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U067VEJFT5F",
+        "type": "message",
+        "ts": "1746545957.176939",
+        "client_msg_id": "1c22fbe6-47e2-4431-af45-446f16320ffe",
+        "text": "je réagis tard aussi mais il y a de beaux lieux avec Comet - <@U07D08K3U0K>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9fcbd8d4bd09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-05\/6296382564371_9fcbd8d4bd095d25ab4c_72.jpg",
+            "first_name": "Amandine",
+            "real_name": "Amandine Moreau",
+            "display_name": "Amandine Moreau",
+            "team": "T017AGS2KE0",
+            "name": "a.gremont.pro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745508041.891059",
+        "parent_user_id": "U07D08K3U0K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LBaRW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je réagis tard aussi mais il y a de beaux lieux avec Comet - "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07D08K3U0K"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

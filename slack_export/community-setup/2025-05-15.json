@@ -1,0 +1,104 @@
+[
+    {
+        "user": "U08PLD4KPS8",
+        "type": "message",
+        "ts": "1747303031.680099",
+        "client_msg_id": "eb240715-00c4-4230-aabb-f823531d57cd",
+        "text": "Oui, volontiers, cible que j'ai bcp travaillé",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ed1e5a6e17a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-15\/8903493241218_7ed1e5a6e17a9b117971_72.jpg",
+            "first_name": "Ségolène",
+            "real_name": "Ségolène Finet",
+            "display_name": "Ségolène Finet",
+            "team": "T017AGS2KE0",
+            "name": "finetsegolene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732273405.326799",
+        "parent_user_id": "U02CBFN48CF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KD1e1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui, volontiers, cible que j'ai bcp travaillé"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "U03P99RGMTN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1747303075.119309",
+        "client_msg_id": "E290B2BD-37F4-4B34-B78E-10229A79B4E1",
+        "text": "<#C0822HEFGAE|b2b-hr-targets> :)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732273405.326799",
+        "parent_user_id": "U02CBFN48CF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "upymG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "channel",
+                                "channel_id": "C0822HEFGAE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U017H09S857"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

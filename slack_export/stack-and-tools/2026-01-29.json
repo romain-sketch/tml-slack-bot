@@ -1,0 +1,78 @@
+[
+    {
+        "user": "U059T4KRCUC",
+        "type": "message",
+        "ts": "1769675392.688629",
+        "client_msg_id": "de6ecec4-206f-4d5d-ab0a-65c7748ebf94",
+        "text": "Hi everyone!\nOn se pose la question d'investir dans <https:\/\/sensortower.com\/> pour tout ce qui est Market Intelligence and ASO.\nAvez-vous des retours particuliers sur cet outil + un pricing benchmark à partager (ici ou en DM)?\nBonne journée!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "57639ff481aa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-29\/5337202241186_57639ff481aa2740f127_72.png",
+            "first_name": "Isa",
+            "real_name": "Isa",
+            "display_name": "Isa",
+            "team": "T017AGS2KE0",
+            "name": "ilejeune",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/images.ctfassets.net\/vfkpgemp7ek3\/9v93epLDlYl1ZsyNFCssk\/691cbf34f24b97c891b28d9dbd0aa426\/post_image__1_.jpg",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 236136,
+                "from_url": "https:\/\/sensortower.com\/",
+                "service_icon": "https:\/\/sensortower.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/sensortower.com\/",
+                "fallback": "Digital Intelligence &amp; App Data Analysis by Sensor Tower",
+                "text": "Understand your impact in the digital and mobile economy with Sensor Tower’s comprehensive highly accurate app store analytics and unique engagement insights",
+                "title": "Digital Intelligence &amp; App Data Analysis by Sensor Tower",
+                "title_link": "https:\/\/sensortower.com\/",
+                "service_name": "sensortower.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d\/4v0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone!\nOn se pose la question d'investir dans "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sensortower.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour tout ce qui est Market Intelligence and ASO.\nAvez-vous des retours particuliers sur cet outil + un pricing benchmark à partager (ici ou en DM)?\nBonne journée!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "x",
+                "users": [
+                    "U069NSTHZ3Q",
+                    "U08SA22HS0J",
+                    "U06CZESF7QF",
+                    "U0951RDNKU6",
+                    "U0ABUV23EG0"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

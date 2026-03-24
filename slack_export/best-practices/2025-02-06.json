@@ -1,0 +1,493 @@
+[
+    {
+        "user": "U069NSTHZ3Q",
+        "type": "message",
+        "ts": "1738828920.275029",
+        "client_msg_id": "10341e99-2985-4e47-bfb4-37902bf4e04c",
+        "text": "Hello <@U078PFP7A4B>, vous êtes passé sur Zeliq ? des premiers retours à partager? nous sommes aussi en train de les évaluer (marché français essentiellement)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "fbbca81fca0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-30\/7816371623809_fbbca81fca0c916c8c15_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Gannau (Oodrive)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "m.gannau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1734099003.046019",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bQnTW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U078PFP7A4B"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", vous êtes passé sur Zeliq ? des premiers retours à partager? nous sommes aussi en train de les évaluer (marché français essentiellement)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U08C1HZNT8S",
+        "text": "<@U08C1HZNT8S> has joined the channel",
+        "type": "message",
+        "ts": "1738830933.477829"
+    },
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1738831655.384099",
+        "edited": {
+            "user": "U078PFP7A4B",
+            "ts": "1738834749.000000"
+        },
+        "client_msg_id": "30395da9-684c-4047-98f2-3bbc7d5589c5",
+        "text": "Hello ! On était chez Zeliq, on y est restés qu'un mois, et on a fui vers Lemlist :sweat_smile:\nTrès peu de possibilités de workflow dans l'outil Zeliq, l'enrichissement était pas top, bref, une perte de temps pour nous.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1734099003.046019",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dz5Gv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello ! On était chez Zeliq, on y est restés qu'un mois, et on a fui vers Lemlist "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nTrès peu de possibilités de workflow dans l'outil Zeliq, l'enrichissement était pas top, bref, une perte de temps pour nous."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bulb",
+                "users": [
+                    "U016SBPG7K9",
+                    "U063A8VPPG9"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U0859A8P14K",
+        "type": "message",
+        "ts": "1738834701.945489",
+        "client_msg_id": "86258578-9252-4F23-99BA-AD3E2CDE9484",
+        "text": "Un grand merci pour tous vos retours !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "de9373c86530",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8178910826725_de9373c86530dc48c9e8_72.png",
+            "first_name": "Alexandra",
+            "real_name": "Alexandra Lougovoy",
+            "display_name": "Alexandra Lougovoy (Eudonet)",
+            "team": "T017AGS2KE0",
+            "name": "a.lougovoy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738706009.474189",
+        "parent_user_id": "U0859A8P14K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "upeQc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un grand merci pour tous vos retours !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U020QK16RMJ",
+        "type": "message",
+        "ts": "1738836117.801119",
+        "client_msg_id": "344303e5-737e-492f-a96b-aabacd3a643c",
+        "text": "Bonjour, je cherche un freelance RP pour l'allemagne. idéalement en fintech",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "56d8a678e801",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-18\/7292097443269_56d8a678e801350db84a_72.png",
+            "first_name": "Joël",
+            "real_name": "Joël Gaudeul",
+            "display_name": "Joël (Swan)",
+            "team": "T017AGS2KE0",
+            "name": "joel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gbmja",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour, je cherche un freelance RP pour l'allemagne. idéalement en fintech"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U069NSTHZ3Q",
+        "type": "message",
+        "ts": "1738837372.398249",
+        "client_msg_id": "9c745948-1437-4bba-b2cb-a4685a3e8a9a",
+        "text": "oh merci pour le retour <@U078PFP7A4B>!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "fbbca81fca0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-30\/7816371623809_fbbca81fca0c916c8c15_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Gannau (Oodrive)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "m.gannau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1734099003.046019",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cAKWF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh merci pour le retour "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U078PFP7A4B"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1738838296.748659",
+        "client_msg_id": "b9195c2c-a5f2-416c-8ba3-4bf919680559",
+        "text": "Hello\nest ce que par hasard qqn aurait sous le coude la liste de toutes les communautés francaises qui targetent les entrepreneurs? (gratuites, réseaux payants, gouvernementales, incubateurs, accélérateurs, mentorship type CCI etc...)\nMerciiii",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738838296.748659",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1738840314.279359",
+        "reply_users": [
+            "U06CZESF7QF"
+        ],
+        "replies": [
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1738840314.279359"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bi3pA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello\nest ce que par hasard qqn aurait sous le coude la liste de toutes les communautés francaises qui targetent les entrepreneurs? (gratuites, réseaux payants, gouvernementales, incubateurs, accélérateurs, mentorship type CCI etc...)\nMerciiii"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U06CZESF7QF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1738840314.279359",
+        "client_msg_id": "c14316fd-28d9-438a-8eb8-da5a1636a4e9",
+        "text": "Je follow ça m’intéresse :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738838296.748659",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jWoO7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je follow ça m’intéresse "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U063A8VPPG9",
+                    "U067GNGDATD"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1738853773.382389",
+        "edited": {
+            "user": "U084KTR7YKX",
+            "ts": "1738853833.000000"
+        },
+        "client_msg_id": "ff764959-c9da-4437-8584-96d0d32d8d2d",
+        "text": "Hello les TML :wave:\n\nje me demande s'il y a des bonnes pratiques pour arriver sur ce genre de mapping (top startups in France on AI per function) ?\n<https:\/\/www.linkedin.com\/posts\/payflows-io_ai-startups-fintech-activity-7293255869700431872-dpRB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAdKbJEBC3hqNUOyiPuHyeaMfd2JCSKhvIg|https:\/\/www.linkedin.com\/posts\/payflows-io_ai-startups-fintech-activity-7293255869700[…]m=member_desktop&rcm=ACoAAAdKbJEBC3hqNUOyiPuHyeaMfd2JCSKhvIg>\n\nC'est sans doute du Fomo et une vanity metric, mais je trouve dommage que Claap n'y soit pas sur les outils Sales (vs Modjo, Praiz) et je me demandais si les façons d'être cité dans les tools IA c'est de faire du RP, d'être copain avec Clara Chappaz et sa team ou d'aller voir les gens qui font ce genre de bench, ... ? Preneuse de vos retours d'exp et reco et surtout ROI vs juste FOMO :slightly_smiling_face:\n\nmerciii",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738853773.382389",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1738963643.486079",
+        "reply_users": [
+            "U065DFPCQMP",
+            "U084KTR7YKX",
+            "U03P99RGMTN",
+            "U084LQF8023"
+        ],
+        "replies": [
+            {
+                "user": "U065DFPCQMP",
+                "ts": "1738922957.361749"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1738923878.591669"
+            },
+            {
+                "user": "U03P99RGMTN",
+                "ts": "1738941082.655249"
+            },
+            {
+                "user": "U084LQF8023",
+                "ts": "1738944058.185269"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1738963643.486079"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "image_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/D4D22AQFiwNQmrknCQQ\/feedshare-shrink_800\/B4DZTawOKRHAAs-\/0\/1738836867163?e=2147483647&v=beta&t=ia_zFtyCIE5ovh9H9JbnfLYAg_I-NLAgl6yMFX4GdbE",
+                "image_width": 800,
+                "image_height": 450,
+                "image_bytes": 67201,
+                "from_url": "https:\/\/www.linkedin.com\/posts\/payflows-io_ai-startups-fintech-activity-7293255869700431872-dpRB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAdKbJEBC3hqNUOyiPuHyeaMfd2JCSKhvIg",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/posts\/payflows-io_ai-startups-fintech-activity-7293255869700431872-dpRB?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAAdKbJEBC3hqNUOyiPuHyeaMfd2JCSKhvIg",
+                "fallback": "#ai #startups #fintech #innovation #thefrenchaireport2024 | Payflows",
+                "text": "Payflows is featured in The French AI Report 2024! :sparkles:\n\nWe&amp;#39;re proud to be recognized as a leader in Horizontal AI for the finance market, alongside amazing…",
+                "title": "#ai #startups #fintech #innovation #thefrenchaireport2024 | Payflows",
+                "title_link": "https:\/\/www.linkedin.com\/posts\/payflows-io_ai-startups-fintech-activity-7293255869700431872-dpRB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAdKbJEBC3hqNUOyiPuHyeaMfd2JCSKhvIg",
+                "service_name": "linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HtB4i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello les TML "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nje me demande s'il y a des bonnes pratiques pour arriver sur ce genre de mapping (top startups in France on AI per function) ?\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/posts\/payflows-io_ai-startups-fintech-activity-7293255869700431872-dpRB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAdKbJEBC3hqNUOyiPuHyeaMfd2JCSKhvIg",
+                                "text": "https:\/\/www.linkedin.com\/posts\/payflows-io_ai-startups-fintech-activity-7293255869700[…]m=member_desktop&rcm=ACoAAAdKbJEBC3hqNUOyiPuHyeaMfd2JCSKhvIg"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nC'est sans doute du Fomo et une vanity metric, mais je trouve dommage que Claap n'y soit pas sur les outils Sales (vs Modjo, Praiz) et je me demandais si les façons d'être cité dans les tools IA c'est de faire du RP, d'être copain avec Clara Chappaz et sa team ou d'aller voir les gens qui font ce genre de bench, ... ? Preneuse de vos retours d'exp et reco et surtout ROI vs juste FOMO "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nmerciii"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06TF9YAWEM",
+                    "U03P99RGMTN"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

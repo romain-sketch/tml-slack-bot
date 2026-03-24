@@ -1,0 +1,420 @@
+[
+    {
+        "user": "U0A11HFGA31",
+        "type": "message",
+        "ts": "1769602822.803139",
+        "client_msg_id": "6b4206a5-d93f-40b0-ba88-739509e493ea",
+        "text": "Carrément ! Je suis aussi très intéressé : )",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7e865350c03c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-02-19\/10540347829202_7e865350c03cb51c24eb_72.jpg",
+            "first_name": "Guillaume",
+            "real_name": "Guillaume Djourabtchi (Advens Cybersecurity)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "gdjourabtchi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769541353.062479",
+        "parent_user_id": "U08SA22HS0J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nAQLP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Carrément ! Je suis aussi très intéressé : )"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07D08K3U0K",
+        "type": "message",
+        "ts": "1769617438.227649",
+        "client_msg_id": "f45c0968-77f8-4cff-ae7d-d645aabcf44b",
+        "text": "Hello à tous,\nOn lance chez Chargemap un gros chantier de rebranding de la marque (brand strategy, identity design, website design, etc.).\nJe suis à la recherche d’agences ou de freelances senior, avec une expertise solide en brand strategy et identity design, pour nous accompagner sur l’ensemble des étapes. Avez-vous des recos ?\nMerci beaucoup :raised_hands:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "ee04aae8ef81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-02\/7689117269088_ee04aae8ef81d255cd1f_72.png",
+            "first_name": "Tiphanie",
+            "real_name": "Tiphanie Meyer",
+            "display_name": "Tiphanie",
+            "team": "T017AGS2KE0",
+            "name": "tiphanie.meyer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769617438.227649",
+        "reply_count": 10,
+        "reply_users_count": 8,
+        "latest_reply": "1770897574.185389",
+        "reply_users": [
+            "U03P99RGMTN",
+            "U0946E8A2US",
+            "U02N2EVMFCG",
+            "U07D08K3U0K",
+            "U0177A5V42F",
+            "U065DFPCQMP",
+            "U0951RDNKU6",
+            "U08PLD4KPS8"
+        ],
+        "replies": [
+            {
+                "user": "U03P99RGMTN",
+                "ts": "1769618685.183809"
+            },
+            {
+                "user": "U0946E8A2US",
+                "ts": "1769619746.406469"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1769632862.928299"
+            },
+            {
+                "user": "U07D08K3U0K",
+                "ts": "1769669823.922459"
+            },
+            {
+                "user": "U0177A5V42F",
+                "ts": "1769676493.203259"
+            },
+            {
+                "user": "U065DFPCQMP",
+                "ts": "1769705028.870069"
+            },
+            {
+                "user": "U0951RDNKU6",
+                "ts": "1769721504.825249"
+            },
+            {
+                "user": "U07D08K3U0K",
+                "ts": "1770058962.311609"
+            },
+            {
+                "user": "U08PLD4KPS8",
+                "ts": "1770893338.132499"
+            },
+            {
+                "user": "U07D08K3U0K",
+                "ts": "1770897574.185389"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QZhiK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello à tous,\nOn lance chez Chargemap un gros chantier de rebranding de la marque (brand strategy, identity design, website design, etc.).\nJe suis à la recherche d’agences ou de freelances senior, avec une expertise solide en brand strategy et identity design, pour nous accompagner sur l’ensemble des étapes. Avez-vous des recos ?\nMerci beaucoup "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "unicode": "1f64c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03P99RGMTN",
+        "type": "message",
+        "ts": "1769618685.183809",
+        "edited": {
+            "user": "U03P99RGMTN",
+            "ts": "1769619801.000000"
+        },
+        "client_msg_id": "701f7eca-affe-4b74-9f29-8061e483988d",
+        "text": "j’ai bossé avec <https:\/\/unitedus.co.uk\/|UnitedUs> (based in brighton) et j’ai adoré leur approche etc. 4 ans plus tard, on me demande encore qui avait fait cela.)\nça change du classique LORD sur la frenchtech et c’est un flair certain pour l’international que de faire ça avec une agence UK.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2f8b530bfffa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-28\/7656384027105_2f8b530bfffa39d455d3_72.png",
+            "first_name": "Julie",
+            "real_name": "Julie Asselin (365Talents)",
+            "display_name": "Julie Asselin (365Talents)",
+            "team": "T017AGS2KE0",
+            "name": "julie.asselin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769617438.227649",
+        "parent_user_id": "U07D08K3U0K",
+        "attachments": [
+            {
+                "from_url": "https:\/\/unitedus.co.uk\/",
+                "service_icon": "https:\/\/unitedus.co.uk\/wp-content\/themes\/bravestar\/images\/apple-touch-icon.png",
+                "thumb_url": "https:\/\/unitedus.co.uk\/wp-content\/themes\/bravestar\/images\/cover.png",
+                "thumb_width": 1500,
+                "thumb_height": 1500,
+                "id": 1,
+                "original_url": "https:\/\/unitedus.co.uk\/",
+                "fallback": "UnitedUs: UnitedUs + Brave branding for those who want to matter",
+                "text": "UnitedUs is an independent, award-winning branding agency that combines commercial acumen with creative flair. We make brave brands for those who want to matter.",
+                "title": "UnitedUs + Brave branding for those who want to matter",
+                "title_link": "https:\/\/unitedus.co.uk\/",
+                "service_name": "UnitedUs"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k9v0F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "j’ai bossé avec "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/unitedus.co.uk\/",
+                                "text": "UnitedUs"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (based in brighton) et j’ai adoré leur approche etc. 4 ans plus tard, on me demande encore qui avait fait cela.)\nça change du classique LORD sur la frenchtech et c’est un flair certain pour l’international que de faire ça avec une agence UK."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U07D08K3U0K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0946E8A2US",
+        "type": "message",
+        "ts": "1769619746.406469",
+        "client_msg_id": "BD03AD62-6D5A-434C-A1A3-73E8587ED1C6",
+        "text": "Peut être Michael Saifoudine ? <https:\/\/www.linkedin.com\/in\/michaelsaifoudine?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=ios_app|https:\/\/www.linkedin.com\/in\/michaelsaifoudine?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=ios_app>\n\nJ'ai jamais travaillé avec lui mais il a de super refs",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "f73f6d38e4eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-07-23\/9238905089862_f73f6d38e4eb792c8c6a_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult",
+            "team": "T017AGS2KE0",
+            "name": "thibaut.davoult",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769617438.227649",
+        "parent_user_id": "U07D08K3U0K",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/michaelsaifoudine?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+                "thumb_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/D4E03AQH7kEoaM4OE8Q\/profile-displayphoto-shrink_200_200\/B4EZeZFYc8G4Ac-\/0\/1750620015226?e=2147483647&v=beta&t=7VAe9dx-GFq3JSZQA6500L5Z8cT62s6HtZ77K6mZtVs",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/michaelsaifoudine?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=ios_app",
+                "fallback": "Michael Saifoudine - KLIMB | LinkedIn",
+                "text": "Looking for a Senior Designer → <mailto:hiring@goklimb.com|hiring@goklimb.com>\n\nReach out :envelope_with_arrow: →… · Expérience : KLIMB · Formation : University of Paris I: Panthéon-Sorbonne · Lieu : France · 500 relations ou plus sur LinkedIn. Consultez le profil de Michael Saifoudine sur LinkedIn, une communauté professionnelle d’un milliard de membres.",
+                "title": "Michael Saifoudine - KLIMB | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/michaelsaifoudine?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U8eep",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Peut être Michael Saifoudine ?"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/michaelsaifoudine?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+                                "text": "https:\/\/www.linkedin.com\/in\/michaelsaifoudine?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nJ'ai jamais travaillé avec lui mais il a de super refs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U020QK16RMJ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U07D08K3U0K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1769632862.928299",
+        "client_msg_id": "6C135188-6D30-40E4-8205-9164651A041D",
+        "text": "<@U08M0JP81DK> va bosser avec Klimb :) moi je connais pas. Est-ce que <@U04L04T475K> serait pas pertinent pour les phases amont &amp; plateforme &amp; TOV ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769617438.227649",
+        "parent_user_id": "U07D08K3U0K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eOCuK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U08M0JP81DK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " va bosser avec Klimb :) moi je connais pas. Est-ce que "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04L04T475K"
+                            },
+                            {
+                                "type": "text",
+                                "text": " serait pas pertinent pour les phases amont & plateforme & TOV ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "hearts",
+                "users": [
+                    "U06DYTRDLUD",
+                    "U04L04T475K"
+                ],
+                "count": 2
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U07D08K3U0K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U07D08K3U0K",
+        "type": "message",
+        "ts": "1769669823.922459",
+        "client_msg_id": "6B352BED-2704-444D-976E-C1DB75F58464",
+        "text": "Merci pour vos retours :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "ee04aae8ef81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-02\/7689117269088_ee04aae8ef81d255cd1f_72.png",
+            "first_name": "Tiphanie",
+            "real_name": "Tiphanie Meyer",
+            "display_name": "Tiphanie",
+            "team": "T017AGS2KE0",
+            "name": "tiphanie.meyer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769617438.227649",
+        "parent_user_id": "U07D08K3U0K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zzqRl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci pour vos retours "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U08SA22HS0J",
+        "type": "message",
+        "ts": "1753641686.229529",
+        "client_msg_id": "1620dfd6-0f39-446f-a68b-53475b881115",
+        "text": "Bonnes vacances à ceux qui partent :desert_island:, moi j'en reviens...",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "266d9356f19e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-07\/10243863201635_266d9356f19e63bc9267_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu BONENFANT (SecLab)",
+            "display_name": "Matthieu BONENFANT (SecLab)",
+            "team": "T017AGS2KE0",
+            "name": "matthieu.bonenfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1753447533.748379",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JjACN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonnes vacances à ceux qui partent "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "desert_island",
+                                "unicode": "1f3dd-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", moi j'en reviens..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

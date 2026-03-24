@@ -1,0 +1,49 @@
+[
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1759766489.909409",
+        "client_msg_id": "fea12e98-747e-4100-9fda-f85ca6029e17",
+        "text": "A demain matin !!\nMon tel si besoin (surtout si la porte est fermée) : *06 47 31 41 73*",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757496166.772069",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h3+FZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A demain matin !!\nMon tel si besoin (surtout si la porte est fermée) : "
+                            },
+                            {
+                                "type": "text",
+                                "text": "06 47 31 41 73",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

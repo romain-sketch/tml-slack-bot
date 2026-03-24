@@ -1,0 +1,264 @@
+[
+    {
+        "user": "U069NSTHZ3Q",
+        "type": "message",
+        "ts": "1769701801.670559",
+        "client_msg_id": "c63761f3-e24c-4fa4-90aa-10726971f6e4",
+        "text": "Hello, besoin d'encore un peu de benchmark pour ce début d'année :pray: Pour ceux qui ont des équipes SDR en SaaS B2B (sorry pour le spam pour les autres) : combien de pipe outbound par SDR vous arrivez à générer ? Ca dépend évidemment du panier moyen mais je vous laisse me partager ce que vous pouvez. Question corolaire : est-ce que vous avez un ratio du type 2-3 SDR par sales ou plus personne ne raisonne comme ça?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "fbbca81fca0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-30\/7816371623809_fbbca81fca0c916c8c15_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Gannau (Oodrive)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "m.gannau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769701801.670559",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1769719409.805329",
+        "reply_users": [
+            "U06MHCCLQG3",
+            "U069NSTHZ3Q"
+        ],
+        "replies": [
+            {
+                "user": "U06MHCCLQG3",
+                "ts": "1769709019.151719"
+            },
+            {
+                "user": "U069NSTHZ3Q",
+                "ts": "1769719409.805329"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0HsTP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, besoin d'encore un peu de benchmark pour ce début d'année "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Pour ceux qui ont des équipes SDR en SaaS B2B (sorry pour le spam pour les autres) : combien de pipe outbound par SDR vous arrivez à générer ? Ca dépend évidemment du panier moyen mais je vous laisse me partager ce que vous pouvez. Question corolaire : est-ce que vous avez un ratio du type 2-3 SDR par sales ou plus personne ne raisonne comme ça?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06MHCCLQG3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06MHCCLQG3",
+        "type": "message",
+        "ts": "1769708870.995559",
+        "client_msg_id": "1ff7881b-84f5-4e5d-ad2b-0fda187ea90c",
+        "text": "J'ai râté ça, trop triste",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c0d40ab69a35",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-02\/6731971842677_c0d40ab69a3508d4c595_72.png",
+            "first_name": "Arnaud",
+            "real_name": "Arnaud Delubac (Greenly)",
+            "display_name": "Arnaud Delubac",
+            "team": "T017AGS2KE0",
+            "name": "arnaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769109159.263309",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vE\/tw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai râté ça, trop triste"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Hello,\n• 2 sdr pour un sales en général chez nous \n• Pour le pipe SDR",
+        "files": [
+            {
+                "id": "F0ABTK2TUF4",
+                "created": 1769709003,
+                "timestamp": 1769709003,
+                "name": "Capture d’écran 2026-01-29 à 18.50.02.png",
+                "title": "Capture d’écran 2026-01-29 à 18.50.02.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U06MHCCLQG3",
+                "user_team": "T017AGS2KE0",
+                "editable": false,
+                "size": 143913,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F0ABTK2TUF4\/capture_d___e__cran_2026-01-29_a___18.50.02.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F0ABTK2TUF4\/download\/capture_d___e__cran_2026-01-29_a___18.50.02.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0ABTK2TUF4-8d7559f440\/capture_d___e__cran_2026-01-29_a___18.50.02_64.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0ABTK2TUF4-8d7559f440\/capture_d___e__cran_2026-01-29_a___18.50.02_80.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0ABTK2TUF4-8d7559f440\/capture_d___e__cran_2026-01-29_a___18.50.02_360.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360_w": 360,
+                "thumb_360_h": 237,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0ABTK2TUF4-8d7559f440\/capture_d___e__cran_2026-01-29_a___18.50.02_480.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_480_w": 480,
+                "thumb_480_h": 316,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0ABTK2TUF4-8d7559f440\/capture_d___e__cran_2026-01-29_a___18.50.02_160.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "original_w": 698,
+                "original_h": 460,
+                "thumb_tiny": "AwAgADDQViEztLcnp9TS7j\/zzbv6f40kf3T\/ALx\/maUthgMj8+fb+tADqKKPxoAiVpN207CQMnGR34\/rUtRsxUjLJtzzk47VJ+NAESKCD977x\/iPrQy8jDMBn3P9ajCW5LF1iLbjnIGetNaK2LDCxjB6gLQIsbV9W\/76NLsHq3\/fRqDy7X+5D+QpwS1x92H8hQMNhUKTJIRk9jzxUuwerf8AfRqt5NqMYVeCe45\/P\/P4VJstf7sP5CgD\/9k=",
+                "permalink": "https:\/\/techmarketingleaders.slack.com\/files\/U017U6M2G00\/F0ABTK2TUF4\/capture_d___e__cran_2026-01-29_a___18.50.02.png",
+                "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F0ABTK2TUF4-3f2cc841ed",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06MHCCLQG3",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VLBbw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello,\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "2 sdr pour un sales en général chez nous "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Pour le pipe SDR"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1769709019.151719",
+        "client_msg_id": "6174d5fe-0f26-4453-9fe6-7a7f63c943b8",
+        "thread_ts": "1769701801.670559",
+        "parent_user_id": "U069NSTHZ3Q"
+    },
+    {
+        "user": "U069NSTHZ3Q",
+        "type": "message",
+        "ts": "1769719409.805329",
+        "client_msg_id": "665f3fb1-5fc7-4996-86d5-356f357254df",
+        "text": "Trop sympa ce retour détaillé merci <@U06MHCCLQG3>!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "fbbca81fca0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-30\/7816371623809_fbbca81fca0c916c8c15_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Gannau (Oodrive)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "m.gannau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769701801.670559",
+        "parent_user_id": "U069NSTHZ3Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LCXhO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Trop sympa ce retour détaillé merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06MHCCLQG3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

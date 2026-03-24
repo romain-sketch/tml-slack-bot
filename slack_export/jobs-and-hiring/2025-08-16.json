@@ -1,0 +1,360 @@
+[
+    {
+        "user": "U08V1NE4BUJ",
+        "type": "message",
+        "ts": "1755353184.571599",
+        "edited": {
+            "user": "U08V1NE4BUJ",
+            "ts": "1755353203.000000"
+        },
+        "client_msg_id": "b8bf446c-420a-4254-b250-788726120a90",
+        "text": "Hello tout le monde, j’espère que vos vacances se passent bien :sunny:\nDe nôtre coté on cherche à recruter un\/une Copywriter !\n\nPas fermé au freelance pour démarrer mais on privilégie un CDI.\n\nQuelques bullet points qui résument bien le profil qu’on cherche :\n\n• *Intérêt marqué pour la finance* et capacité à comprendre (ou apprendre) les concepts clés du Private Equity (TRI, multiples, etc.).\n• *Copywriter orienté storytelling & conversion* : transformer des sujets complexes en histoires claires, engageantes et vendeuses.\n• *Multicanal* : newsletters (canal clé), scripts vidéo, landing pages, articles, publicités et posts réseaux sociaux.\n• *Maîtrise des outils d’IA* intégrés au processus créatif pour gagner en impact et en productivité.\n• *Culture startup* : créatif(ve), réactif(ve), autonome, orienté(e) résultats, à l’aise avec le travail en petite équipe.\nLa fiche de poste -> <https:\/\/www.notion.so\/Copywriter-24f74847aae7809bafdae4f639ed1da5?source=copy_link>\n\nMerci d’avance :pray:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "3654a4fc5d4e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-02\/8999698350033_3654a4fc5d4e25a0a92c_72.jpg",
+            "first_name": "Alan",
+            "real_name": "Alan Huet (Fundora)",
+            "display_name": "Alan HUET",
+            "team": "T017AGS2KE0",
+            "name": "alan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yZOkP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello tout le monde, j’espère que vos vacances se passent bien "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunny",
+                                "unicode": "2600-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDe nôtre coté on cherche à recruter un\/une Copywriter !\n\nPas fermé au freelance pour démarrer mais on privilégie un CDI.\n\nQuelques bullet points qui résument bien le profil qu’on cherche :\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Intérêt marqué pour la finance",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " et capacité à comprendre (ou apprendre) les concepts clés du Private Equity (TRI, multiples, etc.)."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Copywriter orienté storytelling & conversion",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " : transformer des sujets complexes en histoires claires, engageantes et vendeuses."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Multicanal",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " : newsletters (canal clé), scripts vidéo, landing pages, articles, publicités et posts réseaux sociaux."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Maîtrise des outils d’IA",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " intégrés au processus créatif pour gagner en impact et en productivité."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Culture startup",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " : créatif(ve), réactif(ve), autonome, orienté(e) résultats, à l’aise avec le travail en petite équipe."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nLa fiche de poste -> "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/Copywriter-24f74847aae7809bafdae4f639ed1da5?source=copy_link"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nMerci d’avance "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U0183AS3MB6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U08V1NE4BUJ",
+        "type": "message",
+        "ts": "1755354363.096019",
+        "client_msg_id": "90151b3f-6cf4-47de-bc01-08a81cc5042a",
+        "text": "Ah oui et on cherche aussi un Designer \/ Graphiste (UX\/UI &amp; Création) :sweat_smile:\n\n:pushpin: *Les missions :*\n• Design de visuels (posts, newsletters, PDF, campagnes paid)\n• UX\/UI sur la plateforme (composants Figma, responsive, onboarding…)\n• Co-direction artistique avec le Copywriter\n• Collaboration avec le monteur pour les vidéos\n• \n:brain: *Profil recherché :*\n• Maîtrise Figma &amp; outils de création (Photoshop, etc.)\n• Forte culture design (typographie, hiérarchie visuelle…)\n• Bonne compréhension produit \/ conversion\nL’offre -&gt; <https:\/\/www.notion.so\/Designer-Graphiste-UX-UI-Cr-ation-25174847aae780968651f4bdc75f40a0?source=copy_link>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "3654a4fc5d4e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-02\/8999698350033_3654a4fc5d4e25a0a92c_72.jpg",
+            "first_name": "Alan",
+            "real_name": "Alan Huet (Fundora)",
+            "display_name": "Alan HUET",
+            "team": "T017AGS2KE0",
+            "name": "alan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3aRXp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah oui et on cherche aussi un Designer \/ Graphiste (UX\/UI & Création) "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pushpin",
+                                "unicode": "1f4cc"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Les missions :",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Design de visuels (posts, newsletters, PDF, campagnes paid)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "UX\/UI sur la plateforme (composants Figma, responsive, onboarding…)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Co-direction artistique avec le Copywriter"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Collaboration avec le monteur pour les vidéos"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": []
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "brain",
+                                "unicode": "1f9e0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Profil recherché :",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Maîtrise Figma & outils de création (Photoshop, etc.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Forte culture design (typographie, hiérarchie visuelle…)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Bonne compréhension produit \/ conversion"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nL’offre -> "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/Designer-Graphiste-UX-UI-Cr-ation-25174847aae780968651f4bdc75f40a0?source=copy_link"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

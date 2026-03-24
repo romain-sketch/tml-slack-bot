@@ -1,0 +1,218 @@
+[
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1758606216.850759",
+        "client_msg_id": "6c536478-4182-4b3f-bb74-38689a3aad75",
+        "text": "Hello, je propose <https:\/\/www.linkedin.com\/in\/elodiegaussares-cro-cmo-strategie-marketing-produit-digital\/|Elodie> (ex- <#C051WKLDD5Z|parttimecmo> de Jobteaser, ex-Bourso etc.) et Olivier (ex-CMO de <https:\/\/www.linkedin.com\/in\/nguyenvt\/|Malt>, ex-Saleforce) qui sont motivés pour rejoindre TML qu'en pensez-vous ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1758606216.850759",
+        "reply_count": 10,
+        "reply_users_count": 9,
+        "latest_reply": "1759742013.680649",
+        "reply_users": [
+            "U063A8VPPG9",
+            "U01MVJPEEH3",
+            "U05H3SJKYFQ",
+            "U04SM1RGPJB",
+            "U07MNBM4WLV",
+            "U084KTR7YKX",
+            "U08EN5GRYCC",
+            "U017H09S857",
+            "U08PLD4KPS8"
+        ],
+        "replies": [
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1758610187.462299"
+            },
+            {
+                "user": "U01MVJPEEH3",
+                "ts": "1758613343.458929"
+            },
+            {
+                "user": "U05H3SJKYFQ",
+                "ts": "1758615003.646589"
+            },
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1758615241.635919"
+            },
+            {
+                "user": "U07MNBM4WLV",
+                "ts": "1758618084.161669"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1758618552.700189"
+            },
+            {
+                "user": "U08EN5GRYCC",
+                "ts": "1758619195.427709"
+            },
+            {
+                "user": "U05H3SJKYFQ",
+                "ts": "1758620102.294109"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1758885791.810399"
+            },
+            {
+                "user": "U08PLD4KPS8",
+                "ts": "1759742013.680649"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/nguyenvt\/",
+                "thumb_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/D4E03AQEW0nmqo4KE_w\/profile-displayphoto-shrink_200_200\/profile-displayphoto-shrink_200_200\/0\/1707824621851?e=2147483647&v=beta&t=Kl32LqSDJeQPExN-6pQc9S5xWChmM5MlzITvk8OgPUM",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/nguyenvt\/",
+                "fallback": "Olivier Nguyen Van Tan :cloud: - Malt | LinkedIn",
+                "text": "Expérience : Malt · Lieu : Paris · 500 relations ou plus sur LinkedIn. Consultez le profil de Olivier Nguyen Van Tan :cloud: sur LinkedIn, une communauté professionnelle d’un milliard de membres.",
+                "title": "Olivier Nguyen Van Tan :cloud: - Malt | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/nguyenvt\/",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yP2cB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, je propose "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/elodiegaussares-cro-cmo-strategie-marketing-produit-digital\/",
+                                "text": "Elodie"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (ex- "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C051WKLDD5Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " de Jobteaser, ex-Bourso "
+                            },
+                            {
+                                "type": "text",
+                                "text": "etc.) et",
+                                "style": {
+                                    "unlink": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Olivier (ex-CMO de "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/nguyenvt\/",
+                                "text": "Malt"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", ex-Saleforce) qui sont motivés pour rejoindre TML qu'en pensez-vous ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U069NSTHZ3Q",
+                    "U01MVJPEEH3",
+                    "U03P99RGMTN",
+                    "U05H3SJKYFQ",
+                    "U04SM1RGPJB",
+                    "U06DYTRDLUD",
+                    "U01A4GMRRR9",
+                    "U07MNBM4WLV",
+                    "U084KTR7YKX",
+                    "U08EN5GRYCC",
+                    "U017RAZCAGZ",
+                    "U04TU0UA2R1",
+                    "U054GRSQCTX",
+                    "U06TF9YAWEM",
+                    "U06E3PY5LAY",
+                    "U08SA22HS0J",
+                    "U067VEJFT5F",
+                    "U06MHCCLQG3"
+                ],
+                "count": 18
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1758610187.462299",
+        "client_msg_id": "295d1d15-bc56-4a5f-986c-4ca767c7265f",
+        "text": "je connais bien Olivier, il est top !!!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1758606216.850759",
+        "parent_user_id": "U02N2EVMFCG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dq3\/L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je connais bien Olivier, il est top !!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

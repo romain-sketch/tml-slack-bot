@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1756667148.324369",
+        "client_msg_id": "047E34DD-D83E-41A3-BFCE-32AF136C042B",
+        "text": "Oui. Avec un intermédiaire à x4 aussi ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756462412.282319",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o2Cf4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui. Avec un intermédiaire à x4 aussi "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04HP95GK55"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "user": "U08SA22HS0J",
+        "type": "message",
+        "ts": "1747812897.402399",
+        "edited": {
+            "user": "U08SA22HS0J",
+            "ts": "1747812912.000000"
+        },
+        "client_msg_id": "de4b31d2-61c3-43eb-b3ac-23042a0aae27",
+        "text": "Hello Paul, de mémoire (à prendre avec précaution, j'ai tendance à avoir une faible confiance dans ma mémoire :joy:) c'était pas donné. J'ai en tête 1$ du compte. On était prêt à payer ce prix parce qu'on se servait aussi du DUNS comme identifiant unique de compte Entreprise, quelque soit le pays et quelque soit l'entité ou la filiale. Comme on faisait beaucoup de vente indirecte en distribution 2-Tier, ça nous permettait de faire le rapprochement entre les opportunités Direct Touch du CRM, les projets remontés par le réseau de distrib et les comptes clients réellement enregistrés sur nos produits.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "266d9356f19e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-07\/10243863201635_266d9356f19e63bc9267_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu BONENFANT (SecLab)",
+            "display_name": "Matthieu BONENFANT (SecLab)",
+            "team": "T017AGS2KE0",
+            "name": "matthieu.bonenfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1747724076.169729",
+        "parent_user_id": "U04L35Y9D08",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MOskS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Paul, de mémoire (à prendre avec précaution, j'ai tendance à avoir une faible confiance dans ma mémoire "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") c'était pas donné. J'ai en tête 1$ du compte. On était prêt à payer ce prix parce qu'on se servait aussi du DUNS comme identifiant unique de compte Entreprise, quelque soit le pays et quelque soit l'entité ou la filiale. Comme on faisait beaucoup de vente indirecte en distribution 2-Tier, ça nous permettait de faire le rapprochement entre les opportunités Direct Touch du CRM, les projets remontés par le réseau de distrib et les comptes clients réellement enregistrés sur nos produits."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04L35Y9D08"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04L35Y9D08",
+        "type": "message",
+        "ts": "1747814165.990019",
+        "client_msg_id": "F48A2F6C-5A70-44DE-9274-ED169379682D",
+        "text": "Merci Matthieu, on va jeter un œil. \nTout se défend selon les résultats qu’on peut obtenir avec ces comptes ! ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "568f5815adda",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4705573084496_568f5815addab51accfb_72.jpg",
+            "first_name": "Paul",
+            "real_name": "Paul LEMONNIER",
+            "display_name": "Paul",
+            "team": "T017AGS2KE0",
+            "name": "paul.lemonnier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1747724076.169729",
+        "parent_user_id": "U04L35Y9D08",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B0MRk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci Matthieu, on va jeter un œil. \nTout se défend selon les résultats "
+                            },
+                            {
+                                "type": "text",
+                                "text": "qu’on"
+                            },
+                            {
+                                "type": "text",
+                                "text": " peut obtenir avec ces comptes ! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

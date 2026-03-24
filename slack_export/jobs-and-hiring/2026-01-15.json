@@ -1,0 +1,387 @@
+[
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1768465307.481979",
+        "client_msg_id": "b21b5b48-c7a2-4220-a245-b05ced7f4f92",
+        "text": "Cette quête de PMM chez Lemlist a l'air d'être un sacré feuilleton",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1768465307.481979",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1768492425.098519",
+        "reply_users": [
+            "U06DYTRDLUD",
+            "U04A6JMRWCS",
+            "U084KTR7YKX",
+            "U07MNBM4WLV"
+        ],
+        "replies": [
+            {
+                "user": "U06DYTRDLUD",
+                "ts": "1768487348.783969"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1768487960.336289"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1768489286.256659"
+            },
+            {
+                "user": "U07MNBM4WLV",
+                "ts": "1768492390.171359"
+            },
+            {
+                "user": "U07MNBM4WLV",
+                "ts": "1768492411.788139"
+            },
+            {
+                "user": "U07MNBM4WLV",
+                "ts": "1768492425.098519"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VQXTU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cette quête de PMM chez Lemlist a l'air d'être un sacré feuilleton"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U063A8VPPG9",
+                    "U078PFP7A4B",
+                    "U017RAZCAGZ",
+                    "U06CZESF7QF",
+                    "U04L04T475K",
+                    "U07R7CUFM7H",
+                    "U065DFPCQMP",
+                    "U06DYTRDLUD",
+                    "U07MNBM4WLV",
+                    "U08HF5YQM6G"
+                ],
+                "count": 10
+            },
+            {
+                "name": "popcorn",
+                "users": [
+                    "U017RAZCAGZ",
+                    "U02N2EVMFCG",
+                    "U06CZESF7QF",
+                    "U04L04T475K",
+                    "U07R7CUFM7H",
+                    "U01A4GMRRR9",
+                    "U07MNBM4WLV"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "user": "U06DYTRDLUD",
+        "type": "message",
+        "ts": "1768487348.783969",
+        "client_msg_id": "9928ed5d-ee2d-4c5c-b999-1af958c66696",
+        "text": "Franchement, la quête \"recruter un PMM\" c'est toujours un truc. Ca pourrait être un event TML à proprement parler",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901f49789864",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-17\/6483135134229_901f4978986494a521e4_72.jpg",
+            "first_name": "Flora",
+            "real_name": "Flora Wolfer",
+            "display_name": "Flora Wolfer (Payplug)",
+            "team": "T017AGS2KE0",
+            "name": "fwolfer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1768465307.481979",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g7zyJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Franchement, la quête \"recruter un PMM\" c'est toujours un truc. Ca pourrait être un event TML à proprement parler"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1768487960.336289",
+        "client_msg_id": "c9986883-a140-457b-8089-0f61c699a87e",
+        "text": "Ou un Film",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1768465307.481979",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JEAZi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ou un Film"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1768489286.256659",
+        "client_msg_id": "421fd1aa-4af8-4b02-a05f-a079ba4977c0",
+        "text": "QUEEEEEETE\n(private joke pour ceux qui regarde les loups garous sur Canal+)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1768465307.481979",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LHmxX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "QUEEEEEETE\n(private joke pour ceux qui regarde les loups garous sur Canal+)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U06DYTRDLUD",
+                    "U07MNBM4WLV",
+                    "U09EFH6S1BQ"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U07MNBM4WLV",
+        "type": "message",
+        "ts": "1768492390.171359",
+        "client_msg_id": "be24aa89-9def-4549-9cd3-0fd9643bf3ea",
+        "text": "Meci <@U06DYTRDLUD> ahah",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "028ce63b55be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7733128030774_028ce63b55be29945d4f_72.jpg",
+            "first_name": "Domitille",
+            "real_name": "Domitille de Saint-Exupéry",
+            "display_name": "Domitille de Saint-Exupéry (lemlist)",
+            "team": "T017AGS2KE0",
+            "name": "domitille433",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1768465307.481979",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WV\/3t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Meci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06DYTRDLUD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ahah"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07MNBM4WLV",
+        "type": "message",
+        "ts": "1768492411.788139",
+        "client_msg_id": "e16b889a-b914-4559-827a-d738b0fd8442",
+        "text": "Je pense que c'est le rôle le plus difficile à recruter dans une team Marketing",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "028ce63b55be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7733128030774_028ce63b55be29945d4f_72.jpg",
+            "first_name": "Domitille",
+            "real_name": "Domitille de Saint-Exupéry",
+            "display_name": "Domitille de Saint-Exupéry (lemlist)",
+            "team": "T017AGS2KE0",
+            "name": "domitille433",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1768465307.481979",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fl1Tg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je pense que c'est le rôle le plus difficile à recruter dans une team Marketing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06DYTRDLUD",
+                    "U069NSTHZ3Q"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U07MNBM4WLV",
+        "type": "message",
+        "ts": "1768492425.098519",
+        "client_msg_id": "cd5b62a4-1a5e-43f9-a672-bb0810b7b2fc",
+        "text": "(mais oui on est ptet bien relou chez lemlist :joy:)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "028ce63b55be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7733128030774_028ce63b55be29945d4f_72.jpg",
+            "first_name": "Domitille",
+            "real_name": "Domitille de Saint-Exupéry",
+            "display_name": "Domitille de Saint-Exupéry (lemlist)",
+            "team": "T017AGS2KE0",
+            "name": "domitille433",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1768465307.481979",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F2c7L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(mais oui on est ptet bien relou chez lemlist "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

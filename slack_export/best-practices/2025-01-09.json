@@ -1,0 +1,128 @@
+[
+    {
+        "user": "U08554C4R7C",
+        "type": "message",
+        "ts": "1736491046.449089",
+        "client_msg_id": "e1a5d024-1a6a-4b29-8ada-55a449b9c63f",
+        "text": "Bonjour à tous et meilleurs voeux !\nJe cherche à échanger avec des personnes ayant mis en place de l'ABM :slightly_smiling_face: en particulier :\n• retex sur l'engagement avec les équipes commerciales - qu'est-ce qui les a convaincus ?\n• mise en place d'une phase pilote - quelle durée ? métriques ? périmètres\n• et plus largement démarrage - clés de succès, écueils à avoir en tête\nou si vous avez des ressources qui vous ont aidé à mettre ça en place, preneuse aussi :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9c992809fd1f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8164113933223_9c992809fd1f2d731c79_72.jpg",
+            "first_name": "Pauline",
+            "real_name": "Pauline Fumeron (Lifen)",
+            "display_name": "Pauline (Lifen)",
+            "team": "T017AGS2KE0",
+            "name": "pfumeron",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736491046.449089",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1736550181.980959",
+        "reply_users": [
+            "U08300D2NJY",
+            "U020QK16RMJ",
+            "U08554C4R7C",
+            "U0859A8P14K"
+        ],
+        "replies": [
+            {
+                "user": "U08300D2NJY",
+                "ts": "1736498381.681629"
+            },
+            {
+                "user": "U020QK16RMJ",
+                "ts": "1736503547.434659"
+            },
+            {
+                "user": "U08554C4R7C",
+                "ts": "1736523728.687909"
+            },
+            {
+                "user": "U0859A8P14K",
+                "ts": "1736550181.980959"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5goUA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour à tous et meilleurs voeux !\nJe cherche à échanger avec des personnes ayant mis en place de l'ABM "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " en particulier :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "retex sur l'engagement avec les équipes commerciales - qu'est-ce qui les a convaincus ?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "mise en place d'une phase pilote - quelle durée ? métriques ? périmètres"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "et plus largement démarrage - clés de succès, écueils à avoir en tête"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ou si vous avez des ressources qui vous ont aidé à mettre ça en place, preneuse aussi "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

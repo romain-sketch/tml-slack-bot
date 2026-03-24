@@ -1,0 +1,668 @@
+[
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1749038392.998489",
+        "client_msg_id": "d8d816f9-7dcf-42f5-a3ab-ed820cbf4400",
+        "text": "<!here> *Dans le cadre de notre intervention à Vivatech, nous disposons de 6 à 7 invitations.*\n Si vous souhaitez un pass, faites-moi signe dans ce thread — je les attribuerai par ordre de réponse !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749038392.998489",
+        "reply_count": 11,
+        "reply_users_count": 10,
+        "latest_reply": "1749568520.154779",
+        "reply_users": [
+            "U054GRSQCTX",
+            "U069NSTHZ3Q",
+            "U025AMSNGF8",
+            "U020QK16RMJ",
+            "U03QPMQA31V",
+            "U067VEJFT5F",
+            "U08HF5YQM6G",
+            "U01A4GMRRR9",
+            "U0859A8P14K",
+            "U03P99RGMTN"
+        ],
+        "replies": [
+            {
+                "user": "U054GRSQCTX",
+                "ts": "1749040221.709349"
+            },
+            {
+                "user": "U069NSTHZ3Q",
+                "ts": "1749040605.756379"
+            },
+            {
+                "user": "U025AMSNGF8",
+                "ts": "1749041419.590109"
+            },
+            {
+                "user": "U020QK16RMJ",
+                "ts": "1749044546.056019"
+            },
+            {
+                "user": "U03QPMQA31V",
+                "ts": "1749048188.299529"
+            },
+            {
+                "user": "U067VEJFT5F",
+                "ts": "1749050329.346339"
+            },
+            {
+                "user": "U08HF5YQM6G",
+                "ts": "1749051946.953129"
+            },
+            {
+                "user": "U01A4GMRRR9",
+                "ts": "1749052008.203509"
+            },
+            {
+                "user": "U067VEJFT5F",
+                "ts": "1749148907.357119"
+            },
+            {
+                "user": "U0859A8P14K",
+                "ts": "1749153299.267949"
+            },
+            {
+                "user": "U03P99RGMTN",
+                "ts": "1749568520.154779"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cLbOh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Dans le cadre de notre intervention à Vivatech, nous disposons de 6 à 7 invitations.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n Si vous souhaitez un pass, faites-moi signe dans ce thread — je les attribuerai par ordre de réponse !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U063A8VPPG9",
+                    "U03P99RGMTN",
+                    "U08HF5YQM6G"
+                ],
+                "count": 3
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U069NSTHZ3Q"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U054GRSQCTX",
+        "type": "message",
+        "ts": "1749040221.709349",
+        "client_msg_id": "1c521556-6420-4083-a5e3-41327f2a544a",
+        "text": "hello Geoffrey, interessé !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "01f920d8d689",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-24\/5180782979568_01f920d8d689435b5764_72.jpg",
+            "first_name": "Tarik",
+            "real_name": "Tarik Magra",
+            "display_name": "Tarik Magra",
+            "team": "T017AGS2KE0",
+            "name": "tarik.magra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749038392.998489",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cOSKD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello Geoffrey, interessé !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01A4GMRRR9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U069NSTHZ3Q",
+        "type": "message",
+        "ts": "1749040605.756379",
+        "client_msg_id": "ecf1c5de-6654-405f-853d-8c5a19c83940",
+        "text": "hello Geoffray, intéressée!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "fbbca81fca0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-30\/7816371623809_fbbca81fca0c916c8c15_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Gannau (Oodrive)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "m.gannau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749038392.998489",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kfAZp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello Geoffray, intéressée!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01A4GMRRR9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U025AMSNGF8",
+        "type": "message",
+        "ts": "1749041419.590109",
+        "client_msg_id": "e3b1d50d-8dee-4217-99a3-c189edc484db",
+        "text": "Hello Geoffrey, je suis preneur, merci !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b5f2d16c46f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-18\/6070004520657_b5f2d16c46f6b166931e_72.png",
+            "first_name": "Eliott",
+            "real_name": "Eliott Guerin",
+            "display_name": "Eliott Guerin (Skello)",
+            "team": "T017AGS2KE0",
+            "name": "eliott",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749038392.998489",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZjarT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Geoffrey, je suis preneur, merci !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01A4GMRRR9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U020QK16RMJ",
+        "type": "message",
+        "ts": "1749044546.056019",
+        "client_msg_id": "89b7cd47-dbb3-4407-ae6f-9d06e372dc63",
+        "text": "Intéressé... mais pas pour moi.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "56d8a678e801",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-18\/7292097443269_56d8a678e801350db84a_72.png",
+            "first_name": "Joël",
+            "real_name": "Joël Gaudeul",
+            "display_name": "Joël (Swan)",
+            "team": "T017AGS2KE0",
+            "name": "joel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749038392.998489",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sgZ5F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Intéressé... mais pas pour moi."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U020QK16RMJ",
+        "type": "message",
+        "ts": "1749047797.733249",
+        "client_msg_id": "d1466ccb-cbbf-471f-8167-6eb753331f57",
+        "text": "<!channel> Dans le cadre d'une mutation profonde de notre orga Marketing, j'ai besoin de recueillir quelques témoignages sur le rôle des campagne dans votre marketing, en particulier:\n• pourquoi c'est essentiel\n• comment orchestrez vous vos campagnes\n• un exemple d'une campagne cool\n• un exemple d'une campagne assez complexe\nFormat: un simple recording video sur Slack (5 minutes grand grand max)\n\nDes volontaires?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "56d8a678e801",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-18\/7292097443269_56d8a678e801350db84a_72.png",
+            "first_name": "Joël",
+            "real_name": "Joël Gaudeul",
+            "display_name": "Joël (Swan)",
+            "team": "T017AGS2KE0",
+            "name": "joel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749047797.733249",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1750778957.209269",
+        "reply_users": [
+            "U08PLD4KPS8",
+            "U020QK16RMJ"
+        ],
+        "replies": [
+            {
+                "user": "U08PLD4KPS8",
+                "ts": "1749630645.389919"
+            },
+            {
+                "user": "U020QK16RMJ",
+                "ts": "1750778957.209269"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Vp6L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Dans le cadre d'une mutation profonde de notre orga Marketing, j'ai besoin de recueillir quelques témoignages sur le rôle des campagne dans votre marketing, en particulier:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "pourquoi c'est essentiel"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "comment orchestrez vous vos campagnes"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "un exemple d'une campagne cool"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "un exemple d'une campagne assez complexe"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Format: un simple recording video sur Slack (5 minutes grand grand max)\n\nDes volontaires?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03QPMQA31V",
+        "type": "message",
+        "ts": "1749048188.299529",
+        "client_msg_id": "BB01A6A4-17CD-4D8F-9FFC-5B1B073EB727",
+        "text": "Moi aussi !! Merci <@U01A4GMRRR9> ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "920d362f50c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-26\/3858025441956_920d362f50c400fcafe0_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu Pouget-Abadie",
+            "display_name": "Matthieu PA (Orisha)",
+            "team": "T017AGS2KE0",
+            "name": "mpougetabadie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749038392.998489",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G\/mDQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Moi aussi !! Merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01A4GMRRR9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01A4GMRRR9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U067VEJFT5F",
+        "type": "message",
+        "ts": "1749050329.346339",
+        "client_msg_id": "f413a2f5-a159-4591-a42f-e31c7de98c3d",
+        "text": "je recherche un pass pour moi désespérément :slightly_smiling_face: très preneuse si ça peut encore le faire !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9fcbd8d4bd09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-05\/6296382564371_9fcbd8d4bd095d25ab4c_72.jpg",
+            "first_name": "Amandine",
+            "real_name": "Amandine Moreau",
+            "display_name": "Amandine Moreau",
+            "team": "T017AGS2KE0",
+            "name": "a.gremont.pro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749038392.998489",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vL8MR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je recherche un pass pour moi désespérément "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " très preneuse si ça peut encore le faire !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01A4GMRRR9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U08HF5YQM6G",
+        "type": "message",
+        "ts": "1749051946.953129",
+        "client_msg_id": "309E35C9-5A2E-4529-9337-028A1C4D5B34",
+        "text": "S'il en reste un, très chaud. Merci <@U01A4GMRRR9> !!!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "dc5afdcdc051",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-28\/10418814050592_dc5afdcdc0516abb4cac_72.jpg",
+            "first_name": "Roy",
+            "real_name": "Roy Brockmann",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "roy.brockmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749038392.998489",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EX1oE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "S'il en reste un, très chaud. Merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01A4GMRRR9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " !!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01A4GMRRR9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1749052008.203509",
+        "client_msg_id": "fb5810ec-4910-40c7-9f83-3ae30d659807",
+        "text": ":end:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749038392.998489",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W1glG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "end",
+                                "unicode": "1f51a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U067VEJFT5F"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02N2EVMFCG"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

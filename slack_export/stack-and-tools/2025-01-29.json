@@ -1,0 +1,105 @@
+[
+    {
+        "user": "U086LFGGVUG",
+        "type": "message",
+        "ts": "1738222310.432709",
+        "client_msg_id": "01f7cff9-546a-49d3-af97-1e63cfc3b1ad",
+        "text": "Hello !\nEst-ce que certains d'entre vous l'utilisent <http:\/\/Clay.com|Clay.com> pour l'enrichissement et le scoring, ? Je suis preneuse de vos retours concrets parce que ça envoie du rêve mais ça coûte un bras :grimacing:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "8037084d031e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-01-03\/8241041927621_8037084d031e372f4d94_72.jpg",
+            "first_name": "Laura",
+            "real_name": "Laura Silva",
+            "display_name": "Laura Silva",
+            "team": "T017AGS2KE0",
+            "name": "laura.silva",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738222310.432709",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1738317922.612509",
+        "reply_users": [
+            "U0183AS3MB6",
+            "U06MLNEGNKB",
+            "U086LFGGVUG"
+        ],
+        "replies": [
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1738226358.067639"
+            },
+            {
+                "user": "U06MLNEGNKB",
+                "ts": "1738227716.603969"
+            },
+            {
+                "user": "U086LFGGVUG",
+                "ts": "1738259386.647929"
+            },
+            {
+                "user": "U086LFGGVUG",
+                "ts": "1738259400.398639"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1738312793.177779"
+            },
+            {
+                "user": "U086LFGGVUG",
+                "ts": "1738314168.403279"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1738317922.612509"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xA5FG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello !\nEst-ce que certains d'entre vous l'utilisent "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Clay.com",
+                                "text": "Clay.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour l'enrichissement et le scoring, ? Je suis preneuse de vos retours concrets parce que ça envoie du rêve mais ça coûte un bras "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grimacing",
+                                "unicode": "1f62c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U055KSYA2AH",
+                    "U06MLNEGNKB"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

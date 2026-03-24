@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U017CURDPB5",
+        "type": "message",
+        "ts": "1769098171.404719",
+        "client_msg_id": "fcc619d9-9c70-4df9-996d-b3434153a481",
+        "text": "Hello, dans le monde de la course au large, ils sont souvent très inspirants car sportifs de haut niveau, entrepreneurs, leveurs de fonds. Samantha Davies m'a bluffée par exemple",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "671ad569fbc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5982967598243_671ad569fbc40977de70_72.jpg",
+            "first_name": "David",
+            "real_name": "David Remaud",
+            "display_name": "David Remaud (iBanFirst)",
+            "team": "T017AGS2KE0",
+            "name": "david.remaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769032021.135179",
+        "parent_user_id": "U0951RDNKU6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e2RCS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, dans le monde de la course au large, ils sont souvent très inspirants car sportifs de haut niveau, entrepreneurs, leveurs de fonds. Samantha Davies m'a bluffée par exemple"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0951RDNKU6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

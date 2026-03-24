@@ -1,0 +1,101 @@
+[
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1764218179.085159",
+        "client_msg_id": "d2877ce5-d936-4f51-8376-ed344c328619",
+        "text": "Hello <https:\/\/www.linkedin.com\/in\/gdjourabtchi\/|Guillaume> a demandé à rejoindre la commu (via Linkedin) est-ce que vous avez un avis ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764218179.085159",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1764260335.993869",
+        "reply_users": [
+            "U09EFH6S1BQ",
+            "U06DYTRDLUD"
+        ],
+        "replies": [
+            {
+                "user": "U09EFH6S1BQ",
+                "ts": "1764236206.100689"
+            },
+            {
+                "user": "U06DYTRDLUD",
+                "ts": "1764260335.993869"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/gdjourabtchi\/",
+                "thumb_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/C4E03AQGeNwFDE6GJ0Q\/profile-displayphoto-shrink_200_200\/profile-displayphoto-shrink_200_200\/0\/1552147980122?e=2147483647&v=beta&t=vifA_Y9nLC66-am3rnjMcIdBwxn_JJLSjswWYhbXPtQ",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/gdjourabtchi\/",
+                "fallback": "Guillaume Djourabtchi - Advens | LinkedIn",
+                "text": "Specialized in launching and managing new B2B tech solutions in international markets… · Expérience : Advens · Formation : EDHEC Business School · Lieu : Paris et périphérie · 500 relations ou plus sur LinkedIn. Consultez le profil de Guillaume Djourabtchi sur LinkedIn, une communauté professionnelle d’un milliard de membres.",
+                "title": "Guillaume Djourabtchi - Advens | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/gdjourabtchi\/",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rs1I4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/gdjourabtchi\/",
+                                "text": "Guillaume"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a demandé à rejoindre la commu (via Linkedin) est-ce que vous avez un avis ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U017RAZCAGZ",
+                    "U08SA22HS0J",
+                    "U01A4GMRRR9",
+                    "U09EFH6S1BQ",
+                    "U0859A8P14K",
+                    "U06DYTRDLUD",
+                    "U07D08K3U0K",
+                    "U06TF9YAWEM"
+                ],
+                "count": 8
+            }
+        ]
+    }
+]

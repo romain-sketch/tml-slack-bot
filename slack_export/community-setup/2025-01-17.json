@@ -1,0 +1,92 @@
+[
+    {
+        "user": "U020QK16RMJ",
+        "type": "message",
+        "ts": "1737122814.454869",
+        "client_msg_id": "85f10876-2cd2-4f5a-b12b-05e4fb7d8b27",
+        "text": "Bonjour, pour aller plus loin d'en l'échange, pourquoi ne pas mettre en place un buddy system pour générer plus d'insights et peut être aller jusqu'à challenger nos plans, idées avec une bonne connaissance de nos contextes car fait dans la durée?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "56d8a678e801",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-18\/7292097443269_56d8a678e801350db84a_72.png",
+            "first_name": "Joël",
+            "real_name": "Joël Gaudeul",
+            "display_name": "Joël (Swan)",
+            "team": "T017AGS2KE0",
+            "name": "joel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737122814.454869",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1758096497.923169",
+        "reply_users": [
+            "U017H09S857",
+            "U05H3SJKYFQ",
+            "U020QK16RMJ"
+        ],
+        "replies": [
+            {
+                "user": "U017H09S857",
+                "ts": "1737406813.763619"
+            },
+            {
+                "user": "U05H3SJKYFQ",
+                "ts": "1757954366.668349"
+            },
+            {
+                "user": "U05H3SJKYFQ",
+                "ts": "1757954387.842489"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1757969687.590779"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1757969766.839299"
+            },
+            {
+                "user": "U020QK16RMJ",
+                "ts": "1758096497.923169"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dd8YZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour, pour aller plus loin d'en l'échange, pourquoi ne pas mettre en place un buddy system pour générer plus d'insights et peut être aller jusqu'à challenger nos plans, idées avec une bonne connaissance de nos contextes car fait dans la durée?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U017RAZCAGZ",
+                    "U042GV737MX",
+                    "U05H3SJKYFQ",
+                    "U06DYTRDLUD",
+                    "U02CBFN48CF",
+                    "U086LFGGVUG",
+                    "U06MLNEGNKB"
+                ],
+                "count": 7
+            }
+        ]
+    }
+]

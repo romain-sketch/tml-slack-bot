@@ -1,0 +1,54 @@
+[
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1749569642.480179",
+        "client_msg_id": "82107139-6e0a-450f-ae5c-1377f7966aa9",
+        "text": "Hello, si vous connaissez du monde qui cherche un premier rôle de cmo, je peux faire l'introduction <https:\/\/docs.google.com\/document\/d\/1YkTpzBPPykE1Zg1TkFGFGM23vl7ykQodLstc43dYZro\/edit?usp=sharing|https:\/\/docs.google.com\/document\/d\/1YkTpzBPPykE1Zg1TkFGFGM23vl7ykQodLstc43dYZro\/edit?usp=sharing>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hPTbi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, si vous connaissez du monde qui cherche un premier rôle de cmo, je peux faire l'introduction "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1YkTpzBPPykE1Zg1TkFGFGM23vl7ykQodLstc43dYZro\/edit?usp=sharing",
+                                "text": "https:\/\/docs.google.com\/document\/d\/1YkTpzBPPykE1Zg1TkFGFGM23vl7ykQodLstc43dYZro\/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U08QZ6EKE4Q"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U020QK16RMJ",
+        "type": "message",
+        "ts": "1761051987.552289",
+        "client_msg_id": "b8f3480e-a4bf-4f4d-bf8b-bce5c7ac9f4e",
+        "text": "On a peu de traction avec un Demand Gen, donc on a ajouté le Growth.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "56d8a678e801",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-18\/7292097443269_56d8a678e801350db84a_72.png",
+            "first_name": "Joël",
+            "real_name": "Joël Gaudeul",
+            "display_name": "Joël (Swan)",
+            "team": "T017AGS2KE0",
+            "name": "joel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760704529.571039",
+        "parent_user_id": "U020QK16RMJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8w4Oy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On a peu de traction avec un Demand Gen, donc on a ajouté le Growth."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U06DYTRDLUD"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

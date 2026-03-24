@@ -1,0 +1,96 @@
+[
+    {
+        "user": "U0859A8P14K",
+        "type": "message",
+        "ts": "1740128281.507089",
+        "client_msg_id": "F822D2B9-5199-4388-A230-9B63FC85FCF4",
+        "text": "J’ai fait une demande de contact sur LI mais si tu peux la prévenir avec grand plaisir <mailto:alougovoy@eudonet.com|alougovoy@eudonet.com>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "de9373c86530",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8178910826725_de9373c86530dc48c9e8_72.png",
+            "first_name": "Alexandra",
+            "real_name": "Alexandra Lougovoy",
+            "display_name": "Alexandra Lougovoy (Eudonet)",
+            "team": "T017AGS2KE0",
+            "name": "a.lougovoy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740042571.056349",
+        "parent_user_id": "U0859A8P14K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JL2yK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J’ai fait une demande de contact sur LI mais si tu peux la prévenir avec grand plaisir "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:alougovoy@eudonet.com",
+                                "text": "alougovoy@eudonet.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U084LQF8023"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U084LQF8023",
+        "type": "message",
+        "ts": "1740136207.589189",
+        "client_msg_id": "a1e0d97f-d923-42d2-9bd3-504e763618e8",
+        "text": "Elle vient de répondre, à toi de jouer ;)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a70a92c39694",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-01-20\/8306570351351_a70a92c3969457259db9_72.jpg",
+            "first_name": "Cosmina",
+            "real_name": "Cosmina Trifan",
+            "display_name": "Cosmina Trifan",
+            "team": "T017AGS2KE0",
+            "name": "cosmi.trifan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740042571.056349",
+        "parent_user_id": "U0859A8P14K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4ftaW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Elle vient de répondre, à toi de jouer ;)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

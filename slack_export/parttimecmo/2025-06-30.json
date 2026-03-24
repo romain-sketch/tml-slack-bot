@@ -1,0 +1,54 @@
+[
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1751349226.477899",
+        "client_msg_id": "0DE0A407-E937-4D16-AAC4-4368B42C402D",
+        "text": "Hello Gaelle ça va ? Si tu as besoin d’aide n’hésite pas, je connais quelques bons profils à l’écoute en ce moment :-) ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1751029364.895869",
+        "parent_user_id": "U06LENY5V6Z",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MNbmQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Gaelle ça va ? Si tu as besoin d’aide n’hésite pas, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "je connais quelques bons profils "
+                            },
+                            {
+                                "type": "text",
+                                "text": "à l’écoute"
+                            },
+                            {
+                                "type": "text",
+                                "text": " en ce moment :-) "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,131 @@
+[
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1745490853.313929",
+        "edited": {
+            "user": "U084KTR7YKX",
+            "ts": "1745491030.000000"
+        },
+        "client_msg_id": "f2244a38-8373-45bd-9505-c80626f313f6",
+        "text": "[Parrainage]\n\nHello les TLM,\n\nPetite question question pour ceux qui font du parrainage et \"négocier\" avec la finance les rewards \/ \"prouver\" le ROI\nEst-ce que vous pourriez partager le CAC parrainage vs le CAC blended ou le CAC SEA non brand par ex pour voir un peu les ratios en avoir un bench de marché ?\nEn gros je veux juste juste pouvoir comparer et me dire c'est ok si les nouveaux clients apportés par le parrainage c'est 30% du CAC blended ou 50% du CAC SEA non brand car le but c'est d'avoir un canal avec un fort ROI\n\nThks :pray:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745490853.313929",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1745836869.838969",
+        "reply_users": [
+            "U017H09S857",
+            "U084KTR7YKX",
+            "U06TF9YAWEM"
+        ],
+        "replies": [
+            {
+                "user": "U017H09S857",
+                "ts": "1745526253.472399"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1745567048.631689"
+            },
+            {
+                "user": "U06TF9YAWEM",
+                "ts": "1745836869.838969"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pT1B\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[Parrainage]\n\nHello les TLM,\n\nPetite question question pour ceux qui font du parrainage et \"négocier\" avec la finance les rewards \/ \"prouver\" le ROI\nEst-ce que vous pourriez partager le CAC parrainage vs le CAC blended ou le CAC SEA non brand par ex pour voir un peu les ratios en avoir un bench de marché ?\nEn gros je veux juste juste pouvoir comparer et me dire c'est ok si les nouveaux clients apportés par le parrainage c'est 30% du CAC blended ou 50% du CAC SEA non brand car le but c'est d'avoir un canal avec un fort ROI\n\nThks "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1745526253.472399",
+        "edited": {
+            "user": "U017H09S857",
+            "ts": "1745526272.000000"
+        },
+        "client_msg_id": "0D7CC010-953E-4C0E-90EA-85750D45763A",
+        "text": "Hello, chez Alan on utilise principalement le payback \nSur du referral le payback est autour de 0.5year.  \nEn gros quand notre payback est inférieur à 1 an la finance est contente et tout le monde est content :)\nEnsuite évidemment tout cela dépend beaucoup de ton business et de ton niveau de marge\nJe ne sais pas trop si ça répond à ta question :)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745490853.313929",
+        "parent_user_id": "U084KTR7YKX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I0upS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, chez Alan on utilise principalement le payback \nSur du referral le payback est autour de 0.5year.  \nEn gros quand notre payback est inférieur à 1 an la finance est contente et tout le monde est content :)\nEnsuite évidemment tout cela dépend beaucoup de ton business et de ton niveau de marge"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nJe ne sais pas trop si ça répond à ta question :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U084KTR7YKX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

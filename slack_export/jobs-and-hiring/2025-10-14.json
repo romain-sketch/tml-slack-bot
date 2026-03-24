@@ -1,0 +1,124 @@
+[
+    {
+        "user": "U042GV737MX",
+        "type": "message",
+        "ts": "1760436312.200609",
+        "client_msg_id": "c308840b-6217-4e4c-b3a5-41a35f055bf3",
+        "text": "Bonjour ! Je cherche un freelance design (plutôt XP B2C) et créatifs pour des missions ponctuelles  !\nMerci beaucoup pour votre aide",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "477225f2b12e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4077716786404_477225f2b12eccc47dc4_72.png",
+            "first_name": "Claire",
+            "real_name": "Claire Chauvallon",
+            "display_name": "Claire Chauvallon",
+            "team": "T017AGS2KE0",
+            "name": "chauvallon.claire",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760436312.200609",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1760437222.804499",
+        "reply_users": [
+            "U03P99RGMTN"
+        ],
+        "replies": [
+            {
+                "user": "U03P99RGMTN",
+                "ts": "1760437222.804499"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3QwV1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour ! Je cherche un freelance design (plutôt XP B2C) et créatifs pour des missions ponctuelles  !\nMerci beaucoup pour votre aide"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03P99RGMTN",
+        "type": "message",
+        "ts": "1760437222.804499",
+        "client_msg_id": "782f575b-1370-408d-9706-97c4f6461326",
+        "text": "<mailto:agnesbroez@gmail.com|agnesbroez@gmail.com> : (portfolio ici si besoin ! <https:\/\/agnesbroez.myportfolio.com\/>)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2f8b530bfffa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-28\/7656384027105_2f8b530bfffa39d455d3_72.png",
+            "first_name": "Julie",
+            "real_name": "Julie Asselin (365Talents)",
+            "display_name": "Julie Asselin (365Talents)",
+            "team": "T017AGS2KE0",
+            "name": "julie.asselin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760436312.200609",
+        "parent_user_id": "U042GV737MX",
+        "attachments": [
+            {
+                "from_url": "https:\/\/agnesbroez.myportfolio.com\/",
+                "image_url": "https:\/\/cdn.myportfolio.com\/43d5bbe9-3003-49c1-9232-8763e5eea1bb\/571802ee-ce09-4be0-95b5-ba87fbc9f4a1_rwc_0x4x446x593x446.jpg?h=7a9b791e3f64c9f62b5efd2b124a9f91",
+                "image_width": 446,
+                "image_height": 593,
+                "image_bytes": 177479,
+                "service_icon": "https:\/\/cdn.myportfolio.com\/43d5bbe9-3003-49c1-9232-8763e5eea1bb\/419edcf8-fee2-4e83-8029-c68f71fbdd58_carw_1x1x32.jpg?h=799ea50b70a091d9b5b892fb0ef1aca2",
+                "id": 1,
+                "original_url": "https:\/\/agnesbroez.myportfolio.com\/",
+                "fallback": "Agnes BROEZ",
+                "title": "Agnes BROEZ",
+                "title_link": "https:\/\/agnesbroez.myportfolio.com\/",
+                "service_name": "agnesbroez.myportfolio.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UM6GM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:agnesbroez@gmail.com",
+                                "text": "agnesbroez@gmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : (portfolio ici si besoin ! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/agnesbroez.myportfolio.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

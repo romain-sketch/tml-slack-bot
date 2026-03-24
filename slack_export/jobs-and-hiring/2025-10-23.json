@@ -1,0 +1,460 @@
+[
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1761209376.509079",
+        "client_msg_id": "3d790324-7145-430f-9ee2-18e811c75f72",
+        "text": "Hello !\n\nMatthieu Michaud, CEO d’*Hymalaia*, cherche une personne pour les accompagner en *advisory* sur leur stratégie marketing :\n• définition du *positionnement* et du *messaging*,\n• construction du *plan d’actions*,\n• développement de la *notoriété* et mise en place de la *machine inbound*.\nSi vous êtes intéressé(e) ou connaissez quelqu’un qui pourrait l’être, vous pouvez le contacter directement :\n :point_right: sur LinkedIn : <https:\/\/www.linkedin.com\/in\/michaudmatthieu\/|Matthieu Michaud>\n :e-mail: ou par mail : *<mailto:matthieu@hymalaia.com|matthieu@hymalaia.com>*",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761209376.509079",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1761209768.577589",
+        "reply_users": [
+            "U02N2EVMFCG"
+        ],
+        "replies": [
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1761209768.577589"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vLEAD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello !\n\nMatthieu Michaud, CEO d’"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Hymalaia",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", cherche une personne pour les accompagner en "
+                            },
+                            {
+                                "type": "text",
+                                "text": "advisory",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " sur leur stratégie marketing :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "définition du "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "positionnement",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " et du "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "messaging",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ","
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "construction du "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "plan d’actions",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ","
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "développement de la "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "notoriété",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " et mise en place de la "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "machine inbound",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nSi vous êtes intéressé(e) ou connaissez quelqu’un qui pourrait l’être, vous pouvez le contacter directement :\n "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_right",
+                                "unicode": "1f449"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sur LinkedIn : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/michaudmatthieu\/",
+                                "text": "Matthieu Michaud"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "e-mail",
+                                "unicode": "1f4e7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ou par mail : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:matthieu@hymalaia.com",
+                                "text": "matthieu@hymalaia.com",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U09JE6QUZDZ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U020QK16RMJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1761209768.577589",
+        "client_msg_id": "7f5a772e-0931-4e27-9a37-b416e4ee403d",
+        "text": "Parfait pour <@U020QK16RMJ> ça non ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761209376.509079",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ELQXt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Parfait pour "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U020QK16RMJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ça non ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U020QK16RMJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1761238269.650439",
+        "edited": {
+            "user": "U078PFP7A4B",
+            "ts": "1761241744.000000"
+        },
+        "client_msg_id": "187869df-8fc4-43b9-8201-c3eedbac5bac",
+        "text": "C'est de nouveau moi :slightly_smiling_face: !\nOn cherche <https:\/\/www.welcometothejungle.com\/fr\/companies\/figures\/jobs\/revops-manager_paris|un RevOps> pour accompagner les équipes Sales & Marketing chez Figures, on propose du télétravail total et un package entre 54 et 65K€. Est-ce que vous auriez des gens à me recommander svp ?\n\nMerci !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761238269.650439",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1761645181.402879",
+        "reply_users": [
+            "U092U6UDLMN",
+            "U06DYTRDLUD",
+            "U078PFP7A4B"
+        ],
+        "replies": [
+            {
+                "user": "U092U6UDLMN",
+                "ts": "1761288112.307379"
+            },
+            {
+                "user": "U06DYTRDLUD",
+                "ts": "1761644915.398119"
+            },
+            {
+                "user": "U078PFP7A4B",
+                "ts": "1761645181.402879"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "image_url": "https:\/\/cdn-images.welcometothejungle.com\/I7ZqM9L_s7Ug1MKYA8pRhMzFlfSifBrpPya_uc1YbRM\/rs:auto:1200:627:\/q:85\/czM6Ly93dHRqLXByb2R1Y3Rpb24vdXBsb2Fkcy93ZWJzaXRlX29yZ2FuaXphdGlvbi9jb3Zlcl9pbWFnZS93dHRqX2ZyL2ZyLTQ5ZTQ2YjZlLTFlZjItNDZjNy1iODIzLWQyMWRmMzUxOWZiNi5qcGc",
+                "image_width": 1200,
+                "image_height": 575,
+                "image_bytes": 259336,
+                "from_url": "https:\/\/www.welcometothejungle.com\/fr\/companies\/figures\/jobs\/revops-manager_paris",
+                "service_icon": "https:\/\/cdn.welcometothejungle.com\/wttj-front\/production\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.welcometothejungle.com\/fr\/companies\/figures\/jobs\/revops-manager_paris",
+                "fallback": "RevOps Specialist - Figures - CDI - Télétravail total",
+                "text": "Figures recrute un(e) RevOps Specialist !",
+                "title": "RevOps Specialist - Figures - CDI - Télétravail total",
+                "title_link": "https:\/\/www.welcometothejungle.com\/fr\/companies\/figures\/jobs\/revops-manager_paris",
+                "service_name": "welcometothejungle.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JWenD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est de nouveau moi "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " !\nOn cherche "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.welcometothejungle.com\/fr\/companies\/figures\/jobs\/revops-manager_paris",
+                                "text": "un RevOps"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour accompagner les équipes Sales & Marketing chez Figures, on propose du télétravail total et un package entre 54 et 65K€. Est-ce que vous auriez des gens à me recommander "
+                            },
+                            {
+                                "type": "text",
+                                "text": "svp "
+                            },
+                            {
+                                "type": "text",
+                                "text": "?\n\nMerci !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "the_horns",
+                "users": [
+                    "U03CY07UZJM",
+                    "U03P99RGMTN"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U059T4KRCUC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U092U6UDLMN",
+        "type": "message",
+        "ts": "1761288112.307379",
+        "client_msg_id": "3a11907a-f19a-4d07-865d-fd9ad2d9af2e",
+        "text": "Tu peux éventuellement poster dans la communauté slack\nBusiness Operations Network",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e910bc968404",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-19\/9072876473829_e910bc968404c2c0b5d1_72.png",
+            "first_name": "Bastien",
+            "real_name": "Bastien Meaux (DialOnce)",
+            "display_name": "Bastien Meaux",
+            "team": "T017AGS2KE0",
+            "name": "bmeaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761238269.650439",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DE6Vt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tu peux éventuellement poster dans la communauté slack\nBusiness Operations Network"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U078PFP7A4B"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

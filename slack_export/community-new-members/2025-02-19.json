@@ -1,0 +1,106 @@
+[
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1739961879.933579",
+        "client_msg_id": "ee38acd6-41b7-4261-aa3f-6bb970931b1f",
+        "text": "Hello, <https:\/\/www.linkedin.com\/in\/sidney-ouarzazi\/|Sidney> le CMO de Sellsy souhaite nous rejoindre, des avis ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739961879.933579",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1740302711.494469",
+        "reply_users": [
+            "U02N2EVMFCG",
+            "U08EN5T6F4L"
+        ],
+        "replies": [
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1740302530.727009"
+            },
+            {
+                "user": "U08EN5T6F4L",
+                "ts": "1740302711.494469"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/sidney-ouarzazi\/",
+                "thumb_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/D4E03AQE-f61AgNExTA\/profile-displayphoto-shrink_200_200\/profile-displayphoto-shrink_200_200\/0\/1665667249458?e=2147483647&v=beta&t=p5f3eLCSaV52XpcHn8IeG_Fgq2H1bhPOz-6lSYP5Ldk",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/sidney-ouarzazi\/",
+                "fallback": "Sidney Ouarzazi - Sellsy | LinkedIn",
+                "text": "Energetic e-Commerce and Marketing leader with a strong entrepreneurial and data-driven… · Expérience : Sellsy · Lieu : Bordeaux · 500 relations ou plus sur LinkedIn. Consultez le profil de Sidney Ouarzazi sur LinkedIn, une communauté professionnelle d’un milliard de membres.",
+                "title": "Sidney Ouarzazi - Sellsy | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/sidney-ouarzazi\/",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UrMdE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/sidney-ouarzazi\/",
+                                "text": "Sidney"
+                            },
+                            {
+                                "type": "text",
+                                "text": " le CMO de Sellsy souhaite nous rejoindre, des avis ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01A4GMRRR9",
+                    "U06CZESF7QF",
+                    "U0183AS3MB6",
+                    "U04L35Y9D08",
+                    "U084KTR7YKX",
+                    "U078PFP7A4B",
+                    "U06M6E5M524",
+                    "U063A8VPPG9",
+                    "U06DYTRDLUD",
+                    "U063Q1LA69W",
+                    "U059T4KRCUC",
+                    "U08C1HZNT8S",
+                    "U080MUKK9BQ"
+                ],
+                "count": 13
+            }
+        ]
+    }
+]

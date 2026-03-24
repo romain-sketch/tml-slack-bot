@@ -1,0 +1,136 @@
+[
+    {
+        "user": "U06MHCCLQG3",
+        "type": "message",
+        "ts": "1762523920.926479",
+        "client_msg_id": "c828d971-f4c6-4944-a65e-38977d838b25",
+        "text": "Hello à tous,\nPossible d'avoir le contact de votre web développeur ? On voudrait challenger nos pratiques, nos chiffres, nos outils à l'heure de l'IA, etc ! Besoin de 15' avec eux, merci :raised_hands:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c0d40ab69a35",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-02\/6731971842677_c0d40ab69a3508d4c595_72.png",
+            "first_name": "Arnaud",
+            "real_name": "Arnaud Delubac (Greenly)",
+            "display_name": "Arnaud Delubac",
+            "team": "T017AGS2KE0",
+            "name": "arnaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "36Ir7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello à tous,\nPossible d'avoir le contact de votre web développeur ? On voudrait challenger nos pratiques, nos chiffres, nos outils à l'heure de l'IA, etc ! Besoin de 15' avec eux, merci "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "unicode": "1f64c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0951RDNKU6",
+        "type": "message",
+        "ts": "1762532675.974919",
+        "client_msg_id": "f4d503f3-d941-4821-a03e-48410b44ba20",
+        "text": "Hello, Malt cherche son\/sa futur(e) <https:\/\/jobs.lever.co\/malt\/2d332a64-def5-4015-99fe-82ce50758e21?lever-via=-vGZNDjfcy&amp;lever-social=job_site|Head of Brand>, la nouvelle CMO est très sympa mais n'a pas un gros network français comme elle arrive d'Espagne. Si vous entendez qn qui cherche :wink:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "85dcd88ccf2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-06\/9660924995297_85dcd88ccf2fa3d8be38_72.jpg",
+            "first_name": "Marion",
+            "real_name": "Marion de Robillard",
+            "display_name": "Marion de Robillard",
+            "team": "T017AGS2KE0",
+            "name": "marionderobillard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/jobs.lever.co\/malt\/2d332a64-def5-4015-99fe-82ce50758e21?lever-via=-vGZNDjfcy&lever-social=job_site",
+                "thumb_url": "https:\/\/lever-client-logos.s3.us-west-2.amazonaws.com\/2f4de33b-7255-4524-bbb0-cf1a6937143b-1602870650895.png",
+                "thumb_width": 150,
+                "thumb_height": 151,
+                "service_icon": "https:\/\/jobs.lever.co\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/jobs.lever.co\/malt\/2d332a64-def5-4015-99fe-82ce50758e21?lever-via=-vGZNDjfcy&amp;lever-social=job_site",
+                "fallback": "Malt - Head of Brand",
+                "text": "You are in charge of brand identity, strategy, and execution across Europe. To refine brand identity, you lead the appropriate market research, brand positioning, and competitor analysis. You then deploy the global brand management and brand marketing plan, ensuring that the global brand image and position are correctly developed in all our markets.",
+                "title": "Malt - Head of Brand",
+                "title_link": "https:\/\/jobs.lever.co\/malt\/2d332a64-def5-4015-99fe-82ce50758e21?lever-via=-vGZNDjfcy&lever-social=job_site",
+                "service_name": "jobs.lever.co",
+                "fields": [
+                    {
+                        "value": "Paris",
+                        "title": "Location",
+                        "short": true
+                    },
+                    {
+                        "value": "Brand &amp; Design",
+                        "title": "Team",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V5oDc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, Malt cherche son\/sa futur(e) "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/jobs.lever.co\/malt\/2d332a64-def5-4015-99fe-82ce50758e21?lever-via=-vGZNDjfcy&lever-social=job_site",
+                                "text": "Head of Brand"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", la nouvelle CMO est très sympa mais n'a pas un gros network français comme elle arrive d'Espagne. Si vous entendez qn qui cherche "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03P99RGMTN",
+                    "U017RAZCAGZ",
+                    "U02N2EVMFCG"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

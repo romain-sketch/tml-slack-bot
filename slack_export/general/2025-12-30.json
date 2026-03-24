@@ -1,0 +1,61 @@
+[
+    {
+        "user": "U084LQF8023",
+        "type": "message",
+        "ts": "1767096381.881249",
+        "client_msg_id": "41c76b9f-9611-404c-a49f-e05dde1a182f",
+        "text": "&gt; Excellente idée de lancer un canal _Good Deals_ : réductions exclusives, « prix d’amis », codes promo…  ping <@U065DFPCQMP> ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a70a92c39694",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-01-20\/8306570351351_a70a92c3969457259db9_72.jpg",
+            "first_name": "Cosmina",
+            "real_name": "Cosmina Trifan",
+            "display_name": "Cosmina Trifan",
+            "team": "T017AGS2KE0",
+            "name": "cosmi.trifan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1765878511.890099",
+        "parent_user_id": "U06C95MP43Z",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MwX13",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Excellente idée de lancer un canal "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Good Deals",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " : réductions exclusives, « prix d’amis », codes promo…  ping "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U065DFPCQMP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "user": "U056DAY3YD8",
+        "type": "message",
+        "ts": "1755623870.770149",
+        "client_msg_id": "d4f9ff52-7cef-4a7a-9672-621dae5ed56e",
+        "text": "Je laisse <@U017H09S857> trancher à son retour de vacances :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "1497d32a4908",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-16\/6043403579731_1497d32a4908ee3b80b5_72.png",
+            "first_name": "Alexis",
+            "real_name": "Alexis Chevallier",
+            "display_name": "Alexis Chevallier (Part-Time CMO)",
+            "team": "T017AGS2KE0",
+            "name": "alexchvllr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1755181450.822229",
+        "parent_user_id": "U056DAY3YD8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2eISt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je laisse "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U017H09S857"
+                            },
+                            {
+                                "type": "text",
+                                "text": " trancher à son retour de vacances "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "user": "U04TR6DMRPF",
+        "type": "message",
+        "ts": "1757087457.796399",
+        "client_msg_id": "4BDDF0BA-2EEC-4135-92E1-AE37AD091B84",
+        "text": "<@U017H09S857> voici l’e-mail de Timothée pour l’inviter : <mailto:timothee.collard@outlook.com|timothee.collard@outlook.com>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "427a2d04b46a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-14\/4931728140087_427a2d04b46aed1c8171_72.jpg",
+            "first_name": "Camille",
+            "real_name": "Camille Caillard",
+            "display_name": "Camille Caillard",
+            "team": "T017AGS2KE0",
+            "name": "camille.caillard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756925975.853509",
+        "parent_user_id": "U04TR6DMRPF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y8bKb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U017H09S857"
+                            },
+                            {
+                                "type": "text",
+                                "text": " voici l’e-mail de Timothée pour l’inviter : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:timothee.collard@outlook.com",
+                                "text": "timothee.collard@outlook.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U017H09S857"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "user": "U067VEJFT5F",
+        "type": "message",
+        "ts": "1744649373.692219",
+        "client_msg_id": "504f4952-e7ba-4d94-ba05-d14ce1672312",
+        "text": ":boom: Hello tout le monde ; est-ce qu'il y a des personnes ici qui ont réussi à bien modifier *le contenu de leur page wikipedia* quand il le fallait ? j'ai vu dans l'historique qu'il y a des recos de spécialistes (très cools de trouver ça ici d'ailleurs). Preneuse de vos feedbacks si ça a bien fonctionné ou pas et pourquoi :slightly_smiling_face: gracias !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9fcbd8d4bd09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-05\/6296382564371_9fcbd8d4bd095d25ab4c_72.jpg",
+            "first_name": "Amandine",
+            "real_name": "Amandine Moreau",
+            "display_name": "Amandine Moreau",
+            "team": "T017AGS2KE0",
+            "name": "a.gremont.pro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744649373.692219",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1744709653.200419",
+        "reply_users": [
+            "U02N2EVMFCG",
+            "U067VEJFT5F"
+        ],
+        "replies": [
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1744705831.716769"
+            },
+            {
+                "user": "U067VEJFT5F",
+                "ts": "1744708351.894779"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1744709653.200419"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xa95y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "boom",
+                                "unicode": "1f4a5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hello tout le monde ; est-ce qu'il y a des personnes ici qui ont réussi à bien modifier "
+                            },
+                            {
+                                "type": "text",
+                                "text": "le contenu de leur page wikipedia ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "quand il le fallait ? j'ai vu dans l'historique qu'il y a des recos de spécialistes (très cools de trouver ça ici d'ailleurs). Preneuse de vos feedbacks si ça a bien fonctionné ou pas et pourquoi "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " gracias !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

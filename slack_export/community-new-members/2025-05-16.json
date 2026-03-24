@@ -1,0 +1,121 @@
+[
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1747395965.230109",
+        "client_msg_id": "b0adc920-c05a-4033-90dc-9aa91615a5f5",
+        "text": "Hello, quelques échanges avec <https:\/\/www.linkedin.com\/in\/estellecadoret-marketing\/|Estelle> - CMO de Simundia qui aimerait rejoindre Tech Marketing Leaders :\n• Equipe de 4\/5 personnes\n• Pas mal d'expérience en Brand &amp;Lead Acquisition, Se développe en product marketing\n• Sans doute des aspirtités à échanger avec des pairs pour peut être trouver un nouveau challenge à terme\nQu'en pensez vous ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1747395965.230109",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1747647312.520609",
+        "reply_users": [
+            "U07LN85V6TG"
+        ],
+        "replies": [
+            {
+                "user": "U07LN85V6TG",
+                "ts": "1747647312.520609"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bPk17",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, quelques échanges avec "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/estellecadoret-marketing\/",
+                                "text": "Estelle"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - CMO de Simundia qui aimerait rejoindre Tech Marketing Leaders :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Equipe de 4\/5 personnes"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Pas mal d'expérience en Brand &Lead Acquisition, Se développe en product marketing"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Sans doute des aspirtités à échanger avec des pairs pour peut être trouver un nouveau challenge à terme"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Qu'en pensez vous ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U067GNGDATD",
+                    "U0183AS3MB6",
+                    "U08HF5YQM6G",
+                    "U02N2EVMFCG",
+                    "U03P99RGMTN"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

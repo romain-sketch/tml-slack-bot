@@ -1,0 +1,139 @@
+[
+    {
+        "user": "U06U1GG592M",
+        "type": "message",
+        "ts": "1764855481.987799",
+        "client_msg_id": "6d91f491-ecb7-4885-8529-4e4f00554cc7",
+        "text": "Hello ! Vous connaissez <https:\/\/www.volubile.ai\/fr|Volubile >? Ou un outil du même genre ?\n_\"Révolutionnez vos ventes et votre service client avec l'IA conversationnelle\"_ \nObjectif = qualification via l'IA des Inbounds + prise de RDV.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "84a1e781f35c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-31\/7202740482978_84a1e781f35c228ca958_72.jpg",
+            "first_name": "Carolane",
+            "real_name": "Carolane Guyon",
+            "display_name": "Carolane (Veesion)",
+            "team": "T017AGS2KE0",
+            "name": "c.guyon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764855481.987799",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1764872715.636599",
+        "reply_users": [
+            "U04SM1RGPJB"
+        ],
+        "replies": [
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1764872715.636599"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "image_url": "https:\/\/cdn.prod.website-files.com\/655f9510c857614e12848eff\/66d5d8527ceb62082fb9a147_volubile-ai.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 197277,
+                "from_url": "https:\/\/www.volubile.ai\/fr",
+                "service_icon": "https:\/\/cdn.prod.website-files.com\/655f9510c857614e12848eff\/67a625ea7b5ffb1ec132ed33_volubile-favicon-48x48-m.png",
+                "id": 1,
+                "original_url": "https:\/\/www.volubile.ai\/fr",
+                "fallback": "Révolutionnez vos ventes et votre service client avec l'IA conversationnelle - Volubile",
+                "text": "Boostez vos ventes et votre service client avec Volubile. Automatisez vos appels, gagnez du temps, et augmentez vos résultats grâce à nos agents IA ultra-performants, disponibles 24\/7 et prêts à s’adapter à vos besoins spécifiques.",
+                "title": "Révolutionnez vos ventes et votre service client avec l'IA conversationnelle - Volubile",
+                "title_link": "https:\/\/www.volubile.ai\/fr",
+                "service_name": "volubile.ai"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ba8au",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello ! Vous connaissez "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.volubile.ai\/fr",
+                                "text": "Volubile "
+                            },
+                            {
+                                "type": "text",
+                                "text": "? Ou un outil du même genre ?\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\"Révolutionnez vos ventes et votre service client avec l'IA conversationnelle\" ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nObjectif = qualification via l'IA des Inbounds + prise de RDV."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0A11HFGA31",
+        "text": "<@U0A11HFGA31> has joined the channel",
+        "type": "message",
+        "ts": "1764856335.619839"
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1764872715.636599",
+        "client_msg_id": "b27978cc-f766-41b5-ab3c-7c96d39623b9",
+        "text": "Je suis, on est en pleine sélection de notre côté :)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764855481.987799",
+        "parent_user_id": "U06U1GG592M",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rBR6+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je suis, on est en pleine sélection de notre côté :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

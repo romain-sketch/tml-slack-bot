@@ -1,0 +1,91 @@
+[
+    {
+        "user": "U06MLNEGNKB",
+        "type": "message",
+        "ts": "1737965705.748009",
+        "client_msg_id": "b8617b8d-88a4-473e-89e4-01cd897dac2f",
+        "text": "Onclusive ce n'est pas le nouveau nom de Kantar ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9484de19a0b4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-25\/7476258473346_9484de19a0b48472edf8_72.jpg",
+            "first_name": "Priscilla",
+            "real_name": "Priscilla (Memo Bank)",
+            "display_name": "Priscilla (Memo Bank)",
+            "team": "T017AGS2KE0",
+            "name": "priscilla.cavrois",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737740585.786909",
+        "parent_user_id": "U02N2EVMFCG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hPcLt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Onclusive ce n'est pas le nouveau nom de Kantar ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017CURDPB5",
+        "type": "message",
+        "ts": "1737974734.546439",
+        "client_msg_id": "949eb561-3271-4704-a3ba-2aa61942499a",
+        "text": "Pour visibrain, my bad on ne l'utilise que pour les RS. On utilise google alert pour les RP (j'ai voté)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "671ad569fbc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5982967598243_671ad569fbc40977de70_72.jpg",
+            "first_name": "David",
+            "real_name": "David Remaud",
+            "display_name": "David Remaud (iBanFirst)",
+            "team": "T017AGS2KE0",
+            "name": "david.remaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737740585.786909",
+        "parent_user_id": "U02N2EVMFCG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RyFP5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour visibrain, my bad on ne l'utilise que pour les RS. On utilise google alert pour les RP (j'ai voté)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02N2EVMFCG"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

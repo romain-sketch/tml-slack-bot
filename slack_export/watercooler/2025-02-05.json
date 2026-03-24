@@ -1,0 +1,90 @@
+[
+    {
+        "user": "U06M6E5M524",
+        "type": "message",
+        "ts": "1738744113.066349",
+        "client_msg_id": "dac03a2c-8a8c-4118-9260-c520d73c9ae7",
+        "text": "Totalement aligné avec <@U084KTR7YKX> ça marche bien comme approche quand tu es le petit nouveau sur un marché très concurrentiel avec des acteurs historiques (c'est le cas pour moi sur du B2C : heycar vs la centrale)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e6878c6cdff3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-01\/8130211077744_e6878c6cdff3ca4586b1_72.jpg",
+            "first_name": "Thibault",
+            "real_name": "Thibault Delebarre",
+            "display_name": "Thibault Delebarre",
+            "team": "T017AGS2KE0",
+            "name": "thibault.delebarre",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738673577.690019",
+        "parent_user_id": "U08300D2NJY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sh4ve",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Totalement aligné avec "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U084KTR7YKX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ça marche bien comme approche quand tu es le petit nouveau sur un marché très concurrentiel avec des acteurs historiques (c'est le cas pour moi sur du B2C : heycar vs la centrale)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U020QK16RMJ",
+        "type": "message",
+        "ts": "1738793743.840519",
+        "client_msg_id": "9ff79062-5b72-4f02-87de-58fd44992091",
+        "text": "Idem, toujours mis en place des gentlemen agreements",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "56d8a678e801",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-18\/7292097443269_56d8a678e801350db84a_72.png",
+            "first_name": "Joël",
+            "real_name": "Joël Gaudeul",
+            "display_name": "Joël (Swan)",
+            "team": "T017AGS2KE0",
+            "name": "joel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738673577.690019",
+        "parent_user_id": "U08300D2NJY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/RGIi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Idem, toujours mis en place des gentlemen agreements"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

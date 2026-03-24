@@ -1,0 +1,95 @@
+[
+    {
+        "user": "U032T5N7UTY",
+        "type": "message",
+        "ts": "1767884091.258859",
+        "client_msg_id": "f8d38235-39b8-4f84-b21b-6c32471aa178",
+        "text": "Hello <@U016SBPG7K9>. C'est ce qu'on a chez nous. Tu as déjà des contacts dans l'équipe ? (François ou Hervé ?). Si c'est pas le cas, je peux te faire les mises en relation",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "026d818af51e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-14\/3105470112116_026d818af51e6af78591_72.png",
+            "first_name": "Maxime",
+            "real_name": "Maxime Baumard",
+            "display_name": "Maxime Baumard (Pennylane)",
+            "team": "T017AGS2KE0",
+            "name": "maxime.baumard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1767859019.385039",
+        "parent_user_id": "U0946E8A2US",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lysMQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U016SBPG7K9"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". C'est ce qu'on a chez nous. Tu as déjà des contacts dans l'équipe ? (François ou Hervé ?). Si c'est pas le cas, je peux te faire les mises en relation"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0946E8A2US",
+        "type": "message",
+        "ts": "1767892691.271999",
+        "client_msg_id": "E32B4F52-1A9A-4D60-B21A-1F7807BA20DB",
+        "text": "Non pas de contact avec eux ! Je veux bien stp ce serait top :pray:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "f73f6d38e4eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-07-23\/9238905089862_f73f6d38e4eb792c8c6a_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult",
+            "team": "T017AGS2KE0",
+            "name": "thibaut.davoult",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1767859019.385039",
+        "parent_user_id": "U0946E8A2US",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XiyxO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Non pas de contact avec eux ! Je veux bien stp ce serait top "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "user": "U08V1NE4BUJ",
+        "type": "message",
+        "ts": "1757663015.314869",
+        "client_msg_id": "fb14cc86-7d77-4a9c-a716-45038213debf",
+        "text": "merci :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "3654a4fc5d4e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-02\/8999698350033_3654a4fc5d4e25a0a92c_72.jpg",
+            "first_name": "Alan",
+            "real_name": "Alan Huet (Fundora)",
+            "display_name": "Alan HUET",
+            "team": "T017AGS2KE0",
+            "name": "alan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757496166.772069",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XyE21",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "merci "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

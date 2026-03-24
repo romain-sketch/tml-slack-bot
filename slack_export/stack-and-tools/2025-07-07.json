@@ -1,0 +1,505 @@
+[
+    {
+        "user": "U06MHCCLQG3",
+        "type": "message",
+        "ts": "1751881125.594679",
+        "client_msg_id": "e9631d25-67bf-4141-9590-6fb072cf9831",
+        "text": "Hello à tous,\nOn pensait migrer d'Albacross à la rentrée. Qu'utilisez-vous pour reconnaitre les visiteurs de votre site ?\nNous testons actuellement : <https:\/\/www.dealfront.com\/web-visitors\/>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c0d40ab69a35",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-02\/6731971842677_c0d40ab69a3508d4c595_72.png",
+            "first_name": "Arnaud",
+            "real_name": "Arnaud Delubac (Greenly)",
+            "display_name": "Arnaud Delubac",
+            "team": "T017AGS2KE0",
+            "name": "arnaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1751881125.594679",
+        "reply_count": 9,
+        "reply_users_count": 7,
+        "latest_reply": "1751924631.110069",
+        "reply_users": [
+            "U016SBPG7K9",
+            "U08SA22HS0J",
+            "U04SM1RGPJB",
+            "U04A6JMRWCS",
+            "U063A8VPPG9",
+            "U025AMSNGF8",
+            "U06MHCCLQG3"
+        ],
+        "replies": [
+            {
+                "user": "U016SBPG7K9",
+                "ts": "1751881211.841279"
+            },
+            {
+                "user": "U016SBPG7K9",
+                "ts": "1751881741.940439"
+            },
+            {
+                "user": "U08SA22HS0J",
+                "ts": "1751882453.788519"
+            },
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1751882536.593569"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1751883628.046149"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1751884359.697089"
+            },
+            {
+                "user": "U025AMSNGF8",
+                "ts": "1751888432.569339"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1751888678.007869"
+            },
+            {
+                "user": "U06MHCCLQG3",
+                "ts": "1751924631.110069"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "image_url": "https:\/\/images.ctfassets.net\/izmg6xmfbr0m\/6YqMX4ZN6gEeU9FArjSJHT\/730242d8020e71312b4a7cfb258589d2\/web_visitors.jpg",
+                "image_width": 2400,
+                "image_height": 1256,
+                "image_bytes": 87364,
+                "from_url": "https:\/\/www.dealfront.com\/web-visitors\/",
+                "service_icon": "https:\/\/www.dealfront.com\/icons\/icon-48x48.png?v=fa7358d07c70a0d4724263421b751f05",
+                "id": 1,
+                "original_url": "https:\/\/www.dealfront.com\/web-visitors\/",
+                "fallback": "B2B Website Visitor Identification",
+                "text": "Identify anonymous companies visiting your website and automatically send them to your CRM for sales teams to convert with Leadfeeder.",
+                "title": "B2B Website Visitor Identification",
+                "title_link": "https:\/\/www.dealfront.com\/web-visitors\/",
+                "service_name": "dealfront.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oEYfp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello à tous,\nOn pensait migrer d'Albacross à la rentrée. Qu'utilisez-vous pour reconnaitre les visiteurs de votre site ?\nNous testons actuellement : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dealfront.com\/web-visitors\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U059T4KRCUC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1751881211.841279",
+        "client_msg_id": "bf61b5c5-6851-42c8-bb0f-4a8c2fc45e70",
+        "text": "C'est built-in dans HubSpot depuis le rachat de Clearbit donc on utilise ça nous",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1751881125.594679",
+        "parent_user_id": "U06MHCCLQG3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hs02\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est built-in dans HubSpot depuis le rachat de Clearbit donc on utilise ça nous"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1751881741.940439",
+        "client_msg_id": "e3c1bc0f-24d2-436d-b56e-2b099e483204",
+        "text": "aussi <https:\/\/www.referly.io\/> si ça s'imbrique dans une stratégie plus grande d'intent signals",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1751881125.594679",
+        "parent_user_id": "U06MHCCLQG3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v\/HBW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "aussi "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.referly.io\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " si ça s'imbrique dans une stratégie plus grande d'intent signals"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U025AMSNGF8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U08SA22HS0J",
+        "type": "message",
+        "ts": "1751882453.788519",
+        "client_msg_id": "bc542629-43cc-4186-85d1-b21fe0368fb7",
+        "text": "Pareil, on s'appuie sur Breeze Intelligence d'Hubspot. C'est assez light mais ça fait le job et le scope fonctionnel s'enrichit régulièrement.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "266d9356f19e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-07\/10243863201635_266d9356f19e63bc9267_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu BONENFANT (SecLab)",
+            "display_name": "Matthieu BONENFANT (SecLab)",
+            "team": "T017AGS2KE0",
+            "name": "matthieu.bonenfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1751881125.594679",
+        "parent_user_id": "U06MHCCLQG3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "067FQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pareil, on s'appuie sur Breeze Intelligence d'Hubspot. C'est assez light mais ça fait le job et le scope fonctionnel s'enrichit régulièrement."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1751882536.593569",
+        "client_msg_id": "8c5876fe-0d42-4097-be8e-f9e1e679ad32",
+        "text": "On a a la fois breeze et dealfront ici",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1751881125.594679",
+        "parent_user_id": "U06MHCCLQG3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LfN9M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On a a la fois breeze et dealfront ici"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1751883628.046149",
+        "client_msg_id": "1388979e-a805-495f-b35d-94793b8f727e",
+        "text": "Ici, on est sur snitcher, qui est pas mal",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1751881125.594679",
+        "parent_user_id": "U06MHCCLQG3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xZ8gM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ici, on est sur snitcher, qui est pas mal"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1751884359.697089",
+        "client_msg_id": "2FDB6580-EAC1-47BC-BF9E-FE5EFF56B62E",
+        "text": "Breeze ici aussi",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1751881125.594679",
+        "parent_user_id": "U06MHCCLQG3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8shna",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Breeze ici aussi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U025AMSNGF8",
+        "type": "message",
+        "ts": "1751888432.569339",
+        "client_msg_id": "5264daba-8e49-4dd0-a257-79b5c5fba881",
+        "text": "Referly en test chez nous en ce moment",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b5f2d16c46f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-18\/6070004520657_b5f2d16c46f6b166931e_72.png",
+            "first_name": "Eliott",
+            "real_name": "Eliott Guerin",
+            "display_name": "Eliott Guerin (Skello)",
+            "team": "T017AGS2KE0",
+            "name": "eliott",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1751881125.594679",
+        "parent_user_id": "U06MHCCLQG3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "adTvF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Referly en test chez nous en ce moment"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1751888678.007869",
+        "client_msg_id": "ede8e6a2-bf65-4a32-b0b6-7cfd8dec45eb",
+        "text": "ah je suis sur referly aussi en ce moment, mais du mal à le faire fonctionner correctement",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1751881125.594679",
+        "parent_user_id": "U06MHCCLQG3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ftX4i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ah je suis sur referly aussi en ce moment, mais du mal à le faire fonctionner correctement"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06MHCCLQG3",
+        "type": "message",
+        "ts": "1751924631.110069",
+        "client_msg_id": "4f457a3c-59eb-4de6-afee-33629540886e",
+        "text": "Merci à tous ! On va creuser ça :wink:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c0d40ab69a35",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-02\/6731971842677_c0d40ab69a3508d4c595_72.png",
+            "first_name": "Arnaud",
+            "real_name": "Arnaud Delubac (Greenly)",
+            "display_name": "Arnaud Delubac",
+            "team": "T017AGS2KE0",
+            "name": "arnaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1751881125.594679",
+        "parent_user_id": "U06MHCCLQG3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "881G+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci à tous ! On va creuser ça "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

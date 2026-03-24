@@ -1,0 +1,53 @@
+[
+    {
+        "user": "U0AEPPHSNQJ",
+        "type": "message",
+        "ts": "1770994009.060109",
+        "client_msg_id": "0b53ebc5-9227-4667-a55d-ef31e07a8cd3",
+        "text": "Welcome <@U0AF2M53E81> :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2d9774d25969",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-02-12\/10485165466583_2d9774d259690ee34db9_72.png",
+            "first_name": "Bastien",
+            "real_name": "Bastien Meaux",
+            "display_name": "Bastien (DialOnce)",
+            "team": "T017AGS2KE0",
+            "name": "bastien.meaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zMK7M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0AF2M53E81"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

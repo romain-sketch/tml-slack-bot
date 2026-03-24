@@ -1,0 +1,314 @@
+[
+    {
+        "user": "U042GV737MX",
+        "type": "message",
+        "ts": "1763991475.867139",
+        "client_msg_id": "3c36ff3b-c27f-44d9-b52d-07edc4f99cac",
+        "text": "Hello ! Je cherche une agence social media très créative, des idées ? Merci :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "477225f2b12e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4077716786404_477225f2b12eccc47dc4_72.png",
+            "first_name": "Claire",
+            "real_name": "Claire Chauvallon",
+            "display_name": "Claire Chauvallon",
+            "team": "T017AGS2KE0",
+            "name": "chauvallon.claire",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763991475.867139",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1764015251.108329",
+        "reply_users": [
+            "U07MNBM4WLV",
+            "U042GV737MX"
+        ],
+        "replies": [
+            {
+                "user": "U07MNBM4WLV",
+                "ts": "1764006521.510499"
+            },
+            {
+                "user": "U042GV737MX",
+                "ts": "1764015251.108329"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mFlME",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello ! Je cherche une agence social media très créative, des idées ? Merci "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07MNBM4WLV",
+        "type": "message",
+        "ts": "1764006521.510499",
+        "client_msg_id": "6d9721f2-bd19-4291-998e-169dce8a13b7",
+        "text": "Blue lemon ils sont très créas et bosseurs, j'aime bcp leur CEO <https:\/\/www.linkedin.com\/in\/solaldahan>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "028ce63b55be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7733128030774_028ce63b55be29945d4f_72.jpg",
+            "first_name": "Domitille",
+            "real_name": "Domitille de Saint-Exupéry",
+            "display_name": "Domitille de Saint-Exupéry (lemlist)",
+            "team": "T017AGS2KE0",
+            "name": "domitille433",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763991475.867139",
+        "parent_user_id": "U042GV737MX",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/solaldahan",
+                "thumb_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/D4E03AQH7As507ZLR6w\/profile-displayphoto-shrink_200_200\/profile-displayphoto-shrink_200_200\/0\/1687184636486?e=2147483647&v=beta&t=1NanAQek8XbbXqBvziWnl21SdYJGPOvBhq7vyMGKVeM",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/solaldahan",
+                "fallback": "Solal Dahan :lemon: - We Are Watching by bluelemon | LinkedIn",
+                "text": ":movie_camera: Co-fondateur de <http:\/\/Blulelemon.io|Blulelemon.io>\nOn crée du contenu vidéo qui convertit (vraiment)… · Expérience : We Are Watching by bluelemon · Formation : INSEEC U. · Lieu : Paris · 500 relations ou plus sur LinkedIn. Consultez le profil de Solal Dahan :lemon: sur LinkedIn, une communauté professionnelle d’un milliard de membres.",
+                "title": "Solal Dahan :lemon: - We Are Watching by bluelemon | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/solaldahan",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2MMVl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Blue lemon ils sont très créas et bosseurs, j'aime bcp leur CEO "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/solaldahan"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U042GV737MX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U042GV737MX",
+        "type": "message",
+        "ts": "1764015251.108329",
+        "client_msg_id": "b877854f-93f0-46c9-9956-83fc5f772074",
+        "text": "Merci !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "477225f2b12e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4077716786404_477225f2b12eccc47dc4_72.png",
+            "first_name": "Claire",
+            "real_name": "Claire Chauvallon",
+            "display_name": "Claire Chauvallon",
+            "team": "T017AGS2KE0",
+            "name": "chauvallon.claire",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763991475.867139",
+        "parent_user_id": "U042GV737MX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CHpyc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1764056119.001249",
+        "client_msg_id": "da1cf76c-3706-4875-b562-928ae9bad3d1",
+        "text": "Hello tout le monde,\nAvec <@U063Q1LA69W> on organise un bootcamp international UnlockM pour donner toutes les clés du développement marketing international + focus US.\nSi ca vous interesse vous pouvez vous inscrire <https:\/\/unlockm.circle.so\/c\/office-hours|ici>, c'est le free trial donc gratuit.\nY a des supers speakers dont <@U06CZESF7QF> <@U04SM1RGPJB> et d'autres tops, dont mon ancien boss de chez Aircall qui est celui qui a lancé les US la bas.\nCa va etre canon !\nDes bisous",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764056119.001249",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1764668048.688349",
+        "reply_users": [
+            "U03CY07UZJM",
+            "U06U1GG592M",
+            "U063A8VPPG9",
+            "U07R7CUFM7H"
+        ],
+        "replies": [
+            {
+                "user": "U03CY07UZJM",
+                "ts": "1764061387.152359"
+            },
+            {
+                "user": "U06U1GG592M",
+                "ts": "1764069663.847379"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1764072003.668939"
+            },
+            {
+                "user": "U07R7CUFM7H",
+                "ts": "1764585834.706439"
+            },
+            {
+                "user": "U06U1GG592M",
+                "ts": "1764668048.688349"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3SJoI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello tout le monde,\nAvec "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U063Q1LA69W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on organise un bootcamp international UnlockM pour donner toutes les clés du développement marketing international + focus US.\nSi ca vous interesse vous pouvez vous inscrire "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/unlockm.circle.so\/c\/office-hours",
+                                "text": "ici"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", c'est le free trial donc gratuit.\nY a des supers speakers dont "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06CZESF7QF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04SM1RGPJB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et d'autres tops, dont mon ancien boss de chez Aircall qui est celui qui a lancé les US la bas.\nCa va etre canon !\nDes bisous"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04SM1RGPJB",
+                    "U06MLNEGNKB",
+                    "U01789XN2UV",
+                    "U03CY07UZJM",
+                    "U0183AS3MB6",
+                    "U06LTCV0DE2",
+                    "U0859A8P14K",
+                    "U08EN5T6F4L",
+                    "U07R7CUFM7H"
+                ],
+                "count": 9
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U04SM1RGPJB",
+                    "U017H09S857",
+                    "U06DYTRDLUD",
+                    "U06CZESF7QF",
+                    "U07D08K3U0K",
+                    "U078PFP7A4B",
+                    "U0183AS3MB6",
+                    "U0859A8P14K",
+                    "U08SA22HS0J",
+                    "U06V83JDFLY",
+                    "U03P99RGMTN",
+                    "U08PLD4KPS8"
+                ],
+                "count": 12
+            }
+        ]
+    }
+]

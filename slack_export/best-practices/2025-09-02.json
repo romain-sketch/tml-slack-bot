@@ -1,0 +1,195 @@
+[
+    {
+        "user": "U069NSTHZ3Q",
+        "type": "message",
+        "ts": "1756797066.685019",
+        "client_msg_id": "78216a18-176b-47e4-badd-03591fbcaa0e",
+        "text": "hello, vous me faites peur. On essaye de les intégrer et on a justement un probleme (avec l’intégration avec Hubspot et la gestion des comptes duplicates). <@U08HF5YQM6G> c'était quoi ton use case? qu'est-ce qui a bloqué?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "fbbca81fca0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-30\/7816371623809_fbbca81fca0c916c8c15_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Gannau (Oodrive)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "m.gannau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756742190.984759",
+        "parent_user_id": "U08HF5YQM6G",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PdcZg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello, vous me faites peur. On essaye de les intégrer et on a justement un probleme (avec l’intégration avec Hubspot et la gestion des comptes duplicates). "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08HF5YQM6G"
+                            },
+                            {
+                                "type": "text",
+                                "text": " c'était quoi ton use case? qu'est-ce qui a bloqué?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08HF5YQM6G",
+        "type": "message",
+        "ts": "1756803476.084019",
+        "client_msg_id": "b2ab83f2-6ca2-4b1f-b638-5e7d83031997",
+        "text": "le use case le plus basique - créer des listing sur leur outil (type salesnav) en excluant nos clients, les balancer dans une séquence sur LI et mail et renvoyer vers Hubspot.\nCe qui bloque c'est que pour toute intégration avec HS ils ont besoin qu'une fiche entreprise soit créée - ce qui ne fait aucun sens pour un lead. Du coup ils sont en train de développer un moyen de contourner cette contrainte mais ça me paraît très bricolé",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "dc5afdcdc051",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-28\/10418814050592_dc5afdcdc0516abb4cac_72.jpg",
+            "first_name": "Roy",
+            "real_name": "Roy Brockmann",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "roy.brockmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756742190.984759",
+        "parent_user_id": "U08HF5YQM6G",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0nlGh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "le use case le plus basique - créer des listing sur leur outil (type salesnav) en excluant nos clients, les balancer dans une séquence sur LI et mail et renvoyer vers Hubspot.\nCe qui bloque c'est que pour toute intégration avec HS ils ont besoin qu'une fiche entreprise soit créée - ce qui ne fait aucun sens pour un lead. Du coup ils sont en train de développer un moyen de contourner cette contrainte mais ça me paraît très bricolé"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08SA22HS0J",
+        "type": "message",
+        "ts": "1756805341.791609",
+        "client_msg_id": "68d42d8f-c0f3-4860-aeb0-f3d93424d5c9",
+        "text": "J'étais suspicieux quant au fait qu'ils mettent en avant une stack complète d'outbound alors que la boîte n’a que deux ans. On n’avait pas pu avoir une intégration hubspot exploitable.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "266d9356f19e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-07\/10243863201635_266d9356f19e63bc9267_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu BONENFANT (SecLab)",
+            "display_name": "Matthieu BONENFANT (SecLab)",
+            "team": "T017AGS2KE0",
+            "name": "matthieu.bonenfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756742190.984759",
+        "parent_user_id": "U08HF5YQM6G",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9DqiI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'étais suspicieux quant au fait qu'ils mettent en avant une stack complète d'outbound alors que la boîte n’a que deux ans. On n’avait pas pu avoir une intégration hubspot exploitable."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U08HF5YQM6G"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U069NSTHZ3Q",
+        "type": "message",
+        "ts": "1756816628.393009",
+        "client_msg_id": "46a833f3-1703-41b1-9c11-a3ecac552741",
+        "text": "merci beaucoup <@U08HF5YQM6G> <@U08SA22HS0J> pour vos retours",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "fbbca81fca0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-30\/7816371623809_fbbca81fca0c916c8c15_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Gannau (Oodrive)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "m.gannau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756742190.984759",
+        "parent_user_id": "U08HF5YQM6G",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aqx8H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "merci beaucoup "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08HF5YQM6G"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08SA22HS0J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour vos retours"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

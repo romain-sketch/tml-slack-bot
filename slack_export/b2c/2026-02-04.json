@@ -1,0 +1,58 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U019LA4F38F",
+        "text": "<@U019LA4F38F> has joined the channel",
+        "type": "message",
+        "ts": "1770222851.382899"
+    },
+    {
+        "user": "U07D08K3U0K",
+        "type": "message",
+        "ts": "1770223944.698369",
+        "client_msg_id": "7F367A0A-5B2C-4429-8F22-B2E2ADC51DD4",
+        "text": "Hello, on a le même enjeu côté Chargemap. Mes équipes vont me présenter des solutions qu’elles auront testées d'ici fin février - je te dirai si un outil ressort.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "ee04aae8ef81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-02\/7689117269088_ee04aae8ef81d255cd1f_72.png",
+            "first_name": "Tiphanie",
+            "real_name": "Tiphanie Meyer",
+            "display_name": "Tiphanie",
+            "team": "T017AGS2KE0",
+            "name": "tiphanie.meyer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769525768.744309",
+        "parent_user_id": "U059T4KRCUC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8JAGW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, on a le même enjeu côté Chargemap. Mes équipes vont me présenter des solutions qu’elles auront testées d'ici fin février - je te dirai si un outil ressort."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U059T4KRCUC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

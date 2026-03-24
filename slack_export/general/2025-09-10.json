@@ -1,0 +1,342 @@
+[
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1757496166.772069",
+        "client_msg_id": "526e27c0-a6f8-4b3b-80b3-aadaa5b91545",
+        "text": "*<!channel> Networking breakfast* :coffee:\nCa fait un moment qu'on n'a pas eu de moment networking !\nJe peux recevoir chez Alan le *mardi 7\/10*\nQui serait partant ?\nEst ce qu'il y a un sujet dont vous aimeriez parler (présentation, retours d'expérience...?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757496166.772069",
+        "reply_count": 24,
+        "reply_users_count": 12,
+        "latest_reply": "1759839047.532219",
+        "reply_users": [
+            "U03P99RGMTN",
+            "U08V1NE4BUJ",
+            "U017H09S857",
+            "U084KTR7YKX",
+            "U06DYTRDLUD",
+            "U032T5N7UTY",
+            "U017RAZCAGZ",
+            "U07PEP71X4Y",
+            "U08M0JP81DK",
+            "U07MNBM4WLV",
+            "U06M6E5M524",
+            "U01T6U402V8"
+        ],
+        "replies": [
+            {
+                "user": "U03P99RGMTN",
+                "ts": "1757497406.743089"
+            },
+            {
+                "user": "U08V1NE4BUJ",
+                "ts": "1757527082.916819"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1757624684.451409"
+            },
+            {
+                "user": "U08V1NE4BUJ",
+                "ts": "1757663015.314869"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1757922134.054489"
+            },
+            {
+                "user": "U06DYTRDLUD",
+                "ts": "1757924473.209139"
+            },
+            {
+                "user": "U032T5N7UTY",
+                "ts": "1758613361.149829"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1758886557.908709"
+            },
+            {
+                "user": "U017RAZCAGZ",
+                "ts": "1759235149.433829"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1759236897.933149"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1759236928.282609"
+            },
+            {
+                "user": "U06DYTRDLUD",
+                "ts": "1759239726.623079"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1759392452.990579"
+            },
+            {
+                "user": "U07PEP71X4Y",
+                "ts": "1759408696.376989"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1759411533.512629"
+            },
+            {
+                "user": "U08M0JP81DK",
+                "ts": "1759414370.720909"
+            },
+            {
+                "user": "U07PEP71X4Y",
+                "ts": "1759414672.750139"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1759416747.500669"
+            },
+            {
+                "user": "U07MNBM4WLV",
+                "ts": "1759419027.214819"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1759422180.851989"
+            },
+            {
+                "user": "U06M6E5M524",
+                "ts": "1759436922.585249"
+            },
+            {
+                "user": "U017RAZCAGZ",
+                "ts": "1759503045.740199"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1759766489.909409"
+            },
+            {
+                "user": "U01T6U402V8",
+                "ts": "1759839047.532219"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xVjAH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Networking breakfast ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "coffee",
+                                "unicode": "2615",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nCa fait un moment qu'on n'a pas eu de moment networking !\nJe peux recevoir chez Alan le "
+                            },
+                            {
+                                "type": "text",
+                                "text": "mardi 7\/10",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nQui serait partant ?\nEst ce qu'il y a un sujet dont vous aimeriez parler (présentation, retours d'expérience...?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart_hands",
+                "users": [
+                    "U03P99RGMTN",
+                    "U03QPMQA31V",
+                    "U07MNBM4WLV",
+                    "U017RAZCAGZ",
+                    "U07R7CUFM7H",
+                    "U08HF5YQM6G",
+                    "U06DYTRDLUD",
+                    "U0859A8P14K",
+                    "U084KTR7YKX"
+                ],
+                "count": 9
+            },
+            {
+                "name": "woman-raising-hand",
+                "users": [
+                    "U03P99RGMTN",
+                    "U03QPMQA31V",
+                    "U06M6E5M524",
+                    "U017RAZCAGZ",
+                    "U07R7CUFM7H",
+                    "U06LENY5V6Z",
+                    "U08V1NE4BUJ",
+                    "U08HF5YQM6G",
+                    "U06DYTRDLUD",
+                    "U06E3PY5LAY",
+                    "U032T5N7UTY",
+                    "U07PEP71X4Y"
+                ],
+                "count": 12
+            },
+            {
+                "name": "x",
+                "users": [
+                    "U02N2EVMFCG",
+                    "U01A4GMRRR9",
+                    "U06CZESF7QF",
+                    "U04HP95GK55",
+                    "U078PFP7A4B",
+                    "U06EN9X790C",
+                    "U069NSTHZ3Q",
+                    "U092U6UDLMN",
+                    "U084KTR7YKX"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "user": "U03P99RGMTN",
+        "type": "message",
+        "ts": "1757497406.743089",
+        "client_msg_id": "4a1d1c31-1fea-4313-9cc1-84432bbc59d5",
+        "text": "perso j’ai un sujet market research sur l’international (toujours) et surtout, comment analyser le contexte économique et ses impacts sur les achats Tech",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2f8b530bfffa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-28\/7656384027105_2f8b530bfffa39d455d3_72.png",
+            "first_name": "Julie",
+            "real_name": "Julie Asselin (365Talents)",
+            "display_name": "Julie Asselin (365Talents)",
+            "team": "T017AGS2KE0",
+            "name": "julie.asselin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757496166.772069",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "niiQK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "perso j’ai un sujet market research sur l’international (toujours) et surtout, comment analyser le contexte économique et ses impacts sur les achats Tech"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LENY5V6Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U08V1NE4BUJ",
+        "type": "message",
+        "ts": "1757527082.916819",
+        "client_msg_id": "9a764eaf-56df-4dca-9c41-02bc14e5e739",
+        "text": "partant ! :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "3654a4fc5d4e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-02\/8999698350033_3654a4fc5d4e25a0a92c_72.jpg",
+            "first_name": "Alan",
+            "real_name": "Alan Huet (Fundora)",
+            "display_name": "Alan HUET",
+            "team": "T017AGS2KE0",
+            "name": "alan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757496166.772069",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T93+8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "partant ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U09EFH6S1BQ",
+        "text": "<@U09EFH6S1BQ> has joined the channel",
+        "type": "message",
+        "ts": "1757573571.077879"
+    }
+]

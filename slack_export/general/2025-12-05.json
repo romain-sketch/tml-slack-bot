@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U08554C4R7C",
+        "type": "message",
+        "ts": "1764941432.871669",
+        "client_msg_id": "a72daa02-6d5c-43f0-8ed5-a9cc17537f4b",
+        "text": "Hello, oui aussi!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9c992809fd1f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8164113933223_9c992809fd1f2d731c79_72.jpg",
+            "first_name": "Pauline",
+            "real_name": "Pauline Fumeron (Lifen)",
+            "display_name": "Pauline (Lifen)",
+            "team": "T017AGS2KE0",
+            "name": "pfumeron",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764837846.871339",
+        "parent_user_id": "U08PEJM137X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jdym7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, oui aussi!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

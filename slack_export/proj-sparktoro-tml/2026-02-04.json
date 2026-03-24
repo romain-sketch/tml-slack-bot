@@ -1,0 +1,58 @@
+[
+    {
+        "user": "U0177A5V42F",
+        "type": "message",
+        "ts": "1770193287.165109",
+        "client_msg_id": "9b7d25d9-5287-4276-8de4-31cf26428954",
+        "text": "<@U065DFPCQMP> on se fait un appel dans les jours à venir ?\n<https:\/\/calendar.google.com\/calendar\/u\/0\/appointments\/schedules\/AcZssZ1Fz9aLomKIRNdg6LwVDuYIIx86uz_KVCK1UC7SONM7JtWAUA-D1BSzu087WQiwsrpd-lC8XVid?gv=true|https:\/\/calendar.google.com\/calendar\/u\/0\/appointments\/schedules\/AcZssZ1Fz9aLomKIRNdg6L[…]x86uz_KVCK1UC7SONM7JtWAUA-D1BSzu087WQiwsrpd-lC8XVid?gv=true>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ebca9b04129",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-17\/1245815650949_7ebca9b041296679a81d_72.jpg",
+            "first_name": "Guillaume",
+            "real_name": "Guillaume Laguette",
+            "display_name": "Guillaume Laguette (echOpen)",
+            "team": "T017AGS2KE0",
+            "name": "laguette.guillaume",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zOVGn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U065DFPCQMP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on se fait un appel dans les jours à venir ?\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/calendar.google.com\/calendar\/u\/0\/appointments\/schedules\/AcZssZ1Fz9aLomKIRNdg6LwVDuYIIx86uz_KVCK1UC7SONM7JtWAUA-D1BSzu087WQiwsrpd-lC8XVid?gv=true",
+                                "text": "https:\/\/calendar.google.com\/calendar\/u\/0\/appointments\/schedules\/AcZssZ1Fz9aLomKIRNdg6L[…]x86uz_KVCK1UC7SONM7JtWAUA-D1BSzu087WQiwsrpd-lC8XVid?gv=true"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U065DFPCQMP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

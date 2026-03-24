@@ -1,0 +1,232 @@
+[
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1756112903.283589",
+        "client_msg_id": "33624c1a-8179-49ff-9df4-ca8ba4dae976",
+        "text": "Bravo Marie",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1755692475.064479",
+        "parent_user_id": "U04CW99BP3Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Zm5E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bravo Marie"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1756113942.790209",
+        "client_msg_id": "4038395f-8b80-4a9b-8570-c85932d472df",
+        "text": "post liké !\net sinon ça donne un pic de traffic \/ awareness \/ Request ?\n\nIntéressée de comprendre les KPIs impactés :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1755692475.064479",
+        "parent_user_id": "U04CW99BP3Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZRpDF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "post liké !\net sinon ça donne un pic de traffic \/ awareness \/ Request ?\n\nIntéressée de comprendre les KPIs impactés "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04CW99BP3Q",
+        "type": "message",
+        "ts": "1756121365.958609",
+        "client_msg_id": "451a0579-ad39-441c-b1d2-87f7546b0c53",
+        "text": "• Petit pic instantané de traffic (x4 en sessions vs la même heure en soirée normale), qui ne convertit pas du tout \n• Effet réassurance surtout pour nos partenaires à qui on l’a partagé \n• Excellent effet sur le moral des équipes \n• et 3-4 SMS de vieilles tantes et amis des parents qui l’ont vu passer en direct et ça c’est priceless :wink:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7e1f9e2f5ffb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-11-30\/4445095862754_7e1f9e2f5ffb646f7b24_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Reboul",
+            "display_name": "Marie Reboul",
+            "team": "T017AGS2KE0",
+            "name": "marie.reboul",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1755692475.064479",
+        "parent_user_id": "U04CW99BP3Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QTBOM",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Petit pic instantané de traffic (x4 en sessions vs la même heure en soirée normale), qui ne convertit pas du tout "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Effet réassurance surtout pour nos partenaires à qui on l’a partagé "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Excellent effet sur le moral des équipes "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "et 3-4 SMS de vieilles tantes et amis des parents qui l’ont vu passer en direct et ça c’est priceless "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "wink",
+                                        "unicode": "1f609"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U084KTR7YKX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U09BVQYR1GA",
+        "text": "<@U09BVQYR1GA> has joined the channel",
+        "type": "message",
+        "ts": "1756126203.912479"
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1756148499.714039",
+        "client_msg_id": "a94ca233-4f8c-4770-870e-956130a422fe",
+        "text": "le KPI des SMS étant le plus stylé. je me souviens encore de l'article Oues France découpé par ma mère sur Qonto ^^",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1755692475.064479",
+        "parent_user_id": "U04CW99BP3Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8As80",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "le KPI des SMS étant le plus stylé. je me souviens encore de l'article Oues France découpé par ma mère sur Qonto ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U04CW99BP3Q"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

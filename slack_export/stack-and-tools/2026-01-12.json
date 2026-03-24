@@ -1,0 +1,82 @@
+[
+    {
+        "user": "U04L04T475K",
+        "type": "message",
+        "ts": "1768206750.385179",
+        "client_msg_id": "08cd3468-f635-4985-b861-f15dd4f2f1b9",
+        "text": "De même, top ! Il faut faire une repasse dessus pour passer de 80% cool à 100% très bien, mais globalement tu gagnes bcp de temps. Surtout sur des gros decks.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "992240f01962",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4685704045204_992240f019622b6b0af8_72.jpg",
+            "first_name": "Antoine",
+            "real_name": "Antoine Yahia Cherif",
+            "display_name": "Antoine Yahia Cherif",
+            "team": "T017AGS2KE0",
+            "name": "antoine.yc008",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1767621073.794559",
+        "parent_user_id": "U07BLPPL3C1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i+OI8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "De même, top ! Il faut faire une repasse dessus pour passer de 80% cool à 100% très bien, mais globalement tu gagnes bcp de temps. Surtout sur des gros decks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07BLPPL3C1",
+        "type": "message",
+        "ts": "1768207490.884079",
+        "client_msg_id": "0c4f76ab-4022-4ba4-bd13-94b1f8b45cd8",
+        "text": "Merci pour vos retours tous les deux, j'ai hâte de tester !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a188c365467d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-16\/7728349993798_a188c365467d3e63d25d_72.jpg",
+            "first_name": "Esther",
+            "real_name": "Esther Daga",
+            "display_name": "Esther Daga (Powell)",
+            "team": "T017AGS2KE0",
+            "name": "estherdaga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1767621073.794559",
+        "parent_user_id": "U07BLPPL3C1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uUpCR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci pour vos retours tous les deux, j'ai hâte de tester !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

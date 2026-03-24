@@ -1,0 +1,126 @@
+[
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1746552533.750129",
+        "edited": {
+            "user": "U084KTR7YKX",
+            "ts": "1746552588.000000"
+        },
+        "client_msg_id": "792648c3-f00e-49e0-98bd-e7dbb71ad9cd",
+        "text": "je demande à Marion et je te redis !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1746440778.391609",
+        "parent_user_id": "U025AMSNGF8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TbuGb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je demande à Marion et je te redis !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1746552633.824929",
+        "client_msg_id": "b32abe13-7a43-4bf6-977f-71c6cf4fab74",
+        "text": "bon apparemment \"On n’a pas d’agence dans les new markets\"",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1746440778.391609",
+        "parent_user_id": "U025AMSNGF8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vxEOG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "bon apparemment \"On n’a pas d’agence dans les new markets\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1746552640.369269",
+        "client_msg_id": "50b9ac1b-cf76-47da-b732-5b74b246f380",
+        "text": "et BE c'est un new market",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1746440778.391609",
+        "parent_user_id": "U025AMSNGF8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YcLIt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "et BE c'est un new market"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1761405648.349459",
+        "client_msg_id": "9e91285e-49c6-4fbf-af85-bfd253b6c4e1",
+        "text": "Super intéressant ! merci :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761035205.371099",
+        "parent_user_id": "U02N2EVMFCG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i581o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Super intéressant ! merci "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

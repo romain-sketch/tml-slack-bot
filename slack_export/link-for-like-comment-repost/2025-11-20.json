@@ -1,0 +1,101 @@
+[
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1763647203.876709",
+        "client_msg_id": "e77ee415-ac86-4ff6-8d96-5b906d18cb9a",
+        "text": "Merci <@U020QK16RMJ> <@U0183AS3MB6> <@U09BVQYR1GA> pour la session de ce matin!\n<https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:7397272252158730240>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/D4E22AQERNI_PK85oKA\/feedshare-shrink_800\/B4EZqhj0MxIQAg-\/0\/1763647127822?e=2147483647&v=beta&t=R21sJtjknAhlgc-y17xthijuhRRGyyDkReDYN_F5R3s",
+                "image_width": 800,
+                "image_height": 600,
+                "image_bytes": 57251,
+                "from_url": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:7397272252158730240",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:7397272252158730240",
+                "fallback": "Discussion passionnante ce matin avec TechMarketingLeaders autour de l&amp;#39;Account Based Xperience  - Qualifier son marché en fonction du degré d&amp;#39;awareness et d&amp;#39;intent, c&amp;#39;est reconnaître que tous nos… | TechMarketingLeaders",
+                "text": "Discussion passionnante ce matin avec TechMarketingLeaders autour de l'Account Based Xperience\n\n- Qualifier son marché en fonction du degré d'awareness et d'intent, c'est reconnaître que tous nos prospects ne sont pas au même endroit dans leur réflexion. Et que notre approche doit refléter cette réalité\n\n- 1-to-many, 1-to-few, 1-to-1 : la vraie question n'est pas de choisir entre ces différentes tactiques d'engagement, mais de comprendre comment elles peuvent coexister et se renforcer mutuellement\n\n- L'organisation minimale : on parle souvent de stratégie et de tactiques, mais rarement de l'organisation nécessaire pour que ça fonctionne. Spoiler : vous n'avez pas besoin d'une armée, mais d'alignement entre growth, content et sales\n\nUn grand merci à Swan pour l'accueil et à nos speakers Joel Gaudeul :crystal_ball:Tania Saez:blue_heart: Jordan Chenevier-Truchet",
+                "title": "Discussion passionnante ce matin avec TechMarketingLeaders autour de l&amp;#39;Account Based Xperience  - Qualifier son marché en fonction du degré d&amp;#39;awareness et d&amp;#39;intent, c&amp;#39;est reconnaître que tous nos… | TechMarketingLeaders",
+                "title_link": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:7397272252158730240",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eQOMK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U020QK16RMJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0183AS3MB6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U09BVQYR1GA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour la session de ce matin!\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:7397272252158730240"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U03QPMQA31V",
+                    "U06DYTRDLUD",
+                    "U092U6UDLMN",
+                    "U02N2EVMFCG",
+                    "U0951RDNKU6",
+                    "U04SM1RGPJB",
+                    "U0183AS3MB6",
+                    "U09JE6QUZDZ"
+                ],
+                "count": 8
+            }
+        ]
+    }
+]

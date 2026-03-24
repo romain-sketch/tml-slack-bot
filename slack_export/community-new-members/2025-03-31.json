@@ -1,0 +1,180 @@
+[
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1743424430.611729",
+        "client_msg_id": "a52b1028-6acf-4f1c-9855-e6ce05c25e9d",
+        "text": "Hello, <https:\/\/www.linkedin.com\/in\/alexandrecourbin\/|Alexandre Courbin> voudrait nous rejoindre. CMO d'Eskimoz,  il est passé par Malt, Hellowork et Seekube en plus d'un excellent parcours académique.\nIl gère une équipe avec un scope de 5 pays, sur un mode agence digitale. Pas exactement tech, mais des gens qui font de la tech quoi. Vous en pensez quoi ? Je l'aime beaucoup, le trouve pertinent et je pense que ses apports côté Ops pourraient bénéficier à la commu !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743424430.611729",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1744038717.306379",
+        "reply_users": [
+            "U0183AS3MB6",
+            "U04SM1RGPJB"
+        ],
+        "replies": [
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1743452881.475529"
+            },
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1744038717.306379"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NMqvv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/alexandrecourbin\/",
+                                "text": "Alexandre Courbin"
+                            },
+                            {
+                                "type": "text",
+                                "text": " voudrait nous rejoindre. CMO d'Eskimoz,  il est passé par Malt, Hellowork et Seekube en plus d'un excellent parcours académique.\nIl gère une équipe avec un scope de 5 pays, sur un mode agence digitale. Pas exactement tech, mais des gens qui font de la tech quoi. Vous en pensez quoi ? Je l'aime beaucoup, le trouve pertinent et je pense que ses apports côté Ops pourraient bénéficier à la commu !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03QPMQA31V",
+                    "U01A4GMRRR9",
+                    "U042GV737MX",
+                    "U03P99RGMTN",
+                    "U017H09S857",
+                    "U025AMSNGF8",
+                    "U08C1HZNT8S"
+                ],
+                "count": 7
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03QPMQA31V",
+                    "U04TU0UA2R1",
+                    "U02N2EVMFCG",
+                    "U03P99RGMTN",
+                    "U084LQF8023",
+                    "U017H09S857",
+                    "U067GNGDATD",
+                    "U0859A8P14K",
+                    "U025AMSNGF8",
+                    "U06DYTRDLUD",
+                    "U02MZTE8GCF",
+                    "U08EN5GRYCC"
+                ],
+                "count": 12
+            },
+            {
+                "name": "x",
+                "users": [
+                    "U020QK16RMJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1743452881.475529",
+        "client_msg_id": "744216FE-A8DF-495B-93A5-1BE71C164D91",
+        "text": "C’est un concurrent à moi :face_with_peeking_eye: :face_holding_back_tears: ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743424430.611729",
+        "parent_user_id": "U04SM1RGPJB",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7+yRw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C’est"
+                            },
+                            {
+                                "type": "text",
+                                "text": " un concurrent à moi "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_with_peeking_eye",
+                                "unicode": "1fae3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_holding_back_tears",
+                                "unicode": "1f979"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U017H09S857"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

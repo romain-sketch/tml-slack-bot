@@ -1,0 +1,100 @@
+[
+    {
+        "user": "U0946E8A2US",
+        "type": "message",
+        "ts": "1767859019.385039",
+        "client_msg_id": "85FBB9B8-166B-4EA1-A46F-77F2C3B3CBD2",
+        "text": "Question tracking + reporting\n\nJe cherche à parler à des gens qui ont ce genre de setup:\n• Amplitude pour le reporting marketing \/ acquisition et potentiellement remontee des données vers la data warehouse\n• Server side tracking pour la remontée des conversions vers les plateformes d'ads\nSi c'est votre stack ou proche, ca m'intéresse d'en discuter !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "f73f6d38e4eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-07-23\/9238905089862_f73f6d38e4eb792c8c6a_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult",
+            "team": "T017AGS2KE0",
+            "name": "thibaut.davoult",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1767859019.385039",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1767892691.271999",
+        "reply_users": [
+            "U032T5N7UTY",
+            "U0946E8A2US"
+        ],
+        "replies": [
+            {
+                "user": "U032T5N7UTY",
+                "ts": "1767884091.258859"
+            },
+            {
+                "user": "U0946E8A2US",
+                "ts": "1767892691.271999"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z\/OzP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Question tracking + reporting\n\nJe cherche à parler à des gens qui ont ce genre de setup:"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Amplitude pour le reporting marketing \/ acquisition et potentiellement remontee des données vers la data warehouse"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Server side tracking pour la remontée des conversions vers les plateformes d'ads"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nSi c'est votre stack ou proche, ca m'intéresse d'en discuter !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

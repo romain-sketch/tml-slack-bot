@@ -1,0 +1,65 @@
+[
+    {
+        "user": "U08554C4R7C",
+        "type": "message",
+        "ts": "1738958452.831319",
+        "client_msg_id": "bec47042-9a8f-41a1-8291-fe6997214b62",
+        "text": "Hello, également intéressée par cet échange si c'est toujours possible ! <mailto:pfumeron@gmail.com|pfumeron@gmail.com> :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9c992809fd1f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8164113933223_9c992809fd1f2d731c79_72.jpg",
+            "first_name": "Pauline",
+            "real_name": "Pauline Fumeron (Lifen)",
+            "display_name": "Pauline (Lifen)",
+            "team": "T017AGS2KE0",
+            "name": "pfumeron",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738659623.127509",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mQK9F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, également intéressée par cet échange si c'est toujours possible ! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:pfumeron@gmail.com",
+                                "text": "pfumeron@gmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U016SBPG7K9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,180 @@
+[
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1745482887.915239",
+        "client_msg_id": "d518b889-a078-448e-9e1f-4cf7d09da20c",
+        "text": "Chez Alan, on a\n• des PMM Business qui travaillent avec les sales\/KAMs: pitch, decks, réponses aux objections, etc\n• des PMM Product qui travaillent dans les équipes produit: lancement des nouvelles features\/nv produits\nDis moi si tu veux qu'on rentre plus dans le détail on peut se faire un call",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744985477.257469",
+        "parent_user_id": "U069NSTHZ3Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WiNbA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Chez Alan, on a\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "des PMM Business qui travaillent avec les sales\/KAMs: pitch, decks, réponses aux objections, etc"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "des PMM Product qui travaillent dans les équipes produit: lancement des nouvelles features\/nv produits"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dis moi si tu veux qu'on rentre plus dans le détail on peut se faire un call"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U069NSTHZ3Q",
+        "type": "message",
+        "ts": "1745498431.132609",
+        "client_msg_id": "bc30c3ca-cc62-4a36-93f8-dcce33c21331",
+        "text": "merci Aurélie, intéressant ce split. On est très loin de ça, bon, on va dire qu'on a une grande marge de progrès chez nous :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "fbbca81fca0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-30\/7816371623809_fbbca81fca0c916c8c15_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Gannau (Oodrive)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "m.gannau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744985477.257469",
+        "parent_user_id": "U069NSTHZ3Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eaKpm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "merci Aurélie, intéressant ce split. On est très loin de ça, bon, on va dire qu'on a une grande marge de progrès chez nous "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U069NSTHZ3Q",
+        "type": "message",
+        "ts": "1745498925.955039",
+        "client_msg_id": "ef02de5f-85f0-4620-af6d-8beb35dfd8d7",
+        "text": "<@U06DYTRDLUD> je viens de voir que notre PMM Vanessa Tedaldi a liké ton post sur cette offre d'emploi justement, j'espère qu'elle n'a pas postulé! :crossed_fingers:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "fbbca81fca0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-30\/7816371623809_fbbca81fca0c916c8c15_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Gannau (Oodrive)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "m.gannau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744985477.257469",
+        "parent_user_id": "U069NSTHZ3Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TVtqy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06DYTRDLUD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je viens de voir que notre PMM Vanessa Tedaldi a liké ton post sur cette offre d'emploi justement, j'espère qu'elle n'a pas postulé! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "crossed_fingers",
+                                "unicode": "1f91e"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U06DYTRDLUD"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

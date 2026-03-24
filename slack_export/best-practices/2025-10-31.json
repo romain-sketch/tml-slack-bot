@@ -1,0 +1,86 @@
+[
+    {
+        "user": "U06MHCCLQG3",
+        "type": "message",
+        "ts": "1761921052.054739",
+        "client_msg_id": "87051e00-b0b5-42d3-82c0-8265a8b9ddf6",
+        "text": "<@U01A4GMRRR9> je voyais bien une utilisation de l'outil à la contentsquare si tu me suis",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c0d40ab69a35",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-02\/6731971842677_c0d40ab69a3508d4c595_72.png",
+            "first_name": "Arnaud",
+            "real_name": "Arnaud Delubac (Greenly)",
+            "display_name": "Arnaud Delubac",
+            "team": "T017AGS2KE0",
+            "name": "arnaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761575799.158909",
+        "parent_user_id": "U06MHCCLQG3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ftfGZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01A4GMRRR9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je voyais bien une utilisation de l'outil à la contentsquare si tu me suis"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06MHCCLQG3",
+        "type": "message",
+        "ts": "1761921116.579589",
+        "client_msg_id": "47990826-e1a9-4641-b3c2-7e828e4efb44",
+        "text": "avoir la finesse de contentsquare sur chaque slide, avec zone de clics, temps passé, etc. Les retours sur slides, etc",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c0d40ab69a35",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-02\/6731971842677_c0d40ab69a3508d4c595_72.png",
+            "first_name": "Arnaud",
+            "real_name": "Arnaud Delubac (Greenly)",
+            "display_name": "Arnaud Delubac",
+            "team": "T017AGS2KE0",
+            "name": "arnaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761575799.158909",
+        "parent_user_id": "U06MHCCLQG3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jaT5o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "avoir la finesse de contentsquare sur chaque slide, avec zone de clics, temps passé, etc. Les retours sur slides, etc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

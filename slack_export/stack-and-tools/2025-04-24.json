@@ -1,0 +1,143 @@
+[
+    {
+        "user": "U059T4KRCUC",
+        "type": "message",
+        "ts": "1745486090.531879",
+        "client_msg_id": "4cc0f279-05f2-41a9-af27-78ae8de7be1e",
+        "text": "Hola la team!\nJe suis en train d’évaluer des outils ASO, notamment AppFollow, <http:\/\/Data.ai|Data.ai> (ex-App Annie), AppTweak, etc. Les tarifs varient pas mal, donc je cherche vos retours sur le meilleur rapport ROI\/prix. Si vous avez utilisé d’autres outils ou avez des recommandations, n’hésitez pas à les partager ! Merci beaucoup :pray:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "57639ff481aa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-29\/5337202241186_57639ff481aa2740f127_72.png",
+            "first_name": "Isa",
+            "real_name": "Isa",
+            "display_name": "Isa",
+            "team": "T017AGS2KE0",
+            "name": "ilejeune",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sVIax",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hola la team!\nJe suis en train d’évaluer des outils ASO, notamment AppFollow, "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Data.ai",
+                                "text": "Data.ai"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (ex-App Annie), AppTweak, etc. Les tarifs varient pas mal, donc je cherche vos retours sur le meilleur rapport ROI\/prix. Si vous avez utilisé d’autres outils ou avez des recommandations, n’hésitez pas à les partager ! Merci beaucoup "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1745488421.265759",
+        "client_msg_id": "37fc7dfa-9b83-429c-8ca1-8b37462ecdc9",
+        "text": "Fait :). J'espère que ce sera utile ! Il cherche aussi des BA pour info",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744707191.199129",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TynCm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fait :). J'espère que ce sera utile ! Il cherche aussi des BA pour info"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017CURDPB5",
+        "type": "message",
+        "ts": "1745505840.188509",
+        "client_msg_id": "7c1c747a-328c-4819-9cf1-5bb561076b2c",
+        "text": "Hello, en fait c'était un peu décevant car on n'a pas eu vraiment d'explications sur le changement d'algo et de perf. On comprend juste que Linkedin valorise plus l'engagement que l'impression. Sinon on a eu des recos pour améliorer notre reach \/ impact Je peux vous les partager si vous voulez mais rien d'original au final.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "671ad569fbc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5982967598243_671ad569fbc40977de70_72.jpg",
+            "first_name": "David",
+            "real_name": "David Remaud",
+            "display_name": "David Remaud (iBanFirst)",
+            "team": "T017AGS2KE0",
+            "name": "david.remaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744031312.480729",
+        "parent_user_id": "U017CURDPB5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "37S7E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, en fait c'était un peu décevant car on n'a pas eu vraiment d'explications sur le changement d'algo et de perf. On comprend juste que Linkedin valorise plus l'engagement que l'impression. Sinon on a eu des recos pour améliorer notre reach \/ impact Je peux vous les partager si vous voulez mais rien d'original au final."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U067VEJFT5F"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

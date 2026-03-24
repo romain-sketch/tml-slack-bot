@@ -1,0 +1,175 @@
+[
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1749742210.031879",
+        "client_msg_id": "ec6e367b-5e5d-46c6-9581-403ee5c58602",
+        "text": "Hey, depuis ce matin je pense à ça <@U086LFGGVUG>, tu as envisagé de faire le test en live plutôt que d'envoyer un \"at home assignment\" ? Ca peut être stressant + pour les candidats mais le top ce serait de leur demander de partager leur écran pour voir toute la reflexion + usage de l'IA pour faire le test.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749130766.790749",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F\/UrA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey, depuis ce matin je pense à ça "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U086LFGGVUG"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", tu as envisagé de faire le test en live plutôt que d'envoyer un \"at home assignment\" ? Ca peut être stressant + pour les candidats mais le top ce serait de leur demander de partager leur écran pour voir toute la reflexion + usage de l'IA pour faire le test."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U086LFGGVUG",
+        "type": "message",
+        "ts": "1749742697.285199",
+        "client_msg_id": "991b3d64-b054-4ea4-b111-8d5c7febb818",
+        "text": "J'y ai pensé, mais pas fait. Pour du content, on a fait un case study pour lequel ils avaient 2h pour le rendre mais pas de partage d'écran etc.\nTrès certainement avant tout parce que j'ai une barrière psychologique à faire ça car moi perso ce serait le genre de chs qui me bloque :grimacing:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "8037084d031e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-01-03\/8241041927621_8037084d031e372f4d94_72.jpg",
+            "first_name": "Laura",
+            "real_name": "Laura Silva",
+            "display_name": "Laura Silva",
+            "team": "T017AGS2KE0",
+            "name": "laura.silva",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749130766.790749",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YB8G+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'y ai pensé, mais pas fait. Pour du content, on a fait un case study pour lequel ils avaient 2h pour le rendre mais pas de partage d'écran etc.\nTrès certainement avant tout parce que j'ai une barrière psychologique à faire ça car moi perso ce serait le genre de chs qui me bloque "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grimacing",
+                                "unicode": "1f62c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1749742843.379309",
+        "client_msg_id": "82e54dc4-18ea-46d1-b232-e6bfb2208450",
+        "text": "Pour avoir été du coté candidat sur un test comme ça, c'est très déstabilisant mais aussi bien plus proche du fonctionnement réel d'une boite + un moyen de rencontrer ses futurs collègues. Et au moins... ça change !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749130766.790749",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uwvQ6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour avoir été du coté candidat sur un test comme ça, c'est très déstabilisant mais aussi bien plus proche du fonctionnement réel d'une boite + un moyen de rencontrer ses futurs collègues. Et au moins... ça change !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U086LFGGVUG",
+        "type": "message",
+        "ts": "1749743158.373419",
+        "client_msg_id": "61f89e1f-2395-4f98-957f-06a448687040",
+        "text": "t'as carrément raison",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "8037084d031e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-01-03\/8241041927621_8037084d031e372f4d94_72.jpg",
+            "first_name": "Laura",
+            "real_name": "Laura Silva",
+            "display_name": "Laura Silva",
+            "team": "T017AGS2KE0",
+            "name": "laura.silva",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749130766.790749",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GXVS7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "t'as carrément raison"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

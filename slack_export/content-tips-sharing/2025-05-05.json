@@ -1,0 +1,183 @@
+[
+    {
+        "user": "U07D08K3U0K",
+        "type": "message",
+        "ts": "1746430487.943849",
+        "client_msg_id": "c3258732-ad21-49b8-a31b-5d9a83fdef55",
+        "text": "Merci <@U0859A8P14K> :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "ee04aae8ef81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-02\/7689117269088_ee04aae8ef81d255cd1f_72.png",
+            "first_name": "Tiphanie",
+            "real_name": "Tiphanie Meyer",
+            "display_name": "Tiphanie",
+            "team": "T017AGS2KE0",
+            "name": "tiphanie.meyer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745508041.891059",
+        "parent_user_id": "U07D08K3U0K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T1e1q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0859A8P14K"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1746454943.479239",
+        "edited": {
+            "user": "U016SBPG7K9",
+            "ts": "1746454987.000000"
+        },
+        "client_msg_id": "396ed9e8-00d8-4d99-917a-fbf7a2ef5666",
+        "text": "Hey, je vous partage ce projet lancé par l'ancien Head of Brand chez Livestorm: <https:\/\/welldone.club\/>\n\"Récompensez vos équipes avec des trophées à votre image. Éco-conçus et fabriqués en France.\"\n\nPour avoir vu ceux qu'il avait fait pour Livestorm à l'époque, ça rendait super bien :slightly_smiling_face: Un moyen sympa de montrer de la reconnaissance à l'équipe et de leur donner un bon souvenir !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1746454943.479239",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1746517140.528199",
+        "reply_users": [
+            "U025AMSNGF8",
+            "U03P99RGMTN"
+        ],
+        "replies": [
+            {
+                "user": "U025AMSNGF8",
+                "ts": "1746460375.434509"
+            },
+            {
+                "user": "U03P99RGMTN",
+                "ts": "1746517140.528199"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AdZEG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey, je vous partage ce projet lancé par l'ancien Head of Brand chez Livestorm: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/welldone.club\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\"Récompensez vos équipes avec des trophées à votre image. Éco-conçus et fabriqués en France.\"\n\nPour avoir vu ceux qu'il avait fait pour Livestorm à l'époque, ça rendait super bien "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Un moyen sympa de montrer de la reconnaissance à l'équipe et de leur donner un bon souvenir !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03P99RGMTN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U025AMSNGF8",
+        "type": "message",
+        "ts": "1746460375.434509",
+        "client_msg_id": "96c524cb-06cc-4314-af76-745c8f5193a6",
+        "text": "Très cool et sympa la DA !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b5f2d16c46f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-18\/6070004520657_b5f2d16c46f6b166931e_72.png",
+            "first_name": "Eliott",
+            "real_name": "Eliott Guerin",
+            "display_name": "Eliott Guerin (Skello)",
+            "team": "T017AGS2KE0",
+            "name": "eliott",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1746454943.479239",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AsyVs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Très cool et sympa la DA !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

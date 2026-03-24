@@ -1,0 +1,391 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U08C1HZNT8S",
+        "text": "<@U08C1HZNT8S> has joined the channel",
+        "type": "message",
+        "ts": "1738830933.305719"
+    },
+    {
+        "user": "U02CBFN48CF",
+        "type": "message",
+        "ts": "1738835168.823989",
+        "client_msg_id": "9f235f5f-e1fb-4cce-8ac3-5ed7b85348fe",
+        "text": "*Question benchmark pour les Saas ciblant les grands comptes* : 43% de notre revenu récurent en 2024 (acquisition) est déclaré par l'équipes sales comme provenant des efforts marketing online. Est ce que c'est un bon chiffre selon vous ? Vous avez les mêmes ordres de grandeur de votre côté ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2b617c4484e3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-17\/3122469005251_2b617c4484e3a8e2151c_72.jpg",
+            "first_name": "Morgane",
+            "real_name": "Morgane Mouly",
+            "display_name": "Morgane Mouly (United Heroes)",
+            "team": "T017AGS2KE0",
+            "name": "morgane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738835168.823989",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1738860555.647329",
+        "reply_users": [
+            "U01A4GMRRR9",
+            "U02CBFN48CF"
+        ],
+        "replies": [
+            {
+                "user": "U01A4GMRRR9",
+                "ts": "1738843666.484749"
+            },
+            {
+                "user": "U02CBFN48CF",
+                "ts": "1738860555.647329"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KQUEu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Question benchmark pour les Saas ciblant les grands comptes",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " : 43% de notre revenu récurent en 2024 (acquisition) est déclaré par l'équipes sales comme provenant des efforts marketing online. Est ce que c'est un bon chiffre selon vous ? Vous avez les mêmes ordres de grandeur de votre côté ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1738840151.299459",
+        "client_msg_id": "3875eae2-092f-43b9-b7a4-44793c699db4",
+        "text": "je le traduis par 43% du ARR est généré par inbound",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H\/T4E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je le traduis par 43% du ARR est généré par inbound"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02CBFN48CF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1738840159.566259",
+        "client_msg_id": "b8c8c109-b199-41ba-bf1a-769c46b07a42",
+        "text": "pour du B2B Saas Enterprise, c'est top",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738840159.566259",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1738938023.947949",
+        "reply_users": [
+            "U063A8VPPG9",
+            "U02CBFN48CF",
+            "U086LFGGVUG"
+        ],
+        "replies": [
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1738841186.218729"
+            },
+            {
+                "user": "U02CBFN48CF",
+                "ts": "1738860631.895529"
+            },
+            {
+                "user": "U086LFGGVUG",
+                "ts": "1738937487.956249"
+            },
+            {
+                "user": "U02CBFN48CF",
+                "ts": "1738937823.923769"
+            },
+            {
+                "user": "U02CBFN48CF",
+                "ts": "1738937859.864269"
+            },
+            {
+                "user": "U086LFGGVUG",
+                "ts": "1738938023.947949"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EEPwm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pour du B2B Saas Enterprise, c'est top"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "the_horns",
+                "users": [
+                    "U02CBFN48CF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1738841186.218729",
+        "client_msg_id": "6F5EC95F-E36B-432A-9613-4DC0E6D5CE19",
+        "text": "Oui c est hyper bien pour de l entreprise!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738840159.566259",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ICjE1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui c est hyper bien pour de l entreprise!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1738843666.484749",
+        "client_msg_id": "a244b652-3cfa-43b0-8392-8fa23dccf053",
+        "text": "<@U02CBFN48CF> C'est élevé à mon sens.\nPour comparaison :\nContentsquare qui est sur les 3 segements SMB - MM et Entreprise (avec donc un Entreprise type grosses grosses boite et deal a 6 chiffres):\n. En First touch \/ lead source : on va etre à 25% de marketing dont 80% Digital\n. En last touch \/ Influence : on va être à 50% de marketing dont 50% Digital\nCa c'est sur EMEA",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738835168.823989",
+        "parent_user_id": "U02CBFN48CF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2OnG5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02CBFN48CF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " C'est élevé à mon sens.\nPour comparaison :\nContentsquare qui est sur les 3 segements SMB - MM et Entreprise (avec donc un Entreprise type grosses grosses boite et deal a 6 chiffres):\n. En First touch \/ lead source : on va etre à 25% de marketing dont 80% Digital\n. En last touch \/ Influence : on va être à 50% de marketing dont 50% Digital\nCa c'est sur EMEA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02CBFN48CF",
+        "type": "message",
+        "ts": "1738860555.647329",
+        "client_msg_id": "e305b244-05b4-44c0-8985-823b64966bb2",
+        "text": "Merci <@U01A4GMRRR9> :pray: Les chiffres que tu me partages concernent l'enterprise ou la moyenne des 3 segments de comptes ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2b617c4484e3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-17\/3122469005251_2b617c4484e3a8e2151c_72.jpg",
+            "first_name": "Morgane",
+            "real_name": "Morgane Mouly",
+            "display_name": "Morgane Mouly (United Heroes)",
+            "team": "T017AGS2KE0",
+            "name": "morgane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738835168.823989",
+        "parent_user_id": "U02CBFN48CF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pfc7L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01A4GMRRR9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Les chiffres que tu me partages concernent l'enterprise ou la moyenne des 3 segments de comptes ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02CBFN48CF",
+        "type": "message",
+        "ts": "1738860631.895529",
+        "client_msg_id": "efdcb368-d25a-4409-9c8e-b60f737fb929",
+        "text": "Après on n'a peut être pas la même notion d'enterprise selon nos entreprises :wink:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2b617c4484e3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-17\/3122469005251_2b617c4484e3a8e2151c_72.jpg",
+            "first_name": "Morgane",
+            "real_name": "Morgane Mouly",
+            "display_name": "Morgane Mouly (United Heroes)",
+            "team": "T017AGS2KE0",
+            "name": "morgane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738840159.566259",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "069KI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Après on n'a peut être pas la même notion d'enterprise selon nos entreprises "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

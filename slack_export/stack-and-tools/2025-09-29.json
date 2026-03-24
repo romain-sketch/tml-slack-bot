@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1759130560.655999",
+        "client_msg_id": "d56d2823-f8f9-49af-a5ca-f8c460d75a96",
+        "text": "Ok très clair, merci beaucoup !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1758204461.864959",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "05V0r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok très clair, merci beaucoup !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U084KTR7YKX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

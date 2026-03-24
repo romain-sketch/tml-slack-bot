@@ -1,0 +1,56 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U088A4J3P2N",
+        "text": "<@U088A4J3P2N> has joined the channel",
+        "type": "message",
+        "ts": "1736762178.344469"
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1736779523.170179",
+        "client_msg_id": "eae8fd2c-848d-4b6e-8241-57dd5f0dbf28",
+        "text": "Hello Romain, j'ai qqn qui pourrait étre interessée et top pour cette mission, comment puis je la mettre en relation stp?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736517096.612219",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JSlX9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Romain, j'ai qqn qui pourrait étre interessée et top pour cette mission, comment puis je la mettre en relation stp?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U087RDX99HD",
+        "text": "<@U087RDX99HD> has joined the channel",
+        "type": "message",
+        "ts": "1736805024.150009"
+    }
+]

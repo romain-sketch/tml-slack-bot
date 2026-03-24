@@ -1,0 +1,121 @@
+[
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1743753281.987229",
+        "client_msg_id": "74499eff-696f-427d-aefa-6e55bc19cffc",
+        "text": "<@U02N2EVMFCG> C’est en cours ! Semaine très chargée avec les fin de quarter :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741795353.717069",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fi6Cq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02N2EVMFCG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " C’est en cours ! Semaine très chargée avec les fin de quarter "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1743784774.538089",
+        "client_msg_id": "4eeabb87-7093-4902-a50d-acaa83ba4170",
+        "text": "Voilà son contact: <mailto:guillaume.durand@alan.eu|guillaume.durand@alan.eu> :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743601624.173889",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vJs8X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Voilà son contact: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:guillaume.durand@alan.eu",
+                                "text": "guillaume.durand@alan.eu"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U084KTR7YKX"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U084KTR7YKX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

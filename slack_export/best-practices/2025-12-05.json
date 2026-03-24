@@ -1,0 +1,100 @@
+[
+    {
+        "user": "U08EN5T6F4L",
+        "type": "message",
+        "ts": "1764922779.739089",
+        "client_msg_id": "e372ba9d-29c0-4f38-b3ea-fb4ec0a9b30d",
+        "text": "merci à tous pour vos retours :heart_hands:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "731ca28d6808",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-18\/8615871359542_731ca28d68086f39666f_72.png",
+            "first_name": "Sidney",
+            "real_name": "Sidney Ouarzazi",
+            "display_name": "Sidney Ouarzazi (Sellsy)",
+            "team": "T017AGS2KE0",
+            "name": "sidney.o",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764836335.283539",
+        "parent_user_id": "U08EN5T6F4L",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "751kR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "merci à tous pour vos retours "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_hands",
+                                "unicode": "1faf6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1764932165.566059",
+        "edited": {
+            "user": "U084KTR7YKX",
+            "ts": "1764932188.000000"
+        },
+        "client_msg_id": "f35fc387-1227-4b7c-9bd0-27aeb21e3846",
+        "text": "merci à tous pour vos retours\nMerci Alexandre pur tl;dv je n'avais pas vu passer ! Yes plusieurs façons d'organiser ça en micro & macro, top",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764861822.567659",
+        "parent_user_id": "U084KTR7YKX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vExF0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "merci à tous pour vos retours\nMerci Alexandre pur tl;dv je n'avais pas vu passer ! Yes plusieurs façons d'organiser ça en micro & macro, top"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U0A0QG03DLN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,542 @@
+[
+    {
+        "user": "U06MLNEGNKB",
+        "type": "message",
+        "ts": "1744182994.729929",
+        "client_msg_id": "caf3382e-ec7d-4358-b69a-2431bca869bf",
+        "text": "Hello\nEst-ce que vous avez une préférence entre Snitcher et Clearbit ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9484de19a0b4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-25\/7476258473346_9484de19a0b48472edf8_72.jpg",
+            "first_name": "Priscilla",
+            "real_name": "Priscilla (Memo Bank)",
+            "display_name": "Priscilla (Memo Bank)",
+            "team": "T017AGS2KE0",
+            "name": "priscilla.cavrois",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744182994.729929",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1744357989.350759",
+        "reply_users": [
+            "U016SBPG7K9",
+            "U06MLNEGNKB",
+            "U03P99RGMTN"
+        ],
+        "replies": [
+            {
+                "user": "U016SBPG7K9",
+                "ts": "1744183328.130879"
+            },
+            {
+                "user": "U06MLNEGNKB",
+                "ts": "1744185097.642079"
+            },
+            {
+                "user": "U06MLNEGNKB",
+                "ts": "1744185154.821799"
+            },
+            {
+                "user": "U016SBPG7K9",
+                "ts": "1744188596.407859"
+            },
+            {
+                "user": "U06MLNEGNKB",
+                "ts": "1744190667.323739"
+            },
+            {
+                "user": "U016SBPG7K9",
+                "ts": "1744191864.686669"
+            },
+            {
+                "user": "U03P99RGMTN",
+                "ts": "1744357989.350759"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GFY54",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello\nEst-ce que vous avez une préférence entre Snitcher et Clearbit ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06DYTRDLUD",
+        "type": "message",
+        "ts": "1744183168.384779",
+        "client_msg_id": "e6e5b86b-a30d-4cc9-966a-609106e9a2a5",
+        "text": "<@U065DFPCQMP> intéressée de savoir sur quoi tu conclus, on essaie de professionnaliser notre programme ambassadeur.\nJ'ai ouvert un google sheet de reporting ce matin et j'ai failli m'étrangler en imaginant le temps que l'équipe content allait passer à le remplir :eyes:\nPas mon combat de ce matin, mais ça va finir par me démanger rapidement :laughing:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901f49789864",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-17\/6483135134229_901f4978986494a521e4_72.jpg",
+            "first_name": "Flora",
+            "real_name": "Flora Wolfer",
+            "display_name": "Flora Wolfer (Payplug)",
+            "team": "T017AGS2KE0",
+            "name": "fwolfer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744118226.850409",
+        "parent_user_id": "U065DFPCQMP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZYBEp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U065DFPCQMP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " intéressée de savoir sur quoi tu conclus, on essaie de professionnaliser notre programme ambassadeur.\nJ'ai ouvert un google sheet de reporting ce matin et j'ai failli m'étrangler en imaginant le temps que l'équipe content allait passer à le remplir "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes",
+                                "unicode": "1f440"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPas mon combat de ce matin, mais ça va finir par me démanger rapidement "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing",
+                                "unicode": "1f606"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06DYTRDLUD",
+        "type": "message",
+        "ts": "1744183205.567769",
+        "client_msg_id": "68d9a92d-ece6-4d75-ad5b-92cee09a39fd",
+        "text": "<@U069NSTHZ3Q> tu considères que ça doit avoir un impact d'abord sur tes stats directement dans LK ? Pas sur tes assets type site web ou taux de réponse aux sollicitations sales par ex ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901f49789864",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-17\/6483135134229_901f4978986494a521e4_72.jpg",
+            "first_name": "Flora",
+            "real_name": "Flora Wolfer",
+            "display_name": "Flora Wolfer (Payplug)",
+            "team": "T017AGS2KE0",
+            "name": "fwolfer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744118226.850409",
+        "parent_user_id": "U065DFPCQMP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cp4sx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U069NSTHZ3Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " tu considères que ça doit avoir un impact d'abord sur tes stats directement dans LK ? Pas sur tes assets type site web ou taux de réponse aux sollicitations sales par ex ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U065DFPCQMP",
+        "type": "message",
+        "ts": "1744183228.966529",
+        "client_msg_id": "8F03508D-F4A5-4BC8-9698-1727987D6C24",
+        "text": "<@U06DYTRDLUD> je te dis yes!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50040e0261e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-15\/6198553206674_50040e0261e7ba62e840_72.jpg",
+            "first_name": "Gaelle",
+            "real_name": "Gaelle Le Goff",
+            "display_name": "Gaelle Le Goff",
+            "team": "T017AGS2KE0",
+            "name": "gaelle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744118226.850409",
+        "parent_user_id": "U065DFPCQMP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "93HRz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06DYTRDLUD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je te dis yes!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U06DYTRDLUD",
+                    "U04SM1RGPJB"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1744183328.130879",
+        "client_msg_id": "f0535580-98a7-480e-9413-5d83dd563ebe",
+        "text": "C'est pour identifier les entreprises qui visitent ton site uniquement ? (pas enrichir données basées sur l'email des prospects ?)\nEst-ce qu'il y a HubSpot dans votre stack ?\n\n(pas testé Snitcher mais Clearbit Reveal = très cher, résultats pas oufs en Europe, racheté par HubSpot donc avenir incertain en tant que solution standalone =&gt; on churn cette année et on utilisera le IP=&gt;Company matching de HubSpot qui semble good enough pour nos besoin pour le moment)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744182994.729929",
+        "parent_user_id": "U06MLNEGNKB",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K6Hhj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est pour identifier les entreprises qui visitent ton site uniquement ? (pas enrichir données basées sur l'email des prospects ?)\nEst-ce qu'il y a HubSpot dans votre stack ?\n\n(pas testé Snitcher mais Clearbit Reveal = très cher, résultats pas oufs en Europe, racheté par HubSpot donc avenir incertain en tant que solution standalone => on churn cette année et on utilisera le IP=>Company matching de HubSpot qui semble good enough pour nos besoin pour le moment)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U06MLNEGNKB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1744183534.566409",
+        "client_msg_id": "665b081c-35b7-48ce-90f0-408ec9c75f76",
+        "text": "(en dehors du côté je vends ma soupe, je veux bien aussi le feedback, ce qui m'aidera à comprendre comment on vend bien ou pas, et si on doit améliorer notre positionnement (qui est en cours de rework là))",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744118226.850409",
+        "parent_user_id": "U065DFPCQMP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TvBZn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(en dehors du côté je vends ma soupe, je veux bien aussi le feedback, ce qui m'aidera à comprendre comment on vend bien ou pas, et si on doit améliorer notre positionnement (qui est en cours de rework là))"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06DYTRDLUD"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U065DFPCQMP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06MLNEGNKB",
+        "type": "message",
+        "ts": "1744185097.642079",
+        "client_msg_id": "2c430266-47c9-449f-a4b5-b49644947eef",
+        "text": "Oui pour identifier les entreprises. Nous avons Hubspot",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9484de19a0b4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-25\/7476258473346_9484de19a0b48472edf8_72.jpg",
+            "first_name": "Priscilla",
+            "real_name": "Priscilla (Memo Bank)",
+            "display_name": "Priscilla (Memo Bank)",
+            "team": "T017AGS2KE0",
+            "name": "priscilla.cavrois",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744182994.729929",
+        "parent_user_id": "U06MLNEGNKB",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tV7Jt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui pour identifier les entreprises. Nous avons Hubspot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06MLNEGNKB",
+        "type": "message",
+        "ts": "1744185154.821799",
+        "client_msg_id": "c700bfef-cf95-4bdc-a937-b40899e714fd",
+        "text": "Je crois qu'il y a une inté Snitcher-Hubspot",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9484de19a0b4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-25\/7476258473346_9484de19a0b48472edf8_72.jpg",
+            "first_name": "Priscilla",
+            "real_name": "Priscilla (Memo Bank)",
+            "display_name": "Priscilla (Memo Bank)",
+            "team": "T017AGS2KE0",
+            "name": "priscilla.cavrois",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744182994.729929",
+        "parent_user_id": "U06MLNEGNKB",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dbm2c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je crois qu'il y a une inté Snitcher-Hubspot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1744188596.407859",
+        "client_msg_id": "43D25D79-A5D7-486D-91DC-8661B9923775",
+        "text": "Pourquoi tu aurais besoin de Snitcher en plus ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744182994.729929",
+        "parent_user_id": "U06MLNEGNKB",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EeYpA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pourquoi tu aurais besoin de Snitcher en plus ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06MLNEGNKB",
+        "type": "message",
+        "ts": "1744190667.323739",
+        "client_msg_id": "44093191-36da-4b37-9b61-d66fcea6dd78",
+        "text": "pcq il parait que Snitcher est bien plus performant pour identifier les entreprises",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9484de19a0b4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-25\/7476258473346_9484de19a0b48472edf8_72.jpg",
+            "first_name": "Priscilla",
+            "real_name": "Priscilla (Memo Bank)",
+            "display_name": "Priscilla (Memo Bank)",
+            "team": "T017AGS2KE0",
+            "name": "priscilla.cavrois",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744182994.729929",
+        "parent_user_id": "U06MLNEGNKB",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NoDUb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pcq il parait que Snitcher est bien plus performant pour identifier les entreprises"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1744191864.686669",
+        "client_msg_id": "E0B28827-EA4D-45E1-BAF9-AAF5DE3961F5",
+        "text": "Ok intéressant ! Du coup je vais suivre ce thread avec intérêt haha",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744182994.729929",
+        "parent_user_id": "U06MLNEGNKB",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "raEOp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok intéressant ! Du coup je vais suivre ce thread avec intérêt haha"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

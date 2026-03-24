@@ -1,0 +1,387 @@
+[
+    {
+        "user": "U06TF9YAWEM",
+        "type": "message",
+        "ts": "1744615848.180359",
+        "client_msg_id": "4d9abf9f-4d24-4b80-b6ed-0f86907a3211",
+        "text": "Hello à tous,\nJe voulais vous proposer d'ajouter <https:\/\/www.linkedin.com\/in\/segolene-finet-789684\/|Ségolène Finet> :\n• elle a une très belle carrière en Marketing Tech (ex-CMO de Malt, ex-CMO de Talensoft &amp; Product Strat director chez Oracle)\n• j'ai compris qu'elle avait été nominée en 2021 mais pas acceptée pour des raison de concurrence à l'époque\n• elle est aujourd'hui Part-Time CMO à son compte donc a priori ce n'est plus un blocker\nJ'ai échangé récemment avec elle car elle conseille ma soeur entrepreneuse et serait intéressée pour rejoindre le groupe. Je la trouve top.\nQu'en pensez-vous ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "bd18243d01f9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-04-13\/8768953549904_bd18243d01f97fe02075_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Lhermitte",
+            "display_name": "Marie Lhermitte (Lucca)",
+            "team": "T017AGS2KE0",
+            "name": "marie.lhermitte78",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744615848.180359",
+        "reply_count": 6,
+        "reply_users_count": 6,
+        "latest_reply": "1744785059.716629",
+        "reply_users": [
+            "U08HF5YQM6G",
+            "U032T5N7UTY",
+            "U06DYTRDLUD",
+            "U04SM1RGPJB",
+            "U06TF9YAWEM",
+            "U067GNGDATD"
+        ],
+        "replies": [
+            {
+                "user": "U08HF5YQM6G",
+                "ts": "1744615977.447579"
+            },
+            {
+                "user": "U032T5N7UTY",
+                "ts": "1744616344.398319"
+            },
+            {
+                "user": "U06DYTRDLUD",
+                "ts": "1744617280.219789"
+            },
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1744617312.179019"
+            },
+            {
+                "user": "U06TF9YAWEM",
+                "ts": "1744701459.499989"
+            },
+            {
+                "user": "U067GNGDATD",
+                "ts": "1744785059.716629"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/segolene-finet-789684\/",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "thumb_url": "https:\/\/static.licdn.com\/scds\/common\/u\/images\/email\/artdeco\/logos\/96\/linkedin-bug-color.png",
+                "thumb_width": 96,
+                "thumb_height": 96,
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/segolene-finet-789684\/",
+                "fallback": "Segolene Finet - WILCO | LinkedIn",
+                "text": "Expérience : WILCO · Lieu : Saint-Germain-en-Laye · 500 relations ou plus sur LinkedIn. Consultez le profil de Segolene Finet sur LinkedIn, une communauté professionnelle d’un milliard de membres.",
+                "title": "Segolene Finet - WILCO | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/segolene-finet-789684\/",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7r3+b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello à tous,\nJe voulais vous proposer d'ajouter "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/segolene-finet-789684\/",
+                                "text": "Ségolène Finet"
+                            },
+                            {
+                                "type": "text",
+                                "text": " :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "elle a une très belle carrière en Marketing Tech (ex-CMO de Malt, ex-CMO de Talensoft & Product Strat director chez Oracle)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "j'ai compris qu'elle avait été nominée en 2021 mais pas acceptée pour des raison de concurrence à l'époque"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "elle est aujourd'hui Part-Time CMO à son compte donc a priori ce n'est plus un blocker"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai échangé récemment avec elle car elle conseille ma soeur entrepreneuse et serait intéressée pour rejoindre le groupe. Je la trouve top.\nQu'en pensez-vous ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U03P99RGMTN",
+                    "U042GV737MX",
+                    "U032T5N7UTY",
+                    "U069NSTHZ3Q",
+                    "U06DYTRDLUD",
+                    "U04SM1RGPJB",
+                    "U055KSYA2AH",
+                    "U0177A5V42F",
+                    "U084KTR7YKX",
+                    "U0183AS3MB6",
+                    "U08EN5GRYCC",
+                    "U025AMSNGF8",
+                    "U07MNBM4WLV",
+                    "U08554C4R7C",
+                    "U03QPMQA31V",
+                    "U054GRSQCTX",
+                    "U07D08K3U0K",
+                    "U067GNGDATD",
+                    "U07BLPPL3C1",
+                    "U059T4KRCUC"
+                ],
+                "count": 20
+            }
+        ]
+    },
+    {
+        "user": "U08HF5YQM6G",
+        "type": "message",
+        "ts": "1744615977.447579",
+        "client_msg_id": "EAAC6A7F-CA4B-464C-88D8-1FCD940803F7",
+        "text": "Elle est top!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "dc5afdcdc051",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-28\/10418814050592_dc5afdcdc0516abb4cac_72.jpg",
+            "first_name": "Roy",
+            "real_name": "Roy Brockmann",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "roy.brockmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744615848.180359",
+        "parent_user_id": "U06TF9YAWEM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TMLJy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Elle est top!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U06TF9YAWEM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U032T5N7UTY",
+        "type": "message",
+        "ts": "1744616344.398319",
+        "client_msg_id": "da89b46b-178a-42f3-922b-8dd1fcc23dc7",
+        "text": "Une des meilleures :slightly_smiling_face:\nUne personne géniale et ultra compétente",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "026d818af51e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-14\/3105470112116_026d818af51e6af78591_72.png",
+            "first_name": "Maxime",
+            "real_name": "Maxime Baumard",
+            "display_name": "Maxime Baumard (Pennylane)",
+            "team": "T017AGS2KE0",
+            "name": "maxime.baumard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744615848.180359",
+        "parent_user_id": "U06TF9YAWEM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kCMuH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Une des meilleures "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nUne personne géniale et ultra compétente"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U06TF9YAWEM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06DYTRDLUD",
+        "type": "message",
+        "ts": "1744617280.219789",
+        "client_msg_id": "1a352df2-2bfc-495b-b73e-4a6919af126b",
+        "text": "Je confirme, super profil",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901f49789864",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-17\/6483135134229_901f4978986494a521e4_72.jpg",
+            "first_name": "Flora",
+            "real_name": "Flora Wolfer",
+            "display_name": "Flora Wolfer (Payplug)",
+            "team": "T017AGS2KE0",
+            "name": "fwolfer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744615848.180359",
+        "parent_user_id": "U06TF9YAWEM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m7SAr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je confirme, super profil"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U06TF9YAWEM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1744617312.179019",
+        "client_msg_id": "790776c2-a918-4a7f-859a-82c09416ddba",
+        "text": "avec plaisir pour l'avoir :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744615848.180359",
+        "parent_user_id": "U06TF9YAWEM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H28if",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "avec plaisir pour l'avoir "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U06TF9YAWEM"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

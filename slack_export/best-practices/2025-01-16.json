@@ -1,0 +1,222 @@
+[
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1737026544.996979",
+        "client_msg_id": "b38a8211-1816-47c6-ad12-83d83840e1fc",
+        "text": "Hello ! J'ai une question assez globale sur le ciblage Personas (notamment dans une strat ABM, mais pas que) : quelle importance donner aux Buyers\/Blockers vs User Personas?\n\nPour contexte: Livestorm est utilisé par des Marketers. Pour raison de budget et simplicité, *on ne cible que ces Personas Marketers à l'heure actuelle*. Que ce soit sur l'ABM (top comptes ICP) mais aussi le reste (plus petits comptes etc).\nMais on sait que plus les opportunités sont importantes, plus il y aura de monde dessus (IT, Legal, Change Management, Digital, etc), avec un pouvoir de faire avancer ou bloquer le deal.\n\nAvec un budget et ressources internes relativement limités, est-ce que vous conseillez de déjà adresser ces Personas ? (avec tout ce que ça implique : nouveaux contenus, ads, campagnes outbound, events potentiels, etc).",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737026544.996979",
+        "reply_count": 7,
+        "reply_users_count": 4,
+        "latest_reply": "1737492281.272209",
+        "reply_users": [
+            "U0183AS3MB6",
+            "U016SBPG7K9",
+            "U04SM1RGPJB",
+            "U06M7V60C3V"
+        ],
+        "replies": [
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1737028731.091059"
+            },
+            {
+                "user": "U016SBPG7K9",
+                "ts": "1737033292.485869"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1737034701.579079"
+            },
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1737114457.526489"
+            },
+            {
+                "user": "U016SBPG7K9",
+                "ts": "1737129245.662229"
+            },
+            {
+                "user": "U06M7V60C3V",
+                "ts": "1737362653.840019"
+            },
+            {
+                "user": "U016SBPG7K9",
+                "ts": "1737492281.272209"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6r1DW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello ! J'ai une question assez globale sur le ciblage Personas (notamment dans une strat ABM, mais pas que) : quelle importance donner aux Buyers\/Blockers vs User Personas?\n\nPour contexte: Livestorm est utilisé par des Marketers. Pour raison de budget et simplicité, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "on ne cible que ces Personas Marketers à l'heure actuelle",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Que ce soit sur l'ABM (top comptes ICP) mais aussi le reste (plus petits comptes etc).\nMais on sait que plus les opportunités sont importantes, plus il y aura de monde dessus (IT, Legal, Change Management, Digital, etc), avec un pouvoir de faire avancer ou bloquer le deal.\n\nAvec un budget et ressources internes relativement limités, est-ce que vous conseillez de déjà adresser ces Personas ? (avec tout ce que ça implique : nouveaux contenus, ads, campagnes outbound, events potentiels, etc)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1737028731.091059",
+        "client_msg_id": "98e020c2-9987-4ef8-b30d-0171140a0e12",
+        "text": "100% ! Brochures, prez, peu importe, mais je recommande toujours d’avoir de la matière à donner au user persona pour vendre\/rassurer en interne.\n\nEt ça te positionne en “partner” du user persona → meilleur moyen de le transformer en champion.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737026544.996979",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UTosE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "100% ! Brochures, prez, peu importe, mais je recommande toujours d’avoir de la matière à donner au user persona pour vendre\/rassurer en interne.\n\nEt ça te positionne en “partner” du user persona → meilleur moyen de le transformer en champion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1737033292.485869",
+        "client_msg_id": "ddefddbb-4a01-43ab-b4e0-a7505188c35a",
+        "text": "Et si tu devais y mettre un budget Linkedin ads par ex, comment tu splitterais entre cible User Persona et cible Buyer\/Blocker Persona ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737026544.996979",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5nJyG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et si tu devais y mettre un budget Linkedin ads par ex, comment tu splitterais entre cible User Persona et cible Buyer\/Blocker Persona ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1737034701.579079",
+        "client_msg_id": "698b269c-5041-489e-8f21-779f0565a1e9",
+        "text": "Ça j’ai jamais fait par contre…",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737026544.996979",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ogMTq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ça j’ai jamais fait par contre…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U016SBPG7K9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

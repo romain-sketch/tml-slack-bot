@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U06UK9NGTB4",
+        "type": "message",
+        "ts": "1768207288.537509",
+        "client_msg_id": "ab17f522-e30f-412d-b3b4-584b57525553",
+        "text": "Merci Selma !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0de90fd94651",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-12-08\/10074067873414_0de90fd94651dd81ffed_72.png",
+            "first_name": "François",
+            "real_name": "François Castro-Lara",
+            "display_name": "François Castro-Lara (Mayday)",
+            "team": "T017AGS2KE0",
+            "name": "francois",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1767967917.087119",
+        "parent_user_id": "U06UK9NGTB4",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lmKgO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci Selma !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

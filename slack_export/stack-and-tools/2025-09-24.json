@@ -1,0 +1,360 @@
+[
+    {
+        "user": "U06C95MP43Z",
+        "type": "message",
+        "ts": "1758706777.772519",
+        "client_msg_id": "2fa9c197-9672-4cc1-8894-4889f1134565",
+        "text": "Hello à tous. Est-ce que l'un d'entre vous utilise le CMS Storyblock et si oui est-ce que vous avez des retours d'expérience à me partager sur les pros &amp; cons ? Merci bcp !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "4b949a5cd393",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-23\/7185594457152_4b949a5cd3931f022e89_72.jpg",
+            "first_name": "Anne-Carole",
+            "real_name": "Anne-Carole Cöen (Kolet, ex Swile)",
+            "display_name": "Anne-Carole (Kolet, ex Swile)",
+            "team": "T017AGS2KE0",
+            "name": "ac_coen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1758706777.772519",
+        "reply_count": 9,
+        "reply_users_count": 5,
+        "latest_reply": "1759301899.604049",
+        "reply_users": [
+            "U063A8VPPG9",
+            "U06C95MP43Z",
+            "U01MVJPEEH3",
+            "U07MNBM4WLV",
+            "U055KSYA2AH"
+        ],
+        "replies": [
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1758707369.769489"
+            },
+            {
+                "user": "U06C95MP43Z",
+                "ts": "1758708865.270599"
+            },
+            {
+                "user": "U01MVJPEEH3",
+                "ts": "1758717543.474679"
+            },
+            {
+                "user": "U01MVJPEEH3",
+                "ts": "1758717560.187469"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1758718237.754659"
+            },
+            {
+                "user": "U07MNBM4WLV",
+                "ts": "1758865015.812129"
+            },
+            {
+                "user": "U055KSYA2AH",
+                "ts": "1758872894.563779"
+            },
+            {
+                "user": "U07MNBM4WLV",
+                "ts": "1758889272.858109"
+            },
+            {
+                "user": "U06C95MP43Z",
+                "ts": "1759301899.604049"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WYubP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello à tous. Est-ce que l'un d'entre vous utilise le CMS Storyblock et si oui est-ce que vous avez des retours d'expérience à me partager sur les pros & cons ? Merci bcp !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1758707369.769489",
+        "client_msg_id": "137C46D4-23A2-419A-AA85-1D01148CF258",
+        "text": "Nous on l utilise pour UnlockM et on l avait chez Aircall! \nTrès facile d utilisation, instinctif. \n<@U063Q1LA69W> pourra t en dire plus que moi :joy: ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1758706777.772519",
+        "parent_user_id": "U06C95MP43Z",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uBbkf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nous on l utilise pour UnlockM et on l avait chez Aircall! \nTrès facile d utilisation, instinctif. \n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U063Q1LA69W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pourra t en dire plus que moi "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06C95MP43Z",
+        "type": "message",
+        "ts": "1758708865.270599",
+        "client_msg_id": "cead369f-c435-4124-8b4b-a9d9ec806b24",
+        "text": "ahah cool, merci, <@U063Q1LA69W> je te fais un MP !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "4b949a5cd393",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-23\/7185594457152_4b949a5cd3931f022e89_72.jpg",
+            "first_name": "Anne-Carole",
+            "real_name": "Anne-Carole Cöen (Kolet, ex Swile)",
+            "display_name": "Anne-Carole (Kolet, ex Swile)",
+            "team": "T017AGS2KE0",
+            "name": "ac_coen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1758706777.772519",
+        "parent_user_id": "U06C95MP43Z",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZtHNd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ahah cool, merci, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U063Q1LA69W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je te fais un MP !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01MVJPEEH3",
+        "type": "message",
+        "ts": "1758717543.474679",
+        "client_msg_id": "B01E687A-176A-451F-933A-CA66A5352FED",
+        "text": "Idem Ooeo nous a passé sur Storyblock, je ne l'utilise pas moi même mais les retours de mon équipe sont très bons !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4a6a5004b64",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-06\/9627187901735_b4a6a5004b643abc6bec_72.png",
+            "first_name": "Camille",
+            "real_name": "Camille Moreau",
+            "display_name": "Camille Moreau (Mantu)",
+            "team": "T017AGS2KE0",
+            "name": "camille.moreau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1758706777.772519",
+        "parent_user_id": "U06C95MP43Z",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SbQeB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Idem Ooeo nous a passé sur Storyblock, je ne l'utilise pas moi même mais les retours de mon équipe sont très bons !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01MVJPEEH3",
+        "type": "message",
+        "ts": "1758717560.187469",
+        "client_msg_id": "223D9C6D-C22F-4121-8111-3B6007A01724",
+        "text": "D'ailleurs encore merci <@U063A8VPPG9> pour la reco Ooeo :blush: :blush: ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4a6a5004b64",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-06\/9627187901735_b4a6a5004b643abc6bec_72.png",
+            "first_name": "Camille",
+            "real_name": "Camille Moreau",
+            "display_name": "Camille Moreau (Mantu)",
+            "team": "T017AGS2KE0",
+            "name": "camille.moreau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1758706777.772519",
+        "parent_user_id": "U06C95MP43Z",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SiXlR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "D'ailleurs encore merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U063A8VPPG9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour la reco Ooeo "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1758718237.754659",
+        "client_msg_id": "E80DDF03-4BD6-4063-BE56-4140388C5D8C",
+        "text": "Ahah avec plaisir, c est mes chouchous :heart_eyes: ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1758706777.772519",
+        "parent_user_id": "U06C95MP43Z",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "trkHt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ahah avec plaisir, c est mes chouchous "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_eyes",
+                                "unicode": "1f60d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01MVJPEEH3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

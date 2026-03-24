@@ -1,0 +1,210 @@
+[
+    {
+        "user": "U020QK16RMJ",
+        "type": "message",
+        "ts": "1764930226.467669",
+        "client_msg_id": "d5055278-a8f8-4d7f-ac8a-1d118d9824ed",
+        "text": "Il y a des users du compte pro Pennylane ou Indy ici?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "56d8a678e801",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-18\/7292097443269_56d8a678e801350db84a_72.png",
+            "first_name": "Joël",
+            "real_name": "Joël Gaudeul",
+            "display_name": "Joël (Swan)",
+            "team": "T017AGS2KE0",
+            "name": "joel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764930226.467669",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1765312249.186249",
+        "reply_users": [
+            "U020QK16RMJ",
+            "U0183AS3MB6"
+        ],
+        "replies": [
+            {
+                "user": "U020QK16RMJ",
+                "ts": "1764930559.678409"
+            },
+            {
+                "user": "U020QK16RMJ",
+                "ts": "1764930589.545039"
+            },
+            {
+                "user": "U020QK16RMJ",
+                "ts": "1765190590.508899"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1765196779.647429"
+            },
+            {
+                "user": "U020QK16RMJ",
+                "ts": "1765312249.186249"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3BOZQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Il y a des users du compte pro Pennylane ou Indy ici?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "x",
+                "users": [
+                    "U02N2EVMFCG",
+                    "U069NSTHZ3Q",
+                    "U08EN5GRYCC"
+                ],
+                "count": 3
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U0183AS3MB6",
+                    "U06LENY5V6Z"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U020QK16RMJ",
+        "type": "message",
+        "ts": "1764930559.678409",
+        "client_msg_id": "38355581-cd5f-47ee-867f-1256df84e152",
+        "text": "Si vous êtes concernés, vous pouvez me rendre un IMMENSE service en laissant un joli avis sur Trustpilot:\n<https:\/\/www.trustpilot.com\/review\/swan.io>\nEt en bonus, je vous dédicace votre livre :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "56d8a678e801",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-18\/7292097443269_56d8a678e801350db84a_72.png",
+            "first_name": "Joël",
+            "real_name": "Joël Gaudeul",
+            "display_name": "Joël (Swan)",
+            "team": "T017AGS2KE0",
+            "name": "joel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764930226.467669",
+        "parent_user_id": "U020QK16RMJ",
+        "attachments": [
+            {
+                "image_url": "https:\/\/share.trustpilot.com\/images\/company-rating?locale=en-US&businessUnitId=639771547713e1691ca03e90&preset=consumersite",
+                "image_width": 1080,
+                "image_height": 1350,
+                "image_bytes": 62813,
+                "from_url": "https:\/\/www.trustpilot.com\/review\/swan.io",
+                "service_icon": "https:\/\/cdn.trustpilot.net\/brand-assets\/4.3.0\/favicons\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.trustpilot.com\/review\/swan.io",
+                "fallback": "Trustpilot: Swan is rated \"Average\" with 3.5 \/ 5 on Trustpilot",
+                "text": "Do you agree with Swan's TrustScore? Voice your opinion today and hear what 123 customers have already said.",
+                "title": "Swan is rated \"Average\" with 3.5 \/ 5 on Trustpilot",
+                "title_link": "https:\/\/www.trustpilot.com\/review\/swan.io",
+                "service_name": "Trustpilot"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yRzrg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si vous êtes concernés, vous pouvez me rendre un IMMENSE service en laissant un joli avis sur Trustpilot:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.trustpilot.com\/review\/swan.io"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nEt en bonus, je vous dédicace votre livre "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U020QK16RMJ",
+        "type": "message",
+        "ts": "1764930589.545039",
+        "client_msg_id": "49918459-1e7d-469c-994d-19a00bddb9d6",
+        "text": "(bon, je ne suis pas sûr de mon incentive)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "56d8a678e801",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-18\/7292097443269_56d8a678e801350db84a_72.png",
+            "first_name": "Joël",
+            "real_name": "Joël Gaudeul",
+            "display_name": "Joël (Swan)",
+            "team": "T017AGS2KE0",
+            "name": "joel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764930226.467669",
+        "parent_user_id": "U020QK16RMJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BcYYe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(bon, je ne suis pas sûr de mon incentive)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "laughing",
+                "users": [
+                    "U06DYTRDLUD"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "user": "U08SA22HS0J",
+        "type": "message",
+        "ts": "1753003066.854639",
+        "client_msg_id": "3ebfd95f-e9ce-41c6-ad14-409c6c55262a",
+        "text": "<@U0183AS3MB6> Oui, il m'a dit qu'il était aussi chez Bulldozer. Trop content pour lui.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "266d9356f19e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-07\/10243863201635_266d9356f19e63bc9267_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu BONENFANT (SecLab)",
+            "display_name": "Matthieu BONENFANT (SecLab)",
+            "team": "T017AGS2KE0",
+            "name": "matthieu.bonenfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1752245919.663209",
+        "parent_user_id": "U04L35Y9D08",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NNx6q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0183AS3MB6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Oui, il m'a dit qu'il était aussi chez Bulldozer. Trop content pour lui."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

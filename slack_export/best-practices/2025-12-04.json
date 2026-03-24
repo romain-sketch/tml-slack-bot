@@ -1,0 +1,1282 @@
+[
+    {
+        "user": "U08EN5T6F4L",
+        "type": "message",
+        "ts": "1764836335.283539",
+        "client_msg_id": "16890cd7-8da7-4b0b-814f-6eaf67b089ca",
+        "text": "Hello tout le monde,\n\nOn cherche une agence ou un freelance expert en Content Saas B2B pour nous aider à structurer notre roadmap de contenu et produire derrière (articles, script vidéo, guides, etc.) afin de booster notre acquisition.\n\nOn a déjà rencontré <https:\/\/www.spicy-lemon.co\/|Spicy Lemon>, qui nous paraît intéressant, mais on aimerait bien avoir d’autres alternatives.\n\nSi vous avez des recos, je prends ! :pray:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "731ca28d6808",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-18\/8615871359542_731ca28d68086f39666f_72.png",
+            "first_name": "Sidney",
+            "real_name": "Sidney Ouarzazi",
+            "display_name": "Sidney Ouarzazi (Sellsy)",
+            "team": "T017AGS2KE0",
+            "name": "sidney.o",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764836335.283539",
+        "reply_count": 6,
+        "reply_users_count": 6,
+        "latest_reply": "1764922779.739089",
+        "reply_users": [
+            "U02N2EVMFCG",
+            "U092U6UDLMN",
+            "U08SA22HS0J",
+            "U078PFP7A4B",
+            "U0A0QG03DLN",
+            "U08EN5T6F4L"
+        ],
+        "replies": [
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1764837654.978949"
+            },
+            {
+                "user": "U092U6UDLMN",
+                "ts": "1764838225.191859"
+            },
+            {
+                "user": "U08SA22HS0J",
+                "ts": "1764838257.251759"
+            },
+            {
+                "user": "U078PFP7A4B",
+                "ts": "1764838563.216959"
+            },
+            {
+                "user": "U0A0QG03DLN",
+                "ts": "1764839155.202619"
+            },
+            {
+                "user": "U08EN5T6F4L",
+                "ts": "1764922779.739089"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "image_url": "https:\/\/framerusercontent.com\/assets\/lILFNksgXNSWTSEvWwVMbB014Y.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 113528,
+                "from_url": "https:\/\/www.spicy-lemon.co\/",
+                "service_icon": "https:\/\/framerusercontent.com\/images\/jNXpP1WNZEXQwG5cxXuSwyQRumI.png",
+                "id": 1,
+                "original_url": "https:\/\/www.spicy-lemon.co\/",
+                "fallback": "Spicy Lemon",
+                "text": "L’agence en content B2B qui scale votre production de contenu, sans compromis sur la qualité.",
+                "title": "Spicy Lemon",
+                "title_link": "https:\/\/www.spicy-lemon.co\/",
+                "service_name": "spicy-lemon.co"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yDcW8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello tout le monde,\n\nOn cherche une agence ou un freelance expert en Content Saas B2B pour nous aider à structurer notre roadmap de contenu et produire derrière (articles, script vidéo, guides, etc.) afin de booster notre acquisition.\n\nOn a déjà rencontré "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.spicy-lemon.co\/",
+                                "text": "Spicy Lemon"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", qui nous paraît intéressant, mais on aimerait bien avoir d’autres alternatives.\n\nSi vous avez des recos, je prends ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1764837654.978949",
+        "client_msg_id": "23d32fb0-0464-40ae-8e5f-0b67f3193ace",
+        "text": "<@U078PFP7A4B> to <https:\/\/techmarketingleaders.slack.com\/archives\/C0174HM3XGB\/p1752154125315449?thread_ts=1750944499.224109&amp;cid=C0174HM3XGB|recommandes> encore Romain ? Ou il est 100% avec toi ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764836335.283539",
+        "parent_user_id": "U08EN5T6F4L",
+        "attachments": [
+            {
+                "from_url": "https:\/\/techmarketingleaders.slack.com\/archives\/C0174HM3XGB\/p1752154125315449?thread_ts=1750944499.224109&amp;cid=C0174HM3XGB",
+                "ts": "1752154125.315449",
+                "author_id": "U078PFP7A4B",
+                "channel_id": "C0174HM3XGB",
+                "channel_team": "T017AGS2KE0",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T017AGS2KE0",
+                        "channel": "C0174HM3XGB",
+                        "ts": "1752154125.315449",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "ObtVX",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Merci "
+                                                },
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U02N2EVMFCG"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " (et "
+                                                },
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U056DAY3YD8"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "), on va partir avec Romain, il est top "
+                                                },
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "heart_eyes",
+                                                    "unicode": "1f60d"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/techmarketingleaders.slack.com\/archives\/C0174HM3XGB\/p1752154125315449?thread_ts=1750944499.224109&amp;cid=C0174HM3XGB",
+                "fallback": "[July 10th, 2025 6:28 AM] megane: Merci <@U02N2EVMFCG> (et <@U056DAY3YD8>), on va partir avec Romain, il est top :heart_eyes:",
+                "text": "Merci <@U02N2EVMFCG> (et <@U056DAY3YD8>), on va partir avec Romain, il est top :heart_eyes:",
+                "author_name": "Mégane Gateau (Figures)",
+                "author_link": "https:\/\/techmarketingleaders.slack.com\/team\/U078PFP7A4B",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_48.jpg",
+                "author_subname": "Mégane Gateau (Figures)",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Thread in Slack Conversation"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O+EAS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U078PFP7A4B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/techmarketingleaders.slack.com\/archives\/C0174HM3XGB\/p1752154125315449?thread_ts=1750944499.224109&cid=C0174HM3XGB",
+                                "text": "recommandes"
+                            },
+                            {
+                                "type": "text",
+                                "text": " encore Romain ? Ou il est 100% avec toi ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U092U6UDLMN",
+        "type": "message",
+        "ts": "1764838225.191859",
+        "client_msg_id": "dd40a198-1957-43bd-a36f-5d53098f3608",
+        "text": "Les agences prennent un bras. Les freelances sont top pour ce genre de projets",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e910bc968404",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-19\/9072876473829_e910bc968404c2c0b5d1_72.png",
+            "first_name": "Bastien",
+            "real_name": "Bastien Meaux (DialOnce)",
+            "display_name": "Bastien Meaux",
+            "team": "T017AGS2KE0",
+            "name": "bmeaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764836335.283539",
+        "parent_user_id": "U08EN5T6F4L",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f32WI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Les agences prennent un bras. Les freelances sont top pour ce genre de projets"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08SA22HS0J",
+        "type": "message",
+        "ts": "1764838257.251759",
+        "client_msg_id": "10b6968e-b469-4c26-b76c-a67a7fce14ec",
+        "text": "J’ai pas mal bossé avec Ultramedia dans le passé. J’ai toujours été satisfait. Ils ont une vraie approche journalistique dans la création des contenus d’expertise. <https:\/\/www.agence-ultramedia.com\/|https:\/\/www.agence-ultramedia.com\/>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "266d9356f19e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-07\/10243863201635_266d9356f19e63bc9267_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu BONENFANT (SecLab)",
+            "display_name": "Matthieu BONENFANT (SecLab)",
+            "team": "T017AGS2KE0",
+            "name": "matthieu.bonenfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764836335.283539",
+        "parent_user_id": "U08EN5T6F4L",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.agence-ultramedia.com\/",
+                "service_icon": "https:\/\/www.agence-ultramedia.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.agence-ultramedia.com\/",
+                "fallback": "L'agence experte en stratégie éditoriale | Ultramedia",
+                "text": "Ultramedia, l'agence experte en stratégie éditoriale et création de contenu, conçoit, produit et diffuse vos contenus sur tous vos médias.",
+                "title": "L'agence experte en stratégie éditoriale | Ultramedia",
+                "title_link": "https:\/\/www.agence-ultramedia.com\/",
+                "service_name": "Ultramedia"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ekSxm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J’ai pas mal bossé avec Ultramedia dans le passé. J’ai toujours été satisfait. Ils ont une vraie approche journalistique dans la création des contenus d’expertise. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.agence-ultramedia.com\/",
+                                "text": "https:\/\/www.agence-ultramedia.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1764838563.216959",
+        "client_msg_id": "8413081E-9F1E-483D-A55A-C2E3D8A924EA",
+        "text": "Romain bosse 2 jours par semaine chez nous et je vais certainement le passer presque full time s’il a de la bande passante l’an prochain. \n\nC’est une pépite :sparkles:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764836335.283539",
+        "parent_user_id": "U08EN5T6F4L",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XjhNI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Romain bosse 2 jours par semaine chez nous et je vais certainement le passer presque full time "
+                            },
+                            {
+                                "type": "text",
+                                "text": "s’il"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a de la bande passante l’an prochain. \n\nC’est une pépite "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0A0QG03DLN",
+        "type": "message",
+        "ts": "1764839155.202619",
+        "client_msg_id": "06306636-e96f-489f-8fe5-84fa0e570798",
+        "text": "hello Sidney, vu ton besoin je partirais aussi plutôt sur freelance que sur une agence, pour des questions de coûts. Tu peux prendre contact avec <https:\/\/www.linkedin.com\/in\/diane-fastrez\/|Diane Fastrez>, elle est très forte pour ce qui concerne les stratégies éditoriales et leur déploiement",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b968d96b48d4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-12-01\/10056348127568_b968d96b48d4a3ee8664_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Courbin",
+            "display_name": "Alexandre Courbin",
+            "team": "T017AGS2KE0",
+            "name": "alexandre.courbin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764836335.283539",
+        "parent_user_id": "U08EN5T6F4L",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r3Kel",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello Sidney, vu ton besoin je partirais aussi plutôt sur freelance que sur une agence, pour des questions de coûts. Tu peux prendre contact avec "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/diane-fastrez\/",
+                                "text": "Diane Fastrez"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", elle est très forte pour ce qui concerne les stratégies éditoriales et leur déploiement"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03CY07UZJM",
+        "type": "message",
+        "ts": "1764844309.404179",
+        "client_msg_id": "f03f73e4-92c1-4fe1-ba9f-c7bcc8fa9432",
+        "text": "Salut les TML ! Une Growth B2B de mon équipe (4 ans d'xp) aimerait échanger avec ses pairs sur les sujets ci-dessous.\n--&gt; Connaissez-vous des gens solides auprès de qui elle pourrait apprendre ? Et s'ils ont bossé sur des cibles grands comptes, c'est encore mieux.\n\nSon scope actuel\n• Gestion CRM\n• Automatisation Sales Ops\n• Outbound\n• Linkedin Ads\n• Intent Data",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "cf1b09b1a910",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-02\/6894190939717_cf1b09b1a910eb11be75_72.jpg",
+            "first_name": "Patrice",
+            "real_name": "Patrice Barbesier",
+            "display_name": "Patrice Barbesier",
+            "team": "T017AGS2KE0",
+            "name": "patrice.barbesier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764844309.404179",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1765186640.947579",
+        "reply_users": [
+            "U01T6U402V8",
+            "U03CY07UZJM",
+            "U09BVQYR1GA"
+        ],
+        "replies": [
+            {
+                "user": "U01T6U402V8",
+                "ts": "1764844674.059099"
+            },
+            {
+                "user": "U03CY07UZJM",
+                "ts": "1764844854.795839"
+            },
+            {
+                "user": "U09BVQYR1GA",
+                "ts": "1765092288.767539"
+            },
+            {
+                "user": "U03CY07UZJM",
+                "ts": "1765184046.440669"
+            },
+            {
+                "user": "U09BVQYR1GA",
+                "ts": "1765186640.947579"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EIngs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salut les TML ! Une Growth B2B de mon équipe (4 ans d'xp) aimerait échanger avec ses pairs sur les sujets ci-dessous.\n--> Connaissez-vous des gens solides auprès de qui elle pourrait apprendre ? Et s'ils ont bossé sur des cibles grands comptes, c'est encore mieux.\n\nSon scope actuel\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Gestion CRM"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Automatisation Sales Ops"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Outbound"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Linkedin Ads"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Intent Data"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01T6U402V8",
+        "type": "message",
+        "ts": "1764844674.059099",
+        "client_msg_id": "D250A233-E83F-4928-86F3-926C4259B21E",
+        "text": "<@U03CY07UZJM> je connais un ancien de chez nous qui est top! Il ne coche pas toutes les cases que tu as listé mais juste les 2 premiers points. Dis moi ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "1a396483c2d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-13\/1958483219154_1a396483c2d9cd7cccd3_72.jpg",
+            "first_name": "Simone",
+            "real_name": "Simone Sfeir (FrenchFounders)",
+            "display_name": "Simone Sfeir",
+            "team": "T017AGS2KE0",
+            "name": "simone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764844309.404179",
+        "parent_user_id": "U03CY07UZJM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YrvC7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CY07UZJM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je connais un ancien de chez nous qui est top! Il ne coche pas toutes les cases que tu as listé mais juste les 2 premiers points. Dis moi "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03CY07UZJM",
+        "type": "message",
+        "ts": "1764844854.795839",
+        "client_msg_id": "b303e0fa-b174-467e-b037-f79058f9e5f5",
+        "text": "oui avec plaisir !\n\nEt je m'attends effectivement qu'elle doive parler avec différents profils pour couvrir le scope énoncé plus haut.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "cf1b09b1a910",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-02\/6894190939717_cf1b09b1a910eb11be75_72.jpg",
+            "first_name": "Patrice",
+            "real_name": "Patrice Barbesier",
+            "display_name": "Patrice Barbesier",
+            "team": "T017AGS2KE0",
+            "name": "patrice.barbesier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764844309.404179",
+        "parent_user_id": "U03CY07UZJM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xGm0h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oui avec plaisir !\n\nEt je m'attends effectivement qu'elle doive parler avec différents profils pour couvrir le scope énoncé plus haut."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0A11HFGA31",
+        "text": "<@U0A11HFGA31> has joined the channel",
+        "type": "message",
+        "ts": "1764856335.665409"
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1764861822.567659",
+        "client_msg_id": "8edc5d6f-5ab7-4843-9752-d428dfc65037",
+        "text": "Hola :wave:\nj'ai l'impression que l'influence B2B c'est un peu le truc 2026 à ne pas louper #fomo. On va clairement accélérer sur Claap et avec l'aide de lemlist\npour le moment on gérait env 15 influenceurs en manuel.\n:point_right: preneuse de tips ou bonnes pratiques (erreurs à éviter) du coup. Mes premières questions brutes :\nVous gérez avec une agence ou qqun en interne ? si interne : quel profil et cmbien de % du temps ?\nComment vous mesurez : impressions des posts et\/ou déclaratifs signup funnel ?\nAutres bonnes pratiques ?\n\nmerci merci",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764861822.567659",
+        "reply_count": 14,
+        "reply_users_count": 11,
+        "latest_reply": "1770990328.928969",
+        "reply_users": [
+            "U084KTR7YKX",
+            "U032T5N7UTY",
+            "U078PFP7A4B",
+            "U0946E8A2US",
+            "U06DYTRDLUD",
+            "U0A0QG03DLN",
+            "U09BVQYR1GA",
+            "U06TF9YAWEM",
+            "U06CZESF7QF",
+            "U02N2EVMFCG",
+            "U08QZ6EKE4Q"
+        ],
+        "replies": [
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1764861898.715909"
+            },
+            {
+                "user": "U032T5N7UTY",
+                "ts": "1764862979.485039"
+            },
+            {
+                "user": "U078PFP7A4B",
+                "ts": "1764864184.478369"
+            },
+            {
+                "user": "U0946E8A2US",
+                "ts": "1764865803.290239"
+            },
+            {
+                "user": "U06DYTRDLUD",
+                "ts": "1764866800.569889"
+            },
+            {
+                "user": "U0A0QG03DLN",
+                "ts": "1764868371.284949"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1764932165.566059"
+            },
+            {
+                "user": "U09BVQYR1GA",
+                "ts": "1765092607.358189"
+            },
+            {
+                "user": "U06TF9YAWEM",
+                "ts": "1765719729.183529"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1765876704.775919"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1766515674.290139"
+            },
+            {
+                "user": "U09BVQYR1GA",
+                "ts": "1766565185.580469"
+            },
+            {
+                "user": "U08QZ6EKE4Q",
+                "ts": "1770976879.579359"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1770990328.928969"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "igawi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hola "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nj'ai l'impression que l'influence B2B c'est un peu le truc 2026 à ne pas louper #fomo. On va clairement accélérer sur Claap et avec l'aide de lemlist\npour le moment on gérait env 15 influenceurs en manuel.\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_right",
+                                "unicode": "1f449"
+                            },
+                            {
+                                "type": "text",
+                                "text": " preneuse de tips ou bonnes pratiques (erreurs à éviter) du coup. Mes premières questions brutes :\nVous gérez avec une agence ou qqun en interne ? si interne : quel profil et cmbien de % du temps ?\nComment vous mesurez : impressions des posts et\/ou déclaratifs signup funnel ?\nAutres bonnes pratiques ?\n\nmerci merci"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1764861898.715909",
+        "client_msg_id": "18250d5d-e87d-4c48-b11d-8db0d0771fc3",
+        "text": "<@U032T5N7UTY> tu en as déjà un peu dit pour Pennylane sur un autre thread mais si tu veux ajouter. <@U0951RDNKU6> pour Payfit hehe",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764861822.567659",
+        "parent_user_id": "U084KTR7YKX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QoPCc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U032T5N7UTY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " tu en as déjà un peu dit pour Pennylane sur un autre thread mais si tu veux ajouter. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0951RDNKU6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour Payfit hehe"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U032T5N7UTY",
+        "type": "message",
+        "ts": "1764862979.485039",
+        "edited": {
+            "user": "U032T5N7UTY",
+            "ts": "1764863306.000000"
+        },
+        "client_msg_id": "96249353-cfbf-439f-86fb-dd8c94fb0afa",
+        "text": "Deux réponses à chaud :\n• Il y a pour moi trois façons de gérer l'influence :\n    ◦ Via une agence : C'est ce qu'on fait chez Pennylane pour 70 % des influenceurs, surtout les micro-influenceurs. (Nous prenons uniquement des utilisateurs Pennylane.)\n    ◦ En direct : C'est ce qu'on fait aussi sur certains influenceurs (30 %). On s'autorise à aller chercher de gros influenceurs sans forcément d'usage produit (ex : Blaise Matuidi...).\n    ◦ Via des plateformes qui automatisent la mise en relation entre marque et créateur : C'est ce qu'on ne fait pas après de mauvaises expériences (nous nous sommes retrouvés avec des créateurs qui avaient des étiquettes politiques, sans qu'on ait pu vérifier en amont...). Pour moi, les plus mauvaises exploitations viennent de ces plateformes.\nCes sujets chez nous sont gérés par notre équipe Acquisition, comme s'il s'agissait d'un canal payant comme un autre. On prévoit un recrutement dédié à la gestion de ce sujet en 2026.\n\n• Le pilotage de la performance de ce sujet est basé principalement sur notre processus d'attribution déclarative post inscription (_lors du sign-up_) :\nOn pose de manière aléatoire différentes questions, et comme on a la chance d'avoir beaucoup de volume, cela donne des résultats analysables. On ne pose jamais deux questions au même utilisateur, mais c'est un tirage random qui tourne sur des échantillons similaires. Il y a par exemple des questions comme :\n    ◦ Sur la base d'une liste de canaux, lequel vous a incité à passer à l'action ?\n    ◦ Avez-vous été influencé par le canal X dans le cadre de votre recherche d'outil ?\n    ◦ ...",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "026d818af51e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-14\/3105470112116_026d818af51e6af78591_72.png",
+            "first_name": "Maxime",
+            "real_name": "Maxime Baumard",
+            "display_name": "Maxime Baumard (Pennylane)",
+            "team": "T017AGS2KE0",
+            "name": "maxime.baumard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764861822.567659",
+        "parent_user_id": "U084KTR7YKX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CI1zl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Deux réponses à chaud :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Il y a pour moi trois façons de gérer l'influence :"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Via une agence : C'est ce qu'on fait chez Pennylane pour 70 % des influenceurs, surtout les micro-influenceurs. (Nous prenons uniquement des utilisateurs Pennylane.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "En direct : C'est ce qu'on fait aussi sur certains influenceurs (30 %). On s'autorise à aller chercher de gros influenceurs sans forcément d'usage produit (ex : Blaise Matuidi...)."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Via des plateformes qui automatisent la mise en relation entre marque et créateur : C'est ce qu'on ne fait pas après de mauvaises expériences (nous nous sommes retrouvés avec des créateurs qui avaient des étiquettes politiques, sans qu'on ait pu vérifier en amont...). Pour moi, les plus mauvaises exploitations viennent de ces plateformes."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nCes sujets chez nous sont gérés par notre équipe Acquisition, comme s'il s'agissait d'un canal payant comme un autre. On prévoit un recrutement dédié à la gestion de ce sujet en 2026.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Le pilotage de la performance de ce sujet est basé principalement sur notre processus d'attribution déclarative post inscription ("
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "lors du sign-up",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ") :"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nOn pose de manière aléatoire différentes questions, et comme on a la chance d'avoir beaucoup de volume, cela donne des résultats analysables. On ne pose jamais deux questions au même utilisateur, mais c'est un tirage random qui tourne sur des échantillons similaires. Il y a par exemple des questions comme :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Sur la base d'une liste de canaux, lequel vous a incité à passer à l'action ?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Avez-vous été influencé par le canal X dans le cadre de votre recherche d'outil ?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "..."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U084KTR7YKX",
+                    "U078PFP7A4B",
+                    "U063A8VPPG9",
+                    "U03QPMQA31V",
+                    "U0946E8A2US",
+                    "U06DYTRDLUD",
+                    "U0A0QG03DLN",
+                    "U08QZ6EKE4Q"
+                ],
+                "count": 8
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U0951RDNKU6",
+                    "U02N2EVMFCG"
+                ],
+                "count": 2
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U017H09S857"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1764864184.478369",
+        "client_msg_id": "3c95cd1c-1f1f-4183-8386-114077717ae2",
+        "text": "Merci pour ton retour Maxime ! Quelle agence utilises-tu ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764861822.567659",
+        "parent_user_id": "U084KTR7YKX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Oy+0o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci pour ton retour Maxime ! Quelle agence utilises-tu ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0946E8A2US",
+        "type": "message",
+        "ts": "1764865803.290239",
+        "client_msg_id": "8876E622-8CF0-46EB-A6DB-AB1B936D4558",
+        "text": "Excellente la solution pour l'attribution <@U032T5N7UTY> j'adore :)\n\nEt intéressant ton retour sur agence vs SaaS. Ca confirme mon XP mais elle est très limitée sur le sujet pour l'instant. ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "f73f6d38e4eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-07-23\/9238905089862_f73f6d38e4eb792c8c6a_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult",
+            "team": "T017AGS2KE0",
+            "name": "thibaut.davoult",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764861822.567659",
+        "parent_user_id": "U084KTR7YKX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "scClF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Excellente la solution pour l'attribution "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U032T5N7UTY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " j'adore :)\n\nEt intéressant ton retour sur agence vs SaaS"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Ca confirme mon XP mais elle est très limitée sur le sujet pour l'instant"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U084KTR7YKX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06DYTRDLUD",
+        "type": "message",
+        "ts": "1764866800.569889",
+        "client_msg_id": "36a64f80-d266-43e2-be79-ee83630f975e",
+        "text": "Hi Gwenn,\nL'ambition chez nous est un peu différente donc je me dis que ça peut interesser certains sur des cycles sales led et des target haut du mid market \/\/ enterprise.\nSur ce segment on est giga tactiques car il y a assez peu d'influenceurs sur notre métier et on fait en interne de notre côté - avec des gens très spécialisés.\nArticuler entre contenu sponso (obj noto) et activations plus quali en ABM sur un compte ultra strat qu'on a du mal à toper :\nex. participer ensemble à un podcast sponso (mais c'est pas nous qui invitons)\nex. organiser des dîners de retour d'exp avec des influencers et des key target.\nex. sponso un benchmark un peu discret sur nos angles de com prio.\n\nD'exp. ca augmente notre taux d'engagement (c'est ça qu'on regarde : le nombre d'interactions quali sur un territory plan).\nOn regarde aussi pour faire animer des webinars \/ events en 2026.\n\nPossible qu'on retourne chercher un peu de mass market l'année prochaine, donc on rouvre la porte à de l'influence B2B plus large - et comme Maxime, si on fait ça, on passera probablement par une agence.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901f49789864",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-17\/6483135134229_901f4978986494a521e4_72.jpg",
+            "first_name": "Flora",
+            "real_name": "Flora Wolfer",
+            "display_name": "Flora Wolfer (Payplug)",
+            "team": "T017AGS2KE0",
+            "name": "fwolfer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764861822.567659",
+        "parent_user_id": "U084KTR7YKX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SsFmG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Gwenn,\nL'ambition chez nous est un peu différente donc je me dis que ça peut interesser certains sur des cycles sales led et des target haut du mid market \/\/ enterprise.\nSur ce segment on est giga tactiques car il y a assez peu d'influenceurs sur notre métier et on fait en interne de notre côté - avec des gens très spécialisés.\nArticuler entre contenu sponso (obj noto) et activations plus quali en ABM sur un compte ultra strat qu'on a du mal à toper :\nex. participer ensemble à un podcast sponso (mais c'est pas nous qui invitons)\nex. organiser des dîners de retour d'exp avec des influencers et des key target.\nex. sponso un benchmark un peu discret sur nos angles de com prio.\n\nD'exp. ca augmente notre taux d'engagement (c'est ça qu'on regarde : le nombre d'interactions quali sur un territory plan).\nOn regarde aussi pour faire animer des webinars \/ events en 2026.\n\nPossible qu'on retourne chercher un peu de mass market l'année prochaine, donc on rouvre la porte à de l'influence B2B plus large - et comme Maxime, si on fait ça, on passera probablement par une agence."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U084KTR7YKX",
+                    "U06CZESF7QF"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U0A0QG03DLN",
+        "type": "message",
+        "ts": "1764868371.284949",
+        "client_msg_id": "e8eb1578-20eb-40a0-a695-92391383ad98",
+        "text": "hello, pour créer un système d'influence organique j'ai vu passer récemment le use case de tl;dv -&gt; ils ont créé un programme ouvert à tous et avec un système ultra-transparent d'incentives, qui permet de payer à la perf uniquement + de générer une forme d'outbound d'influenceurs. L'idée est très sympa !\n\n<https:\/\/tldv.io\/fr\/ambassador-program\/>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b968d96b48d4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-12-01\/10056348127568_b968d96b48d4a3ee8664_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Courbin",
+            "display_name": "Alexandre Courbin",
+            "team": "T017AGS2KE0",
+            "name": "alexandre.courbin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764861822.567659",
+        "parent_user_id": "U084KTR7YKX",
+        "attachments": [
+            {
+                "image_url": "https:\/\/tldv.io\/wp-content\/uploads\/2023\/03\/Ambassadors-Program-3-min.png",
+                "image_width": 2400,
+                "image_height": 1260,
+                "image_bytes": 316538,
+                "from_url": "https:\/\/tldv.io\/fr\/ambassador-program\/",
+                "service_icon": "https:\/\/b2729162.smushcdn.com\/2729162\/wp-content\/uploads\/2023\/10\/cropped-Favicon-1-180x180.png?lossy=1&amp;strip=1&amp;webp=1",
+                "id": 1,
+                "original_url": "https:\/\/tldv.io\/fr\/ambassador-program\/",
+                "fallback": "tl;dv: Partagez tl;dv avec votre réseau et gagnez jusqu'à 700 $ par message.",
+                "text": "Bienvenue dans notre programme exclusif d&amp;#039;ambassadeurs tl;dv . Nous sommes ravis de travailler en partenariat avec vous ! Que vous soyez un influenceur technologique ou un passionné d&amp;#039;outils, nous avons quelque chose pour vous ! Voici comment cela fonctionne :",
+                "title": "Partagez tl;dv avec votre réseau et gagnez jusqu'à 700 $ par message.",
+                "title_link": "https:\/\/tldv.io\/fr\/ambassador-program\/",
+                "service_name": "tl;dv",
+                "fields": [
+                    {
+                        "value": "11 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "grI99",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello, pour créer un système d'influence organique j'ai vu passer récemment le use case de tl;dv -> ils ont créé un programme ouvert à tous et avec un système ultra-transparent d'incentives, qui permet de payer à la perf uniquement + de générer une forme d'outbound d'influenceurs. L'idée est très sympa !\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/tldv.io\/fr\/ambassador-program\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U084KTR7YKX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

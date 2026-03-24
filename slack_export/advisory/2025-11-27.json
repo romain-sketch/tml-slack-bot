@@ -1,0 +1,501 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U04A6JMRWCS",
+        "text": "<@U04A6JMRWCS> has joined the channel",
+        "type": "message",
+        "ts": "1764230519.298579"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U078PFP7A4B",
+        "text": "<@U078PFP7A4B> has joined the channel",
+        "type": "message",
+        "ts": "1764233936.446839"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U08M0JP81DK",
+        "text": "<@U08M0JP81DK> has joined the channel",
+        "type": "message",
+        "ts": "1764236573.774479"
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1764242528.649109",
+        "client_msg_id": "cf52b7e5-1d53-41a9-8123-a4a1f5f2f226",
+        "text": "Pour les personnes qui se demandent comment faire de l’advisory for equity (cc <@U09BVQYR1GA> :smile: ) j’ai eu Guillaume Cabane dans mon podcast. Un modèle du genre selon moi.\nÉpisode <https:\/\/youtu.be\/dr_pTrEcB2I|ici sur Youtube> ou <https:\/\/smartlink.ausha.co\/conquete-jordan-chenevier|ici sur les plateformes.>\nBonne journée !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764242528.649109",
+        "reply_count": 8,
+        "reply_users_count": 6,
+        "latest_reply": "1764331296.226769",
+        "reply_users": [
+            "U0946E8A2US",
+            "U063A8VPPG9",
+            "U0183AS3MB6",
+            "U017RAZCAGZ",
+            "U09BVQYR1GA",
+            "U017H09S857"
+        ],
+        "replies": [
+            {
+                "user": "U0946E8A2US",
+                "ts": "1764245482.560709"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1764246003.255139"
+            },
+            {
+                "user": "U0946E8A2US",
+                "ts": "1764250387.315179"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1764251431.249669"
+            },
+            {
+                "user": "U017RAZCAGZ",
+                "ts": "1764251437.786609"
+            },
+            {
+                "user": "U09BVQYR1GA",
+                "ts": "1764251997.545199"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1764285968.987899"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1764331296.226769"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dpt9\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour les personnes qui se demandent comment faire de l’advisory for equity (cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U09BVQYR1GA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ) j’ai eu Guillaume Cabane dans mon podcast. Un modèle du genre selon moi.\nÉpisode "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/dr_pTrEcB2I",
+                                "text": "ici sur Youtube"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ou "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/smartlink.ausha.co\/conquete-jordan-chenevier",
+                                "text": "ici sur les plateformes."
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nBonne journée !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "open_mouth",
+                "users": [
+                    "U056DAY3YD8",
+                    "U0946E8A2US",
+                    "U09BVQYR1GA",
+                    "U0177A5V42F"
+                ],
+                "count": 4
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U056DAY3YD8",
+                    "U02N2EVMFCG",
+                    "U063A8VPPG9",
+                    "U0946E8A2US",
+                    "U084KTR7YKX",
+                    "U06UK9NGTB4",
+                    "U04CW99BP3Q"
+                ],
+                "count": 7
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U01T6U402V8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0946E8A2US",
+        "type": "message",
+        "ts": "1764245482.560709",
+        "client_msg_id": "C51BD299-E0E5-417A-A3A8-B1C8EBC55EA9",
+        "text": "TROP pressé d'écouter ça !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "f73f6d38e4eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-07-23\/9238905089862_f73f6d38e4eb792c8c6a_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult",
+            "team": "T017AGS2KE0",
+            "name": "thibaut.davoult",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764242528.649109",
+        "parent_user_id": "U0183AS3MB6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Oo49d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "TROP pressé d'écouter ça !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1764246003.255139",
+        "client_msg_id": "27FBDC90-54A1-4A77-A752-95D2AC0CEB90",
+        "text": "Ah le G!!! Ahah je vais écouter ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764242528.649109",
+        "parent_user_id": "U0183AS3MB6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DtDte",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah le G!!! Ahah je vais écouter "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0946E8A2US",
+        "type": "message",
+        "ts": "1764250387.315179",
+        "client_msg_id": "360C1B5C-E9FD-4DA7-AFA5-56539B55DF46",
+        "text": "Meilleur compagnon de ma pause dej en remote :joy: <@U0183AS3MB6> excellent épisode vraiment !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "f73f6d38e4eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-07-23\/9238905089862_f73f6d38e4eb792c8c6a_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult",
+            "team": "T017AGS2KE0",
+            "name": "thibaut.davoult",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764242528.649109",
+        "parent_user_id": "U0183AS3MB6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aDKHO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Meilleur compagnon de ma pause dej en remote "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0183AS3MB6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " excellent épisode vraiment !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1764251431.249669",
+        "client_msg_id": "368b943c-0e12-44c6-a0b2-bb6a2bb72e98",
+        "text": "Merci <@U0946E8A2US> :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764242528.649109",
+        "parent_user_id": "U0183AS3MB6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PC32E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0946E8A2US"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017RAZCAGZ",
+        "type": "message",
+        "ts": "1764251437.786609",
+        "client_msg_id": "3d9b2667-b26c-402b-b44f-628c63ee90ff",
+        "text": "le G c'est le S",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2e6e61c8f204",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-20\/1251040887619_2e6e61c8f20434050630_72.jpg",
+            "first_name": "Hélène",
+            "real_name": "Hélène Draoulec (Phenix)",
+            "display_name": "Hélène Draoulec (Phenix)",
+            "team": "T017AGS2KE0",
+            "name": "hdraoulec",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764242528.649109",
+        "parent_user_id": "U0183AS3MB6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FT0vR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "le G c'est le S"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U0183AS3MB6",
+                    "U063A8VPPG9",
+                    "U017H09S857"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U09BVQYR1GA",
+        "type": "message",
+        "ts": "1764251997.545199",
+        "client_msg_id": "804694a0-044b-461f-a89d-3d6821a5c5f7",
+        "text": "merci <@U0183AS3MB6>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0ee28ebc77d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-09-09\/9480262349955_0ee28ebc77d7f64eb0e1_72.png",
+            "first_name": "Tania",
+            "real_name": "Tania",
+            "display_name": "Tania",
+            "team": "T017AGS2KE0",
+            "name": "tsaezgrowth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764242528.649109",
+        "parent_user_id": "U0183AS3MB6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IJ13q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0183AS3MB6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1764285968.987899",
+        "client_msg_id": "0B2796D9-C9CE-413F-BA36-6E0E72321E48",
+        "text": "J’ai écouté dans ma voiture cette semaine  #banlieusarde. Je recommande!! Well done Jordan",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764242528.649109",
+        "parent_user_id": "U0183AS3MB6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "80dcv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J’ai écouté dans ma voiture cette semaine  #banlieusarde. Je recommande!! Well done Jordan"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

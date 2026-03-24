@@ -1,0 +1,140 @@
+[
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1770624690.165489",
+        "client_msg_id": "e8f60551-b146-4d23-bb79-8f8dc06c1570",
+        "text": "Yes Free trial + moins cher. C’est pas moi qui a géré en direct mais de ce que j’ai compris Rose est plus complet (et donc aussi plus cher) alors qu’on cherche un tool pour tester d’abord donc on veut qqchose de pas trop cher",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770363455.531599",
+        "parent_user_id": "U06MHCCLQG3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m5LoB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes Free trial + moins cher. C’est pas moi qui a géré en direct mais de ce que j’ai compris Rose est plus complet (et donc aussi plus cher) alors qu’on cherche un tool pour tester d’abord donc on veut qqchose de pas trop cher"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U06MHCCLQG3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06UK9NGTB4",
+        "type": "message",
+        "ts": "1770630316.881949",
+        "client_msg_id": "cd5fd15d-de9c-4793-8194-b6efb02b4c33",
+        "text": "On est aussi beta-testeurs chez Mayday. L'équipe est top, pas forcément de bons résultats sur la lead gen pur par contre dans une logique d'ABM c'est un super outil d'intents complémentaire à 6Sense qu'on a dans notre stack",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0de90fd94651",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-12-08\/10074067873414_0de90fd94651dd81ffed_72.png",
+            "first_name": "François",
+            "real_name": "François Castro-Lara",
+            "display_name": "François Castro-Lara (Mayday)",
+            "team": "T017AGS2KE0",
+            "name": "francois",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770363455.531599",
+        "parent_user_id": "U06MHCCLQG3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9l5Zj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On est aussi beta-testeurs chez Mayday. L'équipe est top, pas forcément de bons résultats sur la lead gen pur par contre dans une logique d'ABM c'est un super outil d'intents complémentaire à 6Sense qu'on a dans notre stack"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U06MHCCLQG3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U09JE6QUZDZ",
+        "type": "message",
+        "ts": "1770677292.384309",
+        "client_msg_id": "de530306-d7ed-4686-b9c6-254d2f2d040e",
+        "text": "J'ai eu les mêmes questionnements dans mon ancienne boîte.\nMa boîte actuelle est passée sur Posthog, qui gère le tracking, le session recording, la dimension comportementale (notamment l'AB testing) et il semblerait qu'il y ait aussi la possibilité d'avoir un modèle d'attribution intégré. Je dois être formée sur l'outil prochainement, je pourrais t'en dire plus éventuellement.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7d0f46079dd0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-10\/9686164664817_7d0f46079dd063043221_72.jpg",
+            "first_name": "Elodie",
+            "real_name": "Elodie Gaussares",
+            "display_name": "Elodie Gaussares",
+            "team": "T017AGS2KE0",
+            "name": "egaussares",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770421422.786249",
+        "parent_user_id": "U08SA22HS0J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lu5lz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai eu les mêmes questionnements dans mon ancienne boîte.\nMa boîte actuelle est passée sur Posthog, qui gère le tracking, le session recording, la dimension comportementale (notamment l'AB testing) et il semblerait qu'il y ait aussi la possibilité d'avoir un modèle d'attribution intégré. Je dois être formée sur l'outil prochainement, je pourrais t'en dire plus éventuellement."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "user": "U067VEJFT5F",
+        "type": "message",
+        "ts": "1750666456.123399",
+        "client_msg_id": "626167cf-28b4-41be-928f-25967806695e",
+        "text": "Bonjour <@U065DFPCQMP>! Je tenterais ma chance avec Poll&amp;Roll, moins cher que les grands instituts mais boulot de qualité.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9fcbd8d4bd09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-05\/6296382564371_9fcbd8d4bd095d25ab4c_72.jpg",
+            "first_name": "Amandine",
+            "real_name": "Amandine Moreau",
+            "display_name": "Amandine Moreau",
+            "team": "T017AGS2KE0",
+            "name": "a.gremont.pro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750439275.763999",
+        "parent_user_id": "U065DFPCQMP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X7cKp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U065DFPCQMP"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! Je tenterais ma chance avec Poll&Roll, moins cher que les grands instituts mais boulot de qualité."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U065DFPCQMP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U065DFPCQMP",
+        "type": "message",
+        "ts": "1750672921.035429",
+        "client_msg_id": "2324ff7c-d3a5-424c-aa36-9ace29547487",
+        "text": "Merci <@U01MVJPEEH3> et <@U067VEJFT5F>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50040e0261e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-15\/6198553206674_50040e0261e7ba62e840_72.jpg",
+            "first_name": "Gaelle",
+            "real_name": "Gaelle Le Goff",
+            "display_name": "Gaelle Le Goff",
+            "team": "T017AGS2KE0",
+            "name": "gaelle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750439275.763999",
+        "parent_user_id": "U065DFPCQMP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AAR5A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01MVJPEEH3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U067VEJFT5F"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1750697086.319279",
+        "client_msg_id": "3bd1e3c9-9414-456b-9894-42fc5f761492",
+        "text": "tu peux peut-être trouver des champions aussi dans ta cible qui partagent à leur réseau ou diffusent en ton nom - car c'est plus \"personnel\" qu'une entreprise\/marque",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750439275.763999",
+        "parent_user_id": "U065DFPCQMP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zjiAC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tu peux peut-être trouver des champions aussi dans ta cible qui partagent à leur réseau ou diffusent en ton nom - car c'est plus \"personnel\" qu'une entreprise\/marque"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U092PH1F2CA",
+        "text": "<@U092PH1F2CA> has joined the channel",
+        "type": "message",
+        "ts": "1750715340.437219"
+    }
+]

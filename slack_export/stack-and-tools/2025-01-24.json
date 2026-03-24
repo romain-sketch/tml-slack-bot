@@ -1,0 +1,246 @@
+[
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1737740585.786909",
+        "edited": {
+            "user": "U02N2EVMFCG",
+            "ts": "1737740621.000000"
+        },
+        "client_msg_id": "46119D7A-7DB5-40B3-94EE-9093831BC0EB",
+        "text": "Hello, utilisez-vous un service\/outil de veille presse ?\n:heart: Aday\n:pray: Google Alert\n:white_check_mark: Onclusive\n:fire: Cision\n:arrow_up: Kantar Media\n:potable_water: Meltwater",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737740585.786909",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1738770407.847159",
+        "reply_users": [
+            "U017CURDPB5",
+            "U06MLNEGNKB",
+            "U02N2EVMFCG",
+            "U065DFPCQMP"
+        ],
+        "replies": [
+            {
+                "user": "U017CURDPB5",
+                "ts": "1737740678.056349"
+            },
+            {
+                "user": "U06MLNEGNKB",
+                "ts": "1737965705.748009"
+            },
+            {
+                "user": "U017CURDPB5",
+                "ts": "1737974734.546439"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1738064571.826919"
+            },
+            {
+                "user": "U065DFPCQMP",
+                "ts": "1738770407.847159"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I9GHc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, utilisez-vous un service"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\/outil "
+                            },
+                            {
+                                "type": "text",
+                                "text": "de veille presse ?\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart",
+                                "unicode": "2764-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Aday\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Google Alert\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "white_check_mark",
+                                "unicode": "2705"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Onclusive\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire",
+                                "unicode": "1f525"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Cision\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "arrow_up",
+                                "unicode": "2b06-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Kantar Media\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "potable_water",
+                                "unicode": "1f6b0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Meltwater"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U06M6E5M524",
+                    "U03P99RGMTN",
+                    "U07D08K3U0K",
+                    "U02N2EVMFCG",
+                    "U020QK16RMJ",
+                    "U07LN85V6TG"
+                ],
+                "count": 6
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U02N2EVMFCG",
+                    "U069NSTHZ3Q"
+                ],
+                "count": 2
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U02N2EVMFCG",
+                    "U06LENY5V6Z",
+                    "U01A4GMRRR9",
+                    "U03CY07UZJM",
+                    "U06GYUPMCR5",
+                    "U017CURDPB5",
+                    "U06MLNEGNKB",
+                    "U0859A8P14K",
+                    "U07D08K3U0K",
+                    "U067VEJFT5F",
+                    "U06MHCCLQG3"
+                ],
+                "count": 11
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02N2EVMFCG",
+                    "U04CW99BP3Q",
+                    "U06MLNEGNKB"
+                ],
+                "count": 3
+            },
+            {
+                "name": "arrow_up",
+                "users": [
+                    "U02N2EVMFCG",
+                    "U07LN85V6TG"
+                ],
+                "count": 2
+            },
+            {
+                "name": "potable_water",
+                "users": [
+                    "U02N2EVMFCG",
+                    "U01A4GMRRR9",
+                    "U069NSTHZ3Q",
+                    "U07LN85V6TG"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U017CURDPB5",
+        "type": "message",
+        "ts": "1737740678.056349",
+        "client_msg_id": "9ae429c7-1837-45b1-b13a-6a8cad8337d7",
+        "text": "Visibrain (pas dans ta liste)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "671ad569fbc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5982967598243_671ad569fbc40977de70_72.jpg",
+            "first_name": "David",
+            "real_name": "David Remaud",
+            "display_name": "David Remaud (iBanFirst)",
+            "team": "T017AGS2KE0",
+            "name": "david.remaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737740585.786909",
+        "parent_user_id": "U02N2EVMFCG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xczsm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Visibrain (pas dans ta liste)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "user": "U020QK16RMJ",
+        "type": "message",
+        "ts": "1766739415.481389",
+        "client_msg_id": "30c2eb02-7949-4ce3-b9ba-ece79628e6bb",
+        "text": "*[Event Specialist]*\nJ'ai un bon profil d'Event Manager Junior dispo en 2026: <https:\/\/www.linkedin.com\/in\/bferreira1117\/?originalSubdomain=fr>\nFiable, réactive, créative, bonne réaction au feedback, bon niveau d'anglais, on time et on budget.\nJe n'ai malheureusement pas de headcount pour cette année et je n'ai pu la prolonger qu'en freelance. Elle cherche idéalement un CDI, mais serait dispo pour des missions.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "56d8a678e801",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-18\/7292097443269_56d8a678e801350db84a_72.png",
+            "first_name": "Joël",
+            "real_name": "Joël Gaudeul",
+            "display_name": "Joël (Swan)",
+            "team": "T017AGS2KE0",
+            "name": "joel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1766739415.481389",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1767015844.233899",
+        "reply_users": [
+            "U02N2EVMFCG",
+            "U020QK16RMJ",
+            "U06E3PY5LAY"
+        ],
+        "replies": [
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1766757499.708669"
+            },
+            {
+                "user": "U020QK16RMJ",
+                "ts": "1767013947.371449"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1767013969.753319"
+            },
+            {
+                "user": "U06E3PY5LAY",
+                "ts": "1767015844.233899"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/bferreira1117\/?originalSubdomain=fr",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "thumb_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/D4E03AQFR06KlmutF4g\/profile-displayphoto-shrink_200_200\/B4EZVqti7jHMAY-\/0\/1741252080772?e=2147483647&v=beta&t=JAEgTOmAhfumLPb2D8g-GDSWavCqbzvt4vL_us7TtWI",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/bferreira1117\/?originalSubdomain=fr",
+                "fallback": "Bruna Ferreira - Swan | LinkedIn",
+                "text": "Turning ideas into unforgettable moments :sparkles: \n\nAs an events specialist, I’m… · Experience: Swan · Education: UBM · Location: Paris · 350 connections on LinkedIn. View Bruna Ferreira’s profile on LinkedIn, a professional community of 1 billion members.",
+                "title": "Bruna Ferreira - Swan | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/bferreira1117\/?originalSubdomain=fr",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UYWir",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[Event Specialist]",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nJ'ai un bon profil d'Event Manager Junior dispo en 2026: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/bferreira1117\/?originalSubdomain=fr"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nFiable, réactive, créative, bonne réaction au feedback, bon niveau d'anglais, on time et on budget.\nJe n'ai malheureusement pas de headcount pour cette année et je n'ai pu la prolonger qu'en freelance. Elle cherche idéalement un CDI, mais serait dispo pour des missions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U020QK16RMJ",
+                    "U08PLD4KPS8",
+                    "U03P99RGMTN"
+                ],
+                "count": 3
+            },
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U02N2EVMFCG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1766757499.708669",
+        "client_msg_id": "06ae63b1-77f7-444e-8b7d-c4408e5d7d95",
+        "text": "merci Joël, tu peux nous faire une intro mail ? J'ai quelques projets événementiels pour certains clients actuellemtn :-",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1766739415.481389",
+        "parent_user_id": "U020QK16RMJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cKjYa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "merci Joël, tu peux nous faire une intro mail ? J'ai quelques projets événementiels pour certains clients actuellemtn :-"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

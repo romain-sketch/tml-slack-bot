@@ -1,0 +1,427 @@
+[
+    {
+        "user": "U0177A5V42F",
+        "type": "message",
+        "ts": "1750677642.808819",
+        "client_msg_id": "c7173564-b1da-414f-975b-52a4f776bf56",
+        "text": "Il se passe quoi sur l'algo de LinkedIn qui nous recycle des contenus vieux de plusieurs semaines depuis quelques jours ?!\nC'est quasi la moitié de mon feed aujourd'hui.\nVous avez la même chose de votre coté ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ebca9b04129",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-17\/1245815650949_7ebca9b041296679a81d_72.jpg",
+            "first_name": "Guillaume",
+            "real_name": "Guillaume Laguette",
+            "display_name": "Guillaume Laguette (echOpen)",
+            "team": "T017AGS2KE0",
+            "name": "laguette.guillaume",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750677642.808819",
+        "reply_count": 8,
+        "reply_users_count": 7,
+        "latest_reply": "1750870416.931389",
+        "reply_users": [
+            "U02N2EVMFCG",
+            "U0177A5V42F",
+            "U0183AS3MB6",
+            "U06UK9NGTB4",
+            "U084KTR7YKX",
+            "U063A8VPPG9",
+            "U06DYTRDLUD"
+        ],
+        "replies": [
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1750681288.185559"
+            },
+            {
+                "user": "U0177A5V42F",
+                "ts": "1750681803.519909"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1750683334.894849"
+            },
+            {
+                "user": "U06UK9NGTB4",
+                "ts": "1750685988.279889"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1750697192.836169"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1750702530.262909"
+            },
+            {
+                "user": "U06DYTRDLUD",
+                "ts": "1750869658.852769"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1750870416.931389"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/fwBx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Il se passe quoi sur l'algo de LinkedIn qui nous recycle des contenus vieux de plusieurs semaines depuis quelques jours ?!\nC'est quasi la moitié de mon feed aujourd'hui.\nVous avez la même chose de votre coté ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03P99RGMTN",
+                    "U084KTR7YKX",
+                    "U017RAZCAGZ",
+                    "U06MHCCLQG3"
+                ],
+                "count": 4
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U078PFP7A4B",
+                    "U067VEJFT5F",
+                    "U084KTR7YKX",
+                    "U017RAZCAGZ",
+                    "U06DYTRDLUD"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1750681288.185559",
+        "client_msg_id": "1ed5b7b1-8c2a-4e50-b3b6-8235ca8854f9",
+        "text": "j'ai l'impression que les week)ends ils ressortent des vieux contenus des 15 derniers jours, probablement pour faire remonter les choses qui ne sont pas _hot_ mais quand-même _worthwhile_",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750677642.808819",
+        "parent_user_id": "U0177A5V42F",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PLY4Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "j'ai l'impression que les week)ends ils ressortent des vieux contenus des 15 derniers jours, probablement pour faire remonter les choses qui ne sont pas "
+                            },
+                            {
+                                "type": "text",
+                                "text": "hot",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " mais quand-même "
+                            },
+                            {
+                                "type": "text",
+                                "text": "worthwhile",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0177A5V42F",
+        "type": "message",
+        "ts": "1750681803.519909",
+        "client_msg_id": "1b6c0b4a-f21a-462f-ad81-64aeb6a7e7d4",
+        "text": "Ce qui est bizarre c'est la remontée de post sur lesquels on a deja donné des réactions mais yes tu as probablement raison. En revanche l'algo n'est pas capable de parcer les contenus temporels (ex vivatech) du reste. Ça donne un feed très peu engageant, on a l'impression de lire les vieux Gala de la salle d'attente du dentiste :sweat_smile:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ebca9b04129",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-17\/1245815650949_7ebca9b041296679a81d_72.jpg",
+            "first_name": "Guillaume",
+            "real_name": "Guillaume Laguette",
+            "display_name": "Guillaume Laguette (echOpen)",
+            "team": "T017AGS2KE0",
+            "name": "laguette.guillaume",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750677642.808819",
+        "parent_user_id": "U0177A5V42F",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BywCQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ce qui est bizarre c'est la remontée de post sur lesquels on a deja donné des réactions mais yes tu as probablement raison. En revanche l'algo n'est pas capable de parcer les contenus temporels (ex vivatech) du reste. Ça donne un feed très peu engageant, on a l'impression de lire les vieux Gala de la salle d'attente du dentiste "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "tooth",
+                "users": [
+                    "U02N2EVMFCG",
+                    "U063A8VPPG9",
+                    "U06DYTRDLUD"
+                ],
+                "count": 3
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U08EN5GRYCC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1750683334.894849",
+        "client_msg_id": "fcbf5a01-31f8-4d73-9dab-e287a4e8718a",
+        "text": "Je confirme. Et le truc bizarre est que j’ai 15x la même personne :smile:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750677642.808819",
+        "parent_user_id": "U0177A5V42F",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MMTlF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je confirme. Et le truc bizarre est que j’ai 15x la même personne "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06UK9NGTB4",
+        "type": "message",
+        "ts": "1750685988.279889",
+        "client_msg_id": "3c906aba-aba9-4850-975d-5130bdb12299",
+        "text": "Yes pareil chez moi et j'ai l'impression que globalement ça me montre des posts de la semaine du 27 mai (donc quasi un mois)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0de90fd94651",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-12-08\/10074067873414_0de90fd94651dd81ffed_72.png",
+            "first_name": "François",
+            "real_name": "François Castro-Lara",
+            "display_name": "François Castro-Lara (Mayday)",
+            "team": "T017AGS2KE0",
+            "name": "francois",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750677642.808819",
+        "parent_user_id": "U0177A5V42F",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m34A6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes pareil chez moi et j'ai l'impression que globalement ça me montre des posts de la semaine du 27 mai (donc quasi un mois)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1750697192.836169",
+        "client_msg_id": "e0f6ddc1-2a81-4883-b442-afec3b224dc9",
+        "text": "oui idem pour tout : vieux Gala, les mêmes gens encore et encore, des posts déjà likés ou commentés, .... très très bizarre\n\nje me disais que je devais trop aller sur Linkedin et qu'il ne savait plus quoi me pousser :joy:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750677642.808819",
+        "parent_user_id": "U0177A5V42F",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pOrtD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oui idem pour tout : vieux Gala, les mêmes gens encore et encore, des posts déjà likés ou commentés, .... très très bizarre\n\nje me disais que je devais trop aller sur Linkedin et qu'il ne savait plus quoi me pousser "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1750702530.262909",
+        "client_msg_id": "B9B52A1C-B08A-4A65-B2E0-FC7C7767FBE1",
+        "text": "Ahah je me suis dit comme toi <@U084KTR7YKX> :joy: \nÇa a un impact sur votre reach\/ engagement ou pas spécialement? ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750677642.808819",
+        "parent_user_id": "U0177A5V42F",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A29oN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ahah je me suis dit comme toi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U084KTR7YKX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nÇa a un impact sur votre reach\/ engagement ou pas spécialement? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U092PH1F2CA",
+        "text": "<@U092PH1F2CA> has joined the channel",
+        "type": "message",
+        "ts": "1750715340.377399"
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1737091760.772929",
+        "client_msg_id": "65e025c4-a636-4067-9063-539c043c8e2b",
+        "text": "Top <@U065DFPCQMP> organisons ça ensemble alors ! On va refaire une ou deux relances TML quand les choses seront un peu plus avancées, je suis sûr qu'il y a plein de AI-masters parmi nous",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736330294.793039",
+        "parent_user_id": "U065DFPCQMP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FZbs+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Top "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U065DFPCQMP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " organisons ça ensemble alors ! On va refaire une ou deux relances TML quand les choses seront un peu plus avancées, je suis sûr qu'il y a plein de AI-masters parmi nous"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U065DFPCQMP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

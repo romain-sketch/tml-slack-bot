@@ -1,0 +1,45 @@
+[
+    {
+        "user": "U08V1NE4BUJ",
+        "type": "message",
+        "ts": "1752582006.397449",
+        "client_msg_id": "1b3a00f2-bcbe-4f99-8b15-a0f14cfc8282",
+        "text": "Hello ! Je cherche des retours d’expérience sur les placements de produits en intégration dans des vidéos YouTube : formats qui fonctionnent, taux de clics observés, impact sur les conversions, bonnes pratiques… Si vous avez déjà testé ce levier, je serais preneur de vos insights. :pray:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "3654a4fc5d4e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-02\/8999698350033_3654a4fc5d4e25a0a92c_72.jpg",
+            "first_name": "Alan",
+            "real_name": "Alan Huet (Fundora)",
+            "display_name": "Alan HUET",
+            "team": "T017AGS2KE0",
+            "name": "alan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9QD2d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello ! Je cherche des retours d’expérience sur les placements de produits en intégration dans des vidéos YouTube : formats qui fonctionnent, taux de clics observés, impact sur les conversions, bonnes pratiques… Si vous avez déjà testé ce levier, je serais preneur de vos insights. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

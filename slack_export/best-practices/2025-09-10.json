@@ -1,0 +1,57 @@
+[
+    {
+        "user": "U09BVQYR1GA",
+        "type": "message",
+        "ts": "1757515913.605259",
+        "edited": {
+            "user": "U09BVQYR1GA",
+            "ts": "1757516416.000000"
+        },
+        "client_msg_id": "446b896e-9953-4b54-9fed-3c592592a7d8",
+        "text": "<@U084KTR7YKX> je connais une très bonne agence demandgen B2B mais je vois que Evaneos c'est du B2C non ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0ee28ebc77d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-09-09\/9480262349955_0ee28ebc77d7f64eb0e1_72.png",
+            "first_name": "Tania",
+            "real_name": "Tania",
+            "display_name": "Tania",
+            "team": "T017AGS2KE0",
+            "name": "tsaezgrowth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756710504.066109",
+        "parent_user_id": "U084KTR7YKX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+II8t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U084KTR7YKX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je connais une très bonne agence demandgen B2B mais je vois que Evaneos c'est du B2C non ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U09EFH6S1BQ",
+        "text": "<@U09EFH6S1BQ> has joined the channel",
+        "type": "message",
+        "ts": "1757573571.147939"
+    }
+]

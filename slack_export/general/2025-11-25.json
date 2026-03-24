@@ -1,0 +1,139 @@
+[
+    {
+        "user": "U08EN5GRYCC",
+        "type": "message",
+        "ts": "1764079526.801719",
+        "client_msg_id": "64c55767-5f5c-446d-8c9a-25b2d07da22f",
+        "text": "Hello, moi aussi je suis intéressée s’il y a un écrit ou un audio de la réunion. Merci !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "3944e9004e51",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-23\/8520970014112_3944e9004e5166d3f29d_72.png",
+            "first_name": "Armelle",
+            "real_name": "Armelle Jaclot",
+            "display_name": "Armelle Jaclot",
+            "team": "T017AGS2KE0",
+            "name": "armelle.jaclot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763581845.647779",
+        "parent_user_id": "U020QK16RMJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jpt2X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, moi aussi je suis intéressée s’il y a un écrit ou un audio de la réunion. Merci !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U020QK16RMJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U08SA22HS0J",
+        "type": "message",
+        "ts": "1764087506.507599",
+        "client_msg_id": "a13dee9f-4c05-4144-bdf3-d8da7b428b4d",
+        "text": "Hello Marie, j'ai retrouvé deux templates de checklist de lancement (celle de Stormshield qui date de 2021 et celle de Woop qui date de 2024). Il n'y a pas de RACI dedans, les rôles et responsabilités sont dans un autre doc qui est beaucoup plus global et que je peux te partager également. Est-ce que ça peut t'aider ou bien il te faut vraiment le owner pour chaque tâche des checklists ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "266d9356f19e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-07\/10243863201635_266d9356f19e63bc9267_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu BONENFANT (SecLab)",
+            "display_name": "Matthieu BONENFANT (SecLab)",
+            "team": "T017AGS2KE0",
+            "name": "matthieu.bonenfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763973390.791119",
+        "parent_user_id": "U069NSTHZ3Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mpOzm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Marie, j'ai retrouvé deux templates de checklist de lancement (celle de Stormshield qui date de 2021 et celle de Woop qui date de 2024). Il n'y a pas de RACI dedans, les rôles et responsabilités sont dans un autre doc qui est beaucoup plus global et que je peux te partager également. Est-ce que ça peut t'aider ou bien il te faut vraiment le owner pour chaque tâche des checklists ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U069NSTHZ3Q",
+        "type": "message",
+        "ts": "1764093498.544569",
+        "client_msg_id": "01f5f0f2-9963-4b68-9657-65889b49700f",
+        "text": "merci <@U08SA22HS0J> je cherche surtout à avoir la liste des tâches donc nickel!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "fbbca81fca0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-30\/7816371623809_fbbca81fca0c916c8c15_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Gannau (Oodrive)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "m.gannau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763973390.791119",
+        "parent_user_id": "U069NSTHZ3Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jlRTC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08SA22HS0J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je cherche surtout à avoir la liste des tâches donc nickel!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

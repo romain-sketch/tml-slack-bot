@@ -1,0 +1,332 @@
+[
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1770369464.629609",
+        "client_msg_id": "636d4e9f-55de-46a5-a855-a82064af052e",
+        "text": "Hey !\nDe notre côté on va kill mais je pense que c’est pas du tout adapté à une boite de service… à voir ce qu’en disent les autres.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770363455.531599",
+        "parent_user_id": "U06MHCCLQG3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zkK6d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey !\nDe notre côté on va kill mais je pense que c’est pas du tout adapté à une boite de service… à voir ce qu’en disent les autres."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1770376037.604589",
+        "client_msg_id": "92a5b6bc-1eb3-49da-8b59-1b73411363dd",
+        "text": "On part sur Concierge AI de notre côté mais on a échangé avec Rose. Intéressé d’avoir les autres retours :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770363455.531599",
+        "parent_user_id": "U06MHCCLQG3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zfuXh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On part sur Concierge AI de notre côté mais on a échangé avec Rose. Intéressé d’avoir les autres retours "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U025AMSNGF8",
+        "type": "message",
+        "ts": "1770379079.138409",
+        "edited": {
+            "user": "U025AMSNGF8",
+            "ts": "1770379280.000000"
+        },
+        "client_msg_id": "31fd32b4-307c-4319-9ea2-837cf9c4f603",
+        "text": "Hello <@U06MHCCLQG3> ! Yes je recommande, on bosse avec eux depuis l’été dernier (design partner) ils sont tops et très réactifs. Au delà des enjeux d’acquisition ça nous permet aussi d’accentuer notre positionnement Skello Intelligence dès les premiers touchpoints sur la homepage.\n\n*En chiffres :* \n• Conversations: *3500+* (≃1000 conversations\/month en étant sur 80% du trafic)\n• % Engagement rate: *2.8%* (vs. <1% sur notre Chat Intercom)\n• Conversions: *229* (146 Demos + 83 Emails)\n• % Conversations leading to a Conversion: *6.5%*\n• *7%* de nos démos Inbound viennent de Rose",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b5f2d16c46f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-18\/6070004520657_b5f2d16c46f6b166931e_72.png",
+            "first_name": "Eliott",
+            "real_name": "Eliott Guerin",
+            "display_name": "Eliott Guerin (Skello)",
+            "team": "T017AGS2KE0",
+            "name": "eliott",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770363455.531599",
+        "parent_user_id": "U06MHCCLQG3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hXJvT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06MHCCLQG3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ! Yes je recommande, on bosse avec eux depuis l’été dernier (design partner) ils sont tops et très réactifs. Au delà des enjeux d’acquisition ça nous permet aussi d’accentuer notre positionnement Skello Intelligence dès les premiers touchpoints sur la homepage.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "En chiffres : ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Conversations: "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "3500+",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " (≃1000 conversations\/month en étant sur 80% du trafic)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "% Engagement rate: "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "2.8% ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "(vs. <1% sur notre Chat Intercom)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Conversions: "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "229",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " (146 Demos + 83 Emails)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "% Conversations leading to a Conversion: "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "6.5%",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "7%",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " de nos démos Inbound viennent de Rose"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bulb",
+                "users": [
+                    "U06CZESF7QF",
+                    "U0183AS3MB6",
+                    "U08SA22HS0J",
+                    "U06MHCCLQG3",
+                    "U017RBREWC9"
+                ],
+                "count": 5
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U017RBREWC9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U08SA22HS0J",
+        "type": "message",
+        "ts": "1770421422.786249",
+        "client_msg_id": "21603440-9eb4-480a-8889-4f5df2351659",
+        "text": "Hello,\nJe bosse sur la refonte du site de ma nouvelle boîte. Au niveau Analytics, l’équipe est partie sur GA4. Dans ma précédente boîte, on avait choisi Matomo car GA était en disgrâce au niveau de la CNIL (plusieurs entreprises dont mon actionnaire s’étaient prises une mise en demeure pour usage de GA). Depuis Google s’est mis en conformité mais je me demande si la confiance dans GA n’a pas été ébranlée. Des avis sur le sujet?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "266d9356f19e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-07\/10243863201635_266d9356f19e63bc9267_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu BONENFANT (SecLab)",
+            "display_name": "Matthieu BONENFANT (SecLab)",
+            "team": "T017AGS2KE0",
+            "name": "matthieu.bonenfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770421422.786249",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1770719925.177399",
+        "reply_users": [
+            "U09JE6QUZDZ",
+            "U08SA22HS0J"
+        ],
+        "replies": [
+            {
+                "user": "U09JE6QUZDZ",
+                "ts": "1770677292.384309"
+            },
+            {
+                "user": "U08SA22HS0J",
+                "ts": "1770717210.352429"
+            },
+            {
+                "user": "U09JE6QUZDZ",
+                "ts": "1770719925.177399"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kNbmJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello,\nJe bosse sur la refonte du site de ma nouvelle boîte. Au niveau Analytics, l’équipe est partie sur GA4. Dans ma précédente boîte, on avait choisi Matomo car GA était en disgrâce au niveau de la CNIL (plusieurs entreprises dont mon actionnaire s’étaient prises une mise en demeure pour usage de GA). Depuis Google s’est mis en conformité mais je me demande si la confiance dans GA n’a pas été ébranlée. Des avis sur le sujet?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

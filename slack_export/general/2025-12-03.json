@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U03CY07UZJM",
+        "type": "message",
+        "ts": "1764798388.180669",
+        "client_msg_id": "23c995f1-9755-4980-92e6-87a741fb4948",
+        "text": "chaud pour le replay !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "cf1b09b1a910",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-02\/6894190939717_cf1b09b1a910eb11be75_72.jpg",
+            "first_name": "Patrice",
+            "real_name": "Patrice Barbesier",
+            "display_name": "Patrice Barbesier",
+            "team": "T017AGS2KE0",
+            "name": "patrice.barbesier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764575278.299119",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eWc2u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "chaud pour le replay !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

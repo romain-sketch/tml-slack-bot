@@ -1,0 +1,1110 @@
+[
+    {
+        "user": "U042GV737MX",
+        "type": "message",
+        "ts": "1737537863.006849",
+        "client_msg_id": "1c1ae8ae-2f9f-4a28-98e4-328e30a09a3f",
+        "text": "Bonjour, est-ce que vous auriez des reco de freelance \/ agence pour faire des super Newsletters (super plume :slightly_smiling_face: ) ?\nMerci",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "477225f2b12e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4077716786404_477225f2b12eccc47dc4_72.png",
+            "first_name": "Claire",
+            "real_name": "Claire Chauvallon",
+            "display_name": "Claire Chauvallon",
+            "team": "T017AGS2KE0",
+            "name": "chauvallon.claire",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737537863.006849",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1737555657.267239",
+        "reply_users": [
+            "U02N2EVMFCG",
+            "U084LQF8023"
+        ],
+        "replies": [
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1737541573.190129"
+            },
+            {
+                "user": "U084LQF8023",
+                "ts": "1737555657.267239"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d0N2r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour, est-ce que vous auriez des reco de freelance \/ agence pour faire des super Newsletters (super plume "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ) ?\nMerci"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U084LQF8023"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1737541573.190129",
+        "client_msg_id": "F4EC0A88-E08F-4558-B635-F448C91175B8",
+        "text": "<https:\/\/www.linkedin.com\/in\/marwann?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=ios_app|Marwann> Al Saadi il est top, dis moi si tu veux une intro :-) (je devrai lui demander avant s’il est dispo)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737537863.006849",
+        "parent_user_id": "U042GV737MX",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/marwann?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/marwann?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=ios_app",
+                "fallback": "Marwann AL SAADI - Superdocu | LinkedIn",
+                "text": "Co-founder of Superdocu (collecting &amp; updating documents and information for our clients)… · Experience: Superdocu · Education: Institut d&amp;#39;Economie scientifique et de Gestion · Location: Greater Paris Metropolitan Region · 500+ connections on LinkedIn. View Marwann AL SAADI’s profile on LinkedIn, a professional community of 1 billion members.",
+                "title": "Marwann AL SAADI - Superdocu | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/marwann?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/nnql",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/marwann?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+                                "text": "Marwann"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Al Saadi il est top, dis moi si tu veux une intro :-) "
+                            },
+                            {
+                                "type": "text",
+                                "text": "(je devrai lui demander avant "
+                            },
+                            {
+                                "type": "text",
+                                "text": "s’il"
+                            },
+                            {
+                                "type": "text",
+                                "text": " est dispo)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06U1GG592M",
+        "type": "message",
+        "ts": "1737553222.075979",
+        "edited": {
+            "user": "U06U1GG592M",
+            "ts": "1737553229.000000"
+        },
+        "client_msg_id": "65a11a59-5a79-417d-a831-f7cd6a17bdf2",
+        "text": "<@U063A8VPPG9> FYI concernant Rocketvid pas bon du tout sur la gestion projet, notamment aux US",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "84a1e781f35c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-31\/7202740482978_84a1e781f35c228ca958_72.jpg",
+            "first_name": "Carolane",
+            "real_name": "Carolane Guyon",
+            "display_name": "Carolane (Veesion)",
+            "team": "T017AGS2KE0",
+            "name": "c.guyon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736151278.825749",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RUaVn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U063A8VPPG9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " FYI concernant Rocketvid pas bon du tout sur la gestion projet, notamment aux US"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U059T4KRCUC",
+        "type": "message",
+        "ts": "1737554096.182389",
+        "client_msg_id": "425a9a23-bad0-4aa5-a653-798e37873d5b",
+        "text": "Ils sont solides, même si la phase stratégique prend plus de temps que prévu (c'est toujours compliqué, malgré la phase d'immersion, de se mettre dans la tête des fondateurs d'une boîte !). Mais très bonne collaboration dans l'ensemble et des workshops de qualité. Je trouve que dans la phase d'immersion, ils auraient pu aller davantage vers les utilisateurs (ils n'ont pas conduit d'interviews, se sont \"juste\" basés sur les feedbacks des utilisateurs, les avis, et ont regardé nos interviews produit). Je reste confiante pour la suite. Apres c'est Koto, ils sont chers mais bon l'idee est de construire une marque pour toujours donc...",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "57639ff481aa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-29\/5337202241186_57639ff481aa2740f127_72.png",
+            "first_name": "Isa",
+            "real_name": "Isa",
+            "display_name": "Isa",
+            "team": "T017AGS2KE0",
+            "name": "ilejeune",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715701925.558419",
+        "parent_user_id": "U059T4KRCUC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L9Vev",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ils sont solides, même si la phase stratégique prend plus de temps que prévu (c'est toujours compliqué, malgré la phase d'immersion, de se mettre dans la tête des fondateurs d'une boîte !). Mais très bonne collaboration dans l'ensemble et des workshops de qualité. Je trouve que dans la phase d'immersion, ils auraient pu aller davantage vers les utilisateurs (ils n'ont pas conduit d'interviews, se sont \"juste\" basés sur les feedbacks des utilisateurs, les avis, et ont regardé nos interviews produit). Je reste confiante pour la suite. Apres c'est Koto, ils sont chers mais bon l'idee est de construire une marque pour toujours donc..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U059T4KRCUC",
+        "type": "message",
+        "ts": "1737554111.632719",
+        "client_msg_id": "ae007675-0cd9-4beb-8b65-a331796f470c",
+        "text": "Bon courage a ta dispo pour discuter if needed",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "57639ff481aa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-29\/5337202241186_57639ff481aa2740f127_72.png",
+            "first_name": "Isa",
+            "real_name": "Isa",
+            "display_name": "Isa",
+            "team": "T017AGS2KE0",
+            "name": "ilejeune",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715701925.558419",
+        "parent_user_id": "U059T4KRCUC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SjZO2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bon courage a ta dispo pour discuter if needed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084LQF8023",
+        "type": "message",
+        "ts": "1737555657.267239",
+        "client_msg_id": "dc7bd45d-5db9-4fbd-a0b2-4170d5dc5465",
+        "text": "Je réccomande <https:\/\/www.linkedin.com\/in\/cyrille-de-lasteyrie-%F0%9F%8C%8D-180b306\/> il est pas mal. J'ai travaillé avec lui 2-3 fois",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a70a92c39694",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-01-20\/8306570351351_a70a92c3969457259db9_72.jpg",
+            "first_name": "Cosmina",
+            "real_name": "Cosmina Trifan",
+            "display_name": "Cosmina Trifan",
+            "team": "T017AGS2KE0",
+            "name": "cosmi.trifan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737537863.006849",
+        "parent_user_id": "U042GV737MX",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/cyrille-de-lasteyrie-%F0%9F%8C%8D-180b306\/",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "thumb_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/D4E03AQG5TtSOZ9blzg\/profile-displayphoto-shrink_200_200\/B4EZSNxwIPGcAY-\/0\/1737545417746?e=2147483647&v=beta&t=975Rt0ps4lXi8QgXG12bg4myL2dRW5ksrFA8VD5GQUw",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/cyrille-de-lasteyrie-%F0%9F%8C%8D-180b306\/",
+                "fallback": "Cyrille de Lasteyrie :earth_africa: - Globant | LinkedIn",
+                "text": "Ma mission est de transformer une entreprise, un individu, un produit, une marque, en une histoire qui percute. Auteur de métier, marketing-man de formation, entrepreneur par accident et finalement électron libre, je crois à la qualité des messages, au soin que l&amp;#39;on porte à son image, au sens des promesses qu&amp;#39;on diffuse, au respect des mécaniques humaines.\n\nQU’AI-JE CRÉÉ ?\n\n:arrow_right: en 2000, une Agence Conseil en Communication spécialisée Nouvelles Technologies, l’Agence Sidièse, aujourd’hui référence dans le domaine du développement durable.\n:arrow_right: en 2010, la société de production audiovisuelle StoryCircus qui produit, entre autres, Data Gueule.\n:arrow_right: une start-up américaine créée en 2007 à San Francisco, Seesmic, qui n’a pas été au bout. Mais cela reste la plus belle expérience professionnelle de ma vie.\n:arrow_right: en 2015, une société de conseil en storytelling et social selling B-to-B, Milliom, avec laquelle je développe mes activités aujourd’hui.\n:arrow_right: Quatre one-man-show en tant qu’auteur et interprète. “À mon cher moi” (2013\/2014), mis en scène par Michèle Laroque ; “Et il est où le bonheur, dtc !” (2015\/2017), “Bullshit Thérapie” (2018) et &amp;quot;Ça dégage !&amp;quot; (2024).\n:arrow_right: Un one-woman-show en tant que co-auteur : “Bio et Barge” de Stéphanie Jarroux (2018\/2022)\n:arrow_right: 5 ans de conférences en entreprises sur le thème de la quête de sens dans un monde digital.\n:arrow_right: Deux émissions de télévision, “Le Grand Webze” et “Le Vinvinteur” sur France 5.\n:arrow_right: Cinq interventions à TEDx Paris. TEDx Paris 2009 à la Cantine : talk sur les changements de vie. TEDx Paris 2010 à l’Espace Cardin : talk de clôture\/Wrap up. TEDx Paris 2012 à l’Olympia : talk de clôture\/Wrap up. TEDx Paris 2014 au Théâtre du Châtelet : talk sur la prise de risque. TEDx Paris 2024 au Grand Rex : talk de clôture\/Wrap up. \n\nInterventions en Entreprises et Collectivités\n\nEDF, LVMH, ADOBE, ABBVIE, ADEO, MINISTÈRE DES TRANSPORTS, CHANEL, ALLIANZ, ORANGE, SAP, ESSEC, PENTALOG, DÉCATHLON, OVH, ENGIE, ALFRESCO, ENEDIS, TOTAL, BRIGHTNESS, BMC SOFTWARE, INTECH, REFASHION, ISC…\n\nCOMMENT PUIS-JE VOUS AIDER ?\n\n:black_small_square:INTERVENTION SUR MESURE \/ CLOTURE DÉCALÉE DE VOS ÉVÉNEMENTS (séminaires, conférences, ateliers, team building...)\n:black_small_square:CONFÉRENCES B-to-B (&amp;quot;L&amp;#39;impact de la technologie sur l&amp;#39;humain&amp;quot; \/ &amp;quot;La Grosse Mise à Jour&amp;quot;)\n:black_small_square:CONCEPTION ET PRODUCTION DE CONTENU\n:black_small_square:ACCOMPAGNEMENT DES DIRIGEANTS (rédaction de contenu et prise de parole en public, IRL et en ligne)\n:black_small_square:CONSEIL et FORMATION EN PRISE DE PAROLE EN PUBLIC\n\nemail : <mailto:cdelasteyrie@gmail.com|cdelasteyrie@gmail.com> · Expérience : Globant · Formation : Ecole Supérieure de Commerce de Toulouse · Lieu : France · 500 relations ou plus sur LinkedIn. Consultez le profil de Cyrille de Lasteyrie :earth_africa: sur LinkedIn, une communauté professionnelle d’un milliard de membres.",
+                "title": "Cyrille de Lasteyrie :earth_africa: - Globant | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/cyrille-de-lasteyrie-%F0%9F%8C%8D-180b306\/",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u2xKN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je réccomande "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/cyrille-de-lasteyrie-%F0%9F%8C%8D-180b306\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " il est pas mal. J'ai travaillé avec lui 2-3 fois"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084LQF8023",
+        "type": "message",
+        "ts": "1737555820.431699",
+        "client_msg_id": "c4dd05db-330b-4b3b-b622-aaa513b07655",
+        "text": "Bonjour, est-ce que quelqu'un pourrait échanger avec moi sur la création et l'animation des communautés B2C ? Merci d'avance !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a70a92c39694",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-01-20\/8306570351351_a70a92c3969457259db9_72.jpg",
+            "first_name": "Cosmina",
+            "real_name": "Cosmina Trifan",
+            "display_name": "Cosmina Trifan",
+            "team": "T017AGS2KE0",
+            "name": "cosmi.trifan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737555820.431699",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1737624079.420339",
+        "reply_users": [
+            "U063Q1LA69W"
+        ],
+        "replies": [
+            {
+                "user": "U063Q1LA69W",
+                "ts": "1737624079.420339"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aArLs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour, est-ce que quelqu'un pourrait échanger avec moi sur la création et l'animation des communautés B2C ? Merci d'avance !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U056DAY3YD8",
+        "type": "message",
+        "ts": "1737559111.619879",
+        "client_msg_id": "9471a84f-0137-4ddf-8081-004f3daafb10",
+        "text": "Hello tout le monde !\n\nJe suis à la recherche d'expériences premium pour des incentives sur Paris dans le cadre d'un referral program :slightly_smiling_face:\nJ'ai pensé au classique Roland Garros mais c'est très vite très cher :sweat_smile:\n\nSi vous avez des exemples d'expériences premium pour une clientèle assez exigeante, je suis preneur !\n\nMerci :pray:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "1497d32a4908",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-16\/6043403579731_1497d32a4908ee3b80b5_72.png",
+            "first_name": "Alexis",
+            "real_name": "Alexis Chevallier",
+            "display_name": "Alexis Chevallier (Part-Time CMO)",
+            "team": "T017AGS2KE0",
+            "name": "alexchvllr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737559111.619879",
+        "reply_count": 11,
+        "reply_users_count": 8,
+        "latest_reply": "1738059061.431719",
+        "reply_users": [
+            "U01A4GMRRR9",
+            "U056DAY3YD8",
+            "U08300D2NJY",
+            "U06GYUPMCR5",
+            "U0859A8P14K",
+            "U084LQF8023",
+            "U065DFPCQMP",
+            "U067VEJFT5F"
+        ],
+        "replies": [
+            {
+                "user": "U01A4GMRRR9",
+                "ts": "1737559222.565469"
+            },
+            {
+                "user": "U056DAY3YD8",
+                "ts": "1737563645.285679"
+            },
+            {
+                "user": "U08300D2NJY",
+                "ts": "1737563801.093509"
+            },
+            {
+                "user": "U056DAY3YD8",
+                "ts": "1737563984.338419"
+            },
+            {
+                "user": "U06GYUPMCR5",
+                "ts": "1737564749.020349"
+            },
+            {
+                "user": "U056DAY3YD8",
+                "ts": "1737564843.305249"
+            },
+            {
+                "user": "U056DAY3YD8",
+                "ts": "1737564956.523159"
+            },
+            {
+                "user": "U0859A8P14K",
+                "ts": "1737582544.467389"
+            },
+            {
+                "user": "U084LQF8023",
+                "ts": "1737612223.498879"
+            },
+            {
+                "user": "U065DFPCQMP",
+                "ts": "1737648599.150969"
+            },
+            {
+                "user": "U067VEJFT5F",
+                "ts": "1738059061.431719"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rXD\/0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello tout le monde !\n\nJe suis à la recherche d'expériences premium pour des incentives sur Paris dans le cadre d'un referral program "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nJ'ai pensé au classique Roland Garros mais c'est très vite très cher "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nSi vous avez des exemples d'expériences premium pour une clientèle assez exigeante, je suis preneur !\n\nMerci "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1737559222.565469",
+        "client_msg_id": "204C717A-9F0B-4A92-86F1-2AFFB3742064",
+        "text": "Hi, j ai fait Rolland Garros plusieurs années. Y a différentes options \/ prix. Ça marche quand même pas mal …. Surtout que une cible C level \nOn a déjà fait aussi des loges en concert : fausse bonne idée . ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737559111.619879",
+        "parent_user_id": "U056DAY3YD8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O0Q9I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi, j ai fait Rolland Garros plusieurs années"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Y a différentes options \/ prix. Ça marche quand même pas mal "
+                            },
+                            {
+                                "type": "text",
+                                "text": "…"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Surtout que une cible C level \nOn a déjà fait aussi des loges en concert : fausse bonne idée . "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U056DAY3YD8"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U06GYUPMCR5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U056DAY3YD8",
+        "type": "message",
+        "ts": "1737563645.285679",
+        "client_msg_id": "e7db39ee-6cbf-4df6-a8d7-59d7a3393c25",
+        "text": "Thx <@U01A4GMRRR9> :pray:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "1497d32a4908",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-16\/6043403579731_1497d32a4908ee3b80b5_72.png",
+            "first_name": "Alexis",
+            "real_name": "Alexis Chevallier",
+            "display_name": "Alexis Chevallier (Part-Time CMO)",
+            "team": "T017AGS2KE0",
+            "name": "alexchvllr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737559111.619879",
+        "parent_user_id": "U056DAY3YD8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "goFKR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thx "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01A4GMRRR9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08300D2NJY",
+        "type": "message",
+        "ts": "1737563801.093509",
+        "client_msg_id": "18d7e58e-5a27-4df3-87d4-43314b0ec935",
+        "text": "hello, si ta cible est adaptée une loge au Paris Basket c'est très sympa et encore pas trop cher",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "06ec2fecf14f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-29\/8102732354515_06ec2fecf14fc6511a05_72.jpg",
+            "first_name": "Keyvan",
+            "real_name": "Keyvan",
+            "display_name": "Keyvan",
+            "team": "T017AGS2KE0",
+            "name": "keyvan.hamidzadeh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737559111.619879",
+        "parent_user_id": "U056DAY3YD8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fme+a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello, si ta cible est adaptée une loge au Paris Basket c'est très sympa et encore pas trop cher"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U056DAY3YD8"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U084LQF8023"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U056DAY3YD8",
+        "type": "message",
+        "ts": "1737563984.338419",
+        "client_msg_id": "d8d4c369-1907-4049-912b-0af4d4059bfa",
+        "text": "Good idea <@U08300D2NJY>!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "1497d32a4908",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-16\/6043403579731_1497d32a4908ee3b80b5_72.png",
+            "first_name": "Alexis",
+            "real_name": "Alexis Chevallier",
+            "display_name": "Alexis Chevallier (Part-Time CMO)",
+            "team": "T017AGS2KE0",
+            "name": "alexchvllr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737559111.619879",
+        "parent_user_id": "U056DAY3YD8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "viGeH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good idea "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08300D2NJY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06GYUPMCR5",
+        "type": "message",
+        "ts": "1737564749.020349",
+        "client_msg_id": "f83ddfee-cbf4-4dd3-9556-05bc383e5ae3",
+        "text": "Une table à <https:\/\/paris.tastefestivals.com\/|Taste of Paris> ça fonctionne bien et accessible uniquement pour les business",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7605196cd68d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-31\/7196035108950_7605196cd68d96ff55b6_72.png",
+            "first_name": "Céline",
+            "real_name": "Céline COROUGE",
+            "display_name": "Céline COROUGE",
+            "team": "T017AGS2KE0",
+            "name": "cecorouge",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737559111.619879",
+        "parent_user_id": "U056DAY3YD8",
+        "attachments": [
+            {
+                "from_url": "https:\/\/paris.tastefestivals.com\/",
+                "service_icon": "https:\/\/paris.tastefestivals.com\/icons\/icon-48x48.png?v=ffd8e51fe34aba22fae5bea4d3a48a55",
+                "thumb_url": "https:\/\/paris.tastefestivals.com\/paris-taste-festival-grand-palais-1200x630.png",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "id": 1,
+                "original_url": "https:\/\/paris.tastefestivals.com\/",
+                "fallback": "Taste of Paris: Au Grand Palais du 8 au 11 Mai 2025",
+                "text": "Chaque année, le Grand Palais se transforme en temple de la gastronomie pour 4 jours de dégustations avec les chefs et de rencontre avec les producteurs.",
+                "title": "Taste of Paris: Au Grand Palais du 8 au 11 Mai 2025",
+                "title_link": "https:\/\/paris.tastefestivals.com\/",
+                "service_name": "paris.tastefestivals.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LAiX+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Une table à "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/paris.tastefestivals.com\/",
+                                "text": "Taste of Paris"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ça fonctionne bien et accessible uniquement pour les business"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U056DAY3YD8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U056DAY3YD8",
+        "type": "message",
+        "ts": "1737564843.305249",
+        "client_msg_id": "01d9c633-0f5c-4ede-a366-e7876559d4fd",
+        "text": "Très bonne idée aussi !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "1497d32a4908",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-16\/6043403579731_1497d32a4908ee3b80b5_72.png",
+            "first_name": "Alexis",
+            "real_name": "Alexis Chevallier",
+            "display_name": "Alexis Chevallier (Part-Time CMO)",
+            "team": "T017AGS2KE0",
+            "name": "alexchvllr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737559111.619879",
+        "parent_user_id": "U056DAY3YD8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KRDge",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Très bonne idée aussi !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U056DAY3YD8",
+        "type": "message",
+        "ts": "1737564956.523159",
+        "client_msg_id": "c28c7ef7-8ca6-4aae-b394-b1898c61bb85",
+        "text": "Je me suis noté également des visites privées de monuments\/musées",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "1497d32a4908",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-16\/6043403579731_1497d32a4908ee3b80b5_72.png",
+            "first_name": "Alexis",
+            "real_name": "Alexis Chevallier",
+            "display_name": "Alexis Chevallier (Part-Time CMO)",
+            "team": "T017AGS2KE0",
+            "name": "alexchvllr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737559111.619879",
+        "parent_user_id": "U056DAY3YD8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SvnRk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je me suis noté également des visites privées de monuments\/musées"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0859A8P14K",
+        "type": "message",
+        "ts": "1737582544.467389",
+        "edited": {
+            "user": "U0859A8P14K",
+            "ts": "1737582640.000000"
+        },
+        "client_msg_id": "4B4784B3-D041-4990-9D75-9A3CDBD024F9",
+        "text": "Autre ambiance et plutôt fin d’année mais on avait fait ça chez SAP et ça avait bcp plu : Cirque du Soleil, avec apéritif et accès aux loges \/ artistes avant le show !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "de9373c86530",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8178910826725_de9373c86530dc48c9e8_72.png",
+            "first_name": "Alexandra",
+            "real_name": "Alexandra Lougovoy",
+            "display_name": "Alexandra Lougovoy (Eudonet)",
+            "team": "T017AGS2KE0",
+            "name": "a.lougovoy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737559111.619879",
+        "parent_user_id": "U056DAY3YD8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T2zel",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Autre ambiance et plutôt fin d’année mais on avait fait ça chez SAP et ça avait bcp plu : Cirque du Soleil, avec apéritif et accès aux loges \/ artistes avant le show !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U056DAY3YD8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U084LQF8023",
+        "type": "message",
+        "ts": "1737612223.498879",
+        "client_msg_id": "cf698a11-bdaf-4f7d-89e5-6e9dd164b2ec",
+        "text": "• Chief Wine officer -&gt; <https:\/\/www.linkedin.com\/company\/chief-wine-officer\/posts\/?feedView=all> \n(j’avais testé en UK, vraiment pas mal)\n• Experience egaming avec <https:\/\/espot.fr\/> (2000m2 vis a vis de Louvre) \n• vivatech avait fait l’année dernière une soirée intéressante au centre Pompidou  <https:\/\/www.ircam.fr\/>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a70a92c39694",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-01-20\/8306570351351_a70a92c3969457259db9_72.jpg",
+            "first_name": "Cosmina",
+            "real_name": "Cosmina Trifan",
+            "display_name": "Cosmina Trifan",
+            "team": "T017AGS2KE0",
+            "name": "cosmi.trifan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737559111.619879",
+        "parent_user_id": "U056DAY3YD8",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/company\/chief-wine-officer\/posts\/?feedView=all",
+                "service_icon": "https:\/\/static.licdn.com\/sc\/h\/1exdo4axa6eaw1jioxh1vu4fj",
+                "thumb_url": "https:\/\/static.licdn.com\/scds\/common\/u\/images\/logos\/favicons\/v1\/favicon.ico",
+                "thumb_width": 16,
+                "thumb_height": 16,
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/company\/chief-wine-officer\/posts\/?feedView=all",
+                "fallback": "LinkedIn: LinkedIn Login, Sign in | LinkedIn",
+                "text": "Login to LinkedIn to keep in touch with people you know, share ideas, and build your career.",
+                "title": "LinkedIn Login, Sign in | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/company\/chief-wine-officer\/posts\/?feedView=all",
+                "service_name": "LinkedIn"
+            },
+            {
+                "image_url": "https:\/\/espot.fr\/wp-content\/uploads\/2020\/12\/espot-logo-hq.png",
+                "image_width": 654,
+                "image_height": 327,
+                "image_bytes": 12400,
+                "from_url": "https:\/\/espot.fr\/",
+                "service_icon": "https:\/\/espot.fr\/wp-content\/uploads\/2021\/05\/cropped-favicon-180x180.png",
+                "id": 2,
+                "original_url": "https:\/\/espot.fr\/",
+                "fallback": "ESpot Paris: Espot Paris - Premier lieu de Gaming et Esport à Paris",
+                "text": "1er lieu esport et jeu vidéo en France ! 2000m² avec 120+ PCs, 50+ consoles, Alpine sim racing, VIP, arène 150 places et 2 bars. Cybercafé, compétitions, teambuilding, anniversaires, évènements, captations en face du Louvre !",
+                "title": "Espot Paris - Premier lieu de Gaming et Esport à Paris",
+                "title_link": "https:\/\/espot.fr\/",
+                "service_name": "ESpot Paris"
+            },
+            {
+                "image_url": "https:\/\/www.ircam.fr\/static\/src\/assets\/img\/ircam_card_facebook.jpg",
+                "image_width": 500,
+                "image_height": 263,
+                "image_bytes": 144029,
+                "from_url": "https:\/\/www.ircam.fr\/",
+                "service_icon": "https:\/\/www.ircam.fr\/static\/\/img\/favicons\/apple-touch-icon.png",
+                "id": 3,
+                "original_url": "https:\/\/www.ircam.fr\/",
+                "fallback": "Ircam",
+                "text": "Institut de Recherche et de Coordination Acoustique et Musique",
+                "title": "Ircam",
+                "title_link": "https:\/\/www.ircam.fr\/",
+                "service_name": "ircam.fr"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U6z9E",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Chief Wine officer -> "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.linkedin.com\/company\/chief-wine-officer\/posts\/?feedView=all"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(j’avais testé en UK, vraiment pas mal)\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Experience egaming avec "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/espot.fr\/"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " (2000m2 vis a vis de Louvre) "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "vivatech avait fait l’année dernière une soirée intéressante au centre Pompidou  "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.ircam.fr\/"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U056DAY3YD8"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

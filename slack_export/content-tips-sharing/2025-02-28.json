@@ -1,0 +1,59 @@
+[
+    {
+        "user": "U07LN85V6TG",
+        "type": "message",
+        "ts": "1740742989.003369",
+        "client_msg_id": "8E75D1F1-C545-4100-81CC-ABD48D1190F7",
+        "text": "Leadership \/ management tu as Ludovic Girodon qui est bien, je ne connais pas ces tarifs actuellement ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "32409790ca44",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-11\/7707593936998_32409790ca44083a383f_72.png",
+            "first_name": "Leslie",
+            "real_name": "Leslie Tedgui",
+            "display_name": "Leslie Tedgui (CoachHub)",
+            "team": "T017AGS2KE0",
+            "name": "leslie.tedgui110",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740643676.290339",
+        "parent_user_id": "U086LFGGVUG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S2nbH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Leadership \/ management tu as "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Ludovic"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Girodon qui est bien, je ne connais pas ces tarifs actuellement "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U086LFGGVUG"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

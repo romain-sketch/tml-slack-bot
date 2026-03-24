@@ -1,0 +1,56 @@
+[
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1770970635.494869",
+        "client_msg_id": "50dbad0d-cbc4-43d5-b025-d6296f437866",
+        "text": "<@U03P99RGMTN> pour les prez je teste pas mal de trucs en ce moment et c’est vrai que c’est galère…\nPour changer simplement un logo tu peux donner ta prez à Claude, lui donner ton logo en jpg et lui demander de le mettre et normalement c’est ok il s’en occupe",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770910194.911679",
+        "parent_user_id": "U059T4KRCUC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Ms5Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P99RGMTN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour les prez je teste pas mal de trucs en ce moment et c’est vrai que c’est galère…\nPour changer simplement un logo tu peux donner ta prez à Claude, lui donner ton logo en jpg et lui demander de le mettre et normalement c’est ok il s’en occupe"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart_hands",
+                "users": [
+                    "U03P99RGMTN",
+                    "U059T4KRCUC"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

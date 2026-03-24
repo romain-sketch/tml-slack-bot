@@ -1,0 +1,64 @@
+[
+    {
+        "user": "U06MLNEGNKB",
+        "type": "message",
+        "ts": "1736323162.975659",
+        "client_msg_id": "245ebece-2285-434a-b297-ab35c8cbf9ac",
+        "text": "Bonjour à tous, <https:\/\/www.linkedin.com\/in\/dutrieux\/|Fabien Dutrieux> m'a demandé à rejoindre TML. Je l'avais croisé lorsqu'il travaillait chez Critizr. Aujourd'hui, il est Directeur Marketing B2B et Communication Corporate de Bonial. Des avis ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9484de19a0b4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-25\/7476258473346_9484de19a0b48472edf8_72.jpg",
+            "first_name": "Priscilla",
+            "real_name": "Priscilla (Memo Bank)",
+            "display_name": "Priscilla (Memo Bank)",
+            "team": "T017AGS2KE0",
+            "name": "priscilla.cavrois",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736323162.975659",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1736349589.323939",
+        "reply_users": [
+            "U017H09S857"
+        ],
+        "replies": [
+            {
+                "user": "U017H09S857",
+                "ts": "1736349589.323939"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HZFAO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour à tous, "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/dutrieux\/",
+                                "text": "Fabien Dutrieux"
+                            },
+                            {
+                                "type": "text",
+                                "text": " m'a demandé à rejoindre TML. Je l'avais croisé lorsqu'il travaillait chez Critizr. Aujourd'hui, il est Directeur Marketing B2B et Communication Corporate de Bonial. Des avis ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

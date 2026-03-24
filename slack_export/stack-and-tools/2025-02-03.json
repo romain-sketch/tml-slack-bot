@@ -1,0 +1,69 @@
+[
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1738581200.088179",
+        "client_msg_id": "a5eb5d5a-37ef-41c4-ac17-c7181a441e85",
+        "text": "Update Octant: il a fait faillite et on a payé 6000€ pour une liste de contacts peu qualifiés qui sera inutilisable. Si jamais ça aide des marketers en train d'explore le nearbound (c'est bien ça le nearbound? Je m'y perds :exploding_head:) =&gt; Je ne recommande pas l'approche name dropping: le name dropping est vu comme un bénéfice très très faible par nos sales, 0 buy in de leur part sur la stratégie dès le départ.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714382454.809479",
+        "parent_user_id": "U017U9VCLV6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xBtnB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Update Octant: il a fait faillite et on a payé 6000€ pour une liste de contacts peu qualifiés qui sera inutilisable. Si jamais ça aide des marketers en train d'explore le nearbound (c'est bien ça le nearbound? Je m'y perds "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "shocked_face_with_exploding_head",
+                                "unicode": "1f92f"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") => Je ne recommande pas l'approche name dropping: le name dropping est vu comme un bénéfice très très faible par nos sales, 0 buy in de leur part sur la stratégie dès le départ."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "cold_face",
+                "users": [
+                    "U0183AS3MB6",
+                    "U02N2EVMFCG",
+                    "U06CZESF7QF"
+                ],
+                "count": 3
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U04A6JMRWCS"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

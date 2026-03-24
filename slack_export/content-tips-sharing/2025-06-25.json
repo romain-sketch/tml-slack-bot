@@ -1,0 +1,173 @@
+[
+    {
+        "user": "U067VEJFT5F",
+        "type": "message",
+        "ts": "1750842680.357429",
+        "client_msg_id": "345ab6c7-ed8c-40a6-a59c-58ff30e04b14",
+        "text": "Sinon tu peux regarder les services de Favikon en la matière ? <https:\/\/www.favikon.com\/fr>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9fcbd8d4bd09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-05\/6296382564371_9fcbd8d4bd095d25ab4c_72.jpg",
+            "first_name": "Amandine",
+            "real_name": "Amandine Moreau",
+            "display_name": "Amandine Moreau",
+            "team": "T017AGS2KE0",
+            "name": "a.gremont.pro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750778354.248349",
+        "parent_user_id": "U020QK16RMJ",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.favikon.com\/fr",
+                "image_url": "https:\/\/cdn.prod.website-files.com\/5fdb2fcb29d84dc42a52f445\/667ad0d4a0a8f6683840040d_Capture%20d%E2%80%99e%CC%81cran%202024-06-25%20a%CC%80%2016.13.47.png",
+                "image_width": 2746,
+                "image_height": 1590,
+                "image_bytes": 2983444,
+                "id": 1,
+                "original_url": "https:\/\/www.favikon.com\/fr",
+                "fallback": "Favikon | Plateforme de marketing d’influence alimentée par l’IA",
+                "text": "Favikon est une plateforme de marketing d'influence alimentée par l'IA. Découvrez et analysez les influenceurs de tous les créneaux et de tous les secteurs pour augmenter votre retour sur investissement dans les campagnes de marketing d'influence.",
+                "title": "Favikon | Plateforme de marketing d’influence alimentée par l’IA",
+                "title_link": "https:\/\/www.favikon.com\/fr",
+                "service_name": "favikon.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c2\/Gl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sinon tu peux regarder les services de Favikon en la matière ? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.favikon.com\/fr"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U020QK16RMJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06MLNEGNKB",
+        "type": "message",
+        "ts": "1750860464.506349",
+        "client_msg_id": "c9a396fc-a390-455e-8382-643983587248",
+        "text": "<@U020QK16RMJ> je peux te mettre en relation avec le CMO de <https:\/\/www.veracash.com\/fr\/|Veracash> (compte adossé à de l'or), ils ont fait quelques opérations avec des influenceurs en finance perso",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9484de19a0b4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-25\/7476258473346_9484de19a0b48472edf8_72.jpg",
+            "first_name": "Priscilla",
+            "real_name": "Priscilla (Memo Bank)",
+            "display_name": "Priscilla (Memo Bank)",
+            "team": "T017AGS2KE0",
+            "name": "priscilla.cavrois",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750778354.248349",
+        "parent_user_id": "U020QK16RMJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GWkH3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U020QK16RMJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je peux te mettre en relation avec le CMO de "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.veracash.com\/fr\/",
+                                "text": "Veracash"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (compte adossé à de l'or), ils ont fait quelques opérations avec des influenceurs en finance perso"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U020QK16RMJ",
+        "type": "message",
+        "ts": "1750867292.358359",
+        "client_msg_id": "c6d65613-9140-4d5e-9881-2623601b9841",
+        "text": "<@U06MLNEGNKB> top, je prends :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "56d8a678e801",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-18\/7292097443269_56d8a678e801350db84a_72.png",
+            "first_name": "Joël",
+            "real_name": "Joël Gaudeul",
+            "display_name": "Joël (Swan)",
+            "team": "T017AGS2KE0",
+            "name": "joel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750778354.248349",
+        "parent_user_id": "U020QK16RMJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nHrVE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06MLNEGNKB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " top, je prends "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

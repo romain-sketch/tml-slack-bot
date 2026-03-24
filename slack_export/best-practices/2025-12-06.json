@@ -1,0 +1,99 @@
+[
+    {
+        "user": "U09BVQYR1GA",
+        "type": "message",
+        "ts": "1765092288.767539",
+        "client_msg_id": "ac1c059a-d8d3-4b58-92a7-20803d9da84e",
+        "text": "c'est ce que je fais (ABM, enterprise marketing...) mais je ne suis pas dispo jusqu'à d'ici 2 semaines.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0ee28ebc77d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-09-09\/9480262349955_0ee28ebc77d7f64eb0e1_72.png",
+            "first_name": "Tania",
+            "real_name": "Tania",
+            "display_name": "Tania",
+            "team": "T017AGS2KE0",
+            "name": "tsaezgrowth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764844309.404179",
+        "parent_user_id": "U03CY07UZJM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GExSZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "c'est ce que je fais (ABM, enterprise marketing...) mais je ne suis pas dispo jusqu'à d'ici 2 semaines."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U09BVQYR1GA",
+        "type": "message",
+        "ts": "1765092607.358189",
+        "client_msg_id": "d6ae03e3-20c3-4293-bad9-8f9759900c48",
+        "text": "super thread ! wow. mon cas c'est un peut moins util <@U084KTR7YKX> car je suis dans l'entreprise. Dans de segment entreprise vu qu'il y avait peu d'acteurs\/influencers (très niche ex.ABM, compliance sur des trucs tre`s niche...) j'avais adopté le modèle qu'on m'avait recomamandé que quelques entreprises comme Navattic faisait aux états-unis que c'est d'ailleurs ce que j'avais fait avec NRich. Voici le modèle : X contenu par trimestre, collaboration dans la créa de contenu et quelques heures advisory où les experts partagent du feedback produit\/réseau\/call clients...",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0ee28ebc77d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-09-09\/9480262349955_0ee28ebc77d7f64eb0e1_72.png",
+            "first_name": "Tania",
+            "real_name": "Tania",
+            "display_name": "Tania",
+            "team": "T017AGS2KE0",
+            "name": "tsaezgrowth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764861822.567659",
+        "parent_user_id": "U084KTR7YKX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HlSQk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "super thread ! wow. mon cas c'est un peut moins util "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U084KTR7YKX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " car je suis dans l'entreprise. Dans de segment entreprise vu qu'il y avait peu d'acteurs\/influencers (très niche ex.ABM, compliance sur des trucs tre`s niche...) j'avais adopté le modèle qu'on m'avait recomamandé que quelques entreprises comme Navattic faisait aux états-unis que c'est d'ailleurs ce que j'avais fait avec NRich. Voici le modèle : X contenu par trimestre, collaboration dans la créa de contenu et quelques heures advisory où les experts partagent du feedback produit\/réseau\/call clients..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U084KTR7YKX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

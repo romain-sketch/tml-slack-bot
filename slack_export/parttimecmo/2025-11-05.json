@@ -1,0 +1,486 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U0182J18ULQ",
+        "text": "<@U0182J18ULQ> has joined the channel",
+        "type": "message",
+        "ts": "1762359193.285329"
+    },
+    {
+        "user": "U0182J18ULQ",
+        "type": "message",
+        "ts": "1762359261.784389",
+        "client_msg_id": "59025CE9-D2E1-4CDD-ABD1-3341BCCEA5EE",
+        "text": "Hello les Part Time CMOs\nEst-ce que l’un d’entre vous utilise Shine en Compte Pro pour son activité de conseil ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "dfa7b4a4cf8b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-12\/5250900759925_dfa7b4a4cf8b424f822c_72.png",
+            "first_name": "Jean-Baptiste",
+            "real_name": "Jean-Baptiste Sciandra",
+            "display_name": "Jean-Baptiste Sciandra",
+            "team": "T017AGS2KE0",
+            "name": "jb.sciandra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762359261.784389",
+        "reply_count": 17,
+        "reply_users_count": 8,
+        "latest_reply": "1762516299.156449",
+        "reply_users": [
+            "U03CY07UZJM",
+            "U084KTR7YKX",
+            "U0182J18ULQ",
+            "U02N2EVMFCG",
+            "U0946E8A2US",
+            "U063A8VPPG9",
+            "U065DFPCQMP",
+            "U020QK16RMJ"
+        ],
+        "replies": [
+            {
+                "user": "U03CY07UZJM",
+                "ts": "1762359868.050039"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1762361569.155579"
+            },
+            {
+                "user": "U0182J18ULQ",
+                "ts": "1762361641.814359"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1762362400.540329"
+            },
+            {
+                "user": "U0946E8A2US",
+                "ts": "1762366058.648189"
+            },
+            {
+                "user": "U0182J18ULQ",
+                "ts": "1762376358.676019"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1762417720.977219"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1762438301.421829"
+            },
+            {
+                "user": "U065DFPCQMP",
+                "ts": "1762440631.661349"
+            },
+            {
+                "user": "U0182J18ULQ",
+                "ts": "1762441100.143769"
+            },
+            {
+                "user": "U065DFPCQMP",
+                "ts": "1762441316.619649"
+            },
+            {
+                "user": "U0946E8A2US",
+                "ts": "1762441543.646219"
+            },
+            {
+                "user": "U0182J18ULQ",
+                "ts": "1762442023.084959"
+            },
+            {
+                "user": "U0182J18ULQ",
+                "ts": "1762442063.690119"
+            },
+            {
+                "user": "U065DFPCQMP",
+                "ts": "1762442288.277399"
+            },
+            {
+                "user": "U020QK16RMJ",
+                "ts": "1762516289.015309"
+            },
+            {
+                "user": "U020QK16RMJ",
+                "ts": "1762516299.156449"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZI4X4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello les Part Time CMOs\nEst-ce que l’un d’entre vous utilise Shine en Compte Pro pour son activité de conseil ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "x",
+                "users": [
+                    "U08M0JP81DK",
+                    "U04L04T475K",
+                    "U01A4GMRRR9",
+                    "U063A8VPPG9",
+                    "U04HP95GK55",
+                    "U0946E8A2US",
+                    "U065DFPCQMP",
+                    "U06E3PY5LAY"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "user": "U03CY07UZJM",
+        "type": "message",
+        "ts": "1762359868.050039",
+        "client_msg_id": "03371b37-33a4-4b6d-820c-4a3a0841379a",
+        "text": "yep",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "cf1b09b1a910",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-02\/6894190939717_cf1b09b1a910eb11be75_72.jpg",
+            "first_name": "Patrice",
+            "real_name": "Patrice Barbesier",
+            "display_name": "Patrice Barbesier",
+            "team": "T017AGS2KE0",
+            "name": "patrice.barbesier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762359261.784389",
+        "parent_user_id": "U0182J18ULQ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HC6zQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yep"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1762361569.155579",
+        "edited": {
+            "user": "U084KTR7YKX",
+            "ts": "1762361595.000000"
+        },
+        "client_msg_id": "d10ed69a-49e9-49b1-adf0-6576d71e112a",
+        "text": "j'ai pris Qonto sorry :slightly_smiling_face: (un peu biaisée)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762359261.784389",
+        "parent_user_id": "U0182J18ULQ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ETjNF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "j'ai pris Qonto sorry "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (un peu biaisée)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U0182J18ULQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0182J18ULQ",
+        "type": "message",
+        "ts": "1762361641.814359",
+        "client_msg_id": "632518b4-5337-4b11-8b7a-82908f059522",
+        "text": "quelle idée Gwenn",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "dfa7b4a4cf8b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-12\/5250900759925_dfa7b4a4cf8b424f822c_72.png",
+            "first_name": "Jean-Baptiste",
+            "real_name": "Jean-Baptiste Sciandra",
+            "display_name": "Jean-Baptiste Sciandra",
+            "team": "T017AGS2KE0",
+            "name": "jb.sciandra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762359261.784389",
+        "parent_user_id": "U0182J18ULQ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KnS0Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "quelle idée Gwenn"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U0183AS3MB6",
+                    "U084KTR7YKX"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1762362400.540329",
+        "client_msg_id": "AE117B8E-E910-48EE-925D-BCE72ADBF4D6",
+        "text": "Yes moi",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762359261.784389",
+        "parent_user_id": "U0182J18ULQ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dODcT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes moi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0946E8A2US",
+        "type": "message",
+        "ts": "1762366058.648189",
+        "client_msg_id": "925744D1-C6AE-4A95-BD79-C25D04D790AD",
+        "text": "J'utilise mon compte perso tant que je suis encore auto entrepreneur",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "f73f6d38e4eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-07-23\/9238905089862_f73f6d38e4eb792c8c6a_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult",
+            "team": "T017AGS2KE0",
+            "name": "thibaut.davoult",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762359261.784389",
+        "parent_user_id": "U0182J18ULQ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H525H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'utilise mon compte perso "
+                            },
+                            {
+                                "type": "text",
+                                "text": "tant que je suis encore auto entrepreneur"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0182J18ULQ",
+        "type": "message",
+        "ts": "1762376358.676019",
+        "edited": {
+            "user": "U0182J18ULQ",
+            "ts": "1762376365.000000"
+        },
+        "client_msg_id": "eea12714-dbf5-49e1-84eb-0f5150d0bbee",
+        "text": "<@U0946E8A2US> tu peux ouvrir un compte gratuit chez shine (vraiment gratuit) si jamais tu veux séparer pro et perso (et anticiper l'ursaff)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "dfa7b4a4cf8b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-12\/5250900759925_dfa7b4a4cf8b424f822c_72.png",
+            "first_name": "Jean-Baptiste",
+            "real_name": "Jean-Baptiste Sciandra",
+            "display_name": "Jean-Baptiste Sciandra",
+            "team": "T017AGS2KE0",
+            "name": "jb.sciandra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762359261.784389",
+        "parent_user_id": "U0182J18ULQ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZJvgy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0946E8A2US"
+                            },
+                            {
+                                "type": "text",
+                                "text": " tu peux ouvrir un compte gratuit chez shine (vraiment gratuit) si jamais tu veux séparer pro et perso (et anticiper l'ursaff)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0946E8A2US",
+        "type": "message",
+        "ts": "1762410652.864519",
+        "client_msg_id": "DDE99E73-2F81-44C0-8CAC-17539A8F5174",
+        "text": "Top, merci pour la capture de l'article <@U02N2EVMFCG> :pray:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "f73f6d38e4eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-07-23\/9238905089862_f73f6d38e4eb792c8c6a_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult",
+            "team": "T017AGS2KE0",
+            "name": "thibaut.davoult",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762251598.826249",
+        "parent_user_id": "U02N2EVMFCG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+ZXnV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Top, merci pour la capture de l'article "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02N2EVMFCG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

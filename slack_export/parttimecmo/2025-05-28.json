@@ -1,0 +1,114 @@
+[
+    {
+        "user": "U04TU0UA2R1",
+        "type": "message",
+        "ts": "1748419091.674399",
+        "client_msg_id": "b940cd81-66d1-4afc-9bc3-61944888183a",
+        "text": "Viens chez <https:\/\/www.indy.fr\/|Indy> <@U067VEJFT5F> ! :see_no_evil:\n\nBonus : grâce à <@U020QK16RMJ> on a un super compte pro intégré à l'app :wink:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2349ebc07255",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-15\/4939175993079_2349ebc07255c4ecc3fc_72.jpg",
+            "first_name": "Adrien",
+            "real_name": "Adrien Le Roy",
+            "display_name": "Adrien Le Roy (Indy)",
+            "team": "T017AGS2KE0",
+            "name": "adrien.le.roy2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748281509.539319",
+        "parent_user_id": "U067VEJFT5F",
+        "attachments": [
+            {
+                "image_url": "https:\/\/www.indy.fr\/wp-content\/uploads\/img-indy-www.jpg",
+                "image_width": 1200,
+                "image_height": 623,
+                "image_bytes": 89699,
+                "from_url": "https:\/\/www.indy.fr\/",
+                "service_icon": "https:\/\/www.indy.fr\/wp-content\/themes\/hello-child\/favicon\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.indy.fr\/",
+                "fallback": "Indy: Indy : Comptabilité en ligne, compte pro et facturation",
+                "text": "Découvrez Indy, la solution comptable des indépendants. Sans saisie, Indy gère les déclarations et la comptabilité en ligne des EI, Sociétés et SCI.",
+                "title": "Indy : Comptabilité en ligne, compte pro et facturation",
+                "title_link": "https:\/\/www.indy.fr\/",
+                "service_name": "Indy"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xUdqz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Viens chez "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.indy.fr\/",
+                                "text": "Indy"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U067VEJFT5F"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "see_no_evil",
+                                "unicode": "1f648"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nBonus : grâce à "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U020QK16RMJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on a un super compte pro intégré à l'app "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U020QK16RMJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06UK9NGTB4",
+        "text": "<@U06UK9NGTB4> has joined the channel",
+        "type": "message",
+        "ts": "1748437107.158509"
+    }
+]

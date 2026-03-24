@@ -1,0 +1,194 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U0946E8A2US",
+        "text": "<@U0946E8A2US> has joined the channel",
+        "type": "message",
+        "ts": "1752046183.149739",
+        "team": "T017AGS2KE0"
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1752092450.577739",
+        "client_msg_id": "dbeb1bc7-37d1-4288-8b65-e9d0390b8539",
+        "text": "coucou :wave: Marion n'a pas été ajoutée je crois :slightly_smiling_face:\n&gt; <mailto:marionderobillard@gmail.com|marionderobillard@gmail.com>\nthks",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750230228.925419",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NJlGw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "coucou "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Marion n'a pas été ajoutée je crois "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:marionderobillard@gmail.com",
+                                "text": "marionderobillard@gmail.com"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1752096717.405619",
+        "client_msg_id": "083EAADA-0E0B-49E2-93D5-FD3B9B3CE0C1",
+        "text": "Ah merci je sais pas comment faire :joy: \n<@U017H09S857> tu peux nous aider stp? :)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750230228.925419",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DNiZV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah merci je sais pas comment faire "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U017H09S857"
+                            },
+                            {
+                                "type": "text",
+                                "text": " tu peux nous aider stp? :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1752130527.104939",
+        "client_msg_id": "36fba7e0-39c8-4115-aba4-8edd3ff93794",
+        "text": "Done!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750230228.925419",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8yD6z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Done!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U084KTR7YKX",
+                    "U063A8VPPG9"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

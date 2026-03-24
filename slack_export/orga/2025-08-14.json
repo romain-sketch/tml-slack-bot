@@ -1,0 +1,99 @@
+[
+    {
+        "user": "U017RAZCAGZ",
+        "type": "message",
+        "ts": "1755156697.859409",
+        "client_msg_id": "8AB9B4B1-5549-49D6-A8CB-C79F1C640965",
+        "text": "Chez iadvize je reportais à un CRO et nous étions tous les deux au Comex. Après je ne suis pas très fan des orgas ou le Marketing reporte à un profil Sales, mais ça c est un autre débat ! (Très contente de reporter directement à un DG maintenant) ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2e6e61c8f204",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-20\/1251040887619_2e6e61c8f20434050630_72.jpg",
+            "first_name": "Hélène",
+            "real_name": "Hélène Draoulec (Phenix)",
+            "display_name": "Hélène Draoulec (Phenix)",
+            "team": "T017AGS2KE0",
+            "name": "hdraoulec",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1755001302.841059",
+        "parent_user_id": "U07D08K3U0K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZeVBV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Chez iadvize je reportais à un CRO et nous étions tous les deux au Comex. Après je ne suis pas très fan des orgas ou le Marketing reporte à un profil Sales, mais ça c est un autre débat ! (Très contente de reporter directement à un DG maintenant) "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07D08K3U0K",
+        "type": "message",
+        "ts": "1755162063.747429",
+        "edited": {
+            "user": "U07D08K3U0K",
+            "ts": "1755162071.000000"
+        },
+        "client_msg_id": "0445779d-dcc4-4370-9c24-120c8fbf80ca",
+        "text": "Merci <@U017RAZCAGZ> Chez Phenix, tu gardes les équipes growth dans ton scope ? Et concrètement, comment fonctionne votre manière de travailler avec le CRO ? Je serais intéressée d’en savoir plus en MP, merci :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "ee04aae8ef81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-02\/7689117269088_ee04aae8ef81d255cd1f_72.png",
+            "first_name": "Tiphanie",
+            "real_name": "Tiphanie Meyer",
+            "display_name": "Tiphanie",
+            "team": "T017AGS2KE0",
+            "name": "tiphanie.meyer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1755001302.841059",
+        "parent_user_id": "U07D08K3U0K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yWZbD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U017RAZCAGZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Chez Phenix, tu gardes les équipes growth dans ton scope ? Et concrètement, comment fonctionne votre manière de travailler avec le CRO ? Je serais intéressée d’en savoir plus en MP, merci "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

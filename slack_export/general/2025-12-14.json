@@ -1,0 +1,60 @@
+[
+    {
+        "user": "U06TF9YAWEM",
+        "type": "message",
+        "ts": "1765718600.693679",
+        "client_msg_id": "6FD4356B-CC5F-410F-B474-EC8DB967F915",
+        "text": "Super initiative :clap: ! Inscrite ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "bd18243d01f9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-04-13\/8768953549904_bd18243d01f97fe02075_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Lhermitte",
+            "display_name": "Marie Lhermitte (Lucca)",
+            "team": "T017AGS2KE0",
+            "name": "marie.lhermitte78",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1765437418.765269",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nfrae",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Super initiative "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "clap",
+                                "unicode": "1f44f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ! Inscrite "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U017H09S857"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

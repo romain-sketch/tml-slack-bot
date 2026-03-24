@@ -1,0 +1,998 @@
+[
+    {
+        "user": "U0177A5V42F",
+        "type": "message",
+        "ts": "1749711857.172539",
+        "client_msg_id": "78a75d07-4163-4e81-b189-353460c4657b",
+        "text": "Hello à tous, le meeting commence :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ebca9b04129",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-17\/1245815650949_7ebca9b041296679a81d_72.jpg",
+            "first_name": "Guillaume",
+            "real_name": "Guillaume Laguette",
+            "display_name": "Guillaume Laguette (echOpen)",
+            "team": "T017AGS2KE0",
+            "name": "laguette.guillaume",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1747393482.895389",
+        "parent_user_id": "U0177A5V42F",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g5EA0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello à tous, le meeting commence "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U016QJZLRN3",
+        "type": "message",
+        "ts": "1749719720.417789",
+        "client_msg_id": "d4be6b1d-215d-4c26-a887-8cc40eec3930",
+        "text": "Hello,\nJe cherche à écrire une note sur le *ROI de la communication* et j’aimerais challenger mes réflexions. Est-ce que vous avez déjà été amené à calculer ce ROI ? Comment est-ce que vous vous y êtes pris ? C’est pas aussi simple que le marketing où tu peux calculer que 1€ investi = X€ gagné...\nMerci !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "8f96b26362da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-09\/4613327625731_8f96b26362dac7316985_72.jpg",
+            "first_name": "Célia",
+            "real_name": "Célia Poncelin",
+            "display_name": "Célia Poncelin",
+            "team": "T017AGS2KE0",
+            "name": "celia.poncelin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749719720.417789",
+        "reply_count": 25,
+        "reply_users_count": 6,
+        "latest_reply": "1750232709.226959",
+        "reply_users": [
+            "U08V1NE4BUJ",
+            "U016QJZLRN3",
+            "U06MLNEGNKB",
+            "U067VEJFT5F",
+            "U08M0JP81DK",
+            "U078PFP7A4B"
+        ],
+        "replies": [
+            {
+                "user": "U08V1NE4BUJ",
+                "ts": "1749720543.349919"
+            },
+            {
+                "user": "U016QJZLRN3",
+                "ts": "1749722048.139499"
+            },
+            {
+                "user": "U08V1NE4BUJ",
+                "ts": "1749722308.285059"
+            },
+            {
+                "user": "U08V1NE4BUJ",
+                "ts": "1749722377.445689"
+            },
+            {
+                "user": "U016QJZLRN3",
+                "ts": "1749722783.417449"
+            },
+            {
+                "user": "U08V1NE4BUJ",
+                "ts": "1749723249.493509"
+            },
+            {
+                "user": "U016QJZLRN3",
+                "ts": "1749724029.571819"
+            },
+            {
+                "user": "U08V1NE4BUJ",
+                "ts": "1749725029.033129"
+            },
+            {
+                "user": "U06MLNEGNKB",
+                "ts": "1749733566.211319"
+            },
+            {
+                "user": "U06MLNEGNKB",
+                "ts": "1749733636.453219"
+            },
+            {
+                "user": "U067VEJFT5F",
+                "ts": "1749740938.135619"
+            },
+            {
+                "user": "U08V1NE4BUJ",
+                "ts": "1749750423.409179"
+            },
+            {
+                "user": "U067VEJFT5F",
+                "ts": "1749804130.704229"
+            },
+            {
+                "user": "U08V1NE4BUJ",
+                "ts": "1749804395.404499"
+            },
+            {
+                "user": "U067VEJFT5F",
+                "ts": "1749805166.953559"
+            },
+            {
+                "user": "U016QJZLRN3",
+                "ts": "1749806783.718379"
+            },
+            {
+                "user": "U016QJZLRN3",
+                "ts": "1749806834.567059"
+            },
+            {
+                "user": "U08V1NE4BUJ",
+                "ts": "1749806857.175759"
+            },
+            {
+                "user": "U08M0JP81DK",
+                "ts": "1750020576.436949"
+            },
+            {
+                "user": "U016QJZLRN3",
+                "ts": "1750060113.961169"
+            },
+            {
+                "user": "U016QJZLRN3",
+                "ts": "1750086191.200349"
+            },
+            {
+                "user": "U016QJZLRN3",
+                "ts": "1750145115.819789"
+            },
+            {
+                "user": "U08V1NE4BUJ",
+                "ts": "1750145144.691079"
+            },
+            {
+                "user": "U078PFP7A4B",
+                "ts": "1750231805.966329"
+            },
+            {
+                "user": "U08V1NE4BUJ",
+                "ts": "1750232709.226959"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WNsGf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello,\nJe cherche à écrire une note sur le "
+                            },
+                            {
+                                "type": "text",
+                                "text": "ROI de la communication",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " et j’aimerais challenger mes réflexions. Est-ce que vous avez déjà été amené à calculer ce ROI ? Comment est-ce que vous vous y êtes pris ? C’est pas aussi simple que le marketing où tu peux calculer que 1€ investi = X€ gagné...\nMerci !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08V1NE4BUJ",
+        "type": "message",
+        "ts": "1749720543.349919",
+        "client_msg_id": "5e8981b7-18b8-442d-ab91-6d5e78df8728",
+        "text": "Hello,\n\nJe me suis déjà confronté à cette question, et tu as raison : le ROI de la communication est beaucoup plus subtil à mesurer que celui d’une campagne marketing purement transactionnelle.\n\nÀ mon sens, il faut sortir d’une logique de « retour immédiat » pour adopter une approche plus stratégique et multi-critères. Personnellement, je procède en combinant plusieurs axes :\n\n– Indicateurs quantitatifs : portée, engagement, part de voix, trafic indirect généré sur le site, évolution du taux de notoriété. Ça ne donne pas un ROI en euros, mais une mesure de l’impact.\n\n– Indicateurs qualitatifs : retours perçus par les parties prenantes (clients, investisseurs, recrues potentielles…), citations spontanées, qualité des prises de contact entrantes. Ici, c’est plus subjectif mais souvent très révélateur.\n\n– Corrélations dans le temps : je regarde si des pics d’attention ou de visibilité coïncident avec des accélérations business (closing plus rapide, appels entrants plus qualifiés, etc.). Ce n’est pas une preuve directe, mais ça donne des signaux faibles précieux.\n\nEnfin, je pense qu’il faut accepter que la communication soit un levier d’accélération et de valorisation, pas toujours d’acquisition directe. C’est ce qui rend son ROI moins immédiat, mais pas moins réel.\n\nCurieux de connaître ton approche aussi !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "3654a4fc5d4e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-02\/8999698350033_3654a4fc5d4e25a0a92c_72.jpg",
+            "first_name": "Alan",
+            "real_name": "Alan Huet (Fundora)",
+            "display_name": "Alan HUET",
+            "team": "T017AGS2KE0",
+            "name": "alan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749719720.417789",
+        "parent_user_id": "U016QJZLRN3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "we5d\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello,\n\nJe me suis déjà confronté à cette question, et tu as raison : le ROI de la communication est beaucoup plus subtil à mesurer que celui d’une campagne marketing purement transactionnelle.\n\nÀ mon sens, il faut sortir d’une logique de « retour immédiat » pour adopter une approche plus stratégique et multi-critères. Personnellement, je procède en combinant plusieurs axes :\n\n– Indicateurs quantitatifs : portée, engagement, part de voix, trafic indirect généré sur le site, évolution du taux de notoriété. Ça ne donne pas un ROI en euros, mais une mesure de l’impact.\n\n– Indicateurs qualitatifs : retours perçus par les parties prenantes (clients, investisseurs, recrues potentielles…), citations spontanées, qualité des prises de contact entrantes. Ici, c’est plus subjectif mais souvent très révélateur.\n\n– Corrélations dans le temps : je regarde si des pics d’attention ou de visibilité coïncident avec des accélérations business (closing plus rapide, appels entrants plus qualifiés, etc.). Ce n’est pas une preuve directe, mais ça donne des signaux faibles précieux.\n\nEnfin, je pense qu’il faut accepter que la communication soit un levier d’accélération et de valorisation, pas toujours d’acquisition directe. C’est ce qui rend son ROI moins immédiat, mais pas moins réel.\n\nCurieux de connaître ton approche aussi !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U016QJZLRN3",
+        "type": "message",
+        "ts": "1749722048.139499",
+        "client_msg_id": "380c31f0-d0e3-418a-8d36-0d690dfd3bcd",
+        "text": "Merci <@U08V1NE4BUJ> pour ton message détaillé, trop cool d’avoir ces éléments de réflexion ! Je suis totalement alignée avec ton approche. Dans un monde idéal j’aimerais avoir un ROI direct et que ce soit aussi simple qu’en marketing mais malheureusement ce n’est pas le cas et je fais face à une direction peu sensible à la com’, qui a du mal à comprendre son intérêt et qui se dit que c’est “juste des posts LinkedIn” :smile:\nPour le moment j’ai décidé de faire une approche par “hypothèse” en les projetant vers ce que pourrait être la communication demain si on gardait une hypothèse ISO, hypothèse basse, hypothèse haute, pour les faire prendre conscience de l’impact d’une communication ou non. J’y associe un budget ETP et une petite “vision” sur notre placement en termes de notoriété sur le marché. Comme ça cela leur laisse la liberté de choisir l’hypothèse en ayant conscience de toutes les conséquences com’, qu’elles soient positives ou négatives !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "8f96b26362da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-09\/4613327625731_8f96b26362dac7316985_72.jpg",
+            "first_name": "Célia",
+            "real_name": "Célia Poncelin",
+            "display_name": "Célia Poncelin",
+            "team": "T017AGS2KE0",
+            "name": "celia.poncelin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749719720.417789",
+        "parent_user_id": "U016QJZLRN3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rvwR\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08V1NE4BUJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour ton message détaillé, trop cool d’avoir ces éléments de réflexion ! Je suis totalement alignée avec ton approche. Dans un monde idéal j’aimerais avoir un ROI direct et que ce soit aussi simple qu’en marketing mais malheureusement ce n’est pas le cas et je fais face à une direction peu sensible à la com’, qui a du mal à comprendre son intérêt et qui se dit que c’est “juste des posts LinkedIn” "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPour le moment j’ai décidé de faire une approche par “hypothèse” en les projetant vers ce que pourrait être la communication demain si on gardait une hypothèse ISO, hypothèse basse, hypothèse haute, pour les faire prendre conscience de l’impact d’une communication ou non. J’y associe un budget ETP et une petite “vision” sur notre placement en termes de notoriété sur le marché. Comme ça cela leur laisse la liberté de choisir l’hypothèse en ayant conscience de toutes les conséquences com’, qu’elles soient positives ou négatives !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08V1NE4BUJ",
+        "type": "message",
+        "ts": "1749722308.285059",
+        "client_msg_id": "faadf73d-d567-465e-abd6-383cbd883679",
+        "text": "Chez nous tout le monde est convaincu de l’impact de linkedin. C’est même une règle dans la boite, chaque salarié publie au moins 1 post par semaine. Quand tu additionne les impressions, les différents cercles sociaux de chacun, tu peux être sûr que tu construis une identité de marque forte.\n\nAfin de faciliter le process pour ceux qui sont pas trop linkedin-friendly, j’ai mis en place une ITW d’1h avec chaque collaborateur, on l’enregistre puis on créé un GPT custom avec un prompt assez solide qui est capable de nous donner des axes de posts et de rédiger des posts très variés autour du contenu de l’ITW (questions perso, pro, anecdotes, DA.....), et ça en (quasi) illimité.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "3654a4fc5d4e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-02\/8999698350033_3654a4fc5d4e25a0a92c_72.jpg",
+            "first_name": "Alan",
+            "real_name": "Alan Huet (Fundora)",
+            "display_name": "Alan HUET",
+            "team": "T017AGS2KE0",
+            "name": "alan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749719720.417789",
+        "parent_user_id": "U016QJZLRN3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rX5X\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Chez nous tout le monde est convaincu de l’impact de linkedin. C’est même une règle dans la boite, chaque salarié publie au moins 1 post par semaine. Quand tu additionne les impressions, les différents cercles sociaux de chacun, tu peux être sûr que tu construis une identité de marque forte.\n\nAfin de faciliter le process pour ceux qui sont pas trop linkedin-friendly, j’ai mis en place une ITW d’1h avec chaque collaborateur, on l’enregistre puis on créé un GPT custom avec un prompt assez solide qui est capable de nous donner des axes de posts et de rédiger des posts très variés autour du contenu de l’ITW (questions perso, pro, anecdotes, DA.....), et ça en (quasi) illimité."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U06LENY5V6Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U08V1NE4BUJ",
+        "type": "message",
+        "ts": "1749722377.445689",
+        "client_msg_id": "c2442613-6665-4086-a48b-f4ee0ec14f87",
+        "text": "Ca permet aussi de calmer les attentes car un post ne prend que quelques minutes à publier. Tu prends moins de temps à l’équipe donc tu es plus serein sur les retours qui pour eux sont “que du bonus” du coup.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "3654a4fc5d4e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-02\/8999698350033_3654a4fc5d4e25a0a92c_72.jpg",
+            "first_name": "Alan",
+            "real_name": "Alan Huet (Fundora)",
+            "display_name": "Alan HUET",
+            "team": "T017AGS2KE0",
+            "name": "alan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749719720.417789",
+        "parent_user_id": "U016QJZLRN3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jwaFh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ca permet aussi de calmer les attentes car un post ne prend que quelques minutes à publier. Tu prends moins de temps à l’équipe donc tu es plus serein sur les retours qui pour eux sont “que du bonus” du coup."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U016QJZLRN3",
+        "type": "message",
+        "ts": "1749722783.417449",
+        "client_msg_id": "56a2f34e-acb6-430d-9d35-33ae8634bc0b",
+        "text": "Ah c’est ultra intéressant ça, merci beaucoup pour ton partage, ça m’intéresserait d’en apprendre un peu plus sur ton process ChatGPT x LinkedIn : 1. Est-ce que tu as suivi un tutoriel ou tu l’as créé toi-même ? 2. Est-ce que tu t’es formé sur la question et si oui comment ? Je me pose bcp la question en ce moment de l’optimisation de l’utilisation de l’IA dans mon taff.\nSi tu as qq mn pour échanger par tél je serai preneuse d’avoir ton RETEX",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "8f96b26362da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-09\/4613327625731_8f96b26362dac7316985_72.jpg",
+            "first_name": "Célia",
+            "real_name": "Célia Poncelin",
+            "display_name": "Célia Poncelin",
+            "team": "T017AGS2KE0",
+            "name": "celia.poncelin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749719720.417789",
+        "parent_user_id": "U016QJZLRN3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u9Zv+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah c’est ultra intéressant ça, merci beaucoup pour ton partage, ça m’intéresserait d’en apprendre un peu plus sur ton process ChatGPT x LinkedIn : 1. Est-ce que tu as suivi un tutoriel ou tu l’as créé toi-même ? 2. Est-ce que tu t’es formé sur la question et si oui comment ? Je me pose bcp la question en ce moment de l’optimisation de l’utilisation de l’IA dans mon taff.\nSi tu as qq mn pour échanger par tél je serai preneuse d’avoir ton RETEX"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08V1NE4BUJ",
+        "type": "message",
+        "ts": "1749723249.493509",
+        "client_msg_id": "fd2c312c-4138-4328-bf15-96f730ae40ce",
+        "text": "J’ai mis une question à ce sujet sur <#C017AGZKD9A|best-practices>, sans réponse lol. Mais si tu veux que je te montre le process exact + prompt pour GPT custom, on peut se faire un meet, avec plaisir.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "3654a4fc5d4e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-02\/8999698350033_3654a4fc5d4e25a0a92c_72.jpg",
+            "first_name": "Alan",
+            "real_name": "Alan Huet (Fundora)",
+            "display_name": "Alan HUET",
+            "team": "T017AGS2KE0",
+            "name": "alan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749719720.417789",
+        "parent_user_id": "U016QJZLRN3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sIoAJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J’ai mis une question à ce sujet sur "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C017AGZKD9A"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", sans réponse lol. Mais si tu veux que je te montre le process exact + prompt pour GPT custom, on peut se faire un meet, avec plaisir."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U016QJZLRN3",
+        "type": "message",
+        "ts": "1749724029.571819",
+        "client_msg_id": "3b02fd07-5850-4560-ad95-f76e4ba463e4",
+        "text": "J’ai vu, on devrait peut-être lancer un projet plus global de visio partage de nos best pratices IA, je vais lancer l’idée",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "8f96b26362da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-09\/4613327625731_8f96b26362dac7316985_72.jpg",
+            "first_name": "Célia",
+            "real_name": "Célia Poncelin",
+            "display_name": "Célia Poncelin",
+            "team": "T017AGS2KE0",
+            "name": "celia.poncelin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749719720.417789",
+        "parent_user_id": "U016QJZLRN3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+KXQv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J’ai vu, on devrait peut-être lancer un projet plus global de visio partage de nos best pratices IA, je vais lancer l’idée"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08V1NE4BUJ",
+        "type": "message",
+        "ts": "1749725029.033129",
+        "client_msg_id": "9d7ae2e1-07c0-4dba-aa27-78de4b0846e4",
+        "text": "yes trop bonne idée :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "3654a4fc5d4e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-02\/8999698350033_3654a4fc5d4e25a0a92c_72.jpg",
+            "first_name": "Alan",
+            "real_name": "Alan Huet (Fundora)",
+            "display_name": "Alan HUET",
+            "team": "T017AGS2KE0",
+            "name": "alan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749719720.417789",
+        "parent_user_id": "U016QJZLRN3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qkhJy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes trop bonne idée "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U0177A5V42F",
+        "thread_ts": "1747393482.895389",
+        "root": {
+            "user": "U0177A5V42F",
+            "type": "message",
+            "ts": "1747393482.895389",
+            "client_msg_id": "7f30c79d-ff53-4026-862e-952844072cee",
+            "text": "Hello à tous, je cherche des experts de création \/ animation de communauté. Qui serait intéressé pour participer à un workshop sur le sujet ?\nMerci !",
+            "team": "T017AGS2KE0",
+            "thread_ts": "1747393482.895389",
+            "reply_count": 21,
+            "reply_users_count": 12,
+            "latest_reply": "1749733304.232699",
+            "reply_users": [
+                "U042GV737MX",
+                "U04SM1RGPJB",
+                "U063Q1LA69W",
+                "U0177A5V42F",
+                "U0859A8P14K",
+                "U02N2EVMFCG",
+                "U078PFP7A4B",
+                "U03P99RGMTN",
+                "U084KTR7YKX",
+                "U084LQF8023",
+                "U088J9RFEH2",
+                "U065DFPCQMP"
+            ],
+            "replies": [
+                {
+                    "user": "U042GV737MX",
+                    "ts": "1747394221.939289"
+                },
+                {
+                    "user": "U04SM1RGPJB",
+                    "ts": "1747395254.836409"
+                },
+                {
+                    "user": "U063Q1LA69W",
+                    "ts": "1747396318.628319"
+                },
+                {
+                    "user": "U0177A5V42F",
+                    "ts": "1747398012.379239"
+                },
+                {
+                    "user": "U0859A8P14K",
+                    "ts": "1747405666.511419"
+                },
+                {
+                    "user": "U02N2EVMFCG",
+                    "ts": "1747461943.433339"
+                },
+                {
+                    "user": "U078PFP7A4B",
+                    "ts": "1747641279.736679"
+                },
+                {
+                    "user": "U03P99RGMTN",
+                    "ts": "1747647787.501799"
+                },
+                {
+                    "user": "U084KTR7YKX",
+                    "ts": "1747650438.526159"
+                },
+                {
+                    "user": "U084LQF8023",
+                    "ts": "1747652792.280849"
+                },
+                {
+                    "user": "U088J9RFEH2",
+                    "ts": "1747666732.065729"
+                },
+                {
+                    "user": "U0177A5V42F",
+                    "ts": "1747668144.618289"
+                },
+                {
+                    "user": "U065DFPCQMP",
+                    "ts": "1747741496.651719"
+                },
+                {
+                    "user": "U0177A5V42F",
+                    "ts": "1747754859.563929"
+                },
+                {
+                    "user": "U0177A5V42F",
+                    "ts": "1749628017.778629"
+                },
+                {
+                    "user": "U084KTR7YKX",
+                    "ts": "1749644656.276499"
+                },
+                {
+                    "user": "U065DFPCQMP",
+                    "ts": "1749646656.568949"
+                },
+                {
+                    "user": "U042GV737MX",
+                    "ts": "1749662049.744349"
+                },
+                {
+                    "user": "U063Q1LA69W",
+                    "ts": "1749664333.756419"
+                },
+                {
+                    "user": "U0177A5V42F",
+                    "ts": "1749711857.172539"
+                },
+                {
+                    "user": "U0177A5V42F",
+                    "ts": "1749733304.232699"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "uAL+C",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Hello à tous, je cherche des experts de création \/ animation de communauté. Qui serait intéressé pour participer à un workshop sur le sujet ?\nMerci !"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1749733304.232699",
+        "client_msg_id": "6a048309-e300-4d6e-b14c-f08cdd0f6749",
+        "text": "Hello à tous, merci <@U063Q1LA69W>, <@U065DFPCQMP> et <@U02N2EVMFCG> pour les retours d'experience sur la gestion de communauté !\nVoici les liens du résumé et de l'enregistrement :\nRésumé (je vais relire pour vérifier les coquilles mais j'ai l'impression que l'essentiel est là)\n<https:\/\/docs.google.com\/document\/d\/1OSTh43c6J1DH1iP1Bn9oSyidUaAm6aO5FLORSpeyohM\/edit?usp=drive_link>\nEnregistrement :\n<https:\/\/drive.google.com\/file\/d\/1fv2O1KKbIyjX9wwKGz1mRCTNvZe2eRoN\/view?usp=drive_link>\nOn fera la V2 du workshop avec les learnings UnlockM et les miens (commu de médecins) courant Octobre !",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KNchg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello à tous, merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U063Q1LA69W"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U065DFPCQMP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02N2EVMFCG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour les retours d'experience sur la gestion de communauté !\nVoici les liens du résumé et de l'enregistrement :\nRésumé (je vais relire pour vérifier les coquilles mais j'ai l'impression que l'essentiel est là)\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1OSTh43c6J1DH1iP1Bn9oSyidUaAm6aO5FLORSpeyohM\/edit?usp=drive_link"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nEnregistrement :\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/file\/d\/1fv2O1KKbIyjX9wwKGz1mRCTNvZe2eRoN\/view?usp=drive_link"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nOn fera la V2 du workshop avec les learnings UnlockM et les miens (commu de médecins) courant Octobre !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U078PFP7A4B",
+                    "U063A8VPPG9",
+                    "U084KTR7YKX",
+                    "U063Q1LA69W",
+                    "U03P99RGMTN",
+                    "U017H09S857",
+                    "U067VEJFT5F"
+                ],
+                "count": 7
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U065DFPCQMP",
+                    "U03P99RGMTN",
+                    "U017H09S857"
+                ],
+                "count": 3
+            },
+            {
+                "name": "star-struck",
+                "users": [
+                    "U08554C4R7C"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02N2EVMFCG"
+                ],
+                "count": 1
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U084LQF8023"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06MLNEGNKB",
+        "type": "message",
+        "ts": "1749733566.211319",
+        "client_msg_id": "bbc12af0-978a-4c27-844e-17fc01e673bb",
+        "text": "Ici il y a des templates de prompts intéressants pour Linkedin (à adapter) : <https:\/\/shumerprompt.com\/prompts\/linkedin-copywriting-prompt-8baa2a21-b90d-41f7-b891-2a899787f3ed>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9484de19a0b4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-25\/7476258473346_9484de19a0b48472edf8_72.jpg",
+            "first_name": "Priscilla",
+            "real_name": "Priscilla (Memo Bank)",
+            "display_name": "Priscilla (Memo Bank)",
+            "team": "T017AGS2KE0",
+            "name": "priscilla.cavrois",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749719720.417789",
+        "parent_user_id": "U016QJZLRN3",
+        "attachments": [
+            {
+                "image_url": "https:\/\/shumerprompt.com\/og-image.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 230977,
+                "from_url": "https:\/\/shumerprompt.com\/prompts\/linkedin-copywriting-prompt-8baa2a21-b90d-41f7-b891-2a899787f3ed",
+                "service_icon": "https:\/\/shumerprompt.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/shumerprompt.com\/prompts\/linkedin-copywriting-prompt-8baa2a21-b90d-41f7-b891-2a899787f3ed",
+                "fallback": "ShumerPrompt: ShumerPrompt | Best AI Prompt Library",
+                "text": "Find, share, and collaborate on high-quality prompts for ChatGPT, GPT-4, o3, and other AI models.",
+                "title": "ShumerPrompt | Best AI Prompt Library",
+                "title_link": "https:\/\/shumerprompt.com\/prompts\/linkedin-copywriting-prompt-8baa2a21-b90d-41f7-b891-2a899787f3ed",
+                "service_name": "ShumerPrompt"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OthOV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ici il y a des templates de prompts intéressants pour Linkedin (à adapter) : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/shumerprompt.com\/prompts\/linkedin-copywriting-prompt-8baa2a21-b90d-41f7-b891-2a899787f3ed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06MLNEGNKB",
+        "type": "message",
+        "ts": "1749733636.453219",
+        "client_msg_id": "35aa5aa1-3d44-4e91-a5e9-e4ab4f6997bd",
+        "text": "Un des meilleurs indicateurs sur le ROI de la communication (et du marketing) est le nombre de requêtes sur la marque sur les moteurs de recherche.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9484de19a0b4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-25\/7476258473346_9484de19a0b48472edf8_72.jpg",
+            "first_name": "Priscilla",
+            "real_name": "Priscilla (Memo Bank)",
+            "display_name": "Priscilla (Memo Bank)",
+            "team": "T017AGS2KE0",
+            "name": "priscilla.cavrois",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749719720.417789",
+        "parent_user_id": "U016QJZLRN3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4cYd+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un des meilleurs indicateurs sur le ROI de la communication (et du marketing) est le nombre de requêtes sur la marque sur les moteurs de recherche."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U067VEJFT5F",
+        "type": "message",
+        "ts": "1749740938.135619",
+        "client_msg_id": "cfd0355a-06d8-4209-873a-bcbcc593d80f",
+        "text": "très intéressée par un meet sur ce sujet !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9fcbd8d4bd09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-05\/6296382564371_9fcbd8d4bd095d25ab4c_72.jpg",
+            "first_name": "Amandine",
+            "real_name": "Amandine Moreau",
+            "display_name": "Amandine Moreau",
+            "team": "T017AGS2KE0",
+            "name": "a.gremont.pro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749719720.417789",
+        "parent_user_id": "U016QJZLRN3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VECGD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "très intéressée par un meet sur ce sujet !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08V1NE4BUJ",
+        "type": "message",
+        "ts": "1749750423.409179",
+        "client_msg_id": "413C6540-5F43-4E3F-9544-EE5A1F546B0E",
+        "text": "<@U067VEJFT5F> on peut essayer de s’accorder pour le faire en même temps qu’avec Celia ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "3654a4fc5d4e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-02\/8999698350033_3654a4fc5d4e25a0a92c_72.jpg",
+            "first_name": "Alan",
+            "real_name": "Alan Huet (Fundora)",
+            "display_name": "Alan HUET",
+            "team": "T017AGS2KE0",
+            "name": "alan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749719720.417789",
+        "parent_user_id": "U016QJZLRN3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jFqzv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U067VEJFT5F"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on peut essayer de s’accorder pour le faire en même temps qu’avec Celia "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

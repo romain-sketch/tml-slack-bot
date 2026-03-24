@@ -1,0 +1,153 @@
+[
+    {
+        "user": "U055KSYA2AH",
+        "type": "message",
+        "ts": "1758872894.563779",
+        "edited": {
+            "user": "U055KSYA2AH",
+            "ts": "1758876542.000000"
+        },
+        "client_msg_id": "19baa473-2f26-4051-ab3e-f29d0c51a7f1",
+        "text": "pourquoi vous passez de Webflow à Storyblok ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "77f967801b39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-02\/5198498072658_77f967801b39b2c56563_72.png",
+            "first_name": "Olivier",
+            "real_name": "Olivier Milcent",
+            "display_name": "Olivier Milcent (DeepReach)",
+            "team": "T017AGS2KE0",
+            "name": "omilcent",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1758706777.772519",
+        "parent_user_id": "U06C95MP43Z",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UdMb2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pourquoi vous passez de Webflow à Storyblok ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07MNBM4WLV",
+        "type": "message",
+        "ts": "1758889272.858109",
+        "client_msg_id": "49d0453d-75d6-47ef-a011-92acf401a52d",
+        "text": "Webflow présentait trop de limites pour le scale. On galerait sur les sujets de langues + de collaboration à plusieurs.\nEt le backoffice était pas assez simple pour permettre à la team marketing d'être indépendante de dev.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "028ce63b55be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7733128030774_028ce63b55be29945d4f_72.jpg",
+            "first_name": "Domitille",
+            "real_name": "Domitille de Saint-Exupéry",
+            "display_name": "Domitille de Saint-Exupéry (lemlist)",
+            "team": "T017AGS2KE0",
+            "name": "domitille433",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1758706777.772519",
+        "parent_user_id": "U06C95MP43Z",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EgpUz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Webflow présentait trop de limites pour le scale. On galerait sur les sujets de langues + de collaboration à plusieurs.\nEt le backoffice était pas assez simple pour permettre à la team marketing d'être indépendante de dev."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U055KSYA2AH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1758891988.728979",
+        "client_msg_id": "bddf0516-7da1-4bea-ac5f-da075bd13451",
+        "text": "<@U06CZESF7QF> Custom GPT pour construire toute la copy des pages Personae  (ou Use Cases \/ features) - avec des templates de pages &amp; modules (+ bien sûr tone of voice, contraintes modules en copy) et en input, je mets les pains des Personae suivant notre positionnement, je prends des quotes de Personae réelles via les recordings. j'ajoute aussi quelques recordings intéressant des Personae, je mets aussi des pages de concurrents que j'aime bien ou juste quelques parties.\nDis-moi si je suis plus claire :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1758204461.864959",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3qxAW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06CZESF7QF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Custom GPT pour construire toute la copy des pages Personae  (ou Use Cases \/ features) - avec des templates de pages & modules (+ bien sûr tone of voice, contraintes modules en copy) et en input, je mets les pains des Personae suivant notre positionnement, je prends des quotes de Personae réelles via les recordings. j'ajoute aussi quelques recordings intéressant des Personae, je mets aussi des pages de concurrents que j'aime bien ou juste quelques parties.\nDis-moi si je suis plus claire "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bulb",
+                "users": [
+                    "U06CZESF7QF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

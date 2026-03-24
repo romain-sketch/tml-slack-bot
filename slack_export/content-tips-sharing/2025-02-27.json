@@ -1,0 +1,794 @@
+[
+    {
+        "user": "U086LFGGVUG",
+        "type": "message",
+        "ts": "1740643676.290339",
+        "client_msg_id": "4a92fa8c-601b-43e7-ac4e-21b908b8aa1d",
+        "text": "Hello !\nOn organise notre premier flagship event dans 3 semaines et un intervenant vient d'annuler. \nAuriez-vous des recos pour une conférence de 30 min à 1h sur la thématique du leadership \/ gestion de crise \/ ou négociation.... (Open à d'autres thématiques tant que la personne est captivante)\nNotre cible est plutôt old school, très cash et pragmatique.\nLast but not least : budget serré.\nMerci !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "8037084d031e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-01-03\/8241041927621_8037084d031e372f4d94_72.jpg",
+            "first_name": "Laura",
+            "real_name": "Laura Silva",
+            "display_name": "Laura Silva",
+            "team": "T017AGS2KE0",
+            "name": "laura.silva",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740643676.290339",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1741020837.855029",
+        "reply_users": [
+            "U07LN85V6TG",
+            "U07R7CUFM7H"
+        ],
+        "replies": [
+            {
+                "user": "U07LN85V6TG",
+                "ts": "1740742989.003369"
+            },
+            {
+                "user": "U07R7CUFM7H",
+                "ts": "1741020837.855029"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KgGXz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello !\nOn organise notre premier flagship event dans 3 semaines et un intervenant vient d'annuler. \nAuriez-vous des recos pour une conférence de 30 min à 1h sur la thématique du leadership \/ gestion de crise \/ ou négociation.... (Open à d'autres thématiques tant que la personne est captivante)\nNotre cible est plutôt old school, très cash et pragmatique.\nLast but not least : budget serré.\nMerci !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1740649839.022209",
+        "client_msg_id": "caa2d97a-8479-4cc5-a207-509371c0cc49",
+        "text": "Sur le sujet de l'impact de l'IA sur le SEO, <https:\/\/www.linkedin.com\/posts\/bbalfour_oofchegg-suing-google-because-ai-summaries-activity-7300207739866095616-AKrs\/?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAAYam2EBfuYAwUPC39sm_0tD7lVqL_VU4OA|étude de cas super intéressante par Brian Balfour de l'effondrement du trafic de Chegg>.\n\nIl appelle le phénomène le \"PMF collapse\". Sans être aussi extrême, le même genre de trend va se produire pour tout business qui repose sur le SEO pour une partie de son acquisition.\nCa rejoint le super post de <@U063A8VPPG9> <https:\/\/www.linkedin.com\/posts\/emmanuellekleinmann_seo-la-premi%C3%A8re-victime-de-lia-le-activity-7300780323846434816-LqOc?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAAYam2EBfuYAwUPC39sm_0tD7lVqL_VU4OA|ici> sur le même sujet :+1:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "psm\/t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sur le sujet de l'impact de l'IA sur le SEO, "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/posts\/bbalfour_oofchegg-suing-google-because-ai-summaries-activity-7300207739866095616-AKrs\/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAYam2EBfuYAwUPC39sm_0tD7lVqL_VU4OA",
+                                "text": "étude de cas super intéressante par Brian Balfour de l'effondrement du trafic de Chegg"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n\nIl appelle le phénomène le \"PMF collapse\". Sans être aussi extrême, le même genre de trend va se produire pour tout business qui repose sur le SEO pour une partie de son acquisition.\nCa rejoint le super post de "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U063A8VPPG9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/posts\/emmanuellekleinmann_seo-la-premi%C3%A8re-victime-de-lia-le-activity-7300780323846434816-LqOc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAYam2EBfuYAwUPC39sm_0tD7lVqL_VU4OA",
+                                "text": "ici"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sur le même sujet "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thumbsup",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U08EN5GRYCC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U017CURDPB5",
+        "type": "message",
+        "ts": "1740650110.248209",
+        "edited": {
+            "user": "U017CURDPB5",
+            "ts": "1740650207.000000"
+        },
+        "client_msg_id": "87d95052-f346-4bab-839f-1379bcb20c5d",
+        "text": "Je recommande très fortement <https:\/\/www.linkedin.com\/in\/xavierbrunschvicg\/|Xavier Brunschvicg\/> . Ancien dir co de Science Po, il a une conf sur le thème de la gestion de crise et de l'activisme qui est genial. Très cash aussi... Viens de ma part et il fera un bon prix :wink: Sinon je peux te faire une intro",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "671ad569fbc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5982967598243_671ad569fbc40977de70_72.jpg",
+            "first_name": "David",
+            "real_name": "David Remaud",
+            "display_name": "David Remaud (iBanFirst)",
+            "team": "T017AGS2KE0",
+            "name": "david.remaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740650110.248209",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1740655902.251149",
+        "reply_users": [
+            "U086LFGGVUG"
+        ],
+        "replies": [
+            {
+                "user": "U086LFGGVUG",
+                "ts": "1740655902.251149"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/xavierbrunschvicg\/",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "thumb_url": "https:\/\/static.licdn.com\/scds\/common\/u\/images\/email\/artdeco\/logos\/96\/linkedin-bug-color.png",
+                "thumb_width": 96,
+                "thumb_height": 96,
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/xavierbrunschvicg\/",
+                "fallback": "Xavier BRUNSCHVICG - Clashman Corp | LinkedIn",
+                "text": "En tant Directeur de la communication et\/ou Directeur des affaires publiques… · Experience: Clashman Corp · Education: Institut d&amp;#39;Etudes politiques de Paris \/ Sciences Po Paris · Location: St.-Cloud · 500+ connections on LinkedIn. View Xavier BRUNSCHVICG’s profile on LinkedIn, a professional community of 1 billion members.",
+                "title": "Xavier BRUNSCHVICG - Clashman Corp | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/xavierbrunschvicg\/",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NrrOR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je recommande très fortement "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/xavierbrunschvicg\/",
+                                "text": "Xavier Brunschvicg\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " . Ancien dir co de Science Po, il a une conf sur le thème de la gestion de crise et de l'activisme qui est genial. Très cash aussi... Viens de ma part et il fera un bon prix "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Sinon je peux te faire une intro"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U086LFGGVUG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1740651756.487689",
+        "client_msg_id": "77eb8536-55c5-4675-8cc3-45359e7e94c8",
+        "text": "Merci beaucoup Eugène !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740403634.123269",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kse4j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci beaucoup Eugène !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04L04T475K",
+        "type": "message",
+        "ts": "1740655264.394329",
+        "client_msg_id": "2f51b7f3-a2d0-4700-bb96-30d2a65952d0",
+        "text": "Bonjour\nAttention demande un peu niche : auriez-vous des contacts de ghost writers - plutôt en FR mais ouvert à l'ENG - qui pourraient avoir de près ou de loin, une expertise autour des sujets du paiement (omnicanal : magasin ou online) ?\nDe manière générale, en termes de best practices : privilégiez vous des GW qui ont une expertise dédiée fonctionnelle sur le sujet de la marque, ou ce n'est pas une priorité numéro #1 tant que la personne est bien formée en amont sur la problématique, contenus, TOV... ?\nMerci :pray:\nCc <@U06DYTRDLUD>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "992240f01962",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4685704045204_992240f019622b6b0af8_72.jpg",
+            "first_name": "Antoine",
+            "real_name": "Antoine Yahia Cherif",
+            "display_name": "Antoine Yahia Cherif",
+            "team": "T017AGS2KE0",
+            "name": "antoine.yc008",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DyRMK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour\nAttention demande un peu niche : auriez-vous des contacts de ghost writers - plutôt en FR mais ouvert à l'ENG - qui pourraient avoir de près ou de loin, une expertise autour des sujets du paiement (omnicanal : magasin ou online) ?\nDe manière générale, en termes de best practices : privilégiez vous des GW qui ont une expertise dédiée fonctionnelle sur le sujet de la marque, ou ce n'est pas une priorité numéro #1 tant que la personne est bien formée en amont sur la problématique, contenus, TOV... ?\nMerci "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nCc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06DYTRDLUD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U06DYTRDLUD"
+                ],
+                "count": 1
+            },
+            {
+                "name": "x",
+                "users": [
+                    "U017RAZCAGZ",
+                    "U07LN85V6TG",
+                    "U02N2EVMFCG"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1740655387.177009",
+        "client_msg_id": "e3400d50-9734-45ca-b6ec-516000bbdac7",
+        "text": "Je cherche une agence\/freelance de paid solide, qui puisse gérer un petit budget de manière efficace, vous avez eu des bonnes xps?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740655387.177009",
+        "reply_count": 8,
+        "reply_users_count": 6,
+        "latest_reply": "1741166311.843209",
+        "reply_users": [
+            "U04L04T475K",
+            "U04A6JMRWCS",
+            "U055KSYA2AH",
+            "U0183AS3MB6",
+            "U07D08K3U0K",
+            "U084LQF8023"
+        ],
+        "replies": [
+            {
+                "user": "U04L04T475K",
+                "ts": "1740655653.971119"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1740655682.445979"
+            },
+            {
+                "user": "U055KSYA2AH",
+                "ts": "1740656281.517339"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1740656452.870019"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1740657520.881989"
+            },
+            {
+                "user": "U07D08K3U0K",
+                "ts": "1740660404.975289"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1740663224.023729"
+            },
+            {
+                "user": "U084LQF8023",
+                "ts": "1741166311.843209"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NmrcN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je cherche une agence\/freelance de paid solide, qui puisse gérer un petit budget de manière efficace, vous avez eu des bonnes xps?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04L04T475K",
+        "type": "message",
+        "ts": "1740655653.971119",
+        "client_msg_id": "0ec556c3-9081-4438-a299-9e3d28f06b4b",
+        "text": "<@U0183AS3MB6> tu sais gérer les petits budgets? :grin:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "992240f01962",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4685704045204_992240f019622b6b0af8_72.jpg",
+            "first_name": "Antoine",
+            "real_name": "Antoine Yahia Cherif",
+            "display_name": "Antoine Yahia Cherif",
+            "team": "T017AGS2KE0",
+            "name": "antoine.yc008",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740655387.177009",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fypaX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0183AS3MB6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " tu sais gérer les petits budgets? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin",
+                                "unicode": "1f601"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1740655682.445979",
+        "client_msg_id": "39cdc069-29c1-4850-8608-5249fd4b1b47",
+        "text": "tu rigoles,il va bouffer tout mon budget avec sa marge :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740655387.177009",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pGbwN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tu rigoles,il va bouffer tout mon budget avec sa marge "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U0183AS3MB6",
+                    "U02N2EVMFCG",
+                    "U078PFP7A4B",
+                    "U06DYTRDLUD",
+                    "U025AMSNGF8"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "user": "U086LFGGVUG",
+        "type": "message",
+        "ts": "1740655902.251149",
+        "client_msg_id": "56b0ceb4-7ff1-4180-80b4-6e544f4d682b",
+        "text": "merci bcp",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "8037084d031e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-01-03\/8241041927621_8037084d031e372f4d94_72.jpg",
+            "first_name": "Laura",
+            "real_name": "Laura Silva",
+            "display_name": "Laura Silva",
+            "team": "T017AGS2KE0",
+            "name": "laura.silva",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740650110.248209",
+        "parent_user_id": "U017CURDPB5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y7meJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "merci bcp"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U055KSYA2AH",
+        "type": "message",
+        "ts": "1740656281.517339",
+        "client_msg_id": "373395bc-7241-44ab-9c8c-bf15b64841b9",
+        "text": "plutôt Search only, ou pouvant aussi faire du social et\/ou du display ? Ca change un peu la structure de l’agence...",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "77f967801b39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-02\/5198498072658_77f967801b39b2c56563_72.png",
+            "first_name": "Olivier",
+            "real_name": "Olivier Milcent",
+            "display_name": "Olivier Milcent (DeepReach)",
+            "team": "T017AGS2KE0",
+            "name": "omilcent",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740655387.177009",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AxX7N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plutôt Search only, ou pouvant aussi faire du social et\/ou du display ? Ca change un peu la structure de l’agence..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1740656452.870019",
+        "client_msg_id": "51aaae96-d1cc-42db-bf95-68667279f2cc",
+        "text": "Search+Social :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740655387.177009",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i0WLq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Search+Social "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1740657520.881989",
+        "client_msg_id": "fd0e77dd-2c52-4adf-beef-aaa9f84a16d9",
+        "text": "et quand on parle de “petit” budget c’est quoi ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740655387.177009",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X7SGp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "et quand on parle de “petit” budget c’est quoi ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07D08K3U0K",
+        "type": "message",
+        "ts": "1740660404.975289",
+        "client_msg_id": "a0436b67-2808-4318-ad13-f553624fdac5",
+        "text": "On travaille avec <https:\/\/www.linkedin.com\/in\/l%C3%A9a-gueniffet\/|Léa> depuis plus de 2 ans, elle est top !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "ee04aae8ef81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-02\/7689117269088_ee04aae8ef81d255cd1f_72.png",
+            "first_name": "Tiphanie",
+            "real_name": "Tiphanie Meyer",
+            "display_name": "Tiphanie",
+            "team": "T017AGS2KE0",
+            "name": "tiphanie.meyer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740655387.177009",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Apj0u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On travaille avec "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/l%C3%A9a-gueniffet\/",
+                                "text": "Léa"
+                            },
+                            {
+                                "type": "text",
+                                "text": " depuis plus de 2 ans, elle est top !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1740663224.023729",
+        "client_msg_id": "6bf943cb-197a-4103-bd47-ba1d4230f439",
+        "text": "5k\/mois",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740655387.177009",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JP0fD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "5k\/mois"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

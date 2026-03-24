@@ -1,0 +1,122 @@
+[
+    {
+        "user": "U020QK16RMJ",
+        "type": "message",
+        "ts": "1739453438.579079",
+        "client_msg_id": "d1191ba5-dc32-4191-b08b-5e684814477c",
+        "text": "quasi le même modulo \"qui est sur le bandeau...\" il a fait un effort de personnalisation.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "56d8a678e801",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-18\/7292097443269_56d8a678e801350db84a_72.png",
+            "first_name": "Joël",
+            "real_name": "Joël Gaudeul",
+            "display_name": "Joël (Swan)",
+            "team": "T017AGS2KE0",
+            "name": "joel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739366611.758409",
+        "parent_user_id": "U06LENY5V6Z",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vz3ly",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "quasi le même modulo \"qui est sur le bandeau...\" il a fait un effort de personnalisation."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1739453458.025299",
+        "client_msg_id": "4c6a39a3-765f-4b95-bd8c-146326861bde",
+        "text": "Outbound 2.0 masterclass",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739366611.758409",
+        "parent_user_id": "U06LENY5V6Z",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i6379",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Outbound 2.0 masterclass"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1739453470.991059",
+        "client_msg_id": "15861d61-4c6a-409d-8848-fab741f1cc01",
+        "text": "le premier qui recoit un offre immanquable le partage ici avec les autres",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739366611.758409",
+        "parent_user_id": "U06LENY5V6Z",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jYNPw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "le premier qui recoit un offre immanquable le partage ici avec les autres"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

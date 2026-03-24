@@ -1,0 +1,634 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U08JCBMPU4C",
+        "text": "<@U08JCBMPU4C> has joined the channel",
+        "type": "message",
+        "ts": "1742312150.087219"
+    },
+    {
+        "user": "U03QPMQA31V",
+        "type": "message",
+        "ts": "1742316083.196179",
+        "client_msg_id": "7CCDB5F9-4C2B-42F0-8989-D7B78B265475",
+        "text": "Salut à tous\nBouteille à la mer :laughing: \n\nVous connaîtriez un ou une CFO disponible pour un nouveau challenge ?! (Mission full-time ou CDI) \nMerci ! ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "920d362f50c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-26\/3858025441956_920d362f50c400fcafe0_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu Pouget-Abadie",
+            "display_name": "Matthieu PA (Orisha)",
+            "team": "T017AGS2KE0",
+            "name": "mpougetabadie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742316083.196179",
+        "reply_count": 13,
+        "reply_users_count": 7,
+        "latest_reply": "1742390166.752969",
+        "reply_users": [
+            "U06CZESF7QF",
+            "U03QPMQA31V",
+            "U02N2EVMFCG",
+            "U056DAY3YD8",
+            "U084KTR7YKX",
+            "U04L35Y9D08",
+            "U065DFPCQMP"
+        ],
+        "replies": [
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1742316758.869799"
+            },
+            {
+                "user": "U03QPMQA31V",
+                "ts": "1742317014.488119"
+            },
+            {
+                "user": "U03QPMQA31V",
+                "ts": "1742317041.787789"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1742317808.204819"
+            },
+            {
+                "user": "U03QPMQA31V",
+                "ts": "1742318707.454609"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1742318987.912679"
+            },
+            {
+                "user": "U03QPMQA31V",
+                "ts": "1742319130.409529"
+            },
+            {
+                "user": "U056DAY3YD8",
+                "ts": "1742319986.091029"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1742320882.733559"
+            },
+            {
+                "user": "U03QPMQA31V",
+                "ts": "1742321251.630579"
+            },
+            {
+                "user": "U04L35Y9D08",
+                "ts": "1742375624.076169"
+            },
+            {
+                "user": "U03QPMQA31V",
+                "ts": "1742375791.716099"
+            },
+            {
+                "user": "U065DFPCQMP",
+                "ts": "1742390166.752969"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZjrPp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salut à tous\nBouteille à la mer "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "satisfied",
+                                "unicode": "1f606"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\nVous connaîtriez un ou une CFO disponible pour un nouveau challenge ?! (Mission full-time ou CDI) \nMerci ! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "x",
+                "users": [
+                    "U017RAZCAGZ",
+                    "U08HF5YQM6G"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1742316758.869799",
+        "client_msg_id": "f327bf2e-6700-48c9-b686-41e06d1c724c",
+        "text": "C’est pour Fixter ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742316083.196179",
+        "parent_user_id": "U03QPMQA31V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o5iyk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C’est pour Fixter ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03QPMQA31V",
+        "type": "message",
+        "ts": "1742317014.488119",
+        "client_msg_id": "8AB81E6E-2187-4718-AA9D-3B7812DF16C1",
+        "text": "Nope, pour le coup c’est pr une autre boîte dont je connais bien les investisseurs",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "920d362f50c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-26\/3858025441956_920d362f50c400fcafe0_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu Pouget-Abadie",
+            "display_name": "Matthieu PA (Orisha)",
+            "team": "T017AGS2KE0",
+            "name": "mpougetabadie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742316083.196179",
+        "parent_user_id": "U03QPMQA31V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u5uAr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nope, pour le coup "
+                            },
+                            {
+                                "type": "text",
+                                "text": "c’est"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pr une autre boîte dont je connais bien les investisseurs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03QPMQA31V",
+        "type": "message",
+        "ts": "1742317041.787789",
+        "client_msg_id": "02792EF9-93B7-442E-95B5-7745CBC23E95",
+        "text": "Fixter c’est fini, j’ai un statut à updater :stuck_out_tongue_closed_eyes: ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "920d362f50c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-26\/3858025441956_920d362f50c400fcafe0_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu Pouget-Abadie",
+            "display_name": "Matthieu PA (Orisha)",
+            "team": "T017AGS2KE0",
+            "name": "mpougetabadie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742316083.196179",
+        "parent_user_id": "U03QPMQA31V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+lP4m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fixter c’est fini, j’ai un statut à updater "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue_closed_eyes",
+                                "unicode": "1f61d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "astonished",
+                "users": [
+                    "U06CZESF7QF",
+                    "U06M6E5M524",
+                    "U08HF5YQM6G"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1742317808.204819",
+        "client_msg_id": "b9cb73c0-3dc9-4883-902c-f317c6e2e480",
+        "text": "Ok ! Tu peux m’en dire plus en MP ? J’ai peut être quelqu’un",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742316083.196179",
+        "parent_user_id": "U03QPMQA31V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OpckL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok ! Tu peux m’en dire plus en MP ? J’ai peut être quelqu’un"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03QPMQA31V",
+        "type": "message",
+        "ts": "1742318707.454609",
+        "client_msg_id": "40A5B7E4-EE15-4E73-A30F-71AED56550FE",
+        "text": "Merci ! Je chope qq informations et t’écris rapidement ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "920d362f50c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-26\/3858025441956_920d362f50c400fcafe0_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu Pouget-Abadie",
+            "display_name": "Matthieu PA (Orisha)",
+            "team": "T017AGS2KE0",
+            "name": "mpougetabadie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742316083.196179",
+        "parent_user_id": "U03QPMQA31V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u1m7j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci ! Je chope qq informations et "
+                            },
+                            {
+                                "type": "text",
+                                "text": "t’écris"
+                            },
+                            {
+                                "type": "text",
+                                "text": " rapidement "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1742318987.912679",
+        "client_msg_id": "4619017e-5c11-4094-8afa-8db92a038a58",
+        "text": "<https:\/\/www.linkedin.com\/in\/amelie-favaro?originalSubdomain=fr|Elle> m'accompagne, très sympa, basée en Champagne :champagne:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742316083.196179",
+        "parent_user_id": "U03QPMQA31V",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/amelie-favaro?originalSubdomain=fr",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "thumb_url": "https:\/\/static.licdn.com\/scds\/common\/u\/images\/email\/artdeco\/logos\/96\/linkedin-bug-color.png",
+                "thumb_width": 96,
+                "thumb_height": 96,
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/amelie-favaro?originalSubdomain=fr",
+                "fallback": "Amélie Favaro - AF Optimum | LinkedIn",
+                "text": "Bien que spécialisée en gestion financière des entreprises, mon accompagnement va au-delà de cette expertise technique. \nMon rôle est d&amp;#39;apporter aux dirigeants une vision claire qui leur permet de prendre du recul, un sentiment de confiance dans leur prise de décision, et un soutien structurant pour façonner leur vision d’entreprise. \nEnsemble, nous bâtissons une visibilité financière solide et des outils pratiques pour avancer sereinement. \nEn répondant aux défis de gestion concrets et quotidiens, sans complexité inutile, je leur offre une base rassurante pour piloter leur activité en temps réel, et préparer l’avenir de l’entreprise ! · Expérience : AF Optimum · Formation : Université de Montréal - HEC Montréal · Lieu : Reims et périphérie · 500 relations ou plus sur LinkedIn. Consultez le profil de Amélie Favaro sur LinkedIn, une communauté professionnelle d’un milliard de membres.",
+                "title": "Amélie Favaro - AF Optimum | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/amelie-favaro?originalSubdomain=fr",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "euOp\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/amelie-favaro?originalSubdomain=fr",
+                                "text": "Elle"
+                            },
+                            {
+                                "type": "text",
+                                "text": " m'accompagne, très sympa, basée en Champagne "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "champagne",
+                                "unicode": "1f37e"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03QPMQA31V",
+        "type": "message",
+        "ts": "1742319130.409529",
+        "client_msg_id": "B22CB29C-D57C-4A2E-A3DB-546B2FCE826B",
+        "text": "Merci <@U02N2EVMFCG> !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "920d362f50c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-26\/3858025441956_920d362f50c400fcafe0_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu Pouget-Abadie",
+            "display_name": "Matthieu PA (Orisha)",
+            "team": "T017AGS2KE0",
+            "name": "mpougetabadie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742316083.196179",
+        "parent_user_id": "U03QPMQA31V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NTqnA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02N2EVMFCG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U056DAY3YD8",
+        "type": "message",
+        "ts": "1742319986.091029",
+        "client_msg_id": "bbcc5d20-c132-4d30-9f32-37955a352628",
+        "text": "<@U03QPMQA31V> tu peux contacter <https:\/\/www.linkedin.com\/in\/jeremie-hoarau\/|Jérémie Hoarau> de ma part, c'est mon ancien CFO et il est en recherche actuellement",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "1497d32a4908",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-16\/6043403579731_1497d32a4908ee3b80b5_72.png",
+            "first_name": "Alexis",
+            "real_name": "Alexis Chevallier",
+            "display_name": "Alexis Chevallier (Part-Time CMO)",
+            "team": "T017AGS2KE0",
+            "name": "alexchvllr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742316083.196179",
+        "parent_user_id": "U03QPMQA31V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lxdqR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QPMQA31V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " tu peux contacter "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/jeremie-hoarau\/",
+                                "text": "Jérémie Hoarau"
+                            },
+                            {
+                                "type": "text",
+                                "text": " de ma part, c'est mon ancien CFO et il est en recherche actuellement"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1742320882.733559",
+        "client_msg_id": "a06fceaa-1e47-420d-bff6-69d16badef6c",
+        "text": "j'en ai en part-time mais pas en full time",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742316083.196179",
+        "parent_user_id": "U03QPMQA31V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1aQ3c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "j'en ai en part-time mais pas en full time"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03QPMQA31V",
+        "type": "message",
+        "ts": "1742321251.630579",
+        "client_msg_id": "63C0428B-32D0-406F-9158-24F8C7662028",
+        "text": "Merci <@U056DAY3YD8> \nOui seulement full time dans ce cas là merci qd même <@U084KTR7YKX> ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "920d362f50c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-26\/3858025441956_920d362f50c400fcafe0_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu Pouget-Abadie",
+            "display_name": "Matthieu PA (Orisha)",
+            "team": "T017AGS2KE0",
+            "name": "mpougetabadie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742316083.196179",
+        "parent_user_id": "U03QPMQA31V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I4qOo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U056DAY3YD8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nOui seulement full time dans ce cas là merci qd même "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U084KTR7YKX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,310 @@
+[
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1736842009.712989",
+        "client_msg_id": "fde4e3d1-173b-4c36-9f80-e33ef5a795cf",
+        "text": "Hello <@U065DFPCQMP> <@U084KTR7YKX> <@U067GNGDATD> <@U0183AS3MB6> est-ce que l'un de vous veut présenter ses _uses cases_ le 11 mars chez France Digitale ? Si oui, dites-moi <https:\/\/techmarketingleaders.slack.com\/archives\/C017AGZKD9A\/p1736532857639819|ici> svp",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736330294.793039",
+        "parent_user_id": "U065DFPCQMP",
+        "attachments": [
+            {
+                "from_url": "https:\/\/techmarketingleaders.slack.com\/archives\/C017AGZKD9A\/p1736532857639819",
+                "ts": "1736532857.639819",
+                "author_id": "U02N2EVMFCG",
+                "channel_id": "C017AGZKD9A",
+                "channel_team": "T017AGS2KE0",
+                "is_msg_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T017AGS2KE0",
+                        "channel": "C017AGZKD9A",
+                        "ts": "1736532857.639819",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "FjFF5",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Hello, dans le cadre de la promotion de "
+                                                },
+                                                {
+                                                    "type": "channel",
+                                                    "channel_id": "C06GD6ME5CM"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " nous allons organiser un petit dej \"Cercle des CMO\" le 11 mars. L'objectif sera de présenter des "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "use cases",
+                                                    "style": {
+                                                        "italic": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " IA dans le marketing. Qui veut intervenir ? (vous n'êtes pas obligé d'avoir contribué au livre)"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/techmarketingleaders.slack.com\/archives\/C017AGZKD9A\/p1736532857639819",
+                "fallback": "[January 10th, 2025 10:14 AM] yannigroth: Hello, dans le cadre de la promotion de <#C06GD6ME5CM|> nous allons organiser un petit dej \"Cercle des CMO\" le 11 mars. L'objectif sera de présenter des _use cases_ IA dans le marketing. Qui veut intervenir ? (vous n'êtes pas obligé d'avoir contribué au livre)",
+                "text": "Hello, dans le cadre de la promotion de <#C06GD6ME5CM|> nous allons organiser un petit dej \"Cercle des CMO\" le 11 mars. L'objectif sera de présenter des _use cases_ IA dans le marketing. Qui veut intervenir ? (vous n'êtes pas obligé d'avoir contribué au livre)",
+                "author_name": "Yannig Roth",
+                "author_link": "https:\/\/techmarketingleaders.slack.com\/team\/U02N2EVMFCG",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_48.png",
+                "author_subname": "Yannig Roth",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack Conversation"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DYJtc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U065DFPCQMP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U084KTR7YKX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U067GNGDATD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0183AS3MB6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " est-ce que l'un de vous veut présenter ses "
+                            },
+                            {
+                                "type": "text",
+                                "text": "uses cases",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " le 11 mars chez France Digitale ? Si oui, dites-moi "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/techmarketingleaders.slack.com\/archives\/C017AGZKD9A\/p1736532857639819",
+                                "text": "ici"
+                            },
+                            {
+                                "type": "text",
+                                "text": " svp"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U088J9RFEH2",
+        "text": "<@U088J9RFEH2> has joined the channel",
+        "type": "message",
+        "ts": "1736843837.995089"
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1736846420.382989",
+        "client_msg_id": "94917690-778a-457c-8f08-4b18dc985c80",
+        "text": "Malheureusement je serai dans le train à ce moment là… :confused:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736330294.793039",
+        "parent_user_id": "U065DFPCQMP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UOYuB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Malheureusement je serai dans le train à ce moment là… "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused",
+                                "unicode": "1f615"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1736850061.555289",
+        "client_msg_id": "268f9a42-aa53-4c3c-8d54-1054586bf744",
+        "text": "j'ai une session Pollen le 11 toute la journée",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736330294.793039",
+        "parent_user_id": "U065DFPCQMP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zXUjC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "j'ai une session Pollen le 11 toute la journée"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U065DFPCQMP",
+        "type": "message",
+        "ts": "1736850172.027629",
+        "client_msg_id": "73346650-3CA8-4BA9-9C50-F09987D8D2BF",
+        "text": "Je pense que je pourrai t’accompagner ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50040e0261e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-15\/6198553206674_50040e0261e7ba62e840_72.jpg",
+            "first_name": "Gaelle",
+            "real_name": "Gaelle Le Goff",
+            "display_name": "Gaelle Le Goff",
+            "team": "T017AGS2KE0",
+            "name": "gaelle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736330294.793039",
+        "parent_user_id": "U065DFPCQMP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Iv07A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je pense que je pourrai "
+                            },
+                            {
+                                "type": "text",
+                                "text": "t’accompagner"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02N2EVMFCG"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1768656351.610599",
+        "client_msg_id": "7B2CCCA0-0EF8-428C-AC78-04E355539FC8",
+        "text": "Un peu de lecture pour nous déprimer lol\n<https:\/\/www.wsj.com\/articles\/layoffs-expected-as-marketers-face-pressure-over-ai-savings-survey-finds-e896b64b|https:\/\/www.wsj.com\/articles\/layoffs-expected-as-marketers-face-pressure-over-ai-savings-survey-finds-e896b64b>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/images.wsj.net\/im-88901458\/social",
+                "image_width": 1280,
+                "image_height": 640,
+                "image_bytes": 117785,
+                "from_url": "https:\/\/www.wsj.com\/articles\/layoffs-expected-as-marketers-face-pressure-over-ai-savings-survey-finds-e896b64b",
+                "service_icon": "https:\/\/s.wsj.net\/media\/wsj_apple-touch-icon-180x180.png",
+                "ts": 1766487600,
+                "id": 1,
+                "original_url": "https:\/\/www.wsj.com\/articles\/layoffs-expected-as-marketers-face-pressure-over-ai-savings-survey-finds-e896b64b",
+                "fallback": "The Wall Street Journal: Exclusive | Layoffs Expected as Marketers Face Pressure Over AI Savings, Survey Finds",
+                "text": "At the largest companies, 47% of marketing executives expect to be handing out pink slips, and some have already started.",
+                "title": "Exclusive | Layoffs Expected as Marketers Face Pressure Over AI Savings, Survey Finds",
+                "title_link": "https:\/\/www.wsj.com\/articles\/layoffs-expected-as-marketers-face-pressure-over-ai-savings-survey-finds-e896b64b",
+                "service_name": "The Wall Street Journal"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/qaVb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un peu de lecture pour nous déprimer lol"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.wsj.com\/articles\/layoffs-expected-as-marketers-face-pressure-over-ai-savings-survey-finds-e896b64b",
+                                "text": "https:\/\/www.wsj.com\/articles\/layoffs-expected-as-marketers-face-pressure-over-ai-savings-survey-finds-e896b64b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U06CZESF7QF",
+                    "U0182J18ULQ",
+                    "U067VEJFT5F"
+                ],
+                "count": 3
+            },
+            {
+                "name": "zipper_mouth_face",
+                "users": [
+                    "U06DYTRDLUD"
+                ],
+                "count": 1
+            },
+            {
+                "name": "face_in_clouds",
+                "users": [
+                    "U065DFPCQMP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "melting_face",
+                "users": [
+                    "U084LQF8023"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

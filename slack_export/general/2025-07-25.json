@@ -1,0 +1,425 @@
+[
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1753447533.748379",
+        "client_msg_id": "670C0D86-B15C-405B-84F5-5E9D2A6A99E4",
+        "text": "*Bon été à tous* :sunny:  \nLa rentrée va être intense comme d’habitude. Alors je vous souhaite de prendre le temps de lire (pas un livre sur comment scaler sa boite), de faire du sport, de passer du temps avec vos proches, de ne rien faire :palm_tree:  Enjoy Tech Marketing Leaders! ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1753447533.748379",
+        "reply_count": 13,
+        "reply_users_count": 13,
+        "latest_reply": "1754064929.590369",
+        "reply_users": [
+            "U063A8VPPG9",
+            "U03QPMQA31V",
+            "U06UK9NGTB4",
+            "U08HF5YQM6G",
+            "U08SA22HS0J",
+            "U06CZESF7QF",
+            "U08QZ6EKE4Q",
+            "U04L35Y9D08",
+            "U05H3SJKYFQ",
+            "U07PEP71X4Y",
+            "U06LENY5V6Z",
+            "U06V83JDFLY",
+            "U059T4KRCUC"
+        ],
+        "replies": [
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1753447844.285759"
+            },
+            {
+                "user": "U03QPMQA31V",
+                "ts": "1753451346.944829"
+            },
+            {
+                "user": "U06UK9NGTB4",
+                "ts": "1753453265.388119"
+            },
+            {
+                "user": "U08HF5YQM6G",
+                "ts": "1753464957.300589"
+            },
+            {
+                "user": "U08SA22HS0J",
+                "ts": "1753641686.229529"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1753687904.570619"
+            },
+            {
+                "user": "U08QZ6EKE4Q",
+                "ts": "1753697401.032739"
+            },
+            {
+                "user": "U04L35Y9D08",
+                "ts": "1753804323.579309"
+            },
+            {
+                "user": "U05H3SJKYFQ",
+                "ts": "1753821083.809339"
+            },
+            {
+                "user": "U07PEP71X4Y",
+                "ts": "1753883191.411109"
+            },
+            {
+                "user": "U06LENY5V6Z",
+                "ts": "1753956727.088649"
+            },
+            {
+                "user": "U06V83JDFLY",
+                "ts": "1754043481.481569"
+            },
+            {
+                "user": "U059T4KRCUC",
+                "ts": "1754064929.590369"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pbga1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bon été à tous ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunny",
+                                "unicode": "2600-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  \n",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "La rentrée va être intense comme "
+                            },
+                            {
+                                "type": "text",
+                                "text": "d’habitude"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Alors je vous souhaite de prendre le temps de lire (pas un livre sur comment scaler sa boite), de faire du sport, de passer du temps avec vos proches, de ne rien faire "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "palm_tree",
+                                "unicode": "1f334"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  Enjoy Tech Marketing Leaders! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U092U6UDLMN",
+                    "U063A8VPPG9",
+                    "U069NSTHZ3Q",
+                    "U067VEJFT5F",
+                    "U017RAZCAGZ",
+                    "U03CY07UZJM",
+                    "U042GV737MX",
+                    "U03QPMQA31V",
+                    "U022RFSKQQK",
+                    "U06M6E5M524",
+                    "U078PFP7A4B",
+                    "U056DAY3YD8",
+                    "U04SM1RGPJB",
+                    "U06UK9NGTB4",
+                    "U03P99RGMTN",
+                    "U025AMSNGF8",
+                    "U08EN5T6F4L",
+                    "U065DFPCQMP",
+                    "U017CURDPB5",
+                    "U08HF5YQM6G",
+                    "U067GNGDATD",
+                    "U08SA22HS0J",
+                    "U06CZESF7QF",
+                    "U08SX6ZDADD",
+                    "U08QZ6EKE4Q",
+                    "U0177A5V42F",
+                    "U07MNBM4WLV",
+                    "U07D08K3U0K",
+                    "U03RM102N0H",
+                    "U032T5N7UTY",
+                    "U04L35Y9D08",
+                    "U05H3SJKYFQ",
+                    "U07PEP71X4Y",
+                    "U06LENY5V6Z",
+                    "U059T4KRCUC",
+                    "U07R7CUFM7H",
+                    "U08554C4R7C",
+                    "U01T6U402V8",
+                    "U06DYTRDLUD",
+                    "U08PLD4KPS8"
+                ],
+                "count": 40
+            },
+            {
+                "name": "sunny",
+                "users": [
+                    "U092U6UDLMN",
+                    "U03QPMQA31V",
+                    "U078PFP7A4B",
+                    "U056DAY3YD8",
+                    "U04SM1RGPJB",
+                    "U02N2EVMFCG",
+                    "U06UK9NGTB4",
+                    "U03P99RGMTN",
+                    "U08SA22HS0J",
+                    "U06CZESF7QF",
+                    "U08QZ6EKE4Q",
+                    "U0177A5V42F",
+                    "U07MNBM4WLV",
+                    "U06V83JDFLY",
+                    "U059T4KRCUC",
+                    "U07R7CUFM7H",
+                    "U01T6U402V8"
+                ],
+                "count": 17
+            },
+            {
+                "name": "sunglasses",
+                "users": [
+                    "U092U6UDLMN",
+                    "U069NSTHZ3Q",
+                    "U056DAY3YD8",
+                    "U03QPMQA31V",
+                    "U04SM1RGPJB",
+                    "U01A4GMRRR9",
+                    "U06UK9NGTB4",
+                    "U06CZESF7QF",
+                    "U08QZ6EKE4Q",
+                    "U04L35Y9D08",
+                    "U05H3SJKYFQ",
+                    "U059T4KRCUC",
+                    "U01T6U402V8"
+                ],
+                "count": 13
+            },
+            {
+                "name": "desert_island",
+                "users": [
+                    "U04L35Y9D08",
+                    "U059T4KRCUC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1753447844.285759",
+        "client_msg_id": "eb95ae44-a31b-405a-8ad7-b183c5cce111",
+        "text": "Merciiii, enjoy et bonnes vacances tout le monde",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1753447533.748379",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1XXCK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merciiii, enjoy et bonnes vacances tout le monde"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03QPMQA31V",
+        "type": "message",
+        "ts": "1753451346.944829",
+        "client_msg_id": "2BC881DB-0C3D-41C8-B602-ECA9BBBF5B23",
+        "text": "Bel été à tous !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "920d362f50c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-26\/3858025441956_920d362f50c400fcafe0_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu Pouget-Abadie",
+            "display_name": "Matthieu PA (Orisha)",
+            "team": "T017AGS2KE0",
+            "name": "mpougetabadie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1753447533.748379",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JDNkW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bel été à tous !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06UK9NGTB4",
+        "type": "message",
+        "ts": "1753453265.388119",
+        "client_msg_id": "4a38e611-1c20-484b-89e2-6e4dc3617ae4",
+        "text": "Bel été à tous :sun_with_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0de90fd94651",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-12-08\/10074067873414_0de90fd94651dd81ffed_72.png",
+            "first_name": "François",
+            "real_name": "François Castro-Lara",
+            "display_name": "François Castro-Lara (Mayday)",
+            "team": "T017AGS2KE0",
+            "name": "francois",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1753447533.748379",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p+XYx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bel été à tous "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sun_with_face",
+                                "unicode": "1f31e"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08HF5YQM6G",
+        "type": "message",
+        "ts": "1753464957.300589",
+        "client_msg_id": "2EDE7D6A-B7E5-43CC-A4D9-C2636BE5CC1E",
+        "text": "Bon repos à tous :sunny: ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "dc5afdcdc051",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-28\/10418814050592_dc5afdcdc0516abb4cac_72.jpg",
+            "first_name": "Roy",
+            "real_name": "Roy Brockmann",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "roy.brockmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1753447533.748379",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8LjER",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bon repos à tous "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunny",
+                                "unicode": "2600-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

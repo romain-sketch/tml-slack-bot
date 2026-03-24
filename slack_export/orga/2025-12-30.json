@@ -1,0 +1,165 @@
+[
+    {
+        "user": "U07BLPPL3C1",
+        "type": "message",
+        "ts": "1767103284.321099",
+        "client_msg_id": "d4c8a1f7-83b6-4081-9106-ff702b18af31",
+        "text": "Bonjour <@U08EN5T6F4L> est ce que par hasard ce call sur dust avait été enregistré ? ça m'intéresserait beaucoup s'il y avait un recording de vos retours.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a188c365467d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-16\/7728349993798_a188c365467d3e63d25d_72.jpg",
+            "first_name": "Esther",
+            "real_name": "Esther Daga",
+            "display_name": "Esther Daga (Powell)",
+            "team": "T017AGS2KE0",
+            "name": "estherdaga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1754574378.314379",
+        "parent_user_id": "U086LFGGVUG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pQKAh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08EN5T6F4L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " est ce que par hasard ce call sur dust avait été enregistré ? ça m'intéresserait beaucoup s'il y avait un recording de vos retours."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08EN5T6F4L",
+        "type": "message",
+        "ts": "1767114020.453779",
+        "client_msg_id": "43f35f14-c3fc-4f8a-850b-83dac517bff7",
+        "text": "Hello <@U07BLPPL3C1>\n\nPas d’enregistrement, désolé. J’ai seulement les notes du meeting ainsi que le transcript Google Meet. Je te partage tout ça. Et aucun souci si tu veux qu’on s’appelle 10–15 minutes pour en reparler.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "731ca28d6808",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-18\/8615871359542_731ca28d68086f39666f_72.png",
+            "first_name": "Sidney",
+            "real_name": "Sidney Ouarzazi",
+            "display_name": "Sidney Ouarzazi (Sellsy)",
+            "team": "T017AGS2KE0",
+            "name": "sidney.o",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1754574378.314379",
+        "parent_user_id": "U086LFGGVUG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XWF6V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07BLPPL3C1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nPas d’enregistrement, désolé. J’ai seulement les notes du meeting ainsi que le transcript Google Meet. Je te partage tout ça. Et aucun souci si tu veux qu’on s’appelle 10–15 minutes pour en reparler."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07BLPPL3C1",
+        "type": "message",
+        "ts": "1767155778.931649",
+        "client_msg_id": "a96e471a-c9e9-4817-a19f-107147c7dd10",
+        "text": "Hello <@U08EN5T6F4L>, Ce serait super d'avoir les notes et transcript, tu pourrais stp me les envoyer sur <mailto:edaga@powell-software.com|edaga@powell-software.com> ?,et suite à ça avec plaisir pour pouvoir t'appeler si j'ai des questions pour approfondir. merci",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a188c365467d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-16\/7728349993798_a188c365467d3e63d25d_72.jpg",
+            "first_name": "Esther",
+            "real_name": "Esther Daga",
+            "display_name": "Esther Daga (Powell)",
+            "team": "T017AGS2KE0",
+            "name": "estherdaga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1754574378.314379",
+        "parent_user_id": "U086LFGGVUG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kn5ux",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08EN5T6F4L"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", Ce serait super d'avoir les notes et transcript, tu pourrais stp me les envoyer sur "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:edaga@powell-software.com",
+                                "text": "edaga@powell-software.com",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": " ?,et suite à ça avec plaisir pour pouvoir t'appeler si j'ai des questions pour approfondir. merci"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U08EN5T6F4L"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

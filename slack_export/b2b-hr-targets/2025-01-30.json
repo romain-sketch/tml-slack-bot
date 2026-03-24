@@ -1,0 +1,134 @@
+[
+    {
+        "user": "U02CBFN48CF",
+        "type": "message",
+        "ts": "1738244448.845199",
+        "client_msg_id": "2583BEBD-9D2B-4568-8963-800518E397BA",
+        "text": "Bravo aux startup présentes dans le mapping de la BPI :) <https:\/\/drive.google.com\/file\/d\/1biJLIwx407rjF6hrakXpallOa0DXekE2\/view|https:\/\/drive.google.com\/file\/d\/1biJLIwx407rjF6hrakXpallOa0DXekE2\/view>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2b617c4484e3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-17\/3122469005251_2b617c4484e3a8e2151c_72.jpg",
+            "first_name": "Morgane",
+            "real_name": "Morgane Mouly",
+            "display_name": "Morgane Mouly (United Heroes)",
+            "team": "T017AGS2KE0",
+            "name": "morgane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738244448.845199",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1738250652.574689",
+        "reply_users": [
+            "U02N2EVMFCG"
+        ],
+        "replies": [
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1738250652.574689"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "maksU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bravo aux startup présentes dans le mapping de la BPI :) "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/file\/d\/1biJLIwx407rjF6hrakXpallOa0DXekE2\/view",
+                                "text": "https:\/\/drive.google.com\/file\/d\/1biJLIwx407rjF6hrakXpallOa0DXekE2\/view"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U03P99RGMTN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1738250652.574689",
+        "client_msg_id": "a05208af-c870-481e-a893-481a18415eb2",
+        "text": "Un peu deg de pas être dedans (Shapr) mais que je vois la méthodo je comprends mieux. _Next year maybe_ :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738244448.845199",
+        "parent_user_id": "U02CBFN48CF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bpCNF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un peu deg de pas être dedans (Shapr) mais que je vois la méthodo je comprends mieux. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Next year maybe",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "crossed_fingers",
+                "users": [
+                    "U02CBFN48CF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

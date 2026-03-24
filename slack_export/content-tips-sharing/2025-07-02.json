@@ -1,0 +1,120 @@
+[
+    {
+        "user": "U069NSTHZ3Q",
+        "type": "message",
+        "ts": "1751439975.520229",
+        "client_msg_id": "eba6732d-2828-44bd-acd4-90c92dd02ef8",
+        "text": "on va tester l'agence brainsonic pour une formation IA, mais c'est en octobre...",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "fbbca81fca0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-30\/7816371623809_fbbca81fca0c916c8c15_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Gannau (Oodrive)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "m.gannau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1751436993.917739",
+        "parent_user_id": "U04L04T475K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "we\/ye",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "on va tester l'agence brainsonic pour une formation IA, mais c'est en octobre..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063Q1LA69W",
+        "type": "message",
+        "ts": "1751440583.557969",
+        "client_msg_id": "f63b7e2a-3958-4b4f-8d6d-359136ffdf5e",
+        "text": "Hello <@U04L04T475K> j’ai eu des retours de <https:\/\/www.linkedin.com\/in\/sandrinepuichaffret\/?locale=fr_FR> sur le bootcamp et elle m’a dit que c’était cool\nTu peux certainement la contacter pour avoir plus de détails ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "92164dc1a505",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-29\/6530542210935_92164dc1a50580eb3d38_72.jpg",
+            "first_name": "Jolhane",
+            "real_name": "Jolhane Leite",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "jolhaneleite",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1751436993.917739",
+        "parent_user_id": "U04L04T475K",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/sandrinepuichaffret\/?locale=fr_FR",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/sandrinepuichaffret\/?locale=fr_FR",
+                "fallback": "Sandrine PUICHAFFRET - EAGLE EYES CONSULTING | LinkedIn",
+                "text": "With over 25 years of experience in strategic and operational marketing, I am passionate about empowering businesses to navigate the complexities of digital and AI transformation. As an International Fractional Chief Revenue \/ Marketing Officer at Eagle Eyes Consulting, I partner with SMEs, PMIs, and ETIs to drive their business towards excellence through data-driven management, process optimization, human transformation, and marketing-commercial alignment.\n\nI have a proven track record of creating and implementing innovative marketing strategies, establishing strategic partnerships, leading multicultural teams, and managing global budgets across various industries, such as entertainment, e-travel, e-commerce, media, new tech, leisure, and wine. I have a master&amp;#39;s degree in marketing and communication, and a certificate in digital &amp; AI transformation from UCBerkeley.\nI am always eager to learn and discover new trends and technologies, especially in data and AI and their implications in marketing and in our day-to-day life. I thrive in multi-cultural environments, thanks to my lively interest in people and my open-mindedness. I love embracing change and taking on new challenges. · Expérience : EAGLE EYES CONSULTING · Formation : University of California, Berkeley · Lieu : Paris et périphérie · 500 relations ou plus sur LinkedIn. Consultez le profil de Sandrine PUICHAFFRET sur LinkedIn, une communauté professionnelle d’un milliard de membres.",
+                "title": "Sandrine PUICHAFFRET - EAGLE EYES CONSULTING | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/sandrinepuichaffret\/?locale=fr_FR",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QMYw1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04L04T475K"
+                            },
+                            {
+                                "type": "text",
+                                "text": " j’ai eu des retours de "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/sandrinepuichaffret\/?locale=fr_FR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sur le bootcamp et elle m’a dit que c’était cool\nTu peux certainement la contacter pour avoir plus de détails ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04L04T475K"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

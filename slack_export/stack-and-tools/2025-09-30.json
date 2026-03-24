@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U06C95MP43Z",
+        "type": "message",
+        "ts": "1759301899.604049",
+        "client_msg_id": "5e150205-dbe1-40ec-84bf-e0f6a980a39c",
+        "text": "Exactement pareil de notre côté. Merci Domitille je te dis si besoin d'une mise en relation c'est super sympa",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "4b949a5cd393",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-23\/7185594457152_4b949a5cd3931f022e89_72.jpg",
+            "first_name": "Anne-Carole",
+            "real_name": "Anne-Carole Cöen (Kolet, ex Swile)",
+            "display_name": "Anne-Carole (Kolet, ex Swile)",
+            "team": "T017AGS2KE0",
+            "name": "ac_coen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1758706777.772519",
+        "parent_user_id": "U06C95MP43Z",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qRqyx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exactement pareil de notre côté. Merci Domitille je te dis si besoin d'une mise en relation c'est super sympa"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U07MNBM4WLV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

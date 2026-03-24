@@ -1,0 +1,241 @@
+[
+    {
+        "user": "U0946E8A2US",
+        "type": "message",
+        "ts": "1757941343.504679",
+        "client_msg_id": "24fc0452-93db-4937-ae23-6c56df8f34d3",
+        "text": "Hello ! Pour les missions d'advisory régulières et sur du long terme, est-ce que vous avez mis en place un système d'abo\/paiement récurrent avec vos clients ?\nJe me prends peut être un peu trop la tête mais créer la facture + l'envoyer + aller à la chasse au virement pour quelques h d'accompagnement max par mois je trouve pas ça très opti. Il y a mieux à faire non ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "f73f6d38e4eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-07-23\/9238905089862_f73f6d38e4eb792c8c6a_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult",
+            "team": "T017AGS2KE0",
+            "name": "thibaut.davoult",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757941343.504679",
+        "reply_count": 7,
+        "reply_users_count": 6,
+        "latest_reply": "1764229476.559149",
+        "reply_users": [
+            "U01A4GMRRR9",
+            "U063A8VPPG9",
+            "U02N2EVMFCG",
+            "U020QK16RMJ",
+            "U065DFPCQMP",
+            "U09BVQYR1GA"
+        ],
+        "replies": [
+            {
+                "user": "U01A4GMRRR9",
+                "ts": "1757944762.049499"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1757953113.467419"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1757953985.907109"
+            },
+            {
+                "user": "U020QK16RMJ",
+                "ts": "1758096432.173649"
+            },
+            {
+                "user": "U065DFPCQMP",
+                "ts": "1758135617.844429"
+            },
+            {
+                "user": "U09BVQYR1GA",
+                "ts": "1764229301.309159"
+            },
+            {
+                "user": "U09BVQYR1GA",
+                "ts": "1764229476.559149"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "76tXi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello ! Pour les missions d'advisory régulières et sur du long terme, est-ce que vous avez mis en place un système d'abo\/paiement récurrent avec vos clients ?\nJe me prends peut être un peu trop la tête mais créer la facture + l'envoyer + aller à la chasse au virement pour quelques h d'accompagnement max par mois je trouve pas ça très opti. Il y a mieux à faire non ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1757944762.049499",
+        "client_msg_id": "8c5ed094-2e7e-4fa3-bb61-149a0dd11370",
+        "text": "Je facture 100% en 1 fois en général dès le début après le 1er Workshop avec un délai de paiement de 5 jours max. Un peu direct mais ça marche.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757941343.504679",
+        "parent_user_id": "U0946E8A2US",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jWEDO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je facture 100% en 1 fois en général dès le début après le 1er Workshop avec un délai de paiement de 5 jours max. Un peu direct mais ça marche."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1757953113.467419",
+        "client_msg_id": "0EEF8E62-03BA-4C83-8178-B55FA508C900",
+        "text": "Perso je fais contrat + facture mensuelle au réel, mais j aime ce que Geoffrey fait! ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757941343.504679",
+        "parent_user_id": "U0946E8A2US",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QgdjG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Perso je fais contrat + facture mensuelle au réel, mais j aime ce que Geoffrey fait! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1757953985.907109",
+        "client_msg_id": "9772bc61-850a-4604-8676-0e7673949df2",
+        "text": "Facturation mensuelle souvent, ou 50% avant (début de mission) et 50% à mi-mission. Mais pas de système automatisé, tu vas toujours avoir des factures à envoyer. Sinon <https:\/\/www.sparkier.io\/?srsltid=AfmBOor7pJCDWuEdsFsPW3mxl78X5GmuqpT1EJRBApx-cY0p9ZTZZzJJ|eux> font des trucs _smart_ mais ça suppose de passer par leurs format à l'heure. Ils sont hyper sympa",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757941343.504679",
+        "parent_user_id": "U0946E8A2US",
+        "attachments": [
+            {
+                "image_url": "https:\/\/www.sparkier.io\/images\/og-consultant.png",
+                "image_width": 2730,
+                "image_height": 1437,
+                "image_bytes": 1705631,
+                "from_url": "https:\/\/www.sparkier.io\/?srsltid=AfmBOor7pJCDWuEdsFsPW3mxl78X5GmuqpT1EJRBApx-cY0p9ZTZZzJJ",
+                "service_icon": "https:\/\/www.sparkier.io\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.sparkier.io\/?srsltid=AfmBOor7pJCDWuEdsFsPW3mxl78X5GmuqpT1EJRBApx-cY0p9ZTZZzJJ",
+                "fallback": "Sparkier: Sparkier - Créez votre boutique de conseil en ligne",
+                "text": "Transformez votre expertise en Sparks : des modules de conseil packagés et vendus en ligne. Gagnez en efficacité avec l'IA, monétisez simplement et attirez de nouveaux clients.",
+                "title": "Sparkier - Créez votre boutique de conseil en ligne",
+                "title_link": "https:\/\/www.sparkier.io\/?srsltid=AfmBOor7pJCDWuEdsFsPW3mxl78X5GmuqpT1EJRBApx-cY0p9ZTZZzJJ",
+                "service_name": "Sparkier"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O2VsO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Facturation mensuelle souvent, ou 50% avant (début de mission) et 50% à mi-mission. Mais pas de système automatisé, tu vas toujours avoir des factures à envoyer. Sinon "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sparkier.io\/?srsltid=AfmBOor7pJCDWuEdsFsPW3mxl78X5GmuqpT1EJRBApx-cY0p9ZTZZzJJ",
+                                "text": "eux"
+                            },
+                            {
+                                "type": "text",
+                                "text": " font des trucs "
+                            },
+                            {
+                                "type": "text",
+                                "text": "smart",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " mais ça suppose de passer par leurs format à l'heure. Ils sont hyper sympa"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

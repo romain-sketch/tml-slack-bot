@@ -1,0 +1,69 @@
+[
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1764853160.948189",
+        "edited": {
+            "user": "U06CZESF7QF",
+            "ts": "1764853163.000000"
+        },
+        "client_msg_id": "d37a1158-17de-4220-a32a-32e995f85259",
+        "text": "Super intéressant. Merci <@U032T5N7UTY> et <@U04L04T475K> pour les feedbacks",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764779817.858629",
+        "parent_user_id": "U056DAY3YD8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o0zpR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Super intéressant. Merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U032T5N7UTY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04L04T475K"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour les feedbacks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0A11HFGA31",
+        "text": "<@U0A11HFGA31> has joined the channel",
+        "type": "message",
+        "ts": "1764856335.562829"
+    }
+]

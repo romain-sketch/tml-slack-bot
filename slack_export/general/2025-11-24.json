@@ -1,0 +1,216 @@
+[
+    {
+        "user": "U069NSTHZ3Q",
+        "type": "message",
+        "ts": "1763973390.791119",
+        "client_msg_id": "ac1e62e2-cf23-4390-a046-4a6b622436e5",
+        "text": "Hello tout le monde, est-ce que l'un de vous aurait et serait prêt à partager un excel de lancement produit\/feature - de la discovery à la acampagne marketing ? on revalide qui fait quoi suite à une reorf ici.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "fbbca81fca0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-30\/7816371623809_fbbca81fca0c916c8c15_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Gannau (Oodrive)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "m.gannau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763973390.791119",
+        "reply_count": 7,
+        "reply_users_count": 2,
+        "latest_reply": "1764180432.722009",
+        "reply_users": [
+            "U08SA22HS0J",
+            "U069NSTHZ3Q"
+        ],
+        "replies": [
+            {
+                "user": "U08SA22HS0J",
+                "ts": "1764087506.507599"
+            },
+            {
+                "user": "U069NSTHZ3Q",
+                "ts": "1764093498.544569"
+            },
+            {
+                "user": "U08SA22HS0J",
+                "ts": "1764170856.402649"
+            },
+            {
+                "user": "U069NSTHZ3Q",
+                "ts": "1764177219.462609"
+            },
+            {
+                "user": "U08SA22HS0J",
+                "ts": "1764179796.763109"
+            },
+            {
+                "user": "U08SA22HS0J",
+                "ts": "1764179856.322369"
+            },
+            {
+                "user": "U069NSTHZ3Q",
+                "ts": "1764180432.722009"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0HnQP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello tout le monde, est-ce que l'un de vous aurait et serait prêt à partager un excel de lancement produit\/feature - de la discovery à la acampagne marketing ? on revalide qui fait quoi suite à une reorf ici."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1763973959.303719",
+        "edited": {
+            "user": "U017H09S857",
+            "ts": "1763973964.000000"
+        },
+        "client_msg_id": "4afc93e1-e3ff-40a4-9cef-f14b33ac0b07",
+        "text": "Hello à tous, avec <@U02N2EVMFCG> on vous partage l'<https:\/\/docs.google.com\/document\/d\/1SKSXzCkj6BA0tUPzPJxy4oaT5OpEjGcy5FDhpF8zj0A\/edit?tab=t.0|ordre du jour de l'AG> du 5 décembre.\nSi vous souhaitez ajouter des points, n'hésitez pas à nous dire !\nBonne semaine",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763058411.425639",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9IUgJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello à tous, avec "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02N2EVMFCG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on vous partage l'"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1SKSXzCkj6BA0tUPzPJxy4oaT5OpEjGcy5FDhpF8zj0A\/edit?tab=t.0",
+                                "text": "ordre du jour de l'AG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " du 5 décembre.\nSi vous souhaitez ajouter des points, n'hésitez pas à nous dire !\nBonne semaine"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03RM102N0H",
+        "type": "message",
+        "ts": "1763997105.318009",
+        "client_msg_id": "1703f01d-9b59-43b9-9187-b156268451fe",
+        "text": "Article très intéressant je trouve sur le besoin vital de stratégie en entreprise : <https:\/\/punchline.kessel.media\/posts\/pst_8c766075f2074c5d8f8bf4a246c0b221\/etes-vous-en-apnee-strategique>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "20bddc2a3f01",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3855479138293_20bddc2a3f016ad51576_72.jpg",
+            "first_name": "Elsa",
+            "real_name": "Elsa Magadoux",
+            "display_name": "Elsa Magadoux (Brut.)",
+            "team": "T017AGS2KE0",
+            "name": "elsa.magadoux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/punchline.kessel.media\/posts\/pst_8c766075f2074c5d8f8bf4a246c0b221\/etes-vous-en-apnee-strategique",
+                "ts": 1763048640,
+                "image_url": "https:\/\/img.kessel.media\/cdn-cgi\/image\/w=1200,h=630,fit=contain,fill=blur,auto=compress,fm=jpg\/2025\/11\/10\/64de7034-c36b-4c2e-bd21-7b73ba8ef006",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 834347,
+                "service_icon": "https:\/\/punchline.kessel.media\/Kessel_K.png",
+                "id": 1,
+                "original_url": "https:\/\/punchline.kessel.media\/posts\/pst_8c766075f2074c5d8f8bf4a246c0b221\/etes-vous-en-apnee-strategique",
+                "fallback": "Kessel: Êtes-vous en apnée stratégique ?",
+                "text": "Pourquoi les dirigeants étouffent dans l'opérationnel",
+                "title": "Êtes-vous en apnée stratégique ?",
+                "title_link": "https:\/\/punchline.kessel.media\/posts\/pst_8c766075f2074c5d8f8bf4a246c0b221\/etes-vous-en-apnee-strategique",
+                "service_name": "Kessel"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UfC6V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Article très intéressant je trouve sur le besoin vital de stratégie en entreprise : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/punchline.kessel.media\/posts\/pst_8c766075f2074c5d8f8bf4a246c0b221\/etes-vous-en-apnee-strategique"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U017H09S857",
+                    "U0183AS3MB6",
+                    "U08PLD4KPS8",
+                    "U08HF5YQM6G",
+                    "U08EN5GRYCC",
+                    "U08554C4R7C",
+                    "U03QPMQA31V"
+                ],
+                "count": 7
+            }
+        ]
+    }
+]

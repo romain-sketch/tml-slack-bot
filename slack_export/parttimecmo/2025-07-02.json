@@ -1,0 +1,59 @@
+[
+    {
+        "user": "U06LENY5V6Z",
+        "type": "message",
+        "ts": "1751477012.387279",
+        "client_msg_id": "D63E92D6-5665-4E1A-9048-89D144102841",
+        "text": "Hello, oui ! … mais exp dans le médical, dispo et ok pour se déplacer à Strasbourg ? :thinking_face: ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "848090157b3c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6702750742819_848090157b3c5d209ab6_72.jpg",
+            "first_name": "Gaëlle",
+            "real_name": "Gaëlle Dumur",
+            "display_name": "Gaëlle Dumur",
+            "team": "T017AGS2KE0",
+            "name": "gaelle.dumur",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1751029364.895869",
+        "parent_user_id": "U06LENY5V6Z",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gpF6T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, oui ! "
+                            },
+                            {
+                                "type": "text",
+                                "text": "…"
+                            },
+                            {
+                                "type": "text",
+                                "text": " mais exp dans le médical, dispo et ok pour se déplacer à Strasbourg ? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face",
+                                "unicode": "1f914"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

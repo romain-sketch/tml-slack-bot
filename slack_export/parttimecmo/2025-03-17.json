@@ -1,0 +1,50 @@
+[
+    {
+        "user": "U022RFSKQQK",
+        "type": "message",
+        "ts": "1742205434.142889",
+        "client_msg_id": "bc876ffe-311b-4898-b57e-f37e1faadd7d",
+        "text": "Merci <@U063Q1LA69W> je t'écris alors pr caler ça",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "67fe59b92c78",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-01\/6569222233124_67fe59b92c782b5917b3_72.jpg",
+            "first_name": "Aude",
+            "real_name": "Aude Romelly",
+            "display_name": "Aude Romelly",
+            "team": "T017AGS2KE0",
+            "name": "aromelly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741939463.768349",
+        "parent_user_id": "U020QK16RMJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i1mvH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U063Q1LA69W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je t'écris alors pr caler ça"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

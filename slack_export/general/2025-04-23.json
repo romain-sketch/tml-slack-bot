@@ -1,0 +1,711 @@
+[
+    {
+        "user": "U020QK16RMJ",
+        "type": "message",
+        "ts": "1745394179.189909",
+        "client_msg_id": "4c2b9337-1640-4f42-91c6-7cb8be403c4f",
+        "text": "My 2 cents: continuer à utiliser un modèle d'attribution binaire restera injuste, ma reco est de plutôt valoriser les touchs marketing sur de l'influence du deal. tu peux faire un système simple ou chaque touche donne des points (comme pour ton scoring de nurturing) et que c'est point t'octroie une part de la deal gen.\n\nEn pratique:\nEvent attendee +30 pts, content download +10pts, email clicked +5pts = 45 pts soit une influence à X%",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "56d8a678e801",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-18\/7292097443269_56d8a678e801350db84a_72.png",
+            "first_name": "Joël",
+            "real_name": "Joël Gaudeul",
+            "display_name": "Joël (Swan)",
+            "team": "T017AGS2KE0",
+            "name": "joel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745309139.011889",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ddk6g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My 2 cents: continuer à utiliser un modèle d'attribution binaire restera injuste, ma reco est de plutôt valoriser les touchs marketing sur de l'influence du deal. tu peux faire un système simple ou chaque touche donne des points (comme pour ton scoring de nurturing) et que c'est point t'octroie une part de la deal gen.\n\nEn pratique:\nEvent attendee +30 pts, content download +10pts, email clicked +5pts = 45 pts soit une influence à X%"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bulb",
+                "users": [
+                    "U078PFP7A4B"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U08C1HZNT8S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1745394992.267289",
+        "client_msg_id": "25953f2a-4473-4d8d-9344-ddded3a7f229",
+        "text": "Ah super intéressant, je n'y avais pas pensé, merci Joël !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745309139.011889",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iO9a1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah super intéressant, je n'y avais pas pensé, merci Joël !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1745400946.453359",
+        "client_msg_id": "c6eed586-7639-45bc-8536-547e09fe9204",
+        "text": "Salut tout le monde !\nOn est en train de lancer un projet de migration de Salesforce CRM =&gt; HubSpot CRM.\nOn va se faire accompagner par une agence partenaire HubSpot pour la migration. Pour l'instant on en regarde 2 (recommandées par HubSpot) :\n• Ideagency\n• Digitalisim\nVous avez déjà travaillé avec ces agences pour un projet similaire ? Un avis ? Une autre qu'on devrait envisager ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745400946.453359",
+        "reply_count": 6,
+        "reply_users_count": 5,
+        "latest_reply": "1745418394.581019",
+        "reply_users": [
+            "U084KTR7YKX",
+            "U078PFP7A4B",
+            "U069NSTHZ3Q",
+            "U0183AS3MB6",
+            "U06DYTRDLUD"
+        ],
+        "replies": [
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1745401022.043469"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1745401048.753709"
+            },
+            {
+                "user": "U078PFP7A4B",
+                "ts": "1745401052.859159"
+            },
+            {
+                "user": "U069NSTHZ3Q",
+                "ts": "1745410169.177159"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1745411871.309679"
+            },
+            {
+                "user": "U06DYTRDLUD",
+                "ts": "1745418394.581019"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WX7ls",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salut tout le monde !\nOn est en train de lancer un projet de migration de Salesforce CRM => HubSpot CRM.\nOn va se faire accompagner par une agence partenaire HubSpot pour la migration. Pour l'instant on en regarde 2 (recommandées par HubSpot) :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Ideagency"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Digitalisim"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Vous avez déjà travaillé avec ces agences pour un projet similaire ? Un avis ? Une autre qu'on devrait envisager ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1745401022.043469",
+        "client_msg_id": "52927217-19c4-4fde-ac2e-fce82c5f9e0e",
+        "text": "j'ai travaillé avec Ideagency de 2017 à 2019 chez Captain Contrat",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745400946.453359",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lp+ay",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "j'ai travaillé avec Ideagency de 2017 à 2019 chez Captain Contrat"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1745401048.753709",
+        "edited": {
+            "user": "U084KTR7YKX",
+            "ts": "1745401299.000000"
+        },
+        "client_msg_id": "3a92af2f-0efa-4d39-854e-cb8d9de9f44d",
+        "text": "ils étaient top à l'époque mais ça a peut-être changé depuis",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745400946.453359",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "btZ\/C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ils étaient top à l'époque mais ça a peut-être changé depuis"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1745401052.859159",
+        "client_msg_id": "041ff474-b0ac-43fe-bdf9-113b4099e4c3",
+        "text": "Je connais <https:\/\/www.linkedin.com\/in\/alexandrejeanpetit\/|Alexandre Jeanpetit> le CMO d'Ideagency si ça peut aider :woman-shrugging:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745400946.453359",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+SpMp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je connais "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/alexandrejeanpetit\/",
+                                "text": "Alexandre Jeanpetit"
+                            },
+                            {
+                                "type": "text",
+                                "text": " le CMO d'Ideagency si ça peut aider "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-shrugging",
+                                "unicode": "1f937-200d-2640-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07BLPPL3C1",
+        "type": "message",
+        "ts": "1745402349.669669",
+        "edited": {
+            "user": "U07BLPPL3C1",
+            "ts": "1745402370.000000"
+        },
+        "client_msg_id": "ff437d46-3fec-4d5c-86da-cbef2108fa2e",
+        "text": "Bonjour <@U06E3PY5LAY> je débarque, j'ai été déconnecté pendant plusieurs mois. Est ce qu'ils sont toujours à la recherche de beta testeurs ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a188c365467d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-16\/7728349993798_a188c365467d3e63d25d_72.jpg",
+            "first_name": "Esther",
+            "real_name": "Esther Daga",
+            "display_name": "Esther Daga (Powell)",
+            "team": "T017AGS2KE0",
+            "name": "estherdaga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741967400.786129",
+        "parent_user_id": "U06E3PY5LAY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1EN3U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06E3PY5LAY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je débarque, j'ai été déconnecté pendant plusieurs mois. Est ce qu'ils sont toujours à la recherche de beta testeurs ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07BLPPL3C1",
+        "type": "message",
+        "ts": "1745403274.929689",
+        "client_msg_id": "10f68cd3-f350-48b6-a6d8-27b0c01ec4bc",
+        "text": "Hello, je suis passée par l'Agence Cosa Vostra. J'ai beaucoup aimé leur approche !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a188c365467d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-16\/7728349993798_a188c365467d3e63d25d_72.jpg",
+            "first_name": "Esther",
+            "real_name": "Esther Daga",
+            "display_name": "Esther Daga (Powell)",
+            "team": "T017AGS2KE0",
+            "name": "estherdaga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743760831.836679",
+        "parent_user_id": "U06DYTRDLUD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Po0gR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, je suis passée par l'Agence Cosa Vostra. J'ai beaucoup aimé leur approche !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U069NSTHZ3Q",
+        "type": "message",
+        "ts": "1745410169.177159",
+        "client_msg_id": "d562e150-883f-452b-892e-dcfef3521c6f",
+        "text": "Hello, j'avais travaillé avec Jules Sapet d'Ideagency, mais sur un projet de CMS, ils étaient pro. On a aussi bossé avec Markentive pour un passage de Marketo à Hubspot, et là ca ne s'est pas très bien passé..",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "fbbca81fca0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-30\/7816371623809_fbbca81fca0c916c8c15_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Gannau (Oodrive)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "m.gannau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745400946.453359",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+9f82",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, j'avais travaillé avec Jules Sapet d'Ideagency, mais sur un projet de CMS, ils étaient pro. On a aussi bossé avec Markentive pour un passage de Marketo à Hubspot, et là ca ne s'est pas très bien passé.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1745411871.309679",
+        "client_msg_id": "32b4da83-154f-4697-9244-26d96feaaa8b",
+        "text": "Ideagency ils sont toooooooop !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745400946.453359",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9IWmx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ideagency ils sont toooooooop !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06DYTRDLUD",
+        "type": "message",
+        "ts": "1745418394.581019",
+        "client_msg_id": "58283e69-d404-4070-a8d2-ee08629e9a05",
+        "text": "Coucou,\nNous on a fait une migration Salesforce &gt;&gt; Hubspot aussi en 2024 mais on a tout géré en interne :eyes:\nEn revanche si tu veux des retours d'exp, je suis à dispo.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901f49789864",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-17\/6483135134229_901f4978986494a521e4_72.jpg",
+            "first_name": "Flora",
+            "real_name": "Flora Wolfer",
+            "display_name": "Flora Wolfer (Payplug)",
+            "team": "T017AGS2KE0",
+            "name": "fwolfer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745400946.453359",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "64yFc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Coucou,\nNous on a fait une migration Salesforce >> Hubspot aussi en 2024 mais on a tout géré en interne "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes",
+                                "unicode": "1f440"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nEn revanche si tu veux des retours d'exp, je suis à dispo."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06DYTRDLUD",
+        "type": "message",
+        "ts": "1745418614.747839",
+        "client_msg_id": "b7a8dacb-3349-4d8f-aa47-b685def09edc",
+        "text": "Hi Marie,\nAujourd'hui chez Payplug l'impact des PMM est surtout côté sales :\nbeaucoup d'enablement (supports, trainings, contenus en tout genre).\nA date, on n'a pas réussi à trouver la magic sauce pour que PMM x PM fonctionne à fond, mais c'est aussi car on est en pleine transfo, nos PM sont surtout des chefs de projet delivery.\nDu coup, quand on a des vrais lancements de features, la réalité est qu'on décorrèle du calendrier de livraison et on choisi les timings à notre sauce en fonction des temps forts du marché.\nSûrement pas nickel, mais au moins ça fonctionne :sweat_smile:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901f49789864",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-17\/6483135134229_901f4978986494a521e4_72.jpg",
+            "first_name": "Flora",
+            "real_name": "Flora Wolfer",
+            "display_name": "Flora Wolfer (Payplug)",
+            "team": "T017AGS2KE0",
+            "name": "fwolfer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744985477.257469",
+        "parent_user_id": "U069NSTHZ3Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CSacZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Marie,\nAujourd'hui chez Payplug l'impact des PMM est surtout côté sales :\nbeaucoup d'enablement (supports, trainings, contenus en tout genre).\nA date, on n'a pas réussi à trouver la magic sauce pour que PMM x PM fonctionne à fond, mais c'est aussi car on est en pleine transfo, nos PM sont surtout des chefs de projet delivery.\nDu coup, quand on a des vrais lancements de features, la réalité est qu'on décorrèle du calendrier de livraison et on choisi les timings à notre sauce en fonction des temps forts du marché.\nSûrement pas nickel, mais au moins ça fonctionne "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U069NSTHZ3Q",
+        "type": "message",
+        "ts": "1745422358.265069",
+        "client_msg_id": "1573c800-e6d5-4554-93fd-e6463068f419",
+        "text": "merci <@U06DYTRDLUD> pour ton retour. On décorrèle aussi les sorties internes \/ externes (prospects surtout) pour les nouveautés produits!. Tu as combien de PMM?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "fbbca81fca0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-30\/7816371623809_fbbca81fca0c916c8c15_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Gannau (Oodrive)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "m.gannau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744985477.257469",
+        "parent_user_id": "U069NSTHZ3Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T6ZhC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06DYTRDLUD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour ton retour. On décorrèle aussi les sorties internes \/ externes (prospects surtout) pour les nouveautés produits!. Tu as combien de PMM?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U06DYTRDLUD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06DYTRDLUD",
+        "type": "message",
+        "ts": "1745423250.536859",
+        "client_msg_id": "63538447-228a-44c7-8fc3-b2c0a1c9f413",
+        "text": "3. Et j'en cherche un de plus.\nEt après j'ai 2 personnes en growth, 2 personnes en field et 2 content makers. Avec qui les PMM bossent en matriciel.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901f49789864",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-17\/6483135134229_901f4978986494a521e4_72.jpg",
+            "first_name": "Flora",
+            "real_name": "Flora Wolfer",
+            "display_name": "Flora Wolfer (Payplug)",
+            "team": "T017AGS2KE0",
+            "name": "fwolfer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744985477.257469",
+        "parent_user_id": "U069NSTHZ3Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ViYAt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "3. Et j'en cherche un de plus.\nEt après j'ai 2 personnes en growth, 2 personnes en field et 2 content makers. Avec qui les PMM bossent en matriciel."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

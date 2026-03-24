@@ -1,0 +1,79 @@
+[
+    {
+        "user": "U065DFPCQMP",
+        "type": "message",
+        "ts": "1738770407.847159",
+        "client_msg_id": "67fdc2eb-5ae8-405f-9eab-3bd6ec08bafe",
+        "text": "<@U02N2EVMFCG> pour les équipes avec des mini budgets, il y a <https:\/\/www.owler.com> (racheté par Meltwater il y a qq années) qui, couplé à Google Alert permet de bien scanner les mentions PR",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50040e0261e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-15\/6198553206674_50040e0261e7ba62e840_72.jpg",
+            "first_name": "Gaelle",
+            "real_name": "Gaelle Le Goff",
+            "display_name": "Gaelle Le Goff",
+            "team": "T017AGS2KE0",
+            "name": "gaelle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737740585.786909",
+        "parent_user_id": "U02N2EVMFCG",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.owler.com\/",
+                "service_icon": "https:\/\/images.squarespace-cdn.com\/content\/v1\/638e66ae2565501ed38e7c0e\/32a35b39-1dae-4517-a957-fce250e394b5\/favicon.ico?format=100w",
+                "thumb_url": "http:\/\/static1.squarespace.com\/static\/638e66ae2565501ed38e7c0e\/t\/638e6d93c493ef3e48418989\/1670278547344\/Owler-Tagline-Black-1200x500px.png?format=1500w",
+                "thumb_width": 1200,
+                "thumb_height": 500,
+                "id": 1,
+                "original_url": "https:\/\/www.owler.com",
+                "fallback": "Owler",
+                "text": "Owler's exclusive company and industry insights make it easy to find and monitor competitors, prospects, and key accounts – so you can increase your revenue and grow your business.",
+                "title": "Owler",
+                "title_link": "https:\/\/www.owler.com\/",
+                "service_name": "owler.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "znWoR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02N2EVMFCG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour les équipes avec des mini budgets, il y a "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.owler.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (racheté par Meltwater il y a qq années) qui, couplé à Google Alert permet de bien scanner les mentions PR"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U02N2EVMFCG"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

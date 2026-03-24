@@ -1,0 +1,156 @@
+[
+    {
+        "user": "U016QJZLRN3",
+        "type": "message",
+        "ts": "1750060113.961169",
+        "client_msg_id": "9d766f2c-8acf-4b91-bc39-543c29da436e",
+        "text": "Avec plaisir ! Je peux te partager l’invit par mail si tu me donnes ton mail :wink:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "8f96b26362da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-09\/4613327625731_8f96b26362dac7316985_72.jpg",
+            "first_name": "Célia",
+            "real_name": "Célia Poncelin",
+            "display_name": "Célia Poncelin",
+            "team": "T017AGS2KE0",
+            "name": "celia.poncelin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749719720.417789",
+        "parent_user_id": "U016QJZLRN3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FfWeu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Avec plaisir ! Je peux te partager l’invit par mail si tu me donnes ton mail "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U067VEJFT5F",
+        "type": "message",
+        "ts": "1750081313.903939",
+        "client_msg_id": "17c45b68-c79b-4cad-91ab-c64df6bac4d4",
+        "text": ":tram:Question Affichage outdoor : est-ce que certains d'entre vous ont déjà fait de l'affichage sur le tramway parisien ? Si oui, dans quel contexte et avez-vous été satisfaits des retours ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9fcbd8d4bd09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-05\/6296382564371_9fcbd8d4bd095d25ab4c_72.jpg",
+            "first_name": "Amandine",
+            "real_name": "Amandine Moreau",
+            "display_name": "Amandine Moreau",
+            "team": "T017AGS2KE0",
+            "name": "a.gremont.pro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bv2Ii",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "tram",
+                                "unicode": "1f68a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Question Affichage outdoor : est-ce que certains d'entre vous ont déjà fait de l'affichage sur le tramway parisien ? Si oui, dans quel contexte et avez-vous été satisfaits des retours ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "x",
+                "users": [
+                    "U017RAZCAGZ",
+                    "U017H09S857",
+                    "U08QZ6EKE4Q",
+                    "U03P99RGMTN",
+                    "U06DYTRDLUD",
+                    "U025AMSNGF8",
+                    "U08EN5GRYCC",
+                    "U084LQF8023",
+                    "U08M0JP81DK"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "user": "U016QJZLRN3",
+        "type": "message",
+        "ts": "1750086191.200349",
+        "client_msg_id": "4824ac05-9748-4cca-823f-b72a1cea5807",
+        "text": "<@U08M0JP81DK> on t’attend :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "8f96b26362da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-09\/4613327625731_8f96b26362dac7316985_72.jpg",
+            "first_name": "Célia",
+            "real_name": "Célia Poncelin",
+            "display_name": "Célia Poncelin",
+            "team": "T017AGS2KE0",
+            "name": "celia.poncelin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749719720.417789",
+        "parent_user_id": "U016QJZLRN3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ilKRF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U08M0JP81DK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on t’attend "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

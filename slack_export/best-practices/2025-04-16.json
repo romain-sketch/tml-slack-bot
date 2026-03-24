@@ -1,0 +1,415 @@
+[
+    {
+        "user": "U07MNBM4WLV",
+        "type": "message",
+        "ts": "1744788640.953689",
+        "client_msg_id": "69b7a5ee-a89b-4f2a-9607-2c08dd5fe7a8",
+        "text": "On est encore au tout début, pas de rôle identifié côté Sales, tout passe encore par le VP sales :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "028ce63b55be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7733128030774_028ce63b55be29945d4f_72.jpg",
+            "first_name": "Domitille",
+            "real_name": "Domitille de Saint-Exupéry",
+            "display_name": "Domitille de Saint-Exupéry (lemlist)",
+            "team": "T017AGS2KE0",
+            "name": "domitille433",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744270610.240309",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l8qjX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On est encore au tout début, pas de rôle identifié côté Sales, tout passe encore par le VP sales "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U03P99RGMTN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U056DAY3YD8",
+        "type": "message",
+        "ts": "1744791529.015609",
+        "client_msg_id": "0fb9955a-076f-4c34-9cb8-3f45b1c806ac",
+        "text": "Hello la TML team :wave:\n\nDeux sujets sur lesquels j'aimerais _leverager_ ~des KE~ votre expertise :\n\n1. J'organise pour Roundtable un événement de type community drink la semaine du 16 juin : est-ce que vous avez connaissance d'events côté VC\/Startups à cette période là de l'année qui pourraient rentrer en conflit avec le notre ?\n2. J'aimerais réussir à pousser davantage les fondateurs sur des prises de parole lors d'events du secteur mais j'ai l'impression que l'outreach fonctionne mal + la plupart des speaking positions sont payantes, avez-vous des bonnes pratiques à partager sur le sujet ? Selon moi ça rentre aussi dans un sujet plus global de booster le personal branding des fondateurs (events, webinars, podcasts, médias, etc).\nMerci pour vos conseils ! :pray:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "1497d32a4908",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-16\/6043403579731_1497d32a4908ee3b80b5_72.png",
+            "first_name": "Alexis",
+            "real_name": "Alexis Chevallier",
+            "display_name": "Alexis Chevallier (Part-Time CMO)",
+            "team": "T017AGS2KE0",
+            "name": "alexchvllr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744791529.015609",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1744805103.758379",
+        "reply_users": [
+            "U03P99RGMTN",
+            "U01789XN2UV"
+        ],
+        "replies": [
+            {
+                "user": "U03P99RGMTN",
+                "ts": "1744792894.172829"
+            },
+            {
+                "user": "U01789XN2UV",
+                "ts": "1744805103.758379"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "psXBF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello la TML team "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nDeux sujets sur lesquels j'aimerais "
+                            },
+                            {
+                                "type": "text",
+                                "text": "leverager",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "des KE",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " votre expertise :\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "J'organise pour Roundtable un événement de type community drink la semaine du 16 juin : est-ce que vous avez connaissance d'events côté VC\/Startups à cette période là de l'année qui pourraient rentrer en conflit avec le notre ?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "J'aimerais réussir à pousser davantage les fondateurs sur des prises de parole lors d'events du secteur mais j'ai l'impression que l'outreach fonctionne mal + la plupart des speaking positions sont payantes, avez-vous des bonnes pratiques à partager sur le sujet ? Selon moi ça rentre aussi dans un sujet plus global de booster le personal branding des fondateurs (events, webinars, podcasts, médias, etc)."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nMerci pour vos conseils ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "laughing",
+                "users": [
+                    "U02N2EVMFCG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U069NSTHZ3Q",
+        "type": "message",
+        "ts": "1744791769.475109",
+        "edited": {
+            "user": "U069NSTHZ3Q",
+            "ts": "1744791914.000000"
+        },
+        "client_msg_id": "b6799c18-6a40-46d5-89e2-79353b54ea8a",
+        "text": "Hello <@U067GNGDATD>, cela fonctionnait bien chez moi quand j'avais un customer marketing dédié qui centralisait tout (ce qui a l'air d'être ton cas). On se limitait à une com' toutes les 3 semaines max, sauf exception type event client annuel, gros webinar. Nous avions un calendrier d'emailing mais je ne pense pas qu'il était partagé, le customer success gérait les prios en bonne entente avec les CSM.\nNous segmentions par rôle : utilisateur, champion..\nDans certaines enteprises nous n'avions pas le droit de contacter les utilisateurs.\nL'in-app était principalement géré par le produit mais nous pouvions faire des demandes spécifiques (pour l'enquête nps par ex).\nDans ma nouvelle entreprise je n'ai plus de Customer marketing, c'est bien plus le bazar, avec 2 outils d'emailings (marketing : HB pour des emailings aux décideurs\/ acheteurs, et csm et prouit : brevo pour des email aux utilisateurs)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "fbbca81fca0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-30\/7816371623809_fbbca81fca0c916c8c15_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Gannau (Oodrive)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "m.gannau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744733186.133609",
+        "parent_user_id": "U067GNGDATD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T+guN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U067GNGDATD"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", cela fonctionnait bien chez moi quand j'avais un customer marketing dédié qui centralisait tout (ce qui a l'air d'être ton cas). On se limitait à une com' toutes les 3 semaines max, sauf exception type event client annuel, gros webinar. Nous avions un calendrier d'emailing mais je ne pense pas qu'il était partagé, le customer success gérait les prios en bonne entente avec les CSM.\nNous segmentions par rôle : utilisateur, champion..\nDans certaines enteprises nous n'avions pas le droit de contacter les utilisateurs.\nL'in-app était principalement géré par le produit mais nous pouvions faire des demandes spécifiques (pour l'enquête nps par ex).\nDans ma nouvelle entreprise je n'ai plus de Customer marketing, c'est bien plus le bazar, avec 2 outils d'emailings (marketing : HB pour des emailings aux décideurs\/ acheteurs, et csm et prouit : brevo pour des email aux utilisateurs)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U067GNGDATD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05H3SJKYFQ",
+        "type": "message",
+        "ts": "1744792811.314109",
+        "client_msg_id": "617466a5-ff3d-4dde-9285-f239eb521fe8",
+        "text": "merci <@U06DYTRDLUD> :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0931617f5e75",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-04\/5842709801061_0931617f5e75eee9f27b_72.jpg",
+            "first_name": "Raphaëlle",
+            "real_name": "Raphaëlle Béguinel - Malt",
+            "display_name": "Raphaëlle Béguinel - Malt",
+            "team": "T017AGS2KE0",
+            "name": "rbeguinel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744362372.195459",
+        "parent_user_id": "U05H3SJKYFQ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GtiIf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06DYTRDLUD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06DYTRDLUD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03P99RGMTN",
+        "type": "message",
+        "ts": "1744792894.172829",
+        "client_msg_id": "d740f6f6-0795-44ed-bdf9-a42b035c0d93",
+        "text": "t’as vivatech la semaine d’avant qui monopolise pas mal de monde",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2f8b530bfffa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-28\/7656384027105_2f8b530bfffa39d455d3_72.png",
+            "first_name": "Julie",
+            "real_name": "Julie Asselin (365Talents)",
+            "display_name": "Julie Asselin (365Talents)",
+            "team": "T017AGS2KE0",
+            "name": "julie.asselin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744791529.015609",
+        "parent_user_id": "U056DAY3YD8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Fdc7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "t’as vivatech la semaine d’avant qui monopolise pas mal de monde"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U056DAY3YD8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01789XN2UV",
+        "type": "message",
+        "ts": "1744805103.758379",
+        "client_msg_id": "94488d52-e67e-4092-aca7-b7fbd7299294",
+        "text": "Les 15 ans de Kima le 19\/06",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "dc904393dfdd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-01-27\/8347075988438_dc904393dfdd624e2705_72.jpg",
+            "first_name": "Adrien",
+            "real_name": "Adrien Plat",
+            "display_name": "Adrien Plat",
+            "team": "T017AGS2KE0",
+            "name": "adrien",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744791529.015609",
+        "parent_user_id": "U056DAY3YD8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UEtb2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Les 15 ans de Kima le 19\/06"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U056DAY3YD8"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

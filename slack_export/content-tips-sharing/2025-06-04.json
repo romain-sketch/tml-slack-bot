@@ -1,0 +1,576 @@
+[
+    {
+        "user": "U06DYTRDLUD",
+        "type": "message",
+        "ts": "1749025251.090969",
+        "edited": {
+            "user": "U06DYTRDLUD",
+            "ts": "1749025267.000000"
+        },
+        "client_msg_id": "92403222-74c5-4d17-83c9-10db1d4c7ce4",
+        "text": "De notre côté :\n• Grosse baisse SEO depuis 2 quarters\n• Augmentation de plus en plus visibles des resquest AI, mais aucune idée de l'impact que ça a à ce stade\n• Vrai sujet pour nous de lisibilité de notre offre sur les LLM (ce qui nous permet malheureusement de conclure sur mon point précédent j'en ai peur). \nPour action : on lance un gros cycle de refonte de nos methodes de travail côté content et market au global, on verra dans qq semaines si ça mord :slightly_smiling_face:\n\nDu coup preneuse de ton avis Gwenn quand tu l'auras posé",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901f49789864",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-17\/6483135134229_901f4978986494a521e4_72.jpg",
+            "first_name": "Flora",
+            "real_name": "Flora Wolfer",
+            "display_name": "Flora Wolfer (Payplug)",
+            "team": "T017AGS2KE0",
+            "name": "fwolfer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748965443.253749",
+        "parent_user_id": "U04L04T475K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hlOr6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "De notre côté :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Grosse baisse SEO depuis 2 quarters"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Augmentation de plus en plus visibles des resquest AI, mais aucune idée de l'impact que ça a à ce stade"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Vrai sujet pour nous de lisibilité de notre offre sur les LLM (ce qui nous permet malheureusement de conclure sur mon point précédent j'en ai peur). "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nPour action : on lance un gros cycle de refonte de nos methodes de travail côté content et market au global, on verra dans qq semaines si ça mord "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nDu coup preneuse de ton avis Gwenn quand tu l'auras posé"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04L04T475K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06UK9NGTB4",
+        "type": "message",
+        "ts": "1749028751.638209",
+        "client_msg_id": "3a3ee397-a449-478c-a6f9-869940c2e494",
+        "text": "Très preneur d'insights également de mon côté, je constate le même feedback que <@U06DYTRDLUD> sur la baisse SEO sur nos deux derniers quarters !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0de90fd94651",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-12-08\/10074067873414_0de90fd94651dd81ffed_72.png",
+            "first_name": "François",
+            "real_name": "François Castro-Lara",
+            "display_name": "François Castro-Lara (Mayday)",
+            "team": "T017AGS2KE0",
+            "name": "francois",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748965443.253749",
+        "parent_user_id": "U04L04T475K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5KpLw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Très preneur d'insights également de mon côté, je constate le même feedback que "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06DYTRDLUD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sur la baisse SEO sur nos deux derniers quarters !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1749065152.990999",
+        "client_msg_id": "ec899323-44b6-4ae9-a216-7ab180235b68",
+        "text": "J'avais fait une réponse <https:\/\/techmarketingleaders.slack.com\/archives\/C016PK4DTP1\/p1741102864734419?thread_ts=1741094389.288699&amp;cid=C016PK4DTP1|ici> qui peut vous intéresser.\nS'il y a un call qui s'organise, je suis chaud pour en être :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748965443.253749",
+        "parent_user_id": "U04L04T475K",
+        "attachments": [
+            {
+                "from_url": "https:\/\/techmarketingleaders.slack.com\/archives\/C016PK4DTP1\/p1741102864734419?thread_ts=1741094389.288699&amp;cid=C016PK4DTP1",
+                "ts": "1741102864.734419",
+                "author_id": "U016SBPG7K9",
+                "channel_id": "C016PK4DTP1",
+                "channel_team": "T017AGS2KE0",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T017AGS2KE0",
+                        "channel": "C016PK4DTP1",
+                        "ts": "1741102864.734419",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "lLSka",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Réponse assez longue et loin d'être exhaustive "
+                                                },
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "smile",
+                                                    "unicode": "1f604"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n\nSur votre site, la base c'est les mêmes recommandations que Google a toujours faites:\n"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "rich_text_list",
+                                            "elements": [
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "focus sur EEAT (Experience, Expertise, Authoritativeness, and Trustworthiness)"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "site bien organisé, facile à comprendre pour humains et robots (sitemap, vitesse de chargement, accessibilité, internal linking, viser le max de clic le plus bas possible pour atteindre votre contenu le plus profond (ex: combien de clics depuis la home jusqu'à votre plus vieil article de blog en utilisant uniquement la navigation?))"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "contenu updaté régulièrement, avec forte valeur ajoutée vs les autres sites (rejoint EEAT)"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "edit: et pour maintenir la lead gen => favorisez les contenus qui forcent les users à aller sur votre site pour en tirer de la valeur (ex: mini outils, assets à télécharger etc)"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "style": "bullet",
+                                            "indent": 0,
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "\nSur votre site, ce qui est nouveau:\n"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "rich_text_list",
+                                            "elements": [
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Baisse de valeur des keywords stricts et hausse de la valeur de la long tail (ex: on adressait \"best webinar software\" avec une page dédiée bourrée de ce KW, maintenant on va plutôt query \"what is the best webinar software\" et voir ce qui sort + faire evoluer notre contenu pour plutot adresser ce genre de requete, plutot qu'un mot clé très précis)"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Plus largement : hausse de la valeur de pages à faible impact SEO \"d'avant\", mais fort impact \"faire comprendre à l'IA ce que mon produit permet et propose\". Pour nous c'est un effort ++ sur :"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "style": "bullet",
+                                            "indent": 0,
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_list",
+                                            "elements": [
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "pages produit"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "détail sur nos fonctionnalités (pour être sur d'apparaître sur les demandes précises)"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "dévelopement industries\/use cases\/usage par équipe => avant c'était juste pour les gens qui visitent le site, maintenant c'est pour que ce soit compréhensible dans le contexte de Google AI overview ou Chat IA"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "style": "bullet",
+                                            "indent": 1,
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_list",
+                                            "elements": [
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Mise en place llms.txt qui aide les IA à scanner le site"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Ajouter des éléments FAQ pertinents (le format question\/réponse match bien avec l'usage des humains de l'IA, donc on pense que ça peut permettre de pop dans les résultats plus facilement)"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "style": "bullet",
+                                            "indent": 0,
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "\nHors de votre site:\n"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "rich_text_list",
+                                            "elements": [
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "importance RP ++"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "probablement baisse de l'importance des backlinks par rapport aux mentions simple du nom de la marque\/produit"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "importance sites 3rd party et user generated content (Reddit, Trustpilot, Quora etc => probablement utilisés comme signaux pour estimer la qualité d'un tool)"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "et importance de cleaner les infos sur les 3rd party (review sites, articles affiliates etc) => ex si vous changez de pricing, de positionnement, lancez une feature majeure... il faut qu'ils updatent leur contenu pour aider l'IA pour prendre la vraie info (vous pouvez reverse engineer en partant de requetes et voir ce qui ressort. Par ex nous on ressort comme un outil Webinar pour SMB alors qu'on est maintenant positionnés Mid market +. Visible sur les chatbots IA mais ça va probablement aussi nous pénaliser sur Google IA overview)."
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "style": "bullet",
+                                            "indent": 0,
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "\nEt un tip: Semrush commence à montrer des previews de IA Overview sur certaines des requêtes => on utilise ça pour monitor sur quels sujets l'IA overview apparait et commencer à affiner notre contenu dessus."
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/techmarketingleaders.slack.com\/archives\/C016PK4DTP1\/p1741102864734419?thread_ts=1741094389.288699&amp;cid=C016PK4DTP1",
+                "fallback": "[March 4th, 2025 7:41 AM] thibaut: Réponse assez longue et loin d'être exhaustive :smile:\n\nSur votre site, la base c'est les mêmes recommandations que Google a toujours faites:\n• focus sur EEAT (Experience, Expertise, Authoritativeness, and Trustworthiness)\n• site bien organisé, facile à comprendre pour humains et robots (sitemap, vitesse de chargement, accessibilité, internal linking, viser le max de clic le plus bas possible pour atteindre votre contenu le plus profond (ex: combien de clics depuis la home jusqu'à votre plus vieil article de blog en utilisant uniquement la navigation?))\n• contenu updaté régulièrement, avec forte valeur ajoutée vs les autres sites (rejoint EEAT)\n• edit: et pour maintenir la lead gen => favorisez les contenus qui forcent les users à aller sur votre site pour en tirer de la valeur (ex: mini outils, assets à télécharger etc)\nSur votre site, ce qui est nouveau:\n• Baisse de valeur des keywords stricts et hausse de la valeur de la long tail (ex: on adressait \"best webinar software\" avec une page dédiée bourrée de ce KW, maintenant on va plutôt query \"what is the best webinar software\" et voir ce qui sort + faire evoluer notre contenu pour plutot adresser ce genre de requete, plutot qu'un mot clé très précis)\n• Plus largement : hausse de la valeur de pages à faible impact SEO \"d'avant\", mais fort impact \"faire comprendre à l'IA ce que mon produit permet et propose\". Pour nous c'est un effort ++ sur :\n    ◦ pages produit\n    ◦ détail sur nos fonctionnalités (pour être sur d'apparaître sur les demandes précises)\n    ◦ dévelopement industries\/use cases\/usage par équipe => avant c'était juste pour les gens qui visitent le site, maintenant c'est pour que ce soit compréhensible dans le contexte de Google AI overview ou Chat IA\n• Mise en place llms.txt qui aide les IA à scanner le site\n• Ajouter des éléments FAQ pertinents (le format question\/réponse match bien avec l'usage des humains de l'IA, donc on pense que ça peut permettre de pop dans les résultats plus facilement)\nHors de votre site:\n• importance RP ++\n• probablement baisse de l'importance des backlinks par rapport aux mentions simple du nom de la marque\/produit\n• importance sites 3rd party et user generated content (Reddit, Trustpilot, Quora etc => probablement utilisés comme signaux pour estimer la qualité d'un tool)\n• et importance de cleaner les infos sur les 3rd party (review sites, articles affiliates etc) => ex si vous changez de pricing, de positionnement, lancez une feature majeure... il faut qu'ils updatent leur contenu pour aider l'IA pour prendre la vraie info (vous pouvez reverse engineer en partant de requetes et voir ce qui ressort. Par ex nous on ressort comme un outil Webinar pour SMB alors qu'on est maintenant positionnés Mid market +. Visible sur les chatbots IA mais ça va probablement aussi nous pénaliser sur Google IA overview).\nEt un tip: Semrush commence à montrer des previews de IA Overview sur certaines des requêtes => on utilise ça pour monitor sur quels sujets l'IA overview apparait et commencer à affiner notre contenu dessus.",
+                "text": "Réponse assez longue et loin d'être exhaustive :smile:\n\nSur votre site, la base c'est les mêmes recommandations que Google a toujours faites:\n• focus sur EEAT (Experience, Expertise, Authoritativeness, and Trustworthiness)\n• site bien organisé, facile à comprendre pour humains et robots (sitemap, vitesse de chargement, accessibilité, internal linking, viser le max de clic le plus bas possible pour atteindre votre contenu le plus profond (ex: combien de clics depuis la home jusqu'à votre plus vieil article de blog en utilisant uniquement la navigation?))\n• contenu updaté régulièrement, avec forte valeur ajoutée vs les autres sites (rejoint EEAT)\n• edit: et pour maintenir la lead gen => favorisez les contenus qui forcent les users à aller sur votre site pour en tirer de la valeur (ex: mini outils, assets à télécharger etc)\nSur votre site, ce qui est nouveau:\n• Baisse de valeur des keywords stricts et hausse de la valeur de la long tail (ex: on adressait \"best webinar software\" avec une page dédiée bourrée de ce KW, maintenant on va plutôt query \"what is the best webinar software\" et voir ce qui sort + faire evoluer notre contenu pour plutot adresser ce genre de requete, plutot qu'un mot clé très précis)\n• Plus largement : hausse de la valeur de pages à faible impact SEO \"d'avant\", mais fort impact \"faire comprendre à l'IA ce que mon produit permet et propose\". Pour nous c'est un effort ++ sur :\n    ◦ pages produit\n    ◦ détail sur nos fonctionnalités (pour être sur d'apparaître sur les demandes précises)\n    ◦ dévelopement industries\/use cases\/usage par équipe => avant c'était juste pour les gens qui visitent le site, maintenant c'est pour que ce soit compréhensible dans le contexte de Google AI overview ou Chat IA\n• Mise en place llms.txt qui aide les IA à scanner le site\n• Ajouter des éléments FAQ pertinents (le format question\/réponse match bien avec l'usage des humains de l'IA, donc on pense que ça peut permettre de pop dans les résultats plus facilement)\nHors de votre site:\n• importance RP ++\n• probablement baisse de l'importance des backlinks par rapport aux mentions simple du nom de la marque\/produit\n• importance sites 3rd party et user generated content (Reddit, Trustpilot, Quora etc => probablement utilisés comme signaux pour estimer la qualité d'un tool)\n• et importance de cleaner les infos sur les 3rd party (review sites, articles affiliates etc) => ex si vous changez de pricing, de positionnement, lancez une feature majeure... il faut qu'ils updatent leur contenu pour aider l'IA pour prendre la vraie info (vous pouvez reverse engineer en partant de requetes et voir ce qui ressort. Par ex nous on ressort comme un outil Webinar pour SMB alors qu'on est maintenant positionnés Mid market +. Visible sur les chatbots IA mais ça va probablement aussi nous pénaliser sur Google IA overview).\nEt un tip: Semrush commence à montrer des previews de IA Overview sur certaines des requêtes => on utilise ça pour monitor sur quels sujets l'IA overview apparait et commencer à affiner notre contenu dessus.",
+                "author_name": "Thibaut Davoult",
+                "author_link": "https:\/\/techmarketingleaders.slack.com\/team\/U016SBPG7K9",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_48.jpg",
+                "author_subname": "Thibaut Davoult",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Thread in Slack Conversation"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cTwV8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'avais fait une réponse "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/techmarketingleaders.slack.com\/archives\/C016PK4DTP1\/p1741102864734419?thread_ts=1741094389.288699&cid=C016PK4DTP1",
+                                "text": "ici"
+                            },
+                            {
+                                "type": "text",
+                                "text": " qui peut vous intéresser.\nS'il y a un call qui s'organise, je suis chaud pour en être "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U056DAY3YD8",
+                    "U06UK9NGTB4"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U04L04T475K",
+        "type": "message",
+        "ts": "1749074502.730709",
+        "client_msg_id": "7B3E1855-6284-43FE-B841-767CBB35703C",
+        "text": "Merci <@U016SBPG7K9> !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "992240f01962",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4685704045204_992240f019622b6b0af8_72.jpg",
+            "first_name": "Antoine",
+            "real_name": "Antoine Yahia Cherif",
+            "display_name": "Antoine Yahia Cherif",
+            "team": "T017AGS2KE0",
+            "name": "antoine.yc008",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748965443.253749",
+        "parent_user_id": "U04L04T475K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x\/xA7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U016SBPG7K9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06UK9NGTB4",
+        "type": "message",
+        "ts": "1749103699.256159",
+        "client_msg_id": "46E9FB42-2135-49FA-BC87-067B920A6497",
+        "text": "Merci <@U016SBPG7K9> !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0de90fd94651",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-12-08\/10074067873414_0de90fd94651dd81ffed_72.png",
+            "first_name": "François",
+            "real_name": "François Castro-Lara",
+            "display_name": "François Castro-Lara (Mayday)",
+            "team": "T017AGS2KE0",
+            "name": "francois",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748965443.253749",
+        "parent_user_id": "U04L04T475K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x\/xA7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U016SBPG7K9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

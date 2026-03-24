@@ -1,0 +1,316 @@
+[
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1751963550.197189",
+        "client_msg_id": "a4bc9b02-2c0a-41e5-9ae4-2add70e6e24a",
+        "text": "<https:\/\/www.linkedin.com\/feed\/update\/urn:li:share:7348266353448902657\/>\nOn vient d’annoncer les lauréats de notre programme Go Global qu’on lance en Septembre ! (cc <@U06UK9NGTB4> :wink: )\n\n(PS : C’est un vrai métier de faire un programme d’accélération :sweat_smile: Heureusement qu’on a des experts de fou pour nous aider <@U0183AS3MB6> <@U03CY07UZJM> :kissing_heart: )",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1751963550.197189",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1751963579.987279",
+        "reply_users": [
+            "U06UK9NGTB4"
+        ],
+        "replies": [
+            {
+                "user": "U06UK9NGTB4",
+                "ts": "1751963579.987279"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "image_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/D4E22AQGtrr5ddhw69Q\/feedshare-shrink_2048_1536\/B4EZfpJTxHHwAo-\/0\/1751963222040?e=2147483647&v=beta&t=BCxz6_RgJCjg6whRGDJgwNLr_0oVw-JWpNMmOBn0V4w",
+                "image_width": 1080,
+                "image_height": 1080,
+                "image_bytes": 88763,
+                "from_url": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:share:7348266353448902657\/",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:share:7348266353448902657\/",
+                "fallback": "Voici les 7 Lauréats de notre programme Go Global ! | Eugene Ernoult",
+                "text": "Voici les 7 Lauréats de notre programme Go Global ! \n\n189 candidatures, 7 places, la sélection n’a pas été simple ...\n\nMais ça confirme une chose : l’envie d’internationalisation est bien présente dans l’écosystème français et il y a encore beaucoup de progrès à faire pour rendre cette étape clé plus facile.\n\nPour rappel, Go Global c&amp;#39;est le 1er programme d’accélération 100 % gratuit pour les startups et PME françaises prêtes à franchir les frontières.\n\nUn immense merci au jury pour son aide précieuse (choisir 7 boîtes sur 189, c’est sport), et bravo à toutes les entreprises qui ont postulé :clap:\n\nVoici les 7 entreprises lauréates :\n\n:point_right: Wecasa\n\n:point_right: Reelevant\n\n:point_right: Mayday\n\n:point_right: Spliiit\n\n:point_right: Vinylacy\n\n:point_right: Circul&amp;#39;Egg\n\n:point_right: VIBRE Paris\n\nPetit message pour vous, les lauréats :\n\nOn est super heureux de démarrer cette aventure avec vous, nous espérons que ce programme vous fera gagner du temps, de l’énergie mais surtout un nouveau marché. :raised_hands:\n\nCette 1ère promo, on l’a pensée comme un vrai laboratoire d’apprentissage. On va avancer ensemble, tester, douter parfois, réussir (souvent j’espère !) et bien sûr tout documenter ici alors n’hésitez pas à me suivre si le sujet vous intéresse :books:\n\nEt dernière chose :\n\nGérer un programme d’accélération, c’est un vrai métier :sweat_smile: \nBravo Elodie pour avoir pris ça en main avec brio !\n(Heureusement qu’on est bien entourés.)",
+                "title": "Voici les 7 Lauréats de notre programme Go Global ! | Eugene Ernoult",
+                "title_link": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:share:7348266353448902657\/",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N8vn\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:share:7348266353448902657\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nOn vient d’annoncer les lauréats de notre programme Go Global qu’on lance en Septembre ! (cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06UK9NGTB4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            },
+                            {
+                                "type": "text",
+                                "text": " )\n\n(PS : C’est un vrai métier de faire un programme d’accélération "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Heureusement qu’on a des experts de fou pour nous aider "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0183AS3MB6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CY07UZJM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "kissing_heart",
+                                "unicode": "1f618"
+                            },
+                            {
+                                "type": "text",
+                                "text": " )"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U06UK9NGTB4",
+                    "U03CY07UZJM",
+                    "U063A8VPPG9",
+                    "U0183AS3MB6",
+                    "U06DYTRDLUD",
+                    "U01MVJPEEH3"
+                ],
+                "count": 6
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U06UK9NGTB4",
+                    "U0183AS3MB6",
+                    "U06DYTRDLUD",
+                    "U02N2EVMFCG",
+                    "U03P99RGMTN"
+                ],
+                "count": 5
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U092PH1F2CA",
+                    "U06DYTRDLUD"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06UK9NGTB4",
+        "type": "message",
+        "ts": "1751963579.987279",
+        "client_msg_id": "a8fc8204-7e50-44ab-b669-4dc259bb750c",
+        "text": "Encore merci <@U06CZESF7QF> pour cette super opportunité ! Très hâte de commencer :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0de90fd94651",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-12-08\/10074067873414_0de90fd94651dd81ffed_72.png",
+            "first_name": "François",
+            "real_name": "François Castro-Lara",
+            "display_name": "François Castro-Lara (Mayday)",
+            "team": "T017AGS2KE0",
+            "name": "francois",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1751963550.197189",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GYD9L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Encore merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06CZESF7QF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour cette super opportunité ! Très hâte de commencer "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U042GV737MX",
+        "type": "message",
+        "ts": "1751964554.572349",
+        "client_msg_id": "171c4c8e-b01a-49c0-a7aa-f98356b85d23",
+        "text": "Coucou ! Je cherche du likes et du :heart: pour ma nouvelle campagne doctolib pour les patients ! Merci  beaucoup :slightly_smiling_face: :slightly_smiling_face:\n<https:\/\/www.linkedin.com\/posts\/activity-7348266626762375168-nSS4?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAAW46lwBZyuhZwyku8SzybMrmtPJv-Rh-bU|https:\/\/www.linkedin.com\/posts\/activity-7348266626762375168-nSS4?utm_source=share&amp;utm[…]m=member_desktop&amp;rcm=ACoAAAW46lwBZyuhZwyku8SzybMrmtPJv-Rh-bU>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "477225f2b12e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4077716786404_477225f2b12eccc47dc4_72.png",
+            "first_name": "Claire",
+            "real_name": "Claire Chauvallon",
+            "display_name": "Claire Chauvallon",
+            "team": "T017AGS2KE0",
+            "name": "chauvallon.claire",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/posts\/activity-7348266626762375168-nSS4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAW46lwBZyuhZwyku8SzybMrmtPJv-Rh-bU",
+                "image_url": "https:\/\/dms.licdn.com\/playlist\/vid\/v2\/D4E05AQEUBLwsOn1Umg\/thumbnail-with-play-button-overlay-high\/B4EZfpJftHHwEA-\/0\/1751963281810?e=2147483647&v=beta&t=2hqxM-AXo-cZcPPBL8XKfQ3UNy5ENKJAwbGJFZRDjn8",
+                "image_width": 1280,
+                "image_height": 720,
+                "image_bytes": 86103,
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/posts\/activity-7348266626762375168-nSS4?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAAW46lwBZyuhZwyku8SzybMrmtPJv-Rh-bU",
+                "fallback": "Le meilleur réflexe santé, c’est souvent celui auquel on ne pense pas. | Claire Chauvallon",
+                "text": "Le meilleur réflexe santé, c’est souvent celui auquel on ne pense pas. :bell:\n\nNotre mission, c’est d’accompagner chacun d’entre vous vers une santé plus proactive, plus sereine. Avec les Rappels santé, une simple notification peut vous rappeler, au bon moment, de ne pas oublier un rendez-vous essentiel, comme un dépistage du cancer du sein.\n\nCe projet, c’est le fruit du travail passionné de nos équipes, que je remercie chaleureusement : elles ont su conjuguer expertise médicale, écoute des besoins utilisateurs et excellence technologique pour rendre la prévention accessible et intégrée dans notre quotidien.\n\nComment activer cette fonctionnalité ?\n\n:arrow_right: Mettez à jour votre application Doctolib, puis ouvrez la rubrique Santé.\n\nLa santé de demain sera préventive et accessible. C’est ce que nous construisons tous ensemble, un rendez-vous à la fois.\n\nUn grand bravo à toutes les personnes qui ont rendu cela possible chez Doctolib : Yann Chervet , Nadia Raimi, Baptiste Meygret, Flavie Journet, Alizée Roubach, Anne L&amp;#39;Huby, Inès Dali, Lisa Deias, Maëlle Lucas, Angéline Degraeve, Giuseppe Tamola, Nicola Brandolese, Louise Mellot, Margaux Ceccaldi, Madiha Latafi, Naima Zakaria, Franziska Maria Bauschert, Ismail Mansouri, Arnaud Féret, Jean Okęcki, Léo Lanzarotti, Mathilde Jaïs, Camille VAZIAGA, Julie Touyarot, Jean-Urbain Hubau urbain et à l’agence PANORAMA STUDIO | Creative Agency|(Gabriel De Aguiar Pierre-Alexis Génard Ugo Savouillan) pour la création de ces deux concepts vidéos, amplifiés dans une campagne paid et sur tous nos canaux organiques :clapper: !",
+                "title": "Le meilleur réflexe santé, c’est souvent celui auquel on ne pense pas. | Claire Chauvallon",
+                "title_link": "https:\/\/www.linkedin.com\/posts\/activity-7348266626762375168-nSS4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAW46lwBZyuhZwyku8SzybMrmtPJv-Rh-bU",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Egkrj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Coucou ! Je cherche du likes et du "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart",
+                                "unicode": "2764-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour ma nouvelle campagne doctolib pour les patients ! Merci  beaucoup "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/posts\/activity-7348266626762375168-nSS4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAW46lwBZyuhZwyku8SzybMrmtPJv-Rh-bU",
+                                "text": "https:\/\/www.linkedin.com\/posts\/activity-7348266626762375168-nSS4?utm_source=share&utm[…]m=member_desktop&rcm=ACoAAAW46lwBZyuhZwyku8SzybMrmtPJv-Rh-bU"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U092PH1F2CA",
+                    "U06CZESF7QF",
+                    "U0177A5V42F",
+                    "U063A8VPPG9",
+                    "U0183AS3MB6",
+                    "U08PLD4KPS8",
+                    "U01MVJPEEH3",
+                    "U06LENY5V6Z"
+                ],
+                "count": 8
+            }
+        ]
+    }
+]

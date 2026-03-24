@@ -1,0 +1,642 @@
+[
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1738742732.680199",
+        "client_msg_id": "490419a3-4753-4a3f-8981-cdd8fb42cbff",
+        "text": "Hello, same chez Figures. Ce n'est pas implémenté dans l'outil, mais on s'est fixés 12 mois.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738706009.474189",
+        "parent_user_id": "U0859A8P14K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q5TLM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, same chez Figures. Ce n'est pas implémenté dans l'outil, mais on s'est fixés 12 mois."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017RAZCAGZ",
+        "type": "message",
+        "ts": "1738743858.395099",
+        "edited": {
+            "user": "U017RAZCAGZ",
+            "ts": "1738743872.000000"
+        },
+        "client_msg_id": "62F4DED4-DEB1-4D93-8798-DBBD5A8843FB",
+        "text": "Coucou - on est en plein dedans chez Phenix. On est en train de déterminer une look back window corrélée à la durée de notre salescyclz en fonction des segments (elle sera plus longue sur ENT vs SMB). ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2e6e61c8f204",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-20\/1251040887619_2e6e61c8f20434050630_72.jpg",
+            "first_name": "Hélène",
+            "real_name": "Hélène Draoulec (Phenix)",
+            "display_name": "Hélène Draoulec (Phenix)",
+            "team": "T017AGS2KE0",
+            "name": "hdraoulec",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738706009.474189",
+        "parent_user_id": "U0859A8P14K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sXfhI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Coucou - on est en plein dedans chez Phenix. On est en train de déterminer une look back window corrélé"
+                            },
+                            {
+                                "type": "text",
+                                "text": "e"
+                            },
+                            {
+                                "type": "text",
+                                "text": " à la durée de notre salescyclz en fonction des segments (elle sera plus longue sur ENT vs SMB). "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017RAZCAGZ",
+        "type": "message",
+        "ts": "1738744111.770149",
+        "client_msg_id": "B7AE92EF-3D35-408B-819E-9C22A63B4DFD",
+        "text": "A priori on sera sur 3 mois vs 1 mois ou 6 mois vs 3 mois. On attend confirmation de la Data. ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2e6e61c8f204",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-20\/1251040887619_2e6e61c8f20434050630_72.jpg",
+            "first_name": "Hélène",
+            "real_name": "Hélène Draoulec (Phenix)",
+            "display_name": "Hélène Draoulec (Phenix)",
+            "team": "T017AGS2KE0",
+            "name": "hdraoulec",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738706009.474189",
+        "parent_user_id": "U0859A8P14K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VUJyi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A priori on sera sur 3 mois vs 1 mois ou 6 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "mois vs 3 mois. On attend confirmation de la Data. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U069NSTHZ3Q"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1738744338.704389",
+        "client_msg_id": "0bc05da3-cca2-4821-9e51-64a24f4d7b1c",
+        "text": "nous, on met 3 mois",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738706009.474189",
+        "parent_user_id": "U0859A8P14K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lUESS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nous, on met 3 mois"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1738744380.779969",
+        "client_msg_id": "91da0d3f-d70f-4a90-9fe5-d49c90aa65eb",
+        "text": "Oui sales sourced :slightly_smiling_face: En général on prend la durée du cycle de vente moyen comme reset.\nEn revanche, il vous faut une mécanique propre de 'je te rends l'opportunité'. C'est à dire :\n1. le sales close pas, ça retourne au marketing\n2. le marketing nurture le gars et regénère de l'intérêt (donc est recrédité de la source avant que ça retourne au sales :))\nSi vous n'avez pas ce mécanisme, ça va être chiant et frustrant pour toi :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738706009.474189",
+        "parent_user_id": "U0859A8P14K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0otnR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui sales sourced "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " En général on prend la durée du cycle de vente moyen comme reset.\nEn revanche, il vous faut une mécanique propre de 'je te rends l'opportunité'. C'est à dire :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "le sales close pas, ça retourne au marketing"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "le marketing nurture le gars et regénère de l'intérêt (donc est recrédité de la source avant que ça retourne au sales :))"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si vous n'avez pas ce mécanisme, ça va être chiant et frustrant pour toi "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06TF9YAWEM",
+        "type": "message",
+        "ts": "1738745069.004279",
+        "client_msg_id": "a8c9f797-c194-4f63-b2af-69e84c2399b2",
+        "text": "Hello, chez Doctolib c'est 3 mois pour info (mais à mon sens un peu court comme on a des cycles de vente plus longs sur nos nouveaux produits)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "bd18243d01f9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-04-13\/8768953549904_bd18243d01f97fe02075_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Lhermitte",
+            "display_name": "Marie Lhermitte (Lucca)",
+            "team": "T017AGS2KE0",
+            "name": "marie.lhermitte78",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738706009.474189",
+        "parent_user_id": "U0859A8P14K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Q0l1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, chez Doctolib c'est 3 mois pour info (mais à mon sens un peu court comme on a des cycles de vente plus longs sur nos nouveaux produits)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U055KSYA2AH",
+        "type": "message",
+        "ts": "1738762694.862019",
+        "edited": {
+            "user": "U055KSYA2AH",
+            "ts": "1738828320.000000"
+        },
+        "client_msg_id": "315284ea-59f1-4250-a99b-c36e216902dc",
+        "text": "Hello, question pour ceux qui utilisent les services d’une agence pour gérer vos campagnes paid : quel est le modèle de fee ? flat fee ? fee selon le budget media ? Autres ? pas besoin de me citer les noms mais curieux d’avoir les tendances du marché et les % appliqués",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "77f967801b39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-02\/5198498072658_77f967801b39b2c56563_72.png",
+            "first_name": "Olivier",
+            "real_name": "Olivier Milcent",
+            "display_name": "Olivier Milcent (DeepReach)",
+            "team": "T017AGS2KE0",
+            "name": "omilcent",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738762694.862019",
+        "reply_count": 7,
+        "reply_users_count": 6,
+        "latest_reply": "1739449027.997609",
+        "reply_users": [
+            "U078PFP7A4B",
+            "U017RAZCAGZ",
+            "U055KSYA2AH",
+            "U07R7CUFM7H",
+            "U04HP95GK55",
+            "U088J9RFEH2"
+        ],
+        "replies": [
+            {
+                "user": "U078PFP7A4B",
+                "ts": "1738763846.521379"
+            },
+            {
+                "user": "U017RAZCAGZ",
+                "ts": "1738765823.757709"
+            },
+            {
+                "user": "U055KSYA2AH",
+                "ts": "1738766293.787059"
+            },
+            {
+                "user": "U07R7CUFM7H",
+                "ts": "1738766500.364809"
+            },
+            {
+                "user": "U04HP95GK55",
+                "ts": "1738780480.450739"
+            },
+            {
+                "user": "U017RAZCAGZ",
+                "ts": "1739177266.080319"
+            },
+            {
+                "user": "U088J9RFEH2",
+                "ts": "1739449027.997609"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JeiZy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, question pour ceux qui utilisent les services d’une agence pour gérer vos campagnes paid : quel est le modèle de fee ? flat fee ? fee selon le budget media ? Autres ? pas besoin de me citer les noms mais curieux d’avoir les tendances du marché et les % appliqués"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1738763846.521379",
+        "edited": {
+            "user": "U078PFP7A4B",
+            "ts": "1738763856.000000"
+        },
+        "client_msg_id": "f18d6a8e-f8bb-4262-b311-d59e10201fdd",
+        "text": "Hello ! Flat fee de mon côté",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738762694.862019",
+        "parent_user_id": "U055KSYA2AH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fMBnw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello ! Flat fee de mon côté"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U055KSYA2AH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U017RAZCAGZ",
+        "type": "message",
+        "ts": "1738765823.757709",
+        "client_msg_id": "8378287E-E0F4-49B5-8799-F565224BE8AC",
+        "text": "Fee selon budget ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2e6e61c8f204",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-20\/1251040887619_2e6e61c8f20434050630_72.jpg",
+            "first_name": "Hélène",
+            "real_name": "Hélène Draoulec (Phenix)",
+            "display_name": "Hélène Draoulec (Phenix)",
+            "team": "T017AGS2KE0",
+            "name": "hdraoulec",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738762694.862019",
+        "parent_user_id": "U055KSYA2AH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1G5XO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fee selon budget "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U055KSYA2AH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U055KSYA2AH",
+        "type": "message",
+        "ts": "1738766293.787059",
+        "client_msg_id": "2fba2d1a-fc28-43ee-8746-dde13c084959",
+        "text": "si vous pouvez partager les % c’est top (ou en DM si vous préférez). J’ai l’impression que le marché est entre 8 et 12%...",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "77f967801b39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-02\/5198498072658_77f967801b39b2c56563_72.png",
+            "first_name": "Olivier",
+            "real_name": "Olivier Milcent",
+            "display_name": "Olivier Milcent (DeepReach)",
+            "team": "T017AGS2KE0",
+            "name": "omilcent",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738762694.862019",
+        "parent_user_id": "U055KSYA2AH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h9nxJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si vous pouvez partager les % c’est top (ou en DM si vous préférez). J’ai l’impression que le marché est entre 8 et 12%..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07R7CUFM7H",
+        "type": "message",
+        "ts": "1738766500.364809",
+        "client_msg_id": "7162edb2-6d1e-4cc0-b5b6-848904979173",
+        "text": "Flat fee ici",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "1eabd032cd82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-05\/8152020385456_1eabd032cd826d3f64b3_72.jpg",
+            "first_name": "Mayeul",
+            "real_name": "Mayeul",
+            "display_name": "Mayeul (Mangopay)",
+            "team": "T017AGS2KE0",
+            "name": "mayeul.wattecamps",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738762694.862019",
+        "parent_user_id": "U055KSYA2AH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y7aoA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Flat fee ici"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U055KSYA2AH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04HP95GK55",
+        "type": "message",
+        "ts": "1738780480.450739",
+        "client_msg_id": "E5C7FF30-9034-4111-AEBC-48F9A025FEC4",
+        "text": "Flat fee",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c346c82c7f22",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-06\/6302019761282_c346c82c7f22a623d69d_72.jpg",
+            "first_name": "Raphael",
+            "real_name": "Raphael Dardek",
+            "display_name": "Raphael (Kyka)",
+            "team": "T017AGS2KE0",
+            "name": "rdardek",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738762694.862019",
+        "parent_user_id": "U055KSYA2AH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KaGdU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Flat fee"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U055KSYA2AH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

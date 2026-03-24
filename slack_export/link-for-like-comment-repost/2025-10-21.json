@@ -1,0 +1,750 @@
+[
+    {
+        "user": "U06DYTRDLUD",
+        "type": "message",
+        "ts": "1761031785.299229",
+        "client_msg_id": "fcfe17d4-2037-439c-9ce4-b22107fa3749",
+        "text": "Woooo well done ! Quelle équipe incroyable ça va faire",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901f49789864",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-17\/6483135134229_901f4978986494a521e4_72.jpg",
+            "first_name": "Flora",
+            "real_name": "Flora Wolfer",
+            "display_name": "Flora Wolfer (Payplug)",
+            "team": "T017AGS2KE0",
+            "name": "fwolfer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760979988.870179",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3oEFf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Woooo well done ! Quelle équipe incroyable ça va faire"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U084KTR7YKX",
+                    "U07MNBM4WLV"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U0946E8A2US",
+        "type": "message",
+        "ts": "1761031915.006869",
+        "client_msg_id": "50ec7094-6001-46aa-8884-74cf97a4250e",
+        "text": "Hello tout le monde ! J'annonce aujourd'hui mon lancement en tant que solopreneur (fCMO, Growth advisory).\n\nSi vous souhaitez me donner un petit coup de boost, <https:\/\/www.linkedin.com\/posts\/thibautdavoult_after-8-years-scaling-livestorm-going-from-activity-7386302462418399232-rrLI?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAAYam2EBfuYAwUPC39sm_0tD7lVqL_VU4OA|voici mon post Linkedin> :blue_heart:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "f73f6d38e4eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-07-23\/9238905089862_f73f6d38e4eb792c8c6a_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult",
+            "team": "T017AGS2KE0",
+            "name": "thibaut.davoult",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761031915.006869",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1761045712.577489",
+        "reply_users": [
+            "U03CY07UZJM",
+            "U0946E8A2US",
+            "U08EN5GRYCC",
+            "U04SM1RGPJB"
+        ],
+        "replies": [
+            {
+                "user": "U03CY07UZJM",
+                "ts": "1761033027.321789"
+            },
+            {
+                "user": "U0946E8A2US",
+                "ts": "1761034822.784579"
+            },
+            {
+                "user": "U08EN5GRYCC",
+                "ts": "1761039326.425989"
+            },
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1761045712.577489"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HCA6S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello tout le monde ! J'annonce aujourd'hui mon lancement en tant que solopreneur (fCMO, Growth advisory).\n\nSi vous souhaitez me donner un petit coup de boost, "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/posts\/thibautdavoult_after-8-years-scaling-livestorm-going-from-activity-7386302462418399232-rrLI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAYam2EBfuYAwUPC39sm_0tD7lVqL_VU4OA",
+                                "text": "voici mon post Linkedin"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blue_heart",
+                                "unicode": "1f499"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U056DAY3YD8",
+                    "U078PFP7A4B",
+                    "U03CY07UZJM",
+                    "U084KTR7YKX",
+                    "U063A8VPPG9",
+                    "U02N2EVMFCG",
+                    "U0177A5V42F",
+                    "U01A4GMRRR9",
+                    "U06CZESF7QF",
+                    "U04SM1RGPJB",
+                    "U06EN9X790C",
+                    "U092U6UDLMN",
+                    "U06DYTRDLUD",
+                    "U017H09S857",
+                    "U04TU0UA2R1",
+                    "U03P99RGMTN",
+                    "U06TF9YAWEM",
+                    "U01MVJPEEH3",
+                    "U059T4KRCUC"
+                ],
+                "count": 19
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U08EN5GRYCC",
+                    "U06DYTRDLUD",
+                    "U092PH1F2CA",
+                    "U01MVJPEEH3"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U0946E8A2US",
+        "type": "message",
+        "ts": "1761031996.909899",
+        "client_msg_id": "093b5556-b269-474d-b92f-f4f6a835f96b",
+        "text": "Trop fort ! Je demande un livre sur le \"late pivot\" de Claap <@U084KTR7YKX>, impressionnant !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "f73f6d38e4eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-07-23\/9238905089862_f73f6d38e4eb792c8c6a_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult",
+            "team": "T017AGS2KE0",
+            "name": "thibaut.davoult",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760979988.870179",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OcEi5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Trop fort ! Je demande un livre sur le \"late pivot\" de Claap "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U084KTR7YKX"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", impressionnant !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U084KTR7YKX",
+                    "U07MNBM4WLV"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U03CY07UZJM",
+        "type": "message",
+        "ts": "1761033027.321789",
+        "client_msg_id": "bab73e49-dc26-4576-a49f-63a418b4cd85",
+        "text": "bienvenue chef",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "cf1b09b1a910",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-02\/6894190939717_cf1b09b1a910eb11be75_72.jpg",
+            "first_name": "Patrice",
+            "real_name": "Patrice Barbesier",
+            "display_name": "Patrice Barbesier",
+            "team": "T017AGS2KE0",
+            "name": "patrice.barbesier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761031915.006869",
+        "parent_user_id": "U0946E8A2US",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JHU2l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "bienvenue chef"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U0946E8A2US"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U07MNBM4WLV",
+        "type": "message",
+        "ts": "1761034124.539959",
+        "client_msg_id": "E1A7E47A-3865-49E8-9827-323FEFA80AC2",
+        "text": "Merciii ! On va bien s’amuser oui ;)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "028ce63b55be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7733128030774_028ce63b55be29945d4f_72.jpg",
+            "first_name": "Domitille",
+            "real_name": "Domitille de Saint-Exupéry",
+            "display_name": "Domitille de Saint-Exupéry (lemlist)",
+            "team": "T017AGS2KE0",
+            "name": "domitille433",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760979988.870179",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "asr8U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merciii ! On va bien s’amuser oui "
+                            },
+                            {
+                                "type": "text",
+                                "text": ";)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1761034269.975409",
+        "client_msg_id": "6eb13760-4e87-4583-91a0-2474a33704ad",
+        "text": "C'est toi et Gwenn qui avait négocié l'achat non?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760979988.870179",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n+M7l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est toi et Gwenn qui avait négocié l'achat non?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sweat_smile",
+                "users": [
+                    "U084KTR7YKX",
+                    "U063A8VPPG9",
+                    "U06TF9YAWEM"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U0946E8A2US",
+        "type": "message",
+        "ts": "1761034822.784579",
+        "client_msg_id": "657c169b-25b2-43b3-add9-1cbd30e81046",
+        "text": "Merci !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "f73f6d38e4eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-07-23\/9238905089862_f73f6d38e4eb792c8c6a_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult",
+            "team": "T017AGS2KE0",
+            "name": "thibaut.davoult",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761031915.006869",
+        "parent_user_id": "U0946E8A2US",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CHpyc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1761038079.407469",
+        "client_msg_id": "57170d84-b256-449e-85cc-4da40c72cb87",
+        "text": "Clairement, on voulait juste bosser ensemble ! On a tiré les ficelles :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760979988.870179",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DnlNE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Clairement, on voulait juste bosser ensemble ! On a tiré les ficelles "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "hearts",
+                "users": [
+                    "U07MNBM4WLV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "shushing_face",
+                "users": [
+                    "U07MNBM4WLV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U08EN5GRYCC",
+        "type": "message",
+        "ts": "1761039326.425989",
+        "client_msg_id": "15e6c5cc-06e2-406d-bcd3-431239dd6de5",
+        "text": "Bravo pour ton nouveau projet :wink:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "3944e9004e51",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-23\/8520970014112_3944e9004e5166d3f29d_72.png",
+            "first_name": "Armelle",
+            "real_name": "Armelle Jaclot",
+            "display_name": "Armelle Jaclot",
+            "team": "T017AGS2KE0",
+            "name": "armelle.jaclot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761031915.006869",
+        "parent_user_id": "U0946E8A2US",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k+R5Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bravo pour ton nouveau projet "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U0946E8A2US"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1761045712.577489",
+        "client_msg_id": "3d4152ad-2544-4aec-b4b7-9942c906d45b",
+        "text": "Félicitations :heart:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761031915.006869",
+        "parent_user_id": "U0946E8A2US",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XWOYC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Félicitations "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart",
+                                "unicode": "2764-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U0946E8A2US"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U092U6UDLMN",
+        "type": "message",
+        "ts": "1761049250.712309",
+        "client_msg_id": "f22fd4bd-6ce8-4b57-9936-f4f10f3deb5b",
+        "text": "Hello all ! On annonce aujourd'hui nos partenariats avec Scaleway et Mistral pour offrir des *solutions IA de relation client 100% française* :fr:\nLa souveraineté numérique est aujourd'hui un enjeu clé ! Si le coeur vous en dit, le post Linkedin est <https:\/\/www.linkedin.com\/posts\/dial-once_chez-dialonce-nous-faisons-%C3%A9voluer-notre-activity-7386366883073282048-uIZ_?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAAEh3PEB0OgLnkgwsI5u9yToSW4jHvUjqCo|ici> :slightly_smiling_face: Merci",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e910bc968404",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-19\/9072876473829_e910bc968404c2c0b5d1_72.png",
+            "first_name": "Bastien",
+            "real_name": "Bastien Meaux (DialOnce)",
+            "display_name": "Bastien Meaux",
+            "team": "T017AGS2KE0",
+            "name": "bmeaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/D4E10AQG1Q9U2EC9H9A\/image-shrink_800\/B4EZoGlijqGoAc-\/0\/1761047096184?e=2147483647&v=beta&t=UEbGPpsneYUbobqVLIzi3vZu4PU8xNZrnDhNfDKz2XU",
+                "image_width": 600,
+                "image_height": 400,
+                "image_bytes": 28590,
+                "from_url": "https:\/\/www.linkedin.com\/posts\/dial-once_chez-dialonce-nous-faisons-%C3%A9voluer-notre-activity-7386366883073282048-uIZ_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAEh3PEB0OgLnkgwsI5u9yToSW4jHvUjqCo",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/posts\/dial-once_chez-dialonce-nous-faisons-%C3%A9voluer-notre-activity-7386366883073282048-uIZ_?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAAEh3PEB0OgLnkgwsI5u9yToSW4jHvUjqCo",
+                "fallback": "Chez DialOnce, nous faisons évoluer notre technologie avec une ambition : offrir les meilleurs solutions de relation client en garantissant que performance rime avec souveraineté :fr:.  Pour… | DialOnce",
+                "text": "Chez DialOnce, nous faisons évoluer notre technologie avec une ambition : offrir les meilleurs solutions de relation client en garantissant que performance rime avec souveraineté :fr:.\n\nPour concrétiser cette ambition, nous unissons deux forces françaises :\n\n:small_blue_diamond: Mistral AI, pour offrir une alternative française et maîtrisée à OpenAI.\n:small_blue_diamond: Scaleway, acteur du cloud souverain certifié ISO 27001 et engagé dans la démarche SecNumCloud, qui héberge désormais nos données en France.\n\nCes deux partenariats marquent une étape importante dans notre stratégie :\n\n:small_blue_diamond: renforcer notre R&amp;D 100% française,\n:small_blue_diamond: garantir une conformité totale au RGPD,\n:small_blue_diamond: et assurer une indépendance technologique durable vis-à-vis des acteurs non européens.\n\nEt parce que la confiance est au cœur de notre mission, nous sommes fiers d’avoir été référencés comme solution d’IA sur étagère pour les administrations publiques.\n\nCes résultats confirment notre engagement à répondre aux exigences de nos clients : une IA française, maîtrisée et garante de la sécurité des données.",
+                "title": "Chez DialOnce, nous faisons évoluer notre technologie avec une ambition : offrir les meilleurs solutions de relation client en garantissant que performance rime avec souveraineté :fr:.  Pour… | DialOnce",
+                "title_link": "https:\/\/www.linkedin.com\/posts\/dial-once_chez-dialonce-nous-faisons-%C3%A9voluer-notre-activity-7386366883073282048-uIZ_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAEh3PEB0OgLnkgwsI5u9yToSW4jHvUjqCo",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j53h0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello all ! On annonce aujourd'hui nos partenariats avec Scaleway et Mistral pour offrir des "
+                            },
+                            {
+                                "type": "text",
+                                "text": "solutions IA de relation client 100% française",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "flag-fr",
+                                "unicode": "1f1eb-1f1f7"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nLa souveraineté numérique est aujourd'hui un enjeu clé ! Si le coeur vous en dit, le post Linkedin est "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/posts\/dial-once_chez-dialonce-nous-faisons-%C3%A9voluer-notre-activity-7386366883073282048-uIZ_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAEh3PEB0OgLnkgwsI5u9yToSW4jHvUjqCo",
+                                "text": "ici"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Merci"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U04A6JMRWCS",
+                    "U0183AS3MB6",
+                    "U08SA22HS0J",
+                    "U092PH1F2CA",
+                    "U01MVJPEEH3"
+                ],
+                "count": 5
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U0183AS3MB6",
+                    "U08M0JP81DK",
+                    "U063A8VPPG9",
+                    "U017H09S857",
+                    "U04A6JMRWCS",
+                    "U0859A8P14K"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1761062004.932349",
+        "client_msg_id": "74779efc-4ce0-48a5-80bd-a30454a78fbb",
+        "text": "C'est absolument canon, bravo!!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760979988.870179",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EoiTg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est absolument canon, bravo!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart_hands",
+                "users": [
+                    "U084KTR7YKX",
+                    "U07MNBM4WLV"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

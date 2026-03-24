@@ -1,0 +1,208 @@
+[
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1758618440.145529",
+        "edited": {
+            "user": "U084KTR7YKX",
+            "ts": "1758618469.000000"
+        },
+        "client_msg_id": "9de01c0e-3953-4df9-a5e9-e64eb336ffab",
+        "text": "• j'en ai un pour la pages \"Personae\" et \"Use Case\/Produit\/Feature\" du site Claap\n• un pour les cas clients Claap\n• un pour Linkedin (corpo et perso - même si en perso j'écris pas mal mes posts - c'est plus un correcteur & hooker)\nmes équipes chez Evaneos\n• un pour études sémantiques SEA (ça aide pas mal pour bosser avec les Marketing managers ES, IT & DE qui ne sont pas experts SEA mais connaissent leur marché)\n• pas mal d'agents IA sur tout le process SEO (brief par type de page, localizer & proofreader v1 par marché)\n• et tous ceux que je ne vois pas ...",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1758204461.864959",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y5CNL",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "j'en ai un pour la pages \"Personae\" et \"Use Case\/Produit\/Feature\" du site Claap"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "un pour les cas clients Claap"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "un pour Linkedin (corpo et perso - même si en perso j'écris pas mal mes posts - c'est plus un correcteur & hooker)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nmes équipes chez Evaneos\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "un pour études sémantiques SEA (ça aide pas mal pour bosser avec les Marketing managers ES, IT & DE qui ne sont pas experts SEA mais connaissent leur marché)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "pas mal d'agents IA sur tout le process SEO (brief par type de page, localizer & proofreader v1 par marché)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "et tous ceux que je ne vois pas ..."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U06DYTRDLUD"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U06DYTRDLUD"
+                ],
+                "count": 1
+            },
+            {
+                "name": "bulb",
+                "users": [
+                    "U06CZESF7QF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1758645271.178919",
+        "client_msg_id": "b96e2a22-99e2-4b2d-a154-466fbf673b4e",
+        "text": "Hyper intéressant !\n\n• `j'en ai un pour la pages \"Personae\" et \"Use Case\/Produit\/Feature\" du site Claap`\n-&gt; Tu peux préciser ? C’est un customGPT qui te permet de répondre à une question avec de la connaissance sur le produit Claap et les Persona visés ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1758204461.864959",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XUEIm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hyper intéressant !\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "j'en ai un pour la pages \"Personae\" et \"Use Case\/Produit\/Feature\" du site Claap",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "-> Tu peux préciser ? C’est un customGPT qui te permet de répondre à une question avec de la connaissance sur le produit Claap et les Persona visés ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

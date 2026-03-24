@@ -1,0 +1,625 @@
+[
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1764662888.468289",
+        "client_msg_id": "3b8cc4db-3d25-423a-b27e-069b187b0d50",
+        "text": "Hello ! Demain, nous communiquons sur <#C06GD6ME5CM|the-book> pour booster les ventes du livre avant :santa:\nSi vous voulez voir le PDF et le _messaging_ RDV <https:\/\/techmarketingleaders.slack.com\/archives\/C06GD6ME5CM\/p1764578841053389|ici>. Aidez-nous à faire :money_with_wings:  les ventes (+1100 à date)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/techmarketingleaders.slack.com\/archives\/C06GD6ME5CM\/p1764578841053389",
+                "ts": "1764578841.053389",
+                "author_id": "U02N2EVMFCG",
+                "channel_id": "C06GD6ME5CM",
+                "channel_team": "T017AGS2KE0",
+                "is_msg_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T017AGS2KE0",
+                        "channel": "C06GD6ME5CM",
+                        "ts": "1764578841.053389",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "jfB3+",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Hello à toutes et à tous !\nNotre livre fête bientôt sa "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "première année en librairie ",
+                                                    "style": {
+                                                        "bold": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "books",
+                                                    "unicode": "1f4da",
+                                                    "style": {
+                                                        "bold": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " ",
+                                                    "style": {
+                                                        "bold": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\nAvec les fêtes qui approchent, certains rayons vont forcément se renouveler…  "
+                                                },
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U0183AS3MB6"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " et son équipe nous ont fait des chouettes visuels (PJ) pour promouvoir la bible du marketer, avec une séquence prévue "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "mercredi 3 à 9h",
+                                                    "style": {
+                                                        "underline": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": ".\n"
+                                                },
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "point_right",
+                                                    "unicode": "1f449"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "C’est le moment parfait pour lui redonner un gros coup de visibilité !",
+                                                    "style": {
+                                                        "bold": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\nPlus on est synchronisé, plus l’impact sera fort. Pour vous inspirer, plein d’angles possibles pour vos posts :\n"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "rich_text_list",
+                                            "elements": [
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "C’est la période "
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "budget",
+                                                            "style": {
+                                                                "bold": true
+                                                            }
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": " "
+                                                        },
+                                                        {
+                                                            "type": "emoji",
+                                                            "name": "money_with_wings",
+                                                            "unicode": "1f4b8"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Vous peaufinez votre "
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "stratégie 2025",
+                                                            "style": {
+                                                                "bold": true
+                                                            }
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Votre "
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Board",
+                                                            "style": {
+                                                                "bold": true
+                                                            }
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": " pousse à l’international"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Votre "
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "CEO challenge vos KPIs",
+                                                            "style": {
+                                                                "bold": true
+                                                            }
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Vous démarrez 2025 avec une "
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "nouvelle orga \/ des recrutements",
+                                                            "style": {
+                                                                "bold": true
+                                                            }
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Vous accélérez sur "
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "l’IA",
+                                                            "style": {
+                                                                "bold": true
+                                                            }
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "…"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "ou tout simplement : "
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "une idée cadeau parfaite pour Noël",
+                                                            "style": {
+                                                                "bold": true
+                                                            }
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": " "
+                                                        },
+                                                        {
+                                                            "type": "emoji",
+                                                            "name": "gift",
+                                                            "unicode": "1f381"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": " (pour vos équipes, vos pairs en marketing, etc.)"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "style": "bullet",
+                                            "indent": 0,
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Ressources",
+                                                    "style": {
+                                                        "bold": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "rich_text_list",
+                                            "elements": [
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Le PDF en PJ"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "N’oubliez pas le hashtag "
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "#techmarketingleaders",
+                                                            "style": {
+                                                                "bold": true
+                                                            }
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Partagez votre post ici ou sur "
+                                                        },
+                                                        {
+                                                            "type": "channel",
+                                                            "channel_id": "C06D8VDQJ1Z"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": " avant publication → on pourra ensuite liker \/ commenter \/ booster"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Vous pouvez aussi taguer d’autres auteurs pour créer de la portée "
+                                                        },
+                                                        {
+                                                            "type": "emoji",
+                                                            "name": "point_down",
+                                                            "unicode": "1f447"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "style": "bullet",
+                                            "indent": 0,
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_list",
+                                            "elements": [
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Julie Asselin, Patrice Barbesier, Raphaëlle Béguinel, Priscilla Cavrois, Selma Chauvin, Thibaut Davoult, Arnaud Delubac, Romain Doutriaux, Hélène Draoulec, Gaëlle Dumur, Marilyne Dupuy, Mégane Gateau, Joël Gaudeul, Amandine Grémont-Moreau, Eliott Guérin, Emmanuelle Benoliel Kleinmann, Roxane Labat, Guillaume Laguette, Gaëlle Le Goff, Jolhane Leite, Isabelle Lejeune, Elsa Magadoux, Olivier Milcent, Camille Moreau, Agnes Mossina, Morgane Mouly, David Remaud, Aude Romelly, Melissa Sanchot, Amelie Seguret, Simone Sfeir, Leslie Tedgui, Vincent Villaret, Antoine Yahia-Cherif, Carole Zibi"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "style": "bullet",
+                                            "indent": 1,
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "Le plus important : le lien Amazon ",
+                                                    "style": {
+                                                        "bold": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "arrow_right",
+                                                    "unicode": "27a1-fe0f"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/www.amazon.fr\/Quand-start-up-licornes-r%C3%A9inventent-marketing\/dp\/2100877968"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\nMerci à tous pour le coup de boost de mercredi"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "files": [
+                    {
+                        "id": "F0A0U68B70U",
+                        "created": 1764576704,
+                        "timestamp": 1764576704,
+                        "name": "Le livre à offrir à tous les marketers qui aspirent à devenir CMOs.pdf",
+                        "title": "Le livre à offrir à tous les marketers qui aspirent à devenir CMOs.pdf",
+                        "mimetype": "application\/pdf",
+                        "filetype": "pdf",
+                        "pretty_type": "PDF",
+                        "user": "U02N2EVMFCG",
+                        "user_team": "T017AGS2KE0",
+                        "editable": false,
+                        "size": 24185757,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F0A0U68B70U\/le_livre_a___offrir_a___tous_les_marketers_qui_aspirent_a___devenir_cmos.pdf?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                        "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F0A0U68B70U\/download\/le_livre_a___offrir_a___tous_les_marketers_qui_aspirent_a___devenir_cmos.pdf?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                        "media_display_type": "unknown",
+                        "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A0U68B70U-f46accb15e\/le_livre_a___offrir_a___tous_les_marketers_qui_aspirent_a___devenir_cmos_thumb_pdf.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                        "thumb_pdf_w": 2347,
+                        "thumb_pdf_h": 2933,
+                        "permalink": "https:\/\/techmarketingleaders.slack.com\/files\/U017U6M2G00\/F0A0U68B70U\/le_livre_a___offrir_a___tous_les_marketers_qui_aspirent_a___devenir_cmos.pdf",
+                        "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F0A0U68B70U-b2b90795f4",
+                        "comments_count": 0,
+                        "is_starred": false,
+                        "skipped_shares": true,
+                        "has_rich_preview": false,
+                        "file_access": "visible"
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/techmarketingleaders.slack.com\/archives\/C06GD6ME5CM\/p1764578841053389",
+                "fallback": "[December 1st, 2025 12:47 AM] yannigroth: Hello à toutes et à tous !\nNotre livre fête bientôt sa *première année en librairie* :books: \nAvec les fêtes qui approchent, certains rayons vont forcément se renouveler…  <@U0183AS3MB6> et son équipe nous ont fait des chouettes visuels (PJ) pour promouvoir la bible du marketer, avec une séquence prévue mercredi 3 à 9h.\n:point_right: *C’est le moment parfait pour lui redonner un gros coup de visibilité !*\nPlus on est synchronisé, plus l’impact sera fort. Pour vous inspirer, plein d’angles possibles pour vos posts :\n• C’est la période *budget* :money_with_wings:\n• Vous peaufinez votre *stratégie 2025*\n• Votre *Board* pousse à l’international\n• Votre *CEO challenge vos KPIs*\n• Vous démarrez 2025 avec une *nouvelle orga \/ des recrutements*\n• Vous accélérez sur *l’IA*\n• …\n• ou tout simplement : *une idée cadeau parfaite pour Noël* :gift: (pour vos équipes, vos pairs en marketing, etc.)\n*Ressources*\n• Le PDF en PJ\n• N’oubliez pas le hashtag *#techmarketingleaders*\n• Partagez votre post ici ou sur <#C06D8VDQJ1Z|> avant publication → on pourra ensuite liker \/ commenter \/ booster\n• Vous pouvez aussi taguer d’autres auteurs pour créer de la portée :point_down:\n    ◦ Julie Asselin, Patrice Barbesier, Raphaëlle Béguinel, Priscilla Cavrois, Selma Chauvin, Thibaut Davoult, Arnaud Delubac, Romain Doutriaux, Hélène Draoulec, Gaëlle Dumur, Marilyne Dupuy, Mégane Gateau, Joël Gaudeul, Amandine Grémont-Moreau, Eliott Guérin, Emmanuelle Benoliel Kleinmann, Roxane Labat, Guillaume Laguette, Gaëlle Le Goff, Jolhane Leite, Isabelle Lejeune, Elsa Magadoux, Olivier Milcent, Camille Moreau, Agnes Mossina, Morgane Mouly, David Remaud, Aude Romelly, Melissa Sanchot, Amelie Seguret, Simone Sfeir, Leslie Tedgui, Vincent Villaret, Antoine Yahia-Cherif, Carole Zibi\n *Le plus important : le lien Amazon* :arrow_right: <https:\/\/www.amazon.fr\/Quand-start-up-licornes-r%C3%A9inventent-marketing\/dp\/2100877968>\nMerci à tous pour le coup de boost de mercredi",
+                "text": "Hello à toutes et à tous !\nNotre livre fête bientôt sa *première année en librairie* :books: \nAvec les fêtes qui approchent, certains rayons vont forcément se renouveler…  <@U0183AS3MB6> et son équipe nous ont fait des chouettes visuels (PJ) pour promouvoir la bible du marketer, avec une séquence prévue mercredi 3 à 9h.\n:point_right: *C’est le moment parfait pour lui redonner un gros coup de visibilité !*\nPlus on est synchronisé, plus l’impact sera fort. Pour vous inspirer, plein d’angles possibles pour vos posts :\n• C’est la période *budget* :money_with_wings:\n• Vous peaufinez votre *stratégie 2025*\n• Votre *Board* pousse à l’international\n• Votre *CEO challenge vos KPIs*\n• Vous démarrez 2025 avec une *nouvelle orga \/ des recrutements*\n• Vous accélérez sur *l’IA*\n• …\n• ou tout simplement : *une idée cadeau parfaite pour Noël* :gift: (pour vos équipes, vos pairs en marketing, etc.)\n*Ressources*\n• Le PDF en PJ\n• N’oubliez pas le hashtag *#techmarketingleaders*\n• Partagez votre post ici ou sur <#C06D8VDQJ1Z|> avant publication → on pourra ensuite liker \/ commenter \/ booster\n• Vous pouvez aussi taguer d’autres auteurs pour créer de la portée :point_down:\n    ◦ Julie Asselin, Patrice Barbesier, Raphaëlle Béguinel, Priscilla Cavrois, Selma Chauvin, Thibaut Davoult, Arnaud Delubac, Romain Doutriaux, Hélène Draoulec, Gaëlle Dumur, Marilyne Dupuy, Mégane Gateau, Joël Gaudeul, Amandine Grémont-Moreau, Eliott Guérin, Emmanuelle Benoliel Kleinmann, Roxane Labat, Guillaume Laguette, Gaëlle Le Goff, Jolhane Leite, Isabelle Lejeune, Elsa Magadoux, Olivier Milcent, Camille Moreau, Agnes Mossina, Morgane Mouly, David Remaud, Aude Romelly, Melissa Sanchot, Amelie Seguret, Simone Sfeir, Leslie Tedgui, Vincent Villaret, Antoine Yahia-Cherif, Carole Zibi\n *Le plus important : le lien Amazon* :arrow_right: <https:\/\/www.amazon.fr\/Quand-start-up-licornes-r%C3%A9inventent-marketing\/dp\/2100877968>\nMerci à tous pour le coup de boost de mercredi",
+                "author_name": "Yannig Roth",
+                "author_link": "https:\/\/techmarketingleaders.slack.com\/team\/U02N2EVMFCG",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_48.png",
+                "author_subname": "Yannig Roth",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack Conversation"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jWzRE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello ! Demain, nous communiquons sur "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C06GD6ME5CM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour booster les ventes du livre avant "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "santa",
+                                "unicode": "1f385"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nSi vous voulez voir le PDF et le "
+                            },
+                            {
+                                "type": "text",
+                                "text": "messaging",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " RDV "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/techmarketingleaders.slack.com\/archives\/C06GD6ME5CM\/p1764578841053389",
+                                "text": "ici"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Aidez-nous à faire "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "money_with_wings",
+                                "unicode": "1f4b8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  les ventes (+1100 à date)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07PEP71X4Y",
+        "type": "message",
+        "ts": "1764671631.581789",
+        "client_msg_id": "fb4f9164-5e31-438b-9169-6d1b9f6d019d",
+        "text": "Je passe pour ~1 heure, à nous les ragots",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "03ee4bf9d742",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-26\/7782829511830_03ee4bf9d74231490efd_72.png",
+            "first_name": "Elena",
+            "real_name": "Elena Souiller-Fedorenkova",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "elenafed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764575278.299119",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fiLeI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je passe pour ~1 heure, à nous les ragots"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U063A8VPPG9",
+                    "U04SM1RGPJB"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U04TU0UA2R1",
+        "type": "message",
+        "ts": "1764680350.679239",
+        "client_msg_id": "18c5f4ad-dfd6-45d5-aefc-493ab59fb1fe",
+        "text": "Très chaud pour un verre et quelques potins ! :smiling_imp:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2349ebc07255",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-15\/4939175993079_2349ebc07255c4ecc3fc_72.jpg",
+            "first_name": "Adrien",
+            "real_name": "Adrien Le Roy",
+            "display_name": "Adrien Le Roy (Indy)",
+            "team": "T017AGS2KE0",
+            "name": "adrien.le.roy2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764575278.299119",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YATMA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Très chaud pour un verre et quelques potins ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_imp",
+                                "unicode": "1f608"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U063A8VPPG9",
+                    "U04SM1RGPJB"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

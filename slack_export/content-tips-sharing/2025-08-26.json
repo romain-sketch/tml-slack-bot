@@ -1,0 +1,50 @@
+[
+    {
+        "user": "U05H3SJKYFQ",
+        "type": "message",
+        "ts": "1756193794.308079",
+        "client_msg_id": "96a044b8-eed6-4a81-bd9c-b29a3d996ad5",
+        "text": "Hello <@U06MHCCLQG3> gros sujet de mon côté aussi ! On tracke à la fois le nombre de retombées, le % de tier 1 par marché et on est en train de réfléchir à un système de scoring simple pour affiner cet équilibre entre quali et quanti. Prochain objectif est de passer sur des médias à dimension européenne et non pas nationale dans plusieurs marchés. Est-ce que c'est une problématique de ton côté aussi ? Partant pour un call ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0931617f5e75",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-04\/5842709801061_0931617f5e75eee9f27b_72.jpg",
+            "first_name": "Raphaëlle",
+            "real_name": "Raphaëlle Béguinel - Malt",
+            "display_name": "Raphaëlle Béguinel - Malt",
+            "team": "T017AGS2KE0",
+            "name": "rbeguinel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1754136316.213049",
+        "parent_user_id": "U06MHCCLQG3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4c1XX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06MHCCLQG3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " gros sujet de mon côté aussi ! On tracke à la fois le nombre de retombées, le % de tier 1 par marché et on est en train de réfléchir à un système de scoring simple pour affiner cet équilibre entre quali et quanti. Prochain objectif est de passer sur des médias à dimension européenne et non pas nationale dans plusieurs marchés. Est-ce que c'est une problématique de ton côté aussi ? Partant pour un call ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

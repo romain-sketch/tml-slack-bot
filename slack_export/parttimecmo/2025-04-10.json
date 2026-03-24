@@ -1,0 +1,194 @@
+[
+    {
+        "user": "U065DFPCQMP",
+        "type": "message",
+        "ts": "1744301618.465739",
+        "client_msg_id": "812d544e-10eb-45f8-a122-3b81e46b148c",
+        "text": "Hello à tous,\nJe re-re-re-lance le débat sur les statuts à adopter pour (bien) gagner sa vie, se protéger ou bien anticiper les coups durs quand on est free. Je dois parler à mon comptable dans les jours qui viennent, mais j'aimerais avoir des billes et retours d'expérience. Je sais qu'on est nombreux à tourner en rond sur ce sujet, je partagerai les résultats de cette enquête !!\n(5 minutes, 100% anonyme, résultats partagés à la fin)\n<https:\/\/tally.so\/r\/3l4ylk>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50040e0261e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-15\/6198553206674_50040e0261e7ba62e840_72.jpg",
+            "first_name": "Gaelle",
+            "real_name": "Gaelle Le Goff",
+            "display_name": "Gaelle Le Goff",
+            "team": "T017AGS2KE0",
+            "name": "gaelle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744301618.465739",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1744305255.650349",
+        "reply_users": [
+            "U04L04T475K",
+            "U065DFPCQMP"
+        ],
+        "replies": [
+            {
+                "user": "U04L04T475K",
+                "ts": "1744305010.152439"
+            },
+            {
+                "user": "U065DFPCQMP",
+                "ts": "1744305255.650349"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/tally.so\/r\/3l4ylk",
+                "image_url": "https:\/\/tally.so\/images\/og.jpg",
+                "image_width": 2400,
+                "image_height": 1260,
+                "image_bytes": 316443,
+                "service_icon": "https:\/\/tally.so\/tally-square.png",
+                "id": 1,
+                "original_url": "https:\/\/tally.so\/r\/3l4ylk",
+                "fallback": "Tally Forms: Statuts de freelance : entre optimisme fiscal et angoisse sociale",
+                "text": "Made with Tally, the simplest way to create forms.",
+                "title": "Statuts de freelance : entre optimisme fiscal et angoisse sociale",
+                "title_link": "https:\/\/tally.so\/r\/3l4ylk",
+                "service_name": "Tally Forms"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zQ+Rr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello à tous,\nJe re-re-re-lance le débat sur les statuts à adopter pour (bien) gagner sa vie, se protéger ou bien anticiper les coups durs quand on est free. Je dois parler à mon comptable dans les jours qui viennent, mais j'aimerais avoir des billes et retours d'expérience. Je sais qu'on est nombreux à tourner en rond sur ce sujet, je partagerai les résultats de cette enquête !!\n(5 minutes, 100% anonyme, résultats partagés à la fin)\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/tally.so\/r\/3l4ylk"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06LENY5V6Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04L04T475K",
+        "type": "message",
+        "ts": "1744305010.152439",
+        "client_msg_id": "8cbeafa8-cbd0-443b-a25d-1132f653986a",
+        "text": "merci Gaelle, toujours un débat ennivrant ! j'ai répondu",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "992240f01962",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4685704045204_992240f019622b6b0af8_72.jpg",
+            "first_name": "Antoine",
+            "real_name": "Antoine Yahia Cherif",
+            "display_name": "Antoine Yahia Cherif",
+            "team": "T017AGS2KE0",
+            "name": "antoine.yc008",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744301618.465739",
+        "parent_user_id": "U065DFPCQMP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Nihp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "merci Gaelle, toujours un débat ennivrant ! j'ai répondu"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U065DFPCQMP",
+        "type": "message",
+        "ts": "1744305255.650349",
+        "client_msg_id": "D7C087B1-C717-4543-8193-2A4E22EF8B87",
+        "text": "Cool merci <@U04L04T475K> n’hésite pas à faire tourner. The more the merrier",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50040e0261e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-15\/6198553206674_50040e0261e7ba62e840_72.jpg",
+            "first_name": "Gaelle",
+            "real_name": "Gaelle Le Goff",
+            "display_name": "Gaelle Le Goff",
+            "team": "T017AGS2KE0",
+            "name": "gaelle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744301618.465739",
+        "parent_user_id": "U065DFPCQMP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Q\/ku",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cool merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04L04T475K"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "n’hésite"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pas à faire tourner"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " The more the merrier"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "user": "U04L35Y9D08",
+        "type": "message",
+        "ts": "1740127066.771729",
+        "client_msg_id": "4ea13b30-b999-4dcc-acad-e3259942cc05",
+        "text": "Salut Patrice!\n\nJe te recommande <https:\/\/www.linkedin.com\/in\/dlambertfr\/|David>, tu peux le contacter de ma part.\n\nIl a de belles histoires à raconter - il a accompagné bcp de founders quand il était associé chez AngelSquare, puis il a monté un fonds impact qui a soutient une dizaine de green-tech et aujourd’hui il est founder de <http:\/\/wearestellar.io|wearestellar.io> !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "568f5815adda",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4705573084496_568f5815addab51accfb_72.jpg",
+            "first_name": "Paul",
+            "real_name": "Paul LEMONNIER",
+            "display_name": "Paul",
+            "team": "T017AGS2KE0",
+            "name": "paul.lemonnier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740038547.777839",
+        "parent_user_id": "U03CY07UZJM",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/dlambertfr\/",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "thumb_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/D4D03AQH5p-1EWv8M3g\/profile-displayphoto-shrink_200_200\/B4DZQ8aFRsHwAc-\/0\/1736180258370?e=2147483647&v=beta&t=H0r_DtbjDDz9CrnnT11pyXFEvQ6k7dzoHpI0lqpwvCQ",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/dlambertfr\/",
+                "fallback": "David Lambert - Stellar | LinkedIn",
+                "text": "Since 2016, I&amp;#39;ve coached 200+ founders on growth and funding strategies. \n\nI… · Experiencia: Stellar · Educación: Audencia Nantes Ecole de Management · Ubicación: Barcelona · Más de 500 contactos en LinkedIn. Ver el perfil de David Lambert en LinkedIn, una red profesional de más de 1.000 millones de miembros.",
+                "title": "David Lambert - Stellar | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/dlambertfr\/",
+                "service_name": "es.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "23Tkt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salut Patrice!\n\nJe te recommande "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/dlambertfr\/",
+                                "text": "David"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", tu peux le contacter de ma part.\n\nIl a de belles histoires à raconter - il a accompagné bcp de founders quand il était associé chez AngelSquare, puis il a monté un fonds impact qui a soutient une dizaine de green-tech et aujourd’hui il est founder de "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/wearestellar.io",
+                                "text": "wearestellar.io"
+                            },
+                            {
+                                "type": "text",
+                                "text": " !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

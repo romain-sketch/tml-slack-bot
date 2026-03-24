@@ -1,0 +1,336 @@
+[
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1737552693.372899",
+        "client_msg_id": "5dacdbc5-3bd5-46cc-80f3-a045ebb87b93",
+        "text": "Hello <!here>,\n\nDésolé pour le tag général (:sweat_smile:), les inscriptions pour l'événement du *4 mars prochain à la BPI* sont officiellement ouvertes !\n\n• 4 mars à 18h30 au Comptoir Bpifrance - 24 rue Drouot 75009 Paris\n• Speakers : <@U03CY07UZJM>, <@U063A8VPPG9>, et moi-même \n• Cocktail dinatoire &amp; networking à partir de 19h30\nInscrivez-vous <https:\/\/tally.so\/r\/w21QVe|ici> - toute personne non-inscrite ne pourra pas accéder à la BPI (sécurité ++).\n\nAu plaisir de vous y voir !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737552693.372899",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1737999335.615019",
+        "reply_users": [
+            "U078PFP7A4B",
+            "U063A8VPPG9"
+        ],
+        "replies": [
+            {
+                "user": "U078PFP7A4B",
+                "ts": "1737552710.316439"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1737990643.703649"
+            },
+            {
+                "user": "U078PFP7A4B",
+                "ts": "1737999335.615019"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uoEPr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\n\nDésolé pour le tag général ("
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": "), les inscriptions pour l'événement du "
+                            },
+                            {
+                                "type": "text",
+                                "text": "4 mars prochain à la BPI ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "sont officiellement ouvertes !\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "4 mars à 18h30 au Comptoir Bpifrance - 24 rue Drouot 75009 Paris"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Speakers : "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U03CY07UZJM"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U063A8VPPG9"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", et moi-même "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Cocktail dinatoire & networking à partir de 19h30"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nInscrivez-vous "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/tally.so\/r\/w21QVe",
+                                "text": "ici"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - toute personne non-inscrite ne pourra pas accéder à la BPI (sécurité ++).\n\nAu plaisir de vous y voir !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U063A8VPPG9",
+                    "U02N2EVMFCG",
+                    "U03CY07UZJM",
+                    "U06LENY5V6Z"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1737552710.316439",
+        "client_msg_id": "7a4fab15-1a30-4f74-9f5c-741e77166907",
+        "text": "PS : <@U03CY07UZJM> &amp; <@U063A8VPPG9> pensez à vous inscrire pour pouvoir accéder à la BPI !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737552693.372899",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eLlee",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "PS : "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CY07UZJM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " & "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U063A8VPPG9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pensez à vous inscrire pour pouvoir accéder à la BPI !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "the_horns",
+                "users": [
+                    "U03CY07UZJM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U017RAZCAGZ",
+        "type": "message",
+        "ts": "1737564034.796459",
+        "client_msg_id": "cbd32ff4-2edf-4a81-a832-974aa3c15229",
+        "text": "<@U017H09S857> Si tu viens toujours au petit déj de demain matin, si c'est possible pour toi, je serais très heureuse de récupérer mes exemplaires :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2e6e61c8f204",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-20\/1251040887619_2e6e61c8f20434050630_72.jpg",
+            "first_name": "Hélène",
+            "real_name": "Hélène Draoulec (Phenix)",
+            "display_name": "Hélène Draoulec (Phenix)",
+            "team": "T017AGS2KE0",
+            "name": "hdraoulec",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1733917994.461219",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NiI8z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U017H09S857"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Si tu viens toujours au petit déj de demain matin, si c'est possible pour toi, je serais très heureuse de récupérer mes exemplaires "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1737571852.338349",
+        "client_msg_id": "261b94db-8107-43c9-ac26-0538e6419f8f",
+        "text": "Oui bien sûr je prendrai 1 ou 2 cartons de livres demain matin",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1733917994.461219",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "98MyC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui bien sûr je prendrai 1 ou 2 cartons de livres demain matin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U017RAZCAGZ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

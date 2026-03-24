@@ -1,0 +1,91 @@
+[
+    {
+        "user": "U08SA22HS0J",
+        "type": "message",
+        "ts": "1768984021.456609",
+        "client_msg_id": "3f7a1828-21b8-4ccd-a77e-c597ebf0fa97",
+        "text": "Merci Yannig. En fait, c’est un come-back pour moi, j’en avais fait 20 ans avant de partir dans le Saas Retail (je suis même ingénieur sécu de formation).",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "266d9356f19e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-07\/10243863201635_266d9356f19e63bc9267_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu BONENFANT (SecLab)",
+            "display_name": "Matthieu BONENFANT (SecLab)",
+            "team": "T017AGS2KE0",
+            "name": "matthieu.bonenfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1768976815.152349",
+        "parent_user_id": "U08SA22HS0J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qBgxV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci Yannig. En fait, c’est un come-back pour moi, j’en avais fait 20 ans avant de partir dans le Saas Retail (je suis même ingénieur sécu de formation)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017CURDPB5",
+        "type": "message",
+        "ts": "1768988614.496989",
+        "client_msg_id": "532d2524-74e0-43c3-9673-0a4826d34f10",
+        "text": "Mon CISO a répondu au questionnaire (moi j'y connais rien ;-))",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "671ad569fbc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5982967598243_671ad569fbc40977de70_72.jpg",
+            "first_name": "David",
+            "real_name": "David Remaud",
+            "display_name": "David Remaud (iBanFirst)",
+            "team": "T017AGS2KE0",
+            "name": "david.remaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1768976815.152349",
+        "parent_user_id": "U08SA22HS0J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nSb4n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mon CISO a répondu au questionnaire (moi j'y connais rien ;-))"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U08SA22HS0J"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

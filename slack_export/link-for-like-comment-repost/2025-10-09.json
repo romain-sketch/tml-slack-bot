@@ -1,0 +1,74 @@
+[
+    {
+        "user": "U092PH1F2CA",
+        "type": "message",
+        "ts": "1759997745.789219",
+        "edited": {
+            "user": "U092PH1F2CA",
+            "ts": "1759997761.000000"
+        },
+        "client_msg_id": "eaecccd0-887d-4c01-985b-c26e0a07758d",
+        "text": "Hello Les TML!\nSi vous avez un peu de dispo pour liker ce post sur l'organisation Marketing <> Sales\n<https:\/\/www.linkedin.com\/posts\/adiard_mais-alexandre-cest-dingue-les-ceo-doivent-activity-7381964833333874688-nmsa>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9a39d2d117ff",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-23\/9092853310756_9a39d2d117ffed6b6a7d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Diard",
+            "display_name": "Alexandre Diard (ex PeopleSpheres)",
+            "team": "T017AGS2KE0",
+            "name": "diard.alexandre",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/D4E22AQE1OywoOvEbRA\/feedshare-shrink_800\/B4EZnIB5CeKYAg-\/0\/1759997565549?e=2147483647&v=beta&t=ZlZyY9BAEngI9tcQBRmcib1k64YNJtDcdRsU4BwVtj8",
+                "image_width": 800,
+                "image_height": 790,
+                "image_bytes": 59624,
+                "from_url": "https:\/\/www.linkedin.com\/posts\/adiard_mais-alexandre-cest-dingue-les-ceo-doivent-activity-7381964833333874688-nmsa",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/posts\/adiard_mais-alexandre-cest-dingue-les-ceo-doivent-activity-7381964833333874688-nmsa",
+                "fallback": "“Mais Alexandre, c’est dingue. Les CEO doivent entendre ça.”  C’est ce que m’a dit Benjamin de chez Lincoln cette semaine, alors qu’on échangeait sur les modèles d’organisation en SaaS.  Et il avait… | Alexandre DIARD",
+                "title": "“Mais Alexandre, c’est dingue. Les CEO doivent entendre ça.”  C’est ce que m’a dit Benjamin de chez Lincoln cette semaine, alors qu’on échangeait sur les modèles d’organisation en SaaS.  Et il avait… | Alexandre DIARD",
+                "title_link": "https:\/\/www.linkedin.com\/posts\/adiard_mais-alexandre-cest-dingue-les-ceo-doivent-activity-7381964833333874688-nmsa",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fp+3a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Les TML!\nSi vous avez un peu de dispo pour liker ce post sur l'organisation Marketing <> Sales\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/posts\/adiard_mais-alexandre-cest-dingue-les-ceo-doivent-activity-7381964833333874688-nmsa"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U06DYTRDLUD",
+                    "U06EN9X790C"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

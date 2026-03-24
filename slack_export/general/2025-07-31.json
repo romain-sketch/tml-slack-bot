@@ -1,0 +1,54 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U096Z0V3VR9",
+        "text": "<@U096Z0V3VR9> has joined the channel",
+        "type": "message",
+        "ts": "1753955409.191729"
+    },
+    {
+        "user": "U06LENY5V6Z",
+        "type": "message",
+        "ts": "1753956727.088649",
+        "client_msg_id": "0b32f8dd-3536-478e-845b-2d9ec9594813",
+        "text": "Bel été à tous ! :sunny:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "848090157b3c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6702750742819_848090157b3c5d209ab6_72.jpg",
+            "first_name": "Gaëlle",
+            "real_name": "Gaëlle Dumur",
+            "display_name": "Gaëlle Dumur",
+            "team": "T017AGS2KE0",
+            "name": "gaelle.dumur",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1753447533.748379",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xkYeH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bel été à tous ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunny",
+                                "unicode": "2600-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "user": "U06C95MP43Z",
+        "type": "message",
+        "ts": "1770125543.247569",
+        "client_msg_id": "ee90b587-52f1-439e-98b1-255bd0a4f5cd",
+        "text": "merci <@U0946E8A2US> et <@U017H09S857> désolé je suis pas très réactive",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "4b949a5cd393",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-23\/7185594457152_4b949a5cd3931f022e89_72.jpg",
+            "first_name": "Anne-Carole",
+            "real_name": "Anne-Carole Cöen (Kolet, ex Swile)",
+            "display_name": "Anne-Carole (Kolet, ex Swile)",
+            "team": "T017AGS2KE0",
+            "name": "ac_coen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1768552567.312869",
+        "parent_user_id": "U06C95MP43Z",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lojgN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0946E8A2US"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U017H09S857"
+                            },
+                            {
+                                "type": "text",
+                                "text": " désolé je suis pas très réactive"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

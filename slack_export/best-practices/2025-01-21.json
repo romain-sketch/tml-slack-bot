@@ -1,0 +1,624 @@
+[
+    {
+        "user": "U065DFPCQMP",
+        "type": "message",
+        "ts": "1737455492.312619",
+        "client_msg_id": "be41202b-30af-4ceb-a772-1263a7c91fb1",
+        "text": "J'ai fait ça plein de fois, et j'ai des outils ludiques pour aider à avancer",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50040e0261e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-15\/6198553206674_50040e0261e7ba62e840_72.jpg",
+            "first_name": "Gaelle",
+            "real_name": "Gaelle Le Goff",
+            "display_name": "Gaelle Le Goff",
+            "team": "T017AGS2KE0",
+            "name": "gaelle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737379377.646149",
+        "parent_user_id": "U067VEJFT5F",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p5HpH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai fait ça plein de fois, et j'ai des outils ludiques pour aider à avancer"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1737465605.288539",
+        "client_msg_id": "845e0a27-b903-44ca-830d-8a8f89c72b1f",
+        "text": "déjà fait plusieurs fois, mais je prends tes outils avec plaisir <@U065DFPCQMP> si tu as des choses à partager, parce que je m'y recolle le mois prochain :)). Je peux te piquer du temps de call ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737379377.646149",
+        "parent_user_id": "U067VEJFT5F",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pv9Jd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "déjà fait plusieurs fois, mais je prends tes outils avec plaisir "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U065DFPCQMP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " si tu as des choses à partager, parce que je m'y recolle le mois prochain :)). Je peux te piquer du temps de call ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0720BFAVFE",
+        "type": "message",
+        "ts": "1737474578.912009",
+        "client_msg_id": "42A27F63-E274-4F69-92DC-B2BB611F0584",
+        "text": "Hello <@U059T4KRCUC> je reprends le fil de cette discussion car nous sommes en pleine réflexion de notre côté aussi avec dans l’AO : Koto, Bruno, Libre. \nQuel est ton feedback sur Koto avec quelques mois de recul du coup stp? Merci bcp. ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50e6f9a21044",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-27\/7202574403248_50e6f9a210444de165cf_72.jpg",
+            "first_name": "Flore",
+            "real_name": "Flore Blanchard-Dignac",
+            "display_name": "Flore Blanchard-Dignac",
+            "team": "T017AGS2KE0",
+            "name": "flore.blanchard.digna",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715701925.558419",
+        "parent_user_id": "U059T4KRCUC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N0Lrx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U059T4KRCUC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je reprends le fil de cette discussion car nous sommes en pleine réflexion de notre côté aussi avec dans l’AO : Koto, Bruno, Libre. \nQuel est ton feedback sur Koto avec quelques mois de recul du coup stp? Merci bcp. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U059T4KRCUC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0720BFAVFE",
+        "type": "message",
+        "ts": "1737474969.373879",
+        "edited": {
+            "user": "U0720BFAVFE",
+            "ts": "1737474992.000000"
+        },
+        "client_msg_id": "8CE65F2C-7C72-4C64-B7CC-622D4D4B5CEB",
+        "text": "Bonjour à tous, auriez-vous des reco d’agences media pour du offline dans les cordes d’une scale-up Tech BtC (Ornikar en l’occurrence) en plus de Re-mind et Mindshare que j’ai en tête; et si vous avez d’ailleurs des retours d’expérience récents sur ces deux dernières, ça m’intéresse aussi :). Merci bcp pour votre aide. ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50e6f9a21044",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-27\/7202574403248_50e6f9a210444de165cf_72.jpg",
+            "first_name": "Flore",
+            "real_name": "Flore Blanchard-Dignac",
+            "display_name": "Flore Blanchard-Dignac",
+            "team": "T017AGS2KE0",
+            "name": "flore.blanchard.digna",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hQEIt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour à tous, auriez-vous des reco d’agences media pour du offline dans les cordes d’une scale-up Tech BtC (Ornikar en l’occurrence) en plus de Re-mind et Mindshare que j’ai en tête; et si vous avez d’ailleurs des retours d’expérience récents sur ces deux dernières, ça m’intéresse aussi :). Merci bcp pour votre aide. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "x",
+                "users": [
+                    "U059T4KRCUC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U065DFPCQMP",
+        "type": "message",
+        "ts": "1737483807.251679",
+        "client_msg_id": "30D0B697-035F-49C3-B667-B88B1DFA4141",
+        "text": "Avec plaisir ! ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50040e0261e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-15\/6198553206674_50040e0261e7ba62e840_72.jpg",
+            "first_name": "Gaelle",
+            "real_name": "Gaelle Le Goff",
+            "display_name": "Gaelle Le Goff",
+            "team": "T017AGS2KE0",
+            "name": "gaelle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737379377.646149",
+        "parent_user_id": "U067VEJFT5F",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5vYgg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Avec plaisir ! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U067VEJFT5F",
+        "type": "message",
+        "ts": "1737483942.791199",
+        "client_msg_id": "f7dca05d-e422-497b-bea7-da67f5abd470",
+        "text": "<@U04SM1RGPJB> <@U065DFPCQMP> <@U06LENY5V6Z> que préférez-vous :\n1- vendredi matin 11h\n2 - mardi apres-midi 17h\n3 - mercredi prochain 11h",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9fcbd8d4bd09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-05\/6296382564371_9fcbd8d4bd095d25ab4c_72.jpg",
+            "first_name": "Amandine",
+            "real_name": "Amandine Moreau",
+            "display_name": "Amandine Moreau",
+            "team": "T017AGS2KE0",
+            "name": "a.gremont.pro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737379377.646149",
+        "parent_user_id": "U067VEJFT5F",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EqUBL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04SM1RGPJB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U065DFPCQMP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06LENY5V6Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " que préférez-vous :\n1- vendredi matin 11h\n2 - mardi apres-midi 17h\n3 - mercredi prochain 11h"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LENY5V6Z",
+        "type": "message",
+        "ts": "1737486247.688949",
+        "client_msg_id": "09B5D011-1241-4139-ABAA-8205D012E6FF",
+        "text": ":white_check_mark: vendredi 11h\n:white_check_mark: mardi 28 à 17h\n:x: mercredi \nBonne soirée !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "848090157b3c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6702750742819_848090157b3c5d209ab6_72.jpg",
+            "first_name": "Gaëlle",
+            "real_name": "Gaëlle Dumur",
+            "display_name": "Gaëlle Dumur",
+            "team": "T017AGS2KE0",
+            "name": "gaelle.dumur",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737379377.646149",
+        "parent_user_id": "U067VEJFT5F",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dcPD1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "white_check_mark",
+                                "unicode": "2705"
+                            },
+                            {
+                                "type": "text",
+                                "text": " vendredi 11h\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "white_check_mark",
+                                "unicode": "2705"
+                            },
+                            {
+                                "type": "text",
+                                "text": " mardi 28 à 17h\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "x",
+                                "unicode": "274c"
+                            },
+                            {
+                                "type": "text",
+                                "text": " mercredi \nBonne soirée !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U065DFPCQMP",
+        "type": "message",
+        "ts": "1737492186.413139",
+        "client_msg_id": "A1BB27BB-CAC9-40F8-8709-4F8ECD0D7B22",
+        "text": "Plutôt vendredi ou mercredi pro pour moi ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50040e0261e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-15\/6198553206674_50040e0261e7ba62e840_72.jpg",
+            "first_name": "Gaelle",
+            "real_name": "Gaelle Le Goff",
+            "display_name": "Gaelle Le Goff",
+            "team": "T017AGS2KE0",
+            "name": "gaelle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737379377.646149",
+        "parent_user_id": "U067VEJFT5F",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nP66T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plutôt vendredi ou mercredi pro pour moi "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1737492281.272209",
+        "client_msg_id": "c4a417cd-9e4e-4bca-b888-64ca2965e92a",
+        "text": "Super <@U084LQF8023> ! Merci beaucoup pour les insights :)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737026544.996979",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2W7OW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Super "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U084LQF8023"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ! Merci beaucoup pour les insights :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U084LQF8023"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1737492357.953489",
+        "client_msg_id": "852aceca-bff5-4429-9837-2662d474b041",
+        "text": "Mercredi pro perso :)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737379377.646149",
+        "parent_user_id": "U067VEJFT5F",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8BpnY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mercredi pro perso :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1737495174.359279",
+        "client_msg_id": "16FA0952-F5BE-4383-988C-0EE0171AEA37",
+        "text": "Si c’est mercredi 11h je peux peut-être aussi :)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737379377.646149",
+        "parent_user_id": "U067VEJFT5F",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pgk1c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si c’est mercredi 11h je peux peut-être aussi :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0859A8P14K",
+        "type": "message",
+        "ts": "1737496290.212419",
+        "client_msg_id": "F34CAEA0-73FE-42B4-8B80-1A0A856C19D3",
+        "text": "• Hello <@U067VEJFT5F> ! J’ai un livre à te conseiller qui peut être chouette à utiliser pour « démarrer du bon pied » ton Workshop : Get to Aha de Andy Cunningham - cela permet de réfléchir à l ADN de la boîte (Mother, Mechanics ou Missionary) et à son positionnement via les « 6C ». Cela inclut un test à faire \/ faire faire qui peut être une bonne base d’échanges :)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "de9373c86530",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8178910826725_de9373c86530dc48c9e8_72.png",
+            "first_name": "Alexandra",
+            "real_name": "Alexandra Lougovoy",
+            "display_name": "Alexandra Lougovoy (Eudonet)",
+            "team": "T017AGS2KE0",
+            "name": "a.lougovoy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737379377.646149",
+        "parent_user_id": "U067VEJFT5F",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rkU29",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Hello "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U067VEJFT5F"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " ! "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "J’ai "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "un livre à te conseiller qui peut être chouette à utiliser pour « démarrer du bon pied » ton Workshop : Get to Aha "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "de Andy Cunningham - cela permet de réfléchir à l ADN de la boîte (Mother, Mechanics ou Missionary) et à son positionnement via les « 6C ». Cela inclut un test à faire \/ faire faire qui peut être une bonne "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "base d’échanges"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " :)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U067VEJFT5F"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

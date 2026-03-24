@@ -1,0 +1,85 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U088A4J3P2N",
+        "text": "<@U088A4J3P2N> has joined the channel",
+        "type": "message",
+        "ts": "1736762178.165889"
+    },
+    {
+        "user": "U04L35Y9D08",
+        "type": "message",
+        "ts": "1736784630.658929",
+        "client_msg_id": "35d923fd-1f12-44d6-b514-d4d60ab4a2de",
+        "text": "J’ai bossé avec North&amp; (Matthieu Ceccarelli et Gaurav Aurora), que je recommande chaudement sur la partie G-Ads - ils ont une vision au top qui va jusqu’au revenu - VS les leads ou le clic - strat et exécution.\nJe crois que <@U084KTR7YKX> connaît aussi ! :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "568f5815adda",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4705573084496_568f5815addab51accfb_72.jpg",
+            "first_name": "Paul",
+            "real_name": "Paul LEMONNIER",
+            "display_name": "Paul",
+            "team": "T017AGS2KE0",
+            "name": "paul.lemonnier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736502930.280949",
+        "parent_user_id": "U06EN9X790C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6nezS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J’ai bossé avec North& (Matthieu Ceccarelli et Gaurav Aurora), que je recommande chaudement sur la partie G-Ads - ils ont une vision au top qui va jusqu’au revenu - VS les leads ou le clic - strat et exécution.\nJe crois que "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U084KTR7YKX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " connaît aussi ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U084KTR7YKX"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U06EN9X790C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U087RDX99HD",
+        "text": "<@U087RDX99HD> has joined the channel",
+        "type": "message",
+        "ts": "1736805024.024479"
+    }
+]

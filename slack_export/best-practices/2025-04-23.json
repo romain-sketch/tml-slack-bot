@@ -1,0 +1,624 @@
+[
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1745397996.541919",
+        "client_msg_id": "1b063665-6d2c-4a06-9247-d57f93b57657",
+        "text": "[G2 Buyer Intent data]\nOn se repose la question de payer (cher) pour récupérer les Buyer intent data G2 (pour nourrir la relance de notre stratégie Outbound).\n\n• Est-ce que quelqu’un l’utilise ? Est-ce que vous en êtes satisfait ?\n• G2 a pris cher en SEO dernièrement. Est-ce que ça a impacté le volume\/qualité de cette data ?\n<@U016SBPG7K9> de mémoire vous l’utilisiez chez Livestorm ?\n\nMerci :pray:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745397996.541919",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1745418198.128879",
+        "reply_users": [
+            "U016SBPG7K9",
+            "U06CZESF7QF"
+        ],
+        "replies": [
+            {
+                "user": "U016SBPG7K9",
+                "ts": "1745400734.265339"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1745403262.570149"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1745408942.203699"
+            },
+            {
+                "user": "U016SBPG7K9",
+                "ts": "1745415550.845679"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1745418198.128879"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oHMom",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[G2 Buyer Intent data]\nOn se repose la question de payer (cher) pour récupérer les Buyer intent data G2 (pour nourrir la relance de notre stratégie Outbound).\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Est-ce que quelqu’un l’utilise ? Est-ce que vous en êtes satisfait ?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "G2 a pris cher en SEO dernièrement. Est-ce que ça a impacté le volume\/qualité de cette data ?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U016SBPG7K9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " de mémoire vous l’utilisiez chez Livestorm ?\n\nMerci "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1745398049.286289",
+        "client_msg_id": "6d750f81-18ee-4761-a550-16a3b9b982cc",
+        "text": "On a pas fait d’opé X mais on en fait pas mal sur Linkedin. Je vois ce que je peux te partager en MP",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744916876.028729",
+        "parent_user_id": "U084KTR7YKX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gnTeA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On a pas fait d’opé X mais on en fait pas mal sur Linkedin. Je vois ce que je peux te partager en MP"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U084KTR7YKX"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U084KTR7YKX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1745399955.361989",
+        "client_msg_id": "7d6a5324-02b9-49fc-87b5-946df83728b8",
+        "text": "ok merci Eugène, preneuse des infos Linked alors :slightly_smiling_face: en effet X ça a l'air très niche ^^",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744916876.028729",
+        "parent_user_id": "U084KTR7YKX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+JBMM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok merci Eugène, preneuse des infos Linked alors "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " en effet X ça a l'air très niche ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1745400734.265339",
+        "client_msg_id": "73453d6d-efe3-48e6-9fde-dba346253553",
+        "text": "Hello ! Yes on a utilisé, et churné (totalement) de G2 en fin d'année dernière.\n\nLes buyer intents ne nous ont jamais été utiles car impossibles à actionner concrètement. Ca te permet de voir que des boites (souvent très grandes) sont allés comparer ta solution avec un concurrent, mais ça ne permet pas de cibler la\/les personnes concernées.\n\nPas d'insight sur l'impact du SEO G2 du coup vu qu'on avait déjà churné",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745397996.541919",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qZ6yj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello ! Yes on a utilisé, et churné (totalement) de G2 en fin d'année dernière.\n\nLes buyer intents ne nous ont jamais été utiles car impossibles à actionner concrètement. Ca te permet de voir que des boites (souvent très grandes) sont allés comparer ta solution avec un concurrent, mais ça ne permet pas de cibler la\/les personnes concernées.\n\nPas d'insight sur l'impact du SEO G2 du coup vu qu'on avait déjà churné"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1745403262.570149",
+        "client_msg_id": "0a440b02-36a5-44be-bf40-6cb0acc8487f",
+        "text": "Ok merci beaucoup <@U016SBPG7K9>!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745397996.541919",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gU5yk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok merci beaucoup "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U016SBPG7K9"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1745408942.203699",
+        "client_msg_id": "28f8bc8c-609f-40e3-9f7e-c7026093fe13",
+        "text": "<@U016SBPG7K9> Vous aviez quand même essayé d’utiliser ces data ? Le classique : Identification des personas cibles de ces grosses boites &gt; récupération des contacts &gt; séquences outbound + campagne d’ads awareness sur les employées de cette boite ? Ca marchait pas ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745397996.541919",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hcprf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U016SBPG7K9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Vous aviez quand même essayé d’utiliser ces data ? Le classique : Identification des personas cibles de ces grosses boites > récupération des contacts > séquences outbound + campagne d’ads awareness sur les employées de cette boite ? Ca marchait pas ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1745415550.845679",
+        "client_msg_id": "18db94ff-4fe6-469b-b382-4835c4b039e5",
+        "text": "On avait beaucoup de boites de 1000+ voire 10k+ employés, impossible de trouver la bonne personne avec certitude. Les sales refusaient d'acter dessus vs nos autres leads plus chauds. Ca peut etre utile dans le cadre d'un modele intent-based à coté d'autres facteurs pris en compte, mais vraiment l'intéret sera marginal. Sauf si dans votre cas c'est des boites de 100 employés qui ressortent ou si vous arrivez avec certitude à trouver LA personne, peu importe la taille du compte.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745397996.541919",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fUgIW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On avait beaucoup de boites de 1000+ voire 10k+ employés, impossible de trouver la bonne personne avec certitude. Les sales refusaient d'acter dessus vs nos autres leads plus chauds. Ca peut etre utile dans le cadre d'un modele intent-based à coté d'autres facteurs pris en compte, mais vraiment l'intéret sera marginal. Sauf si dans votre cas c'est des boites de 100 employés qui ressortent ou si vous arrivez avec certitude à trouver LA personne, peu importe la taille du compte."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06CZESF7QF",
+                    "U020QK16RMJ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U07BLPPL3C1",
+        "type": "message",
+        "ts": "1745416678.888319",
+        "edited": {
+            "user": "U07BLPPL3C1",
+            "ts": "1745416709.000000"
+        },
+        "client_msg_id": "0f1051b0-4e23-4b7b-b486-e998e7a41a54",
+        "text": "Hello les TML,\nChez Powell nous avons un vrai soucis pour récupérer des cas clients !\nOn propose une solution d’intranet et apparemment, personne n’a très envie de parler du sien publiquement (on lave son linge sale en famille, comme on dit :sweat_smile:).\n\nPourtant, nos CSM, PMM et field marketers se mobilisent à fond. C’est même souvent prévu dans les contrats, on propose des incentives (cadeaux, dons associatifs…), mais on rame à chaque fois.\nLa seule chose qui fonctionne vraiment c'est notre award des meilleurs intranets que l'on a créé dans ce but là.\n\nEst-ce que vous avez des idées, des astuces, des approches qui ont marché chez vous ?\nJe prends toutes les suggestions créatives :pray:\n\nEt même question pour les reviews sur des sites comme G2, Gartner peer reviews, etc.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a188c365467d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-16\/7728349993798_a188c365467d3e63d25d_72.jpg",
+            "first_name": "Esther",
+            "real_name": "Esther Daga",
+            "display_name": "Esther Daga (Powell)",
+            "team": "T017AGS2KE0",
+            "name": "estherdaga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745416678.888319",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1745417457.457399",
+        "reply_users": [
+            "U08HF5YQM6G"
+        ],
+        "replies": [
+            {
+                "user": "U08HF5YQM6G",
+                "ts": "1745417457.457399"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TZLeG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello les TML,\nChez Powell nous avons un vrai soucis pour récupérer des cas clients !\nOn propose une solution d’intranet et apparemment, personne n’a très envie de parler du sien publiquement (on lave son linge sale en famille, comme on dit "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": ").\n\nPourtant, nos CSM, PMM et field marketers se mobilisent à fond. C’est même souvent prévu dans les contrats, on propose des incentives (cadeaux, dons associatifs…), mais on rame à chaque fois.\nLa seule chose qui fonctionne vraiment c'est notre award des meilleurs intranets que l'on a créé dans ce but là.\n\nEst-ce que vous avez des idées, des astuces, des approches qui ont marché chez vous ?\nJe prends toutes les suggestions créatives "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nEt même question pour les reviews sur des sites comme G2, Gartner peer reviews, etc."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08HF5YQM6G",
+        "type": "message",
+        "ts": "1745417457.457399",
+        "client_msg_id": "DF1242E6-68B1-43F0-897A-4E560FAA5CB0",
+        "text": "Pour les cas clients j'avais pris le sujet en direct avant d'industrialiser le process en interne.\nMon accroche c'était : \"Je discute avec beaucoup de vos pairs et concurrents et je trouve que vous avez été précurseur dans la perception et la résolution du pain point X. Je pense que ça serait intéressant pour le marché mais aussi pour vous de partager ces réflexions\".\nJ'étais surpris de voir les blockers que les équipes m'avaient communiqués (pas envie, pas le temps, pas le droit) sauter chez la plupart des clients :wink: ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "dc5afdcdc051",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-28\/10418814050592_dc5afdcdc0516abb4cac_72.jpg",
+            "first_name": "Roy",
+            "real_name": "Roy Brockmann",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "roy.brockmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745416678.888319",
+        "parent_user_id": "U07BLPPL3C1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "feSIO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour les cas clients j'avais pris le sujet en direct avant d'industrialiser le process"
+                            },
+                            {
+                                "type": "text",
+                                "text": " en interne"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Mon accroche c'"
+                            },
+                            {
+                                "type": "text",
+                                "text": "était"
+                            },
+                            {
+                                "type": "text",
+                                "text": " :"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \"Je "
+                            },
+                            {
+                                "type": "text",
+                                "text": "discute"
+                            },
+                            {
+                                "type": "text",
+                                "text": " avec beaucoup de vos pairs et concurrents et "
+                            },
+                            {
+                                "type": "text",
+                                "text": "je trouve que vous"
+                            },
+                            {
+                                "type": "text",
+                                "text": " avez "
+                            },
+                            {
+                                "type": "text",
+                                "text": "été précurseur dans la perception et la résolution du pain point X. Je pense que ça serait intéressant pour le marché mais aussi pour vous de partager ces réflexions\".\nJ'étais surpris de voir les blockers que les équipes m'avaient communiqués (pas envie, pas le temps, pas le droit) sauter chez la plupart des clients "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U07BLPPL3C1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1745418198.128879",
+        "client_msg_id": "aa5e3699-d1ce-42c4-b598-090f2bbea7dd",
+        "text": "Ok très clair je comprends. Merci !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745397996.541919",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gjmbG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok très clair je comprends. Merci !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

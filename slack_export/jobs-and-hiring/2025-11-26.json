@@ -1,0 +1,763 @@
+[
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1764145522.154169",
+        "client_msg_id": "3e0a896a-3b19-4223-ab84-d2ae8530924e",
+        "text": "yes c'est Qare, la CEO est SUPER ! mais il faut un profil tres B2C.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764085177.811319",
+        "parent_user_id": "U017RAZCAGZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "px+K2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes c'est Qare, la CEO est SUPER ! mais il faut un profil tres B2C."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03QPMQA31V",
+                    "U08PLD4KPS8"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U03QPMQA31V",
+        "type": "message",
+        "ts": "1764148854.726829",
+        "client_msg_id": "1F169FAD-97D9-47F3-9BC2-4E8C43302E9B",
+        "text": "Je confirme, Sylvie est top",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "920d362f50c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-26\/3858025441956_920d362f50c400fcafe0_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu Pouget-Abadie",
+            "display_name": "Matthieu PA (Orisha)",
+            "team": "T017AGS2KE0",
+            "name": "mpougetabadie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764085177.811319",
+        "parent_user_id": "U017RAZCAGZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vSg5w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je confirme, Sylvie est top"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "<@U03QPMQA31V> apparemment tu es connu :wink:",
+        "files": [
+            {
+                "id": "F09V8TGKWR3",
+                "created": 1764150966,
+                "timestamp": 1764150966,
+                "name": "Capture d’écran 2025-11-26 à 10.55.33.png",
+                "title": "Capture d’écran 2025-11-26 à 10.55.33.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U017RAZCAGZ",
+                "user_team": "T017AGS2KE0",
+                "editable": false,
+                "size": 12627,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F09V8TGKWR3\/capture_d___e__cran_2025-11-26_a___10.55.33.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F09V8TGKWR3\/download\/capture_d___e__cran_2025-11-26_a___10.55.33.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F09V8TGKWR3-779a20a237\/capture_d___e__cran_2025-11-26_a___10.55.33_64.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F09V8TGKWR3-779a20a237\/capture_d___e__cran_2025-11-26_a___10.55.33_80.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F09V8TGKWR3-779a20a237\/capture_d___e__cran_2025-11-26_a___10.55.33_360.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360_w": 360,
+                "thumb_360_h": 78,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F09V8TGKWR3-779a20a237\/capture_d___e__cran_2025-11-26_a___10.55.33_160.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "original_w": 385,
+                "original_h": 83,
+                "thumb_tiny": "AwALADC+dwzxnJx1NGFX5fn6erH9akooAiyu1SRJx6bqRS7FgB8vQZLA1NRQA0KVBxyfdjSjOOcfhS0UAf\/Z",
+                "permalink": "https:\/\/techmarketingleaders.slack.com\/files\/U017U6M2G00\/F09V8TGKWR3\/capture_d___e__cran_2025-11-26_a___10.55.33.png",
+                "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F09V8TGKWR3-97f068c0a2",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U017RAZCAGZ",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8MTYY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QPMQA31V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " apparemment tu es connu "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1764150973.080029",
+        "client_msg_id": "e43a2b1a-acb2-41e5-a7a6-16882091c55a",
+        "thread_ts": "1764085177.811319",
+        "parent_user_id": "U017RAZCAGZ",
+        "reactions": [
+            {
+                "name": "hugging_face",
+                "users": [
+                    "U03QPMQA31V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03QPMQA31V",
+        "type": "message",
+        "ts": "1764151996.044669",
+        "client_msg_id": "6A1FA987-A48C-4D9B-AE79-C64C8BA82FD0",
+        "text": "Merci Hélène !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "920d362f50c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-26\/3858025441956_920d362f50c400fcafe0_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu Pouget-Abadie",
+            "display_name": "Matthieu PA (Orisha)",
+            "team": "T017AGS2KE0",
+            "name": "mpougetabadie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764085177.811319",
+        "parent_user_id": "U017RAZCAGZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0k8K+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci Hélène !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "crossed_fingers",
+                "users": [
+                    "U017RAZCAGZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U067VEJFT5F",
+        "type": "message",
+        "ts": "1764152619.341129",
+        "client_msg_id": "d4dee9cc-f299-4cbd-b954-3e7ba15c6543",
+        "text": "Hello ! je recrute dans ma team : <https:\/\/www.linkedin.com\/posts\/amandine-moreau_je-recrute-un-responsable-r%C3%A9seaux-sociaux-activity-7399065431224815616-l4rh?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAAzzUncBfMiy2PwKJui5MDJg19EIKeQFNkU|https:\/\/www.linkedin.com\/posts\/amandine-moreau_je-recrute-un-responsable-r%C3%A9seaux[…]m=member_desktop&amp;rcm=ACoAAAzzUncBfMiy2PwKJui5MDJg19EIKeQFNkU>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9fcbd8d4bd09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-05\/6296382564371_9fcbd8d4bd095d25ab4c_72.jpg",
+            "first_name": "Amandine",
+            "real_name": "Amandine Moreau",
+            "display_name": "Amandine Moreau",
+            "team": "T017AGS2KE0",
+            "name": "a.gremont.pro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/posts\/amandine-moreau_je-recrute-un-responsable-r%C3%A9seaux-sociaux-activity-7399065431224815616-l4rh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAzzUncBfMiy2PwKJui5MDJg19EIKeQFNkU",
+                "image_url": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/c45fy346jw096z9pbphyyhdz7",
+                "image_width": 1400,
+                "image_height": 800,
+                "image_bytes": 34857,
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/posts\/amandine-moreau_je-recrute-un-responsable-r%C3%A9seaux-sociaux-activity-7399065431224815616-l4rh?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAAzzUncBfMiy2PwKJui5MDJg19EIKeQFNkU",
+                "fallback": "Je recrute un Responsable Réseaux Sociaux et Contenus ! | Amandine Grémont",
+                "text": "Hop hop hop ! Par ici L'offre d'emploi à ne pas rater cette semaine ! \nJe recrute à La French Tech ! \n&gt;&gt;&gt; responsable contenus et réseaux sociaux : <https:\/\/lnkd.in\/eUM6p8DK>\n\nEmma Monchablon Pierre Guillot Axelle Marbach Lucie Finet",
+                "title": "Je recrute un Responsable Réseaux Sociaux et Contenus ! | Amandine Grémont",
+                "title_link": "https:\/\/www.linkedin.com\/posts\/amandine-moreau_je-recrute-un-responsable-r%C3%A9seaux-sociaux-activity-7399065431224815616-l4rh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAzzUncBfMiy2PwKJui5MDJg19EIKeQFNkU",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sW9++",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello ! je recrute dans ma team : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/posts\/amandine-moreau_je-recrute-un-responsable-r%C3%A9seaux-sociaux-activity-7399065431224815616-l4rh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAzzUncBfMiy2PwKJui5MDJg19EIKeQFNkU",
+                                "text": "https:\/\/www.linkedin.com\/posts\/amandine-moreau_je-recrute-un-responsable-r%C3%A9seaux[…]m=member_desktop&rcm=ACoAAAzzUncBfMiy2PwKJui5MDJg19EIKeQFNkU"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02N2EVMFCG",
+                    "U04SM1RGPJB",
+                    "U063A8VPPG9",
+                    "U08HF5YQM6G",
+                    "U017RAZCAGZ",
+                    "U04HP95GK55"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "user": "U04L04T475K",
+        "type": "message",
+        "ts": "1764158249.545419",
+        "client_msg_id": "d9a46203-1e96-4365-a406-06f2b19a111f",
+        "text": "j'ai pris mes billet depuis Marseille pour venir ouvrir bien grand les oreilles le 11 également :eyes:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "992240f01962",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4685704045204_992240f019622b6b0af8_72.jpg",
+            "first_name": "Antoine",
+            "real_name": "Antoine Yahia Cherif",
+            "display_name": "Antoine Yahia Cherif",
+            "team": "T017AGS2KE0",
+            "name": "antoine.yc008",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764077032.180629",
+        "parent_user_id": "U08HF5YQM6G",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HTujR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "j'ai pris mes billet depuis Marseille pour venir ouvrir bien grand les oreilles le 11 également "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes",
+                                "unicode": "1f440"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U063A8VPPG9",
+                    "U08HF5YQM6G",
+                    "U06DYTRDLUD",
+                    "U078PFP7A4B",
+                    "U04SM1RGPJB"
+                ],
+                "count": 5
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U065DFPCQMP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U09EFH6S1BQ",
+        "type": "message",
+        "ts": "1764165385.056959",
+        "client_msg_id": "5eafc7e6-f365-4dc9-a14c-e2ced9e0d7a6",
+        "text": "Pour info, Bonx cherche un head of marketing.\nProfil : 8+ d'xp et passage en start up early stage.\nSi jamais vous connaissez quelqu'un qui connait quelqu'un.\n<https:\/\/bonx.homerun.co\/lead-marketing\/en>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "ffa600162240",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-02-04\/10441989667490_ffa600162240cca72992_72.png",
+            "first_name": "Timothée",
+            "real_name": "Timothée COLLARD",
+            "display_name": "Timothée COLLARD",
+            "team": "T017AGS2KE0",
+            "name": "timothee.collard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/cdn.homerun.co\/default\/we-are-hiring-share-og.jpg",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 96189,
+                "from_url": "https:\/\/bonx.homerun.co\/lead-marketing\/en",
+                "id": 1,
+                "original_url": "https:\/\/bonx.homerun.co\/lead-marketing\/en",
+                "fallback": "Bonx: Founding Marketing - Bonx",
+                "text": "At Bonx we're looking for a Founding Marketing to join our team.",
+                "title": "Founding Marketing - Bonx",
+                "title_link": "https:\/\/bonx.homerun.co\/lead-marketing\/en",
+                "service_name": "Bonx"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Gp1o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour info, Bonx cherche un head of marketing.\nProfil : 8+ d'xp et passage en start up early stage.\nSi jamais vous connaissez quelqu'un qui connait quelqu'un.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/bonx.homerun.co\/lead-marketing\/en"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03P99RGMTN",
+        "type": "message",
+        "ts": "1764169333.188079",
+        "client_msg_id": "c27c5fd0-4670-4c6d-9806-a4687ff1ebc2",
+        "text": "61 messages, vraiment, le meilleur marketing pour absolument venir le 11 en effet :stuck_out_tongue_winking_eye:  ça va envoyer du crousti.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2f8b530bfffa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-28\/7656384027105_2f8b530bfffa39d455d3_72.png",
+            "first_name": "Julie",
+            "real_name": "Julie Asselin (365Talents)",
+            "display_name": "Julie Asselin (365Talents)",
+            "team": "T017AGS2KE0",
+            "name": "julie.asselin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764077032.180629",
+        "parent_user_id": "U08HF5YQM6G",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "an29a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "61 messages, vraiment, le meilleur marketing pour absolument venir le 11 en effet "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue_winking_eye",
+                                "unicode": "1f61c"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  ça va envoyer du crousti."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1764169378.477509",
+        "client_msg_id": "b08b0253-7807-4f47-89e4-31a1785cf154",
+        "text": "ouiiii",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764077032.180629",
+        "parent_user_id": "U08HF5YQM6G",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BjJEl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ouiiii"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08HF5YQM6G",
+        "type": "message",
+        "ts": "1764169386.921999",
+        "client_msg_id": "B6AA61B2-E793-4178-AFCC-705AD46EBCAA",
+        "text": "En attribution first touch c'est pas mal :smirk:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "dc5afdcdc051",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-28\/10418814050592_dc5afdcdc0516abb4cac_72.jpg",
+            "first_name": "Roy",
+            "real_name": "Roy Brockmann",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "roy.brockmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764077032.180629",
+        "parent_user_id": "U08HF5YQM6G",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "89IQ4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En attribution first touch c'est pas mal "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smirk",
+                                "unicode": "1f60f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U06CZESF7QF",
+                    "U063A8VPPG9",
+                    "U078PFP7A4B",
+                    "U0183AS3MB6",
+                    "U03P99RGMTN"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "text": "Vu dans Les Échos du 18 nov ",
+        "files": [
+            {
+                "id": "F09VCGA94H4",
+                "created": 1764171637,
+                "timestamp": 1764171637,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U08PLD4KPS8",
+                "user_team": "T017AGS2KE0",
+                "editable": false,
+                "size": 1931530,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "subtype": "slack_image",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F09VCGA94H4\/image_from_ios.jpg?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F09VCGA94H4\/download\/image_from_ios.jpg?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F09VCGA94H4-cce747547c\/image_from_ios_64.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F09VCGA94H4-cce747547c\/image_from_ios_80.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F09VCGA94H4-cce747547c\/image_from_ios_360.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F09VCGA94H4-cce747547c\/image_from_ios_480.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F09VCGA94H4-cce747547c\/image_from_ios_160.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F09VCGA94H4-cce747547c\/image_from_ios_720.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F09VCGA94H4-cce747547c\/image_from_ios_800.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F09VCGA94H4-cce747547c\/image_from_ios_960.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F09VCGA94H4-cce747547c\/image_from_ios_1024.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACS1wQcL2AxQoIPIHTsP\/r0hxs68d++ePeiPKqRhcDuD1\/SkMPLOOoyDnOD\/AI0ZUcbh6cmkyfMHyKD3P+RSAt7nj\/PagCN5Srkf0NN88+\/5GlcfO31puPapuXYtY+XABwG7HFAAKggn\/vo0ueD169u3FMkdkQnk4H61RArckHGRx\/npTQg6enTjGKiNwdyAr17k0oYg7sgZOO3SgQj43t9aTimu5DnqefSk3+x\/I1FjW5cGQD7nOajnCiE4ABxxge9PkGVX29qilTMW0Ebj3xj61oZFRMmRfY4q0rYXBPtnBFQCLYyksvHJ5qdcnrgjsQaYlfqRt94\/WkqYgk\/eI+mKNp\/vN+lTYvmP\/9k=",
+                "permalink": "https:\/\/techmarketingleaders.slack.com\/files\/U017U6M2G00\/F09VCGA94H4\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F09VCGA94H4-fae0b7e1dc",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U08PLD4KPS8",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xMz+4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Vu dans Les Échos du 18 nov "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1764171654.544249",
+        "client_msg_id": "56F7A415-92A1-4517-BAA5-81B55663C984",
+        "thread_ts": "1764085177.811319",
+        "parent_user_id": "U017RAZCAGZ",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U03QPMQA31V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U065DFPCQMP",
+        "type": "message",
+        "ts": "1764171998.898939",
+        "client_msg_id": "39FC369D-BF4E-405B-8775-EE64C41F2DC7",
+        "text": "Strategic Partner opportunity :smiling_face_with_3_hearts:\n <https:\/\/ciaolesnazes.fr\/|https:\/\/ciaolesnazes.fr\/>\nMais ça sort un poil trop tard pour le meetup :sweat_smile:\n",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50040e0261e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-15\/6198553206674_50040e0261e7ba62e840_72.jpg",
+            "first_name": "Gaelle",
+            "real_name": "Gaelle Le Goff",
+            "display_name": "Gaelle Le Goff",
+            "team": "T017AGS2KE0",
+            "name": "gaelle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764077032.180629",
+        "parent_user_id": "U08HF5YQM6G",
+        "attachments": [
+            {
+                "image_url": "https:\/\/ciaolesnazes.fr\/_assets\/images\/d086a5c36a3d20d9599cdb2e7fd43f6d.jpg",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 57699,
+                "from_url": "https:\/\/ciaolesnazes.fr\/",
+                "service_icon": "https:\/\/ciaolesnazes.fr\/_assets\/images\/316005845c0ff7916cb216977fc7ffec.png",
+                "id": 1,
+                "original_url": "https:\/\/ciaolesnazes.fr\/",
+                "fallback": "Ciao les nazes",
+                "title": "Ciao les nazes",
+                "title_link": "https:\/\/ciaolesnazes.fr\/",
+                "service_name": "ciaolesnazes.fr"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "32Pu1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Strategic Partner opportunity "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_3_hearts",
+                                "unicode": "1f970"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ciaolesnazes.fr\/",
+                                "text": "https:\/\/ciaolesnazes.fr\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nMais ça sort un poil trop tard pour le meetup "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U04SM1RGPJB",
+                    "U078PFP7A4B",
+                    "U06CZESF7QF",
+                    "U01A4GMRRR9",
+                    "U03P99RGMTN",
+                    "U08HF5YQM6G"
+                ],
+                "count": 6
+            }
+        ]
+    }
+]

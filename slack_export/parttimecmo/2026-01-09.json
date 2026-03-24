@@ -1,0 +1,239 @@
+[
+    {
+        "user": "U0946E8A2US",
+        "type": "message",
+        "ts": "1767952542.526279",
+        "client_msg_id": "63be19b0-9aa4-476e-a216-3b1f143a9fd1",
+        "text": "&gt; Je recherche un CMO \/ VP Growth (en freelance) pour l'un de mes clients.\n&gt; Mission longue, contexte international, hyper scale, produit IA, 7M d'ARR, tout à construire côté growth.\n&gt; \n&gt; Rôle très stratégique, en lien direct avec les fondateurs.\nFreelance recruteur donc je sais pas ce que c'est (Submagic qui a élargit à du fractional maybe?)\nJ'ai pas donné suite mais si vous voulez une intro hésitez pas :slightly_smiling_face:\n\nAu cas où certains ne l'auraient pas reçue :joy:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "f73f6d38e4eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-07-23\/9238905089862_f73f6d38e4eb792c8c6a_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult",
+            "team": "T017AGS2KE0",
+            "name": "thibaut.davoult",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1767952542.526279",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1767954629.929559",
+        "reply_users": [
+            "U063A8VPPG9",
+            "U084KTR7YKX"
+        ],
+        "replies": [
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1767953466.623369"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1767954160.872579"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1767954629.929559"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MepK+",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je recherche un CMO \/ VP Growth (en freelance) pour l'un de mes clients.\nMission longue, contexte international, hyper scale, produit IA, 7M d'ARR, tout à construire côté growth.\n\nRôle très stratégique, en lien direct avec les fondateurs."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Freelance recruteur donc je sais pas ce que c'est (Submagic qui a élargit à du fractional maybe?)\nJ'ai pas donné suite mais si vous voulez une intro hésitez pas "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nAu cas où certains ne l'auraient pas reçue "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U04SM1RGPJB",
+                    "U063A8VPPG9"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1767953466.623369",
+        "client_msg_id": "4919b7de-bdf5-46cd-9c57-8d5d88f22897",
+        "text": "pour <@U084KTR7YKX> ca",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1767952542.526279",
+        "parent_user_id": "U0946E8A2US",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WCFXo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pour "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U084KTR7YKX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ca"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1767954160.872579",
+        "client_msg_id": "702bdad3-909a-4ca9-9636-17fdf0f2cf76",
+        "text": "je vais les éblouir avec mon use case \"Osef\" :raised_hands:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1767952542.526279",
+        "parent_user_id": "U0946E8A2US",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mZL0T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je vais les éblouir avec mon use case \"Osef\" "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "unicode": "1f64c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U0946E8A2US"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1767954629.929559",
+        "client_msg_id": "3A2D62D4-EA0B-44E7-B64D-00E580F9C96F",
+        "text": "Ahahah",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1767952542.526279",
+        "parent_user_id": "U0946E8A2US",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lX7tM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ahahah"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

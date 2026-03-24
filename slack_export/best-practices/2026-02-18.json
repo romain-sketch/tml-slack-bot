@@ -1,0 +1,191 @@
+[
+    {
+        "user": "U0946E8A2US",
+        "type": "message",
+        "ts": "1771407552.306579",
+        "client_msg_id": "a91bce19-80d5-4e7c-9d5f-ea7e71f099e5",
+        "text": "Update avec les infos glanées à droite à gauche:\nLe query fan out sur ChatGPT traduit d'abord en anglais la requete (requete spécifique du user =&gt; ChatGPT divise en 3-4 requetes plus génériques pour faire une recherche web =&gt; ces 3-4 requetes sont traduites en anglais =&gt; résultats sont récupérés et utilisés pour générer la réponse)\n\nEn tous cas c'est ma compréhension du truc. Donc ça voudrait dire qu'avoir un site avec URLs 100% en anglais même pour les locales traduites n'a pas d'impact. Mais je serais plus à l'aise si une boite spécialisée dans la traduction de site web (par exemple :wink: <@U06CZESF7QF>) pouvait faire une analyse quanti avec une vraie méthode scientifique :stuck_out_tongue:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "f73f6d38e4eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-07-23\/9238905089862_f73f6d38e4eb792c8c6a_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult",
+            "team": "T017AGS2KE0",
+            "name": "thibaut.davoult",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770221122.368779",
+        "parent_user_id": "U0946E8A2US",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fNgPN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Update avec les infos glanées à droite à gauche:\nLe query fan out sur ChatGPT traduit d'abord en anglais la requete (requete spécifique du user => ChatGPT divise en 3-4 requetes plus génériques pour faire une recherche web => ces 3-4 requetes sont traduites en anglais => résultats sont récupérés et utilisés pour générer la réponse)\n\nEn tous cas c'est ma compréhension du truc. Donc ça voudrait dire qu'avoir un site avec URLs 100% en anglais même pour les locales traduites n'a pas d'impact. Mais je serais plus à l'aise si une boite spécialisée dans la traduction de site web (par exemple "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06CZESF7QF"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") pouvait faire une analyse quanti avec une vraie méthode scientifique "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue",
+                                "unicode": "1f61b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1771428590.116989",
+        "client_msg_id": "013a7ef3-6470-411c-9b6f-40b673ad3325",
+        "text": "Yes ChatGPT est très focus Anglais. C’est beaucoup moins le cas pour Google qui fait beaucoup de recherche (mais pas tout) dans la langue utilisée",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770221122.368779",
+        "parent_user_id": "U0946E8A2US",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m4aSi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes ChatGPT est très focus Anglais. C’est beaucoup moins le cas pour Google qui fait beaucoup de recherche (mais pas tout) dans la langue utilisée"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1771428619.736479",
+        "client_msg_id": "1878cb8a-ec4d-4ae8-9e57-f9fe8b2dc888",
+        "text": "On a un free qui fait des petites analyses pour nous je lui avais transmis ta question, c’est prévu qu’il bosse dessus !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770221122.368779",
+        "parent_user_id": "U0946E8A2US",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bTn0F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On a un free qui fait des petites analyses pour nous je lui avais transmis ta question, c’est prévu qu’il bosse dessus !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U0946E8A2US"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U07BLPPL3C1",
+        "type": "message",
+        "ts": "1771438662.279729",
+        "client_msg_id": "7fe24587-32dc-4dca-b4c1-0d7dff918c08",
+        "text": "Bonjour, alors je sais que la question avait déjà été posée par le passé, mais impossible de la retrouver ! Avez vous des best practices pour préparer vos sales a un évènement\/salon? \nOn a plein d'événements qui arrivent, et je ne veux plus des commerciaux cachés derrière le comptoir qui attendent qu'on viennent leur poser une question. Surtout que je pense que ce n' est pas du tout de la mauvaise volonté mais juste qu'ils ne savent pas du tout comment s'y prendre. Ils ont besoin d'un coup de pouce",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a188c365467d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-16\/7728349993798_a188c365467d3e63d25d_72.jpg",
+            "first_name": "Esther",
+            "real_name": "Esther Daga",
+            "display_name": "Esther Daga (Powell)",
+            "team": "T017AGS2KE0",
+            "name": "estherdaga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sBVsd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour, alors je sais que la question avait déjà été posée par le passé, mais impossible de la retrouver ! Avez vous des best practices pour préparer vos sales a un évènement\/salon? \nOn a plein d'événements qui arrivent, et je ne veux plus des commerciaux cachés derrière le comptoir qui attendent qu'on viennent leur poser une question. Surtout que je pense que ce n' est pas du tout de la mauvaise volonté mais juste qu'ils ne savent pas du tout comment s'y prendre. Ils ont besoin d'un coup de pouce"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

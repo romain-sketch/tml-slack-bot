@@ -1,0 +1,66 @@
+[
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1765618579.132289",
+        "client_msg_id": "2b5eeefc-07a3-4c9f-9a03-db6b16932a06",
+        "text": "<https:\/\/www.linkedin.com\/posts\/chanceworldwide_ce-camion-chance-roule-devant-lassembl%C3%A9e-activity-7370746780797407232-LjT5?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAAdKbJEBC3hqNUOyiPuHyeaMfd2JCSKhvIg|Chance> &gt; camion devant l'assemblée pour targetter François Hollande\n\n<https:\/\/www.linkedin.com\/posts\/aymeric-grange_bac-de-philo-2025-quest-ce-que-laudace-activity-7343531495883497472-EfO6?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAAdKbJEBC3hqNUOyiPuHyeaMfd2JCSKhvIg|900.care> &gt; pour qui veut être mon associé",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1765542092.304799",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EtSdX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/posts\/chanceworldwide_ce-camion-chance-roule-devant-lassembl%C3%A9e-activity-7370746780797407232-LjT5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAdKbJEBC3hqNUOyiPuHyeaMfd2JCSKhvIg",
+                                "text": "Chance"
+                            },
+                            {
+                                "type": "text",
+                                "text": " > camion devant l'assemblée pour targetter François Hollande\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/posts\/aymeric-grange_bac-de-philo-2025-quest-ce-que-laudace-activity-7343531495883497472-EfO6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAdKbJEBC3hqNUOyiPuHyeaMfd2JCSKhvIg",
+                                "text": "900.care",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": " > pour qui veut être mon associé"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U06TF9YAWEM"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

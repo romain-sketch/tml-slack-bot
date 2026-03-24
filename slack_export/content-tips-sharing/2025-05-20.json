@@ -1,0 +1,65 @@
+[
+    {
+        "user": "U04L04T475K",
+        "type": "message",
+        "ts": "1747743840.577409",
+        "edited": {
+            "user": "U04L04T475K",
+            "ts": "1747743846.000000"
+        },
+        "client_msg_id": "19ca6e06-f41a-4449-89ed-a1be7df7f77b",
+        "text": "Hello !\nAuriez-vous un doc de *média training* à partager ? Pas tellement sur des sujets de fond, mais plus sur : comment gérer une question compliquée, hors-sujet, touchy d'un point de vue actu', privacy etc... ? Bref, pour se préparer face aux médias \/ journalistes.\nMerci d'avance :pray::pray:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "992240f01962",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4685704045204_992240f019622b6b0af8_72.jpg",
+            "first_name": "Antoine",
+            "real_name": "Antoine Yahia Cherif",
+            "display_name": "Antoine Yahia Cherif",
+            "team": "T017AGS2KE0",
+            "name": "antoine.yc008",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dmXLr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello !\nAuriez-vous un doc de "
+                            },
+                            {
+                                "type": "text",
+                                "text": "média training",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " à partager ? Pas tellement sur des sujets de fond, mais plus sur : comment gérer une question compliquée, hors-sujet, touchy d'un point de vue actu', privacy etc... ? Bref, pour se préparer face aux médias \/ journalistes.\nMerci d'avance "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

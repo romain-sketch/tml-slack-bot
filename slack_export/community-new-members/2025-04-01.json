@@ -1,0 +1,236 @@
+[
+    {
+        "user": "U02MZTE8GCF",
+        "type": "message",
+        "ts": "1743504235.350499",
+        "edited": {
+            "user": "U02MZTE8GCF",
+            "ts": "1743504249.000000"
+        },
+        "client_msg_id": "78C8CCB8-5FAE-4D45-B488-2B3C41EA5654",
+        "text": "Pardon du retard de reponse- non c est ok",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "g3f825b34c74",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3f825b34c742b952f1e8c7ca76afd231.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Carole",
+            "real_name": "Carole Zibi",
+            "display_name": "Carole Zibi",
+            "team": "T017AGS2KE0",
+            "name": "carole.zibi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738228210.810289",
+        "parent_user_id": "U02N2EVMFCG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VfKFS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pa"
+                            },
+                            {
+                                "type": "text",
+                                "text": "rdon "
+                            },
+                            {
+                                "type": "text",
+                                "text": "du retard de reponse- non c est ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02MZTE8GCF",
+        "type": "message",
+        "ts": "1743504327.598639",
+        "client_msg_id": "B934F4FE-C0C9-4F2B-BB76-0D89AAE004BF",
+        "text": "Hello à tous\nAnne Dumas Head of Marketing du Wagon voudrait nous rejoindre - qu en pensez vous?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "g3f825b34c74",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3f825b34c742b952f1e8c7ca76afd231.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Carole",
+            "real_name": "Carole Zibi",
+            "display_name": "Carole Zibi",
+            "team": "T017AGS2KE0",
+            "name": "carole.zibi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743504327.598639",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1743510579.837449",
+        "reply_users": [
+            "U01789XN2UV",
+            "U02MZTE8GCF"
+        ],
+        "replies": [
+            {
+                "user": "U01789XN2UV",
+                "ts": "1743508867.904639"
+            },
+            {
+                "user": "U02MZTE8GCF",
+                "ts": "1743510579.837449"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AYIsP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello à tous\nAnne Dumas Head of Marketing du Wagon voudrait nous rejoindre - qu en pensez vous?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02MZTE8GCF",
+        "type": "message",
+        "ts": "1743504346.692649",
+        "client_msg_id": "1E99E09A-5483-4323-930C-B96AFE79ADFC",
+        "text": "<https:\/\/www.linkedin.com\/in\/dumasanne?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=ios_app|https:\/\/www.linkedin.com\/in\/dumasanne?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=ios_app>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "g3f825b34c74",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3f825b34c742b952f1e8c7ca76afd231.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Carole",
+            "real_name": "Carole Zibi",
+            "display_name": "Carole Zibi",
+            "team": "T017AGS2KE0",
+            "name": "carole.zibi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8ZK1i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/dumasanne?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+                                "text": "https:\/\/www.linkedin.com\/in\/dumasanne?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01789XN2UV",
+        "type": "message",
+        "ts": "1743508867.904639",
+        "client_msg_id": "c94a8ed9-8839-4cba-9383-7f5acae9b74e",
+        "text": "Sauf erreur il y a un CMO au Wagon :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "dc904393dfdd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-01-27\/8347075988438_dc904393dfdd624e2705_72.jpg",
+            "first_name": "Adrien",
+            "real_name": "Adrien Plat",
+            "display_name": "Adrien Plat",
+            "team": "T017AGS2KE0",
+            "name": "adrien",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743504327.598639",
+        "parent_user_id": "U02MZTE8GCF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mvvD0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sauf erreur il y a un CMO au Wagon "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02MZTE8GCF",
+        "type": "message",
+        "ts": "1743510579.837449",
+        "client_msg_id": "10787665-B679-4193-B6CB-E2D3B64F6CE0",
+        "text": "Ah true- je le connais pas",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "g3f825b34c74",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3f825b34c742b952f1e8c7ca76afd231.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Carole",
+            "real_name": "Carole Zibi",
+            "display_name": "Carole Zibi",
+            "team": "T017AGS2KE0",
+            "name": "carole.zibi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743504327.598639",
+        "parent_user_id": "U02MZTE8GCF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pvYg\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah true- je le connais pas"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1762754970.903749",
+        "client_msg_id": "54a77d7e-35da-4404-a1bf-f79c483dce64",
+        "text": "Hey. Voici le <https:\/\/docs.google.com\/spreadsheets\/d\/1rZKCjfWd4PVOuHjjNrTT52cDk0NCOYRu\/edit?usp=sharing&amp;ouid=111528682078287425837&amp;rtpof=true&amp;sd=true|spreadsheet>, c'est vraiment juste un outil de planification &amp; suivi (pas de vue macro pour le moment cf. indicateurs de <@U04CW99BP3Q>). Voici une micro-<https:\/\/docs.google.com\/presentation\/d\/1GHDLsWCqmEYumQYiTqTGnRaoQZo4a4qF5U91Wc1zWds\/edit?usp=sharing|prez> du fonctionnement, sans aller dans le détail",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762348660.279719",
+        "parent_user_id": "U065DFPCQMP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dCOKl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey. Voici le "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1rZKCjfWd4PVOuHjjNrTT52cDk0NCOYRu\/edit?usp=sharing&ouid=111528682078287425837&rtpof=true&sd=true",
+                                "text": "spreadsheet"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", c'est vraiment juste un outil de planification & suivi (pas de vue macro pour le moment cf. indicateurs de "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04CW99BP3Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": "). Voici une micro-"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/presentation\/d\/1GHDLsWCqmEYumQYiTqTGnRaoQZo4a4qF5U91Wc1zWds\/edit?usp=sharing",
+                                "text": "prez"
+                            },
+                            {
+                                "type": "text",
+                                "text": " du fonctionnement, sans aller dans le détail"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U08QZ6EKE4Q",
+                    "U07PEP71X4Y",
+                    "U065DFPCQMP"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

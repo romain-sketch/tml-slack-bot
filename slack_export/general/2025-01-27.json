@@ -1,0 +1,266 @@
+[
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1737999673.412419",
+        "client_msg_id": "3987dad0-21b4-4544-84ff-78166b1ee32c",
+        "text": "Hello !\n\nLes inscriptions pour l'événement autour du livre <#C06GD6ME5CM|the-book> du *4 mars prochain à la BPI* sont officiellement ouvertes !\n\n• 4 mars à 18h30 au Comptoir Bpifrance - 24 rue Drouot 75009 Paris\n• Speakers : <@U03CY07UZJM>, <@U063A8VPPG9>, et moi-même\n• Cocktail dinatoire &amp; networking à partir de 19h30\nInscrivez-vous <https:\/\/tally.so\/r\/w21QVe|ici> - toute personne non-inscrite ne pourra pas accéder à la BPI (sécurité ++).\n\nAu plaisir de vous y voir !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737999673.412419",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1738070951.599919",
+        "reply_users": [
+            "U04SM1RGPJB",
+            "U063A8VPPG9",
+            "U017H09S857",
+            "U02N2EVMFCG",
+            "U078PFP7A4B"
+        ],
+        "replies": [
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1738001856.670039"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1738003069.373629"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1738051529.206439"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1738070895.557599"
+            },
+            {
+                "user": "U078PFP7A4B",
+                "ts": "1738070951.599919"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iPk24",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello !\n\nLes inscriptions pour l'événement autour du livre "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C06GD6ME5CM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " du "
+                            },
+                            {
+                                "type": "text",
+                                "text": "4 mars prochain à la BPI ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "sont officiellement ouvertes !\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "4 mars à 18h30 au Comptoir Bpifrance - 24 rue Drouot 75009 Paris"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Speakers : "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U03CY07UZJM"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U063A8VPPG9"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", et moi-même"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Cocktail dinatoire & networking à partir de 19h30"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nInscrivez-vous "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/tally.so\/r\/w21QVe",
+                                "text": "ici"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - toute personne non-inscrite ne pourra pas accéder à la BPI (sécurité ++).\n\nAu plaisir de vous y voir !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U063A8VPPG9",
+                    "U017CURDPB5",
+                    "U02N2EVMFCG",
+                    "U04SM1RGPJB",
+                    "U01A4GMRRR9"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1738001856.670039",
+        "client_msg_id": "ddbcb63e-399a-4e90-a999-147d87c74546",
+        "text": "Yeah j'en suis ce coup ci !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737999673.412419",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I0Mbp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah j'en suis ce coup ci !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "smiling_face_with_3_hearts",
+                "users": [
+                    "U078PFP7A4B",
+                    "U063A8VPPG9"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1738003069.373629",
+        "client_msg_id": "4A561155-D95D-4814-B70E-4250D0B9E223",
+        "text": "Trop cooool Selma !!!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737999673.412419",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4zFAy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Trop cooool Selma !!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

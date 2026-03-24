@@ -1,0 +1,188 @@
+[
+    {
+        "user": "U07MNBM4WLV",
+        "type": "message",
+        "ts": "1753876537.846419",
+        "client_msg_id": "07a94620-12ca-4eb5-9da9-f0fba550ac23",
+        "text": "Hello la team,\n\nEst-ce certains vont \/ sont déjà allé à <https:\/\/saasiestamsterdam.com\/|Saasiest Amsterdam> ?\nUne opinion sur l'audience svp ?\nJe me demande si ça vaut le coup que quelqu'un du market ou des sales y aille en Octobre chez lemlist.\nSachant que notre CEO a un pitch sur scène.\n\nGracias !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "028ce63b55be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7733128030774_028ce63b55be29945d4f_72.jpg",
+            "first_name": "Domitille",
+            "real_name": "Domitille de Saint-Exupéry",
+            "display_name": "Domitille de Saint-Exupéry (lemlist)",
+            "team": "T017AGS2KE0",
+            "name": "domitille433",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1753876537.846419",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1753970178.138169",
+        "reply_users": [
+            "U084KTR7YKX",
+            "U07MNBM4WLV"
+        ],
+        "replies": [
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1753955304.626049"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1753955380.435329"
+            },
+            {
+                "user": "U07MNBM4WLV",
+                "ts": "1753970178.138169"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "image_url": "https:\/\/images.confetticdn.com\/images\/scale\/w_2000,f_auto\/event-108998\/image-a459a89c-7137-4a70-b26f-c01016556b34\/saasiest-amsterdam.jpg",
+                "image_width": 2000,
+                "image_height": 1111,
+                "image_bytes": 378540,
+                "from_url": "https:\/\/saasiestamsterdam.com\/",
+                "service_icon": "https:\/\/images.confetticdn.com\/images\/scale\/w_57,h_57,c_fill,f_png\/event-108998\/image-5bd89d84-e336-4f22-87c4-cb874b788e24\/SaaSiest-1-.png.png",
+                "id": 1,
+                "original_url": "https:\/\/saasiestamsterdam.com\/",
+                "fallback": "SaaSiest Amsterdam",
+                "text": "SaaSiest Amsterdam - the B2B SaaS event in the Benelux for scaleups",
+                "title": "SaaSiest Amsterdam",
+                "title_link": "https:\/\/saasiestamsterdam.com\/",
+                "service_name": "saasiestamsterdam.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xsyCO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello la team,\n\nEst-ce certains vont \/ sont déjà allé à "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/saasiestamsterdam.com\/",
+                                "text": "Saasiest Amsterdam"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ?\nUne opinion sur l'audience svp ?\nJe me demande si ça vaut le coup que quelqu'un du market ou des sales y aille en Octobre chez lemlist.\nSachant que notre CEO a un pitch sur scène.\n\nGracias !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "x",
+                "users": [
+                    "U06CZESF7QF",
+                    "U063A8VPPG9",
+                    "U017CURDPB5",
+                    "U055KSYA2AH",
+                    "U07D08K3U0K",
+                    "U025AMSNGF8",
+                    "U067VEJFT5F",
+                    "U0951RDNKU6"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1753881466.010329",
+        "client_msg_id": "3337b81d-fc57-4040-9925-42c9ca26faf9",
+        "text": "Même question mais pour l’AI Business Day qui s’est tenu en Février à Station F. Est-ce que quelqu’un y est allé ? Ca semblait très politique (présence de Macron + Sam Altman).\n\nFrance Digitale fusionne cet event avec le No Code Summit (qu’ils ont récupéré et qui était beaucoup plus business oriented pour le coup) pour 2026 : <https:\/\/francedigitale.org\/agenda\/ai-day-nocode-summit>\n\nLe pricing est :heavy_dollar_sign::heavy_dollar_sign::heavy_dollar_sign: donc on cherche des feedbacks pour décider d’y aller ou pas.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/media.francedigitale.org\/app\/uploads\/prod\/2025\/07\/08113023\/DavidAROUS-5989.jpg",
+                "image_width": 2048,
+                "image_height": 1365,
+                "image_bytes": 1474581,
+                "from_url": "https:\/\/francedigitale.org\/agenda\/ai-day-nocode-summit",
+                "service_icon": "https:\/\/francedigitale.org\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/francedigitale.org\/agenda\/ai-day-nocode-summit",
+                "fallback": "France Digitale: ai-day-nocode-summit",
+                "text": "Prends ta place pour la grande réunion IA &amp; No code de France Digitale.",
+                "title": "ai-day-nocode-summit",
+                "title_link": "https:\/\/francedigitale.org\/agenda\/ai-day-nocode-summit",
+                "service_name": "France Digitale"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kihTe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Même question mais pour l’AI Business Day qui s’est tenu en Février à Station F. Est-ce que quelqu’un y est allé ? Ca semblait très politique (présence de Macron + Sam Altman).\n\nFrance Digitale fusionne cet event avec le No Code Summit (qu’ils ont récupéré et qui était beaucoup plus business oriented pour le coup) pour 2026 : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/francedigitale.org\/agenda\/ai-day-nocode-summit"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nLe pricing est "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heavy_dollar_sign",
+                                "unicode": "1f4b2"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heavy_dollar_sign",
+                                "unicode": "1f4b2"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heavy_dollar_sign",
+                                "unicode": "1f4b2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " donc on cherche des feedbacks pour décider d’y aller ou pas."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

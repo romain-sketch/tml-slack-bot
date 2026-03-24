@@ -1,0 +1,332 @@
+[
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1757488278.638879",
+        "client_msg_id": "4cbe10ef-2027-49af-b698-ea75fe398ddf",
+        "text": "<@U04A6JMRWCS> Yes :smile: Assez d’accord avec toi et Rand. Mais même si c’est impossible de tout mapper et d’avoir une réponse exacte, je trouve que ces tools permettent quand même d’avoir une tendance et de voir si les actions menées ont des impacts ou non.\n\nOn a amélioré notre visibilité et citation sur plusieurs prompts avec des actions simples et ciblées (contenu, mentions off-site notamment sur Reddit). C’est sûr que c’est impossible de savoir si ces prompts sont vraiment ce que vont demander nos leads et si leur ChatGPT va répondre la même chose mais ca donne quand même une idée de l’impact possible.\n\nProfound suggère quelques actions mais c’est généralement des choses assez évidentes.\n\n<@U08EN5T6F4L> Yes chiffres faux comme expliqué par le post Linkedin partagé par Romain : Impossible de savoir si ce que te remonte le tool est vraiment ce que voit un humain qui tape le même prompt de son côté. Mais oui ça permet quand même de voir des gaps et opportunités clairement.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757427406.898379",
+        "parent_user_id": "U08EN5T6F4L",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a3N\/V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04A6JMRWCS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Yes "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Assez d’accord avec toi et Rand. Mais même si c’est impossible de tout mapper et d’avoir une réponse exacte, je trouve que ces tools permettent quand même d’avoir une tendance et de voir si les actions menées ont des impacts ou non.\n\nOn a amélioré notre visibilité et citation sur plusieurs prompts avec des actions simples et ciblées (contenu, mentions off-site notamment sur Reddit). C’est sûr que c’est impossible de savoir si ces prompts sont vraiment ce que vont demander nos leads et si leur ChatGPT va répondre la même chose mais ca donne quand même une idée de l’impact possible.\n\nProfound suggère quelques actions mais c’est généralement des choses assez évidentes.\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08EN5T6F4L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Yes chiffres faux comme expliqué par le post Linkedin partagé par Romain : Impossible de savoir si ce que te remonte le tool est vraiment ce que voit un humain qui tape le même prompt de son côté. Mais oui ça permet quand même de voir des gaps et opportunités clairement."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1757488652.610099",
+        "client_msg_id": "cfd81497-2455-4c2c-9099-18a5c22d814b",
+        "text": "De mon côté (et pour avoir testé un peu tous les outils du marché avec Bulldozer), je suis aligné avec Rand\/Romain.\nAujourd’hui on l’utilise pour une chose : les tendances.\n\nParce que même si les chiffres sont pas parfait et qu’on ne sait pas exactement ce qui se cache derrière les prompts, etc - si on raisonne un peu macro (en “catégorie de prompt” par exemple), alors il y a des choses à prendre sur l’évolution des citations et requêtes.\n\nBref, un peu comme l’attribution, ça sert à rien de vouloir un truc parfait :smile:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757427406.898379",
+        "parent_user_id": "U08EN5T6F4L",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aqBPP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "De mon côté (et pour avoir testé un peu tous les outils du marché avec Bulldozer), je suis aligné avec Rand\/Romain.\nAujourd’hui on l’utilise pour une chose : les tendances.\n\nParce que même si les chiffres sont pas parfait et qu’on ne sait pas exactement ce qui se cache derrière les prompts, etc - si on raisonne un peu macro (en “catégorie de prompt” par exemple), alors il y a des choses à prendre sur l’évolution des citations et requêtes.\n\nBref, un peu comme l’attribution, ça sert à rien de vouloir un truc parfait "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U06CZESF7QF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U07MNBM4WLV",
+        "type": "message",
+        "ts": "1757504344.677219",
+        "client_msg_id": "a0894ae4-3278-4830-a23c-54cb26690eb8",
+        "text": "Merci bcp pour le retour d'XP !\nEst-ce que vous auriez un ou deux exemples concrets d'un insight que vous avez récupérez ainsi et que vous avez pu activer ensuite pour avoir un vrai impact business ? :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "028ce63b55be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7733128030774_028ce63b55be29945d4f_72.jpg",
+            "first_name": "Domitille",
+            "real_name": "Domitille de Saint-Exupéry",
+            "display_name": "Domitille de Saint-Exupéry (lemlist)",
+            "team": "T017AGS2KE0",
+            "name": "domitille433",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756823525.849839",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wb3uM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci bcp pour le retour d'XP !\nEst-ce que vous auriez un ou deux exemples concrets d'un insight que vous avez récupérez ainsi et que vous avez pu activer ensuite pour avoir un vrai impact business ? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1757507075.513249",
+        "client_msg_id": "57ed6ff3-4bf5-47fb-94ae-83f597963ee2",
+        "text": "Les trois cas d'usage qui me viennent en tête :\n• ça nous a permis d'avoir plus d'infos sur les offres (et les données dispo) de notre concurrent principal, et ce sont des infos pas communiquées publiquement.\n• l'interview demande aussi la relation avec le sales, et ça nous a permis de remonter un problème de sales enablement\n• idem sur la clarté de l'offre proposée, donc on a repensé notre packaging par rapport notamment aux feedback\n",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756823525.849839",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O1cZd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Les trois cas d'usage qui me viennent en tête :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ça nous a permis d'avoir plus d'infos sur les offres (et les données dispo) de notre concurrent principal, et ce sont des infos pas communiquées publiquement."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "l'interview demande aussi la relation avec le sales, et ça nous a permis de remonter un problème de sales enablement"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "idem sur la clarté de l'offre proposée, donc on a repensé notre packaging par rapport notamment aux feedback"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07MNBM4WLV",
+        "type": "message",
+        "ts": "1757512656.927329",
+        "client_msg_id": "b3f6197f-c3a6-4905-ba97-d3f63c9b2ed2",
+        "text": "Super intéressant merci",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "028ce63b55be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7733128030774_028ce63b55be29945d4f_72.jpg",
+            "first_name": "Domitille",
+            "real_name": "Domitille de Saint-Exupéry",
+            "display_name": "Domitille de Saint-Exupéry (lemlist)",
+            "team": "T017AGS2KE0",
+            "name": "domitille433",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756823525.849839",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XOWUQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Super intéressant merci"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U09BVQYR1GA",
+        "type": "message",
+        "ts": "1757516558.270619",
+        "client_msg_id": "9e2d01a2-ccdf-4524-9d57-7fb2a2ded7c5",
+        "text": "<@U08EN5T6F4L> j'ai découvert hier Omnia et la semaine dernière Semrush. Semrush vient de lancer un add-on à son offre pro (pas sur Guru non plus) et travailler pour déoruler un truc plus poussé en Europe (only US)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0ee28ebc77d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-09-09\/9480262349955_0ee28ebc77d7f64eb0e1_72.png",
+            "first_name": "Tania",
+            "real_name": "Tania",
+            "display_name": "Tania",
+            "team": "T017AGS2KE0",
+            "name": "tsaezgrowth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757427406.898379",
+        "parent_user_id": "U08EN5T6F4L",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mUnjE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U08EN5T6F4L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " j'ai découvert hier Omnia et la semaine dernière Semrush. Semrush vient de lancer un add-on à son offre pro (pas sur Guru non plus) et travailler pour déoruler un truc plus poussé en Europe (only US)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U09EFH6S1BQ",
+        "text": "<@U09EFH6S1BQ> has joined the channel",
+        "type": "message",
+        "ts": "1757573571.106109"
+    }
+]

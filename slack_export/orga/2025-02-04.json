@@ -1,0 +1,1045 @@
+[
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1738659623.127509",
+        "client_msg_id": "d45bf8ee-7edb-46f3-8e16-2215137d8648",
+        "text": "Bonjour à tous :wave:\n\n*Question ABM et Mapping des comptes (Unités Parents \/ Enfants, Décideurs pour chaque entité...)*\n\n• Quels sont vos objectifs à ce niveau ? (Est-ce un objectif d'avoir une vision parfaite de l'organisation structurelle des entreprises que vous ciblez ? ex: je vise Crédit Agricole, il faut que j'aie toutes les caisses régionales listées et rentrées dans le CRM avec points de contact, mais aussi leur Neobank et toute autre unité rattachée au CA qui ne s'appelle pas forcément CA, etc)\n• Si vous faites ce genre de travail, qui en est responsable ? Les AEs en solo ? Ou bien un rôle marketing\/growth ? Responsabilité partagée ?\n• Bonus: Quand vous dites mapping, vous pensez à ça, ou juste au fait de trouver les décideurs à contacter pour faire avancer un deal initial ?\nNos tests montrent que ce mapping ne s'automatise pas car toutes les entreprises ont une structure différente. C'est un projet très chronophage s'il est géré côté growth, et notre rendu est pas parfait du tout. Du coup intéressé d'avoir vos avis sur le sujet !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738659623.127509",
+        "reply_count": 27,
+        "reply_users_count": 9,
+        "latest_reply": "1739358095.729619",
+        "reply_users": [
+            "U016SBPG7K9",
+            "U04A6JMRWCS",
+            "U04SM1RGPJB",
+            "U086LFGGVUG",
+            "U084LQF8023",
+            "U069NSTHZ3Q",
+            "U017RBREWC9",
+            "U08554C4R7C",
+            "U06U1GG592M"
+        ],
+        "replies": [
+            {
+                "user": "U016SBPG7K9",
+                "ts": "1738659637.457849"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1738660040.045939"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1738660067.806989"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1738660105.997969"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1738660130.050149"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1738660134.515329"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1738660163.350849"
+            },
+            {
+                "user": "U016SBPG7K9",
+                "ts": "1738662925.153329"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1738662960.196709"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1738662971.956219"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1738662976.289319"
+            },
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1738663867.816569"
+            },
+            {
+                "user": "U016SBPG7K9",
+                "ts": "1738664009.684449"
+            },
+            {
+                "user": "U086LFGGVUG",
+                "ts": "1738668886.875009"
+            },
+            {
+                "user": "U084LQF8023",
+                "ts": "1738671650.552399"
+            },
+            {
+                "user": "U069NSTHZ3Q",
+                "ts": "1738672506.447809"
+            },
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1738672591.958939"
+            },
+            {
+                "user": "U084LQF8023",
+                "ts": "1738672665.069639"
+            },
+            {
+                "user": "U086LFGGVUG",
+                "ts": "1738673863.551109"
+            },
+            {
+                "user": "U017RBREWC9",
+                "ts": "1738772557.659479"
+            },
+            {
+                "user": "U016SBPG7K9",
+                "ts": "1738852873.451289"
+            },
+            {
+                "user": "U017RBREWC9",
+                "ts": "1738853025.226199"
+            },
+            {
+                "user": "U08554C4R7C",
+                "ts": "1738958452.831319"
+            },
+            {
+                "user": "U06U1GG592M",
+                "ts": "1739261099.936979"
+            },
+            {
+                "user": "U016SBPG7K9",
+                "ts": "1739356099.628389"
+            },
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1739356913.376959"
+            },
+            {
+                "user": "U08554C4R7C",
+                "ts": "1739358095.729619"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gmjNV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour à tous "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Question ABM et Mapping des comptes (Unités Parents \/ Enfants, Décideurs pour chaque entité...)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Quels sont vos objectifs à ce niveau ? (Est-ce un objectif d'avoir une vision parfaite de l'organisation structurelle des entreprises que vous ciblez ? ex: je vise Crédit Agricole, il faut que j'aie toutes les caisses régionales listées et rentrées dans le CRM avec points de contact, mais aussi leur Neobank et toute autre unité rattachée au CA qui ne s'appelle pas forcément CA, etc)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Si vous faites ce genre de travail, qui en est responsable ? Les AEs en solo ? Ou bien un rôle marketing\/growth ? Responsabilité partagée ?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Bonus: Quand vous dites mapping, vous pensez à ça, ou juste au fait de trouver les décideurs à contacter pour faire avancer un deal initial ?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nNos tests montrent que ce mapping ne s'automatise pas car toutes les entreprises ont une structure différente. C'est un projet très chronophage s'il est géré côté growth, et notre rendu est pas parfait du tout. Du coup intéressé d'avoir vos avis sur le sujet !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1738659637.457849",
+        "client_msg_id": "1ec980a3-0cc0-45e3-a351-eb2653cd201f",
+        "text": "Je me permet de te cc <@U04SM1RGPJB> car je suis sûr que tu as des insights :smile:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738659623.127509",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "70snA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je me permet de te cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04SM1RGPJB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " car je suis sûr que tu as des insights "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1738660040.045939",
+        "client_msg_id": "e7c6c2bb-e2b0-4713-9e7e-1300d5f77313",
+        "text": "Coucou, pour moi, j'en fais le parangon de la relation AE\/BDR. Les AEs choisissent les comptes et en responsables devant leurs leaders (aka si ya pas d'oppy qui en sort, il va se faire savonner les oreilles)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738659623.127509",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M5U6u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Coucou, pour moi, j'en fais le parangon de la relation AE\/BDR. Les AEs choisissent les comptes et en responsables devant leurs leaders (aka si ya pas d'oppy qui en sort, il va se faire savonner les oreilles)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1738660067.806989",
+        "client_msg_id": "083919f7-ca85-4c17-8211-290518ca96e6",
+        "text": "il bosse après avec son BDR pour mapper les 15 contacts par compte qu'il veut cibler avec le messaging attaché",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738659623.127509",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QkrTj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "il bosse après avec son BDR pour mapper les 15 contacts par compte qu'il veut cibler avec le messaging attaché"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1738660105.997969",
+        "client_msg_id": "e6019005-7443-4ae4-9c52-fd9ed6f157f2",
+        "text": "En terme de sélection de compte, tu peux direct démonter l'AE qui te met \"L'Oréal\" ou \"BNP\"... Ce sont des comptes tellements larges que ca ne veut rien dire. Il faut qu'il descende au niveau de la BU",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738659623.127509",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sXMm2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En terme de sélection de compte, tu peux direct démonter l'AE qui te met \"L'Oréal\" ou \"BNP\"... Ce sont des comptes tellements larges que ca ne veut rien dire. Il faut qu'il descende au niveau de la BU"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1738660130.050149",
+        "client_msg_id": "99491a8b-25a0-4ac0-934a-5886b9256c7a",
+        "text": "dans ton exemple, la neobank de CA c'est un compte en soi",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738659623.127509",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nhdz0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "dans ton exemple, la neobank de CA c'est un compte en soi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1738660134.515329",
+        "client_msg_id": "411cb1d5-4a41-4110-8570-6b675a6fb2e1",
+        "text": "chaque caisse régionale aussi",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738659623.127509",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0vdjT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "chaque caisse régionale aussi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1738660163.350849",
+        "client_msg_id": "3de67f2c-fcfa-4ce1-b0dd-207bb34991dc",
+        "text": "Et oui sur le mapping: targets, orga, messaging, compelling events, timing...",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738659623.127509",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lHc3G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et oui sur le mapping: targets, orga, messaging, compelling events, timing..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1738662925.153329",
+        "client_msg_id": "edfb4635-455b-434b-9505-e52b9d5d2ed5",
+        "text": "OK, intéressant. Nous ça n'a jamais marché de laisser les AEs choisir leurs comptes alors maintenant c'est Marketing qui s'en charge. Le problème c'est qu'on fournit les grands groupes et ensuite c'est aux AEs de descendre au niveau de chaque BU. Il faudrait qu'on mette en place un truc pour les aider à faire ça efficacement",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738659623.127509",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4bUYH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "OK, intéressant. Nous ça n'a jamais marché de laisser les AEs choisir leurs comptes alors maintenant c'est Marketing qui s'en charge. Le problème c'est qu'on fournit les grands groupes et ensuite c'est aux AEs de descendre au niveau de chaque BU. Il faudrait qu'on mette en place un truc pour les aider à faire ça efficacement"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U084LQF8023"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1738662960.196709",
+        "client_msg_id": "ea43eed7-d31e-44a0-8eb0-523c0c764598",
+        "text": "en vrai c'est la respo des AEs qu'il faut enforcer",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738659623.127509",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VKl4A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "en vrai c'est la respo des AEs qu'il faut enforcer"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1738662971.956219",
+        "client_msg_id": "e93a8a9a-e2cf-4d04-b87b-7b349e41d708",
+        "text": "si le mec choisit un compte et qu'il se passe rien au bout de 6 mois",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738659623.127509",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pZBNV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si le mec choisit un compte et qu'il se passe rien au bout de 6 mois"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1738662976.289319",
+        "client_msg_id": "60b45dd6-4724-4feb-afab-d751b540928d",
+        "text": "c'est qu'il a mal choisi",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738659623.127509",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bnmdo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "c'est qu'il a mal choisi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1738663867.816569",
+        "client_msg_id": "8ca4247a-bd8c-4b5f-8400-0506768a5667",
+        "text": "on peut se faire un call :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738659623.127509",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "30mzM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "on peut se faire un call "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1738664009.684449",
+        "client_msg_id": "ef57fb3c-bf36-4df0-a655-9c5ce5317275",
+        "text": "Oui avec plaisir ! Je passe en dm :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738659623.127509",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zImr4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui avec plaisir ! Je passe en dm "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U086LFGGVUG",
+        "type": "message",
+        "ts": "1738668886.875009",
+        "edited": {
+            "user": "U086LFGGVUG",
+            "ts": "1738668907.000000"
+        },
+        "client_msg_id": "34741b74-f092-4856-a58d-dbc7ebbed1b5",
+        "text": "<@U016SBPG7K9> très intéressée par ce sujet ! On a par exemple Bouygues, ou Eiffage en cible qui sont organisés de façon tentaculaire et pas lisibles de l'extérieur... Y a une attente de nos AE que notre Growth engineer les aide mais d'un autre côté difficile de détecter la vraie orga réelle et les flow de décision concret dans les bdd",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "8037084d031e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-01-03\/8241041927621_8037084d031e372f4d94_72.jpg",
+            "first_name": "Laura",
+            "real_name": "Laura Silva",
+            "display_name": "Laura Silva",
+            "team": "T017AGS2KE0",
+            "name": "laura.silva",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738659623.127509",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/nGHa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U016SBPG7K9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " très intéressée par ce sujet ! On a par exemple Bouygues, ou Eiffage en cible qui sont organisés de façon tentaculaire et pas lisibles de l'extérieur... Y a une attente de nos AE que notre Growth engineer les aide mais d'un autre côté difficile de détecter la vraie orga réelle et les flow de décision concret dans les bdd"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084LQF8023",
+        "type": "message",
+        "ts": "1738671650.552399",
+        "client_msg_id": "a96d28e6-7fee-4b27-bf98-8f937b0490b6",
+        "text": "intéressée également par le call",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a70a92c39694",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-01-20\/8306570351351_a70a92c3969457259db9_72.jpg",
+            "first_name": "Cosmina",
+            "real_name": "Cosmina Trifan",
+            "display_name": "Cosmina Trifan",
+            "team": "T017AGS2KE0",
+            "name": "cosmi.trifan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738659623.127509",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RYT3C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "intéressée également par le call"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U069NSTHZ3Q",
+        "type": "message",
+        "ts": "1738672506.447809",
+        "client_msg_id": "5b0748cf-7c53-4934-8534-dfeee78ceeb0",
+        "text": "hello, sur ce sujet, avez-vous une règle claire et implementé dans le CRM pour différencier un new logo d'un client existant dans ces grands comptes ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "fbbca81fca0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-30\/7816371623809_fbbca81fca0c916c8c15_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Gannau (Oodrive)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "m.gannau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738659623.127509",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mIYP4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello, sur ce sujet, avez-vous une règle claire et implementé dans le CRM pour différencier un new logo d'un client existant dans ces grands comptes ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1738672591.958939",
+        "client_msg_id": "a89444d9-0677-492b-95c9-eeaf397206a4",
+        "text": "Le call est à 15h30 mardi si vous êtes dispos ^^",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738659623.127509",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ACRQr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le call est à 15h30 mardi si vous êtes dispos ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084LQF8023",
+        "type": "message",
+        "ts": "1738672665.069639",
+        "client_msg_id": "783936d1-4956-46f6-8f6a-ca8d544be772",
+        "text": "mardi 11.02 ? bon, pas dispo mais c'est pas grave, c'était juste au cas où",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a70a92c39694",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-01-20\/8306570351351_a70a92c3969457259db9_72.jpg",
+            "first_name": "Cosmina",
+            "real_name": "Cosmina Trifan",
+            "display_name": "Cosmina Trifan",
+            "team": "T017AGS2KE0",
+            "name": "cosmi.trifan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738659623.127509",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RSEmb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mardi 11.02 ? bon, pas dispo mais c'est pas grave, c'était juste au cas où"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U086LFGGVUG",
+        "type": "message",
+        "ts": "1738673863.551109",
+        "client_msg_id": "d9c0d7f3-3ba6-49eb-999c-39bd045c19ba",
+        "text": "dispo ! <mailto:laura.silva@dashdoc.com|laura.silva@dashdoc.com> :pray:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "8037084d031e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-01-03\/8241041927621_8037084d031e372f4d94_72.jpg",
+            "first_name": "Laura",
+            "real_name": "Laura Silva",
+            "display_name": "Laura Silva",
+            "team": "T017AGS2KE0",
+            "name": "laura.silva",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738659623.127509",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6S1Xl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "dispo ! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:laura.silva@dashdoc.com",
+                                "text": "laura.silva@dashdoc.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,126 @@
+[
+    {
+        "user": "U042GV737MX",
+        "type": "message",
+        "ts": "1748851226.296299",
+        "client_msg_id": "e21329e5-a8b3-4285-97d9-71a2cbf76db3",
+        "text": "bravo !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "477225f2b12e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4077716786404_477225f2b12eccc47dc4_72.png",
+            "first_name": "Claire",
+            "real_name": "Claire Chauvallon",
+            "display_name": "Claire Chauvallon",
+            "team": "T017AGS2KE0",
+            "name": "chauvallon.claire",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748844260.376559",
+        "parent_user_id": "U02N2EVMFCG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XPsk6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "bravo !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U08V1NE4BUJ",
+        "text": "<@U08V1NE4BUJ> has joined the channel",
+        "type": "message",
+        "ts": "1748884401.505069"
+    },
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1748933368.494159",
+        "client_msg_id": "84daf4aa-67a0-44a1-9f27-a2b6417e1405",
+        "text": "Et le mien!\n<https:\/\/www.linkedin.com\/posts\/aureliemezbourianfliedel_marketing-successes-and-fails-from-french-activity-7335557068885549056-ciai?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAAIqAkMBurDFZBUqOIcDrXb0l2F90-N-3Vk|https:\/\/www.linkedin.com\/posts\/aureliemezbourianfliedel_marketing-successes-and-fails[…]m=member_desktop&amp;rcm=ACoAAAIqAkMBurDFZBUqOIcDrXb0l2F90-N-3Vk>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/posts\/aureliemezbourianfliedel_marketing-successes-and-fails-from-french-activity-7335557068885549056-ciai?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAIqAkMBurDFZBUqOIcDrXb0l2F90-N-3Vk",
+                "image_url": "https:\/\/media.licdn.com\/dms\/image\/sync\/v2\/D4E27AQHiCPtXurwYWg\/articleshare-shrink_800\/B4EZchoI7THQAM-\/0\/1748615860468?e=2147483647&v=beta&t=1Z_XFVrvr9TwXAGchjJDyM_5QQYNLJxQx1Eb4dB-nuY",
+                "image_width": 800,
+                "image_height": 420,
+                "image_bytes": 57158,
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/posts\/aureliemezbourianfliedel_marketing-successes-and-fails-from-french-activity-7335557068885549056-ciai?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAAIqAkMBurDFZBUqOIcDrXb0l2F90-N-3Vk",
+                "fallback": "Marketing Successes (and Fails) from French Tech Startups &amp; Unicorns -… | Aurelie Mezbourian Fliedel",
+                "text": "Join us to uncover marketing successes (and fails :upside_down_face:) from French Tech startups &amp; unicorns.\n\nI am honored to be speaking at Viva Technology this year, where I will discuss how we leverage AI in marketing at Alan. I&amp;#39;ll share our use cases for enhancing team efficiency and creating engaging, innovative campaigns.\n\nI&amp;#39;m also thrilled to share the stage with the co-authors of our book, &amp;quot;Quand les start-up et licornes réinventent le marketing&amp;quot;\n\n:round_pushpin: Join us on June 13th, from 3-4pm, at the Exec Arena.\n\nGeoffrey Vion Selma Chauvin Yannig Roth Hélène DRAOULEC\n Flora Wolfer Kristina Rylova Anna Keroullé Kevin Aserraf\n\n<https:\/\/lnkd.in\/ebExNAVc>",
+                "title": "Marketing Successes (and Fails) from French Tech Startups &amp; Unicorns -… | Aurelie Mezbourian Fliedel",
+                "title_link": "https:\/\/www.linkedin.com\/posts\/aureliemezbourianfliedel_marketing-successes-and-fails-from-french-activity-7335557068885549056-ciai?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAIqAkMBurDFZBUqOIcDrXb0l2F90-N-3Vk",
+                "service_name": "linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H6Er8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et le mien!\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/posts\/aureliemezbourianfliedel_marketing-successes-and-fails-from-french-activity-7335557068885549056-ciai?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAIqAkMBurDFZBUqOIcDrXb0l2F90-N-3Vk",
+                                "text": "https:\/\/www.linkedin.com\/posts\/aureliemezbourianfliedel_marketing-successes-and-fails[…]m=member_desktop&rcm=ACoAAAIqAkMBurDFZBUqOIcDrXb0l2F90-N-3Vk"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03P99RGMTN",
+                    "U06E3PY5LAY"
+                ],
+                "count": 2
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U067GNGDATD"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

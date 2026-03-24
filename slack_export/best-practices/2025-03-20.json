@@ -1,0 +1,250 @@
+[
+    {
+        "user": "U05H3SJKYFQ",
+        "type": "message",
+        "ts": "1742458059.059979",
+        "client_msg_id": "05e05fed-854a-4408-a465-aec5d367380d",
+        "text": "Ça m'intéresse <@U0183AS3MB6>! Tu as toutes les versions premium ? Ou il y a des add ons en plus à régler ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0931617f5e75",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-04\/5842709801061_0931617f5e75eee9f27b_72.jpg",
+            "first_name": "Raphaëlle",
+            "real_name": "Raphaëlle Béguinel - Malt",
+            "display_name": "Raphaëlle Béguinel - Malt",
+            "team": "T017AGS2KE0",
+            "name": "rbeguinel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742401737.149639",
+        "parent_user_id": "U06MHCCLQG3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VhopF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ça m'intéresse "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0183AS3MB6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! Tu as toutes les versions premium ? Ou il y a des add ons en plus à régler ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07PEP71X4Y",
+        "type": "message",
+        "ts": "1742467595.522599",
+        "client_msg_id": "66b88c5d-a63e-4620-8696-0842d541ec86",
+        "text": "Nous on a souscrit <https:\/\/1min.ai\/|https:\/\/1min.ai\/> mais dès que tu veux faire des choses un peu sophistiquées, les crédits partent très vite. Je me dis, il vaut mieux payer plus cher l'agrégateur, mais ne pas être limité sur l'usage",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "03ee4bf9d742",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-26\/7782829511830_03ee4bf9d74231490efd_72.png",
+            "first_name": "Elena",
+            "real_name": "Elena Souiller-Fedorenkova",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "elenafed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742401737.149639",
+        "parent_user_id": "U06MHCCLQG3",
+        "attachments": [
+            {
+                "image_url": "https:\/\/asset.1min.ai\/resources\/email-logo-black.png",
+                "image_width": 1670,
+                "image_height": 834,
+                "image_bytes": 131858,
+                "from_url": "https:\/\/1min.ai\/",
+                "service_icon": "https:\/\/1min.ai\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/1min.ai\/",
+                "fallback": "1minAI | Free All-in-one AI App for Text, Image, Audio, Video",
+                "text": "Unlock the power of AI for all your creative needs. Our free all-in-one platform empowers you with AI tools for text, writing, image, audio, and video.",
+                "title": "1minAI | Free All-in-one AI App for Text, Image, Audio, Video",
+                "title_link": "https:\/\/1min.ai\/",
+                "service_name": "1min.ai"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/EKEm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nous on a souscrit "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/1min.ai\/",
+                                "text": "https:\/\/1min.ai\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " mais dès que tu veux faire des choses un peu sophistiquées, les crédits partent très vite. Je me dis, il vaut mieux payer plus cher l'agrégateur, mais ne pas être limité sur l'usage"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1742474966.380039",
+        "client_msg_id": "ea058a3c-b01a-4e67-82f0-f10d161b9436",
+        "text": "<@U05H3SJKYFQ> nan j’ai pris l’offre “Raycast Pro” avec “Advanced AI” et j’ai rien d’autres à payer",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742401737.149639",
+        "parent_user_id": "U06MHCCLQG3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9dqzt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05H3SJKYFQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " nan j’ai pris l’offre “Raycast Pro” avec “Advanced AI” et j’ai rien d’autres à payer"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05H3SJKYFQ",
+        "type": "message",
+        "ts": "1742478973.340969",
+        "client_msg_id": "8b7375bc-66d8-4810-bbe4-03931d3cdb7d",
+        "text": "ah top ! tu l'utilises depuis combien de temps ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0931617f5e75",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-04\/5842709801061_0931617f5e75eee9f27b_72.jpg",
+            "first_name": "Raphaëlle",
+            "real_name": "Raphaëlle Béguinel - Malt",
+            "display_name": "Raphaëlle Béguinel - Malt",
+            "team": "T017AGS2KE0",
+            "name": "rbeguinel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742401737.149639",
+        "parent_user_id": "U06MHCCLQG3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dXnYU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ah top ! tu l'utilises depuis combien de temps ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1742480059.305869",
+        "client_msg_id": "87903074-ef96-4dac-8040-e70a6421a266",
+        "text": "Raycast normal depuis 12+ mois, la formule pro depuis 1 mois. Avant j’utilisais Mammouth.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742401737.149639",
+        "parent_user_id": "U06MHCCLQG3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x7vLw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Raycast normal depuis 12+ mois, la formule pro depuis 1 mois. Avant j’utilisais Mammouth."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05H3SJKYFQ",
+                    "U07PEP71X4Y"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

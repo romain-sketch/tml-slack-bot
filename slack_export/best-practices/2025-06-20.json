@@ -1,0 +1,127 @@
+[
+    {
+        "user": "U065DFPCQMP",
+        "type": "message",
+        "ts": "1750439275.763999",
+        "edited": {
+            "user": "U065DFPCQMP",
+            "ts": "1750439287.000000"
+        },
+        "client_msg_id": "5f8a455e-0436-413a-a074-632ccdc7f0a9",
+        "text": "Hello à tous,\nJe cherche un retour d’xp pour un projet type baromètre.\nJ’ai plusieurs enjeux sur ce projet:\n• je voudrais un ciblage Européen (FR + IT, ES, GE, UK pour le moment)\n• je vise au moins 200 répondants qualifiés en France et une centaine dans les autres pays.\n• Ma cible n’est pas super réactive aux sollicitations (DAF, CFO, Trésoriers etc)\n• L’émetteur est un nouvel acteur, donc brand equity = 0\nMon intuition me dit que de passer par un presta identifié (type Yougov) pourrait aider sourcer + encourager la participation mais je ne suis pas sure qu’ils puissent être super précis sur le ciblage.\nL’alternative est de tout faire une campagne de ciblage inhouse.\nQu’en pensez-vous ? Un presta à recommander ?\n\n(déso pour ceux qui sont aussi dans les commu UnlockM et Futur Proche, j'inonde)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50040e0261e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-15\/6198553206674_50040e0261e7ba62e840_72.jpg",
+            "first_name": "Gaelle",
+            "real_name": "Gaelle Le Goff",
+            "display_name": "Gaelle Le Goff",
+            "team": "T017AGS2KE0",
+            "name": "gaelle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750439275.763999",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1750697086.319279",
+        "reply_users": [
+            "U01MVJPEEH3",
+            "U067VEJFT5F",
+            "U065DFPCQMP",
+            "U084KTR7YKX"
+        ],
+        "replies": [
+            {
+                "user": "U01MVJPEEH3",
+                "ts": "1750658982.791329"
+            },
+            {
+                "user": "U067VEJFT5F",
+                "ts": "1750666456.123399"
+            },
+            {
+                "user": "U065DFPCQMP",
+                "ts": "1750672921.035429"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1750697086.319279"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y0a5e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello à tous,\nJe cherche un retour d’xp pour un projet type baromètre.\nJ’ai plusieurs enjeux sur ce projet:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "je voudrais un ciblage Européen (FR + IT, ES, GE, UK pour le moment)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "je vise au moins 200 répondants qualifiés en France et une centaine dans les autres pays."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Ma cible n’est pas super réactive aux sollicitations (DAF, CFO, Trésoriers etc)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "L’émetteur est un nouvel acteur, donc brand equity = 0"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mon intuition me dit que de passer par un presta identifié (type Yougov) pourrait aider sourcer + encourager la participation mais je ne suis pas sure qu’ils puissent être super précis sur le ciblage.\nL’alternative est de tout faire une campagne de ciblage inhouse.\nQu’en pensez-vous ? Un presta à recommander ?\n\n(déso pour ceux qui sont aussi dans les commu UnlockM et Futur Proche, j'inonde)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

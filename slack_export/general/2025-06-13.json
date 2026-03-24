@@ -1,0 +1,82 @@
+[
+    {
+        "user": "U03P99RGMTN",
+        "type": "message",
+        "ts": "1749799500.284199",
+        "client_msg_id": "2af046b8-cd22-4320-86d9-f7f4f20e2bea",
+        "text": "Ahh, je n’ai pas vu ton message ! (prise dans les vagues de tours et de rencontres !)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2f8b530bfffa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-28\/7656384027105_2f8b530bfffa39d455d3_72.png",
+            "first_name": "Julie",
+            "real_name": "Julie Asselin (365Talents)",
+            "display_name": "Julie Asselin (365Talents)",
+            "team": "T017AGS2KE0",
+            "name": "julie.asselin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749568527.514949",
+        "parent_user_id": "U03P99RGMTN",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E0Iv+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ahh, je n’ai pas vu ton message ! (prise dans les vagues de tours et de rencontres !)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U069NSTHZ3Q",
+        "type": "message",
+        "ts": "1749799833.497969",
+        "client_msg_id": "34c6fd12-1562-4981-bc33-060be72cc937",
+        "text": "pas de souci c'est tellement énorme!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "fbbca81fca0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-30\/7816371623809_fbbca81fca0c916c8c15_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Gannau (Oodrive)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "m.gannau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749568527.514949",
+        "parent_user_id": "U03P99RGMTN",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M3hDz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pas de souci c'est tellement énorme!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

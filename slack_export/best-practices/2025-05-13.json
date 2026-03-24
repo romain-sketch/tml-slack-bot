@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U01CNU4Q2H2",
+        "type": "message",
+        "ts": "1747130686.219569",
+        "client_msg_id": "04d15e98-2759-458e-8ed5-bbc162072e5f",
+        "text": "Merci beaucoup !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "3fc42a41f9fd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-18\/7441599507842_3fc42a41f9fd86423da2_72.png",
+            "first_name": "Marilyne",
+            "real_name": "Marilyne Dupuy",
+            "display_name": "Marilyne Dupuy (Napta)",
+            "team": "T017AGS2KE0",
+            "name": "marilyne.dupuy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1721720549.898369",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iY7L+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci beaucoup !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

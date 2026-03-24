@@ -1,0 +1,97 @@
+[
+    {
+        "user": "U020QK16RMJ",
+        "type": "message",
+        "ts": "1760704529.571039",
+        "client_msg_id": "7af33503-832c-4084-991b-33b20c483ec4",
+        "text": "Hello, je cherche notre futur Demand Gen lead, on avait un Growth très orienté tech, je cherche un profil plus enterprise, ABM avec un p'tit côté geek:\n<https:\/\/www.welcometothejungle.com\/fr\/companies\/swan\/jobs\/demand-generation-team-manager_paris>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "56d8a678e801",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-18\/7292097443269_56d8a678e801350db84a_72.png",
+            "first_name": "Joël",
+            "real_name": "Joël Gaudeul",
+            "display_name": "Joël (Swan)",
+            "team": "T017AGS2KE0",
+            "name": "joel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760704529.571039",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1761051987.552289",
+        "reply_users": [
+            "U06DYTRDLUD",
+            "U020QK16RMJ"
+        ],
+        "replies": [
+            {
+                "user": "U06DYTRDLUD",
+                "ts": "1760969437.314629"
+            },
+            {
+                "user": "U020QK16RMJ",
+                "ts": "1761051987.552289"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "image_url": "https:\/\/cdn-images.welcometothejungle.com\/KCfkB5X2W3D2tInY1lHPOFL31UMAzKX5r7OkITTK2Hs\/rs:auto:1200:627:\/q:85\/czM6Ly93dHRqLXByb2R1Y3Rpb24vdXBsb2Fkcy93ZWJzaXRlX29yZ2FuaXphdGlvbi9jb3Zlcl9pbWFnZS93dHRqX2ZyL2ZyLWI2MjBmZWYwLWY3ZDItNDRmNy05ZGQyLTFkYjY1OThmMzg1Mi5qcGc",
+                "image_width": 1200,
+                "image_height": 549,
+                "image_bytes": 127716,
+                "from_url": "https:\/\/www.welcometothejungle.com\/fr\/companies\/swan\/jobs\/demand-generation-team-manager_paris",
+                "service_icon": "https:\/\/cdn.welcometothejungle.com\/wttj-front\/production\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.welcometothejungle.com\/fr\/companies\/swan\/jobs\/demand-generation-team-manager_paris",
+                "fallback": "Growth Manager \/ Demand Generation Team ManagerDemand Generation Team Manager - Swan - CDI à Paris",
+                "text": "Swan recrute un(e) Growth Manager \/ Demand Generation Team ManagerDemand Generation Team Manager à Paris !",
+                "title": "Growth Manager \/ Demand Generation Team ManagerDemand Generation Team Manager - Swan - CDI à Paris",
+                "title_link": "https:\/\/www.welcometothejungle.com\/fr\/companies\/swan\/jobs\/demand-generation-team-manager_paris",
+                "service_name": "welcometothejungle.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z6JXT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, je cherche notre futur Demand Gen lead, on avait un Growth très orienté tech, je cherche un profil plus enterprise, ABM avec un p'tit côté geek:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.welcometothejungle.com\/fr\/companies\/swan\/jobs\/demand-generation-team-manager_paris"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U02N2EVMFCG"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U06DYTRDLUD"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

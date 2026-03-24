@@ -1,0 +1,163 @@
+[
+    {
+        "user": "U04CW99BP3Q",
+        "type": "message",
+        "ts": "1758530682.077669",
+        "client_msg_id": "b61f5c9b-75e3-4ed8-bb16-fe929bbe49f1",
+        "text": "Salut à tous, question pas directement marketing : on revoit la prime de cooptation quand on recrute, on est allé jusqu’à 3000€ pour les devs par le passé quand le marché était tendu. Très preneuse de vos benchs!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7e1f9e2f5ffb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-11-30\/4445095862754_7e1f9e2f5ffb646f7b24_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Reboul",
+            "display_name": "Marie Reboul",
+            "team": "T017AGS2KE0",
+            "name": "marie.reboul",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1758530682.077669",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1758719791.288189",
+        "reply_users": [
+            "U06DYTRDLUD",
+            "U0859A8P14K",
+            "U092PH1F2CA"
+        ],
+        "replies": [
+            {
+                "user": "U06DYTRDLUD",
+                "ts": "1758531456.088829"
+            },
+            {
+                "user": "U0859A8P14K",
+                "ts": "1758571540.533189"
+            },
+            {
+                "user": "U092PH1F2CA",
+                "ts": "1758719791.288189"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UW7ek",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salut à tous, question pas directement marketing : on revoit la prime de cooptation quand on recrute, on est allé jusqu’à 3000€ pour les devs par le passé quand le marché était tendu. Très preneuse de vos benchs!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06DYTRDLUD",
+        "type": "message",
+        "ts": "1758531456.088829",
+        "client_msg_id": "559e9572-5ac0-4a57-8753-eb0ed07ae9cf",
+        "text": "Pareil ici, on a gardé ce montant d'ailleurs, car on considère que même si le marché est moins tendu, de vrais bons candidats ne sont pas si facile à toucher",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901f49789864",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-17\/6483135134229_901f4978986494a521e4_72.jpg",
+            "first_name": "Flora",
+            "real_name": "Flora Wolfer",
+            "display_name": "Flora Wolfer (Payplug)",
+            "team": "T017AGS2KE0",
+            "name": "fwolfer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1758530682.077669",
+        "parent_user_id": "U04CW99BP3Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PPT+9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pareil ici, on a gardé ce montant d'ailleurs, car on considère que même si le marché est moins tendu, de vrais bons candidats ne sont pas si facile à toucher"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04CW99BP3Q"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0859A8P14K",
+        "type": "message",
+        "ts": "1758571540.533189",
+        "client_msg_id": "8D849861-19DD-438C-B233-00C49A6F3B14",
+        "text": "Hello Marie ! Chez Vulog et auj Eudonet cest 1K ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "de9373c86530",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8178910826725_de9373c86530dc48c9e8_72.png",
+            "first_name": "Alexandra",
+            "real_name": "Alexandra Lougovoy",
+            "display_name": "Alexandra Lougovoy (Eudonet)",
+            "team": "T017AGS2KE0",
+            "name": "a.lougovoy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1758530682.077669",
+        "parent_user_id": "U04CW99BP3Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z8pOc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Marie ! Chez Vulog et auj Eudonet cest 1K "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04CW99BP3Q"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

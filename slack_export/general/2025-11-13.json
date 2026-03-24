@@ -1,0 +1,124 @@
+[
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1763058411.425639",
+        "client_msg_id": "f0b97840-bc3c-4a0c-96c8-cdcc4cb23324",
+        "text": "*Assemblée Générale TML*\n*Hello <!channel>, l'AG de l'association aura lieu le vendredi 5 décembre à 13h* (format court 30 min)\nJ'envoie l'invit dans la foulée et on vous fait passer l'ordre du jour un peu avant.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763058411.425639",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1766068192.537649",
+        "reply_users": [
+            "U017H09S857"
+        ],
+        "replies": [
+            {
+                "user": "U017H09S857",
+                "ts": "1763973959.303719"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1766068192.537649"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UcSZn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Assemblée Générale TML",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Hello ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", l'AG de l'association aura lieu le vendredi 5 décembre à 13h ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "(format court 30 min)\nJ'envoie l'invit dans la foulée et on vous fait passer l'ordre du jour un peu avant."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U06DYTRDLUD",
+                    "U0182J18ULQ",
+                    "U0946E8A2US",
+                    "U04SM1RGPJB",
+                    "U03QPMQA31V",
+                    "U07D08K3U0K",
+                    "U08M0JP81DK",
+                    "U092U6UDLMN",
+                    "U0177A5V42F",
+                    "U07PEP71X4Y",
+                    "U06CZESF7QF",
+                    "U08HF5YQM6G",
+                    "U025AMSNGF8",
+                    "U07MNBM4WLV",
+                    "U0859A8P14K",
+                    "U02N2EVMFCG",
+                    "U06M6E5M524"
+                ],
+                "count": 17
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U084KTR7YKX",
+                    "U09JE6QUZDZ"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

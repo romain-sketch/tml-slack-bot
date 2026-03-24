@@ -1,0 +1,91 @@
+[
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1753687904.570619",
+        "client_msg_id": "66036adc-219a-4dcf-a179-ea5df18e3caa",
+        "text": "Bonnes vacances tout le monde !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1753447533.748379",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IeEDT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonnes vacances tout le monde !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08QZ6EKE4Q",
+        "type": "message",
+        "ts": "1753697401.032739",
+        "client_msg_id": "F365574D-74A2-48D7-8A38-A7B9EF9A6069",
+        "text": "Bonnes vacances à tous ! :sun_with_face: ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "af98f77e53d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-04-30\/8830001157444_af98f77e53d62c5ee9ca_72.png",
+            "first_name": "Sybille",
+            "real_name": "Sybille d’Hérouville",
+            "display_name": "Sybille d’Hérouville",
+            "team": "T017AGS2KE0",
+            "name": "sybille.dherouville",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1753447533.748379",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ek4eg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonnes vacances à tous ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sun_with_face",
+                                "unicode": "1f31e"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

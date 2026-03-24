@@ -1,0 +1,411 @@
+[
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1758618594.920989",
+        "edited": {
+            "user": "U084KTR7YKX",
+            "ts": "1758618605.000000"
+        },
+        "client_msg_id": "567c3ba0-cf2a-4729-83ff-7c2b2fd0b2f6",
+        "text": "Donal Trump \/ Elon Musk - si tu veux faire le buzz aux US",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1758548587.911929",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Y+z0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Donal Trump \/ Elon Musk - si tu veux faire le buzz aux US"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U065DFPCQMP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1758621675.793609",
+        "client_msg_id": "d4e5f116-5b52-4164-bb64-825625a0eddc",
+        "text": "Hello à tous dans le cadre du plan 2026, j'aide Evaneos sur le mix Media\n• il y a un gros déséquilibre sur les investissements Lead gen (ou BOFU\/perf) et Demand Gen (ou TOFU\/MOFU\/Brand) - avec un 85\/15 (voir 90\/10 sur les marchés peu matures) sur la fin du funnel.\n• pas facile dans un contexte où c'est profitablité ++ mais je trouve ça contre-productif de sur-investir en BOFU (et court-termiste)\nChez Qonto on était plutôt grosse maille - à 50\/50 sur France (très mature), 60\/40 sur DE (mature) et 70\/30 sur IT &amp; ES\n\nDu coup je cherche à faire un bench d'autres boites et de leur répartition des investissements dans le Mix :pray: merci merci\n(vous pouvez partager en thread - ou en privé si touchy)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1758621675.793609",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1758789852.175539",
+        "reply_users": [
+            "U063A8VPPG9",
+            "U06DYTRDLUD",
+            "U07MNBM4WLV"
+        ],
+        "replies": [
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1758627119.856939"
+            },
+            {
+                "user": "U06DYTRDLUD",
+                "ts": "1758628274.370829"
+            },
+            {
+                "user": "U07MNBM4WLV",
+                "ts": "1758789852.175539"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I75Ck",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello à tous dans le cadre du plan 2026, j'aide Evaneos sur le mix Media\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "il y a un gros déséquilibre sur les investissements Lead gen (ou BOFU\/perf) et Demand Gen (ou TOFU\/MOFU\/Brand) - avec un 85\/15 (voir 90\/10 sur les marchés peu matures) sur la fin du funnel."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "pas facile dans un contexte où c'est profitablité ++ mais je trouve ça contre-productif de sur-investir en BOFU (et court-termiste)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Chez Qonto on était plutôt grosse maille - à 50\/50 sur France (très mature), 60\/40 sur DE (mature) et 70\/30 sur IT & ES\n\nDu coup je cherche à faire un bench d'autres boites et de leur répartition des investissements dans le Mix "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " merci merci\n(vous pouvez partager en thread - ou en privé si touchy)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017CURDPB5",
+        "type": "message",
+        "ts": "1758625576.357619",
+        "client_msg_id": "77b82049-4443-4709-9c38-eae3227f1a85",
+        "text": "Hello, en comptant les \"own events\" en Demand Gen (plus en notoriété), on est à 50\/50 chez iBanFirst (B2B SME). Après je dis en interne qu'on est à 70\/30 car avec un fond PE on ne peut etre que ROIste :wink:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "671ad569fbc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5982967598243_671ad569fbc40977de70_72.jpg",
+            "first_name": "David",
+            "real_name": "David Remaud",
+            "display_name": "David Remaud (iBanFirst)",
+            "team": "T017AGS2KE0",
+            "name": "david.remaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1758625576.357619",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1758628969.246129",
+        "reply_users": [
+            "U04SM1RGPJB"
+        ],
+        "replies": [
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1758628969.246129"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d\/R9+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, en comptant les \"own events\" en Demand Gen (plus en notoriété), on est à 50\/50 chez iBanFirst (B2B SME). Après je dis en interne qu'on est à 70\/30 car avec un fond PE on ne peut etre que ROIste "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U084KTR7YKX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1758627119.856939",
+        "edited": {
+            "user": "U063A8VPPG9",
+            "ts": "1758627126.000000"
+        },
+        "client_msg_id": "9b6566a3-1785-47c3-aa7b-93d1af773ebc",
+        "text": "Aircall on etait à 70\/30 en moyenne sauf US où c'etait 50\/50.\nMarchés peu matures 90\/10.\nPuis au moment du shift profitability ils ont cutté tout le budget Brand donc on etait plutot à 95\/5 (ce qui etait bien merdique).\n\nChez PF, je laisse <@U0951RDNKU6> repondre car elle l'a fait évoluer (heureusement) mais à l'epoque c'était plutot 80\/20.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1758621675.793609",
+        "parent_user_id": "U084KTR7YKX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CZ+Bf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Aircall on etait à 70\/30 en moyenne sauf US où c'etait 50\/50.\nMarchés peu matures 90\/10.\nPuis au moment du shift profitability ils ont cutté tout le budget Brand donc on etait plutot à 95\/5 (ce qui etait bien merdique).\n\nChez PF, je laisse "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0951RDNKU6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " repondre car elle l'a fait évoluer (heureusement) mais à l'epoque c'était plutot 80\/20."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U084KTR7YKX"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U084KTR7YKX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06DYTRDLUD",
+        "type": "message",
+        "ts": "1758628274.370829",
+        "client_msg_id": "22a51889-6dff-4265-aa5b-4a72d6f2abc4",
+        "text": "Pareil que David, je pense que si on prend les owned events, on est vers 50\/50.\nAujourd'hui on a un sujet de suivi sur la partie BOFU et du coup on est presque en train de tomber dans un extrême inverse, et il faut qu'on rééquilibre plus d'actions leadgen en ligne dans les prochains mois.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901f49789864",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-17\/6483135134229_901f4978986494a521e4_72.jpg",
+            "first_name": "Flora",
+            "real_name": "Flora Wolfer",
+            "display_name": "Flora Wolfer (Payplug)",
+            "team": "T017AGS2KE0",
+            "name": "fwolfer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1758621675.793609",
+        "parent_user_id": "U084KTR7YKX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vCeYQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pareil que David, je pense que si on prend les owned events, on est vers 50\/50.\nAujourd'hui on a un sujet de suivi sur la partie BOFU et du coup on est presque en train de tomber dans un extrême inverse, et il faut qu'on rééquilibre plus d'actions leadgen en ligne dans les prochains mois."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U084KTR7YKX"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U084KTR7YKX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1758628969.246129",
+        "client_msg_id": "6c9d15f3-108e-4fd6-8640-8773cb1d9f70",
+        "text": "idem, officiellement 70\/30, en vrai ça dépend.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1758625576.357619",
+        "parent_user_id": "U017CURDPB5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iSHvE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "idem, officiellement 70\/30, en vrai ça dépend."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U084KTR7YKX"
+                ],
+                "count": 1
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U084KTR7YKX",
+                    "U06DYTRDLUD",
+                    "U07R7CUFM7H"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

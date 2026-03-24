@@ -1,0 +1,134 @@
+[
+    {
+        "user": "U06GYUPMCR5",
+        "type": "message",
+        "ts": "1750761336.778859",
+        "client_msg_id": "2dd43a2e-597f-4004-8821-311999dca349",
+        "text": "Il ya la plateforme Studentpop",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7605196cd68d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-31\/7196035108950_7605196cd68d96ff55b6_72.png",
+            "first_name": "Céline",
+            "real_name": "Céline COROUGE",
+            "display_name": "Céline COROUGE",
+            "team": "T017AGS2KE0",
+            "name": "cecorouge",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750256733.880449",
+        "parent_user_id": "U059T4KRCUC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UINqd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Il ya la plateforme Studentpop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U059T4KRCUC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01T6U402V8",
+        "type": "message",
+        "ts": "1750771900.639649",
+        "client_msg_id": "c8ecbb72-3913-4801-9e12-1380c0577808",
+        "text": "Hello la team !\nJ’ai une super opportunité pour un de nos membres:\n\n:fr::flag-um: Il s’agit d’un poste de Directeur.ice Marketing dans un studio d’incubation de marques Consumer dans la beauté.\nLe membre souhaite un profil avec un background US chez le\/la candidat.e pour comprendre le marché et être au plus près de ses consommateurs.\n\n:fire: Si vous vous reconnaissez dans cette description ou que vous connaissez quelqu’un qui peut etre interessé MP plus simple *simone@frenchfounders.con* pour vous mettre en relation avec celle qui gère ça dans notre team!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "1a396483c2d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-13\/1958483219154_1a396483c2d9cd7cccd3_72.jpg",
+            "first_name": "Simone",
+            "real_name": "Simone Sfeir (FrenchFounders)",
+            "display_name": "Simone Sfeir",
+            "team": "T017AGS2KE0",
+            "name": "simone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UoTbu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello la team !\nJ’ai une super opportunité pour un de nos membres:\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "flag-fr",
+                                "unicode": "1f1eb-1f1f7"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "flag-um",
+                                "unicode": "1f1fa-1f1f2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Il s’agit d’un poste de Directeur.ice Marketing dans un studio d’incubation de marques Consumer dans la beauté.\nLe membre souhaite un profil avec un background US chez le\/la candidat.e pour comprendre le marché et être au plus près de ses consommateurs.\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire",
+                                "unicode": "1f525"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Si vous vous reconnaissez dans cette description ou que vous connaissez quelqu’un qui peut etre interessé MP plus simple "
+                            },
+                            {
+                                "type": "text",
+                                "text": "simone@frenchfounders.con",
+                                "style": {
+                                    "bold": true,
+                                    "unlink": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour vous mettre en relation avec celle qui gère ça dans notre team!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U063A8VPPG9",
+                    "U08QZ6EKE4Q"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

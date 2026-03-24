@@ -1,0 +1,121 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U0946E8A2US",
+        "text": "<@U0946E8A2US> has joined the channel",
+        "type": "message",
+        "ts": "1752046183.183849"
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1752062779.013969",
+        "client_msg_id": "fffb9523-1a6a-4a22-a6c4-77730fbe833f",
+        "text": "Hello les TML,\ndes sites ou logiciels pour avoir des musiques libres de droit d'env 1 minute ?\n\nmerci",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wAQRw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello les TML,\ndes sites ou logiciels pour avoir des musiques libres de droit d'env 1 minute ?\n\nmerci"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1752063636.863669",
+        "client_msg_id": "b0e7f5d4-c769-477f-8117-168273239616",
+        "text": "<https:\/\/suno.com\/>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/cdn1.suno.ai\/preview.jpg",
+                "image_width": 2880,
+                "image_height": 1620,
+                "image_bytes": 705314,
+                "from_url": "https:\/\/suno.com\/",
+                "service_icon": "https:\/\/suno.com\/suno-app-icon.webp",
+                "id": 1,
+                "original_url": "https:\/\/suno.com\/",
+                "fallback": "Suno: Suno | AI Music",
+                "text": "Create stunning original music in seconds using AI. Make your own masterpieces, share with friends, and discover music from artists worldwide.",
+                "title": "Suno | AI Music",
+                "title_link": "https:\/\/suno.com\/",
+                "service_name": "Suno"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gIG+Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/suno.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U063A8VPPG9",
+                    "U067VEJFT5F",
+                    "U04HP95GK55",
+                    "U03QPMQA31V",
+                    "U01MVJPEEH3",
+                    "U078PFP7A4B",
+                    "U07PEP71X4Y",
+                    "U08PLD4KPS8",
+                    "U065DFPCQMP",
+                    "U08M0JP81DK",
+                    "U04L35Y9D08"
+                ],
+                "count": 11
+            }
+        ]
+    }
+]

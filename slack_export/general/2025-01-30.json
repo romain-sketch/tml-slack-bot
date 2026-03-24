@@ -1,0 +1,100 @@
+[
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1738226567.425309",
+        "client_msg_id": "07ebde64-81d6-4daa-9d9c-46e8051c9716",
+        "text": "Merci pour la soirée <@U02N2EVMFCG> <@U017H09S857> <@U0183AS3MB6> <@U01A4GMRRR9>! C’était super sympa.\n\nEt très cool les interventions Dunod + Forrester. C’était très intéressant (et les vôtres aussi of course :heart_hands: ) !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1735729504.506709",
+        "parent_user_id": "U02N2EVMFCG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "19dn6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci pour la soirée "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02N2EVMFCG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U017H09S857"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0183AS3MB6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01A4GMRRR9"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! C’était super sympa.\n\nEt très cool les interventions Dunod + Forrester. C’était très intéressant (et les vôtres aussi of course "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_hands",
+                                "unicode": "1faf6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ) !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U02N2EVMFCG",
+                    "U017H09S857"
+                ],
+                "count": 2
+            },
+            {
+                "name": "rocket",
+                "users": [
+                    "U01A4GMRRR9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

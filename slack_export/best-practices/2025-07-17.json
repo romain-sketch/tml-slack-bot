@@ -1,0 +1,397 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U0951RDNKU6",
+        "text": "<@U0951RDNKU6> has joined the channel",
+        "type": "message",
+        "ts": "1752744157.145459"
+    },
+    {
+        "user": "U067VEJFT5F",
+        "type": "message",
+        "ts": "1752760911.781829",
+        "client_msg_id": "6c6c45a7-bc34-4b55-a57e-a56fe8fcaac2",
+        "text": ":boom:Hello les stars,\nJe replonge le nez dans les sujets d'envoi d'emailing pour un client (qui utilisait jusqu'à présent Outlook, oui oui oui ...) et j'ai quelques questions ! On met en place une newsletter à destination des clients - zéro logique de prospection commerciale, pas de campagne Outbound donc rien de très \"sale\" en terme de contenu. On a choisi d'utiliser Brevo.\nLe directeur de l’infrastructure responsable du nom de domaine principal (<http:\/\/société.fr|société.fr>) ne veut pas que l'on utilise le nom de domaine principal pour envoyer la newsletter car il craint de dégrader la réputation de ce nom de domaine.\nplusieurs questions :\n• Est ce qu’il y a vraiment un risque que je dégrade le nom de domaine principal si je ne fais pas de campagne outbound pur mais que je n'écris qu'à la base clients ? Si oui, quelles sont les actions pour s’en prémunir ?\n• Quelles seraient les alternatives si je ne peux pas utiliser le nom de domaine principal ? j'imagine un sous domaine nouveau du type <http:\/\/societe-communication.fr|societe-communication.fr> ... ?\n• Comment faire dans ce cas pour maximiser mes chances que le récepteur fasse confiance au sender ?\nEst-ce que l'un de vous s'est posé ces questions récemment ?\nMUCHAS GRACIAS !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9fcbd8d4bd09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-05\/6296382564371_9fcbd8d4bd095d25ab4c_72.jpg",
+            "first_name": "Amandine",
+            "real_name": "Amandine Moreau",
+            "display_name": "Amandine Moreau",
+            "team": "T017AGS2KE0",
+            "name": "a.gremont.pro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1752760911.781829",
+        "reply_count": 6,
+        "reply_users_count": 5,
+        "latest_reply": "1752846408.366989",
+        "reply_users": [
+            "U092U6UDLMN",
+            "U067VEJFT5F",
+            "U055KSYA2AH",
+            "U065DFPCQMP",
+            "U04SM1RGPJB"
+        ],
+        "replies": [
+            {
+                "user": "U092U6UDLMN",
+                "ts": "1752761470.269719"
+            },
+            {
+                "user": "U067VEJFT5F",
+                "ts": "1752761759.505439"
+            },
+            {
+                "user": "U055KSYA2AH",
+                "ts": "1752764805.628969"
+            },
+            {
+                "user": "U065DFPCQMP",
+                "ts": "1752767476.372789"
+            },
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1752824866.995399"
+            },
+            {
+                "user": "U067VEJFT5F",
+                "ts": "1752846408.366989"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pivdc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "boom",
+                                "unicode": "1f4a5"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Hello les stars,\nJe replonge le nez dans les sujets d'envoi d'emailing pour un client (qui utilisait jusqu'à présent Outlook, oui oui oui ...) et j'ai quelques questions ! On met en place une newsletter à destination des clients - zéro logique de prospection commerciale, pas de campagne Outbound donc rien de très \"sale\" en terme de contenu. On a choisi d'utiliser Brevo.\nLe directeur de l’infrastructure responsable du nom de domaine principal ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/société.fr",
+                                "text": "société.fr"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") ne veut pas que l'on utilise le nom de domaine principal pour envoyer la newsletter car il craint de dégrader la réputation de ce nom de domaine.\nplusieurs questions :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Est ce qu’il y a vraiment un risque que je dégrade le nom de domaine principal si je ne fais pas de campagne outbound pur mais que je n'écris qu'à la base clients ? Si oui, quelles sont les actions pour s’en prémunir ?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Quelles seraient les alternatives si je ne peux pas utiliser le nom de domaine principal ? j'imagine un sous domaine nouveau du type "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "http:\/\/societe-communication.fr",
+                                        "text": "societe-communication.fr"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " ... ?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Comment faire dans ce cas pour maximiser mes chances que le récepteur fasse confiance au sender ?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Est-ce que l'un de vous s'est posé ces questions récemment ?\nMUCHAS GRACIAS !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U092U6UDLMN",
+        "type": "message",
+        "ts": "1752761470.269719",
+        "client_msg_id": "af05a262-5ce9-4ff1-9086-c009d4228507",
+        "text": "In my humble opinion : il y a tjs un petit risque de dégrader la réputation du NDD principal. La question serait : comment les clients destinataires des emails envoyés par Outlook réagissent-ils (ouverture, click, etc...). Si ces emails sont bien perçus, cela devrait aller pour ceux envoyés par Brevo avec le NDD principal. Par contre, s'ils sont mal perçus (faible taux d'ouverture, bounce, spam), alors je recommande l'utilisation d'un autre nom de domaine totalement différent. Par exemple <http:\/\/soc-iété.fr|soc-iété.fr> ou  <http:\/\/sociétéfrance.fr|sociétéfrance.fr>. Et dans ce cas, idéalement, il faudrait chauffer ce nouveau nom de domaine.\nMaintenant, s'il s'agit d'une base client, il me semble plus logique d'utiliser le NDD principal.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e910bc968404",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-19\/9072876473829_e910bc968404c2c0b5d1_72.png",
+            "first_name": "Bastien",
+            "real_name": "Bastien Meaux (DialOnce)",
+            "display_name": "Bastien Meaux",
+            "team": "T017AGS2KE0",
+            "name": "bmeaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1752760911.781829",
+        "parent_user_id": "U067VEJFT5F",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jc5m4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In my humble opinion : il y a tjs un petit risque de dégrader la réputation du NDD principal. La question serait : comment les clients destinataires des emails envoyés par Outlook réagissent-ils (ouverture, click, etc...). Si ces emails sont bien perçus, cela devrait aller pour ceux envoyés par Brevo avec le NDD principal. Par contre, s'ils sont mal perçus (faible taux d'ouverture, bounce, spam), alors je recommande l'utilisation d'un autre nom de domaine totalement différent. Par exemple "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/soc-iété.fr",
+                                "text": "soc-iété.fr"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ou  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/sociétéfrance.fr",
+                                "text": "sociétéfrance.fr",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Et dans ce cas, idéalement, il faudrait chauffer ce nouveau nom de domaine.\nMaintenant, s'il s'agit d'une base client, il me semble plus logique d'utiliser le NDD principal."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U067VEJFT5F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U067VEJFT5F",
+        "type": "message",
+        "ts": "1752761759.505439",
+        "client_msg_id": "68bdb80a-7e92-499d-9e8a-342908488c58",
+        "text": "très cool comme retour :slightly_smiling_face: merci ! pas mal d'envisager un petit test probablement !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9fcbd8d4bd09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-05\/6296382564371_9fcbd8d4bd095d25ab4c_72.jpg",
+            "first_name": "Amandine",
+            "real_name": "Amandine Moreau",
+            "display_name": "Amandine Moreau",
+            "team": "T017AGS2KE0",
+            "name": "a.gremont.pro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1752760911.781829",
+        "parent_user_id": "U067VEJFT5F",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k1S4E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "très cool comme retour "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " merci ! pas mal d'envisager un petit test probablement !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U055KSYA2AH",
+        "type": "message",
+        "ts": "1752764805.628969",
+        "client_msg_id": "a3c9e98f-6983-40d6-9167-172acabb2f15",
+        "text": "aucun risque selon ce que tu décrits, je pense. Ton NDD peut se dégrader si ton % de spam versus le nombre total d’email envoyé par ton domaine (yc tous les emails de notifs, les emails manuels...) est au-dessus de 1 ou 2%. Mais dans les faits ça n’arrive que pour les bourrins de l’outbound",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "77f967801b39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-02\/5198498072658_77f967801b39b2c56563_72.png",
+            "first_name": "Olivier",
+            "real_name": "Olivier Milcent",
+            "display_name": "Olivier Milcent (DeepReach)",
+            "team": "T017AGS2KE0",
+            "name": "omilcent",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1752760911.781829",
+        "parent_user_id": "U067VEJFT5F",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FKI4B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "aucun risque selon ce que tu décrits, je pense. Ton NDD peut se dégrader si ton % de spam versus le nombre total d’email envoyé par ton domaine (yc tous les emails de notifs, les emails manuels...) est au-dessus de 1 ou 2%. Mais dans les faits ça n’arrive que pour les bourrins de l’outbound"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U065DFPCQMP",
+        "type": "message",
+        "ts": "1752767476.372789",
+        "client_msg_id": "5be48b14-e906-4176-8e96-7e58856959ff",
+        "text": "Pour éviter les risques, une bonne pratique est de créér un *sous-domaine* du type `<http:\/\/newsletter.societe.fr|newsletter.societe.fr>` ou `<http:\/\/info.societe.fr|info.societe.fr>` .\n1) ça permet d’isoler le risque tout en gardant un lien fort avec la marque (le nom n'est pas dénaturé)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50040e0261e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-15\/6198553206674_50040e0261e7ba62e840_72.jpg",
+            "first_name": "Gaelle",
+            "real_name": "Gaelle Le Goff",
+            "display_name": "Gaelle Le Goff",
+            "team": "T017AGS2KE0",
+            "name": "gaelle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1752760911.781829",
+        "parent_user_id": "U067VEJFT5F",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y37nf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour éviter les risques, une bonne pratique est de créér un "
+                            },
+                            {
+                                "type": "text",
+                                "text": "sous-domaine",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " du type "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/newsletter.societe.fr",
+                                "text": "newsletter.societe.fr",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ou "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/info.societe.fr",
+                                "text": "info.societe.fr",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " .\n1) ça permet d’isoler le risque tout en gardant un lien fort avec la marque (le nom n'est pas dénaturé)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U020QK16RMJ",
+                    "U08M0JP81DK",
+                    "U04L35Y9D08",
+                    "U06UK9NGTB4"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

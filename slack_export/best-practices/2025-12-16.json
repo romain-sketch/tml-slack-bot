@@ -1,0 +1,119 @@
+[
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1765876704.775919",
+        "client_msg_id": "8570fc2c-3063-4e60-8007-0a62c2556040",
+        "text": "Hello ! Super intéressant vos retours.\n\nDe notre côté :\n• Gestion : Un peu comme <@U032T5N7UTY> on mixe agence et en direct :\n    ◦ Agence : On a commencé à bosser avec <https:\/\/www.ka-st.com\/|Kast> il y a 1 an. Histoire classique : top au début. Ils nous ont beaucoup aidé car plus de bande passante (c’est très chronophage) et ils sont bon en négo. Mais Kast a eu du mal à gérer leur croissance donc on a une période (longue) où on est déçu de la relation avec eux. Ben le fondateur est sympa mais clairement le shift plateforme &gt; agence n’a pas été facile. Ca s’améliore dernièrement mais on se pose la question de continuer ou non avec eux l’année pro.\n    ◦ On a recruté en Mars une personne qui gère Influence + Communautés. Elle a repris la gestion avec l’agence et a commencé à gérer des influenceurs en direct pour créer une relation de long terme avec eux. Elle s’aide également de quelques plateformes. Je peux lui demander celles qu’elle recommande au final si ça vous intéresse.\n• Tracking : Après plusieurs échecs de tracking à la conversion, on track ça comme dans le Brand : on calcule un CPM et on a une matrice qui nous permet de décider des tarifs en fonction de la plateforme et de l’historique de l’influencer.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764861822.567659",
+        "parent_user_id": "U084KTR7YKX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YYeU+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello ! Super intéressant vos retours.\n\nDe notre côté :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Gestion : Un peu comme "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U032T5N7UTY"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " on mixe agence et en direct :"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Agence : On a commencé à bosser avec "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.ka-st.com\/",
+                                        "text": "Kast"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " il y a 1 an. Histoire classique : top au début. Ils nous ont beaucoup aidé car plus de bande passante (c’est très chronophage) et ils sont bon en négo. Mais Kast a eu du mal à gérer leur croissance donc on a une période (longue) où on est déçu de la relation avec eux. Ben le fondateur est sympa mais clairement le shift plateforme > agence n’a pas été facile. Ca s’améliore dernièrement mais on se pose la question de continuer ou non avec eux l’année pro."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "On a recruté en Mars une personne qui gère Influence + Communautés. Elle a repris la gestion avec l’agence et a commencé à gérer des influenceurs en direct pour créer une relation de long terme avec eux. Elle s’aide également de quelques plateformes. Je peux lui demander celles qu’elle recommande au final si ça vous intéresse."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Tracking : Après plusieurs échecs de tracking à la conversion, on track ça comme dans le Brand : on calcule un CPM et on a une matrice qui nous permet de décider des tarifs en fonction de la plateforme et de l’historique de l’influencer."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

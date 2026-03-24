@@ -1,0 +1,64 @@
+[
+    {
+        "user": "U0951RDNKU6",
+        "type": "message",
+        "ts": "1762533545.315459",
+        "client_msg_id": "2811e5ef-d02a-475d-be9b-ed438d43f116",
+        "text": "<@U01A4GMRRR9> Sinon\/si cela ne marche pas chez Partoo, si vous voulez tenter Qonto, le plus sioux serait de passer par Kim Tran (comme tu la connais :wink: <mailto:kim.tran@qonto.com|kim.tran@qonto.com>) elle pourra sponsoriser l'initiative marketing plus facilement vs moi désormais et pousser plus fort auprès de la team Event.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "85dcd88ccf2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-06\/9660924995297_85dcd88ccf2fa3d8be38_72.jpg",
+            "first_name": "Marion",
+            "real_name": "Marion de Robillard",
+            "display_name": "Marion de Robillard",
+            "team": "T017AGS2KE0",
+            "name": "marionderobillard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761749426.209639",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/soFf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01A4GMRRR9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Sinon\/si cela ne marche pas chez Partoo, si vous voulez tenter Qonto, le plus sioux serait de passer par Kim Tran (comme tu la connais "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:kim.tran@qonto.com",
+                                "text": "kim.tran@qonto.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") elle pourra sponsoriser l'initiative marketing plus facilement vs moi désormais et pousser plus fort auprès de la team Event."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

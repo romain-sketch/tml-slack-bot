@@ -1,0 +1,1160 @@
+[
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1745309139.011889",
+        "client_msg_id": "bc8ca801-1953-4bf0-ac08-0b585f7df897",
+        "text": "Hello !\n\nJe viens avec le sujet attribution, désolé par avance !\nOn me challenge sur le sujet, voici ce que la team sales propose :\n\n1. *Prospect returns with no sales activity more than 90 days after last deal was closed*\n    a.  → A *new deal is created*:\n        ▪︎ If the prospect comes back via *email to the sales rep*, the *sales rep qualifies the return source*.\n        ▪︎ If the prospect comes back via a *form*, it’s treated as a *marketing-sourced lead*.\n1. *Prospect returns with sales activity in the last &gt;90 days*\n    a. → A *new deal is created*, and the *source is attributed to the sales action* (e.g., Closed Lost or Churn).\n\nPersonnellement je trouve que cela invisibilise le travail du marketing d'attribuer un MQL à de l'outbound au bout de 90 jours, mais je suis peut être biaisée. Qu'est-ce que vous avez en place de votre côté ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745309139.011889",
+        "reply_count": 13,
+        "reply_users_count": 5,
+        "latest_reply": "1745394992.267289",
+        "reply_users": [
+            "U03P99RGMTN",
+            "U078PFP7A4B",
+            "U04SM1RGPJB",
+            "U08C1HZNT8S",
+            "U020QK16RMJ"
+        ],
+        "replies": [
+            {
+                "user": "U03P99RGMTN",
+                "ts": "1745310140.126419"
+            },
+            {
+                "user": "U078PFP7A4B",
+                "ts": "1745310310.539209"
+            },
+            {
+                "user": "U03P99RGMTN",
+                "ts": "1745310378.831729"
+            },
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1745317046.635649"
+            },
+            {
+                "user": "U078PFP7A4B",
+                "ts": "1745317518.640319"
+            },
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1745317547.730759"
+            },
+            {
+                "user": "U078PFP7A4B",
+                "ts": "1745317726.673299"
+            },
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1745317791.661259"
+            },
+            {
+                "user": "U08C1HZNT8S",
+                "ts": "1745317833.565749"
+            },
+            {
+                "user": "U078PFP7A4B",
+                "ts": "1745317939.329649"
+            },
+            {
+                "user": "U08C1HZNT8S",
+                "ts": "1745318581.149519"
+            },
+            {
+                "user": "U020QK16RMJ",
+                "ts": "1745394179.189909"
+            },
+            {
+                "user": "U078PFP7A4B",
+                "ts": "1745394992.267289"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "am3y6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello !\n\nJe viens avec le sujet attribution, désolé par avance !\nOn me challenge sur le sujet, voici ce que la team sales propose :\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Prospect returns with no sales activity more than 90 days after last deal was closed",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " → A "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "new deal is created",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ":"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "If the prospect comes back via "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "email to the sales rep",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", the "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "sales rep qualifies the return source",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "If the prospect comes back via a "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "form",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", it’s treated as a "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "marketing-sourced lead",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Prospect returns with sales activity in the last >90 days",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "→ A "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "new deal is created",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", and the "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "source is attributed to the sales action",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " (e.g., Closed Lost or Churn)."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\nPersonnellement je trouve que cela invisibilise le travail du marketing d'attribuer un MQL à de l'outbound au bout de 90 jours, mais je suis peut être biaisée. Qu'est-ce que vous avez en place de votre côté ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03P99RGMTN",
+        "type": "message",
+        "ts": "1745310140.126419",
+        "client_msg_id": "7d72cc6d-3a62-4f0f-87da-d99d28ab337d",
+        "text": "Hello Mégane ! Je suis OK avec ta première règle (c’est ce qu’on a mis en place. Par contre, les Sales sont censés garder le contact.\net donc pour le &gt;90 days, tes sales activity ce sont eux qui envoient des mails et des follow ups ?\nNous on regarde aussi les touch marketing (c’est souvent grâce à nos actions de nurturing que les deals reviennent) et donc l’attribution est marketing. et on se met aussi des co-sourced.\n\nplutot que de regarder les activités, on essaie de monitorer “l’interaction” - a qui le prospect a répondu\/a interagi (clic d’ads, reply to email, filled a form etc) et ça aide aussi a démontrer l’impact marketing.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2f8b530bfffa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-28\/7656384027105_2f8b530bfffa39d455d3_72.png",
+            "first_name": "Julie",
+            "real_name": "Julie Asselin (365Talents)",
+            "display_name": "Julie Asselin (365Talents)",
+            "team": "T017AGS2KE0",
+            "name": "julie.asselin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745309139.011889",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wQ5+J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Mégane ! Je suis OK avec ta première règle (c’est ce qu’on a mis en place. Par contre, les Sales sont censés garder le contact.\net donc pour le >90 days, tes sales activity ce sont eux qui envoient des mails et des follow ups ?\nNous on regarde aussi les touch marketing (c’est souvent grâce à nos actions de nurturing que les deals reviennent) et donc l’attribution est marketing. et on se met aussi des co-sourced.\n\nplutot que de regarder les activités, on essaie de monitorer “l’interaction” - a qui le prospect a répondu\/a interagi (clic d’ads, reply to email, filled a form etc) et ça aide aussi a démontrer l’impact marketing."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1745310310.539209",
+        "client_msg_id": "3d87d503-9068-4637-89fd-ea80edb017c6",
+        "text": "Merci Julie !\n\nPour te répondre :\n&gt; et donc pour le &gt;90 days, tes sales activity ce sont eux qui envoient des mails et des follow ups ?\nIls en envoient mais pas à tout le monde, c'est selon le lead scoring.\n\nAvant c'était basé sur l'analyse des touch marketing également, mais apparemment ils ont envie de faire passer ça à la trappe.\n\nComment ça fonctionne tes co-sourced dans le CRM ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745309139.011889",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZE015",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci Julie !\n\nPour te répondre :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "et donc pour le >90 days, tes sales activity ce sont eux qui envoient des mails et des follow ups ?"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ils en envoient mais pas à tout le monde, c'est selon le lead scoring.\n\nAvant c'était basé sur l'analyse des touch marketing également, mais apparemment ils ont envie de faire passer ça à la trappe.\n\nComment ça fonctionne tes co-sourced dans le CRM ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03P99RGMTN",
+        "type": "message",
+        "ts": "1745310378.831729",
+        "client_msg_id": "29f1c8f5-7496-49a1-879c-e0980062baf0",
+        "text": "C’est un peu a la mano car c’est assez rare - on se met des notes et on a fait des champs dans hubspot pour",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2f8b530bfffa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-28\/7656384027105_2f8b530bfffa39d455d3_72.png",
+            "first_name": "Julie",
+            "real_name": "Julie Asselin (365Talents)",
+            "display_name": "Julie Asselin (365Talents)",
+            "team": "T017AGS2KE0",
+            "name": "julie.asselin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745309139.011889",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "znFUC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C’est un peu a la mano car c’est assez rare - on se met des notes et on a fait des champs dans hubspot pour"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bulb",
+                "users": [
+                    "U078PFP7A4B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1745317046.635649",
+        "client_msg_id": "8e987adb-5637-4640-8b95-9adee67cfdb2",
+        "text": "je tente un truc plus simple ici :\n1. on tracke la 1st touch (all time) et la last touch (l'action au début d'un process de conversion, sans temps mort\/retour nurture) dans nos tableaux (on trace toutes les actions, mais on s'attache surtout à celles ci, notamment la last touch, pour l'attribution : première action au début du process conduisant sans interruption à l'opp)\n2. on se fout complètement de l'attribution d'un point de vue \"quelle équipe performe\", ça sert juste à identifier si la campagne vaut le coup et si on arrive à convertir du premier coup ou si on a besoin de faire beaucoup de chauffe\/nurture",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745309139.011889",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v9KRP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je tente un truc plus simple ici :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "on tracke la 1st touch (all time) et la last touch (l'action au début d'un process de conversion, sans temps mort\/retour nurture) dans nos tableaux (on trace toutes les actions, mais on s'attache surtout à celles ci, notamment la last touch, pour l'attribution : première action au début du process conduisant sans interruption à l'opp)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "on se fout complètement de l'attribution d'un point de vue \"quelle équipe performe\", ça sert juste à identifier si la campagne vaut le coup et si on arrive à convertir du premier coup ou si on a besoin de faire beaucoup de chauffe\/nurture"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U03P99RGMTN",
+                    "U017CURDPB5"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1745317518.640319",
+        "client_msg_id": "fd3136ca-e05c-4ab5-ad97-8aaa063f4820",
+        "text": "Merci Selma!\nDu coup vous trackez first touch et last touch dans votre CRM directement pour chaque deal ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745309139.011889",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fOeCB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci Selma!\nDu coup vous trackez first touch et last touch dans votre CRM directement pour chaque deal ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1745317547.730759",
+        "client_msg_id": "d620cb7e-0ce3-4226-bc0f-937bb523bcf1",
+        "text": "Oui",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745309139.011889",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kL6qE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U078PFP7A4B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1745317726.673299",
+        "client_msg_id": "452ebabe-26e8-4c2c-877b-b252607de3c2",
+        "text": "Ok ! Mais oui c'est intéressant d'avoir first touch et last touch, pour justement identifier de quelle campagne proviennent les leads - car avec la nouvelle structure, si on met tout en sales je n'arriverai plus à voir, et c'était ça mon souci.\n\nJe vais proposer de rajouter ceci.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745309139.011889",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8ZIeJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok ! Mais oui c'est intéressant d'avoir first touch et last touch, pour justement identifier de quelle campagne proviennent les leads - car avec la nouvelle structure, si on met tout en sales je n'arriverai plus à voir, et c'était ça mon souci.\n\nJe vais proposer de rajouter ceci."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U08C1HZNT8S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1745317791.661259",
+        "client_msg_id": "996287c0-1449-4e32-8c41-b43117f88bb2",
+        "text": "Et ça redonne de la valeur au long terme marketing. On essaie d'identifier la meilleure source pour entrer dans le crm et la meilleure pour progresser, ce qui peut être 2 obj différents",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745309139.011889",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7UyDP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et ça redonne de la valeur au long terme marketing. On essaie d'identifier la meilleure source pour entrer dans le crm et la meilleure pour progresser, ce qui peut être 2 obj différents"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08C1HZNT8S",
+        "type": "message",
+        "ts": "1745317833.565749",
+        "edited": {
+            "user": "U08C1HZNT8S",
+            "ts": "1745317926.000000"
+        },
+        "client_msg_id": "58bcf179-bd9c-4295-a795-7e1aad4566c8",
+        "text": "Hello Mégane,\n\nVoici ce que je proposerait et pour faire écho à Julie\n\n1. *Prospect returns with no ~sales~ activity more than 90 days after last deal was closed*\n    a.  → A *new deal is created*:\n        ▪︎ If the prospect comes back via *email to the sales rep*, the *sales rep qualifies the return source*.\n        ▪︎ If the prospect comes back via a *form*, it’s treated as a *marketing-sourced lead*.\n1. *Prospect returns with ~sales~ activity in the last >90 days*\n    a. → A *new deal is created*, and the *source is attributed to the ~sales~ latest action* (sales or marketing)  \nTout dépend si tu es en mesure de capture du multi-touchpoint et la durée moyenne de ton cycle de vie. Exemple, en BtoB, si on part sur une durée de 18 mois avant que le deal close, on peut considérer que l'ensemble des touchpoints (qu'ils soient sales ou marketing d'ailleurs) aura eu un impact sur la vente. Tu peux tjrs attribuer + de poids au FT et LT et moins de poids aux touchpoints intermédiaires.\n\nTout dépend à quel point ton CRM est customisé pour ça ou si tu utilises un outil d'attribution dédié (du type Marketo Measure)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "61c9836da04d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-06\/8423651765825_61c9836da04d5e9d3e43_72.jpg",
+            "first_name": "Séverine",
+            "real_name": "Séverine Loeuille (Impact Plus)",
+            "display_name": "Séverine Loeuille (Impact Plus)",
+            "team": "T017AGS2KE0",
+            "name": "severine.loeuille",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745309139.011889",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UAOFq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Mégane,\n\nVoici ce que je proposerait et pour faire écho à Julie\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Prospect returns with no ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "sales",
+                                        "style": {
+                                            "bold": true,
+                                            "strike": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " activity more than 90 days after last deal was closed",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " → A "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "new deal is created",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ":"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "If the prospect comes back via "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "email to the sales rep",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", the "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "sales rep qualifies the return source",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "If the prospect comes back via a "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "form",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", it’s treated as a "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "marketing-sourced lead",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Prospect returns with ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "sales",
+                                        "style": {
+                                            "bold": true,
+                                            "strike": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " activity in the last >90 days",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "→ A "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "new deal is created",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", and the "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "source is attributed to the ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "sales",
+                                        "style": {
+                                            "bold": true,
+                                            "strike": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " latest action",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " (sales or marketing)  "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nTout dépend si tu es en mesure de capture du multi-touchpoint et la durée moyenne de ton cycle de vie. Exemple, en BtoB, si on part sur une durée de 18 mois avant que le deal close, on peut considérer que l'ensemble des touchpoints (qu'ils soient sales ou marketing d'ailleurs) aura eu un impact sur la vente. Tu peux tjrs attribuer + de poids au FT et LT et moins de poids aux touchpoints intermédiaires.\n\nTout dépend à quel point ton CRM est customisé pour ça ou si tu utilises un outil d'attribution dédié (du type Marketo Measure)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1745317939.329649",
+        "client_msg_id": "f6bf8a99-4a9c-4e8d-8d34-62f818d08ee7",
+        "text": "Merci Séverine ! Effectivement ça fait sens ta proposition.\n\nMais je n'utilise \"que\" Hubspot, donc je ne peux pas aller dans des attributions multi-touch super poussées.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745309139.011889",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oGe4r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci Séverine ! Effectivement ça fait sens ta proposition.\n\nMais je n'utilise \"que\" Hubspot, donc je ne peux pas aller dans des attributions multi-touch super poussées."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08C1HZNT8S",
+        "type": "message",
+        "ts": "1745318581.149519",
+        "client_msg_id": "604276f5-6dad-492d-8894-250eb656528d",
+        "text": "Oui dans ce cas là, je garderais un modèle assez simple et partirait en effet sur le first touch last touch, peu importe l'activity type.\n\nOn peut imaginer :\n• Prospect returns with no activity in the last &gt; 90 days -&gt; selon l'activity de return -&gt; sales or marketing gets credit\n• Prospect returns with sales activity in the last &gt; 90 days &gt; \n    ◦ si last touch = sales mais quelques TP marketing avant : *sales-sourced en LT but marketing-influenced en FT*\n    ◦ si last touch = sales et no TP avant : *sales-sourced en LT*\nJe pense juste que c'est un peu unfair de ne pas prendre en compte les touchpoints marketing qui ont forcément influencés au return, donc au moins prendre le dernier et le mettre en FT",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "61c9836da04d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-06\/8423651765825_61c9836da04d5e9d3e43_72.jpg",
+            "first_name": "Séverine",
+            "real_name": "Séverine Loeuille (Impact Plus)",
+            "display_name": "Séverine Loeuille (Impact Plus)",
+            "team": "T017AGS2KE0",
+            "name": "severine.loeuille",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745309139.011889",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TlQCG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui dans ce cas là, je garderais un modèle assez simple et partirait en effet sur le first touch last touch, peu importe l'activity type.\n\nOn peut imaginer :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Prospect returns with no activity in the last > 90 days -> selon l'activity de return -> sales or marketing gets credit"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Prospect returns with sales activity in the last > 90 days > "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "si last touch = sales mais quelques TP marketing avant : "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "sales-sourced en LT but marketing-influenced en FT",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "si last touch = sales et no TP avant : "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "sales-sourced en LT",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nJe pense juste que c'est un peu unfair de ne pas prendre en compte les touchpoints marketing qui ont forcément influencés au return, donc au moins prendre le dernier et le mettre en FT"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U078PFP7A4B"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

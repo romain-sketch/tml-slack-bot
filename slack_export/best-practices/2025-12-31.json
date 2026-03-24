@@ -1,0 +1,156 @@
+[
+    {
+        "user": "U07BLPPL3C1",
+        "type": "message",
+        "ts": "1767198878.065639",
+        "edited": {
+            "user": "U07BLPPL3C1",
+            "ts": "1767199394.000000"
+        },
+        "client_msg_id": "51a61292-e282-4645-ac41-d22e56542677",
+        "text": "Bonjour,\n Je suis en train de repenser les objectifs de variable de mes équipes.\n Cette année, nous avons opéré un shift d’une stratégie axée mid-market vers de l’Enterprise avec des ICP très précis, et nous avons refondu notre scoring (effectif depuis janvier) pour passer d’une logique de lead à une logique de deal et d’ICP (très inspiré par une conversation avec <@U04SM1RGPJB> :wink: ). En revanche, je n’ai pas encore assez de recul sur l’impact de ce changement sur les taux de conversion et les volumes.\n\nHistoriquement, mes équipes étaient objectivées sur un mix quali\/quanti, le quanti correspondant aux volumes de leads et de SQL.  Je me demande s’il ne faudrait pas plutôt raisonner en SQL value.\n\nAvez-vous des conseils ? Quels objectifs quanti fixez-vous dans des stratégies ABM \/ Enterprise \/ ICP ?\n\nJe fais ce shift car les équipes ont surperformé sur la SQL value apportée et le panier moyen, mais sous-performé sur les volumes targets, qui n’avaient pas été adaptés après le changement de stratégie.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a188c365467d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-16\/7728349993798_a188c365467d3e63d25d_72.jpg",
+            "first_name": "Esther",
+            "real_name": "Esther Daga",
+            "display_name": "Esther Daga (Powell)",
+            "team": "T017AGS2KE0",
+            "name": "estherdaga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1767198878.065639",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1767343630.704679",
+        "reply_users": [
+            "U04SM1RGPJB",
+            "U09BVQYR1GA",
+            "U07BLPPL3C1"
+        ],
+        "replies": [
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1767201699.483719"
+            },
+            {
+                "user": "U09BVQYR1GA",
+                "ts": "1767282555.263659"
+            },
+            {
+                "user": "U07BLPPL3C1",
+                "ts": "1767343607.432789"
+            },
+            {
+                "user": "U07BLPPL3C1",
+                "ts": "1767343630.704679"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0fVGF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour,\n Je suis en train de repenser les objectifs de variable de mes équipes.\n Cette année, nous avons opéré un shift d’une stratégie axée mid-market vers de l’Enterprise avec des ICP très précis, et nous avons refondu notre scoring (effectif depuis janvier) pour passer d’une logique de lead à une logique de deal et d’ICP (très inspiré par une conversation avec "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04SM1RGPJB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ). En revanche, je n’ai pas encore assez de recul sur l’impact de ce changement sur les taux de conversion et les volumes.\n\nHistoriquement, mes équipes étaient objectivées sur un mix quali\/quanti, le quanti correspondant aux volumes de leads et de SQL.  Je me demande s’il ne faudrait pas plutôt raisonner en SQL value.\n\nAvez-vous des conseils ? Quels objectifs quanti fixez-vous dans des stratégies ABM \/ Enterprise \/ ICP ?\n\nJe fais ce shift car les équipes ont surperformé sur la SQL value apportée et le panier moyen, mais sous-performé sur les volumes targets, qui n’avaient pas été adaptés après le changement de stratégie."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U04SM1RGPJB",
+                    "U09BVQYR1GA",
+                    "U03P99RGMTN"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1767201699.483719",
+        "edited": {
+            "user": "U04SM1RGPJB",
+            "ts": "1767201721.000000"
+        },
+        "client_msg_id": "244c70b6-ca87-462e-bdb2-df41e00c8116",
+        "text": "Mon conseil : volume de pipe créé en obj. Le nombre de deals n'est qu'un indicateur pour piloter au quotidien (ex. Avec tous tes taux de conversion, average deal size etc, tu estimes quil faut a peu près 10 opps par semaine, donc tu sais si tu es dans les clous rapidement). Mais la seule chose qui compte c'est la valeur de pipe in fine (ex. Bon nombre de deals créés mais trop petits en valeur, ca marche pas non plus)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1767198878.065639",
+        "parent_user_id": "U07BLPPL3C1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TNchj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mon conseil : volume de pipe créé en obj. Le nombre de deals n'est qu'un indicateur pour piloter au quotidien (ex. Avec tous tes taux de conversion, average deal size etc, tu estimes quil faut a peu près 10 opps par semaine, donc tu sais si tu es dans les clous rapidement). Mais la seule chose qui compte c'est la valeur de pipe in fine (ex. Bon nombre de deals créés mais trop petits en valeur, ca marche pas non plus)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U07BLPPL3C1",
+                    "U06DYTRDLUD",
+                    "U03P99RGMTN"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

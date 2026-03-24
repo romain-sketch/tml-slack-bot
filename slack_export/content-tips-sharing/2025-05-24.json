@@ -1,0 +1,89 @@
+[
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1748073967.454549",
+        "client_msg_id": "8B452EC5-59F4-496C-A668-9D447EBD6359",
+        "text": "J’ai pas mal été <https:\/\/maps.app.goo.gl\/zdBkbeFEZMzgEDwF7?g_st=com.google.maps.preview.copy|la> moi, c’est top ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748013991.131989",
+        "parent_user_id": "U06CZESF7QF",
+        "attachments": [
+            {
+                "from_url": "https:\/\/maps.app.goo.gl\/zdBkbeFEZMzgEDwF7?g_st=com.google.maps.preview.copy",
+                "service_icon": "https:\/\/www.google.com\/favicon.ico",
+                "thumb_url": "https:\/\/lh3.googleusercontent.com\/p\/AF1QipM4O-QkvJirruHwZ-bI5srWH-gMO9me3xn0-YNo",
+                "thumb_width": 512,
+                "thumb_height": 384,
+                "id": 1,
+                "original_url": "https:\/\/maps.app.goo.gl\/zdBkbeFEZMzgEDwF7?g_st=com.google.maps.preview.copy",
+                "fallback": "Openmind · Paris",
+                "text": "Find local businesses, view maps and get driving directions in Google Maps.",
+                "title": "Openmind · Paris",
+                "title_link": "https:\/\/maps.app.goo.gl\/zdBkbeFEZMzgEDwF7?g_st=com.google.maps.preview.copy",
+                "service_name": "google.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gYsma",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J’ai pas"
+                            },
+                            {
+                                "type": "text",
+                                "text": " mal été "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/maps.app.goo.gl\/zdBkbeFEZMzgEDwF7?g_st=com.google.maps.preview.copy",
+                                "text": "la"
+                            },
+                            {
+                                "type": "text",
+                                "text": " moi, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "c’est"
+                            },
+                            {
+                                "type": "text",
+                                "text": " top "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U08EN5GRYCC",
+                    "U06CZESF7QF"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "user": "U07MNBM4WLV",
+        "type": "message",
+        "ts": "1743521693.616569",
+        "client_msg_id": "98a4b43b-8ff4-4423-9f74-69062690a79b",
+        "text": "Je serai en steerco retreat cette semaine :sleepy:\nje vous envoie toutes mes bonnes ondes :wink:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "028ce63b55be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7733128030774_028ce63b55be29945d4f_72.jpg",
+            "first_name": "Domitille",
+            "real_name": "Domitille de Saint-Exupéry",
+            "display_name": "Domitille de Saint-Exupéry (lemlist)",
+            "team": "T017AGS2KE0",
+            "name": "domitille433",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743413230.135849",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3lSN5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je serai en steerco retreat cette semaine "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sleepy",
+                                "unicode": "1f62a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nje vous envoie toutes mes bonnes ondes "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U063A8VPPG9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

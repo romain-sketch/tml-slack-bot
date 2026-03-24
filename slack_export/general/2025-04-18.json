@@ -1,0 +1,144 @@
+[
+    {
+        "user": "U069NSTHZ3Q",
+        "type": "message",
+        "ts": "1744985477.257469",
+        "client_msg_id": "d193dafb-00dc-4196-8eaa-0abea009c96b",
+        "text": "Hello tout le monde,\nQuelqu’un aurait un RACI, ou description des missions de son PMM avec si possible les liens entre le marketing et le produit à partager ici ou en MP?\nMerci :pray:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "fbbca81fca0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-30\/7816371623809_fbbca81fca0c916c8c15_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Gannau (Oodrive)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "m.gannau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744985477.257469",
+        "reply_count": 7,
+        "reply_users_count": 4,
+        "latest_reply": "1745498925.955039",
+        "reply_users": [
+            "U04L04T475K",
+            "U06DYTRDLUD",
+            "U069NSTHZ3Q",
+            "U017H09S857"
+        ],
+        "replies": [
+            {
+                "user": "U04L04T475K",
+                "ts": "1744986962.984759"
+            },
+            {
+                "user": "U06DYTRDLUD",
+                "ts": "1745418614.747839"
+            },
+            {
+                "user": "U069NSTHZ3Q",
+                "ts": "1745422358.265069"
+            },
+            {
+                "user": "U06DYTRDLUD",
+                "ts": "1745423250.536859"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1745482887.915239"
+            },
+            {
+                "user": "U069NSTHZ3Q",
+                "ts": "1745498431.132609"
+            },
+            {
+                "user": "U069NSTHZ3Q",
+                "ts": "1745498925.955039"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4w+6r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello tout le monde,\nQuelqu’un aurait un RACI, ou description des missions de son PMM avec si possible les liens entre le marketing et le produit à partager ici ou en MP?\nMerci "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U04TU0UA2R1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04L04T475K",
+        "type": "message",
+        "ts": "1744986962.984759",
+        "client_msg_id": "A6782011-9D73-40C1-8E70-6161C280F3B1",
+        "text": "Je crois que tu as fait un post la dessus <@U06DYTRDLUD> ? Peut être que tu as de la doc :)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "992240f01962",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4685704045204_992240f019622b6b0af8_72.jpg",
+            "first_name": "Antoine",
+            "real_name": "Antoine Yahia Cherif",
+            "display_name": "Antoine Yahia Cherif",
+            "team": "T017AGS2KE0",
+            "name": "antoine.yc008",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744985477.257469",
+        "parent_user_id": "U069NSTHZ3Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Se+0x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je crois que tu as fait un post la dessus "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06DYTRDLUD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ? Peut être que tu as de la doc :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

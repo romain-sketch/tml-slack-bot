@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U069NSTHZ3Q",
+        "type": "message",
+        "ts": "1755506797.894219",
+        "client_msg_id": "007c6e72-1bb9-41f5-83a7-b4e8644e5e10",
+        "text": "Hello, je suis au COMEX et sous le CRO (qui est aussi le co-fondateur de la boîte, donc rôle plutôt DG que CRO)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "fbbca81fca0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-30\/7816371623809_fbbca81fca0c916c8c15_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Gannau (Oodrive)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "m.gannau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1755001302.841059",
+        "parent_user_id": "U07D08K3U0K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "61Ru3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, je suis au COMEX et sous le CRO (qui est aussi le co-fondateur de la boîte, donc rôle plutôt DG que CRO)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U07D08K3U0K"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

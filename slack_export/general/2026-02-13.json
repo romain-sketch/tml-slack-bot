@@ -1,0 +1,135 @@
+[
+    {
+        "user": "U0A11HFGA31",
+        "type": "message",
+        "ts": "1770991399.963159",
+        "client_msg_id": "6458363e-b876-4249-9047-1cde5515dde7",
+        "text": "<@U017H09S857> Je veux bien aussi l'invite : ) J'avais répondu mais pas sûr de l'avoir reçue ? tu l'envoie par mail ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7e865350c03c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-02-19\/10540347829202_7e865350c03cb51c24eb_72.jpg",
+            "first_name": "Guillaume",
+            "real_name": "Guillaume Djourabtchi (Advens Cybersecurity)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "gdjourabtchi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770219160.486319",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JEPuP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U017H09S857"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Je veux bien aussi l'invite : ) J'avais répondu mais pas sûr de l'avoir reçue ? tu l'envoie par mail ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U017H09S857"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0A11HFGA31",
+        "type": "message",
+        "ts": "1770991406.961459",
+        "client_msg_id": "4fbd0533-48d0-478a-8b8e-2f6168bdc482",
+        "text": "Merci pour l'orga : )",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7e865350c03c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-02-19\/10540347829202_7e865350c03cb51c24eb_72.jpg",
+            "first_name": "Guillaume",
+            "real_name": "Guillaume Djourabtchi (Advens Cybersecurity)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "gdjourabtchi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770219160.486319",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9UGpP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci pour l'orga : )"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04HP95GK55",
+        "type": "message",
+        "ts": "1771051023.549909",
+        "client_msg_id": "BBF2C313-5B8F-47A0-A5E7-B2877F33D2B8",
+        "text": "Je peux sûrement t’aider j'étais CMO chez Gymlib et je suis toujours en bonne relation avec eux ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c346c82c7f22",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-06\/6302019761282_c346c82c7f22a623d69d_72.jpg",
+            "first_name": "Raphael",
+            "real_name": "Raphael Dardek",
+            "display_name": "Raphael (Kyka)",
+            "team": "T017AGS2KE0",
+            "name": "rdardek",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770848175.638329",
+        "parent_user_id": "U017RBKTEEM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f7xry",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je peux sûrement t’aider j'étais CMO chez Gymlib et je suis toujours en bonne relation avec eux "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

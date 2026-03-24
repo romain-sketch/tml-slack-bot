@@ -1,0 +1,62 @@
+[
+    {
+        "user": "U09BVQYR1GA",
+        "type": "message",
+        "ts": "1766565185.580469",
+        "client_msg_id": "d39880f9-d343-4e0f-94bc-0b4e6cfd1b27",
+        "text": "<@U084KTR7YKX> j'ai pensé à toi dans une discussion que j'ai avce un peer aux US et un contenu que j'ai vu sur linkedIN (je n'arirve plus à le trouver).\nInfo : J'ai entendu parler des 'influenceuses\/influencers B2B' comme managers de communautés. Le cas de Zoé (l'ex Apollo) pour full-enrich (entreprise française donc peut-être qqn de cette communiaté a des contacts ici), le fameu peut-être un autre modèle intéressant que personne n'a évoqué dans la discussion. C'est un format que je vois surtout aux US mais pas autant en Europe.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0ee28ebc77d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-09-09\/9480262349955_0ee28ebc77d7f64eb0e1_72.png",
+            "first_name": "Tania",
+            "real_name": "Tania",
+            "display_name": "Tania",
+            "team": "T017AGS2KE0",
+            "name": "tsaezgrowth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764861822.567659",
+        "parent_user_id": "U084KTR7YKX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KGoZb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U084KTR7YKX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " j'ai pensé à toi dans une discussion que j'ai avce un peer aux US et un contenu que j'ai vu sur linkedIN (je n'arirve plus à le trouver).\nInfo : J'ai entendu parler des 'influenceuses\/influencers B2B' comme managers de communautés. Le cas de Zoé (l'ex Apollo) pour full-enrich (entreprise française donc peut-être qqn de cette communiaté a des contacts ici), le fameu peut-être un autre modèle intéressant que personne n'a évoqué dans la discussion. C'est un format que je vois surtout aux US mais pas autant en Europe."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U084KTR7YKX"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U084KTR7YKX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

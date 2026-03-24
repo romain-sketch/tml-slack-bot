@@ -1,0 +1,192 @@
+[
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F08RPUQ7HP1",
+                "created": 1747128986,
+                "timestamp": 1747128986,
+                "name": "Sans_titre",
+                "title": "Sans titre",
+                "mimetype": "application\/vnd.slack-docs",
+                "filetype": "quip",
+                "pretty_type": "Canvas",
+                "user": "U06UK9NGTB4",
+                "user_team": "T017AGS2KE0",
+                "editable": true,
+                "size": 63,
+                "mode": "quip",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F08RPUQ7HP1\/canvas?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F08RPUQ7HP1\/download\/canvas?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "permalink": "https:\/\/techmarketingleaders.slack.com\/docs\/T017AGS2KE0\/F08RPUQ7HP1",
+                "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F08RPUQ7HP1-1c19e58a7a",
+                "url_static_preview": "https:\/\/techmarketingleaders.slack.com\/docs\/T017AGS2KE0\/F08RPUQ7HP1\/mobile",
+                "quip_thread_id": "KHd9AAIeBm4",
+                "updated": 1747136418,
+                "update_notification": 0,
+                "is_starred": false,
+                "skipped_shares": true,
+                "teams_shared_with": [],
+                "is_restricted_sharing_enabled": false,
+                "has_rich_preview": false,
+                "file_access": "visible",
+                "access": "write",
+                "org_or_workspace_access": "none",
+                "title_blocks": [
+                    {
+                        "type": "rich_text",
+                        "block_id": "fYo7Q",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Sans titre"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "canvas_creator_id": "U06UK9NGTB4",
+                "team_pref_version_history_enabled": true,
+                "canvas_printing_enabled": true,
+                "is_ai_suggested": false
+            }
+        ],
+        "upload": false,
+        "user": "U06UK9NGTB4",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1747128987.522699"
+    },
+    {
+        "user": "U06UK9NGTB4",
+        "type": "message",
+        "ts": "1747129241.652439",
+        "client_msg_id": "ac7df1db-e647-4d86-bd29-88c68194ffd3",
+        "text": "13 retours positifs, merci à tous pour votre réactivité :slightly_smiling_face:\n\n<@U017H09S857> ça se passe comment pour la suite ? Je peux l'inviter directement sur le slack ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0de90fd94651",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-12-08\/10074067873414_0de90fd94651dd81ffed_72.png",
+            "first_name": "François",
+            "real_name": "François Castro-Lara",
+            "display_name": "François Castro-Lara (Mayday)",
+            "team": "T017AGS2KE0",
+            "name": "francois",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1746172104.959889",
+        "parent_user_id": "U06UK9NGTB4",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KQc8Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "13 retours positifs, merci à tous pour votre réactivité "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U017H09S857"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ça se passe comment pour la suite ? Je peux l'inviter directement sur le slack ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1747143966.215309",
+        "client_msg_id": "53AFB999-9103-49FB-852D-8AD456CF0B88",
+        "text": "Oui  tu peux l’inviter et je valide\nOu bien tu m’envoies son mail et je l’invite ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1746172104.959889",
+        "parent_user_id": "U06UK9NGTB4",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8V0g0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui  tu peux "
+                            },
+                            {
+                                "type": "text",
+                                "text": "l’inviter"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et je valide\nOu bien tu "
+                            },
+                            {
+                                "type": "text",
+                                "text": "m’envoies"
+                            },
+                            {
+                                "type": "text",
+                                "text": " son mail et je l’invite "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06UK9NGTB4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

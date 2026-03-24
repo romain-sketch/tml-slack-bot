@@ -1,0 +1,96 @@
+[
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1738569616.094649",
+        "client_msg_id": "72512860-f297-4dd0-b761-47ac4d559f07",
+        "text": "Hello, <https:\/\/www.linkedin.com\/in\/sabrina-kherbache-9338171b\/|Sabrina> de GoJob souhaite rejoindre la communauté, _any thoughts_ ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738569616.094649",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1738790073.920949",
+        "reply_users": [
+            "U06DYTRDLUD",
+            "U02N2EVMFCG"
+        ],
+        "replies": [
+            {
+                "user": "U06DYTRDLUD",
+                "ts": "1738766793.753959"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1738790073.920949"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/sabrina-kherbache-9338171b\/",
+                "thumb_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/C5603AQH45iH3zaIG0w\/profile-displayphoto-shrink_200_200\/profile-displayphoto-shrink_200_200\/0\/1585312387182?e=2147483647&v=beta&t=xdRCfoFpDw-gZqNyahI9XpkTUkz0G2X6BSbAflAR3M8",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/sabrina-kherbache-9338171b\/",
+                "fallback": "Sabrina Kherbache - Gojob | LinkedIn",
+                "text": "Experienced digital marketing professional with over 10 years of experience driving… · Expérience : Gojob · Formation : Groupe Ecole supérieure de Commerce de Dijon-Bourgogne · Lieu : France · 500 relations ou plus sur LinkedIn. Consultez le profil de Sabrina Kherbache sur LinkedIn, une communauté professionnelle d’un milliard de membres.",
+                "title": "Sabrina Kherbache - Gojob | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/sabrina-kherbache-9338171b\/",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TImiA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/sabrina-kherbache-9338171b\/",
+                                "text": "Sabrina"
+                            },
+                            {
+                                "type": "text",
+                                "text": " de GoJob souhaite rejoindre la communauté, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "any thoughts",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

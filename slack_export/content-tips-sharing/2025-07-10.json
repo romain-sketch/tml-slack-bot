@@ -1,0 +1,67 @@
+[
+    {
+        "user": "U065DFPCQMP",
+        "type": "message",
+        "ts": "1752152172.168479",
+        "client_msg_id": "34b3fde2-b622-4d87-99bd-68a7d37eb434",
+        "text": "Pas de retour sur ce bootcamp non, mais j'ai vu passer : <https:\/\/catalystacademy.ai\/> et Cleo Academy se positionne à fond IA en ce moment aussi mais les deux le font sur une palette plus large de métiers.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50040e0261e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-15\/6198553206674_50040e0261e7ba62e840_72.jpg",
+            "first_name": "Gaelle",
+            "real_name": "Gaelle Le Goff",
+            "display_name": "Gaelle Le Goff",
+            "team": "T017AGS2KE0",
+            "name": "gaelle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1751436993.917739",
+        "parent_user_id": "U04L04T475K",
+        "attachments": [
+            {
+                "image_url": "https:\/\/catalystacademy.ai\/wp-content\/uploads\/2025\/04\/logo_catalystai_gd.png",
+                "image_width": 700,
+                "image_height": 700,
+                "image_bytes": 35613,
+                "from_url": "https:\/\/catalystacademy.ai\/",
+                "service_icon": "https:\/\/catalystacademy.ai\/wp-content\/uploads\/2025\/04\/logo_catalystai-300x300.png",
+                "id": 1,
+                "original_url": "https:\/\/catalystacademy.ai\/",
+                "fallback": "Catalyst academy: Formations IA sur-mesure pour pros &amp; entreprises . Catalyst Academy",
+                "text": "Des formations IA concrètes et sur-mesure pour chaque métier. Apprenez avec des experts de votre domaine. Finançables et immédiatement actionnables.",
+                "title": "Formations IA sur-mesure pour pros &amp; entreprises . Catalyst Academy",
+                "title_link": "https:\/\/catalystacademy.ai\/",
+                "service_name": "Catalyst academy"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xvTaE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pas de retour sur ce bootcamp non, mais j'ai vu passer : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/catalystacademy.ai\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et Cleo Academy se positionne à fond IA en ce moment aussi mais les deux le font sur une palette plus large de métiers."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

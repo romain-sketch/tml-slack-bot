@@ -1,0 +1,148 @@
+[
+    {
+        "user": "U07BLPPL3C1",
+        "type": "message",
+        "ts": "1745482663.087939",
+        "client_msg_id": "8df86c32-13e0-4489-bda1-2902adb72b83",
+        "text": "Super merci tout le monde pour les recos !!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a188c365467d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-16\/7728349993798_a188c365467d3e63d25d_72.jpg",
+            "first_name": "Esther",
+            "real_name": "Esther Daga",
+            "display_name": "Esther Daga (Powell)",
+            "team": "T017AGS2KE0",
+            "name": "estherdaga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745413882.842189",
+        "parent_user_id": "U07BLPPL3C1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YgGEs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Super merci tout le monde pour les recos !!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1745482909.517229",
+        "client_msg_id": "e6f55997-db4d-450c-8dcd-0d46d78b8ace",
+        "text": "Hey Adrien ! Yes on fait ça :slightly_smiling_face: je t’écris en MP",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745474676.285459",
+        "parent_user_id": "U04TU0UA2R1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xYsyv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Adrien ! Yes on fait ça "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je t’écris en MP"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04TU0UA2R1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U07BLPPL3C1",
+        "type": "message",
+        "ts": "1745484346.395289",
+        "client_msg_id": "4c689822-1785-436e-868e-d9a9f2f4445f",
+        "text": "Hello <@U06E3PY5LAY> sais tu dans quel secteur est la boite ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a188c365467d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-16\/7728349993798_a188c365467d3e63d25d_72.jpg",
+            "first_name": "Esther",
+            "real_name": "Esther Daga",
+            "display_name": "Esther Daga (Powell)",
+            "team": "T017AGS2KE0",
+            "name": "estherdaga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745340216.354489",
+        "parent_user_id": "U06E3PY5LAY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FNTAL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06E3PY5LAY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sais tu dans quel secteur est la boite ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

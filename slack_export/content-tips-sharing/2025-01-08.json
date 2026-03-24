@@ -1,0 +1,69 @@
+[
+    {
+        "user": "U02CBFN48CF",
+        "type": "message",
+        "ts": "1736337125.518059",
+        "edited": {
+            "user": "U02CBFN48CF",
+            "ts": "1736337189.000000"
+        },
+        "client_msg_id": "030ad518-37d3-48db-983d-f946311dacdd",
+        "text": "Hello :wave:\n\nQuelle est selon vous la meilleure formation diplômante en growth marketing *pour le B2B* en français en distanciel ou présentiel (à paris et\/ou bordeaux) ?\n\nMerci par avance pour vos conseils :pray:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2b617c4484e3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-17\/3122469005251_2b617c4484e3a8e2151c_72.jpg",
+            "first_name": "Morgane",
+            "real_name": "Morgane Mouly",
+            "display_name": "Morgane Mouly (United Heroes)",
+            "team": "T017AGS2KE0",
+            "name": "morgane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GW6B8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nQuelle est selon vous la meilleure formation diplômante en growth marketing "
+                            },
+                            {
+                                "type": "text",
+                                "text": "pour le B2B",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " en français en distanciel ou présentiel (à paris et\/ou bordeaux) ?\n\nMerci par avance pour vos conseils "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

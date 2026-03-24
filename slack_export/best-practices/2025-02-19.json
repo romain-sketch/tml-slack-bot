@@ -1,0 +1,111 @@
+[
+    {
+        "user": "U017CURDPB5",
+        "type": "message",
+        "ts": "1739973544.429839",
+        "edited": {
+            "user": "U017CURDPB5",
+            "ts": "1739973555.000000"
+        },
+        "client_msg_id": "9b85b201-5153-4aa6-ac4f-42c69d33caa1",
+        "text": "Hello, certains on fait des events avec le Wine Business Club (Alain Marty) ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "671ad569fbc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5982967598243_671ad569fbc40977de70_72.jpg",
+            "first_name": "David",
+            "real_name": "David Remaud",
+            "display_name": "David Remaud (iBanFirst)",
+            "team": "T017AGS2KE0",
+            "name": "david.remaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IXt3M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, certains on fait des events avec le Wine Business Club (Alain Marty) ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084LQF8023",
+        "type": "message",
+        "ts": "1739979426.579789",
+        "client_msg_id": "9353fa0a-560f-4d5e-a2a5-336fb50df29d",
+        "text": "J'ai testé un concept similaire à Londres <https:\/\/www.chiefwineofficer.com\/>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a70a92c39694",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-01-20\/8306570351351_a70a92c3969457259db9_72.jpg",
+            "first_name": "Cosmina",
+            "real_name": "Cosmina Trifan",
+            "display_name": "Cosmina Trifan",
+            "team": "T017AGS2KE0",
+            "name": "cosmi.trifan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.chiefwineofficer.com\/",
+                "thumb_url": "https:\/\/www.chiefwineofficer.com\/wp-content\/uploads\/2023\/02\/cwo-website-featured-images-homepage.jpg",
+                "thumb_width": 1200,
+                "thumb_height": 628,
+                "service_icon": "https:\/\/www.chiefwineofficer.com\/wp-content\/uploads\/2023\/01\/cropped-CWO-favicon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.chiefwineofficer.com\/",
+                "fallback": "Chief Wine Officer",
+                "text": "Entertaining business",
+                "title": "Chief Wine Officer",
+                "title_link": "https:\/\/www.chiefwineofficer.com\/",
+                "service_name": "chiefwineofficer.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "76Ekw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai testé un concept similaire à Londres "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.chiefwineofficer.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U017CURDPB5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

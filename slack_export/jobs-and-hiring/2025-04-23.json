@@ -1,0 +1,766 @@
+[
+    {
+        "user": "U07BLPPL3C1",
+        "type": "message",
+        "ts": "1745413882.842189",
+        "client_msg_id": "3ac23998-3d21-4d7b-9d02-11e3416dcab4",
+        "text": "Bonjour,\nJe suis à la recherche d’un créatif vidéo pour nous accompagner sur la création de vidéos de présentation d’entreprise et de produits.\nOn cherche quelqu’un qui ne fait pas \"juste du montage\", mais qui peut vraiment :\n• participer à la réflexion en amont (storyboard, idées créatives, format…), \n• et aller jusqu’à la production (montage, animation, etc.)\nObjectif : des vidéos impactantes, modernes, engageantes, pour présenter nos solutions de manière claire et attractive.\nSi vous connaissez quelqu’un (freelance) de créatif et pas trop cher, je suis preneuse\n Merci d’avance pour vos recos !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a188c365467d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-16\/7728349993798_a188c365467d3e63d25d_72.jpg",
+            "first_name": "Esther",
+            "real_name": "Esther Daga",
+            "display_name": "Esther Daga (Powell)",
+            "team": "T017AGS2KE0",
+            "name": "estherdaga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745413882.842189",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1745482663.087939",
+        "reply_users": [
+            "U04SM1RGPJB",
+            "U07BLPPL3C1",
+            "U063A8VPPG9",
+            "U02N2EVMFCG"
+        ],
+        "replies": [
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1745414130.794679"
+            },
+            {
+                "user": "U07BLPPL3C1",
+                "ts": "1745414778.724919"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1745419012.462899"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1745477894.922419"
+            },
+            {
+                "user": "U07BLPPL3C1",
+                "ts": "1745482663.087939"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dXcVo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour,\nJe suis à la recherche d’un créatif vidéo pour nous accompagner sur la création de vidéos de présentation d’entreprise et de produits.\nOn cherche quelqu’un qui ne fait pas \"juste du montage\", mais qui peut vraiment :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "participer à la réflexion en amont (storyboard, idées créatives, format…), "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "et aller jusqu’à la production (montage, animation, etc.)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Objectif : des vidéos impactantes, modernes, engageantes, pour présenter nos solutions de manière claire et attractive.\nSi vous connaissez quelqu’un (freelance) de créatif et pas trop cher, je suis preneuse\n Merci d’avance pour vos recos !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1745414130.794679",
+        "client_msg_id": "adec41c3-7a49-4560-a0f9-e58a79d9c8a0",
+        "text": "je recommande Maggle (Lucas) qui nous avait très bien accompagnés",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745413882.842189",
+        "parent_user_id": "U07BLPPL3C1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jGpjQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je recommande Maggle (Lucas) qui nous avait très bien accompagnés"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U07BLPPL3C1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U07BLPPL3C1",
+        "type": "message",
+        "ts": "1745414778.724919",
+        "client_msg_id": "c1eb4abd-5989-4ad2-99dd-aac4ff18e37a",
+        "text": "Merci Selma !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a188c365467d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-16\/7728349993798_a188c365467d3e63d25d_72.jpg",
+            "first_name": "Esther",
+            "real_name": "Esther Daga",
+            "display_name": "Esther Daga (Powell)",
+            "team": "T017AGS2KE0",
+            "name": "estherdaga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745413882.842189",
+        "parent_user_id": "U07BLPPL3C1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lmKgO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci Selma !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1745419012.462899",
+        "client_msg_id": "E5774A6A-6074-4DE1-9A10-7608D4AAC600",
+        "text": "Je recommande Etty - Albert Benoliel \nTu peux le contacter de ma part :) \nJ ai bossé avec lui chez Aircall, unlockm, et pour d autre ! \nIl a aussi bosser avec <@U016YKEUD8E> \nTrès créatif, j aime bien! ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745413882.842189",
+        "parent_user_id": "U07BLPPL3C1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RmW2x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je recommande Etty - Albert Benoliel \nTu peux le contacter de ma part :) "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nJ ai bossé avec lui chez Aircall, unlockm, et pour d autre ! "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nIl a aussi bosser avec "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U016YKEUD8E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nTrès créatif, j aime bien! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U07BLPPL3C1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "Hello les TML, voici le CV d’un Biz Dev expérimenté qui recherche un post sur Rennes ou remote. Si vous avez une opportunité ou si vous connaissez qqun qui recherche qqun :wink:",
+        "files": [
+            {
+                "id": "F08PAEL6G05",
+                "created": 1745420707,
+                "timestamp": 1745420707,
+                "name": "CV François-Xavier Blais (1).pdf",
+                "title": "CV François-Xavier Blais (1).pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U03P99RGMTN",
+                "user_team": "T017AGS2KE0",
+                "editable": false,
+                "size": 215948,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F08PAEL6G05\/cv_franc__ois-xavier_blais__1_.pdf?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F08PAEL6G05\/download\/cv_franc__ois-xavier_blais__1_.pdf?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08PAEL6G05-3cf5e93b69\/cv_franc__ois-xavier_blais__1__thumb_pdf.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_pdf_w": 910,
+                "thumb_pdf_h": 1287,
+                "permalink": "https:\/\/techmarketingleaders.slack.com\/files\/U017U6M2G00\/F08PAEL6G05\/cv_franc__ois-xavier_blais__1_.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F08PAEL6G05-5b8a2b3eca",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03P99RGMTN",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V\/AZm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello les TML, voici le CV d’un Biz Dev expérimenté qui recherche un post sur Rennes ou remote. Si vous avez une opportunité ou si vous connaissez qqun qui recherche qqun "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1745420802.062419",
+        "client_msg_id": "839d9bb2-d469-4bc4-8c51-bc21b429aee8"
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1745421500.554739",
+        "client_msg_id": "41884812-650f-492b-b111-7be732786ea2",
+        "text": "Hello ! Je cherche un Field\/Event Marketing Manager UK - idéalement basé à Londres. Si vous avez des profils !!! Merci",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745421500.554739",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1745473950.064339",
+        "reply_users": [
+            "U063A8VPPG9",
+            "U01A4GMRRR9"
+        ],
+        "replies": [
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1745425926.185629"
+            },
+            {
+                "user": "U01A4GMRRR9",
+                "ts": "1745473950.064339"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "46LqF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello ! Je cherche un Field\/Event Marketing Manager UK - idéalement basé à Londres. Si vous avez des profils !!! Merci"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1745425926.185629",
+        "client_msg_id": "017B48D9-FAAD-472D-A6E9-408F1E1D8A17",
+        "text": "J ai un top profil\n<https:\/\/www.linkedin.com\/in\/anya-slowenko\/|https:\/\/www.linkedin.com\/in\/anya-slowenko\/>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745421500.554739",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hhcj7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J ai un top profil\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/anya-slowenko\/",
+                                "text": "https:\/\/www.linkedin.com\/in\/anya-slowenko\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1745473950.064339",
+        "client_msg_id": "72FE0365-1A3A-4E46-A79F-FD832815BF7F",
+        "text": "Merci <@U063A8VPPG9> je la contact ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745421500.554739",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U9dvl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U063A8VPPG9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je la contact "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04TU0UA2R1",
+        "type": "message",
+        "ts": "1745474676.285459",
+        "client_msg_id": "ede9ae04-ecc3-4eae-8e76-c816c98ce3d3",
+        "text": "*Freelance \/ agence pour transformer un site \"moche\" en un site \"joli\"*\n\nHello les TML :wave:\n\nJe cherche quelqu'un pour refaire le site de <https:\/\/www.workandshare.com\/>, un groupe de 15\/20 espaces de coworking \/ bureaux partagés en Île de France :\n• *Objectif :* passer un cran au niveau du design, faire truc clean et efficace\n• *Contexte :* j'ai co-fondée Work &amp; Share il y a 8 ans en \/\/ de mon job, à l'époque j'ai buildé le site web moi même sur un wordpress mais je ne suis pas très calé sur ces sujets, depuis le site a un peu changé mais, même si il est à peu près fonctionnel, il reste globalement très à l'ancienne \/ moche --&gt; la boîte a bien grossie et on aimerait faire un gros coup de propre pour avoir un site dont on est fier\n• *Détails sur la mission :* on ne cherche pas à ré-inventer la roue (des acteurs comme <https:\/\/www.morning.fr\/> ont déjà bien poncé le truc), on est ouvert à changé de CMS si ça a du sens, notre seul enjeu technique c'est le SEO local de nos pages (\"coworking clichy\", \"bureaux nanterre\", etc.)\n• *Qui on cherche :* il n'y a pas d'équipe marketing et personne n'est vraiment calé sur les sujets web \/ design \/ wording donc on cherche quelqu'un qui va pouvoir avancer de façon très autonome (on va lui confier les clefs du camion, simplifier au max les process \/ points de validation et on ne veut pas avoir à coordonner plusieurs personnes) et qui pourra nous gérer le sujet de A à Z (design, contenus et wordings, intégration, setup du CMS, etc.)\n• *Budget :* j'ai en tête un ticket de 5-10K€ max\nAuriez vous des recos ? <@U0183AS3MB6> par exemple vous faites ce genre de choses ?\n\nMerci :pray:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2349ebc07255",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-15\/4939175993079_2349ebc07255c4ecc3fc_72.jpg",
+            "first_name": "Adrien",
+            "real_name": "Adrien Le Roy",
+            "display_name": "Adrien Le Roy (Indy)",
+            "team": "T017AGS2KE0",
+            "name": "adrien.le.roy2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745474676.285459",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1745482909.517229",
+        "reply_users": [
+            "U0183AS3MB6"
+        ],
+        "replies": [
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1745482909.517229"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.workandshare.com\/",
+                "service_icon": "https:\/\/www.workandshare.com\/wp-content\/uploads\/2022\/02\/cropped-favicon-300x300.png",
+                "id": 1,
+                "original_url": "https:\/\/www.workandshare.com\/",
+                "fallback": "Work &amp; Share: Work &amp; Share Coworking - La maison d'hôtes des entrepreneurs",
+                "text": "Work &amp; Share : espaces de coworking à Paris et en Île-de-France. Paris 12ème et 18ème, Clichy, Colombes, La Défense, Nanterre, Rueil-Malmaison, Saint-Cloud, Saint-Denis, Saint-Ouen, Suresnes.",
+                "title": "Work &amp; Share Coworking - La maison d'hôtes des entrepreneurs",
+                "title_link": "https:\/\/www.workandshare.com\/",
+                "service_name": "Work &amp; Share"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qFivE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Freelance \/ agence pour transformer un site \"moche\" en un site \"joli\"",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nHello les TML "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nJe cherche quelqu'un pour refaire le site de "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.workandshare.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", un groupe de 15\/20 espaces de coworking \/ bureaux partagés en Île de France :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Objectif :",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " passer un cran au niveau du design, faire truc clean et efficace"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Contexte :",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " j'ai co-fondée Work & Share il y a 8 ans en \/\/ de mon job, à l'époque j'ai buildé le site web moi même sur un wordpress mais je ne suis pas très calé sur ces sujets, depuis le site a un peu changé mais, même si il est à peu près fonctionnel, il reste globalement très à l'ancienne \/ moche --> la boîte a bien grossie et on aimerait faire un gros coup de propre pour avoir un site dont on est fier"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Détails sur la mission : ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "on ne cherche pas à ré-inventer la roue (des acteurs comme "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.morning.fr\/"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " ont déjà bien poncé le truc), on est ouvert à changé de CMS si ça a du sens, notre seul enjeu technique c'est le SEO local de nos pages (\"coworking clichy\", \"bureaux nanterre\", etc.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Qui on cherche : ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "il n'y a pas d'équipe marketing et personne n'est vraiment calé sur les sujets web \/ design \/ wording donc on cherche quelqu'un qui va pouvoir avancer de façon très autonome (on va lui confier les clefs du camion, simplifier au max les process \/ points de validation et on ne veut pas avoir à coordonner plusieurs personnes) et qui pourra nous gérer le sujet de A à Z (design, contenus et wordings, intégration, setup du CMS, etc.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Budget : ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "j'ai en tête un ticket de 5-10K€ max"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nAuriez vous des recos ? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0183AS3MB6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " par exemple vous faites ce genre de choses ?\n\nMerci "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U06TF9YAWEM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1745477894.922419",
+        "client_msg_id": "2b7c1302-d032-402b-80c7-b78ca86725fe",
+        "text": "Tu as la team de Kronik aussi qui est très bien pour ça, dis-moi si tu veux une intro <https:\/\/www.linkedin.com\/in\/mathieu-tonin-5558a926?originalSubdomain=fr>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745413882.842189",
+        "parent_user_id": "U07BLPPL3C1",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/mathieu-tonin-5558a926?originalSubdomain=fr",
+                "thumb_url": "https:\/\/static.licdn.com\/scds\/common\/u\/images\/email\/artdeco\/logos\/96\/linkedin-bug-color.png",
+                "thumb_width": 96,
+                "thumb_height": 96,
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/mathieu-tonin-5558a926?originalSubdomain=fr",
+                "fallback": "Mathieu Tonin - kronik | LinkedIn",
+                "text": "Depuis quelques années nous accompagnons des centaines d’entreprises dans la production… · Expérience : kronik · Formation : ISM-IAE · Lieu : Vannes · 500 relations ou plus sur LinkedIn. Consultez le profil de Mathieu Tonin sur LinkedIn, une communauté professionnelle d’un milliard de membres.",
+                "title": "Mathieu Tonin - kronik | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/mathieu-tonin-5558a926?originalSubdomain=fr",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aMcbn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tu as la team de Kronik aussi qui est très bien pour ça, dis-moi si tu veux une intro "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/mathieu-tonin-5558a926?originalSubdomain=fr"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U025AMSNGF8"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

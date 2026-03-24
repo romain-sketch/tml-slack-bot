@@ -1,0 +1,203 @@
+[
+    {
+        "user": "U065DFPCQMP",
+        "type": "message",
+        "ts": "1769255798.805629",
+        "client_msg_id": "60CF3B93-5137-493C-90BE-80E14A19053C",
+        "text": "",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50040e0261e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-15\/6198553206674_50040e0261e7ba62e840_72.jpg",
+            "first_name": "Gaelle",
+            "real_name": "Gaelle Le Goff",
+            "display_name": "Gaelle Le Goff",
+            "team": "T017AGS2KE0",
+            "name": "gaelle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769255798.805629",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1769416573.588409",
+        "reply_users": [
+            "U0A0QG03DLN",
+            "U065DFPCQMP"
+        ],
+        "replies": [
+            {
+                "user": "U0A0QG03DLN",
+                "ts": "1769415919.491629"
+            },
+            {
+                "user": "U065DFPCQMP",
+                "ts": "1769416573.588409"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "ts": "1769254325.753589",
+                "author_id": "U065DFPCQMP",
+                "channel_id": "C051WKLDD5Z",
+                "channel_team": "T017AGS2KE0",
+                "is_msg_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T017AGS2KE0",
+                        "channel": "C051WKLDD5Z",
+                        "ts": "1769254325.753589",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "CLIe5",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Hello une amie RPO m’a envoyé cette mission à relayer :"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "Recherche d’un.e Head of Marketing \/ CMO pour un B2B SaaS qui figure dans le Top Lean AI Native Companies Leaderboard pour structurer le scale.\n"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "Key metrics:"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "rich_text_list",
+                                            "elements": [
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "3M+ users worldwide, 0 to $7M ARR in 2.5 years."
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "⁠Small teams, high impact, full ownership"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "⁠Bootstrapped, profitable, aiming for a billion-dollar outcome"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "⁠Global team of 14 proving that small teams can ship big results "
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "style": "bullet",
+                                            "indent": 0,
+                                            "offset": 0,
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n"
+                                                },
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "handshake",
+                                                    "unicode": "1f91d"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "Contractor \/ freelance "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n"
+                                                },
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "round_pushpin",
+                                                    "unicode": "1f4cd"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "100% remote - work from anywhere policy.\nIdéalement FULL TIME\n\nCc "
+                                                },
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U09JE6QUZDZ"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                },
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U02N2EVMFCG"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/techmarketingleaders.slack.com\/archives\/C051WKLDD5Z\/p1769254325753589",
+                "is_share": true,
+                "fallback": "[January 24th, 2026 12:32 PM] gaelle: Hello une amie RPO m’a envoyé cette mission à relayer :\nRecherche d’un.e Head of Marketing \/ CMO pour un B2B SaaS qui figure dans le Top Lean AI Native Companies Leaderboard pour structurer le scale.\n\nKey metrics:\n• 3M+ users worldwide, 0 to $7M ARR in 2.5 years.\n• ⁠Small teams, high impact, full ownership\n• ⁠Bootstrapped, profitable, aiming for a billion-dollar outcome\n• ⁠Global team of 14 proving that small teams can ship big results \n:handshake:Contractor \/ freelance \n:round_pushpin:100% remote - work from anywhere policy.\nIdéalement FULL TIME\n\nCc <@U09JE6QUZDZ> <@U02N2EVMFCG>",
+                "text": "Hello une amie RPO m’a envoyé cette mission à relayer :\nRecherche d’un.e Head of Marketing \/ CMO pour un B2B SaaS qui figure dans le Top Lean AI Native Companies Leaderboard pour structurer le scale.\n\nKey metrics:\n• 3M+ users worldwide, 0 to $7M ARR in 2.5 years.\n• ⁠Small teams, high impact, full ownership\n• ⁠Bootstrapped, profitable, aiming for a billion-dollar outcome\n• ⁠Global team of 14 proving that small teams can ship big results \n:handshake:Contractor \/ freelance \n:round_pushpin:100% remote - work from anywhere policy.\nIdéalement FULL TIME\n\nCc <@U09JE6QUZDZ> <@U02N2EVMFCG>",
+                "author_name": "Gaelle Le Goff",
+                "author_link": "https:\/\/techmarketingleaders.slack.com\/team\/U065DFPCQMP",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2023-11-15\/6198553206674_50040e0261e7ba62e840_48.jpg",
+                "author_subname": "Gaelle Le Goff",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack Conversation"
+            }
+        ]
+    }
+]

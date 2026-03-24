@@ -1,0 +1,383 @@
+[
+    {
+        "user": "U092U6UDLMN",
+        "type": "message",
+        "ts": "1770367769.674479",
+        "edited": {
+            "user": "U092U6UDLMN",
+            "ts": "1770368000.000000"
+        },
+        "client_msg_id": "8e50bbf6-acdf-408b-8972-ea5b0733d289",
+        "text": "Hello all,\nConnaisez-vous des traiteurs sur Paris, pour une trentaine de convives ? Enveloppe 3 k€ (hors boissons) :fork_and_knife:\nOn a beaucoup fait <https:\/\/meetmymama.com\/|Meet My Mama> que je recommande pour découvrir les cuisines du monde, mais là on voudrait revenir à une cuisine française.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e910bc968404",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-19\/9072876473829_e910bc968404c2c0b5d1_72.png",
+            "first_name": "Bastien",
+            "real_name": "Bastien Meaux (DialOnce)",
+            "display_name": "Bastien Meaux",
+            "team": "T017AGS2KE0",
+            "name": "bmeaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770367769.674479",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1770384835.039709",
+        "reply_users": [
+            "U01CNU4Q2H2",
+            "U06GAFVRP9V",
+            "U02N2EVMFCG"
+        ],
+        "replies": [
+            {
+                "user": "U01CNU4Q2H2",
+                "ts": "1770368401.805999"
+            },
+            {
+                "user": "U06GAFVRP9V",
+                "ts": "1770370502.458349"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1770384835.039709"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/meetmymama.com\/",
+                "id": 1,
+                "original_url": "https:\/\/meetmymama.com\/",
+                "fallback": "Meet My Mama | Traiteur Engagé",
+                "text": "Meet My Mama révèle les talents culinaires des Mamas du monde entier. Traiteur engagé et responsable, tout est cuisiné avec amour par nos Mamas.",
+                "title": "Meet My Mama | Traiteur Engagé",
+                "title_link": "https:\/\/meetmymama.com\/",
+                "service_name": "meetmymama.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZcV+q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello all,\nConnaisez-vous des traiteurs sur Paris, pour une trentaine de convives ? Enveloppe 3 k€ (hors boissons) "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fork_and_knife",
+                                "unicode": "1f374"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nOn a beaucoup fait "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/meetmymama.com\/",
+                                "text": "Meet My Mama"
+                            },
+                            {
+                                "type": "text",
+                                "text": " que je recommande pour découvrir les cuisines du monde, mais là on voudrait revenir à une cuisine française."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Hello Bastien ! On a travaillé avec bandes de cheffes que je te recommande si tu veux rester dans une démarche \"engagée\" et qui je pense rentre dans ton budget. <https:\/\/bandedecheffes.org\/>\nJe te mets une plaquette des bouchées proposées l'année dernière car c'est pas non plus la cuisine française d'un bouillon :wink:",
+        "files": [
+            {
+                "id": "F0ADT0JDS9X",
+                "created": 1770368385,
+                "timestamp": 1770368385,
+                "name": "Offre Bande de Cheffes.pdf",
+                "title": "Offre Bande de Cheffes.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U01CNU4Q2H2",
+                "user_team": "T017AGS2KE0",
+                "editable": false,
+                "size": 502617,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F0ADT0JDS9X\/offre_bande_de_cheffes.pdf?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F0ADT0JDS9X\/download\/offre_bande_de_cheffes.pdf?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0ADT0JDS9X-277b96ff4f\/offre_bande_de_cheffes_thumb_pdf.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_pdf_w": 910,
+                "thumb_pdf_h": 1287,
+                "permalink": "https:\/\/techmarketingleaders.slack.com\/files\/U017U6M2G00\/F0ADT0JDS9X\/offre_bande_de_cheffes.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F0ADT0JDS9X-e22c1860d9",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U01CNU4Q2H2",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+0Q0u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Bastien ! On a travaillé avec bandes de cheffes que je te recommande si tu veux rester dans une démarche \"engagée\" et qui je pense rentre dans ton budget. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/bandedecheffes.org\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nJe te mets une plaquette des bouchées proposées l'année dernière car c'est pas non plus la cuisine française d'un bouillon "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1770368401.805999",
+        "client_msg_id": "61d9fbb9-6f05-4e12-89a4-21305a019d06",
+        "thread_ts": "1770367769.674479",
+        "parent_user_id": "U092U6UDLMN",
+        "attachments": [
+            {
+                "from_url": "https:\/\/bandedecheffes.org\/",
+                "service_icon": "https:\/\/bandedecheffes.org\/wp-content\/uploads\/2022\/10\/cropped-BANDEDECHEFFES2-e1665670875479-1-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/bandedecheffes.org\/",
+                "fallback": "Bande de Cheffes: Bande de Cheffes | Traiteur solidaire et écoresponsable",
+                "text": "Découvrez notre cuisine préparée 100% maison par des femmes réfugiées, avec des produits bio, locaux et de saison, en circuits courts.",
+                "title": "Bande de Cheffes | Traiteur solidaire et écoresponsable",
+                "title_link": "https:\/\/bandedecheffes.org\/",
+                "service_name": "Bande de Cheffes"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U092U6UDLMN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06GAFVRP9V",
+        "type": "message",
+        "ts": "1770370502.458349",
+        "client_msg_id": "D5F3F10D-C2D1-4181-81E2-5D4826B35FFF",
+        "text": "Hello Bastien, \nJe te conseille vivement le traiteur français engagé Loyal : <mailto:commande@loyalcafe.fr|commande@loyalcafe.fr> \nSuper adresse et prix raisonnables. En bas de chez Pennylane. Tu peux venir de ma part \n<https:\/\/www.loyalcafe.fr\/traiteur\/|https:\/\/www.loyalcafe.fr\/traiteur\/>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "23f608acd501",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-08\/9645247295495_23f608acd5017f2c6446_72.png",
+            "first_name": "Joséphine",
+            "real_name": "Joséphine Poupard Bouteiller",
+            "display_name": "Joséphine",
+            "team": "T017AGS2KE0",
+            "name": "josephine.poupard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770367769.674479",
+        "parent_user_id": "U092U6UDLMN",
+        "attachments": [
+            {
+                "image_url": "https:\/\/www.loyalcafe.fr\/wp-content\/themes\/cafeloyal\/img\/image_facebook.jpg",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 175413,
+                "from_url": "https:\/\/www.loyalcafe.fr\/traiteur\/",
+                "service_icon": "https:\/\/www.loyalcafe.fr\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.loyalcafe.fr\/traiteur\/",
+                "fallback": "Cafe Loyal: Café Loyal - Café cantine",
+                "text": "Café Loyal est un café cantine fraîchement installé dans le 9e arrondissement de Paris. Des produits bios, locaux et une cuisine qui change.",
+                "title": "Café Loyal - Café cantine",
+                "title_link": "https:\/\/www.loyalcafe.fr\/traiteur\/",
+                "service_name": "Cafe Loyal"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X9mac",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Bastien, \nJe te conseille vivement le traiteur français engagé Loyal : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:commande@loyalcafe.fr",
+                                "text": "commande@loyalcafe.fr"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nSuper adresse et prix raisonnables. En bas de chez Pennylane. Tu peux venir de ma part "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.loyalcafe.fr\/traiteur\/",
+                                "text": "https:\/\/www.loyalcafe.fr\/traiteur\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U092U6UDLMN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "Pour The Network Effect, <@U017H09S857> a fait appel à <https:\/\/www.traiteur-origin.com\/|Origin>, voici le devis",
+        "files": [
+            {
+                "id": "F0ADK8L42J0",
+                "created": 1770384812,
+                "timestamp": 1770384812,
+                "name": "FACTURE_220126 MME FLIEDEL .pdf",
+                "title": "FACTURE_220126 MME FLIEDEL .pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U02N2EVMFCG",
+                "user_team": "T017AGS2KE0",
+                "editable": false,
+                "size": 69534,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F0ADK8L42J0\/facture_220126_mme_fliedel_.pdf?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F0ADK8L42J0\/download\/facture_220126_mme_fliedel_.pdf?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0ADK8L42J0-269e6db93d\/facture_220126_mme_fliedel__thumb_pdf.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/techmarketingleaders.slack.com\/files\/U017U6M2G00\/F0ADK8L42J0\/facture_220126_mme_fliedel_.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F0ADK8L42J0-fcbf7673ce",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U02N2EVMFCG",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Yizh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour The Network Effect, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U017H09S857"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a fait appel à "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.traiteur-origin.com\/",
+                                "text": "Origin"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", voici le devis"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1770384835.039709",
+        "client_msg_id": "b16bdf1a-f766-4476-babf-c653bc9c0e28",
+        "thread_ts": "1770367769.674479",
+        "parent_user_id": "U092U6UDLMN",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.traiteur-origin.com\/",
+                "service_icon": "https:\/\/www.traiteur-origin.com\/gifs\/icons\/apple-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.traiteur-origin.com\/",
+                "fallback": "Traiteur haut de gamme Paris 9e, livraison plateau repas Paris",
+                "text": "Découvrez toute la finesse et les saveurs de repas d'exception, livrés au bureau. Votre traiteur vous propose des plats subtils alliant tradition et modernité",
+                "title": "Traiteur haut de gamme Paris 9e, livraison plateau repas Paris",
+                "title_link": "https:\/\/www.traiteur-origin.com\/",
+                "service_name": "traiteur-origin.com"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U092U6UDLMN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

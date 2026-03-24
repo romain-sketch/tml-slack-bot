@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U017CURDPB5",
+        "type": "message",
+        "ts": "1739190645.942019",
+        "client_msg_id": "4bc2f34d-31f8-4554-84aa-b52b9c050e93",
+        "text": "Merci Clotilde ! je regarde et te dis si besoin de plus d'info",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "671ad569fbc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5982967598243_671ad569fbc40977de70_72.jpg",
+            "first_name": "David",
+            "real_name": "David Remaud",
+            "display_name": "David Remaud (iBanFirst)",
+            "team": "T017AGS2KE0",
+            "name": "david.remaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738947766.432889",
+        "parent_user_id": "U017CURDPB5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AsNW1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci Clotilde ! je regarde et te dis si besoin de plus d'info"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

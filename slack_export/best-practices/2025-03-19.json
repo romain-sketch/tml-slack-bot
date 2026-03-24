@@ -1,0 +1,161 @@
+[
+    {
+        "user": "U06MHCCLQG3",
+        "type": "message",
+        "ts": "1742401737.149639",
+        "client_msg_id": "d53b97f7-c76d-4d6e-88b7-c8343aa53842",
+        "text": "Hello la communauté,\nOn voulait prendre Claude, mais je vois qu'ils proposent tous les outils en même temps ! Quelqu'un a testé ?\n&gt; <https:\/\/mammouth.ai\/>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c0d40ab69a35",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-02\/6731971842677_c0d40ab69a3508d4c595_72.png",
+            "first_name": "Arnaud",
+            "real_name": "Arnaud Delubac (Greenly)",
+            "display_name": "Arnaud Delubac",
+            "team": "T017AGS2KE0",
+            "name": "arnaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742401737.149639",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1742480059.305869",
+        "reply_users": [
+            "U0183AS3MB6",
+            "U05H3SJKYFQ",
+            "U07PEP71X4Y"
+        ],
+        "replies": [
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1742404435.728359"
+            },
+            {
+                "user": "U05H3SJKYFQ",
+                "ts": "1742458059.059979"
+            },
+            {
+                "user": "U07PEP71X4Y",
+                "ts": "1742467595.522599"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1742474966.380039"
+            },
+            {
+                "user": "U05H3SJKYFQ",
+                "ts": "1742478973.340969"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1742480059.305869"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "image_url": "https:\/\/mammouth.ai\/logo-light-mode.png",
+                "image_width": 576,
+                "image_height": 576,
+                "image_bytes": 45542,
+                "from_url": "https:\/\/mammouth.ai\/",
+                "service_icon": "https:\/\/mammouth.ai\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/mammouth.ai\/",
+                "fallback": "Mammouth AI: Stay at the top of AI",
+                "text": "The best GenAI models in one subscription. Access GPT, Claude, Gemini, Mistral, Llama, Midjourney, Dall-E, and stay up to date with AI.",
+                "title": "Stay at the top of AI",
+                "title_link": "https:\/\/mammouth.ai\/",
+                "service_name": "Mammouth AI"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C\/Q5p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello la communauté,\nOn voulait prendre Claude, mais je vois qu'ils proposent tous les outils en même temps ! Quelqu'un a testé ?\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/mammouth.ai\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1742404435.728359",
+        "client_msg_id": "6974c0cb-6783-4bd9-a5b8-161d68317fcd",
+        "text": "J’ai testé et j’ai kiffé :slightly_smiling_face:\nDe mon côté j’ai pris l’AI de <https:\/\/www.raycast.com\/core-features\/ai|Raycast> car ça inclut tout également (et bien plus !)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742401737.149639",
+        "parent_user_id": "U06MHCCLQG3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BzoSb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J’ai testé et j’ai kiffé "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDe mon côté j’ai pris l’AI de "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.raycast.com\/core-features\/ai",
+                                "text": "Raycast"
+                            },
+                            {
+                                "type": "text",
+                                "text": " car ça inclut tout également (et bien plus !)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "user": "U063Q1LA69W",
+        "type": "message",
+        "ts": "1761028195.752539",
+        "client_msg_id": "20c5bc85-d5a4-42e4-afd0-1f82e5fbd673",
+        "text": "Hello <@U06MHCCLQG3>\nTop profil avec qui j’ai bossé : <https:\/\/www.linkedin.com\/in\/eliott-selles-32241897\/?originalSubdomain=fr>\n\nBon techniquement et avec un TJM ultra compétitif. A contacter par email, il ouvre pas LKD and co : <mailto:eliott.selles@gmail.com|eliott.selles@gmail.com>\n\nPas sur de sa dispo en ce moment en revanche",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "92164dc1a505",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-29\/6530542210935_92164dc1a50580eb3d38_72.jpg",
+            "first_name": "Jolhane",
+            "real_name": "Jolhane Leite",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "jolhaneleite",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760688761.356399",
+        "parent_user_id": "U06MHCCLQG3",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/eliott-selles-32241897\/?originalSubdomain=fr",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "thumb_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/D4E03AQHxZtOvXbxYKA\/profile-displayphoto-shrink_200_200\/profile-displayphoto-shrink_200_200\/0\/1663966586471?e=2147483647&v=beta&t=BkbjrxvEsrLj0jr8udkaWaS94Mzlqtd5uW56SpD1Jx4",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/eliott-selles-32241897\/?originalSubdomain=fr",
+                "fallback": "Eliott Selles - Motion designer 2D \/3D - Freelance | LinkedIn",
+                "text": "Motion designer 2D \/3D - Freelance · Expérience : 17MARS · Formation : L&amp;#39;École Multimédia · Lieu : Asnières-sur-Seine · 500 relations ou plus sur LinkedIn. Consultez le profil de Eliott Selles sur LinkedIn, une communauté professionnelle d’un milliard de membres.",
+                "title": "Eliott Selles - Motion designer 2D \/3D - Freelance | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/eliott-selles-32241897\/?originalSubdomain=fr",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q9k3c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06MHCCLQG3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nTop profil avec qui j’ai bossé : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/eliott-selles-32241897\/?originalSubdomain=fr"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nBon techniquement et avec un TJM ultra compétitif. A contacter par email, il ouvre pas LKD and co : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:eliott.selles@gmail.com",
+                                "text": "eliott.selles@gmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nPas sur de sa dispo en ce moment en revanche"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

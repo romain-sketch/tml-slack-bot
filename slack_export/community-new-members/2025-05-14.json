@@ -1,0 +1,67 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U08SA22HS0J",
+        "text": "<@U08SA22HS0J> has joined the channel",
+        "type": "message",
+        "ts": "1747208462.004559",
+        "team": "T017AGS2KE0"
+    },
+    {
+        "user": "U08SA22HS0J",
+        "type": "message",
+        "ts": "1747210662.709099",
+        "client_msg_id": "f72db2c3-a0cd-45c9-bf8b-ed1c73452e82",
+        "text": "Bonjour tout le monde, merci <@U06UK9NGTB4> pour le sponsoring et merci à tous pour votre soutien ! Je vous rejoins avec un très grand plaisir.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "266d9356f19e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-07\/10243863201635_266d9356f19e63bc9267_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu BONENFANT (SecLab)",
+            "display_name": "Matthieu BONENFANT (SecLab)",
+            "team": "T017AGS2KE0",
+            "name": "matthieu.bonenfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1746172104.959889",
+        "parent_user_id": "U06UK9NGTB4",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "erULG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour tout le monde, merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06UK9NGTB4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour le sponsoring et merci à tous pour votre soutien ! Je vous rejoins avec un très grand plaisir."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U017H09S857"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

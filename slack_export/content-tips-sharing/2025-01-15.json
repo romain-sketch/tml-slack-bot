@@ -1,0 +1,182 @@
+[
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1736954415.095399",
+        "client_msg_id": "fae85673-a007-49bf-a13a-f8ff2c9e0dc4",
+        "text": "Hello tout le monde !\nOn organise un petit déjeuner (~50 participants) en mars pour lequel on a déjà la salle (fournie par un invest). Je cherche une agence ou idéalement un.e freelance qui pourrait s'occuper de :\n• préparer la salle le jour J\n• gérer le \"catering\" (c'est un petit dej donc ramener\n• potentiellement gérer l'accueil des participants\nCa existe ? Si oui, vous avez des contacts ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736954415.095399",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1737101849.611639",
+        "reply_users": [
+            "U084KTR7YKX",
+            "U0859A8P14K",
+            "U016SBPG7K9"
+        ],
+        "replies": [
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1736955951.150139"
+            },
+            {
+                "user": "U0859A8P14K",
+                "ts": "1737054147.001619"
+            },
+            {
+                "user": "U0859A8P14K",
+                "ts": "1737054537.058289"
+            },
+            {
+                "user": "U016SBPG7K9",
+                "ts": "1737100884.157439"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1737101849.611639"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "su0uL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello tout le monde !\nOn organise un petit déjeuner (~50 participants) en mars pour lequel on a déjà la salle (fournie par un invest). Je cherche une agence ou idéalement un.e freelance qui pourrait s'occuper de :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "préparer la salle le jour J"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "gérer le \"catering\" (c'est un petit dej donc ramener"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "potentiellement gérer l'accueil des participants"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nCa existe ? Si oui, vous avez des contacts ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1736955951.150139",
+        "client_msg_id": "d53cab42-bd32-4131-998b-2361cadcb15d",
+        "text": "tu peux prendre aussi qqun au BDE d'une école vs un free, ils doivent savoir faire :slightly_smiling_face:.\n\n(je ne connais pas d'agence et de free là-dessus mais ça doit se trouver indeed)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736954415.095399",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M+GlB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tu peux prendre aussi qqun au BDE d'une école vs un free, ils doivent savoir faire "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n\n(je ne connais pas d'agence et de free là-dessus mais ça doit se trouver indeed)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U04A6JMRWCS"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U016SBPG7K9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

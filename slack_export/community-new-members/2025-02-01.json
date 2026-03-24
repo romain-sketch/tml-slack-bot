@@ -1,0 +1,54 @@
+[
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1738402822.831229",
+        "client_msg_id": "d85cba02-6905-41c1-8125-67d0f7c4190c",
+        "text": "<@U06MHCCLQG3> cool pour toi ? Vous avez travaillé ensemble sur le livre blanc ? <@U02MZTE8GCF> pas de no go ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738228210.810289",
+        "parent_user_id": "U02N2EVMFCG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NTkLG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06MHCCLQG3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " cool pour toi ? Vous avez travaillé ensemble sur le livre blanc ? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02MZTE8GCF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pas de no go ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

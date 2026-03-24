@@ -1,0 +1,334 @@
+[
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1770278828.643639",
+        "client_msg_id": "2268b791-d38b-4bb1-8b96-8bd73fc144f9",
+        "text": "Je pensais qu'il y avait vraiment un @ bojan :astonished:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770209387.640979",
+        "parent_user_id": "U065DFPCQMP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jZ2V3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je pensais qu'il y avait vraiment un @ bojan "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "astonished",
+                                "unicode": "1f632"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "smiling_face_with_tear",
+                "users": [
+                    "U065DFPCQMP",
+                    "U06DYTRDLUD"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1770279770.336039",
+        "client_msg_id": "6e6e2ed0-81a9-4339-9953-8a4c07d3314b",
+        "text": "Les 2 m’intéressent de fou mais le storytelling du :leopard: est trop fort on veut en savoir plus !!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770219160.486319",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IeBRC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Les 2 m’intéressent de fou mais le storytelling du "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "leopard",
+                                "unicode": "1f406"
+                            },
+                            {
+                                "type": "text",
+                                "text": " est trop fort on veut en savoir plus !!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1770311211.657619",
+        "client_msg_id": "137BC616-7E41-4F5F-B066-88495AE9CA4D",
+        "text": "Je veux bien une invit stp <@U017H09S857> :pray: \nJ'essaye de déconnecter de Slack pendant mon arrêt (ça marche vachement apparemment :sweat_smile:) donc je n’avais pas répondu ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770219160.486319",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vx8sw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je veux bien une invit stp "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U017H09S857"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nJ'essaye de déconnecter de Slack pendant mon arrêt (ça marche vachement apparemment "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") donc je n’avais pas répondu "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U017H09S857"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06MHCCLQG3",
+        "type": "message",
+        "ts": "1770362548.417959",
+        "client_msg_id": "1df3eaab-f31b-47d9-a35b-8396b8731606",
+        "text": "• Intérêt business d'abord, parler aux prospects, aux clients toujours, tout le temps (pour sortir de la bulle intuition) et le narratif (l'histoire qu'on raconte) =&gt; <https:\/\/www.forbes.com\/sites\/lilianraji\/2026\/01\/06\/2026-is-the-year-storytelling-becomes-a-cmos-most-profitable-skill\/>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c0d40ab69a35",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-02\/6731971842677_c0d40ab69a3508d4c595_72.png",
+            "first_name": "Arnaud",
+            "real_name": "Arnaud Delubac (Greenly)",
+            "display_name": "Arnaud Delubac",
+            "team": "T017AGS2KE0",
+            "name": "arnaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769860828.946479",
+        "parent_user_id": "U017H09S857",
+        "attachments": [
+            {
+                "image_url": "https:\/\/imageio.forbes.com\/specials-images\/imageserve\/695d9dd5405cc8f8bfec3b70\/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "image_width": 1516,
+                "image_height": 900,
+                "image_bytes": 210038,
+                "from_url": "https:\/\/www.forbes.com\/sites\/lilianraji\/2026\/01\/06\/2026-is-the-year-storytelling-becomes-a-cmos-most-profitable-skill\/",
+                "service_icon": "https:\/\/i.forbesimg.com\/57X57-F.png",
+                "id": 1,
+                "original_url": "https:\/\/www.forbes.com\/sites\/lilianraji\/2026\/01\/06\/2026-is-the-year-storytelling-becomes-a-cmos-most-profitable-skill\/",
+                "fallback": "Forbes: 2026 Is The Year Storytelling Becomes A CMO’s Most Profitable Skill",
+                "text": "According to a recent Wall Street Journal report, companies are now hiring storytellers with the same decisiveness reserved for hiring media buyers and PR chiefs.",
+                "title": "2026 Is The Year Storytelling Becomes A CMO’s Most Profitable Skill",
+                "title_link": "https:\/\/www.forbes.com\/sites\/lilianraji\/2026\/01\/06\/2026-is-the-year-storytelling-becomes-a-cmos-most-profitable-skill\/",
+                "service_name": "Forbes"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "untgq",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Intérêt business d'abord, parler aux prospects, aux clients toujours, tout le temps (pour sortir de la bulle intuition) et le narratif (l'histoire qu'on raconte) => "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.forbes.com\/sites\/lilianraji\/2026\/01\/06\/2026-is-the-year-storytelling-becomes-a-cmos-most-profitable-skill\/"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06MHCCLQG3",
+        "type": "message",
+        "ts": "1770362838.901419",
+        "client_msg_id": "57de1984-3ea3-4650-92c2-cacc1fb68534",
+        "text": "et d'accord avec <@U0951RDNKU6> =&gt; développer l'esprit critique :cry:\n&gt; *Bad input* = *bad output*: encore trop de \"c'est ChatGpt qui m'a répondu ça\", sous-entendu de \"c'est forcément okay\"",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c0d40ab69a35",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-02\/6731971842677_c0d40ab69a3508d4c595_72.png",
+            "first_name": "Arnaud",
+            "real_name": "Arnaud Delubac (Greenly)",
+            "display_name": "Arnaud Delubac",
+            "team": "T017AGS2KE0",
+            "name": "arnaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769860828.946479",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+WS88",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "et d'accord avec "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0951RDNKU6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " => développer l'esprit critique "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cry",
+                                "unicode": "1f622"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bad input",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " = "
+                            },
+                            {
+                                "type": "text",
+                                "text": "bad output",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ": encore trop de \"c'est ChatGpt qui m'a répondu ça\", sous-entendu de \"c'est forcément okay\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

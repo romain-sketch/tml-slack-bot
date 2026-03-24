@@ -1,0 +1,987 @@
+[
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1738224761.008439",
+        "client_msg_id": "21686f1f-9275-4963-b5e8-45a91b4a5762",
+        "text": "*Partner Marketing*\nHello, j'ai une personne assez Junior qui va prendre dans son scope le Partner Marketing pour EMEA. Qui a une expérience (ou des personnes dans son équipe) sur le sujet pour des call de 20' (le call peut être en Français, Italien ou Espagnol) ? L'idée est vraiment de lui donner de la visibilité sur le champs des possibles dans différentes boites ! Merci !!!!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738224761.008439",
+        "reply_count": 12,
+        "reply_users_count": 4,
+        "latest_reply": "1738617167.967479",
+        "reply_users": [
+            "U06CZESF7QF",
+            "U01A4GMRRR9",
+            "U06DYTRDLUD",
+            "U0859A8P14K"
+        ],
+        "replies": [
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1738225891.447379"
+            },
+            {
+                "user": "U01A4GMRRR9",
+                "ts": "1738226300.917959"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1738226396.317709"
+            },
+            {
+                "user": "U01A4GMRRR9",
+                "ts": "1738243563.424579"
+            },
+            {
+                "user": "U06DYTRDLUD",
+                "ts": "1738250703.409849"
+            },
+            {
+                "user": "U01A4GMRRR9",
+                "ts": "1738253666.941089"
+            },
+            {
+                "user": "U0859A8P14K",
+                "ts": "1738258925.235219"
+            },
+            {
+                "user": "U0859A8P14K",
+                "ts": "1738259020.190269"
+            },
+            {
+                "user": "U01A4GMRRR9",
+                "ts": "1738310277.809179"
+            },
+            {
+                "user": "U01A4GMRRR9",
+                "ts": "1738310307.092539"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1738341744.212199"
+            },
+            {
+                "user": "U0859A8P14K",
+                "ts": "1738617167.967479"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j+5uO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Partner Marketing",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nHello, j'ai une personne assez Junior qui va prendre dans son scope le Partner Marketing pour EMEA. Qui a une expérience (ou des personnes dans son équipe) sur le sujet pour des call de 20' (le call peut être en Français, Italien ou Espagnol) ? L'idée est vraiment de lui donner de la visibilité sur le champs des possibles dans différentes boites ! Merci !!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U06DYTRDLUD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1738225891.447379",
+        "client_msg_id": "a59e7481-a23d-463a-aa6c-46c9eefaaedb",
+        "text": "Ca sera quel type de partenariat ?\n\nJ’ai 2 personnes côté Partenariat Marketing :\n• 1 personne en charge des Parteneriat Tech (pour nous c’est les CMS, les Marketing tools, ...)\n• 1 personne en charge des Partenariat Agence\/Freelance Web",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738224761.008439",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6VWxi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ca sera quel type de partenariat ?\n\nJ’ai 2 personnes côté Partenariat Marketing :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "1 personne en charge des Parteneriat Tech (pour nous c’est les CMS, les Marketing tools, ...)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "1 personne en charge des Partenariat Agence\/Freelance Web"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1738226300.917959",
+        "client_msg_id": "dd4b1f10-846a-4de2-99f6-e1e6124b883f",
+        "text": "<@U06CZESF7QF> et bien les 2 justement : tech et strat\/business. Peut être plus la partie Tech chez toi ! Merci !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738224761.008439",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C\/4OP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06CZESF7QF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et bien les 2 justement : tech et strat\/business. Peut être plus la partie Tech chez toi ! Merci !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1738226396.317709",
+        "client_msg_id": "f0884654-33da-4f66-ab8b-6bb8e87ae882",
+        "text": "Ok, je peux le mettre en relation avec <https:\/\/www.linkedin.com\/in\/thomas-fanchin\/|Thomas> chez nous alors si tu penses que ca pourra lui être utile.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738224761.008439",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e6093",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok, je peux le mettre en relation avec "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/thomas-fanchin\/",
+                                "text": "Thomas"
+                            },
+                            {
+                                "type": "text",
+                                "text": " chez nous alors si tu penses que ca pourra lui être utile."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1738243563.424579",
+        "client_msg_id": "a1e48041-f72a-43c0-ad70-b857c0ef67dd",
+        "text": "Top merci",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738224761.008439",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l7xAb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Top merci"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017CURDPB5",
+        "type": "message",
+        "ts": "1738248653.040539",
+        "client_msg_id": "1d792426-2701-46e0-ad0e-7e96adebd9c4",
+        "text": "Hello, on utilise Sabi de chez Informa chez iBanFirst mais plus pour du sourcing et c'est payant. Mais ils ont je pense la data",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "671ad569fbc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5982967598243_671ad569fbc40977de70_72.jpg",
+            "first_name": "David",
+            "real_name": "David Remaud",
+            "display_name": "David Remaud (iBanFirst)",
+            "team": "T017AGS2KE0",
+            "name": "david.remaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738075828.158169",
+        "parent_user_id": "U017RAZCAGZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E0BQ0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, on utilise Sabi de chez Informa chez iBanFirst mais plus pour du sourcing et c'est payant. Mais ils ont je pense la data"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U017RAZCAGZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06DYTRDLUD",
+        "type": "message",
+        "ts": "1738250703.409849",
+        "edited": {
+            "user": "U06DYTRDLUD",
+            "ts": "1738250709.000000"
+        },
+        "client_msg_id": "eb3043dc-db8e-465e-8d9b-5a0faf15f950",
+        "text": "Salut Geoffrey, je peux aussi te mettre en relation avec Mhaza chez nous qui a cette fonction :wink:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901f49789864",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-17\/6483135134229_901f4978986494a521e4_72.jpg",
+            "first_name": "Flora",
+            "real_name": "Flora Wolfer",
+            "display_name": "Flora Wolfer (Payplug)",
+            "team": "T017AGS2KE0",
+            "name": "fwolfer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738224761.008439",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dXY4d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salut Geoffrey, je peux aussi te mettre en relation avec Mhaza chez nous qui a cette fonction "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1738252510.527239",
+        "edited": {
+            "user": "U084KTR7YKX",
+            "ts": "1738252521.000000"
+        },
+        "client_msg_id": "fef29eda-ec4d-4378-8467-32a789369635",
+        "text": "[Freelance SEA \/ Google Ads]\nPreneuse de vos contacts et recos:bulb:pour des free (ou agences) en SEA, ayant déjà fait face à des requêtes et structures de compte liées à la localisation du type blablacar, la fourchette, bienici, etc... ! merci :pray:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738252510.527239",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1738252953.910099",
+        "reply_users": [
+            "U0183AS3MB6"
+        ],
+        "replies": [
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1738252953.910099"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XnbsG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[Freelance SEA \/ Google Ads]\nPreneuse de vos contacts et recos"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bulb",
+                                "unicode": "1f4a1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "pour des free (ou agences) en SEA, ayant déjà fait face à des requêtes et structures de compte liées à la localisation du type blablacar, la fourchette, bienici, etc... ! merci "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03P99RGMTN",
+        "type": "message",
+        "ts": "1738252903.722949",
+        "client_msg_id": "3ad37383-ec90-47a1-98a7-c7400b47e2da",
+        "text": "Hello ! Je cherche à tracker mes mentions sur Linkedin mais en pas galère et pas cher. vous avez des option d’outil de social listening (et point bonus si vous avez un outil qui peut me faire le recap de 2024!)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2f8b530bfffa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-28\/7656384027105_2f8b530bfffa39d455d3_72.png",
+            "first_name": "Julie",
+            "real_name": "Julie Asselin (365Talents)",
+            "display_name": "Julie Asselin (365Talents)",
+            "team": "T017AGS2KE0",
+            "name": "julie.asselin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738252903.722949",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1738576352.273059",
+        "reply_users": [
+            "U04SM1RGPJB",
+            "U03P99RGMTN"
+        ],
+        "replies": [
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1738256795.206749"
+            },
+            {
+                "user": "U03P99RGMTN",
+                "ts": "1738257452.074479"
+            },
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1738257479.677079"
+            },
+            {
+                "user": "U03P99RGMTN",
+                "ts": "1738575220.214849"
+            },
+            {
+                "user": "U03P99RGMTN",
+                "ts": "1738575276.803439"
+            },
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1738576352.273059"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "svntU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello ! Je cherche à tracker mes mentions sur Linkedin mais en pas galère et pas cher. vous avez des option d’outil de social listening (et point bonus si vous avez un outil qui peut me faire le recap de 2024!)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1738252953.910099",
+        "client_msg_id": "ced55174-5c26-45b1-bc5a-a75aaaa4550f",
+        "text": ":wave:\nOn a même dev une techno de localisation !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738252510.527239",
+        "parent_user_id": "U084KTR7YKX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aclG1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nOn a même dev une techno de localisation !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U084KTR7YKX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1738253666.941089",
+        "client_msg_id": "4983c0f7-b231-4579-a210-9fbd2175455f",
+        "text": "<@U06DYTRDLUD> Top merci. <mailto:geoffrey.vion@contentsquare.com|geoffrey.vion@contentsquare.com>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738224761.008439",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sfI\/C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06DYTRDLUD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Top merci. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:geoffrey.vion@contentsquare.com",
+                                "text": "geoffrey.vion@contentsquare.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1738256795.206749",
+        "client_msg_id": "6c57ad53-0c1a-4dec-9345-f630730178a0",
+        "text": "Ca se fait de te pousser ma future boîte que je rejoins la semaine pro ? Agorapulse le propose :)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738252903.722949",
+        "parent_user_id": "U03P99RGMTN",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eoJol",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ca se fait de te pousser ma future boîte que je rejoins la semaine pro ? Agorapulse le propose :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03P99RGMTN",
+        "type": "message",
+        "ts": "1738257452.074479",
+        "client_msg_id": "F27FBFF8-B2BE-4F37-869A-DB0686ED0D2D",
+        "text": "Aaaaahhhh mais trop bien ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2f8b530bfffa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-28\/7656384027105_2f8b530bfffa39d455d3_72.png",
+            "first_name": "Julie",
+            "real_name": "Julie Asselin (365Talents)",
+            "display_name": "Julie Asselin (365Talents)",
+            "team": "T017AGS2KE0",
+            "name": "julie.asselin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738252903.722949",
+        "parent_user_id": "U03P99RGMTN",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P21kz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Aaaaahhhh mais trop bien "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1738257479.677079",
+        "client_msg_id": "8b521d62-23c5-46bf-9970-6fcc23dc119f",
+        "text": "Je peux te faire une intro ? Quel est ton mail déjà ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738252903.722949",
+        "parent_user_id": "U03P99RGMTN",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eFZmo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je peux te faire une intro ? Quel est ton mail déjà ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0859A8P14K",
+        "type": "message",
+        "ts": "1738258925.235219",
+        "client_msg_id": "563FD183-C2CE-4636-AEC5-8B386C89ECB1",
+        "text": "Hello ! Avec plaisir j’ai fait ça chez SAP pour France \/ Europe du Sud qqs années :)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "de9373c86530",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8178910826725_de9373c86530dc48c9e8_72.png",
+            "first_name": "Alexandra",
+            "real_name": "Alexandra Lougovoy",
+            "display_name": "Alexandra Lougovoy (Eudonet)",
+            "team": "T017AGS2KE0",
+            "name": "a.lougovoy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738224761.008439",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hRUe9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello ! Avec plaisir "
+                            },
+                            {
+                                "type": "text",
+                                "text": "j’ai"
+                            },
+                            {
+                                "type": "text",
+                                "text": " fait ça chez SAP pour France \/ Europe du Sud qqs années :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0859A8P14K",
+        "type": "message",
+        "ts": "1738259020.190269",
+        "client_msg_id": "BB7B4216-80C0-412E-A313-9E33798BB989",
+        "text": "Elle peut m’appeler demain <tel:0670492834|0670492834>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "de9373c86530",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8178910826725_de9373c86530dc48c9e8_72.png",
+            "first_name": "Alexandra",
+            "real_name": "Alexandra Lougovoy",
+            "display_name": "Alexandra Lougovoy (Eudonet)",
+            "team": "T017AGS2KE0",
+            "name": "a.lougovoy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738224761.008439",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bjbUl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Elle peut "
+                            },
+                            {
+                                "type": "text",
+                                "text": "m’appeler"
+                            },
+                            {
+                                "type": "text",
+                                "text": " demain "
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:0670492834",
+                                "text": "0670492834"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1738310277.809179",
+        "client_msg_id": "8e1437d2-41b6-4bad-a572-6f04d0dc93bd",
+        "text": "<@U0859A8P14K> Parfait. Merci !!!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738224761.008439",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9g7h\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0859A8P14K"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Parfait. Merci !!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1738310307.092539",
+        "client_msg_id": "09dc4c52-d1c9-4b79-a690-0490508ca1ca",
+        "text": "<@U06DYTRDLUD> <@U06CZESF7QF> j'attends vos intro ou vous pouvez me donner leur mail ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738224761.008439",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "As+32",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06DYTRDLUD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06CZESF7QF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " j'attends vos intro ou vous pouvez me donner leur mail ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_leave",
+        "user": "U01A4GMRRR9",
+        "text": "<@U01A4GMRRR9> has left the channel",
+        "type": "message",
+        "ts": "1738310334.036289"
+    }
+]

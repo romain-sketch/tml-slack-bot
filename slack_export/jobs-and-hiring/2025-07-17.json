@@ -1,0 +1,79 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U0951RDNKU6",
+        "text": "<@U0951RDNKU6> has joined the channel",
+        "type": "message",
+        "ts": "1752744157.134429"
+    },
+    {
+        "user": "U067GNGDATD",
+        "type": "message",
+        "ts": "1752753445.592439",
+        "client_msg_id": "7189A3E8-8C14-4D7B-BE44-E72B33824C67",
+        "text": "Laurent David est aussi une star pour le pricing:\n<https:\/\/www.linkedin.com\/in\/laurentdavidhostyn?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=ios_app|https:\/\/www.linkedin.com\/in\/laurentdavidhostyn?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=ios_app>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "gd73dcdb62f7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d73dcdb62f793ad670516a42032e3fa5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Diard",
+            "display_name": "Old Account \/ Do not use",
+            "team": "T017AGS2KE0",
+            "name": "adiard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1752245919.663209",
+        "parent_user_id": "U04L35Y9D08",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/laurentdavidhostyn?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+                "thumb_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/D5603AQGq053ph05ZbA\/profile-displayphoto-shrink_200_200\/B56ZeB6bo9HEAY-\/0\/1750231268635?e=2147483647&v=beta&t=akOHdZC9MV-DbBbSkiVfv4egntWvpMT_4XEcPtMmPO4",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/laurentdavidhostyn?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=ios_app",
+                "fallback": "Laurent-David Hostyn - Givemefive | LinkedIn",
+                "text": "I&amp;#39;ve been in the pricing game for over a decade - thus, packaging, pricing and… · Experience: Givemefive · Education: Ecole polytechnique de Bruxelles · Location: Brussels Metropolitan Area · 500+ connections on LinkedIn. View Laurent-David Hostyn’s profile on LinkedIn, a professional community of 1 billion members.",
+                "title": "Laurent-David Hostyn - Givemefive | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/laurentdavidhostyn?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+                "service_name": "be.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KjkRA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Laurent David est aussi une star pour le pricing:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/laurentdavidhostyn?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+                                "text": "https:\/\/www.linkedin.com\/in\/laurentdavidhostyn?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04L35Y9D08"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

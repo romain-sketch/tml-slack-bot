@@ -1,0 +1,59 @@
+[
+    {
+        "user": "U01T6U402V8",
+        "type": "message",
+        "ts": "1767205659.708589",
+        "client_msg_id": "41510771-3cce-4ec9-94a1-dbbb5cb318a9",
+        "text": "deja user plusieurs fois et Bravo pour la campagne sur Air France <@U06C95MP43Z> genius!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "1a396483c2d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-13\/1958483219154_1a396483c2d9cd7cccd3_72.jpg",
+            "first_name": "Simone",
+            "real_name": "Simone Sfeir (FrenchFounders)",
+            "display_name": "Simone Sfeir",
+            "team": "T017AGS2KE0",
+            "name": "simone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1765878511.890099",
+        "parent_user_id": "U06C95MP43Z",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "abNhi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "deja user plusieurs fois et Bravo pour la campagne sur Air France "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06C95MP43Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " genius!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U06C95MP43Z"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

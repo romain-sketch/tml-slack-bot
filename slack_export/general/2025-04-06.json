@@ -1,0 +1,55 @@
+[
+    {
+        "user": "U03QPMQA31V",
+        "type": "message",
+        "ts": "1743970198.264279",
+        "client_msg_id": "07D01EA1-086A-403A-8F92-C2235192D011",
+        "text": "Génial! J’ai fait ce travail avec Insign (pr OpenClassrooms) et HYFH (pour Fixter).  Ravi de donner des contacts. ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "920d362f50c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-26\/3858025441956_920d362f50c400fcafe0_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu Pouget-Abadie",
+            "display_name": "Matthieu PA (Orisha)",
+            "team": "T017AGS2KE0",
+            "name": "mpougetabadie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743760831.836679",
+        "parent_user_id": "U06DYTRDLUD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4tByX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Génial! J’ai fait ce travail avec Insign (pr OpenClassrooms) et HYFH (pour Fixter). "
+                            },
+                            {
+                                "type": "text",
+                                "text": " Ravi de donner des contacts. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06DYTRDLUD"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

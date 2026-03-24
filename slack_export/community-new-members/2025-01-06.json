@@ -1,0 +1,126 @@
+[
+    {
+        "user": "U0177A5V42F",
+        "type": "message",
+        "ts": "1736158006.109739",
+        "client_msg_id": "398bfa4a-a1b2-4e1f-9cd0-e1840984a0d9",
+        "text": "Bienvenue <@U086LFGGVUG>, au plaisir de te voir à la soirée :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ebca9b04129",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-17\/1245815650949_7ebca9b041296679a81d_72.jpg",
+            "first_name": "Guillaume",
+            "real_name": "Guillaume Laguette",
+            "display_name": "Guillaume Laguette (echOpen)",
+            "team": "T017AGS2KE0",
+            "name": "laguette.guillaume",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1735897742.337439",
+        "parent_user_id": "U086LFGGVUG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WeuPp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bienvenue "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U086LFGGVUG"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", au plaisir de te voir à la soirée "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U086LFGGVUG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U032T5N7UTY",
+        "type": "message",
+        "ts": "1736232139.936959",
+        "client_msg_id": "340d0902-a6f8-4df8-abe0-032ecf7c55af",
+        "text": "Welcome <@U086LFGGVUG> ! :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "026d818af51e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-14\/3105470112116_026d818af51e6af78591_72.png",
+            "first_name": "Maxime",
+            "real_name": "Maxime Baumard",
+            "display_name": "Maxime Baumard (Pennylane)",
+            "team": "T017AGS2KE0",
+            "name": "maxime.baumard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1735897742.337439",
+        "parent_user_id": "U086LFGGVUG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PUuNx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U086LFGGVUG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U086LFGGVUG"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

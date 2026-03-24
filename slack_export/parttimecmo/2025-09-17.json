@@ -1,0 +1,110 @@
+[
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1758095896.117009",
+        "client_msg_id": "6f78739d-b776-46a2-8cd5-cf23421ae685",
+        "text": "Slt Célia tu peux m'écrire en perso.\npour le moment j'ai déjà fait 3 intros donc petite pause s'il n'y a pas de fit je referai des mises en relation :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757492463.739209",
+        "parent_user_id": "U084KTR7YKX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BcTM5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Slt Célia tu peux m'écrire en perso.\npour le moment j'ai déjà fait 3 intros donc petite pause s'il n'y a pas de fit je referai des mises en relation "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U016QJZLRN3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U016QJZLRN3",
+        "type": "message",
+        "ts": "1758111948.805459",
+        "client_msg_id": "276b3e31-5fbb-4180-b329-04f3d30772f2",
+        "text": "Ca roule, dans ce cas fais-moi signe si pas de fit ! :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "8f96b26362da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-09\/4613327625731_8f96b26362dac7316985_72.jpg",
+            "first_name": "Célia",
+            "real_name": "Célia Poncelin",
+            "display_name": "Célia Poncelin",
+            "team": "T017AGS2KE0",
+            "name": "celia.poncelin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757492463.739209",
+        "parent_user_id": "U084KTR7YKX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FBt9U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ca roule, dans ce cas fais-moi signe si pas de fit ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U084KTR7YKX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

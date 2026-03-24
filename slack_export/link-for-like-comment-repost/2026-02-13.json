@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U0859A8P14K",
+        "type": "message",
+        "ts": "1770980607.216039",
+        "client_msg_id": "1FB60C28-D09D-4FAA-AC26-DCAF7BE4D959",
+        "text": "Bravo Liz !!! All the best !!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "de9373c86530",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8178910826725_de9373c86530dc48c9e8_72.png",
+            "first_name": "Alexandra",
+            "real_name": "Alexandra Lougovoy",
+            "display_name": "Alexandra Lougovoy (Eudonet)",
+            "team": "T017AGS2KE0",
+            "name": "a.lougovoy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770722885.974729",
+        "parent_user_id": "U06E3PY5LAY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d7fEP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bravo Liz !!! All the best !!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

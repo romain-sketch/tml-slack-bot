@@ -1,0 +1,138 @@
+[
+    {
+        "user": "U065DFPCQMP",
+        "type": "message",
+        "ts": "1766666660.620989",
+        "client_msg_id": "AC21A5CA-58C6-4E64-9219-80FAB5E4790E",
+        "text": "D'avancer encore mieux en 2026 ! <@U017RAZCAGZ> ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50040e0261e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-15\/6198553206674_50040e0261e7ba62e840_72.jpg",
+            "first_name": "Gaelle",
+            "real_name": "Gaelle Le Goff",
+            "display_name": "Gaelle Le Goff",
+            "team": "T017AGS2KE0",
+            "name": "gaelle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1766593862.117299",
+        "parent_user_id": "U065DFPCQMP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5HPsC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "D'avancer encore mieux en 2026 ! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U017RAZCAGZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Enorme ! Il est un peu creepy lui Bojan, mais c'est bien fait merci <@U065DFPCQMP>",
+        "files": [
+            {
+                "id": "F0A54C57H1D",
+                "created": 1766692128,
+                "timestamp": 1766692128,
+                "name": "Capture d’écran 2025-12-25 à 20.48.44.png",
+                "title": "Capture d’écran 2025-12-25 à 20.48.44.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02N2EVMFCG",
+                "user_team": "T017AGS2KE0",
+                "editable": false,
+                "size": 1380309,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F0A54C57H1D\/capture_d___e__cran_2025-12-25_a___20.48.44.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F0A54C57H1D\/download\/capture_d___e__cran_2025-12-25_a___20.48.44.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A54C57H1D-5de2567eab\/capture_d___e__cran_2025-12-25_a___20.48.44_64.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A54C57H1D-5de2567eab\/capture_d___e__cran_2025-12-25_a___20.48.44_80.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A54C57H1D-5de2567eab\/capture_d___e__cran_2025-12-25_a___20.48.44_360.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360_w": 360,
+                "thumb_360_h": 169,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A54C57H1D-5de2567eab\/capture_d___e__cran_2025-12-25_a___20.48.44_480.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_480_w": 480,
+                "thumb_480_h": 225,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A54C57H1D-5de2567eab\/capture_d___e__cran_2025-12-25_a___20.48.44_160.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A54C57H1D-5de2567eab\/capture_d___e__cran_2025-12-25_a___20.48.44_720.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720_w": 720,
+                "thumb_720_h": 338,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A54C57H1D-5de2567eab\/capture_d___e__cran_2025-12-25_a___20.48.44_800.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_800_w": 800,
+                "thumb_800_h": 375,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A54C57H1D-5de2567eab\/capture_d___e__cran_2025-12-25_a___20.48.44_960.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_960_w": 960,
+                "thumb_960_h": 450,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A54C57H1D-5de2567eab\/capture_d___e__cran_2025-12-25_a___20.48.44_1024.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 480,
+                "original_w": 2624,
+                "original_h": 1230,
+                "thumb_tiny": "AwAXADDN3N6n86Nzf3j+dPijEhGc9ccVK9rz8m4rxye1K47Ffc394\/nSksCQS2R71JNCIh1zyMUwld3IJ5\/vUxCowH3w5+jY\/oaaWPGC3vzSZ4pKAJoJREDndk+lSC6X\/ax6YFVaKLDuTTyiQcZzx2qPgtyTjPJxTaKBDvk5+Zvb5f8A69IQO2SPekpw+6Px\/lQB\/9k=",
+                "permalink": "https:\/\/techmarketingleaders.slack.com\/files\/U017U6M2G00\/F0A54C57H1D\/capture_d___e__cran_2025-12-25_a___20.48.44.png",
+                "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F0A54C57H1D-1011b20e3c",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U02N2EVMFCG",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XJu10",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Enorme ! Il est un peu creepy lui Bojan, mais c'est bien fait merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U065DFPCQMP"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1766692396.722059",
+        "client_msg_id": "a7634b4d-bf0d-40f2-8879-5cd037b9d113",
+        "thread_ts": "1766593862.117299",
+        "parent_user_id": "U065DFPCQMP"
+    }
+]

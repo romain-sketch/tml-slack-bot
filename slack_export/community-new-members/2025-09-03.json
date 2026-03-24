@@ -1,0 +1,198 @@
+[
+    {
+        "user": "U04TR6DMRPF",
+        "type": "message",
+        "ts": "1756925975.853509",
+        "client_msg_id": "5A4E2C57-C9C3-43B5-899D-34FB8D5B1D01",
+        "text": "Hello tout le monde,\nJ’ai été bien silencieuse sur TML depuis plusieurs mois, en effet je suis revenue à mes premières amours et ai rejoins un groupe du secteur des produits santé grand public (Voltaren, Advil, Sensodyne entre autres).\n\nJe souhaite recommander <https:\/\/www.linkedin.com\/in\/timothee-collard?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=ios_app|Timothée Collard>, CMO de CybelAngel (cyber sécurité), une scale up de 150pers, présente à l’international (Europe et US notamment). \n• anciennement Intuit et Microsoft \n• expert sur les sujets demand génération et acquisition, mais aussi brand\/ contenu \/ partnerships\nIl partage beaucoup de problématique discutées ici et aimerait rejoindre TML.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "427a2d04b46a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-14\/4931728140087_427a2d04b46aed1c8171_72.jpg",
+            "first_name": "Camille",
+            "real_name": "Camille Caillard",
+            "display_name": "Camille Caillard",
+            "team": "T017AGS2KE0",
+            "name": "camille.caillard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756925975.853509",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1757087457.796399",
+        "reply_users": [
+            "U04CW99BP3Q",
+            "U065DFPCQMP",
+            "U04TR6DMRPF"
+        ],
+        "replies": [
+            {
+                "user": "U04CW99BP3Q",
+                "ts": "1756970465.791359"
+            },
+            {
+                "user": "U065DFPCQMP",
+                "ts": "1756991459.723069"
+            },
+            {
+                "user": "U04TR6DMRPF",
+                "ts": "1757087457.796399"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/timothee-collard?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+                "thumb_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/D4E03AQFu2xXlFfOrPA\/profile-displayphoto-shrink_200_200\/profile-displayphoto-shrink_200_200\/0\/1672910681544?e=2147483647&v=beta&t=pVgB096SxQ0ZelTlM_KXWsPZu1J4xJOa_f2AEkoRIP4",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/timothee-collard?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=ios_app",
+                "fallback": "Timothée COLLARD - CybelAngel | LinkedIn",
+                "text": "Marketing and GTM executive with proven success driving growth across tech leaders… · Expérience : CybelAngel · Formation : Mines Paris · Lieu : Paris · 500 relations ou plus sur LinkedIn. Consultez le profil de Timothée COLLARD sur LinkedIn, une communauté professionnelle d’un milliard de membres.",
+                "title": "Timothée COLLARD - CybelAngel | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/timothee-collard?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wT2Xd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello tout le monde,\nJ’ai été bien silencieuse sur TML depuis plusieurs mois, en effet je suis revenue à mes premières amours et ai rejoins un groupe du secteur des produits santé grand public (Voltaren, Advil, Sensodyne entre autres).\n\nJe souhaite recommander "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/timothee-collard?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+                                "text": "Timothée Collard"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", CMO "
+                            },
+                            {
+                                "type": "text",
+                                "text": "de CybelAngel (cyber sécurité), une scale up de 150pers, présente à l’international (Europe et US notamment). "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "anciennement Intuit et Microsoft "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "expert sur les sujets demand génération et acquisition, mais aussi brand\/ contenu \/ partnerships"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Il partage beaucoup de problématique discutées ici et aimerait rejoindre TML."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02N2EVMFCG"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U017RAZCAGZ",
+                    "U0177A5V42F",
+                    "U04CW99BP3Q",
+                    "U092U6UDLMN",
+                    "U069NSTHZ3Q",
+                    "U07D08K3U0K",
+                    "U065DFPCQMP",
+                    "U06DYTRDLUD",
+                    "U04TU0UA2R1",
+                    "U08EN5T6F4L",
+                    "U0951RDNKU6"
+                ],
+                "count": 11
+            }
+        ]
+    },
+    {
+        "user": "U08SA22HS0J",
+        "type": "message",
+        "ts": "1756927119.927079",
+        "client_msg_id": "5640b771-873d-434b-a0fc-eee55058c169",
+        "text": "Je ne connais pas Timothée mais je connais Cybelangel et j'ai croisé plusieurs fois Erwan Keraudy son CEO. C'est une belle boîte tech. OK pour moi.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "266d9356f19e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-07\/10243863201635_266d9356f19e63bc9267_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu BONENFANT (SecLab)",
+            "display_name": "Matthieu BONENFANT (SecLab)",
+            "team": "T017AGS2KE0",
+            "name": "matthieu.bonenfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1ZbIP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je ne connais pas Timothée mais je connais Cybelangel et j'ai croisé plusieurs fois Erwan Keraudy son CEO. C'est une belle boîte tech. OK pour moi."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,359 @@
+[
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1744030727.765439",
+        "client_msg_id": "651dadc8-f6ec-4cdd-a7f1-1972eff4672d",
+        "text": "Bravo <@U032T5N7UTY> pour la série D!!!! Solide!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744030727.765439",
+        "reply_count": 9,
+        "reply_users_count": 8,
+        "latest_reply": "1744724250.397859",
+        "reply_users": [
+            "U032T5N7UTY",
+            "U063A8VPPG9",
+            "U0183AS3MB6",
+            "U02N2EVMFCG",
+            "U0182J18ULQ",
+            "U067GNGDATD",
+            "U065DFPCQMP",
+            "U07MNBM4WLV"
+        ],
+        "replies": [
+            {
+                "user": "U032T5N7UTY",
+                "ts": "1744030894.717999"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1744032392.385519"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1744033134.935039"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1744037995.331939"
+            },
+            {
+                "user": "U0182J18ULQ",
+                "ts": "1744047965.553619"
+            },
+            {
+                "user": "U032T5N7UTY",
+                "ts": "1744096921.857709"
+            },
+            {
+                "user": "U067GNGDATD",
+                "ts": "1744099481.009609"
+            },
+            {
+                "user": "U065DFPCQMP",
+                "ts": "1744139287.118489"
+            },
+            {
+                "user": "U07MNBM4WLV",
+                "ts": "1744724250.397859"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fP+fP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bravo "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U032T5N7UTY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour la série D!!!! Solide!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U056DAY3YD8",
+                    "U078PFP7A4B",
+                    "U042GV737MX",
+                    "U06MLNEGNKB",
+                    "U06M6E5M524",
+                    "U03P99RGMTN",
+                    "U03QPMQA31V",
+                    "U063A8VPPG9",
+                    "U025AMSNGF8",
+                    "U06DYTRDLUD",
+                    "U08M0JP81DK",
+                    "U02N2EVMFCG",
+                    "U017CURDPB5",
+                    "U01CNU4Q2H2",
+                    "U06CZESF7QF",
+                    "U04HP95GK55",
+                    "U08EN5T6F4L",
+                    "U06TF9YAWEM",
+                    "U067GNGDATD",
+                    "U04TU0UA2R1",
+                    "U065DFPCQMP",
+                    "U07MNBM4WLV"
+                ],
+                "count": 22
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U07BLPPL3C1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U032T5N7UTY",
+        "type": "message",
+        "ts": "1744030894.717999",
+        "client_msg_id": "033cac85-57fa-47fa-a6bb-407a15673032",
+        "text": "Merci merci ! C'est pas une aventure de tout repos mais c'est canon :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "026d818af51e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-14\/3105470112116_026d818af51e6af78591_72.png",
+            "first_name": "Maxime",
+            "real_name": "Maxime Baumard",
+            "display_name": "Maxime Baumard (Pennylane)",
+            "team": "T017AGS2KE0",
+            "name": "maxime.baumard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744030727.765439",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k5o7F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci merci ! C'est pas une aventure de tout repos mais c'est canon "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1744032392.385519",
+        "client_msg_id": "A2FE69A8-B88E-4A59-81A2-2E699B7306E7",
+        "text": "De ouf!!! Bravo",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744030727.765439",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TUpgY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "De ouf!!! Bravo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1744033134.935039",
+        "client_msg_id": "8ee3d074-e662-44dd-a63b-707893b2dc94",
+        "text": "J’avoue que c’est impressionnant !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744030727.765439",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aGp8K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J’avoue que c’est impressionnant !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U08M0JP81DK",
+        "text": "<@U08M0JP81DK> has joined the channel",
+        "type": "message",
+        "ts": "1744034377.030699"
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1744037995.331939",
+        "client_msg_id": "2f06ed1d-6542-4ef8-b053-7bbcb39cd058",
+        "text": "Bravo !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744030727.765439",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SYN7z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bravo !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0182J18ULQ",
+        "type": "message",
+        "ts": "1744047965.553619",
+        "client_msg_id": "8AB178E7-E367-46FE-B090-21991B164D23",
+        "text": "Indeed ! Bravo <@U032T5N7UTY>  : huge !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "dfa7b4a4cf8b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-12\/5250900759925_dfa7b4a4cf8b424f822c_72.png",
+            "first_name": "Jean-Baptiste",
+            "real_name": "Jean-Baptiste Sciandra",
+            "display_name": "Jean-Baptiste Sciandra",
+            "team": "T017AGS2KE0",
+            "name": "jb.sciandra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744030727.765439",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zwqyr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Indeed ! Bravo "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U032T5N7UTY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  : huge !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

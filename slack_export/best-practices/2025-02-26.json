@@ -1,0 +1,449 @@
+[
+    {
+        "user": "U017CURDPB5",
+        "type": "message",
+        "ts": "1740563089.561949",
+        "client_msg_id": "94860b30-0e29-4ad5-8fa5-e4742adb3a52",
+        "text": "Hello, la communauté. J'organise un événement client à Londres (dans la city). Quelqu'un à une expérience de \"no show\" ? Quel % de \"no show\" on doit anticiper et les techniques pour éviter. J'ai les infos pour l'Europe continentale. Thx !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "671ad569fbc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5982967598243_671ad569fbc40977de70_72.jpg",
+            "first_name": "David",
+            "real_name": "David Remaud",
+            "display_name": "David Remaud (iBanFirst)",
+            "team": "T017AGS2KE0",
+            "name": "david.remaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740563089.561949",
+        "reply_count": 11,
+        "reply_users_count": 6,
+        "latest_reply": "1740655590.557219",
+        "reply_users": [
+            "U04SM1RGPJB",
+            "U017CURDPB5",
+            "U07LN85V6TG",
+            "U06V83JDFLY",
+            "U03NSB17L2Y",
+            "U01A4GMRRR9"
+        ],
+        "replies": [
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1740574283.071609"
+            },
+            {
+                "user": "U017CURDPB5",
+                "ts": "1740574589.160319"
+            },
+            {
+                "user": "U07LN85V6TG",
+                "ts": "1740582414.269649"
+            },
+            {
+                "user": "U07LN85V6TG",
+                "ts": "1740582467.788819"
+            },
+            {
+                "user": "U017CURDPB5",
+                "ts": "1740582593.355389"
+            },
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1740585211.439689"
+            },
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1740585278.895259"
+            },
+            {
+                "user": "U06V83JDFLY",
+                "ts": "1740647948.481099"
+            },
+            {
+                "user": "U03NSB17L2Y",
+                "ts": "1740648040.208939"
+            },
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1740648802.623079"
+            },
+            {
+                "user": "U01A4GMRRR9",
+                "ts": "1740655590.557219"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Z+8b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, la communauté. J'organise un événement client à Londres (dans la city). Quelqu'un à une expérience de \"no show\" ? Quel % de \"no show\" on doit anticiper et les techniques pour éviter. J'ai les infos pour l'Europe continentale. Thx !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1740574283.071609",
+        "client_msg_id": "34709e7b-f889-4f4f-86cc-d06f9098d22e",
+        "text": "quel type de format ? de ce que j'avais vu, ce qui marchait le mieux niveau % de show c'était le déjeuner ou l'after (&lt;25%)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740563089.561949",
+        "parent_user_id": "U017CURDPB5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y5xFh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "quel type de format ? de ce que j'avais vu, ce qui marchait le mieux niveau % de show c'était le déjeuner ou l'after (<25%)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017CURDPB5",
+        "type": "message",
+        "ts": "1740574589.160319",
+        "edited": {
+            "user": "U017CURDPB5",
+            "ts": "1740574607.000000"
+        },
+        "client_msg_id": "973f1cfb-cd7d-41d0-b7c5-a5cd10a9ffe2",
+        "text": "Thx ! Networking event entre client (format cocktail) donc after. Tes ratios sont au UK ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "671ad569fbc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5982967598243_671ad569fbc40977de70_72.jpg",
+            "first_name": "David",
+            "real_name": "David Remaud",
+            "display_name": "David Remaud (iBanFirst)",
+            "team": "T017AGS2KE0",
+            "name": "david.remaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740563089.561949",
+        "parent_user_id": "U017CURDPB5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Si2gn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thx ! Networking event entre client (format cocktail) donc after. Tes ratios sont au UK ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07LN85V6TG",
+        "type": "message",
+        "ts": "1740582414.269649",
+        "client_msg_id": "01fc6547-6817-4ac9-ad7d-b2d3b6ec8a0e",
+        "text": "en ce moment j'ai plus de 50% de no show sur toutes les régions c'est un enfer",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "32409790ca44",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-11\/7707593936998_32409790ca44083a383f_72.png",
+            "first_name": "Leslie",
+            "real_name": "Leslie Tedgui",
+            "display_name": "Leslie Tedgui (CoachHub)",
+            "team": "T017AGS2KE0",
+            "name": "leslie.tedgui110",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740563089.561949",
+        "parent_user_id": "U017CURDPB5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0fRdq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "en ce moment j'ai plus de 50% de no show sur toutes les régions c'est un enfer"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07LN85V6TG",
+        "type": "message",
+        "ts": "1740582467.788819",
+        "edited": {
+            "user": "U07LN85V6TG",
+            "ts": "1740582483.000000"
+        },
+        "client_msg_id": "8ea45c18-29af-4c49-be19-11d1093864b4",
+        "text": "paris \/ londres \/ berlin \/ new york\non envoie des invit calendriers, on rappelle chaque client pour confirmer leur venue, on envoie des emails de rappel... la totale",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "32409790ca44",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-11\/7707593936998_32409790ca44083a383f_72.png",
+            "first_name": "Leslie",
+            "real_name": "Leslie Tedgui",
+            "display_name": "Leslie Tedgui (CoachHub)",
+            "team": "T017AGS2KE0",
+            "name": "leslie.tedgui110",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740563089.561949",
+        "parent_user_id": "U017CURDPB5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HiiGe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "paris \/ londres \/ berlin \/ new york\non envoie des invit calendriers, on rappelle chaque client pour confirmer leur venue, on envoie des emails de rappel... la totale"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017CURDPB5",
+        "type": "message",
+        "ts": "1740582593.355389",
+        "client_msg_id": "3c5ceb6d-1ed1-4c31-9ad9-2cbc2e00336d",
+        "text": "merci :disappointed:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "671ad569fbc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5982967598243_671ad569fbc40977de70_72.jpg",
+            "first_name": "David",
+            "real_name": "David Remaud",
+            "display_name": "David Remaud (iBanFirst)",
+            "team": "T017AGS2KE0",
+            "name": "david.remaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740563089.561949",
+        "parent_user_id": "U017CURDPB5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WxI+M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "merci "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed",
+                                "unicode": "1f61e"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1740585211.439689",
+        "client_msg_id": "de9f76af-581f-42aa-8b90-d1c6e8f51abe",
+        "text": "oui David mais c'était juste post covid... donc surement un effet regroupement.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740563089.561949",
+        "parent_user_id": "U017CURDPB5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/LuAC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oui David mais c'était juste post covid... donc surement un effet regroupement."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1740585278.895259",
+        "client_msg_id": "0c8924ce-c095-49a4-83dd-c94657d3ac7d",
+        "text": "tu as 50% de no show sur du client <@U03NSB17L2Y>?? ça me semble énorme, c'est ce que j'ai sur prospects en général, notamment en France",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740563089.561949",
+        "parent_user_id": "U017CURDPB5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hh8xu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tu as 50% de no show sur du client "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03NSB17L2Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?? ça me semble énorme, c'est ce que j'ai sur prospects en général, notamment en France"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0859A8P14K",
+        "type": "message",
+        "ts": "1740604009.233959",
+        "client_msg_id": "61E6354A-4B5F-403A-994D-C3F58CE9501E",
+        "text": "Hello j’ai eu de très bons retour sur eux également !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "de9373c86530",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8178910826725_de9373c86530dc48c9e8_72.png",
+            "first_name": "Alexandra",
+            "real_name": "Alexandra Lougovoy",
+            "display_name": "Alexandra Lougovoy (Eudonet)",
+            "team": "T017AGS2KE0",
+            "name": "a.lougovoy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739185538.226869",
+        "parent_user_id": "U0720BFAVFE",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TjhDi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "text",
+                                "text": "j’ai"
+                            },
+                            {
+                                "type": "text",
+                                "text": " eu de très bons retour sur eux également !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "user": "U03CY07UZJM",
+        "type": "message",
+        "ts": "1739104212.563629",
+        "client_msg_id": "eded138f-866f-4115-ba01-7eeb2633350c",
+        "text": "<@U04A6JMRWCS>, je peux te mettre en relation avec <https:\/\/www.linkedin.com\/in\/edouard-payenneville\/|Edouard>, l'organisateur ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "cf1b09b1a910",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-02\/6894190939717_cf1b09b1a910eb11be75_72.jpg",
+            "first_name": "Patrice",
+            "real_name": "Patrice Barbesier",
+            "display_name": "Patrice Barbesier",
+            "team": "T017AGS2KE0",
+            "name": "patrice.barbesier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738919345.580469",
+        "parent_user_id": "U03CY07UZJM",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/edouard-payenneville\/",
+                "thumb_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/D4E03AQHR5SvBTtHmRA\/profile-displayphoto-shrink_200_200\/profile-displayphoto-shrink_200_200\/0\/1720174793121?e=2147483647&v=beta&t=CUP3A46Ft-j-RWfpCXnhqOGUJF_LQj4wVpDuEa80mIk",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/edouard-payenneville\/",
+                "fallback": "Edouard Payenneville - Powell Software | LinkedIn",
+                "text": "People development, coaching, mentoring. Skills and experience to manage team of 40… · Expérience : Powell Software · Formation : Rouen Business School · Lieu : Colombes · 500 relations ou plus sur LinkedIn. Consultez le profil de Edouard Payenneville sur LinkedIn, une communauté professionnelle d’un milliard de membres.",
+                "title": "Edouard Payenneville - Powell Software | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/edouard-payenneville\/",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BoFNx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04A6JMRWCS"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", je peux te mettre en relation avec "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/edouard-payenneville\/",
+                                "text": "Edouard"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", l'organisateur ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

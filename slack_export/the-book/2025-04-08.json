@@ -1,0 +1,208 @@
+[
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1744114393.299779",
+        "client_msg_id": "825e1e33-2f71-4063-b84f-2445c5be1ed1",
+        "text": "Comment ça s'est passé ? il y a eu des ventes ? :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742215650.338329",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eSmzm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Comment ça s'est passé ? il y a eu des ventes ? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1744114428.535909",
+        "client_msg_id": "b0facab3-8be0-4a24-8a4d-1d3ddaa8d1cd",
+        "text": "On y parle de Quand les start up et licornes réinventent le marketing à la fin :slightly_smiling_face:\n<https:\/\/www.linkedin.com\/posts\/aureliemezbourianfliedel_marques-comment-red%C3%A9finir-les-strat%C3%A9gies-activity-7315345193073795072-QURJ?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAAIqAkMBurDFZBUqOIcDrXb0l2F90-N-3Vk|https:\/\/www.linkedin.com\/posts\/aureliemezbourianfliedel_marques-comment-red%C3%A9fini[…]m=member_desktop&amp;rcm=ACoAAAIqAkMBurDFZBUqOIcDrXb0l2F90-N-3Vk>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744114428.535909",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1744356118.678679",
+        "reply_users": [
+            "U055KSYA2AH",
+            "U022RFSKQQK"
+        ],
+        "replies": [
+            {
+                "user": "U055KSYA2AH",
+                "ts": "1744122593.321019"
+            },
+            {
+                "user": "U022RFSKQQK",
+                "ts": "1744356118.678679"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/posts\/aureliemezbourianfliedel_marques-comment-red%C3%A9finir-les-strat%C3%A9gies-activity-7315345193073795072-QURJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAIqAkMBurDFZBUqOIcDrXb0l2F90-N-3Vk",
+                "image_url": "https:\/\/media.licdn.com\/dms\/image\/sync\/v2\/D4E27AQGVjCWJtZVhPg\/articleshare-shrink_1280_800\/B4EZYUphbmHcAc-\/0\/1744103153486?e=2147483647&v=beta&t=hkOme38fI-ZvsO7PRZ3Ak0nyW--wIqPhvf2hOSdLD4o",
+                "image_width": 1200,
+                "image_height": 675,
+                "image_bytes": 77991,
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/posts\/aureliemezbourianfliedel_marques-comment-red%C3%A9finir-les-strat%C3%A9gies-activity-7315345193073795072-QURJ?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAAIqAkMBurDFZBUqOIcDrXb0l2F90-N-3Vk",
+                "fallback": "Marques : Comment redéfinir les stratégies d&amp;#39;acquisition ? | Aurelie Mezbourian Fliedel",
+                "text": ":studio_microphone: &amp;quot;Innovation &amp; Cross-média&amp;quot; : les stratégies d&amp;#39;acquisition et d&amp;#39;engagement qui réinventent le marketing\n\nPour cette 90ème édition de l&amp;#39;émission, j&amp;#39;ai eu le privilège d&amp;#39;échanger avec Aurélie Bouvart (24S), Remy Guenot (TERACT) et Beatrice de Noray (Bel) sur les stratégies qui révolutionnent l&amp;#39;acquisition et l&amp;#39;engagement client.\n\n:bulb: Mon moment préféré ? L&amp;#39;intervention de Béatrice de Noray sur l&amp;#39;expansion internationale du groupe Bel, où elle dévoile comment ils adaptent produits et marketing aux spécificités locales : &amp;quot;On construit des marques globales qui ont des valeurs communes, un brand purpose commun, une plateforme commune mais au plus proche de nos consommateurs (…) on a déterminé 200 tribus dans le monde qu’on adresse de manière spécifique&amp;quot;.\n\nOn y parle aussi de\n- Notre philosophie &amp;quot;member first&amp;quot; chez Alan pour créer un alignement parfait entre marketing, product et sales, autour d&amp;#39;un objectif commun : la satisfaction utilisateur\n- L&amp;#39;internalisation complète de notre acquisition et la production de 15% de nos publicités grâce à l&amp;#39;IA :wave: Aliénor Doré Victoria Lainé\n- Le rôle de la gamification dans l’engagement :wave: Antoine M. Kevin Aserraf\n- La transformation du marketing avec l’IA :wave: Kristina Rylova\n\nUn immense merci à Majda Chaplain, MC Factory &amp; Stratégies pour cette table ronde inspirante !",
+                "title": "Marques : Comment redéfinir les stratégies d&amp;#39;acquisition ? | Aurelie Mezbourian Fliedel",
+                "title_link": "https:\/\/www.linkedin.com\/posts\/aureliemezbourianfliedel_marques-comment-red%C3%A9finir-les-strat%C3%A9gies-activity-7315345193073795072-QURJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAIqAkMBurDFZBUqOIcDrXb0l2F90-N-3Vk",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vuk6n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On y parle de Quand les start up et licornes réinventent le marketing à la fin "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/posts\/aureliemezbourianfliedel_marques-comment-red%C3%A9finir-les-strat%C3%A9gies-activity-7315345193073795072-QURJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAIqAkMBurDFZBUqOIcDrXb0l2F90-N-3Vk",
+                                "text": "https:\/\/www.linkedin.com\/posts\/aureliemezbourianfliedel_marques-comment-red%C3%A9fini[…]m=member_desktop&rcm=ACoAAAIqAkMBurDFZBUqOIcDrXb0l2F90-N-3Vk"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U016SBPG7K9",
+                    "U01A4GMRRR9",
+                    "U03P99RGMTN",
+                    "U04SM1RGPJB",
+                    "U02N2EVMFCG",
+                    "U07MNBM4WLV",
+                    "U02MZTE8GCF",
+                    "U05H3SJKYFQ",
+                    "U0859A8P14K",
+                    "U06LENY5V6Z"
+                ],
+                "count": 10
+            }
+        ]
+    },
+    {
+        "user": "U055KSYA2AH",
+        "type": "message",
+        "ts": "1744122593.321019",
+        "client_msg_id": "0d711348-3a6f-402a-857d-70385b875151",
+        "text": "ah trop cool. Remy chez Teract c’est l’un de mes top 3 clients :wink:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "77f967801b39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-02\/5198498072658_77f967801b39b2c56563_72.png",
+            "first_name": "Olivier",
+            "real_name": "Olivier Milcent",
+            "display_name": "Olivier Milcent (DeepReach)",
+            "team": "T017AGS2KE0",
+            "name": "omilcent",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744114428.535909",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4tfya",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ah trop cool. Remy chez Teract c’est l’un de mes top 3 clients "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "star-struck",
+                "users": [
+                    "U017H09S857"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

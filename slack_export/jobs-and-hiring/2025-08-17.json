@@ -1,0 +1,147 @@
+[
+    {
+        "user": "U07MNBM4WLV",
+        "type": "message",
+        "ts": "1755461883.513029",
+        "client_msg_id": "c371aead-626e-4212-98da-c53d81f14f8f",
+        "text": "Hello Yannig, aucune idée !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "028ce63b55be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7733128030774_028ce63b55be29945d4f_72.jpg",
+            "first_name": "Domitille",
+            "real_name": "Domitille de Saint-Exupéry",
+            "display_name": "Domitille de Saint-Exupéry (lemlist)",
+            "team": "T017AGS2KE0",
+            "name": "domitille433",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750078430.727889",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+lTRM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Yannig, aucune idée !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07MNBM4WLV",
+        "type": "message",
+        "ts": "1755462748.946669",
+        "edited": {
+            "user": "U07MNBM4WLV",
+            "ts": "1755581395.000000"
+        },
+        "client_msg_id": "e0c1a31a-5453-4cf5-9908-1b805b122618",
+        "text": "Hello,\nsi vous cherchez à recruter côté content une américaine basée à Paris -> <https:\/\/www.linkedin.com\/in\/alexandra-kennedy-\/|https:\/\/www.linkedin.com\/in\/alexandra-kennedy-\/>\nj'ai parlé à cette candidate et je pense qu'elle vaut le détour.\nElle était trop junior pour mon rôle mais elle a un profil intéressant.\nElle a été un peu SDR dans la tech avant de se mettre à son compte pour faire notamment du contenu (elle a une chaine youtube et fait des UGC) + du modeling (et pk pas lol).\nElle cherche à intégrer une boite, elle est bosseuse (elle a quand mm voulu faire mon case - qui a confirmé qu'elle était trop junior, mais c'était vraiment pas mal) et a pas mal de bagou\/grit.\nBref je partage si jamais.\nHésitez pas à la contacter directement de ma part.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "028ce63b55be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7733128030774_028ce63b55be29945d4f_72.jpg",
+            "first_name": "Domitille",
+            "real_name": "Domitille de Saint-Exupéry",
+            "display_name": "Domitille de Saint-Exupéry (lemlist)",
+            "team": "T017AGS2KE0",
+            "name": "domitille433",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1755462748.946669",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1755581384.168999",
+        "reply_users": [
+            "U08V1NE4BUJ",
+            "U07MNBM4WLV"
+        ],
+        "replies": [
+            {
+                "user": "U08V1NE4BUJ",
+                "ts": "1755503003.194299"
+            },
+            {
+                "user": "U07MNBM4WLV",
+                "ts": "1755581384.168999"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/alexandra-kennedy-\/",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "thumb_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/D4E03AQFe6EyvGriVDg\/profile-displayphoto-shrink_200_200\/profile-displayphoto-shrink_200_200\/0\/1676536232569?e=2147483647&v=beta&t=RnPEF9ZyMmPzqtCA0TlvBa6s4ikDUYekT7EQRULNXsw",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/alexandra-kennedy-\/",
+                "fallback": "Alexandra Kennedy - YouTube | LinkedIn",
+                "text": "My name is Alexandra and I&amp;#39;m a Sales Development Representative at Sifflet, a Paris-based… · Expérience : YouTube · Formation : SKEMA Business School · Lieu : Paris · 500 relations ou plus sur LinkedIn. Consultez le profil de Alexandra Kennedy sur LinkedIn, une communauté professionnelle d’un milliard de membres.",
+                "title": "Alexandra Kennedy - YouTube | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/alexandra-kennedy-\/",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ufeyw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello,\nsi vous cherche"
+                            },
+                            {
+                                "type": "text",
+                                "text": "z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " à recruter côté content une américaine basée à Paris -> "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/alexandra-kennedy-\/",
+                                "text": "https:\/\/www.linkedin.com\/in\/alexandra-kennedy-\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nj'ai parlé à cette candidate et je pense qu'elle vaut le détour.\nElle était trop junior pour mon rôle mais elle a un profil intéressant.\nElle a été un peu SDR dans la tech avant de se mettre à son compte pour faire notamment du contenu (elle a une chaine youtube et fait des UGC) + du modeling (et pk pas lol).\nElle cherche à intégrer une boite, elle est bosseuse (elle a quand mm voulu faire mon case - qui a confirmé qu'elle était trop junior, mais c'était vraiment pas mal) et a pas mal de bagou\/grit.\nBref je partage si jamais.\nHésitez pas à la contacter directement de ma part."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U063A8VPPG9",
+                    "U08HF5YQM6G"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

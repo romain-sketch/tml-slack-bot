@@ -1,0 +1,603 @@
+[
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1768992249.668959",
+        "client_msg_id": "0308fa91-06fb-4f89-bb9f-e883d9f9aee2",
+        "text": "coucou la team, je cherche à parler à des gens qui ont déjà orchestré des campagnes de funding, pas de communication sur un funding (j'en suis à ma 9ème, et j'ai encore quelques cheveux :-)), mais vraiment de toucher les VCs et de les convaincre. Ca vous parle?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1768992249.668959",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1769014033.537619",
+        "reply_users": [
+            "U0177A5V42F",
+            "U092U6UDLMN",
+            "U01789XN2UV"
+        ],
+        "replies": [
+            {
+                "user": "U0177A5V42F",
+                "ts": "1768993210.775669"
+            },
+            {
+                "user": "U092U6UDLMN",
+                "ts": "1768993568.222179"
+            },
+            {
+                "user": "U01789XN2UV",
+                "ts": "1769014033.537619"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uax4A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "coucou la team, je cherche à parler à des gens qui ont déjà orchestré des campagnes de funding, pas de communication sur un funding (j'en suis à ma 9ème, et j'ai encore quelques cheveux :-)), mais vraiment de toucher les VCs et de les convaincre. Ca vous parle?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0177A5V42F",
+        "type": "message",
+        "ts": "1768993210.775669",
+        "client_msg_id": "1fab9172-f443-4bc2-b01a-3451e0489a2b",
+        "text": "A dispo quand tu veux, je te montrerais mes cicatrices :smile:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ebca9b04129",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-17\/1245815650949_7ebca9b041296679a81d_72.jpg",
+            "first_name": "Guillaume",
+            "real_name": "Guillaume Laguette",
+            "display_name": "Guillaume Laguette (echOpen)",
+            "team": "T017AGS2KE0",
+            "name": "laguette.guillaume",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1768992249.668959",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GppEg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A dispo quand tu veux, je te montrerais mes cicatrices "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U092U6UDLMN",
+        "type": "message",
+        "ts": "1768993568.222179",
+        "client_msg_id": "9c9f52a3-1fea-47d8-b84c-a004c2ac76c3",
+        "text": "French Tech Grand Paris organise bcp d'events \/ campagnes pour faire se rencontrer start-up et fonds",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e910bc968404",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-19\/9072876473829_e910bc968404c2c0b5d1_72.png",
+            "first_name": "Bastien",
+            "real_name": "Bastien Meaux (DialOnce)",
+            "display_name": "Bastien Meaux",
+            "team": "T017AGS2KE0",
+            "name": "bmeaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1768992249.668959",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ta5SK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "French Tech Grand Paris organise bcp d'events \/ campagnes pour faire se rencontrer start-up et fonds"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06DYTRDLUD",
+        "type": "message",
+        "ts": "1769007495.118899",
+        "client_msg_id": "c4687f82-f8a3-4cfb-824a-7d91605eb124",
+        "text": "Coucou,\nLu cet article assez fascinant sur les dernières campagnes de Claude aux US - bonne mise en jambe avant la prez de demain sur l'IA et les grandes retrouvailles IRL de cette commmu : <https:\/\/www.marketingideas.com\/p\/what-to-do-if-your-marketing-sucks>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901f49789864",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-17\/6483135134229_901f4978986494a521e4_72.jpg",
+            "first_name": "Flora",
+            "real_name": "Flora Wolfer",
+            "display_name": "Flora Wolfer (Payplug)",
+            "team": "T017AGS2KE0",
+            "name": "fwolfer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769007495.118899",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1769179771.830289",
+        "reply_users": [
+            "U04L04T475K"
+        ],
+        "replies": [
+            {
+                "user": "U04L04T475K",
+                "ts": "1769179771.830289"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "image_url": "https:\/\/substackcdn.com\/image\/fetch\/$s_!DRLO!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto\/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F645cdf02-0225-4944-af73-7454cc18a26f_1920x1080.jpeg",
+                "image_width": 1200,
+                "image_height": 675,
+                "image_bytes": 26027,
+                "from_url": "https:\/\/www.marketingideas.com\/p\/what-to-do-if-your-marketing-sucks",
+                "service_icon": "https:\/\/substackcdn.com\/image\/fetch\/%24s_!k6qY!,f_auto,q_auto:good,fl_progressive:steep\/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F489b2b89-dd09-4315-aea2-ae639577f26d%2Fapple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.marketingideas.com\/p\/what-to-do-if-your-marketing-sucks",
+                "fallback": "What to do if your marketing sucks :chart_with_downwards_trend:",
+                "text": "How one company became “cool” by doing these 3 moves",
+                "title": "What to do if your marketing sucks :chart_with_downwards_trend:",
+                "title_link": "https:\/\/www.marketingideas.com\/p\/what-to-do-if-your-marketing-sucks",
+                "service_name": "marketingideas.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lcLWl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Coucou,\nLu cet article assez fascinant sur les dernières campagnes de Claude aux US - bonne mise en jambe avant la prez de demain sur l'IA et les grandes retrouvailles IRL de cette commmu : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.marketingideas.com\/p\/what-to-do-if-your-marketing-sucks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "green_heart",
+                "users": [
+                    "U017H09S857",
+                    "U0A0QG03DLN",
+                    "U078PFP7A4B",
+                    "U0951RDNKU6",
+                    "U063A8VPPG9",
+                    "U020QK16RMJ",
+                    "U065DFPCQMP",
+                    "U08EN5GRYCC",
+                    "U084KTR7YKX"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "user": "U01789XN2UV",
+        "type": "message",
+        "ts": "1769014033.537619",
+        "client_msg_id": "cbc1d331-1418-4682-b0ba-53dc2fcf4383",
+        "text": "De mon côté j’ai effectivement un peu moins de cheveux qu’avant et pas mal de levées au compteur :smile:\n\nPerso je ne vois pas ça comme une \"campagne\", plutôt comme un process très séquentiel et hyper ciblé. Tu commences par lister les fonds avec lesquels tu rêverais vraiment de bosser (Accel, Index, Sequoia, etc.)… et justement tu les gardes pour plus tard. Tu évites aussi d’attaquer trop tôt le deuxième tiers (Alven, Singular, Elaia, Eurazeo…). Tu rodes d’abord ton pitch avec le troisième groupe (je ne donne pas de nom :wink:) mais sans arroser toute la place.\n\nLa meilleure porte d’entrée, c’est une intro par un founder financé par le fonds (ou par tes investisseurs existants). Pas parce que les portes sont fermées, au contraire elles sont plutôt ouvertes, mais parce que ça permet souvent de sauter le screening analyste et d’arriver plus vite au partner.\n\nEt surtout : parcimonie + momentum. Éviter d’envoyer le deck partout, garder de la rareté, créer du FOMO, limiter à 2–3 pitchs par jour max, et ne lancer le roadshow que quand tout est prêt (deck, data room, chiffres). Les premiers retours servent à ajuster vite, puis tu enclenches la vague suivante.\n\nDispo si tu veux creuser.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "dc904393dfdd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-01-27\/8347075988438_dc904393dfdd624e2705_72.jpg",
+            "first_name": "Adrien",
+            "real_name": "Adrien Plat",
+            "display_name": "Adrien Plat",
+            "team": "T017AGS2KE0",
+            "name": "adrien",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1768992249.668959",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "225+G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "De mon côté j’ai effectivement un peu moins de cheveux qu’avant et pas mal de levées au compteur "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nPerso je ne vois pas ça comme une \"campagne\", plutôt comme un process très séquentiel et hyper ciblé. Tu commences par lister les fonds avec lesquels tu rêverais vraiment de bosser (Accel, Index, Sequoia, etc.)… et justement tu les gardes pour plus tard. Tu évites aussi d’attaquer trop tôt le deuxième tiers (Alven, Singular, Elaia, Eurazeo…). Tu rodes d’abord ton pitch avec le troisième groupe (je ne donne pas de nom "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") mais sans arroser toute la place.\n\nLa meilleure porte d’entrée, c’est une intro par un founder financé par le fonds (ou par tes investisseurs existants). Pas parce que les portes sont fermées, au contraire elles sont plutôt ouvertes, mais parce que ça permet souvent de sauter le screening analyste et d’arriver plus vite au partner.\n\nEt surtout : parcimonie + momentum. Éviter d’envoyer le deck partout, garder de la rareté, créer du FOMO, limiter à 2–3 pitchs par jour max, et ne lancer le roadshow que quand tout est prêt (deck, data room, chiffres). Les premiers retours servent à ajuster vite, puis tu enclenches la vague suivante.\n\nDispo si tu veux creuser."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0951RDNKU6",
+        "type": "message",
+        "ts": "1769018325.462559",
+        "client_msg_id": "96500638-b0a0-4881-bf8a-fc40104eea2f",
+        "text": "Hello <@U03CY07UZJM>\nJ'ai trouvé intéressant de faire partie du jury car tjs un exercice intéressant de lire les cases study, débattre sur les stratégies des uns et des autres. J'étais un peu un ovni dans le jury car bcp de grosses boîtes et d'agences dans le lot. On a aussi gagné un prix avec Qonto (non lié à ma participation au jury) mais impact proche de zéro pour le coup.\nMais j'ai décliné leur big soirée qui pour moi est très showoff\/pubeur comme dirait Olivier et moins ma came :wink:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "85dcd88ccf2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-06\/9660924995297_85dcd88ccf2fa3d8be38_72.jpg",
+            "first_name": "Marion",
+            "real_name": "Marion de Robillard",
+            "display_name": "Marion de Robillard",
+            "team": "T017AGS2KE0",
+            "name": "marionderobillard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1768834702.496109",
+        "parent_user_id": "U03CY07UZJM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gLhD+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CY07UZJM"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nJ'ai trouvé intéressant de faire partie du jury car tjs un exercice intéressant de lire les cases study, débattre sur les stratégies des uns et des autres. J'étais un peu un ovni dans le jury car bcp de grosses boîtes et d'agences dans le lot. On a aussi gagné un prix avec Qonto (non lié à ma participation au jury) mais impact proche de zéro pour le coup.\nMais j'ai décliné leur big soirée qui pour moi est très showoff\/pubeur comme dirait Olivier et moins ma came "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03CY07UZJM",
+        "type": "message",
+        "ts": "1769019369.183309",
+        "client_msg_id": "b27aa831-d7ae-4223-af94-7a86849be170",
+        "text": "Ok je vois le style. Merci bcp !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "cf1b09b1a910",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-02\/6894190939717_cf1b09b1a910eb11be75_72.jpg",
+            "first_name": "Patrice",
+            "real_name": "Patrice Barbesier",
+            "display_name": "Patrice Barbesier",
+            "team": "T017AGS2KE0",
+            "name": "patrice.barbesier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1768834702.496109",
+        "parent_user_id": "U03CY07UZJM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "swEvx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok je vois le style. Merci bcp !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0951RDNKU6",
+        "type": "message",
+        "ts": "1769032021.135179",
+        "client_msg_id": "92c8bae2-2e41-4873-96fa-6e70b387472c",
+        "text": "Coucou la team,\nOn organise notre extended Leadership Offsite en Février et je cherche un inspiring EN speaker qui fasse des conférences canons sur des sujets de leadership.\nCe sera à la campagne dans le Vexin donc j'ai bien conscience que c'est moyennement sexy pour avoir qn onsite, du coup quelqu'un qui soit impactant en visio !\nAny idea ?? Merci bcp pour vos idées !!\n\nps. pas de budget prédéfini - idéalement gratuit :sweat_smile: - possible de payer évidemment mais pas 10k la conf non plus :wink:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "85dcd88ccf2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-06\/9660924995297_85dcd88ccf2fa3d8be38_72.jpg",
+            "first_name": "Marion",
+            "real_name": "Marion de Robillard",
+            "display_name": "Marion de Robillard",
+            "team": "T017AGS2KE0",
+            "name": "marionderobillard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769032021.135179",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1769417062.336429",
+        "reply_users": [
+            "U09BVQYR1GA",
+            "U063A8VPPG9",
+            "U017CURDPB5",
+            "U084KTR7YKX"
+        ],
+        "replies": [
+            {
+                "user": "U09BVQYR1GA",
+                "ts": "1769063517.532919"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1769063829.385259"
+            },
+            {
+                "user": "U017CURDPB5",
+                "ts": "1769098171.404719"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1769417062.336429"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1TuUk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Coucou la team,\nOn organise notre extended Leadership Offsite en Février et je cherche un inspiring EN speaker qui fasse des conférences canons sur des sujets de leadership.\nCe sera à la campagne dans le Vexin donc j'ai bien conscience que c'est moyennement sexy pour avoir qn onsite, du coup quelqu'un qui soit impactant en visio !\nAny idea ?? Merci bcp pour vos idées !!\n\nps. pas de budget prédéfini - idéalement gratuit "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - possible de payer évidemment mais pas 10k la conf non plus "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U09BVQYR1GA",
+        "type": "message",
+        "ts": "1769063517.532919",
+        "edited": {
+            "user": "U09BVQYR1GA",
+            "ts": "1769063536.000000"
+        },
+        "client_msg_id": "41e6fb62-3eec-4c12-8960-ad007fc41a41",
+        "text": "hey <@U0951RDNKU6> j'ai qqn qui est notespeaker spécialisé dans le leadership et bilingue français\/anglais. Je t'envoie les détails en MP",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0ee28ebc77d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-09-09\/9480262349955_0ee28ebc77d7f64eb0e1_72.png",
+            "first_name": "Tania",
+            "real_name": "Tania",
+            "display_name": "Tania",
+            "team": "T017AGS2KE0",
+            "name": "tsaezgrowth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769032021.135179",
+        "parent_user_id": "U0951RDNKU6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qmdnf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0951RDNKU6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " j'ai qqn qui est notespeaker spécialisé dans le leadership et bilingue français\/anglais. Je t'envoie les détails en MP"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0951RDNKU6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1769063829.385259",
+        "client_msg_id": "3CB3ECE2-0A71-47CA-BC6D-C6B3A47121CB",
+        "text": "<@U0951RDNKU6> j avais fait un truc canon avec la team marketing avec <mailto:laurence@mountain-path.com|laurence@mountain-path.com>\nJe te conseille! Elle est géniale, et c est une mise en situation de problème en haute montagne et gestion de la collaboration et du stress! J avais kiffé ! Tu peux la contacter de ma part, c est une ancienne LinkedIn pipe drive ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769032021.135179",
+        "parent_user_id": "U0951RDNKU6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X2+Va",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0951RDNKU6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " j avais fait un truc "
+                            },
+                            {
+                                "type": "text",
+                                "text": "canon avec la team marketing avec "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:laurence@mountain-path.com",
+                                "text": "laurence@mountain-path.com",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nJe te conseille! Elle est géniale, et c est une mise en situation de problème en haute montagne et gestion de la collaboration et du stress! J avais kiffé ! Tu peux la contacter de ma part, c est une ancienne LinkedIn pipe drive "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0951RDNKU6",
+                    "U08EN5GRYCC"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

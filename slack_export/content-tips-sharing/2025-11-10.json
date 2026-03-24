@@ -1,0 +1,116 @@
+[
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1762776035.038009",
+        "client_msg_id": "2263a853-0614-4fc6-b0a1-c7d21fdcbca5",
+        "text": "<https:\/\/www.growthunhinged.com\/p\/2025-state-of-b2b-gtm-report>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.growthunhinged.com\/p\/2025-state-of-b2b-gtm-report",
+                "image_url": "https:\/\/substackcdn.com\/image\/fetch\/$s_!sTwc!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto\/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F42393c22-0211-4d48-b449-ef2dfa79fd70_1080x1024.png",
+                "image_width": 1080,
+                "image_height": 600,
+                "image_bytes": 44246,
+                "service_icon": "https:\/\/substackcdn.com\/image\/fetch\/%24s_!8Wn3!,f_auto,q_auto:good,fl_progressive:steep\/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F792fa50d-9576-42cb-8aef-b52b8da3b78d%2Fapple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.growthunhinged.com\/p\/2025-state-of-b2b-gtm-report",
+                "fallback": "What’s working in GTM right now",
+                "text": "New data from 195 GTM leaders in the 2025 State of B2B GTM report",
+                "title": "What’s working in GTM right now",
+                "title_link": "https:\/\/www.growthunhinged.com\/p\/2025-state-of-b2b-gtm-report",
+                "service_name": "growthunhinged.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SkHzn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.growthunhinged.com\/p\/2025-state-of-b2b-gtm-report"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U084KTR7YKX",
+                    "U0183AS3MB6",
+                    "U063A8VPPG9",
+                    "U07MNBM4WLV",
+                    "U03P99RGMTN",
+                    "U06EN9X790C",
+                    "U08QZ6EKE4Q",
+                    "U017CURDPB5",
+                    "U025AMSNGF8",
+                    "U06TF9YAWEM",
+                    "U09EFH6S1BQ",
+                    "U092U6UDLMN",
+                    "U054GRSQCTX"
+                ],
+                "count": 13
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1762776048.276049",
+        "client_msg_id": "81f2cf0a-43e4-46fe-bccf-c839b637288e",
+        "text": "Super rapport, je suis pas d'accord avec tout mais assez intéressant",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eFApu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Super rapport, je suis pas d'accord avec tout mais assez intéressant"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

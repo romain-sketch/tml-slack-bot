@@ -1,0 +1,150 @@
+[
+    {
+        "user": "U06TF9YAWEM",
+        "type": "message",
+        "ts": "1762164029.221239",
+        "client_msg_id": "3479d2ce-3dce-4af3-b2f2-21e1762ea05c",
+        "text": "Hello à tous, je ne pourrais pas être là à cette date mais très très preneuse s'il y a un replay de la session :pray: Merci beaucoup !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "bd18243d01f9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-04-13\/8768953549904_bd18243d01f97fe02075_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Lhermitte",
+            "display_name": "Marie Lhermitte (Lucca)",
+            "team": "T017AGS2KE0",
+            "name": "marie.lhermitte78",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759909660.136279",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I610a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello à tous, je ne pourrais pas être là à cette date mais très très preneuse s'il y a un replay de la session "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Merci beaucoup !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1762174848.975779",
+        "client_msg_id": "1721f7de-f140-4eec-b9db-f3905c657516",
+        "text": "Nous on avait foiré l'espagne, je peux juste parler de toutes les erreurs qui nous ont fait fermer le pays 2 ans apres l'ouverture :face_with_peeking_eye::sweat_smile:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761577608.761399",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p\/lZc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nous on avait foiré l'espagne, je peux juste parler de toutes les erreurs qui nous ont fait fermer le pays 2 ans apres l'ouverture "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_with_peeking_eye",
+                                "unicode": "1fae3"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sweat_smile",
+                "users": [
+                    "U06CZESF7QF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1762183872.543819",
+        "client_msg_id": "718e23e9-aafd-4246-adb8-1f4e526f40d1",
+        "text": "Hyper preneuse du nom de l'agence aussi !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761582043.907889",
+        "parent_user_id": "U03P99RGMTN",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8EO\/+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hyper preneuse du nom de l'agence aussi !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

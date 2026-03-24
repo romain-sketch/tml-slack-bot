@@ -1,0 +1,46 @@
+[
+    {
+        "user": "U067VEJFT5F",
+        "type": "message",
+        "ts": "1745331286.153649",
+        "client_msg_id": "5a60d9e7-8b51-4cbf-9dd0-4bf536d09c51",
+        "text": "<@U017CURDPB5> très preneuse de ton mini CR si tu réussis à parler avec Linkedin !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9fcbd8d4bd09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-05\/6296382564371_9fcbd8d4bd095d25ab4c_72.jpg",
+            "first_name": "Amandine",
+            "real_name": "Amandine Moreau",
+            "display_name": "Amandine Moreau",
+            "team": "T017AGS2KE0",
+            "name": "a.gremont.pro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744031312.480729",
+        "parent_user_id": "U017CURDPB5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TiB8K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U017CURDPB5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " très preneuse de ton mini CR si tu réussis à parler avec Linkedin !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

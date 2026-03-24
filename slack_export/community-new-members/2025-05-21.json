@@ -1,0 +1,95 @@
+[
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1747812791.757239",
+        "client_msg_id": "4AE549A4-FF39-4FF3-AF63-7E4420AB36E6",
+        "text": "Welcome <@U08SX6ZDADD> :arrow_up: ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1747812791.757239",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1748380405.938639",
+        "reply_users": [
+            "U06MHCCLQG3"
+        ],
+        "replies": [
+            {
+                "user": "U06MHCCLQG3",
+                "ts": "1748380405.938639"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OTVhU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08SX6ZDADD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "flèche_haut",
+                                "unicode": "2b06-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U03QPMQA31V",
+                    "U017RAZCAGZ",
+                    "U06CZESF7QF",
+                    "U063A8VPPG9",
+                    "U0183AS3MB6",
+                    "U0177A5V42F",
+                    "U06DYTRDLUD",
+                    "U067GNGDATD",
+                    "U06TF9YAWEM",
+                    "U07D08K3U0K",
+                    "U08SA22HS0J",
+                    "U017H09S857",
+                    "U06M6E5M524",
+                    "U06LENY5V6Z",
+                    "U06V83JDFLY"
+                ],
+                "count": 15
+            }
+        ]
+    }
+]

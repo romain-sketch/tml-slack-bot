@@ -1,0 +1,131 @@
+[
+    {
+        "user": "U04TU0UA2R1",
+        "type": "message",
+        "ts": "1749194658.180379",
+        "client_msg_id": "3c8878ac-0daa-430f-961e-a030760cfc91",
+        "text": "Merci, super intéressant !\n\nQuestion spécifique sur le *suivi des volumes de requêtes de marque*\n• De mon côté je suis depuis longtemps le volume d'impressions via Google Ads et via la Search Console\n• Les 2 méthodologies ont toujours donné des résultats cohérents (valeurs absolues différentes mais trends similaires)\n• Mais depuis quelques mois je vois des trend très différents : *croissance des impression beaucoup plus forte via Google Ads que via la Search Console*\n• Du coup je ne sais plus trop quoi en tirer et je ne vois pas de raison logique qui pourrait expliquer ça :thinking_face: \n:point_right: Est-ce que vous avez aussi ce genre de problème ? Vous savez d'où ça vient ? Comment vous faites pour tracker les volumes ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2349ebc07255",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-15\/4939175993079_2349ebc07255c4ecc3fc_72.jpg",
+            "first_name": "Adrien",
+            "real_name": "Adrien Le Roy",
+            "display_name": "Adrien Le Roy (Indy)",
+            "team": "T017AGS2KE0",
+            "name": "adrien.le.roy2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748965443.253749",
+        "parent_user_id": "U04L04T475K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6JAgG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci, super intéressant !\n\nQuestion spécifique sur le "
+                            },
+                            {
+                                "type": "text",
+                                "text": "suivi des volumes de requêtes de marque",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "De mon côté je suis depuis longtemps le volume d'impressions via Google Ads et via la Search Console"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Les 2 méthodologies ont toujours donné des résultats cohérents (valeurs absolues différentes mais trends similaires)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Mais depuis quelques mois je vois des trend très différents : "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "croissance des impression beaucoup plus forte via Google Ads que via la Search Console",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Du coup je ne sais plus trop quoi en tirer et je ne vois pas de raison logique qui pourrait expliquer ça "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "thinking_face",
+                                        "unicode": "1f914"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_right",
+                                "unicode": "1f449"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Est-ce que vous avez aussi ce genre de problème ? Vous savez d'où ça vient ? Comment vous faites pour tracker les volumes ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

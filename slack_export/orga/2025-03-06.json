@@ -1,0 +1,105 @@
+[
+    {
+        "user": "U069NSTHZ3Q",
+        "type": "message",
+        "ts": "1741255823.215819",
+        "client_msg_id": "b78cd1e6-a11e-42a8-a55a-065d8ee0b809",
+        "text": "hello, c'est côté Sales, % CA, mais je mets en place le pilotage des affaires (pour le mettre dans SF et pas 10 tableaux excels) et le suivi (fait des réunions pour avoir toutes les infos)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "fbbca81fca0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-30\/7816371623809_fbbca81fca0c916c8c15_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Gannau (Oodrive)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "m.gannau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741190452.408229",
+        "parent_user_id": "U086LFGGVUG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Cray",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello, c'est côté Sales, % CA, mais je mets en place le pilotage des affaires (pour le mettre dans SF et pas 10 tableaux excels) et le suivi (fait des réunions pour avoir toutes les infos)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U086LFGGVUG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01789XN2UV",
+        "type": "message",
+        "ts": "1741262190.938819",
+        "client_msg_id": "2d91579e-4915-4106-b9ee-ef1a91af9297",
+        "text": "De mon point de vue, c'est obligatoirement marketing si rationnel prescripteur \/ visibilité. Prêt à débattre si on parle vraiment de vente indirecte :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "dc904393dfdd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-01-27\/8347075988438_dc904393dfdd624e2705_72.jpg",
+            "first_name": "Adrien",
+            "real_name": "Adrien Plat",
+            "display_name": "Adrien Plat",
+            "team": "T017AGS2KE0",
+            "name": "adrien",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741190452.408229",
+        "parent_user_id": "U086LFGGVUG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZhAym",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "De mon point de vue, c'est obligatoirement marketing si rationnel prescripteur \/ visibilité. Prêt à débattre si on parle vraiment de vente indirecte "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "U086LFGGVUG"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

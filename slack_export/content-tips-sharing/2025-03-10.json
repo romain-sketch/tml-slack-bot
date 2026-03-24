@@ -1,0 +1,47 @@
+[
+    {
+        "user": "U04TU0UA2R1",
+        "type": "message",
+        "ts": "1741593210.563609",
+        "client_msg_id": "7e12b4ec-db4e-4d08-a327-f0e6d50940b6",
+        "text": "Pas encore ! Si tu as des pistes je prends :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2349ebc07255",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-15\/4939175993079_2349ebc07255c4ecc3fc_72.jpg",
+            "first_name": "Adrien",
+            "real_name": "Adrien Le Roy",
+            "display_name": "Adrien Le Roy (Indy)",
+            "team": "T017AGS2KE0",
+            "name": "adrien.le.roy2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741243496.755989",
+        "parent_user_id": "U04TU0UA2R1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v6b01",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pas encore ! Si tu as des pistes je prends "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

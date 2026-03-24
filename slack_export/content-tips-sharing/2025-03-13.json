@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U04TU0UA2R1",
+        "type": "message",
+        "ts": "1741867606.594349",
+        "client_msg_id": "e7716232-74c8-4b4c-a0fb-517a9ca62508",
+        "text": "Merci, je regarde !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2349ebc07255",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-15\/4939175993079_2349ebc07255c4ecc3fc_72.jpg",
+            "first_name": "Adrien",
+            "real_name": "Adrien Le Roy",
+            "display_name": "Adrien Le Roy (Indy)",
+            "team": "T017AGS2KE0",
+            "name": "adrien.le.roy2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741243496.755989",
+        "parent_user_id": "U04TU0UA2R1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UTWrr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci, je regarde !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

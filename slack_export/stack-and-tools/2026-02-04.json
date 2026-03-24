@@ -1,0 +1,67 @@
+[
+    {
+        "user": "U065DFPCQMP",
+        "type": "message",
+        "ts": "1770227950.572649",
+        "edited": {
+            "user": "U065DFPCQMP",
+            "ts": "1770227980.000000"
+        },
+        "client_msg_id": "B43530DD-AD0F-4B42-801B-BE1EAB87AB83",
+        "text": "Hello <@U07BLPPL3C1>, je l’ai utilisé pour créer des supports de cours très complets en en rien de temps c’est assez fou ! \nPour des decks ça fait gagner beaucoup de temps et mais c’est assez moche et très reconnaissable niveau design, même si personnalisé avec des éléments de ta charte. ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50040e0261e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-15\/6198553206674_50040e0261e7ba62e840_72.jpg",
+            "first_name": "Gaelle",
+            "real_name": "Gaelle Le Goff",
+            "display_name": "Gaelle Le Goff",
+            "team": "T017AGS2KE0",
+            "name": "gaelle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1767621073.794559",
+        "parent_user_id": "U07BLPPL3C1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9ST0P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "H"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07BLPPL3C1"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", je l’ai utilisé pour créer des supports de cours très complets en en rien de temps c’est assez fou ! \nPour des decks ça fait gagner beaucoup de temps et mais c’est assez moche et très reconnaissable niveau design, même si personnalisé avec des éléments de ta charte. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U07BLPPL3C1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1735804806.649869",
+        "client_msg_id": "3df46e26-c5db-4eb9-b49a-ec9c7bbe72e4",
+        "text": "Hello, <https:\/\/www.linkedin.com\/in\/agathegehin\/|Agathe> a demandé à rejoindre TML via Linkedin. Des avis ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1735804806.649869",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1736347115.542069",
+        "reply_users": [
+            "U02N2EVMFCG",
+            "U063A8VPPG9",
+            "U06U1GG592M"
+        ],
+        "replies": [
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1736323367.050739"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1736325059.008879"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1736331852.903539"
+            },
+            {
+                "user": "U06U1GG592M",
+                "ts": "1736346947.809549"
+            },
+            {
+                "user": "U06U1GG592M",
+                "ts": "1736346959.688079"
+            },
+            {
+                "user": "U06U1GG592M",
+                "ts": "1736346989.247149"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1736347115.542069"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IVVq6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/agathegehin\/",
+                                "text": "Agathe"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a demandé à rejoindre TML via Linkedin. Des avis ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

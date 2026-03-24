@@ -1,0 +1,150 @@
+[
+    {
+        "user": "U07LN85V6TG",
+        "type": "message",
+        "ts": "1747647312.520609",
+        "edited": {
+            "user": "U07LN85V6TG",
+            "ts": "1747647327.000000"
+        },
+        "client_msg_id": "62C7A31C-8F96-49D9-80DE-E948A6E3713B",
+        "text": "Hello, c’est un concurrent CoachHub ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "32409790ca44",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-11\/7707593936998_32409790ca44083a383f_72.png",
+            "first_name": "Leslie",
+            "real_name": "Leslie Tedgui",
+            "display_name": "Leslie Tedgui (CoachHub)",
+            "team": "T017AGS2KE0",
+            "name": "leslie.tedgui110",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1747395965.230109",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MoE60",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, c"
+                            },
+                            {
+                                "type": "text",
+                                "text": "’"
+                            },
+                            {
+                                "type": "text",
+                                "text": "est un concurrent "
+                            },
+                            {
+                                "type": "text",
+                                "text": "CoachHub"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U01A4GMRRR9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1747649857.727539",
+        "client_msg_id": "4451d02f-b002-43f4-b2e5-90487f07992c",
+        "text": "Hello, demande venant de Linkedin, le <https:\/\/www.linkedin.com\/in\/benjamin-gelin-b83756164\/|directeur> produit &amp; marketing de Winamax veut nous rejoindre, qu'en pensez-vous ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/benjamin-gelin-b83756164\/",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "thumb_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/D4E03AQH9Jp4-OqNLeQ\/profile-displayphoto-shrink_200_200\/profile-displayphoto-shrink_200_200\/0\/1712301216136?e=2147483647&v=beta&t=UWQFjJVjPpZu_gIEdmf1kmEPdCRyZyUKBD1LSUN93_4",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/benjamin-gelin-b83756164\/",
+                "fallback": "Benjamin GELIN - WINAMAX | LinkedIn",
+                "text": "Expérience : WINAMAX · Formation : Sciences Po Lyon · Lieu : Paris · 361 relations sur LinkedIn. Consultez le profil de Benjamin GELIN sur LinkedIn, une communauté professionnelle d’un milliard de membres.",
+                "title": "Benjamin GELIN - WINAMAX | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/benjamin-gelin-b83756164\/",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b3fEF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, demande venant de Linkedin, le "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/benjamin-gelin-b83756164\/",
+                                "text": "directeur"
+                            },
+                            {
+                                "type": "text",
+                                "text": " produit & marketing de Winamax veut nous rejoindre, qu'en pensez-vous ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01A4GMRRR9",
+                    "U055KSYA2AH",
+                    "U06TF9YAWEM",
+                    "U04HP95GK55",
+                    "U08EN5T6F4L",
+                    "U067GNGDATD",
+                    "U06DYTRDLUD",
+                    "U06MHCCLQG3"
+                ],
+                "count": 8
+            }
+        ]
+    }
+]

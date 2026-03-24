@@ -1,0 +1,117 @@
+[
+    {
+        "user": "U067VEJFT5F",
+        "type": "message",
+        "ts": "1742806827.426949",
+        "client_msg_id": "0d1244cd-20fb-42bc-ac80-5ceb0475546c",
+        "text": "Coucou les stars ! Je crée un nouveau site internet pour un client. Aucun enjeu de vente en ligne, de la pure comm corporate. J'hésite entre Google Analytics et Matomo : avez-vous des recos ou des avis ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9fcbd8d4bd09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-05\/6296382564371_9fcbd8d4bd095d25ab4c_72.jpg",
+            "first_name": "Amandine",
+            "real_name": "Amandine Moreau",
+            "display_name": "Amandine Moreau",
+            "team": "T017AGS2KE0",
+            "name": "a.gremont.pro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742806827.426949",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1742908682.114659",
+        "reply_users": [
+            "U016SBPG7K9",
+            "U067VEJFT5F"
+        ],
+        "replies": [
+            {
+                "user": "U016SBPG7K9",
+                "ts": "1742808108.977189"
+            },
+            {
+                "user": "U067VEJFT5F",
+                "ts": "1742908682.114659"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kvmkm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Coucou les stars ! Je crée un nouveau site internet pour un client. Aucun enjeu de vente en ligne, de la pure comm corporate. J'hésite entre Google Analytics et Matomo : avez-vous des recos ou des avis ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U06CZESF7QF",
+                    "U056DAY3YD8"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1742808108.977189",
+        "client_msg_id": "e1c70782-665d-4fcd-95ac-d7db8f6f0c98",
+        "text": "Qui seront les utilisateurs finaux et quelle expérience\/préférence ont-ils ?\nQuelle est l'expérience des personnes qui mettront en place l'outil ? (ex: Seraient-ils capable de faire un setup parfait sur les 2 outils ?)\n\nL'un n'est pas forcément mieux que l'autre, mais ces 2 questions vont déterminer le choix",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742806827.426949",
+        "parent_user_id": "U067VEJFT5F",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hawf6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Qui seront les utilisateurs finaux et quelle expérience\/préférence ont-ils ?\nQuelle est l'expérience des personnes qui mettront en place l'outil ? (ex: Seraient-ils capable de faire un setup parfait sur les 2 outils ?)\n\nL'un n'est pas forcément mieux que l'autre, mais ces 2 questions vont déterminer le choix"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U08K178SPUM",
+        "text": "<@U08K178SPUM> has joined the channel",
+        "type": "message",
+        "ts": "1742848700.181679"
+    }
+]

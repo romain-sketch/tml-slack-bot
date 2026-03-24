@@ -1,0 +1,114 @@
+[
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1746428429.233689",
+        "client_msg_id": "52124ff2-4891-4b29-aecf-6210513c3687",
+        "text": "Bonjour à tou.te.s, j'espère que vous allez bien ?\n:books: *L’ouvrage continue à bien se vendre*, *nous en sommes à 1666 ventes* à date ce qui est une bonne nouvelle car la mise en place était importante.\n:speech_balloon: *Est-ce que vous pouvez rédiger des commentaires Amazon* (et demander à vos connaissances) ? L'éditrice nous dit que c'est important d’avoir un maximum de retours positifs.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G9Kg7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour à tou.te.s, j'espère que vous allez bien ?\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "books",
+                                "unicode": "1f4da",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " L’ouvrage continue à bien se vendre",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "text",
+                                "text": "nous en sommes à 1666 ventes",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " à date ce qui est une bonne nouvelle car la mise en place était importante.\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "speech_balloon",
+                                "unicode": "1f4ac",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Est-ce que vous pouvez rédiger des commentaires Amazon",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " (et demander à vos connaissances) ? L'éditrice nous dit que c'est important d’avoir un maximum de retours positifs."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U042GV737MX",
+                    "U03P99RGMTN",
+                    "U063A8VPPG9",
+                    "U0177A5V42F",
+                    "U025AMSNGF8",
+                    "U06MLNEGNKB",
+                    "U07PEP71X4Y",
+                    "U06LENY5V6Z"
+                ],
+                "count": 8
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U08EN5GRYCC",
+                    "U017CURDPB5",
+                    "U065DFPCQMP"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "user": "U086LFGGVUG",
+        "type": "message",
+        "ts": "1758539927.343219",
+        "client_msg_id": "1d9648ce-870b-4531-8e61-6e63e9cf476e",
+        "text": "<@U08EN5T6F4L>  tu pourrais me mettre en lien avec la personne qui porte le projet chez Sellsy stp?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "8037084d031e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-01-03\/8241041927621_8037084d031e372f4d94_72.jpg",
+            "first_name": "Laura",
+            "real_name": "Laura Silva",
+            "display_name": "Laura Silva",
+            "team": "T017AGS2KE0",
+            "name": "laura.silva",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1754574378.314379",
+        "parent_user_id": "U086LFGGVUG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NRd6g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U08EN5T6F4L"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  tu pourrais me mettre en lien avec la personne qui porte le projet chez Sellsy stp?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

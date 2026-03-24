@@ -1,0 +1,59 @@
+[
+    {
+        "user": "U022RFSKQQK",
+        "type": "message",
+        "ts": "1744356118.678679",
+        "client_msg_id": "86e19d3e-753a-4d9b-b128-f8d43a25f31d",
+        "text": "Canon <@U017H09S857> . Super riche comme table ronde qui mixe des univers différents! Bel est ma première maison j'y ai passé 8 ans et Béatrice ma dernière DG ;)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "67fe59b92c78",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-01\/6569222233124_67fe59b92c782b5917b3_72.jpg",
+            "first_name": "Aude",
+            "real_name": "Aude Romelly",
+            "display_name": "Aude Romelly",
+            "team": "T017AGS2KE0",
+            "name": "aromelly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744114428.535909",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2X5OA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Canon "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U017H09S857"
+                            },
+                            {
+                                "type": "text",
+                                "text": " . Super riche comme table ronde qui mixe des univers différents! Bel est ma première maison j'y ai passé 8 ans et Béatrice ma dernière DG ;)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U017H09S857"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

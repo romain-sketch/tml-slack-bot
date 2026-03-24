@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U03QPMQA31V",
+        "type": "message",
+        "ts": "1741261771.220839",
+        "client_msg_id": "214a8df4-e071-455c-a510-c7f737b1b8a4",
+        "text": "Je confirme la reco de Pauline !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "920d362f50c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-26\/3858025441956_920d362f50c400fcafe0_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu Pouget-Abadie",
+            "display_name": "Matthieu PA (Orisha)",
+            "team": "T017AGS2KE0",
+            "name": "mpougetabadie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740735001.862719",
+        "parent_user_id": "U06U1GG592M",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tbp6j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je confirme la reco de Pauline !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U08554C4R7C"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

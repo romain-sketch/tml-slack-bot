@@ -1,0 +1,526 @@
+[
+    {
+        "subtype": "thread_broadcast",
+        "user": "U04TU0UA2R1",
+        "thread_ts": "1715765431.542019",
+        "root": {
+            "user": "U0720BFAVFE",
+            "type": "message",
+            "ts": "1715765431.542019",
+            "client_msg_id": "39deaf30-5c36-4727-a2e8-2fe39b64405a",
+            "text": "Hello à tous, sujet BTC : recommandez-vous des agences\/free pour des focus groupes consumer (sans tomber dans l'institut old school). Marque de cosmétiques DTC+retail EU qui attaque le marché FR. J'ai des contacts mais je voudrais bench avec les vôtres. :pray:",
+            "team": "T017AGS2KE0",
+            "thread_ts": "1715765431.542019",
+            "reply_count": 8,
+            "reply_users_count": 7,
+            "latest_reply": "1771326259.344129",
+            "reply_users": [
+                "U02N2EVMFCG",
+                "U0720BFAVFE",
+                "U065DFPCQMP",
+                "U022RFSKQQK",
+                "U04TU0UA2R1",
+                "U0A0QG03DLN",
+                "U0177A5V42F"
+            ],
+            "replies": [
+                {
+                    "user": "U02N2EVMFCG",
+                    "ts": "1715766527.821129"
+                },
+                {
+                    "user": "U0720BFAVFE",
+                    "ts": "1715766918.973609"
+                },
+                {
+                    "user": "U065DFPCQMP",
+                    "ts": "1715767308.134439"
+                },
+                {
+                    "user": "U022RFSKQQK",
+                    "ts": "1715846257.594709"
+                },
+                {
+                    "user": "U065DFPCQMP",
+                    "ts": "1715849269.643079"
+                },
+                {
+                    "user": "U04TU0UA2R1",
+                    "ts": "1771315364.097489"
+                },
+                {
+                    "user": "U0A0QG03DLN",
+                    "ts": "1771316383.916609"
+                },
+                {
+                    "user": "U0177A5V42F",
+                    "ts": "1771326259.344129"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "XJ+Aa",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Hello à tous, sujet BTC : recommandez-vous des agences\/free pour des focus groupes consumer (sans tomber dans l'institut old school). Marque de cosmétiques DTC+retail EU qui attaque le marché FR. J'ai des contacts mais je voudrais bench avec les vôtres. "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "pray",
+                                    "unicode": "1f64f"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1771315364.097489",
+        "client_msg_id": "f0ce49e2-b853-4cc4-b619-82c33e14a637",
+        "text": "*Recos pour des focus groupes et\/ou pour recruter des users pour faire du quali*\n\nPetit déterrage de thread :pick:\n\nJ'organise des tests quali pour voir comment les users réagissent à une homepage, une proposition de valeur, des éléments design.\n*Je vais en profiter pour tester (1) du focus group (en étant accompagné) et (2) des solutions de recrutement d'utilisateurs (ex. Usertesting).* \nLe but c'est de voir ce qui fonctionne bien pour Indy car derrière on a pas mal d'autres sujets sur lesquels on pourra reprendre ces méthodos.\nOn est sur du B2verysmallB, limite B2C car on cible uniquement les indépendants (freelances, professions libérales, micro-entrepreneurs, etc.)\n\nAuriez-vous des recos de free \/ agence pour le (1) et de solutions pour le (2) ?\nComment vous gérez ce genre de sujets chez vous ?\n<@U0720BFAVFE> finalement tu avais fait comment ?\n<@U065DFPCQMP> tu penses que Amandine serait pertinente sur une sujet pour Indy ?\n\nMerci ! :pray:",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oeC+\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Recos pour des focus groupes et\/ou pour recruter des users pour faire du quali",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nPetit déterrage de thread "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pick",
+                                "unicode": "26cf-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nJ'organise des tests quali pour voir comment les users réagissent à une homepage, une proposition de valeur, des éléments design.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Je vais en profiter pour tester (1) du focus group (en étant accompagné) et (2) des solutions de recrutement d'utilisateurs (ex. Usertesting). ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nLe but c'est de voir ce qui fonctionne bien pour Indy car derrière on a pas mal d'autres sujets sur lesquels on pourra reprendre ces méthodos.\nOn est sur du B2verysmallB, limite B2C car on cible uniquement les indépendants (freelances, professions libérales, micro-entrepreneurs, etc.)\n\nAuriez-vous des recos de free \/ agence pour le (1) et de solutions pour le (2) ?\nComment vous gérez ce genre de sujets chez vous ?\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0720BFAVFE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " finalement tu avais fait comment ?\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U065DFPCQMP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " tu penses que Amandine serait pertinente sur une sujet pour Indy ?\n\nMerci ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0A0QG03DLN",
+        "type": "message",
+        "ts": "1771316383.916609",
+        "client_msg_id": "3dedbbb7-a35d-4624-81c3-eaaeb4a7841c",
+        "text": "salut Adrien ! ça fait déjà quelques années mais je m'étais servi de <https:\/\/designusability.netlify.app\/|Usability Hub> pour évaluer des LPs avec des 5-second tests",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b968d96b48d4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-12-01\/10056348127568_b968d96b48d4a3ee8664_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Courbin",
+            "display_name": "Alexandre Courbin",
+            "team": "T017AGS2KE0",
+            "name": "alexandre.courbin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715765431.542019",
+        "parent_user_id": "U0720BFAVFE",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TGUUT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "salut Adrien ! ça fait déjà quelques années mais je m'étais servi de "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/designusability.netlify.app\/",
+                                "text": "Usability Hub"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour évaluer des LPs avec des 5-second tests"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04TU0UA2R1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0177A5V42F",
+        "type": "message",
+        "ts": "1771326259.344129",
+        "edited": {
+            "user": "U0177A5V42F",
+            "ts": "1771326282.000000"
+        },
+        "client_msg_id": "545fdbd4-7911-40a0-b2dc-5095e8861f4a",
+        "text": "Pour le 1 j'utilisais Puzzle qui est Boulevard des Capucines. Leurs site web est merdique mais l'approche était quali. En revanche très grande conso dans le recrutement panel donc avoir si tu les prends uniquement pour la partie methodo et que tu fais le recrutement de ton coté\nPS : c'était aussi il y a quelques années :wink:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ebca9b04129",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-17\/1245815650949_7ebca9b041296679a81d_72.jpg",
+            "first_name": "Guillaume",
+            "real_name": "Guillaume Laguette",
+            "display_name": "Guillaume Laguette (echOpen)",
+            "team": "T017AGS2KE0",
+            "name": "laguette.guillaume",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715765431.542019",
+        "parent_user_id": "U0720BFAVFE",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NQXuR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour le 1 j'utilisais Puzzle qui est Boulevard des Capucines. Leurs site web est merdique mais l'approche était quali. En revanche très grande conso dans le recrutement panel donc avoir si tu les prends uniquement pour la partie methodo et que tu fais le recrutement de ton coté\nPS : c'était aussi il y a quelques années "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04TU0UA2R1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U065DFPCQMP",
+        "type": "message",
+        "ts": "1771333285.287899",
+        "client_msg_id": "6ac81940-4ae8-44ff-94e7-f12ff038a1bf",
+        "text": "Hello <@U04TU0UA2R1> sur ce type de sujet, je verrais plus un user researcher qu'un directeur d'étude.\nje pense à <https:\/\/www.linkedin.com\/in\/gregoireddb?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=ios_app|Grégoire Devoucoux>\nIl y a qq années, j'avais bossé avec cette <https:\/\/www.linkedin.com\/company\/back-story\/|agence>  (pour Mobilize), très bien pour le usertesting",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50040e0261e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-15\/6198553206674_50040e0261e7ba62e840_72.jpg",
+            "first_name": "Gaelle",
+            "real_name": "Gaelle Le Goff",
+            "display_name": "Gaelle Le Goff",
+            "team": "T017AGS2KE0",
+            "name": "gaelle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/gregoireddb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+                "thumb_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/D4D03AQEambXRz8O3dA\/profile-displayphoto-shrink_200_200\/profile-displayphoto-shrink_200_200\/0\/1672757722473?e=2147483647&v=beta&t=0MNLSt9TLCBdAOucGl_F6tMnYjStDJCnZ0CqBpfeFpA",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/gregoireddb?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=ios_app",
+                "fallback": "Grégoire Devoucoux - Direction interministérielle du numérique (DINUM) | LinkedIn",
+                "text": "Expérience : Direction interministérielle du numérique (DINUM) · Formation : IÉSEG School of Management · Lieu : Paris · 500 relations ou plus sur LinkedIn. Consultez le profil de Grégoire Devoucoux sur LinkedIn, une communauté professionnelle d’un milliard de membres.",
+                "title": "Grégoire Devoucoux - Direction interministérielle du numérique (DINUM) | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/gregoireddb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+                "service_name": "fr.linkedin.com"
+            },
+            {
+                "from_url": "https:\/\/www.linkedin.com\/company\/back-story\/",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "thumb_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/C4D0BAQECcWhGmIN8KA\/company-logo_200_200\/company-logo_200_200\/0\/1630458453062\/back_story_logo?e=2147483647&v=beta&t=UBevJ18Vz2Ald5d6QdFyUciIcaqvleeH7yqsI7eceOc",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "id": 2,
+                "original_url": "https:\/\/www.linkedin.com\/company\/back-story\/",
+                "fallback": "BackStory | LinkedIn",
+                "text": "BackStory | 468 followers on LinkedIn. Sustainable Designer for Tomorrow : Backstory is a consulting agency specializing in responsible strategy and design. | We support our corporate and institutional clients in:\n- Understanding their ecosystem and stakeholders,\n- Designing services that are attractive, efficient, inclusive, scalable, and sustainable,\n- Advancing their responsible digital approach through participatory and incremental methods.\n\nOur areas of expertise include:\n- User research and studies\n- Strategy and vision\n- Phygital service design\n- Participatory methods\n- Digital accessibility\n-Digital Eco-design\n- User testing and evaluation\n- Sustainable development\n- Training and mentoring in UX, design systems, and accessibility",
+                "title": "BackStory | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/company\/back-story\/",
+                "service_name": "linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wO0AK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04TU0UA2R1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sur ce type de sujet, je verrais plus un user researcher qu'un directeur d'étude.\nje pense à "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/gregoireddb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+                                "text": "Grégoire Devoucoux"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nIl y a qq années, j'avais bossé avec cette "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/company\/back-story\/",
+                                "text": "agence"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  (pour Mobilize), très bien pour le usertesting"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04TU0UA2R1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U07R7CUFM7H",
+        "type": "message",
+        "ts": "1771348800.050559",
+        "edited": {
+            "user": "U07R7CUFM7H",
+            "ts": "1771348823.000000"
+        },
+        "client_msg_id": "32828991-7838-4dc7-905a-8fd50763875c",
+        "text": "Hello à tous,\n\nMa designer est solo-designer chez Mangopay, et cherche un buddy designer pour partager les best practices.\n\nEst-ce que vous auriez dans vos équipes un \/ une designer, qui a envie d'avoir des échanges réguliers, une fois par mois par exemple, avec un autre designer sur plein de sujets variés: design automation, comment empower les stakehodlers, AI off-course, best-practice avec figma et autre outil de la stack design...",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "1eabd032cd82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-05\/8152020385456_1eabd032cd826d3f64b3_72.jpg",
+            "first_name": "Mayeul",
+            "real_name": "Mayeul",
+            "display_name": "Mayeul (Mangopay)",
+            "team": "T017AGS2KE0",
+            "name": "mayeul.wattecamps",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1771348800.050559",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1771349929.907589",
+        "reply_users": [
+            "U0A0QG03DLN"
+        ],
+        "replies": [
+            {
+                "user": "U0A0QG03DLN",
+                "ts": "1771349929.907589"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CGOex",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello à tous,\n\nMa designer est solo-designer chez Mangopay, et cherche un buddy designer pour partager les best practices.\n\nEst-ce que vous auriez dans vos équipes un \/ une designer, qui a envie d'avoir des échanges réguliers, une fois par mois par exemple, avec un autre designer sur plein de sujets variés: design automation, comment empower les stakehodlers, AI off-course, best-practice avec figma et autre outil de la stack design..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0A0QG03DLN",
+        "type": "message",
+        "ts": "1771349929.907589",
+        "client_msg_id": "0cae88f7-d6c8-4f1b-83b5-3295cd093f01",
+        "text": "hello Mayeul, mon ancienne designer \/ DA *<https:\/\/fr.linkedin.com\/in\/anaisdeshays|Anaïs Deshays>* m'a déjà dit qu'un format comme ça lui plairait bien pour se forcer à innover et à regarder au-delà des missions du quotidien :slightly_smiling_face: Voilà ses coordonnées : <mailto:anais.deshays@eskimoz.fr|anais.deshays@eskimoz.fr> \/\/ 06 67 98 66 95",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b968d96b48d4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-12-01\/10056348127568_b968d96b48d4a3ee8664_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Courbin",
+            "display_name": "Alexandre Courbin",
+            "team": "T017AGS2KE0",
+            "name": "alexandre.courbin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1771348800.050559",
+        "parent_user_id": "U07R7CUFM7H",
+        "attachments": [
+            {
+                "from_url": "https:\/\/fr.linkedin.com\/in\/anaisdeshays",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "thumb_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/D4D03AQEPFMQXDp6hHw\/profile-displayphoto-shrink_200_200\/profile-displayphoto-shrink_200_200\/0\/1698157861582?e=2147483647&v=beta&t=_DYqVoNejOzOekwEMZvo3dAubyzWc0fqvUkss5vY8_Q",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "id": 1,
+                "original_url": "https:\/\/fr.linkedin.com\/in\/anaisdeshays",
+                "fallback": "Anaïs Deshays - Eskimoz | LinkedIn",
+                "text": "SITE : <http:\/\/www.anaisdeshays.com|www.anaisdeshays.com> · Expérience : Eskimoz · Formation : Ecole de Multimédia · Lieu : Paris et périphérie · 500 relations ou plus sur LinkedIn. Consultez le profil de Anaïs Deshays sur LinkedIn, une communauté professionnelle d’un milliard de membres.",
+                "title": "Anaïs Deshays - Eskimoz | LinkedIn",
+                "title_link": "https:\/\/fr.linkedin.com\/in\/anaisdeshays",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZYZHq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello Mayeul, mon ancienne designer \/ DA "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fr.linkedin.com\/in\/anaisdeshays",
+                                "text": "Anaïs Deshays",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " m'a déjà dit qu'un format comme ça lui plairait bien pour se forcer à innover et à regarder au-delà des missions du quotidien "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Voilà ses coordonnées : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:anais.deshays@eskimoz.fr",
+                                "text": "anais.deshays@eskimoz.fr"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \/\/ 06 67 98 66 95"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U07R7CUFM7H"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

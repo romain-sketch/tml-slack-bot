@@ -1,0 +1,162 @@
+[
+    {
+        "user": "U0946E8A2US",
+        "type": "message",
+        "ts": "1769674092.576409",
+        "client_msg_id": "F7421D59-0F4E-4F36-AB02-FBF75333F69E",
+        "text": "Non j'ai pas creusé du tout <@U063A8VPPG9> désolé !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "f73f6d38e4eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-07-23\/9238905089862_f73f6d38e4eb792c8c6a_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult",
+            "team": "T017AGS2KE0",
+            "name": "thibaut.davoult",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769597734.255279",
+        "parent_user_id": "U0946E8A2US",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g\/OCm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Non j'ai pas creusé du tout "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U063A8VPPG9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " désolé !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1769680096.007069",
+        "client_msg_id": "F7E734C9-903D-46A3-8850-28E6B3A64BEF",
+        "text": "Ok merci, en fait c est pas a eux que je parle mais une autre boîte loool! Je suis ouf :joy:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769597734.255279",
+        "parent_user_id": "U0946E8A2US",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V1vEw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok merci, en fait c est pas a eux que je parle mais une autre boîte loool! Je suis ouf "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "laughing",
+                "users": [
+                    "U02N2EVMFCG",
+                    "U0A0QG03DLN"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06LENY5V6Z",
+        "type": "message",
+        "ts": "1769682529.400279",
+        "client_msg_id": "ec86795a-39ec-4612-934b-b7bf0ab43894",
+        "text": "Bonjour <@U056DAY3YD8>, je peux proposer quelqu'un ! Intéressée par une intro :grinning: Merci !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "848090157b3c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6702750742819_848090157b3c5d209ab6_72.jpg",
+            "first_name": "Gaëlle",
+            "real_name": "Gaëlle Dumur",
+            "display_name": "Gaëlle Dumur",
+            "team": "T017AGS2KE0",
+            "name": "gaelle.dumur",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769596741.384069",
+        "parent_user_id": "U056DAY3YD8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kmeUm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U056DAY3YD8"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", je peux proposer quelqu'un ! Intéressée par une intro "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grinning",
+                                "unicode": "1f600"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Merci !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

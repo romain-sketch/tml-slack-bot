@@ -1,0 +1,56 @@
+[
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1761321871.392129",
+        "client_msg_id": "a4ca20bd-0795-423d-949e-1f046588a164",
+        "text": "Voici les notes : <https:\/\/www.notion.so\/hirondo\/Retour-d-exp-rience-Topo-AI-powered-SDR-outbound-296d2e20ba2f80faaf1ad25ce9b68abf?source=copy_link>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761035205.371099",
+        "parent_user_id": "U02N2EVMFCG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9p2sC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Voici les notes : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/hirondo\/Retour-d-exp-rience-Topo-AI-powered-SDR-outbound-296d2e20ba2f80faaf1ad25ce9b68abf?source=copy_link"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U09EFH6S1BQ",
+                    "U06LENY5V6Z"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

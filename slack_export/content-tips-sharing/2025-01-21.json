@@ -1,0 +1,146 @@
+[
+    {
+        "user": "U04L04T475K",
+        "type": "message",
+        "ts": "1737532645.603139",
+        "client_msg_id": "43d03fc9-c6eb-464e-b507-2993adb31ccd",
+        "text": "Hello tout le monde,\nAuriez-vous des recos d'agence d'Influence pour construire un programme plutôt long terme avec 3-4 influencers qui pourraient nous aider à gagner en notoriété + considération auprès des créateurs d'entreprises (et en cible plus large les respos RH) ?\nJ'insiste sur long terme, parce qu'on est pas intéressés par un package \"5 posts sur 10 semaines\" sans continuité.\nAussi, on aimerait pouvoir négocier les droits pour ré-utiliser du contenu sur nos channels owned\nMerci :pray::pray:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "992240f01962",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4685704045204_992240f019622b6b0af8_72.jpg",
+            "first_name": "Antoine",
+            "real_name": "Antoine Yahia Cherif",
+            "display_name": "Antoine Yahia Cherif",
+            "team": "T017AGS2KE0",
+            "name": "antoine.yc008",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737532645.603139",
+        "reply_count": 8,
+        "reply_users_count": 5,
+        "latest_reply": "1737563256.023119",
+        "reply_users": [
+            "U063A8VPPG9",
+            "U06CZESF7QF",
+            "U04L04T475K",
+            "U03QPMQA31V",
+            "U0183AS3MB6"
+        ],
+        "replies": [
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1737532759.892979"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1737532905.359369"
+            },
+            {
+                "user": "U04L04T475K",
+                "ts": "1737533030.927489"
+            },
+            {
+                "user": "U03QPMQA31V",
+                "ts": "1737534864.536999"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1737544216.605099"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1737562774.029749"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1737563075.574519"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1737563256.023119"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V7p3z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello tout le monde,\nAuriez-vous des recos d'agence d'Influence pour construire un programme plutôt long terme avec 3-4 influencers qui pourraient nous aider à gagner en notoriété + considération auprès des créateurs d'entreprises (et en cible plus large les respos RH) ?\nJ'insiste sur long terme, parce qu'on est pas intéressés par un package \"5 posts sur 10 semaines\" sans continuité.\nAussi, on aimerait pouvoir négocier les droits pour ré-utiliser du contenu sur nos channels owned\nMerci "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1737532759.892979",
+        "client_msg_id": "e3eb4fa7-75d8-468c-a9c2-276aa2b20c63",
+        "text": "j'allais poster pareil, tu m'as devancé ahahaha",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737532645.603139",
+        "parent_user_id": "U04L04T475K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VpLO8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "j'allais poster pareil, tu m'as devancé ahahaha"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "grin",
+                "users": [
+                    "U04L04T475K"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

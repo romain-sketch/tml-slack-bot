@@ -1,0 +1,166 @@
+[
+    {
+        "user": "U056DAY3YD8",
+        "type": "message",
+        "ts": "1755181450.822229",
+        "edited": {
+            "user": "U056DAY3YD8",
+            "ts": "1755181481.000000"
+        },
+        "client_msg_id": "A00633E5-1301-4775-B801-C85A99C63457",
+        "text": "Hello ! \n\nJ’aimerais recommander <https:\/\/www.linkedin.com\/in\/taniasaezf|Tania Saez> (qui m’a demandé à rejoindre la communauté), ancienne CMO et aujourd’hui Part-Time CMO et Marketing Advisor avec de solides compétences en ABM et profil assez technique :slightly_smiling_face: \n\nQu’en dites vous ?\n\nPS : elle vient de closer Theia (cc <@U03QPMQA31V> )",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "1497d32a4908",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-16\/6043403579731_1497d32a4908ee3b80b5_72.png",
+            "first_name": "Alexis",
+            "real_name": "Alexis Chevallier",
+            "display_name": "Alexis Chevallier (Part-Time CMO)",
+            "team": "T017AGS2KE0",
+            "name": "alexchvllr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1755181450.822229",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1756122846.896769",
+        "reply_users": [
+            "U056DAY3YD8",
+            "U07MNBM4WLV",
+            "U017H09S857"
+        ],
+        "replies": [
+            {
+                "user": "U056DAY3YD8",
+                "ts": "1755184734.790759"
+            },
+            {
+                "user": "U07MNBM4WLV",
+                "ts": "1755461908.636899"
+            },
+            {
+                "user": "U056DAY3YD8",
+                "ts": "1755623870.770149"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1756121977.229559"
+            },
+            {
+                "user": "U056DAY3YD8",
+                "ts": "1756122846.896769"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LCrlm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello ! \n\nJ’aimerais recommander "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/taniasaezf",
+                                "text": "Tania Saez"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (qui m’a demandé à rejoindre la communauté), ancienne CMO et aujourd’hui Part-Time CMO et Marketing Advisor avec de solides compétences en ABM et profil assez technique "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\nQu’en dites vous ?\n\nPS : elle vient de closer Theia (cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03QPMQA31V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " )"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02N2EVMFCG"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U03QPMQA31V"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U09BVQYR1GA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U056DAY3YD8",
+        "type": "message",
+        "ts": "1755184734.790759",
+        "client_msg_id": "E82147A0-35F1-4C46-8A0E-2EECFCE117D9",
+        "text": "Elle parle français :)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "1497d32a4908",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-16\/6043403579731_1497d32a4908ee3b80b5_72.png",
+            "first_name": "Alexis",
+            "real_name": "Alexis Chevallier",
+            "display_name": "Alexis Chevallier (Part-Time CMO)",
+            "team": "T017AGS2KE0",
+            "name": "alexchvllr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1755181450.822229",
+        "parent_user_id": "U056DAY3YD8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4B6nz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Elle parle français :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

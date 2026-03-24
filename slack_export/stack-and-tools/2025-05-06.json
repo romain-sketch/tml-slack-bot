@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U067VEJFT5F",
+        "type": "message",
+        "ts": "1746546132.170689",
+        "client_msg_id": "d2da0047-1d5d-40cb-8bae-a0e073054b6d",
+        "text": "ok thanks ! j'ai entendu dire de mon côté qu'il y a clairement chez eux un sujet d'augmenter les contenus paid \/ sponsored et qu'ils utilisent notamment le chgt d'algo pour ça ... Mais pas 100% sûre.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9fcbd8d4bd09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-05\/6296382564371_9fcbd8d4bd095d25ab4c_72.jpg",
+            "first_name": "Amandine",
+            "real_name": "Amandine Moreau",
+            "display_name": "Amandine Moreau",
+            "team": "T017AGS2KE0",
+            "name": "a.gremont.pro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744031312.480729",
+        "parent_user_id": "U017CURDPB5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZZQz4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok thanks ! j'ai entendu dire de mon côté qu'il y a clairement chez eux un sujet d'augmenter les contenus paid \/ sponsored et qu'ils utilisent notamment le chgt d'algo pour ça ... Mais pas 100% sûre."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U017CURDPB5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

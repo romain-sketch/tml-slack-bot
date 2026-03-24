@@ -1,0 +1,266 @@
+[
+    {
+        "user": "U065DFPCQMP",
+        "type": "message",
+        "ts": "1766593862.117299",
+        "client_msg_id": "87ce0a59-eb81-4e2a-aa8f-f42d11c7eb39",
+        "text": "*TML de 2025 à 2026*\nHello <!channel>\nOn arrive à la fin de l’année, et c'est le moment de l'introspection pour TML, mais aussi la période des voeux.\nOn vous invite donc à prendre un :teapot: ou un :coffee: en visio avec _Bojan_ (il est sympa et pas trop bavard) pour lui dire tout ce que vous pensez de TML et ce que vous en attendez.\n:point_right: *Le rdv se passe ici :* <https:\/\/ledivandetml.lovable.app>\n\nJ'en profite pour vous souhaitez de joyeuses fêtes, profitez bien de vos proches ! :dizzy:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50040e0261e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-15\/6198553206674_50040e0261e7ba62e840_72.jpg",
+            "first_name": "Gaelle",
+            "real_name": "Gaelle Le Goff",
+            "display_name": "Gaelle Le Goff",
+            "team": "T017AGS2KE0",
+            "name": "gaelle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1766593862.117299",
+        "reply_count": 7,
+        "reply_users_count": 6,
+        "latest_reply": "1767973328.640349",
+        "reply_users": [
+            "U017RAZCAGZ",
+            "U065DFPCQMP",
+            "U02N2EVMFCG",
+            "U020QK16RMJ",
+            "U07BLPPL3C1",
+            "U059T4KRCUC"
+        ],
+        "replies": [
+            {
+                "user": "U017RAZCAGZ",
+                "ts": "1766617397.371609"
+            },
+            {
+                "user": "U065DFPCQMP",
+                "ts": "1766666660.620989"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1766692396.722059"
+            },
+            {
+                "user": "U020QK16RMJ",
+                "ts": "1766739148.170359"
+            },
+            {
+                "user": "U07BLPPL3C1",
+                "ts": "1766742198.415479"
+            },
+            {
+                "user": "U065DFPCQMP",
+                "ts": "1767638248.786449"
+            },
+            {
+                "user": "U059T4KRCUC",
+                "ts": "1767973328.640349"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "image_url": "https:\/\/pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev\/4ea4acb1-baea-4121-83ef-0af2f46b3060\/id-preview-40ae8bb8--6cd7a2f1-368f-4fbc-89ca-67b510e72aea.lovable.app-1766590702885.png",
+                "image_width": 1920,
+                "image_height": 1080,
+                "image_bytes": 29889,
+                "from_url": "https:\/\/ledivandetml.lovable.app\/",
+                "id": 1,
+                "original_url": "https:\/\/ledivandetml.lovable.app",
+                "fallback": "Lovable App",
+                "text": "Lovable Generated Project",
+                "title": "Lovable App",
+                "title_link": "https:\/\/ledivandetml.lovable.app\/",
+                "service_name": "ledivandetml.lovable.app"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hZx5x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "TML de 2025 à 2026",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nHello "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nOn arrive à la fin de l’année, et c'est le moment de l'introspection pour TML, mais aussi la période des voeux.\nOn vous invite donc à prendre un "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "teapot",
+                                "unicode": "1fad6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ou un "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "coffee",
+                                "unicode": "2615"
+                            },
+                            {
+                                "type": "text",
+                                "text": " en visio avec "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Bojan",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " (il est sympa et pas trop bavard) pour lui dire tout ce que vous pensez de TML et ce que vous en attendez.\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_right",
+                                "unicode": "1f449",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Le rdv se passe ici :",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ledivandetml.lovable.app"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nJ'en profite pour vous souhaitez de joyeuses fêtes, profitez bien de vos proches ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dizzy",
+                                "unicode": "1f4ab"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U017H09S857",
+                    "U0183AS3MB6",
+                    "U01A4GMRRR9",
+                    "U054GRSQCTX",
+                    "U09BVQYR1GA",
+                    "U06DYTRDLUD",
+                    "U059T4KRCUC",
+                    "U08M0JP81DK"
+                ],
+                "count": 8
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U017H09S857",
+                    "U0183AS3MB6",
+                    "U06V83JDFLY",
+                    "U08QZ6EKE4Q"
+                ],
+                "count": 4
+            },
+            {
+                "name": "sweat_smile",
+                "users": [
+                    "U06LENY5V6Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U017RAZCAGZ",
+        "type": "message",
+        "ts": "1766617397.371609",
+        "edited": {
+            "user": "U017RAZCAGZ",
+            "ts": "1766617412.000000"
+        },
+        "client_msg_id": "3CF7D9E8-CE9B-410C-90A4-35672796CA71",
+        "text": "<@U065DFPCQMP> quel est l’objectif de ce :coffee: ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2e6e61c8f204",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-20\/1251040887619_2e6e61c8f20434050630_72.jpg",
+            "first_name": "Hélène",
+            "real_name": "Hélène Draoulec (Phenix)",
+            "display_name": "Hélène Draoulec (Phenix)",
+            "team": "T017AGS2KE0",
+            "name": "hdraoulec",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1766593862.117299",
+        "parent_user_id": "U065DFPCQMP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jaQnw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U065DFPCQMP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " quel est l’objectif de ce "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "coffee",
+                                "unicode": "2615"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,328 @@
+[
+    {
+        "user": "U06DYTRDLUD",
+        "type": "message",
+        "ts": "1744010569.164479",
+        "client_msg_id": "c5564417-faa1-4f5c-a1d0-5f662fa0e824",
+        "text": "Je veux bien stp <@U03QPMQA31V>, merci !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901f49789864",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-17\/6483135134229_901f4978986494a521e4_72.jpg",
+            "first_name": "Flora",
+            "real_name": "Flora Wolfer",
+            "display_name": "Flora Wolfer (Payplug)",
+            "team": "T017AGS2KE0",
+            "name": "fwolfer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743760831.836679",
+        "parent_user_id": "U06DYTRDLUD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q1tQ9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je veux bien stp "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03QPMQA31V"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", merci !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03QPMQA31V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U020QK16RMJ",
+        "type": "message",
+        "ts": "1744018268.757629",
+        "client_msg_id": "6bb6b8e7-f5d1-4b43-ae45-316f95c43cac",
+        "text": "Bonjour,\nVous êtes un peu plus d'une dizaine à avoir rempli le formulaire du programme TML Buddy... Il est encore temps pour rejoindre la team:\n<https:\/\/tally.so\/r\/wQ4N01>\n:handshake: :love_letter:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "56d8a678e801",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-18\/7292097443269_56d8a678e801350db84a_72.png",
+            "first_name": "Joël",
+            "real_name": "Joël Gaudeul",
+            "display_name": "Joël (Swan)",
+            "team": "T017AGS2KE0",
+            "name": "joel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744018268.757629",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1744036158.319429",
+        "reply_users": [
+            "U020QK16RMJ"
+        ],
+        "replies": [
+            {
+                "user": "U020QK16RMJ",
+                "ts": "1744036158.319429"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "image_url": "https:\/\/tally.so\/images\/og.jpg",
+                "image_width": 2400,
+                "image_height": 1260,
+                "image_bytes": 316443,
+                "from_url": "https:\/\/tally.so\/r\/wQ4N01",
+                "service_icon": "https:\/\/tally.so\/tally-square.png",
+                "id": 1,
+                "original_url": "https:\/\/tally.so\/r\/wQ4N01",
+                "fallback": "Tally Forms: TML Buddy",
+                "text": "Conçu par Tally, la manière la plus simple de créer des formulaires.",
+                "title": "TML Buddy",
+                "title_link": "https:\/\/tally.so\/r\/wQ4N01",
+                "service_name": "Tally Forms"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MnUFl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour,\nVous êtes un peu plus d'une dizaine à avoir rempli le formulaire du programme TML Buddy... Il est encore temps pour rejoindre la team:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/tally.so\/r\/wQ4N01"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "handshake",
+                                "unicode": "1f91d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "love_letter",
+                                "unicode": "1f48c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U065DFPCQMP",
+                    "U07PEP71X4Y",
+                    "U017CURDPB5",
+                    "U06TF9YAWEM",
+                    "U0177A5V42F",
+                    "U08HF5YQM6G"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "user": "U07MNBM4WLV",
+        "type": "message",
+        "ts": "1744019515.520369",
+        "client_msg_id": "e47c617e-3aff-48e9-994b-83c155e7a46c",
+        "text": "Hello <@U06DYTRDLUD>\nJ'ai bossé avec <https:\/\/www.linkedin.com\/in\/carolinepandrauddurand\/|Caroline> chez PlayPlay, elle est très forte et a une bonne compréhension tech (c'est elle qui est à l'origine du \"nearbound\" de Reveal).\nSon site pour vérifier que ça correspond à tes attentes sur le papier : <https:\/\/www.wechapter.co\/>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "028ce63b55be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7733128030774_028ce63b55be29945d4f_72.jpg",
+            "first_name": "Domitille",
+            "real_name": "Domitille de Saint-Exupéry",
+            "display_name": "Domitille de Saint-Exupéry (lemlist)",
+            "team": "T017AGS2KE0",
+            "name": "domitille433",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743760831.836679",
+        "parent_user_id": "U06DYTRDLUD",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/carolinepandrauddurand\/",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "thumb_url": "https:\/\/static.licdn.com\/scds\/common\/u\/images\/email\/artdeco\/logos\/96\/linkedin-bug-color.png",
+                "thumb_width": 96,
+                "thumb_height": 96,
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/carolinepandrauddurand\/",
+                "fallback": "Caroline Pandraud-Durand - CHAPTER - narrative for tech | LinkedIn",
+                "text": "I help leading tech companies build the future with unapologetic clarity - through the power of strategic narrative. \n\nChapter is specialized in B2B software, digital brands, AI and Deeptech. We work hand-in-hand with CEOs and Marketing teams in their pivotal moments. · Experience: CHAPTER - narrative for tech · Education: ESSEC Business School Paris · Location: Paris · 500+ connections on LinkedIn. View Caroline Pandraud-Durand’s profile on LinkedIn, a professional community of 1 billion members.",
+                "title": "Caroline Pandraud-Durand - CHAPTER - narrative for tech | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/carolinepandrauddurand\/",
+                "service_name": "fr.linkedin.com"
+            },
+            {
+                "image_url": "https:\/\/framerusercontent.com\/assets\/WZMhdCq3ZUBBtR31EytYtTz7v4.png",
+                "image_width": 1608,
+                "image_height": 818,
+                "image_bytes": 78056,
+                "from_url": "https:\/\/www.wechapter.co\/",
+                "service_icon": "https:\/\/framerusercontent.com\/images\/tIc1Gsq1yQWrtBPXS09vZvPznLo.png",
+                "id": 2,
+                "original_url": "https:\/\/www.wechapter.co\/",
+                "fallback": "Chapter - Strategic narratives for tech leaders",
+                "text": "We build the positioning that defines you category and powers your next chapter.",
+                "title": "Chapter - Strategic narratives for tech leaders",
+                "title_link": "https:\/\/www.wechapter.co\/",
+                "service_name": "wechapter.co"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8mvPC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06DYTRDLUD"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nJ'ai bossé avec "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/carolinepandrauddurand\/",
+                                "text": "Caroline"
+                            },
+                            {
+                                "type": "text",
+                                "text": " chez PlayPlay, elle est très forte et a une bonne compréhension tech (c'est elle qui est à l'origine du \"nearbound\" de Reveal).\nSon site pour vérifier que ça correspond à tes attentes sur le papier : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.wechapter.co\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U06DYTRDLUD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U08M0JP81DK",
+        "text": "<@U08M0JP81DK> has joined the channel",
+        "type": "message",
+        "ts": "1744034377.016449",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U01789XN2UV",
+                    "U06E3PY5LAY",
+                    "U065DFPCQMP"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U020QK16RMJ",
+        "type": "message",
+        "ts": "1744036158.319429",
+        "edited": {
+            "user": "U020QK16RMJ",
+            "ts": "1744036162.000000"
+        },
+        "client_msg_id": "d19c2cac-1fc2-4e4e-9f7f-9571c7914125",
+        "text": "21 buddies and counting",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "56d8a678e801",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-18\/7292097443269_56d8a678e801350db84a_72.png",
+            "first_name": "Joël",
+            "real_name": "Joël Gaudeul",
+            "display_name": "Joël (Swan)",
+            "team": "T017AGS2KE0",
+            "name": "joel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744018268.757629",
+        "parent_user_id": "U020QK16RMJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iXVOR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "21 buddies and counting"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

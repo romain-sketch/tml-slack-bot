@@ -1,0 +1,71 @@
+[
+    {
+        "user": "U0177A5V42F",
+        "type": "message",
+        "ts": "1750834463.195409",
+        "client_msg_id": "c27aeccb-d5cc-4782-856d-733dcc6317d8",
+        "text": "Hello à tous, si vous avez un peu d'amour en cette matinée de canicule, echOpen était sur le podcast Santé Next en début de semaine.\nMerci et hydratez vous ! :slightly_smiling_face:\n<https:\/\/www.linkedin.com\/posts\/guillaumelaguette_quand-samir-harfacha-md-ma-demand%C3%A9-de-r%C3%A9sumer-activity-7343525955463770112-Okyo?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAALzGacBqX9hQ_X_FEccUnAvfwuZ3O9wiNc|https:\/\/www.linkedin.com\/posts\/guillaumelaguette_quand-samir-harfacha-md-ma-demand%C3[…]m=member_desktop&amp;rcm=ACoAAALzGacBqX9hQ_X_FEccUnAvfwuZ3O9wiNc>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ebca9b04129",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-17\/1245815650949_7ebca9b041296679a81d_72.jpg",
+            "first_name": "Guillaume",
+            "real_name": "Guillaume Laguette",
+            "display_name": "Guillaume Laguette (echOpen)",
+            "team": "T017AGS2KE0",
+            "name": "laguette.guillaume",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GBK\/B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello à tous, si vous avez un peu d'amour en cette matinée de canicule, echOpen était sur le podcast Santé Next en début de semaine.\nMerci et hydratez vous ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/posts\/guillaumelaguette_quand-samir-harfacha-md-ma-demand%C3%A9-de-r%C3%A9sumer-activity-7343525955463770112-Okyo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAALzGacBqX9hQ_X_FEccUnAvfwuZ3O9wiNc",
+                                "text": "https:\/\/www.linkedin.com\/posts\/guillaumelaguette_quand-samir-harfacha-md-ma-demand%C3[…]m=member_desktop&rcm=ACoAAALzGacBqX9hQ_X_FEccUnAvfwuZ3O9wiNc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U067VEJFT5F",
+                    "U06CZESF7QF"
+                ],
+                "count": 2
+            },
+            {
+                "name": "potable_water",
+                "users": [
+                    "U06CZESF7QF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

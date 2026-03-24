@@ -1,0 +1,198 @@
+[
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1742292482.603629",
+        "client_msg_id": "4f61e5b6-690d-44ce-b159-7def5b77c922",
+        "text": "<https:\/\/drive.google.com\/file\/d\/1xCfgjqaW4nzD2gsGdFyev9JTxrkO0Nwx\/view?usp=sharing|Voici le lien du projet pour le télécharger> :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741970655.780739",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/XRbh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/file\/d\/1xCfgjqaW4nzD2gsGdFyev9JTxrkO0Nwx\/view?usp=sharing",
+                                "text": "Voici le lien du projet pour le télécharger"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U06CZESF7QF",
+                    "U067GNGDATD",
+                    "U065DFPCQMP"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U08JCBMPU4C",
+        "text": "<@U08JCBMPU4C> has joined the channel",
+        "type": "message",
+        "ts": "1742312150.246879"
+    },
+    {
+        "user": "U084LQF8023",
+        "type": "message",
+        "ts": "1742315441.948519",
+        "client_msg_id": "df0ee232-3ee4-4c21-a9f6-790cbd7961e0",
+        "text": "<https:\/\/www.linkedin.com\/pulse\/my-first-time-investment-shorts-4-join-equita-ui6me\/> Mon dernier article My First Time avec <@U03QPMQA31V> !! merci Matt pour l'interview, merci pour vos likes !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a70a92c39694",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-01-20\/8306570351351_a70a92c3969457259db9_72.jpg",
+            "first_name": "Cosmina",
+            "real_name": "Cosmina Trifan",
+            "display_name": "Cosmina Trifan",
+            "team": "T017AGS2KE0",
+            "name": "cosmi.trifan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/pulse\/my-first-time-investment-shorts-4-join-equita-ui6me\/",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "thumb_url": "https:\/\/static.licdn.com\/scds\/common\/u\/images\/email\/artdeco\/logos\/96\/linkedin-bug-color.png",
+                "thumb_width": 96,
+                "thumb_height": 96,
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/pulse\/my-first-time-investment-shorts-4-join-equita-ui6me\/",
+                "fallback": "My First Time  Investment Shorts #4",
+                "text": "“Il faut investir un montant qui fait un peu mal si ça part, pour commencer vraiment à s'intéresser.” L’investissement est un voyage, et comme tout premier pas, il est souvent accompagné d’excitation, d’incertitudes et de leçons inestimables.",
+                "title": "My First Time  Investment Shorts #4",
+                "title_link": "https:\/\/www.linkedin.com\/pulse\/my-first-time-investment-shorts-4-join-equita-ui6me\/",
+                "service_name": "linkedin.com",
+                "fields": [
+                    {
+                        "value": "EQUITA",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "5 min read",
+                        "title": "Reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "us\/ak",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/pulse\/my-first-time-investment-shorts-4-join-equita-ui6me\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Mon dernier article My First Time avec "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03QPMQA31V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " !! merci Matt pour l'interview, merci pour vos likes !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03QPMQA31V",
+                    "U03P99RGMTN",
+                    "U04L35Y9D08",
+                    "U08EN5GRYCC"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U03QPMQA31V",
+        "type": "message",
+        "ts": "1742315667.334839",
+        "client_msg_id": "1F32B82B-6EE5-4041-A3B9-3A701908335E",
+        "text": "Merci à toi !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "920d362f50c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-26\/3858025441956_920d362f50c400fcafe0_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu Pouget-Abadie",
+            "display_name": "Matthieu PA (Orisha)",
+            "team": "T017AGS2KE0",
+            "name": "mpougetabadie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YseSB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci à toi !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

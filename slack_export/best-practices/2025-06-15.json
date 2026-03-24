@@ -1,0 +1,54 @@
+[
+    {
+        "user": "U08M0JP81DK",
+        "type": "message",
+        "ts": "1750020576.436949",
+        "client_msg_id": "B4E69C96-5180-4C34-8D97-F3CCA609F664",
+        "text": "Chaud également, je me connecterai au call <@U016QJZLRN3>. Merci!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "f8f282c0f1ce",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-04-07\/8720578468499_f8f282c0f1cedcfe5323_72.png",
+            "first_name": "Pierre",
+            "real_name": "Pierre Osdoit-Patrigeon",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "pierre.osdoit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749719720.417789",
+        "parent_user_id": "U016QJZLRN3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c+Ohe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Chaud également, je me connecterai au call "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U016QJZLRN3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Merci!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

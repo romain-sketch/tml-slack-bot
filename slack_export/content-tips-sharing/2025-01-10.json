@@ -1,0 +1,493 @@
+[
+    {
+        "user": "U06EN9X790C",
+        "type": "message",
+        "ts": "1736502930.280949",
+        "client_msg_id": "E5DC7C04-5D21-48E4-8FEC-DAC04A7EE8D3",
+        "text": "Hello à tous :wave: \nAuriez-vous des reccos d’agences \/ freelance pour audit et conseil en Paid Acquisition (Meta , Google)? \nOn m’a parlé de Spaag, preneuse d’un REX .\nMerciiii :sparkles: :blush: ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "bea7f170501a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-20\/6503634777459_bea7f170501a9dc7d1c3_72.jpg",
+            "first_name": "Chiraz",
+            "real_name": "Chiraz Hassen",
+            "display_name": "Chiraz",
+            "team": "T017AGS2KE0",
+            "name": "chiraz.hassen558",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736502930.280949",
+        "reply_count": 9,
+        "reply_users_count": 9,
+        "latest_reply": "1737363258.016829",
+        "reply_users": [
+            "U055KSYA2AH",
+            "U0177A5V42F",
+            "U06M6E5M524",
+            "U084KTR7YKX",
+            "U06EN9X790C",
+            "U025AMSNGF8",
+            "U0183AS3MB6",
+            "U04L35Y9D08",
+            "U06M7V60C3V"
+        ],
+        "replies": [
+            {
+                "user": "U055KSYA2AH",
+                "ts": "1736503292.568789"
+            },
+            {
+                "user": "U0177A5V42F",
+                "ts": "1736503449.198419"
+            },
+            {
+                "user": "U06M6E5M524",
+                "ts": "1736504937.536909"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1736504945.408829"
+            },
+            {
+                "user": "U06EN9X790C",
+                "ts": "1736505058.578189"
+            },
+            {
+                "user": "U025AMSNGF8",
+                "ts": "1736516539.089049"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1736528876.994199"
+            },
+            {
+                "user": "U04L35Y9D08",
+                "ts": "1736784630.658929"
+            },
+            {
+                "user": "U06M7V60C3V",
+                "ts": "1737363258.016829"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v3WBH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello à tous "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nAuriez-vous des reccos d’agences \/ freelance pour audit et conseil en Paid Acquisition (Meta , Google)? \nOn m’a parlé de Spaag, preneuse d’un REX .\nMerciiii "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U055KSYA2AH",
+        "type": "message",
+        "ts": "1736503292.568789",
+        "client_msg_id": "0ec2fdf2-126e-45ee-b4b9-1232fa3ea62a",
+        "text": "Hello Chiraz, si ton business est d’avoir des campagnes paid géolocalisées et adaptées pour chaque salon de coiffure, DeepReach est là pour toi :wink:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "77f967801b39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-02\/5198498072658_77f967801b39b2c56563_72.png",
+            "first_name": "Olivier",
+            "real_name": "Olivier Milcent",
+            "display_name": "Olivier Milcent (DeepReach)",
+            "team": "T017AGS2KE0",
+            "name": "omilcent",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736502930.280949",
+        "parent_user_id": "U06EN9X790C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+YJEO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Chiraz, si ton business est d’avoir des campagnes paid géolocalisées et adaptées pour chaque salon de coiffure, DeepReach est là pour toi "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U06EN9X790C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0177A5V42F",
+        "type": "message",
+        "ts": "1736503449.198419",
+        "client_msg_id": "1e3c48ed-31fe-4336-8ba9-5d387c7e5422",
+        "text": "Hello, bonne experience avec Datashake de mon coté.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ebca9b04129",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-17\/1245815650949_7ebca9b041296679a81d_72.jpg",
+            "first_name": "Guillaume",
+            "real_name": "Guillaume Laguette",
+            "display_name": "Guillaume Laguette (echOpen)",
+            "team": "T017AGS2KE0",
+            "name": "laguette.guillaume",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736502930.280949",
+        "parent_user_id": "U06EN9X790C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r1neu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, bonne experience avec Datashake de mon coté."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U06EN9X790C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06M6E5M524",
+        "type": "message",
+        "ts": "1736504937.536909",
+        "client_msg_id": "7621f5b4-7a24-4665-9167-7c9f9a0f5e5e",
+        "text": "De mon côté, très bonne expérience avec Erwan Lohezic de 3qtz (qui appartient maintenant à Biggie Group). Je peux te mettre en relation si tu veux.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e6878c6cdff3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-01\/8130211077744_e6878c6cdff3ca4586b1_72.jpg",
+            "first_name": "Thibault",
+            "real_name": "Thibault Delebarre",
+            "display_name": "Thibault Delebarre",
+            "team": "T017AGS2KE0",
+            "name": "thibault.delebarre",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736502930.280949",
+        "parent_user_id": "U06EN9X790C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9jiin",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "De mon côté, très bonne expérience avec Erwan Lohezic de 3qtz (qui appartient maintenant à Biggie Group). Je peux te mettre en relation si tu veux."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U06EN9X790C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1736504945.408829",
+        "edited": {
+            "user": "U084KTR7YKX",
+            "ts": "1736504955.000000"
+        },
+        "client_msg_id": "046d8358-b35c-4cbd-8ee6-6bfccc2a2a08",
+        "text": "le truc avec les agences c'est que ça dépend parfois des consultants et qui tu as en suivi client\nmais Datashake, Arcane, Junto pas mal.\n\nj'avais recruté qqun de Spaag qui était très fort aussi mais jamais bossé avec eux",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736502930.280949",
+        "parent_user_id": "U06EN9X790C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Msd3a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "le truc avec les agences c'est que ça dépend parfois des consultants et qui tu as en suivi client\nmais Datashake, Arcane, Junto pas mal.\n\nj'avais recruté qqun de Spaag qui était très fort aussi mais jamais bossé avec eux"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U06EN9X790C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06EN9X790C",
+        "type": "message",
+        "ts": "1736505058.578189",
+        "client_msg_id": "A1AA99DB-867D-4D5E-B1B9-E740DC651306",
+        "text": "<@U06M6E5M524> avec plaisir pour une mise en relation ! Merci ! \n<mailto:Chiraz.hassen@planity.com|Chiraz.hassen@planity.com>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "bea7f170501a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-20\/6503634777459_bea7f170501a9dc7d1c3_72.jpg",
+            "first_name": "Chiraz",
+            "real_name": "Chiraz Hassen",
+            "display_name": "Chiraz",
+            "team": "T017AGS2KE0",
+            "name": "chiraz.hassen558",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736502930.280949",
+        "parent_user_id": "U06EN9X790C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Imd4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06M6E5M524"
+                            },
+                            {
+                                "type": "text",
+                                "text": " avec plaisir pour une mise en relation ! Merci ! \nChiraz.hassen@planity.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06M6E5M524"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U025AMSNGF8",
+        "type": "message",
+        "ts": "1736516539.089049",
+        "client_msg_id": "a534eded-023f-4afa-bc26-ff48f2c0b1f2",
+        "text": "Coudac pour Meta sont bons, et même feedback que Gwenn sur les agences : c’est la loterie en fonction de ton consultant",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b5f2d16c46f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-18\/6070004520657_b5f2d16c46f6b166931e_72.png",
+            "first_name": "Eliott",
+            "real_name": "Eliott Guerin",
+            "display_name": "Eliott Guerin (Skello)",
+            "team": "T017AGS2KE0",
+            "name": "eliott",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736502930.280949",
+        "parent_user_id": "U06EN9X790C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aU3yX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Coudac pour Meta sont bons, et même feedback que Gwenn sur les agences : c’est la loterie en fonction de ton consultant"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U06EN9X790C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1736528876.994199",
+        "client_msg_id": "e59fa6fc-de92-4d27-a1ee-95de3032ae8a",
+        "text": ":wave::sweat_smile:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736502930.280949",
+        "parent_user_id": "U06EN9X790C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RTac0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "wink",
+                "users": [
+                    "U06EN9X790C",
+                    "U06DYTRDLUD"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heart_hands",
+                "users": [
+                    "U084KTR7YKX",
+                    "U06DYTRDLUD"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,108 @@
+[
+    {
+        "user": "U0946E8A2US",
+        "type": "message",
+        "ts": "1770221122.368779",
+        "client_msg_id": "c4b36a66-15e1-4996-af1a-e48d1eb8dcee",
+        "text": "Hello ! Question localisation et SEO\/AEO pour vous (<@U06CZESF7QF> peut être que tu sais ?) : est-ce qu'on a une réponse définitive sur l'impact de traduire les URLs d'un site web pour chaque locale ? J'ai en tête que ça n'a pas d'impact en SEO, mais quid des LLMs ?\n\nex: est-ce que `<http:\/\/monsite.com\/fr\/tarifs|monsite.com\/fr\/tarifs>` sera aussi bien vu et compris que `<http:\/\/monsite.com\/fr\/pricing|monsite.com\/fr\/pricing>` par les LLMs ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "f73f6d38e4eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-07-23\/9238905089862_f73f6d38e4eb792c8c6a_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult",
+            "team": "T017AGS2KE0",
+            "name": "thibaut.davoult",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770221122.368779",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1771428619.736479",
+        "reply_users": [
+            "U06CZESF7QF",
+            "U063A8VPPG9",
+            "U0946E8A2US"
+        ],
+        "replies": [
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1770279839.004029"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1770975549.281129"
+            },
+            {
+                "user": "U0946E8A2US",
+                "ts": "1771407552.306579"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1771428590.116989"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1771428619.736479"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mZi1j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello ! Question localisation et SEO\/AEO pour vous ("
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06CZESF7QF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " peut être que tu sais ?) : est-ce qu'on a une réponse définitive sur l'impact de traduire les URLs d'un site web pour chaque locale ? J'ai en tête que ça n'a pas d'impact en SEO, mais quid des LLMs ?\n\nex: est-ce que "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/monsite.com\/fr\/tarifs",
+                                "text": "monsite.com\/fr\/tarifs",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " sera aussi bien vu et compris que "
+                            },
+                            {
+                                "type": "text",
+                                "text": "monsite.com\/fr\/pricing",
+                                "style": {
+                                    "code": true,
+                                    "unlink": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " par les LLMs ?",
+                                "style": {
+                                    "unlink": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

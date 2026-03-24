@@ -1,0 +1,145 @@
+[
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1740913502.410339",
+        "client_msg_id": "DB83D171-BC9F-4616-8949-31AECDA2E5BC",
+        "text": "Product marketing :heavy_plus_sign: :heavy_plus_sign: :heavy_plus_sign: ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740767714.741899",
+        "parent_user_id": "U02N2EVMFCG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LDJ8r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Product marketing "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heavy_plus_sign",
+                                "unicode": "2795"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heavy_plus_sign",
+                                "unicode": "2795"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heavy_plus_sign",
+                                "unicode": "2795"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U078PFP7A4B",
+                    "U017CURDPB5",
+                    "U04TU0UA2R1",
+                    "U086LFGGVUG",
+                    "U06DYTRDLUD",
+                    "U03P99RGMTN",
+                    "U07R7CUFM7H",
+                    "U084LQF8023"
+                ],
+                "count": 8
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U067GNGDATD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1740932899.233799",
+        "client_msg_id": "15ACC585-98DE-448B-83ED-53BC702BB6D9",
+        "text": "On pourrait imaginer une V2 qui soit un pur complément de la V1 et pas une mise à jour.\n2 parties :\n. Tous sujets non abordés comme tu le listes.\n. 1 partie supra opérationnelle en mode fiche pratique : comment faire un brief , les\nÉtapes d un rebranding, plan de comm pour une levée de fonds,…",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740767714.741899",
+        "parent_user_id": "U02N2EVMFCG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tW3AC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On pourrait imaginer une V2 qui soit un pur complément de la V1 et pas une mise à jour.\n2 parties :\n. Tous sujets non abordés comme tu le listes.\n. 1 partie supra opérationnelle en mode fiche pratique : comment faire un brief , les\nÉtapes d un rebranding, plan de comm pour une levée de fonds,"
+                            },
+                            {
+                                "type": "text",
+                                "text": "…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U067GNGDATD"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

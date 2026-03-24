@@ -1,0 +1,142 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U08C1HZNT8S",
+        "text": "<@U08C1HZNT8S> has joined the channel",
+        "type": "message",
+        "ts": "1738830933.496639"
+    },
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1738852873.451289",
+        "client_msg_id": "875c4124-738c-428a-be78-a6dadd30ef83",
+        "text": "&gt; (mapping = identifier les contacts pour moi)\noui je suis d'accord, du coup comment on appelle avoir une vision de la structure (parfois tentaculaire) de l'organisation en elle meme avec QG, départements, etc?\n\nJe t'ai rajoutée au call de la semaine pro <@U017RBREWC9> :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738659623.127509",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vLwV2",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(mapping = identifier les contacts pour moi)"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oui je suis d'accord, du coup comment on appelle avoir une vision de la structure (parfois tentaculaire) de l'organisation en elle meme avec QG, départements, etc?\n\nJe t'ai rajoutée au call de la semaine pro "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U017RBREWC9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U017RBREWC9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U017RBREWC9",
+        "type": "message",
+        "ts": "1738853025.226199",
+        "edited": {
+            "user": "U017RBREWC9",
+            "ts": "1739044111.000000"
+        },
+        "client_msg_id": "a01adaaa-8374-44b2-a5bb-cbd579a202c3",
+        "text": "Alors :sweat_smile: chez Batch quand on dit “mapper” ça veut dire “les contacts”, mais pour l’orga on dit “mapper l’orga” (je me rends compte que c’est pas du tout clair, en général on se comprend entre marketing et sales mais pas fou...)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e7fed2c3531e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-04\/9013749604145_e7fed2c3531e67bdbec9_72.png",
+            "first_name": "",
+            "real_name": "Clotilde Rousseau",
+            "display_name": "Clotilde Rousseau (Batch)",
+            "team": "T017AGS2KE0",
+            "name": "rousseau.clotilde",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738659623.127509",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L2gjA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Alors "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": " chez Batch quand on dit “mapper” ça veut dire “les contacts”, mais pour l’orga on dit “mapper l’orga” (je me rends compte que c’est pas du tout clair, en général on se comprend entre marketing et sales mais pas fou...)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U016SBPG7K9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

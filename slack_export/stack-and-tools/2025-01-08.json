@@ -1,0 +1,359 @@
+[
+    {
+        "user": "U065DFPCQMP",
+        "type": "message",
+        "ts": "1736330294.793039",
+        "client_msg_id": "E3B1A2B7-9ABD-4FDF-B603-2C6D2B4899D8",
+        "text": "AI Hype: Hello :wave: vous utilisez un peu \/ beaucoup d’outils intégrant de l’IA dans votre stack marketing ? \nSi oui quel est votre combo préféré et pour faire quelles tâches ?\nVous êtes plutôt au stade expérimentation ou certains outils sont bien intégrés dans les process ? ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50040e0261e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-15\/6198553206674_50040e0261e7ba62e840_72.jpg",
+            "first_name": "Gaelle",
+            "real_name": "Gaelle Le Goff",
+            "display_name": "Gaelle Le Goff",
+            "team": "T017AGS2KE0",
+            "name": "gaelle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736330294.793039",
+        "reply_count": 8,
+        "reply_users_count": 5,
+        "latest_reply": "1737091760.772929",
+        "reply_users": [
+            "U0183AS3MB6",
+            "U084KTR7YKX",
+            "U067GNGDATD",
+            "U02N2EVMFCG",
+            "U065DFPCQMP"
+        ],
+        "replies": [
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1736330930.506479"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1736343755.367629"
+            },
+            {
+                "user": "U067GNGDATD",
+                "ts": "1736348918.283949"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1736842009.712989"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1736846420.382989"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1736850061.555289"
+            },
+            {
+                "user": "U065DFPCQMP",
+                "ts": "1736850172.027629"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1737091760.772929"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oiEAw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "AI Hype: Hello "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": " vous utilisez un peu \/ beaucoup d’outils intégrant de l’IA dans votre stack marketing ? \nSi oui quel est votre combo préféré et pour faire quelles tâches ?\nVous êtes plutôt au stade expérimentation ou certains outils sont bien intégrés dans les process ? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bulb",
+                "users": [
+                    "U06DLQ4644X"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1736330930.506479",
+        "client_msg_id": "dfa828b7-de28-4d0c-90f1-c2d450625d8f",
+        "text": "À fond IA ici !\nOn crée pas mal de GPTs pour le day to day, on a Claap pour le recording\/analyse des calls et après on a qq outils dédiés à certains pans spécifique du boulot (exemple : en outbound);",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736330294.793039",
+        "parent_user_id": "U065DFPCQMP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f2QWQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "À fond IA ici !\nOn crée pas mal de GPTs pour le day to day, on a Claap pour le recording\/analyse des calls et après on a qq outils dédiés à certains pans spécifique du boulot (exemple : en outbound);"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U065DFPCQMP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U084KTR7YKX"
+                ],
+                "count": 1
+            },
+            {
+                "name": "bulb",
+                "users": [
+                    "U06DLQ4644X"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1736343755.367629",
+        "edited": {
+            "user": "U084KTR7YKX",
+            "ts": "1736343771.000000"
+        },
+        "client_msg_id": "b28ff7cb-250b-494d-bbfd-f44a4a1d3ad0",
+        "text": "Yes <http:\/\/Claap.io|Claap.io> :heart_hands: mais plutôt pour les sales\/KAM que Marketing :slightly_smiling_face:\n\nMoi c'est HeyGen sur les trad videos, Riverside pour les montages podcasts simples et sinon des assistants créés sur GPT et\/ou Dust",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736330294.793039",
+        "parent_user_id": "U065DFPCQMP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AJC7a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Claap.io",
+                                "text": "Claap.io"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_hands",
+                                "unicode": "1faf6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " mais plutôt pour les sales\/KAM que Marketing "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nMoi c'est HeyGen sur les trad videos, Riverside pour les montages podcasts simples et sinon des assistants créés sur GPT et\/ou Dust"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U065DFPCQMP",
+                    "U06DYTRDLUD"
+                ],
+                "count": 2
+            },
+            {
+                "name": "bulb",
+                "users": [
+                    "U06DLQ4644X"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U067GNGDATD",
+        "type": "message",
+        "ts": "1736348918.283949",
+        "client_msg_id": "da3dd946-1fd6-4627-976a-97e3b6ea2e97",
+        "text": "On est plutôt sur <https:\/\/fathom.video\/|Fathom> pour prise de notes en reunion interne\/externe\n\n<https:\/\/fathom.video\/|Fathom AI>\n<https:\/\/fathom.video>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "gd73dcdb62f7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d73dcdb62f793ad670516a42032e3fa5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Diard",
+            "display_name": "Old Account \/ Do not use",
+            "team": "T017AGS2KE0",
+            "name": "adiard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736330294.793039",
+        "parent_user_id": "U065DFPCQMP",
+        "attachments": [
+            {
+                "image_url": "https:\/\/static.fathom.video\/031d0eddb4e5c5f967b96b9e582a5e28e5570f85\/images\/get_fathom_free.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 584204,
+                "from_url": "https:\/\/fathom.video\/",
+                "service_icon": "https:\/\/fathom.video\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/fathom.video\/",
+                "fallback": "Fathom - Free AI Notetaker",
+                "text": "Instantly summarizes your meetings so you can focus on the conversation instead of taking notes.",
+                "title": "Fathom - Free AI Notetaker",
+                "title_link": "https:\/\/fathom.video\/",
+                "service_name": "fathom.video"
+            },
+            {
+                "image_url": "https:\/\/static.fathom.video\/031d0eddb4e5c5f967b96b9e582a5e28e5570f85\/images\/get_fathom_free.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 584204,
+                "from_url": "https:\/\/fathom.video\/",
+                "service_icon": "https:\/\/fathom.video\/favicon.ico",
+                "id": 2,
+                "original_url": "https:\/\/fathom.video",
+                "fallback": "Fathom - Free AI Notetaker",
+                "text": "Instantly summarizes your meetings so you can focus on the conversation instead of taking notes.",
+                "title": "Fathom - Free AI Notetaker",
+                "title_link": "https:\/\/fathom.video\/",
+                "service_name": "fathom.video"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LxauO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On est plutôt sur "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fathom.video\/",
+                                "text": "Fathom"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour prise de notes en reunion interne\/externe\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fathom.video\/",
+                                "text": "Fathom AI"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fathom.video"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U06DLQ4644X"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

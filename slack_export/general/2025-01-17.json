@@ -1,0 +1,142 @@
+[
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1737100881.843439",
+        "client_msg_id": "13c22ffb-26e2-48c9-b837-922ecf7abf79",
+        "text": "idem",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737018948.192609",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FqQ3A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "idem"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1737105942.191059",
+        "client_msg_id": "e2896532-5300-411e-8f2d-11b6d96810cb",
+        "text": "Le channel est créé, n’hésitez pas à nous rejoindre ! &gt; <#C088WDUNA8M|b2b-marketing-targets>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737018948.192609",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N0RH+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le channel est créé, n’hésitez pas à nous rejoindre ! > "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C088WDUNA8M"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01T6U402V8",
+        "type": "message",
+        "ts": "1737155633.424869",
+        "client_msg_id": "0143cf8c-a971-41cf-ad3b-45c51cdad5e3",
+        "text": "Apres le 20 please <@U063A8VPPG9> et <@U06U1GG592M> please- Sorry pas vu vos messages a temps",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "1a396483c2d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-13\/1958483219154_1a396483c2d9cd7cccd3_72.jpg",
+            "first_name": "Simone",
+            "real_name": "Simone Sfeir (FrenchFounders)",
+            "display_name": "Simone Sfeir",
+            "team": "T017AGS2KE0",
+            "name": "simone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1733246670.981899",
+        "parent_user_id": "U06U1GG592M",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WS2oY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Apres le 20 please "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U063A8VPPG9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06U1GG592M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " please- Sorry pas vu vos messages a temps"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

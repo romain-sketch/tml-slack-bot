@@ -1,0 +1,94 @@
+[
+    {
+        "user": "U020QK16RMJ",
+        "type": "message",
+        "ts": "1755070591.532469",
+        "client_msg_id": "fe4251a3-cbaf-4e45-a902-148cdec127b8",
+        "text": "Salut, j'ai fréquemment vu ces deux rôles au COMEX en particulier quand le CRO est un profil très Sales ou quand le sujet Branding est très important. Logiquement, tous les C- devraient être en COMEX. Le rapport hiérarchique n'a pas d'importance (le CEO et COO sont souvent les managers des différents C levels et cela ne pose pas de problème)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "56d8a678e801",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-18\/7292097443269_56d8a678e801350db84a_72.png",
+            "first_name": "Joël",
+            "real_name": "Joël Gaudeul",
+            "display_name": "Joël (Swan)",
+            "team": "T017AGS2KE0",
+            "name": "joel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1755001302.841059",
+        "parent_user_id": "U07D08K3U0K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fu+PF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salut, j'ai fréquemment vu ces deux rôles au COMEX en particulier quand le CRO est un profil très Sales ou quand le sujet Branding est très important. Logiquement, tous les C- devraient être en COMEX. Le rapport hiérarchique n'a pas d'importance (le CEO et COO sont souvent les managers des différents C levels et cela ne pose pas de problème)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07D08K3U0K",
+        "type": "message",
+        "ts": "1755086056.785389",
+        "client_msg_id": "08e0e17f-7cf6-484d-9544-187ea5c5a19d",
+        "text": "Merci pour vos retours <@U02N2EVMFCG> <@U020QK16RMJ>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "ee04aae8ef81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-02\/7689117269088_ee04aae8ef81d255cd1f_72.png",
+            "first_name": "Tiphanie",
+            "real_name": "Tiphanie Meyer",
+            "display_name": "Tiphanie",
+            "team": "T017AGS2KE0",
+            "name": "tiphanie.meyer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1755001302.841059",
+        "parent_user_id": "U07D08K3U0K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K+NTy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci pour vos retours "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02N2EVMFCG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U020QK16RMJ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

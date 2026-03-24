@@ -1,0 +1,378 @@
+[
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1749130766.790749",
+        "client_msg_id": "8dc44077-ed36-41e5-bde9-d92781ce2eff",
+        "text": "Hello les TML :wave:\n\nEst-ce que l’IA a déjà eu un impact sur l’orga de votre équipe Marketing ou vos plannings de recrutement ?\n• Recrutement annulé ou décalé ?\n• Ou au contraire, ça vous a poussé à recruter plus vite ou des profils différents ?\n• Réorg pour avoir des personnes plus focus sur l’utilisation de l’IA (pour productivité ou autre) ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749130766.790749",
+        "reply_count": 12,
+        "reply_users_count": 8,
+        "latest_reply": "1751382338.612449",
+        "reply_users": [
+            "U016SBPG7K9",
+            "U06CZESF7QF",
+            "U06MLNEGNKB",
+            "U04SM1RGPJB",
+            "U0859A8P14K",
+            "U020QK16RMJ",
+            "U086LFGGVUG",
+            "U08PLD4KPS8"
+        ],
+        "replies": [
+            {
+                "user": "U016SBPG7K9",
+                "ts": "1749132761.369599"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1749133859.408679"
+            },
+            {
+                "user": "U06MLNEGNKB",
+                "ts": "1749138220.497159"
+            },
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1749138556.090119"
+            },
+            {
+                "user": "U0859A8P14K",
+                "ts": "1749153956.160419"
+            },
+            {
+                "user": "U020QK16RMJ",
+                "ts": "1749196950.563949"
+            },
+            {
+                "user": "U086LFGGVUG",
+                "ts": "1749586524.559799"
+            },
+            {
+                "user": "U016SBPG7K9",
+                "ts": "1749742210.031879"
+            },
+            {
+                "user": "U086LFGGVUG",
+                "ts": "1749742697.285199"
+            },
+            {
+                "user": "U016SBPG7K9",
+                "ts": "1749742843.379309"
+            },
+            {
+                "user": "U086LFGGVUG",
+                "ts": "1749743158.373419"
+            },
+            {
+                "user": "U08PLD4KPS8",
+                "ts": "1751382338.612449"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h8Gk9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello les TML "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nEst-ce que l’IA a déjà eu un impact sur l’orga de votre équipe Marketing ou vos plannings de recrutement ?\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Recrutement annulé ou décalé ?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Ou au contraire, ça vous a poussé à recruter plus vite ou des profils différents ?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Réorg pour avoir des personnes plus focus sur l’utilisation de l’IA (pour productivité ou autre) ?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U042GV737MX",
+                    "U03P99RGMTN",
+                    "U06TF9YAWEM",
+                    "U08HF5YQM6G"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1749132761.369599",
+        "edited": {
+            "user": "U016SBPG7K9",
+            "ts": "1749140551.000000"
+        },
+        "client_msg_id": "01FD930F-1D08-4E58-A96C-64DA3745C71A",
+        "text": "Oui à tout mais de manière très organique\/evolution graduelle : pas de changement radical dans la team ou les pratiques. Mais par ex j'ai recruté notre nouvelle content manager en prenant fortement en compte sa capacité à utiliser l'IA pour sa recherche, plan de contenu etc. \n\nOn va aussi faire des changements en revops pour prendre un rôle + câblé IA\/GTM eng (on profite d'un départ pour axer dans cette direction)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749130766.790749",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tFmhN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui à tout mais de manière très organique\/evolution graduelle : pas de changement radical dans la team ou les pratiques. Mais par ex j'ai recruté notre nouvelle content manager en prenant fortement en compte sa capacité à utilis"
+                            },
+                            {
+                                "type": "text",
+                                "text": "er"
+                            },
+                            {
+                                "type": "text",
+                                "text": " l'IA pour sa recherche, plan de contenu etc. \n\nOn va aussi faire des changements en revops pour prendre un rôle + câblé IA\/GTM eng (on profite d'un départ pour axer dans cette direction)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1749133859.408679",
+        "client_msg_id": "c6a3a8e7-b7c3-4c37-887e-6e788bb3bd05",
+        "text": "Ok, très intéressant ! Merci",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749130766.790749",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kDCWy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok, très intéressant ! Merci"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06MLNEGNKB",
+        "type": "message",
+        "ts": "1749138220.497159",
+        "client_msg_id": "17c6a433-5b93-47e0-9192-ed2f7ee16e44",
+        "text": "De notre côté, c'est aussi une évolution graduelle car nous sommes une petite équipe. Nous estimons, selon les métiers, que cela nous fait gagner 25 % de productivité, donc à terme peut-être moins de recrutements. Les business case recrutement ont toujours une question sur l'IA. Nous essayons de suivre les tendances comme on peut + conseils d'un freelance pour ranker sur les LLM .",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9484de19a0b4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-25\/7476258473346_9484de19a0b48472edf8_72.jpg",
+            "first_name": "Priscilla",
+            "real_name": "Priscilla (Memo Bank)",
+            "display_name": "Priscilla (Memo Bank)",
+            "team": "T017AGS2KE0",
+            "name": "priscilla.cavrois",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749130766.790749",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JAlWd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "De notre côté, c'est aussi une évolution graduelle car nous sommes une petite équipe. Nous estimons, selon les métiers, que cela nous fait gagner 25 % de productivité, donc à terme peut-être moins de recrutements. Les business case recrutement ont toujours une question sur l'IA. Nous essayons de suivre les tendances comme on peut + conseils d'un freelance pour ranker sur les LLM ."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1749138556.090119",
+        "client_msg_id": "5e187e06-8147-4014-9e22-c3e66a44fc7f",
+        "text": "Ici oui dans 2 équipes (content et sales enablement)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749130766.790749",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7sY\/i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ici oui dans 2 équipes (content et sales enablement)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0859A8P14K",
+        "type": "message",
+        "ts": "1749153956.160419",
+        "client_msg_id": "D2B65399-F566-4543-ABCE-1A314927E1BF",
+        "text": "Oui côté content également (tant sur le profil des personnes en interne que sur la sélection \/ le choix et la collaboration avec d éventuelles agences ou free-lances \/ copyrighters)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "de9373c86530",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8178910826725_de9373c86530dc48c9e8_72.png",
+            "first_name": "Alexandra",
+            "real_name": "Alexandra Lougovoy",
+            "display_name": "Alexandra Lougovoy (Eudonet)",
+            "team": "T017AGS2KE0",
+            "name": "a.lougovoy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749130766.790749",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "swKIq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui côté content également (tant sur le profil des personnes en interne que sur la sélection \/ le choix et la collaboration avec d éventuelles agences ou free-lances \/ copyrighters"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

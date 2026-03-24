@@ -1,0 +1,105 @@
+[
+    {
+        "user": "U063Q1LA69W",
+        "type": "message",
+        "ts": "1762245336.235469",
+        "client_msg_id": "fd4af747-73a5-4752-853e-8805db42ec57",
+        "text": "la description est tellement belle que ça me donne envie de le recruter ... alors que je recrute même pas :joy:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "92164dc1a505",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-29\/6530542210935_92164dc1a50580eb3d38_72.jpg",
+            "first_name": "Jolhane",
+            "real_name": "Jolhane Leite",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "jolhaneleite",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762175780.729559",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6WEj1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "la description est tellement belle que ça me donne envie de le recruter ... alors que je recrute même pas "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "laughing",
+                "users": [
+                    "U07MNBM4WLV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06E3PY5LAY",
+        "type": "message",
+        "ts": "1762248363.029909",
+        "client_msg_id": "8cb44a70-0ffc-4aa1-a3c9-3823f34b84e3",
+        "text": "Hello Pierre - I recommend Michael Saifoudine &amp; team of Klimb.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e6f18bbbcc15",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-16\/6475144975749_e6f18bbbcc1579d4df98_72.png",
+            "first_name": "Elizabeth",
+            "real_name": "Elizabeth Coleon",
+            "display_name": "Elizabeth Coleon",
+            "team": "T017AGS2KE0",
+            "name": "eorzano",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761667875.090929",
+        "parent_user_id": "U08M0JP81DK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Sd\/l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Pierre - I recommend Michael Saifoudine & team of Klimb."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U08M0JP81DK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

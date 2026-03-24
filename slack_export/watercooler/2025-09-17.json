@@ -1,0 +1,49 @@
+[
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1758124753.162959",
+        "client_msg_id": "da48bf9f-0df1-4803-8b7e-743a07cb39ae",
+        "text": "Un peu random...\nEst ce que qqn saurait qui contacter pour avoir un pass (gratuit) pour <https:\/\/www.ipem-market.com\/paris-2025\/speakers\/|IPEM Paris>? C'est pour une amie. Merci !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kc3uE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un peu random...\nEst ce que qqn saurait qui contacter pour avoir un pass (gratuit) pour "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.ipem-market.com\/paris-2025\/speakers\/",
+                                "text": "IPEM Paris"
+                            },
+                            {
+                                "type": "text",
+                                "text": "? C'est pour une amie. Merci !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,203 @@
+[
+    {
+        "user": "U017RAZCAGZ",
+        "type": "message",
+        "ts": "1759235149.433829",
+        "client_msg_id": "5ed51d68-8a4c-42ec-bc50-9b681966f603",
+        "text": "Hello ! Est-ce que le petit déj a bien lieu mardi prochain ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2e6e61c8f204",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-20\/1251040887619_2e6e61c8f20434050630_72.jpg",
+            "first_name": "Hélène",
+            "real_name": "Hélène Draoulec (Phenix)",
+            "display_name": "Hélène Draoulec (Phenix)",
+            "team": "T017AGS2KE0",
+            "name": "hdraoulec",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757496166.772069",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8jieF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello ! Est-ce que le petit déj a bien lieu mardi prochain ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1759236897.933149",
+        "client_msg_id": "e3919a9c-23ad-4f90-8f36-fb3a70a02f3a",
+        "text": "Yes absolument!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757496166.772069",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VGZKh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes absolument!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1759236928.282609",
+        "client_msg_id": "f73780e2-905b-441c-9874-e44a769cf027",
+        "text": "Pour les thématiques j'attends la confirmation de <@U06DYTRDLUD> &amp; <@U032T5N7UTY> :slightly_smiling_face: gentle reminder !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757496166.772069",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bc3RE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour les thématiques j'attends la confirmation de "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06DYTRDLUD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " & "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U032T5N7UTY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " gentle reminder !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06DYTRDLUD",
+        "type": "message",
+        "ts": "1759239726.623079",
+        "client_msg_id": "1806a12e-0d68-4506-af6f-42976c544349",
+        "text": "Hello !\nAvec plaisir sur strat d'influence de mon côté (si intérêt pour les autres).\nEt pour alimenter les questions sur l'exercice budgetaire je partagerais bien avec d'autres des ratios d'invest (en follow up d'une discussion lancée ici sur Brand vs. leadgen) sur un format tour de table.\nPour être concret : je construits par exemple le budget avec le \"gravé dans le marbre\" qui représente en général 60%. Le tangent est souvent plus difficile à piloter, mes équipes font un peu du frigo avec ces budgets et\/ou on du mal à pivoter rapidement quand ça marche pas - surtout en brand\/com. Curieuse de voir comment vous abordez ce point par exemple.\n\nOn se dit quoi comme format ? Côté influence, il y a des participants qui ont des questions en particulier sur lesquelles je peux appuyer ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901f49789864",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-17\/6483135134229_901f4978986494a521e4_72.jpg",
+            "first_name": "Flora",
+            "real_name": "Flora Wolfer",
+            "display_name": "Flora Wolfer (Payplug)",
+            "team": "T017AGS2KE0",
+            "name": "fwolfer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757496166.772069",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1VhA9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello !\nAvec plaisir sur strat d'influence de mon côté (si intérêt pour les autres).\nEt pour alimenter les questions sur l'exercice budgetaire je partagerais bien avec d'autres des ratios d'invest (en follow up d'une discussion lancée ici sur Brand vs. leadgen) sur un format tour de table.\nPour être concret : je construits par exemple le budget avec le \"gravé dans le marbre\" qui représente en général 60%. Le tangent est souvent plus difficile à piloter, mes équipes font un peu du frigo avec ces budgets et\/ou on du mal à pivoter rapidement quand ça marche pas - surtout en brand\/com. Curieuse de voir comment vous abordez ce point par exemple.\n\nOn se dit quoi comme format ? Côté influence, il y a des participants qui ont des questions en particulier sur lesquelles je peux appuyer ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U017H09S857"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U017H09S857"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

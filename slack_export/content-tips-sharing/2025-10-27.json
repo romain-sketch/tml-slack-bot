@@ -1,0 +1,598 @@
+[
+    {
+        "user": "U07MNBM4WLV",
+        "type": "message",
+        "ts": "1761553929.629439",
+        "client_msg_id": "c8af95fa-9580-4937-8023-03341c08b031",
+        "text": "Hello <@U0183AS3MB6> je t'envoie notre CP Claap x lemlist en MP!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "028ce63b55be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7733128030774_028ce63b55be29945d4f_72.jpg",
+            "first_name": "Domitille",
+            "real_name": "Domitille de Saint-Exupéry",
+            "display_name": "Domitille de Saint-Exupéry (lemlist)",
+            "team": "T017AGS2KE0",
+            "name": "domitille433",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761406792.559329",
+        "parent_user_id": "U0183AS3MB6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VVteS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0183AS3MB6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je t'envoie notre CP Claap x lemlist en MP!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07R7CUFM7H",
+        "type": "message",
+        "ts": "1761560208.734489",
+        "edited": {
+            "user": "U07R7CUFM7H",
+            "ts": "1761560297.000000"
+        },
+        "client_msg_id": "78ab1ea1-b2d3-4a22-939b-21cab6d75ae3",
+        "text": "Hello, les notres sont ici: <https:\/\/mangopay.com\/press-and-media>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "1eabd032cd82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-05\/8152020385456_1eabd032cd826d3f64b3_72.jpg",
+            "first_name": "Mayeul",
+            "real_name": "Mayeul",
+            "display_name": "Mayeul (Mangopay)",
+            "team": "T017AGS2KE0",
+            "name": "mayeul.wattecamps",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761406792.559329",
+        "parent_user_id": "U0183AS3MB6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UDZRV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, les notres sont ici: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/mangopay.com\/press-and-media"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1761561345.438509",
+        "client_msg_id": "8cee26f3-3f84-475c-8f5a-f080891fbc8b",
+        "text": "Merci <@U07R7CUFM7H> <@U07MNBM4WLV> :slightly_smiling_face:\n<@U08SA22HS0J> non non rien de particulier c’est plus pour une inspi générale",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761406792.559329",
+        "parent_user_id": "U0183AS3MB6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+OuTz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07R7CUFM7H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07MNBM4WLV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08SA22HS0J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " non non rien de particulier c’est plus pour une inspi générale"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08V1NE4BUJ",
+        "type": "message",
+        "ts": "1761562208.765799",
+        "client_msg_id": "61eef886-605d-49a7-b4ad-ea4710e35bd8",
+        "text": "Je t’envoie en mp",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "3654a4fc5d4e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-02\/8999698350033_3654a4fc5d4e25a0a92c_72.jpg",
+            "first_name": "Alan",
+            "real_name": "Alan Huet (Fundora)",
+            "display_name": "Alan HUET",
+            "team": "T017AGS2KE0",
+            "name": "alan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761406792.559329",
+        "parent_user_id": "U0183AS3MB6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jvdcF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je t’envoie en mp"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Je t'en envoie 2 d'alan aussi",
+        "files": [
+            {
+                "id": "F09NPBD4GAF",
+                "created": 1761563011,
+                "timestamp": 1761563011,
+                "name": "Communiqué de presse Alan - Alan Play - 2025-04-09.pdf",
+                "title": "Communiqué de presse Alan - Alan Play - 2025-04-09.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U017H09S857",
+                "user_team": "T017AGS2KE0",
+                "editable": false,
+                "size": 7839415,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F09NPBD4GAF\/communique___de_presse_alan_-_alan_play_-_2025-04-09.pdf?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F09NPBD4GAF\/download\/communique___de_presse_alan_-_alan_play_-_2025-04-09.pdf?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F09NPBD4GAF-8517e0c7cf\/communique___de_presse_alan_-_alan_play_-_2025-04-09_thumb_pdf.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_pdf_w": 911,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/techmarketingleaders.slack.com\/files\/U017U6M2G00\/F09NPBD4GAF\/communique___de_presse_alan_-_alan_play_-_2025-04-09.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F09NPBD4GAF-560c8c7f3c",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F09NPBDSTR9",
+                "created": 1761563015,
+                "timestamp": 1761563015,
+                "name": "Communiqué de presse - Alan dévoile les résultats de sa première étude sur l’assistant médical IA Mo, une innovation prometteuse au service des patients.pdf",
+                "title": "Communiqué de presse - Alan dévoile les résultats de sa première étude sur l’assistant médical IA Mo, une innovation prometteuse au service des patients.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U017H09S857",
+                "user_team": "T017AGS2KE0",
+                "editable": false,
+                "size": 262966,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F09NPBDSTR9\/communique___de_presse_-_alan_de__voile_les_re__sultats_de_sa_premie__re_e__tude_sur_l___assistant_me__dical_ia_mo__une_innovation_prometteuse_au_service_des_patients.pdf?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F09NPBDSTR9\/download\/communique___de_presse_-_alan_de__voile_les_re__sultats_de_sa_premie__re_e__tude_sur_l___assistant_me__dical_ia_mo__une_innovation_prometteuse_au_service_des_patients.pdf?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F09NPBDSTR9-e563ae1d80\/communique___de_presse_-_alan_de__voile_les_re__sultats_de_sa_premie__re_e__tude_sur_l___assistant_me__dical_ia_mo__une_innovation_prometteuse_au_service_des_patients_thumb_pdf.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_pdf_w": 911,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/techmarketingleaders.slack.com\/files\/U017U6M2G00\/F09NPBDSTR9\/communique___de_presse_-_alan_de__voile_les_re__sultats_de_sa_premie__re_e__tude_sur_l___assistant_me__dical_ia_mo__une_innovation_prometteuse_au_service_des_patients.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F09NPBDSTR9-3953458107",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wNRT2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je t'en envoie 2 d'alan aussi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1761563018.614929",
+        "client_msg_id": "e0ff495f-2028-4407-9312-1e3d3e441fca",
+        "thread_ts": "1761406792.559329",
+        "parent_user_id": "U0183AS3MB6"
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1761568544.194869",
+        "client_msg_id": "bd987374-a1b6-4599-b060-f6d6721220eb",
+        "text": "Merci tout le monde :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761406792.559329",
+        "parent_user_id": "U0183AS3MB6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FX2k3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci tout le monde "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08V1NE4BUJ",
+        "type": "message",
+        "ts": "1761568933.429189",
+        "client_msg_id": "d699d54b-884c-43dc-a1a1-096d059dcc1d",
+        "text": "Hello, preneur de vos tips sur la gestion des influenceurs, leurs contenus publiés, perf etc :pray::skin-tone-3:\n\n• utilisez-vous un outil en particulier pour gérer ça ? Ou un Notion home made ?\n• Quelles données allez-vous intégrer à ce fichier ? (Performances, liens des RS, liste des contenus publiés ?)\n• Si possible, j’aimerais bien voir à quoi ressemble vos BDD en l’état pour m’inspirer :slightly_smiling_face: \nMerci d’avance !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "3654a4fc5d4e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-02\/8999698350033_3654a4fc5d4e25a0a92c_72.jpg",
+            "first_name": "Alan",
+            "real_name": "Alan Huet (Fundora)",
+            "display_name": "Alan HUET",
+            "team": "T017AGS2KE0",
+            "name": "alan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761568933.429189",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1761597381.801959",
+        "reply_users": [
+            "U063Q1LA69W",
+            "U08V1NE4BUJ"
+        ],
+        "replies": [
+            {
+                "user": "U063Q1LA69W",
+                "ts": "1761583981.975379"
+            },
+            {
+                "user": "U08V1NE4BUJ",
+                "ts": "1761597381.801959"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Eeu7g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, preneur de vos tips sur la gestion des influenceurs, leurs contenus publiés, perf etc "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f-1f3fc",
+                                "skin_tone": 3
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "utilisez-vous un outil en particulier pour gérer ça ? Ou un Notion home made ?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Quelles données allez-vous intégrer à ce fichier ? (Performances, liens des RS, liste des contenus publiés ?)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Si possible, j’aimerais bien voir à quoi ressemble vos BDD en l’état pour m’inspirer "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "slightly_smiling_face",
+                                        "unicode": "1f642"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nMerci d’avance !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063Q1LA69W",
+        "type": "message",
+        "ts": "1761583981.975379",
+        "client_msg_id": "117bd85e-98c6-431a-ac9a-2458592eb672",
+        "text": "Salut <@U08V1NE4BUJ>\nJe te reco de contacter <https:\/\/www.linkedin.com\/in\/lou-sernaglia\/> de chez Abby\n\nElle bosse sur une formation “Influence Marketing” pour UnlockM et elle a partagé sa méthode lors d’un live sur la plateforme.\n\nElle aura de très bons exemples à te partager (car elle pilote un bon volume d’influenceurs) :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "92164dc1a505",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-29\/6530542210935_92164dc1a50580eb3d38_72.jpg",
+            "first_name": "Jolhane",
+            "real_name": "Jolhane Leite",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "jolhaneleite",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761568933.429189",
+        "parent_user_id": "U08V1NE4BUJ",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/lou-sernaglia\/",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "thumb_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/D4E03AQGhcE-MY9YAsA\/profile-displayphoto-shrink_200_200\/B4EZbI9FL4HkAc-\/0\/1747128177911?e=2147483647&v=beta&t=JrtrAcEE2rUV1BcjClO6GjP1UCmTdCANMNM96pYfcxc",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/lou-sernaglia\/",
+                "fallback": "Lou Sernaglia :dancer::skin-tone-2: - CMO chez @Abby France | Abby, c’est la nouvelle manière de gérer ta micro-entreprise ! | LinkedIn",
+                "text": "CMO chez @Abby France | Abby, c’est la nouvelle manière de gérer ta micro-entreprise ! · Abby, c’est l’outil pour aider les micro-entrepreneurs à se débarrasser de leurs tâches administratives et à améliorer leur organisation ! :muscle:\n\nUn outil créé par et pour vous avec :\n\n- Un module de facturation complet\n- Une gestion financière simplifiée\n- Les déclarations aux organismes de l’Etat automatisées (Urssaf et Impôts)\n- Un système d’organisation et de suivi de projets pour gagner en productivité\n- Une application inter-connectable à tes applications favorites (via Integromat pour le moment :sunglasses:)\n\nTout ce dont un indépendant a besoin pour gérer son activité correctement et gagner du temps.\n\nEn 1 an, c’est plus de 25 000 micro-entrepreneurs qui nous font confiance en utilisant Abby pour gérer leur activité :heart:\n\nMais Abby, c’est surtout 18 jeunes nancéiens à leur service !\n\nAlors n’attends plus et inscris toi :point_up_2: · Expérience : Abby · Formation : ISCOM · Lieu : Nancy · 500 relations ou plus sur LinkedIn. Consultez le profil de Lou Sernaglia :dancer::skin-tone-2: sur LinkedIn, une communauté professionnelle d’un milliard de membres.",
+                "title": "Lou Sernaglia :dancer::skin-tone-2: - CMO chez @Abby France | Abby, c’est la nouvelle manière de gérer ta micro-entreprise ! | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/lou-sernaglia\/",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zNzIn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salut "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08V1NE4BUJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nJe te reco de contacter "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/lou-sernaglia\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " de chez Abby\n\nElle bosse sur une formation “Influence Marketing” pour UnlockM et elle a partagé sa méthode lors d’un live sur la plateforme.\n\nElle aura de très bons exemples à te partager (car elle pilote un bon volume d’influenceurs) "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U0951RDNKU6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U08V1NE4BUJ",
+        "type": "message",
+        "ts": "1761597381.801959",
+        "client_msg_id": "F99DA5AD-67E3-438F-86C7-45A97C0A2A85",
+        "text": "Merci beaucoup super intéressant !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "3654a4fc5d4e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-02\/8999698350033_3654a4fc5d4e25a0a92c_72.jpg",
+            "first_name": "Alan",
+            "real_name": "Alan Huet (Fundora)",
+            "display_name": "Alan HUET",
+            "team": "T017AGS2KE0",
+            "name": "alan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761568933.429189",
+        "parent_user_id": "U08V1NE4BUJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cQA9i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci beaucoup super intéressant !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

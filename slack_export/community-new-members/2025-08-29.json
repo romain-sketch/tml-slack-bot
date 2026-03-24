@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U08PLD4KPS8",
+        "type": "message",
+        "ts": "1756485691.565189",
+        "client_msg_id": "b455ce56-f6a5-4b8b-9af5-3f114e4900a5",
+        "text": "Bravo, je ne savais pas que tu avais une newsletter, je file m'abonner :-)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ed1e5a6e17a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-15\/8903493241218_7ed1e5a6e17a9b117971_72.jpg",
+            "first_name": "Ségolène",
+            "real_name": "Ségolène Finet",
+            "display_name": "Ségolène Finet",
+            "team": "T017AGS2KE0",
+            "name": "finetsegolene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1753877552.037949",
+        "parent_user_id": "U0946E8A2US",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tuVx5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bravo, je ne savais pas que tu avais une newsletter, je file m'abonner :-)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,117 @@
+[
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1757922606.403419",
+        "edited": {
+            "user": "U084KTR7YKX",
+            "ts": "1757922634.000000"
+        },
+        "client_msg_id": "09d1f521-f0f8-494f-bb0b-d1ee764c7ee1",
+        "text": "Je suis team ~Rand~ Romain (:heart_hands:) pour mes clients B2B SaaS (genre Claap) mais là pour Evaneos comme c'est un catalogue \"Voyage + $Pays\" pour les recherches chaudes - on ne peut pas trop faire un top 10 des requests ou prompts, on creuse en ce moment comme contourner le truc !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757427406.898379",
+        "parent_user_id": "U08EN5T6F4L",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BME3n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je suis team "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Rand",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Romain ("
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_hands",
+                                "unicode": "1faf6"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") pour mes clients B2B SaaS (genre Claap) mais là pour Evaneos comme c'est un catalogue \"Voyage + $Pays\" pour les recherches chaudes - on ne peut pas trop faire un top 10 des requests ou prompts, on creuse en ce moment comme contourner le truc !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U04A6JMRWCS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U017RAZCAGZ",
+        "type": "message",
+        "ts": "1757951902.786269",
+        "edited": {
+            "user": "U017RAZCAGZ",
+            "ts": "1757952022.000000"
+        },
+        "client_msg_id": "2ba7972e-86a5-46ad-963a-69e5bb5d5ed5",
+        "text": "Hello à tous ! On se pose plein de questions pour automatiser le ROI de nos campagnes Linkedin en le croisant avec nos données Salesforce. On n'arrive pas à créer des passerelles sans ce que cela soit une usine à gaz (on est à la recherche d'un ID unique). Est-ce que quelqu'un a des fortes convictions sur le sujet ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2e6e61c8f204",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-20\/1251040887619_2e6e61c8f20434050630_72.jpg",
+            "first_name": "Hélène",
+            "real_name": "Hélène Draoulec (Phenix)",
+            "display_name": "Hélène Draoulec (Phenix)",
+            "team": "T017AGS2KE0",
+            "name": "hdraoulec",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7nkqh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello à tous ! On se pose plein de questions pour automatiser le ROI de nos campagnes Linkedin en le croisant avec nos données Salesforce. On n'arrive pas à créer des passerelles sans ce que cela soit une usine à gaz (on est à la recherche d'un ID unique). Est-ce que quelqu'un a des fortes convictions sur le sujet ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

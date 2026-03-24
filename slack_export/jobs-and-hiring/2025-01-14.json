@@ -1,0 +1,143 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U088J9RFEH2",
+        "text": "<@U088J9RFEH2> has joined the channel",
+        "type": "message",
+        "ts": "1736843838.035089"
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1736849664.612329",
+        "client_msg_id": "2c2c1f69-b013-4c48-8cba-f6b27b200db5",
+        "text": "Hello',\nJe recruter un Field Marketing Manager - Central &amp; North EMEA  - Basé à Amsterdam ou Munich idéalement. Native Allemand.\nSi vous avez des connaissances !\nMerci\n\n<https:\/\/jobs.lever.co\/contentsquare\/803e9d5b-d92c-47c1-b7d5-fbd88d791d40>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/jobs.lever.co\/contentsquare\/803e9d5b-d92c-47c1-b7d5-fbd88d791d40",
+                "service_icon": "https:\/\/jobs.lever.co\/favicon.ico",
+                "thumb_url": "https:\/\/lever-client-logos.s3.us-west-2.amazonaws.com\/9bf2be0d-1939-41b6-937b-1d76d54fe204-1730991628952.png",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "id": 1,
+                "original_url": "https:\/\/jobs.lever.co\/contentsquare\/803e9d5b-d92c-47c1-b7d5-fbd88d791d40",
+                "fallback": "Contentsquare - Field Marketing Manager - Central &amp; North EMEA and MENAT",
+                "text": "About the role: Contentsquare is looking for a Field Marketing Manager to join our team and play a key role in driving pipeline and customer engagement across EMEA Central, North, and MENAT. Reporting into the Regional Senior Director Marketing, this role focuses on delivering impactful events and executing Account-Based Marketing (ABM) strategies to support regional business goals.",
+                "title": "Contentsquare - Field Marketing Manager - Central &amp; North EMEA and MENAT",
+                "title_link": "https:\/\/jobs.lever.co\/contentsquare\/803e9d5b-d92c-47c1-b7d5-fbd88d791d40",
+                "service_name": "jobs.lever.co",
+                "fields": [
+                    {
+                        "value": "Munich",
+                        "title": "Location",
+                        "short": true
+                    },
+                    {
+                        "value": "Central Europe",
+                        "title": "Team",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n9YFG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello',\nJe recruter un Field Marketing Manager - Central & North EMEA  - Basé à Amsterdam ou Munich idéalement. Native Allemand.\nSi vous avez des connaissances !\nMerci\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/jobs.lever.co\/contentsquare\/803e9d5b-d92c-47c1-b7d5-fbd88d791d40"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1736868266.729969",
+        "client_msg_id": "33ef1477-8d92-4a81-b554-66eb5fdf583a",
+        "text": "Hello <https:\/\/najar.ai\/|Najar> cherche son futur CMO. Si vous êtes intéressé, venez me voir, je vous présente au CEO.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/images.prismic.io\/welii\/Zw644IF3NbkBXeeQ_BlogImg-1-.png?auto=format,compress&rect=0,107,1648,865&w=2400&h=1260",
+                "image_width": 2400,
+                "image_height": 1260,
+                "image_bytes": 43476,
+                "from_url": "https:\/\/najar.ai\/",
+                "service_icon": "https:\/\/najar.ai\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/najar.ai\/",
+                "fallback": "Najar: Najar (ex-Welii) - Build Stronger, Spend Smarter.",
+                "text": "Najar empowers businesses with modular, AI-driven procurement solutions, giving you full visibility and control over every purchase decision and outflow. Start cutting Saas spend today.",
+                "title": "Najar (ex-Welii) - Build Stronger, Spend Smarter.",
+                "title_link": "https:\/\/najar.ai\/",
+                "service_name": "Najar"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q5Wac",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/najar.ai\/",
+                                "text": "Najar"
+                            },
+                            {
+                                "type": "text",
+                                "text": " cherche son futur CMO. Si vous êtes intéressé, venez me voir, je vous présente au CEO."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

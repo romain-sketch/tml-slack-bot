@@ -1,0 +1,68 @@
+[
+    {
+        "user": "U06E3PY5LAY",
+        "type": "message",
+        "ts": "1757667949.808789",
+        "client_msg_id": "cada9f1f-ef4b-41f6-bcf3-b4a36d71a584",
+        "text": "<@U063A8VPPG9> Si tu cherches toujours, je recommande <https:\/\/www.linkedin.com\/in\/sofia-megzari-575b5290\/|Sofia Megzari> qui a géré des projets de renouvellement de marque et rollout entreprise avec moi chez LumApps et Withings et plusieurs projets chez Qonto.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e6f18bbbcc15",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-16\/6475144975749_e6f18bbbcc1579d4df98_72.png",
+            "first_name": "Elizabeth",
+            "real_name": "Elizabeth Coleon",
+            "display_name": "Elizabeth Coleon",
+            "team": "T017AGS2KE0",
+            "name": "eorzano",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756875899.843319",
+        "parent_user_id": "U063A8VPPG9",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/sofia-megzari-575b5290\/",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/sofia-megzari-575b5290\/",
+                "fallback": "Sofia Megzari - Atlante | LinkedIn",
+                "text": "I am an entrepreneur with a creative mindset who thrives in fast-growing environments. I… · Expérience : Atlante · Formation : HEC Paris · Lieu : Paris · 500 relations ou plus sur LinkedIn. Consultez le profil de Sofia Megzari sur LinkedIn, une communauté professionnelle d’un milliard de membres.",
+                "title": "Sofia Megzari - Atlante | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/sofia-megzari-575b5290\/",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bw+2J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U063A8VPPG9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Si tu cherches toujours, je recommande "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/sofia-megzari-575b5290\/",
+                                "text": "Sofia Megzari"
+                            },
+                            {
+                                "type": "text",
+                                "text": " qui a géré des projets de renouvellement de marque et rollout entreprise avec moi chez LumApps et Withings et plusieurs projets chez Qonto."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,271 @@
+[
+    {
+        "user": "U065DFPCQMP",
+        "type": "message",
+        "ts": "1744879344.186479",
+        "client_msg_id": "8958BE12-8CE9-4E0B-8129-03CE0766E092",
+        "text": "Difficile de répondre en un message mais on peut catch up pour en parler. \n• je préfère ne pas partir d’un volume mais de l’utilité des messages pour catégoriser par prio et audience (rôle + profil utilisateur)\n• Ensuite planifier les messages récurrents dans des communications plus structurées\n• Il faut une personne \/ un doc pour centraliser ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50040e0261e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-15\/6198553206674_50040e0261e7ba62e840_72.jpg",
+            "first_name": "Gaelle",
+            "real_name": "Gaelle Le Goff",
+            "display_name": "Gaelle Le Goff",
+            "team": "T017AGS2KE0",
+            "name": "gaelle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744733186.133609",
+        "parent_user_id": "U067GNGDATD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qflzl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Difficile de répondre en un message mais on peut catch up pour en parler"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "je préfère ne pas partir d’un volume mais de "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "l’utilité"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " des messages pour catégoriser par prio et audience (rôle + profil utilisateur"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ")"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Ensuite planifier les messages récurrents dans des communications plus structurées"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Il faut une personne \/ un doc pour centraliser "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U067GNGDATD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U067GNGDATD",
+        "type": "message",
+        "ts": "1744881085.285179",
+        "client_msg_id": "66cf411e-b49e-4c7f-8105-e8657ee2bbc3",
+        "text": "<@U065DFPCQMP> preneur d'un catch-up, aurais-tu à tout hasard de la dispo demain 16h? ou mercredi matin?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "gd73dcdb62f7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d73dcdb62f793ad670516a42032e3fa5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Diard",
+            "display_name": "Old Account \/ Do not use",
+            "team": "T017AGS2KE0",
+            "name": "adiard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744733186.133609",
+        "parent_user_id": "U067GNGDATD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4OivK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U065DFPCQMP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " preneur d'un catch-up, aurais-tu à tout hasard de la dispo demain 16h? ou mercredi matin?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U065DFPCQMP",
+        "type": "message",
+        "ts": "1744884124.713969",
+        "client_msg_id": "1F82DB83-9187-432F-8138-C16360A5406A",
+        "text": "Plutôt 15h30 demain ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50040e0261e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-15\/6198553206674_50040e0261e7ba62e840_72.jpg",
+            "first_name": "Gaelle",
+            "real_name": "Gaelle Le Goff",
+            "display_name": "Gaelle Le Goff",
+            "team": "T017AGS2KE0",
+            "name": "gaelle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744733186.133609",
+        "parent_user_id": "U067GNGDATD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kfGbP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plutôt 15h30 demain ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1744916876.028729",
+        "edited": {
+            "user": "U084KTR7YKX",
+            "ts": "1744916885.000000"
+        },
+        "client_msg_id": "d58193d1-2466-49b4-92b9-b7cfc3feea7a",
+        "text": "Hello la team TML,\ndes idées de tarifs influenceurs sur X vs Linkedin ?\nd'ailleurs preneuse de vos grilles en MP ou si vous souhaitez les partager pour influence B2B notamment Linkedin, ce qu'on a fait jusque maintenant c'est prix fixe sur poste (en fonction de la communauté) et débloquage de paliers par volume d'impressions du post\nMais sur X, je suis un peu paumée et je ne sais pas si ça vaut le coup\n\"Je post sur X, avec une communauté de 32,000 abonnés, et je possède aussi un groupe Telegram de 2000 personnes.\"\n\nMerci :pray:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744916876.028729",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1745399955.361989",
+        "reply_users": [
+            "U06CZESF7QF",
+            "U084KTR7YKX"
+        ],
+        "replies": [
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1745398049.286289"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1745399955.361989"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oRBrL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello la team TML,\ndes idées de tarifs influenceurs sur X vs Linkedin ?\nd'ailleurs preneuse de vos grilles en MP ou si vous souhaitez les partager pour influence B2B notamment Linkedin, ce qu'on a fait jusque maintenant c'est prix fixe sur poste (en fonction de la communauté) et débloquage de paliers par volume d'impressions du post\nMais sur X, je suis un peu paumée et je ne sais pas si ça vaut le coup\n\"Je post sur X, avec une communauté de 32,000 abonnés, et je possède aussi un groupe Telegram de 2000 personnes.\"\n\nMerci "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "x",
+                "users": [
+                    "U06CZESF7QF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

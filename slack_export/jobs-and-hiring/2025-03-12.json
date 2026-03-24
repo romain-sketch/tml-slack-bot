@@ -1,0 +1,68 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U08HF5YQM6G",
+        "text": "<@U08HF5YQM6G> has joined the channel",
+        "type": "message",
+        "ts": "1741766607.239299"
+    },
+    {
+        "user": "U069NSTHZ3Q",
+        "type": "message",
+        "ts": "1741800868.825439",
+        "client_msg_id": "87d260ca-e824-47f8-b71e-8f76681b0ba7",
+        "text": "hello, on recrute un(e) Field Marketing Specialiste chez Oodrive : poste basé à Paris, très terrain donc, profil entre le chargé et le responsable marketing : <https:\/\/www.linkedin.com\/posts\/thomas-bourson_hubspot-salesforce-recrutement-activity-7305636694425239553-mXCC?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAAQYhRAB_GWIKE3GPRl_Y51q7VF8Okm_kgk|https:\/\/www.linkedin.com\/posts\/thomas-bourson_hubspot-salesforce-recrutement-activity[…]m=member_desktop&amp;rcm=ACoAAAQYhRAB_GWIKE3GPRl_Y51q7VF8Okm_kgk>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "fbbca81fca0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-30\/7816371623809_fbbca81fca0c916c8c15_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Gannau (Oodrive)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "m.gannau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/posts\/thomas-bourson_hubspot-salesforce-recrutement-activity-7305636694425239553-mXCC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAQYhRAB_GWIKE3GPRl_Y51q7VF8Okm_kgk",
+                "thumb_url": "https:\/\/static.licdn.com\/scds\/common\/u\/images\/email\/artdeco\/logos\/96\/linkedin-bug-color.png",
+                "thumb_width": 96,
+                "thumb_height": 96,
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/posts\/thomas-bourson_hubspot-salesforce-recrutement-activity-7305636694425239553-mXCC?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAAQYhRAB_GWIKE3GPRl_Y51q7VF8Okm_kgk",
+                "fallback": "#hubspot #salesforce #recrutement #fieldmarketing #marketingb2b #growth… | Thomas Bourson",
+                "text": ":rocket: 𝗝𝗲 𝗿𝗲𝗰𝗿𝘂𝘁𝗲 𝘂𝗻(𝗲) 𝗙𝗶𝗲𝗹𝗱 𝗠𝗮𝗿𝗸𝗲𝘁𝗶𝗻𝗴 𝗦𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘀𝘁 ! :dart:\n\nSi tu es passionné(e) par le 𝗺𝗮𝗿𝗸𝗲𝘁𝗶𝗻𝗴 𝗕𝟮𝗕, que tu aimes…",
+                "title": "#hubspot #salesforce #recrutement #fieldmarketing #marketingb2b #growth… | Thomas Bourson",
+                "title_link": "https:\/\/www.linkedin.com\/posts\/thomas-bourson_hubspot-salesforce-recrutement-activity-7305636694425239553-mXCC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAQYhRAB_GWIKE3GPRl_Y51q7VF8Okm_kgk",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aRKyQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello, on recrute un(e) Field Marketing Specialiste chez Oodrive : poste basé à Paris, très terrain donc, profil entre le chargé et le responsable marketing : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/posts\/thomas-bourson_hubspot-salesforce-recrutement-activity-7305636694425239553-mXCC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAQYhRAB_GWIKE3GPRl_Y51q7VF8Okm_kgk",
+                                "text": "https:\/\/www.linkedin.com\/posts\/thomas-bourson_hubspot-salesforce-recrutement-activity[…]m=member_desktop&rcm=ACoAAAQYhRAB_GWIKE3GPRl_Y51q7VF8Okm_kgk"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "user": "U092PH1F2CA",
+        "type": "message",
+        "ts": "1758183216.043849",
+        "edited": {
+            "user": "U092PH1F2CA",
+            "ts": "1758183445.000000"
+        },
+        "client_msg_id": "b3b5b6cd-afc8-467b-a573-f806088c4ac9",
+        "text": "Hello,\nChez PeopleSpheres nous avions mis les BDR au Marketing et ça permettait:\n• d'avoir un temps de rappel des demandes entrantes dans les 10min\n• d'avoir un bon ROI aux Events car ils avaient vraiment faim contrairement aux sales\nJe pense que cela dépends aussi de la maturité de tes commerciaux, soit ils font déjà de la prospection et vont être capable de vraiment être plus productif grace aux BDR dans leur équipes. Soit il ne sont pas encore mature ou ne font pas de prospection (donc tout vient du Marketing) et la je préfère être maitre de la qualité des opportunités que je fourni aux Sales (et cela te fait gagner un rang  par rapport au ROI de ton Equipe) Car tu lèves maintenant des opportunités et non plus de simple leads.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9a39d2d117ff",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-23\/9092853310756_9a39d2d117ffed6b6a7d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Diard",
+            "display_name": "Alexandre Diard (ex PeopleSpheres)",
+            "team": "T017AGS2KE0",
+            "name": "diard.alexandre",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1758106046.461179",
+        "parent_user_id": "U06EN9X790C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T1CXH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello,\nChez PeopleSpheres nous avions mis les BDR au Marketing et ça permettait:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "d'avoir un temps de rappel des demandes entrantes dans les 10min"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "d'avoir un bon ROI aux Events car ils avaient vraiment faim contrairement aux sales"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je pense que cela dépends aussi de la maturité de tes commerciaux, soit ils font déjà de la prospection et vont être capable de vraiment être plus productif grace aux BDR dans leur équipes. Soit il ne sont pas encore mature ou ne font pas de prospection (donc tout vient du Marketing) et la je préfère être maitre de la qualité des opportunités que je fourni aux Sales (et cela te fait gagner un rang  par rapport au ROI de ton Equipe) Car tu lèves maintenant des opportunités et non plus de simple leads."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U06EN9X790C"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

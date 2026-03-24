@@ -1,0 +1,175 @@
+[
+    {
+        "user": "U0951RDNKU6",
+        "type": "message",
+        "ts": "1765542803.128759",
+        "edited": {
+            "user": "U0951RDNKU6",
+            "ts": "1765542842.000000"
+        },
+        "client_msg_id": "2b2813ec-8816-4886-a540-8041411e2ee3",
+        "text": "Canon, bravo !!! et si en plus vous réussissez à faire monter <@U084KTR7YKX> à Paris mazette! :sweat_smile::fire:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "85dcd88ccf2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-06\/9660924995297_85dcd88ccf2fa3d8be38_72.jpg",
+            "first_name": "Marion",
+            "real_name": "Marion de Robillard",
+            "display_name": "Marion de Robillard",
+            "team": "T017AGS2KE0",
+            "name": "marionderobillard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1765437418.765269",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X7cYe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Canon, bravo !!! et si en plus vous réussissez à faire monter "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U084KTR7YKX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " à Paris mazette! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire",
+                                "unicode": "1f525"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U063A8VPPG9",
+                    "U084KTR7YKX",
+                    "U06TF9YAWEM"
+                ],
+                "count": 3
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U084KTR7YKX",
+                    "U06TF9YAWEM"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U06TF9YAWEM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0A2RBDS1E3",
+        "text": "<@U0A2RBDS1E3> has joined the channel",
+        "type": "message",
+        "ts": "1765548546.372999"
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1765552399.596629",
+        "client_msg_id": "307fae57-6cb7-4480-9f30-d2677f38b181",
+        "text": "ça veut dire que tu viens Marion ? :slightly_smiling_face: Billets pris ne me le faîtes pas regretter vs 2 jours de ski :ski:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1765437418.765269",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eA8K1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ça veut dire que tu viens Marion ? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Billets pris ne me le faîtes pas regretter vs 2 jours de ski "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ski",
+                                "unicode": "1f3bf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U063A8VPPG9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart_hands",
+                "users": [
+                    "U0951RDNKU6",
+                    "U017H09S857"
+                ],
+                "count": 2
+            },
+            {
+                "name": "boom",
+                "users": [
+                    "U0951RDNKU6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

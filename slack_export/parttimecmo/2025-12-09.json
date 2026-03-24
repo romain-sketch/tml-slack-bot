@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1765350285.733739",
+        "client_msg_id": "7d022b24-f240-4aa6-95a6-916362031a84",
+        "text": "Vendredi 19 à 13h ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763044686.146079",
+        "parent_user_id": "U03QPMQA31V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "edZqS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Vendredi 19 à 13h ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

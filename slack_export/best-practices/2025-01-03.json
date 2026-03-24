@@ -1,0 +1,162 @@
+[
+    {
+        "user": "U0859A8P14K",
+        "type": "message",
+        "ts": "1735895048.050719",
+        "client_msg_id": "7700beaa-f7c7-480f-ab5f-836a222a99a4",
+        "text": "Merci je me posais la \"presque\" même question : est ce chez vous une personne au marketing ou au sales (ou SDR) qui est en charge de référencer la solution sur les plateformes \/ catalogues type UGAP qui ensuite servent pour les RFP?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "de9373c86530",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8178910826725_de9373c86530dc48c9e8_72.png",
+            "first_name": "Alexandra",
+            "real_name": "Alexandra Lougovoy",
+            "display_name": "Alexandra Lougovoy (Eudonet)",
+            "team": "T017AGS2KE0",
+            "name": "a.lougovoy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1734714083.104509",
+        "parent_user_id": "U07R7CUFM7H",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3cstp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci je me posais la \"presque\" même question : est ce chez vous une personne au marketing ou au sales (ou SDR) qui est en charge de référencer la solution sur les plateformes \/ catalogues type UGAP qui ensuite servent pour les RFP?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U020QK16RMJ",
+        "type": "message",
+        "ts": "1735915335.915479",
+        "client_msg_id": "a0ec6e71-6433-41dc-ac80-b45581e5397a",
+        "text": "Proposition un peu folle pour commencer l'année. Seriez-vous prêt à partager le deck de votre plan marketing (sous NDA) ? L'idée est la suivante :  cela fait mon Xème rôle et je n'ai jamais vu de deck autre que les miens, je cherche à voir comment être meilleur sur le sujet.\nSi vous êtes motivée.e :+1:  si pour vous c'est un gros no go :no_entry:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "56d8a678e801",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-18\/7292097443269_56d8a678e801350db84a_72.png",
+            "first_name": "Joël",
+            "real_name": "Joël Gaudeul",
+            "display_name": "Joël (Swan)",
+            "team": "T017AGS2KE0",
+            "name": "joel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1735915335.915479",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1737625707.669249",
+        "reply_users": [
+            "U017RAZCAGZ"
+        ],
+        "replies": [
+            {
+                "user": "U017RAZCAGZ",
+                "ts": "1735917616.691359"
+            },
+            {
+                "user": "U017RAZCAGZ",
+                "ts": "1737625707.669249"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d3iEa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Proposition un peu folle pour commencer l'année. Seriez-vous prêt à partager le deck de votre plan marketing (sous NDA) ? L'idée est la suivante :  cela fait mon Xème rôle et je n'ai jamais vu de deck autre que les miens, je cherche à voir comment être meilleur sur le sujet.\nSi vous êtes motivée.e "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thumbsup",
+                                "unicode": "1f44d"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  si pour vous c'est un gros no go "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "no_entry",
+                                "unicode": "26d4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U017RAZCAGZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U017RAZCAGZ",
+        "type": "message",
+        "ts": "1735917616.691359",
+        "client_msg_id": "AE32E821-8BFC-42B6-802D-6215504F11AA",
+        "text": "Moi je suis in ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2e6e61c8f204",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-20\/1251040887619_2e6e61c8f20434050630_72.jpg",
+            "first_name": "Hélène",
+            "real_name": "Hélène Draoulec (Phenix)",
+            "display_name": "Hélène Draoulec (Phenix)",
+            "team": "T017AGS2KE0",
+            "name": "hdraoulec",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1735915335.915479",
+        "parent_user_id": "U020QK16RMJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SGdb2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Moi je suis in "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

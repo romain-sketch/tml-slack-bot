@@ -1,0 +1,64 @@
+[
+    {
+        "user": "U020QK16RMJ",
+        "type": "message",
+        "ts": "1761052335.760049",
+        "client_msg_id": "8db494c6-ad92-4b31-94e8-d8ab0042cb13",
+        "text": "Trop cool. Je vous laisse booker vos créneaux. <https:\/\/calendar.app.google\/S8xGpK3eD5smDtAT8>\nPensez à préparer vos deck pour aussi être confortable dans cet exercice de partage :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "56d8a678e801",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-18\/7292097443269_56d8a678e801350db84a_72.png",
+            "first_name": "Joël",
+            "real_name": "Joël Gaudeul",
+            "display_name": "Joël (Swan)",
+            "team": "T017AGS2KE0",
+            "name": "joel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760904460.637679",
+        "parent_user_id": "U020QK16RMJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "akmtv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Trop cool. Je vous laisse booker vos créneaux. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/calendar.app.google\/S8xGpK3eD5smDtAT8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPensez à préparer vos deck pour aussi être confortable dans cet exercice de partage "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U04SM1RGPJB"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

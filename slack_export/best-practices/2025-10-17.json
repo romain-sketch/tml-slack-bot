@@ -1,0 +1,232 @@
+[
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1760688146.466759",
+        "client_msg_id": "3bca8247-8bad-4cec-9f3e-d72d7225267b",
+        "text": "<@U069NSTHZ3Q>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759909660.136279",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "arX8i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U069NSTHZ3Q"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U069NSTHZ3Q"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U069NSTHZ3Q",
+        "type": "message",
+        "ts": "1760688503.308559",
+        "client_msg_id": "5907bed0-3d07-4a28-bf80-2da897f162e1",
+        "text": "DM envoyé ! super idée merci",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "fbbca81fca0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-30\/7816371623809_fbbca81fca0c916c8c15_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Gannau (Oodrive)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "m.gannau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759909660.136279",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pMRYt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "DM envoyé ! super idée merci"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06MHCCLQG3",
+        "type": "message",
+        "ts": "1760688761.356399",
+        "client_msg_id": "5f0f9f69-fdb5-448b-9f4d-255d1f7ff1d7",
+        "text": "Hello:wave:, assez fan des com's d'ElevenLabs. Je cherche une agence ou freelance capable de produire ce niveau de rendu motion design. Vous connaissez des rockstars dans ce domaine ?\n1. <https:\/\/x.com\/elevenlabsio\/status\/1962912811392131214>\n2. <https:\/\/x.com\/elevenlabsio\/status\/1958219938881257525>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c0d40ab69a35",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-02\/6731971842677_c0d40ab69a3508d4c595_72.png",
+            "first_name": "Arnaud",
+            "real_name": "Arnaud Delubac (Greenly)",
+            "display_name": "Arnaud Delubac",
+            "team": "T017AGS2KE0",
+            "name": "arnaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760688761.356399",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1761408393.559539",
+        "reply_users": [
+            "U063Q1LA69W",
+            "U06MHCCLQG3"
+        ],
+        "replies": [
+            {
+                "user": "U063Q1LA69W",
+                "ts": "1761028195.752539"
+            },
+            {
+                "user": "U06MHCCLQG3",
+                "ts": "1761408393.559539"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "image_url": "https:\/\/pbs.twimg.com\/amplify_video_thumb\/1962910122520256512\/img\/94XNPwx7uSeOPe3A.jpg:large",
+                "image_width": 1920,
+                "image_height": 1080,
+                "image_bytes": 81044,
+                "from_url": "https:\/\/x.com\/elevenlabsio\/status\/1962912811392131214",
+                "service_icon": "http:\/\/abs.twimg.com\/favicons\/twitter.3.ico",
+                "id": 1,
+                "original_url": "https:\/\/x.com\/elevenlabsio\/status\/1962912811392131214",
+                "fallback": "X (formerly Twitter): ElevenLabs (@elevenlabsio) on X",
+                "text": "Introducing v2 of our SFX model. \nGenerate any sound effect directly from a prompt, via UI or API.\n\n• Higher SFX quality\n• New: seamlessly looping sound effects\n• Maximum duration extended from 22s to 30s\n• Sample rate increased from 44.1kHz to 48kHz\n• Refreshed SFX Library",
+                "title": "ElevenLabs (@elevenlabsio) on X",
+                "title_link": "https:\/\/x.com\/elevenlabsio\/status\/1962912811392131214",
+                "service_name": "X (formerly Twitter)"
+            },
+            {
+                "image_url": "https:\/\/pbs.twimg.com\/amplify_video_thumb\/1958217209127501824\/img\/VG8hXirxkhOEaLl9.jpg:large",
+                "image_width": 1920,
+                "image_height": 1080,
+                "image_bytes": 45228,
+                "from_url": "https:\/\/x.com\/elevenlabsio\/status\/1958219938881257525",
+                "service_icon": "http:\/\/abs.twimg.com\/favicons\/twitter.3.ico",
+                "id": 2,
+                "original_url": "https:\/\/x.com\/elevenlabsio\/status\/1958219938881257525",
+                "fallback": "X (formerly Twitter): ElevenLabs (@elevenlabsio) on X",
+                "text": "We are launching the Eleven v3 (alpha) API.\n\nBuilt for async use cases, Eleven v3 (alpha) delivers the most expressive Text to Speech model:\n- Dialogue mode, unlimited amount of speakers\n- 70+ languages\n- Enhanced voice and emotional control with [audio tags]",
+                "title": "ElevenLabs (@elevenlabsio) on X",
+                "title_link": "https:\/\/x.com\/elevenlabsio\/status\/1958219938881257525",
+                "service_name": "X (formerly Twitter)"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B7ZXB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", assez fan des com's d'ElevenLabs. Je cherche une agence ou freelance capable de produire ce niveau de rendu motion design. Vous connaissez des rockstars dans ce domaine ?\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/x.com\/elevenlabsio\/status\/1962912811392131214"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/x.com\/elevenlabsio\/status\/1958219938881257525"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03P99RGMTN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "x",
+                "users": [
+                    "U06DYTRDLUD"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

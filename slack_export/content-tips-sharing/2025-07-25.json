@@ -1,0 +1,63 @@
+[
+    {
+        "user": "U017CURDPB5",
+        "type": "message",
+        "ts": "1753449587.755929",
+        "client_msg_id": "F1B198D9-47EC-4534-9BA6-32DBB70D1E19",
+        "text": "Hello, quelqu’un aurait un bon contact type CSM chez Facebook \/ Meta? On galere dans l’admin de la nebuleuse meta. Merci !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "671ad569fbc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5982967598243_671ad569fbc40977de70_72.jpg",
+            "first_name": "David",
+            "real_name": "David Remaud",
+            "display_name": "David Remaud (iBanFirst)",
+            "team": "T017AGS2KE0",
+            "name": "david.remaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ecpjh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "quelqu’un"
+                            },
+                            {
+                                "type": "text",
+                                "text": " aurait un bon contact type CSM chez Facebook \/ Meta? On galere dans l’admin de la nebuleuse meta. Merci !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "x",
+                "users": [
+                    "U017RAZCAGZ",
+                    "U03P99RGMTN",
+                    "U02N2EVMFCG",
+                    "U08QZ6EKE4Q",
+                    "U063A8VPPG9",
+                    "U08HF5YQM6G",
+                    "U08SA22HS0J"
+                ],
+                "count": 7
+            }
+        ]
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "user": "U06M7V60C3V",
+        "type": "message",
+        "ts": "1737363258.016829",
+        "client_msg_id": "b93f27f8-5332-4b8e-b6e5-6ae6a036f50e",
+        "text": "perso j'ai travaillé avec <https:\/\/ads-up.fr\/|AdsUp >et avec <https:\/\/www.ekela.fr\/|Ekela>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c157cbc7bd16",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-05\/6743067999830_c157cbc7bd162143bc3d_72.jpg",
+            "first_name": "Cosmina",
+            "real_name": "Cosmina Trifan",
+            "display_name": "Cosmina Trifan",
+            "team": "T017AGS2KE0",
+            "name": "ctrifan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736502930.280949",
+        "parent_user_id": "U06EN9X790C",
+        "attachments": [
+            {
+                "from_url": "https:\/\/ads-up.fr\/",
+                "service_icon": "https:\/\/ads-up.fr\/app\/themes\/Adsup\/images\/favicon.ico",
+                "thumb_url": "https:\/\/ads-up.fr\/app\/uploads\/2022\/09\/Logo-Ads-up-.png",
+                "thumb_width": 301,
+                "thumb_height": 300,
+                "id": 1,
+                "original_url": "https:\/\/ads-up.fr\/",
+                "fallback": "Ad's up: Ad's up | Agence Google Ads, SEO, Display &amp; Social Ads",
+                "text": "Ad's up, l'Agence Google Ads, Agence Marketing Digital spécialisée dans la création et l'optimisation de vos Campagnes SEA et Social Ads.",
+                "title": "Ad's up | Agence Google Ads, SEO, Display &amp; Social Ads",
+                "title_link": "https:\/\/ads-up.fr\/",
+                "service_name": "Ad's up"
+            },
+            {
+                "from_url": "https:\/\/www.ekela.fr\/",
+                "service_icon": "https:\/\/www.ekela.fr\/wp-content\/themes\/enfold-child\/gfx\/touch-icons\/apple-touch-icon.png",
+                "id": 2,
+                "original_url": "https:\/\/www.ekela.fr\/",
+                "fallback": "Agence marketing &amp; digitale à Orléans - Loiret 45",
+                "text": "EKELA : Agence marketing &amp; digitale créative :bulb: et innovante :brain: Faites le plein d'idées pour vos projets, passez à l'action ! :sunglasses:",
+                "title": "Agence marketing &amp; digitale à Orléans - Loiret 45",
+                "title_link": "https:\/\/www.ekela.fr\/",
+                "service_name": "ekela.fr"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lpWgn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "perso j'ai travaillé avec "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ads-up.fr\/",
+                                "text": "AdsUp "
+                            },
+                            {
+                                "type": "text",
+                                "text": "et avec "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.ekela.fr\/",
+                                "text": "Ekela"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U06EN9X790C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U084LQF8023",
+        "text": "<@U084LQF8023> has joined the channel",
+        "type": "message",
+        "ts": "1737385379.906079"
+    }
+]

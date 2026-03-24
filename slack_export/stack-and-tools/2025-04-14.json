@@ -1,0 +1,406 @@
+[
+    {
+        "user": "U016YKEUD8E",
+        "type": "message",
+        "ts": "1744639012.839749",
+        "edited": {
+            "user": "U016YKEUD8E",
+            "ts": "1744639019.000000"
+        },
+        "client_msg_id": "efb4656d-6cdd-48f1-b6ab-7664f5069784",
+        "text": "Hello\nPas sur d'être dans le bon canal mais est-ce que l'un ou l'une d'entre vous aurait une reco d'agence pour faire une vidéo motion design  (alternance screenshot produit \/ texte) ?  Simple et rapide. Peut etre même qu'une IA peut faire :upside_down_face:\nMerci !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5cb646f90b0b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1243504547047_5cb646f90b0b92cbd328_72.jpg",
+            "first_name": "Grégoire",
+            "real_name": "Grégoire Thomas",
+            "display_name": "Greg Thomas (Doctrine)",
+            "team": "T017AGS2KE0",
+            "name": "gregoire.thomas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744639012.839749",
+        "reply_count": 7,
+        "reply_users_count": 7,
+        "latest_reply": "1744708424.349269",
+        "reply_users": [
+            "U078PFP7A4B",
+            "U01CNU4Q2H2",
+            "U04SM1RGPJB",
+            "U016SBPG7K9",
+            "U016YKEUD8E",
+            "U0177A5V42F",
+            "U067VEJFT5F"
+        ],
+        "replies": [
+            {
+                "user": "U078PFP7A4B",
+                "ts": "1744639126.201969"
+            },
+            {
+                "user": "U01CNU4Q2H2",
+                "ts": "1744642417.052219"
+            },
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1744643473.720849"
+            },
+            {
+                "user": "U016SBPG7K9",
+                "ts": "1744645521.092739"
+            },
+            {
+                "user": "U016YKEUD8E",
+                "ts": "1744646301.477239"
+            },
+            {
+                "user": "U0177A5V42F",
+                "ts": "1744646686.426189"
+            },
+            {
+                "user": "U067VEJFT5F",
+                "ts": "1744708424.349269"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kwn0n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello\nPas sur d'être dans le bon canal mais est-ce que l'un ou l'une d'entre vous aurait une reco d'agence pour faire une vidéo motion design  (alternance screenshot produit \/ texte) ?  Simple et rapide. Peut etre même qu'une IA peut faire "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "upside_down_face",
+                                "unicode": "1f643"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nMerci !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1744639126.201969",
+        "client_msg_id": "3a8b401d-6697-4bc5-955f-e7caf021dc4c",
+        "text": "Hello !\n\nJe travaille avec <https:\/\/sebastien-vincent.fr\/fr\/projets\/|Sébastien Vincent> sur ce sujet - très bon, et prix raisonnable.\n\nTu peux venir vers lui de ma part : *<mailto:hello@sebastien-vincent.fr|hello@sebastien-vincent.fr>*",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744639012.839749",
+        "parent_user_id": "U016YKEUD8E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tlFra",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello !\n\nJe travaille avec "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sebastien-vincent.fr\/fr\/projets\/",
+                                "text": "Sébastien Vincent"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sur ce sujet - très bon, et prix raisonnable.\n\nTu peux venir vers lui de ma part : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:hello@sebastien-vincent.fr",
+                                "text": "hello@sebastien-vincent.fr",
+                                "style": {
+                                    "bold": true
+                                },
+                                "unsafe": true
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01CNU4Q2H2",
+        "type": "message",
+        "ts": "1744642417.052219",
+        "client_msg_id": "93d43f5b-e32d-4ed1-88ac-ad70c46e5094",
+        "text": "Hello je te recommande vivement Simon avec qui on travaille <mailto:caudal.sim@gmail.com|caudal.sim@gmail.com>\nIl est en général très rapide, très bon et à des prix abordables :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "3fc42a41f9fd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-18\/7441599507842_3fc42a41f9fd86423da2_72.png",
+            "first_name": "Marilyne",
+            "real_name": "Marilyne Dupuy",
+            "display_name": "Marilyne Dupuy (Napta)",
+            "team": "T017AGS2KE0",
+            "name": "marilyne.dupuy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744639012.839749",
+        "parent_user_id": "U016YKEUD8E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "klnWQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello je te recommande vivement Simon avec qui on travaille "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:caudal.sim@gmail.com",
+                                "text": "caudal.sim@gmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nIl est en général très rapide, très bon et à des prix abordables "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1744643473.720849",
+        "client_msg_id": "b48fc8a6-7099-4969-9d5a-05f9d0371c6c",
+        "text": "<https:\/\/www.linkedin.com\/in\/ACoAABvOG6gBSZ8jEa3jgvVdsBxLpAnKoCpzP6c?lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3BgJTYDtRjTbaQN01X%2FDK5OQ%3D%3D|Lucas Bouldoires> je recommande fortement Maggle, qui a fait celles de Skillup!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744639012.839749",
+        "parent_user_id": "U016YKEUD8E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a+4gt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/ACoAABvOG6gBSZ8jEa3jgvVdsBxLpAnKoCpzP6c?lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3BgJTYDtRjTbaQN01X%2FDK5OQ%3D%3D",
+                                "text": "Lucas Bouldoires"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je recommande fortement Maggle, qui a fait celles de Skillup!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1744645521.092739",
+        "client_msg_id": "c5efe688-a674-4eff-980b-92b6871f9f2b",
+        "text": "Un peu plus premium que ce que tu décris : <https:\/\/www.linkedin.com\/in\/th%C3%A9ophile-lambert-85986b7b\/|Théophile Lambert> ancien Livestorm passé free, c'est un crack (on bosse avec lui en free maintenant)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744639012.839749",
+        "parent_user_id": "U016YKEUD8E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TIJ0o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un peu plus premium que ce que tu décris : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/th%C3%A9ophile-lambert-85986b7b\/",
+                                "text": "Théophile Lambert"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ancien Livestorm passé free, c'est un crack (on bosse avec lui en free maintenant)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U016YKEUD8E",
+        "type": "message",
+        "ts": "1744646301.477239",
+        "client_msg_id": "813f41b8-87c0-43d5-9002-9ac803a34a17",
+        "text": "Vous êtes trop forts ! Merci bcp :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5cb646f90b0b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1243504547047_5cb646f90b0b92cbd328_72.jpg",
+            "first_name": "Grégoire",
+            "real_name": "Grégoire Thomas",
+            "display_name": "Greg Thomas (Doctrine)",
+            "team": "T017AGS2KE0",
+            "name": "gregoire.thomas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744639012.839749",
+        "parent_user_id": "U016YKEUD8E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f7HI+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Vous êtes trop forts ! Merci bcp "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0177A5V42F",
+        "type": "message",
+        "ts": "1744646686.426189",
+        "client_msg_id": "b5153364-3dba-4431-846e-5439bca8cd87",
+        "text": "Et une petite dernière reco pour la route :\n<https:\/\/www.gorille.co\/l-motion-design?creative=722479357092&amp;matchtype=p&amp;network=g&amp;device=c&amp;utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=%5B2io%5D%20FR%20-%20Search%20-%20Motion%20Design&amp;utm_id=20299361207&amp;utm_keyword=video%20motion%20design&amp;gad_source=1&amp;gbraid=0AAAAADRwJ6XMJ4dz68-s7vY_UZgO_Guxc&amp;gclid=CjwKCAjw5PK_BhBBEiwAL7GTPROr6iF3xg0Jz8nyRIepxJmw796fIyEpfb5FSRYH4iA7xQPjljmUlBoCT70QAvD_BwE|https:\/\/www.gorille.co\/l-motion-design?creative=722479357092&amp;matchtype=p&amp;network=g&amp;d[…]F3xg0Jz8nyRIepxJmw796fIyEpfb5FSRYH4iA7xQPjljmUlBoCT70QAvD_BwE>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ebca9b04129",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-17\/1245815650949_7ebca9b041296679a81d_72.jpg",
+            "first_name": "Guillaume",
+            "real_name": "Guillaume Laguette",
+            "display_name": "Guillaume Laguette (echOpen)",
+            "team": "T017AGS2KE0",
+            "name": "laguette.guillaume",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744639012.839749",
+        "parent_user_id": "U016YKEUD8E",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.gorille.co\/l-motion-design?creative=722479357092&matchtype=p&network=g&device=c&utm_source=google&utm_medium=cpc&utm_campaign=%5B2io%5D%20FR%20-%20Search%20-%20Motion%20Design&utm_id=20299361207&utm_keyword=video%20motion%20design&gad_source=1&gbraid=0AAAAADRwJ6XMJ4dz68-s7vY_UZgO_Guxc&gclid=CjwKCAjw5PK_BhBBEiwAL7GTPROr6iF3xg0Jz8nyRIepxJmw796fIyEpfb5FSRYH4iA7xQPjljmUlBoCT70QAvD_BwE",
+                "id": 1,
+                "original_url": "https:\/\/www.gorille.co\/l-motion-design?creative=722479357092&amp;matchtype=p&amp;network=g&amp;device=c&amp;utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=%5B2io%5D%20FR%20-%20Search%20-%20Motion%20Design&amp;utm_id=20299361207&amp;utm_keyword=video%20motion%20design&amp;gad_source=1&amp;gbraid=0AAAAADRwJ6XMJ4dz68-s7vY_UZgO_Guxc&amp;gclid=CjwKCAjw5PK_BhBBEiwAL7GTPROr6iF3xg0Jz8nyRIepxJmw796fIyEpfb5FSRYH4iA7xQPjljmUlBoCT70QAvD_BwE",
+                "fallback": "Gorille, l’Agence Motion design N°1",
+                "text": "Gorille, l’Agence Motion design où l’animation est érigée en art qui demande un engagement complet, une attention aux détails et de l’innovation perpétuelle.",
+                "title": "Gorille, l’Agence Motion design N°1",
+                "title_link": "https:\/\/www.gorille.co\/l-motion-design?creative=722479357092&matchtype=p&network=g&device=c&utm_source=google&utm_medium=cpc&utm_campaign=%5B2io%5D%20FR%20-%20Search%20-%20Motion%20Design&utm_id=20299361207&utm_keyword=video%20motion%20design&gad_source=1&gbraid=0AAAAADRwJ6XMJ4dz68-s7vY_UZgO_Guxc&gclid=CjwKCAjw5PK_BhBBEiwAL7GTPROr6iF3xg0Jz8nyRIepxJmw796fIyEpfb5FSRYH4iA7xQPjljmUlBoCT70QAvD_BwE",
+                "service_name": "gorille.co"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JQAph",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et une petite dernière reco pour la route :\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.gorille.co\/l-motion-design?creative=722479357092&matchtype=p&network=g&device=c&utm_source=google&utm_medium=cpc&utm_campaign=%5B2io%5D%20FR%20-%20Search%20-%20Motion%20Design&utm_id=20299361207&utm_keyword=video%20motion%20design&gad_source=1&gbraid=0AAAAADRwJ6XMJ4dz68-s7vY_UZgO_Guxc&gclid=CjwKCAjw5PK_BhBBEiwAL7GTPROr6iF3xg0Jz8nyRIepxJmw796fIyEpfb5FSRYH4iA7xQPjljmUlBoCT70QAvD_BwE",
+                                "text": "https:\/\/www.gorille.co\/l-motion-design?creative=722479357092&matchtype=p&network=g&d[…]F3xg0Jz8nyRIepxJmw796fIyEpfb5FSRYH4iA7xQPjljmUlBoCT70QAvD_BwE"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

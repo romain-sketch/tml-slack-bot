@@ -1,0 +1,71 @@
+[
+    {
+        "user": "U04L35Y9D08",
+        "type": "message",
+        "ts": "1771258532.883779",
+        "client_msg_id": "AD4122F4-8332-418A-AE0B-42EDC7AFE4E4",
+        "text": "<@U01A4GMRRR9> s’il est pas trop tard Fàtima est une tueuse : elle vit SEO \/ GÉO. \n\n<https:\/\/www.linkedin.com\/in\/fatimaperibanez\/>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "568f5815adda",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4705573084496_568f5815addab51accfb_72.jpg",
+            "first_name": "Paul",
+            "real_name": "Paul LEMONNIER",
+            "display_name": "Paul",
+            "team": "T017AGS2KE0",
+            "name": "paul.lemonnier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770895379.182179",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lFoEE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01A4GMRRR9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " s’il est pas trop tard Fàtima est une tueuse : elle vit SEO \/ GÉO. \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "https:\/\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "www."
+                            },
+                            {
+                                "type": "text",
+                                "text": "linkedin.com\/in\/fatimaperibanez\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U08EN5GRYCC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

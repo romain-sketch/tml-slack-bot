@@ -1,0 +1,1104 @@
+[
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1761035205.371099",
+        "client_msg_id": "8ae75cd6-a7be-4451-b95a-f574c11d163b",
+        "text": "Hello, est-ce que certains d'entre-vous utilisent <https:\/\/www.topo.io\/|TOPO> ? Ils disent remplacer Clay &amp; les SDR",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761035205.371099",
+        "reply_count": 20,
+        "reply_users_count": 6,
+        "latest_reply": "1761405648.349459",
+        "reply_users": [
+            "U02N2EVMFCG",
+            "U04A6JMRWCS",
+            "U0183AS3MB6",
+            "U0946E8A2US",
+            "U017CURDPB5",
+            "U08M0JP81DK"
+        ],
+        "replies": [
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1761035311.127599"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1761035351.559269"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1761035490.633649"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1761035690.998589"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1761035882.368029"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1761035901.818489"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1761037505.012299"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1761037874.855699"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1761037911.610299"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1761038470.272759"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1761038482.364949"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1761038492.035089"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1761039562.898929"
+            },
+            {
+                "user": "U0946E8A2US",
+                "ts": "1761042269.290759"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1761042854.700609"
+            },
+            {
+                "user": "U017CURDPB5",
+                "ts": "1761117690.253769"
+            },
+            {
+                "user": "U08M0JP81DK",
+                "ts": "1761129891.947009"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1761137378.217429"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1761321871.392129"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1761405648.349459"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.topo.io\/",
+                "image_url": "https:\/\/framerusercontent.com\/assets\/4yTkxRQpNt45tlGJzCBRhgvQec.png",
+                "image_width": 1200,
+                "image_height": 631,
+                "image_bytes": 1038750,
+                "service_icon": "https:\/\/framerusercontent.com\/images\/b9tNMlMpZulunRODPDrY9cypIU.png",
+                "id": 1,
+                "original_url": "https:\/\/www.topo.io\/",
+                "fallback": "Topo.io | Home",
+                "text": "Welcome to the era of Intelligent Outreach. AI SDR Agents trained to run your outbound playbook, human input, perfect execution... delivering results.",
+                "title": "Topo.io | Home",
+                "title_link": "https:\/\/www.topo.io\/",
+                "service_name": "topo.io"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fZF69",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, est-ce que certains d'entre-vous utilisent "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.topo.io\/",
+                                "text": "TOPO"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ? Ils disent remplacer Clay & les SDR"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1761035223.397529",
+        "client_msg_id": "54ae57d3-2896-4562-a029-34938ca6031a",
+        "text": "oui!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uqYlA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oui!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1761035231.366409",
+        "client_msg_id": "c0e968fe-c76d-45f2-9861-f91c29a95ec9",
+        "text": "moi je kiffe",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QBKpg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "moi je kiffe"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1761035240.963319",
+        "client_msg_id": "4abfb760-4946-4951-a338-28090c128dab",
+        "text": "je m'en sers pour faire du volume et ouvrir des géos",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lBKyz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je m'en sers pour faire du volume et ouvrir des géos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1761035250.308709",
+        "client_msg_id": "6e72e735-24b1-4654-a857-4840df966172",
+        "text": "et je demande à mes bdrs de jumper dès qu'il y a de l'engagement",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sMJ0I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "et je demande à mes bdrs de jumper dès qu'il y a de l'engagement"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Ah oui j'ai vu <https:\/\/techmarketingleaders.slack.com\/archives\/C017AGZKD9A\/p1737648323657649?thread_ts=1737635692.437419&amp;cid=C017AGZKD9A|ici> que <@U04A6JMRWCS> et <@U063A8VPPG9> vous en étiez très satisfaits. Je mets ta réponse ici Romain pour éviter le SPAM.",
+        "files": [
+            {
+                "id": "F09M7339TK9",
+                "created": 1761035292,
+                "timestamp": 1761035292,
+                "name": "Capture d’écran 2025-10-21 à 10.28.11.png",
+                "title": "Capture d’écran 2025-10-21 à 10.28.11.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02N2EVMFCG",
+                "user_team": "T017AGS2KE0",
+                "editable": false,
+                "size": 132537,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F09M7339TK9\/capture_d___e__cran_2025-10-21_a___10.28.11.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F09M7339TK9\/download\/capture_d___e__cran_2025-10-21_a___10.28.11.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F09M7339TK9-66e75aa88c\/capture_d___e__cran_2025-10-21_a___10.28.11_64.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F09M7339TK9-66e75aa88c\/capture_d___e__cran_2025-10-21_a___10.28.11_80.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F09M7339TK9-66e75aa88c\/capture_d___e__cran_2025-10-21_a___10.28.11_360.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360_w": 360,
+                "thumb_360_h": 150,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F09M7339TK9-66e75aa88c\/capture_d___e__cran_2025-10-21_a___10.28.11_480.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_480_w": 480,
+                "thumb_480_h": 200,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F09M7339TK9-66e75aa88c\/capture_d___e__cran_2025-10-21_a___10.28.11_160.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F09M7339TK9-66e75aa88c\/capture_d___e__cran_2025-10-21_a___10.28.11_720.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720_w": 720,
+                "thumb_720_h": 300,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F09M7339TK9-66e75aa88c\/capture_d___e__cran_2025-10-21_a___10.28.11_800.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_800_w": 800,
+                "thumb_800_h": 333,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F09M7339TK9-66e75aa88c\/capture_d___e__cran_2025-10-21_a___10.28.11_960.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_960_w": 960,
+                "thumb_960_h": 400,
+                "original_w": 1014,
+                "original_h": 422,
+                "thumb_tiny": "AwAUADC9IUffCTyV5HseKpjTo8\/dmH1K1onODgZPbNIAQOnOfXNAFRNPjU8PKPxFA06IHIeTP1H+FWyWyMAEd8n\/AOtQM5OQPbmndhYrx2UccokDOSPXGKsYpSQOvFFIBDQKKBQAUg70tIOp+tAC0UUUAf\/Z",
+                "permalink": "https:\/\/techmarketingleaders.slack.com\/files\/U017U6M2G00\/F09M7339TK9\/capture_d___e__cran_2025-10-21_a___10.28.11.png",
+                "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F09M7339TK9-97ca4cceab",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U02N2EVMFCG",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9xVyY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah oui j'ai vu "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/techmarketingleaders.slack.com\/archives\/C017AGZKD9A\/p1737648323657649?thread_ts=1737635692.437419&cid=C017AGZKD9A",
+                                "text": "ici"
+                            },
+                            {
+                                "type": "text",
+                                "text": " que "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04A6JMRWCS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U063A8VPPG9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " vous en étiez très satisfaits. Je mets ta réponse ici Romain pour éviter le SPAM."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1761035311.127599",
+        "client_msg_id": "c38fd7b5-2ef1-4d9d-9793-d664c57f896e",
+        "thread_ts": "1761035205.371099",
+        "parent_user_id": "U02N2EVMFCG",
+        "attachments": [
+            {
+                "from_url": "https:\/\/techmarketingleaders.slack.com\/archives\/C017AGZKD9A\/p1737648323657649?thread_ts=1737635692.437419&amp;cid=C017AGZKD9A",
+                "ts": "1737648323.657649",
+                "author_id": "U04A6JMRWCS",
+                "channel_id": "C017AGZKD9A",
+                "channel_team": "T017AGS2KE0",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T017AGS2KE0",
+                        "channel": "C017AGZKD9A",
+                        "ts": "1737648323.657649",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "VjQaF",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "coucou moi j'utilise Topo (comme 11x mais moins cher) et j'en suis très satisfait pour un cout imbattable"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/techmarketingleaders.slack.com\/archives\/C017AGZKD9A\/p1737648323657649?thread_ts=1737635692.437419&amp;cid=C017AGZKD9A",
+                "fallback": "[January 23rd, 2025 8:05 AM] rdoutriaux: coucou moi j'utilise Topo (comme 11x mais moins cher) et j'en suis très satisfait pour un cout imbattable",
+                "text": "coucou moi j'utilise Topo (comme 11x mais moins cher) et j'en suis très satisfait pour un cout imbattable",
+                "author_name": "Romain Doutriaux",
+                "author_link": "https:\/\/techmarketingleaders.slack.com\/team\/U04A6JMRWCS",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_48.jpg",
+                "author_subname": "Romain Doutriaux",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Thread in Slack Conversation"
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1761035351.559269",
+        "client_msg_id": "f5835a8d-d28c-43eb-959d-2496ab186af9",
+        "text": "Ils n'ont pas d'intégration Pipedrive à date - notre CRM - est-ce que sans intégration ça vous semble toujours aussi bien ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761035205.371099",
+        "parent_user_id": "U02N2EVMFCG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dQn46",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ils n'ont pas d'intégration Pipedrive à date - notre CRM - est-ce que sans intégration ça vous semble toujours aussi bien ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1761035490.633649",
+        "client_msg_id": "21d2d40e-18f8-4391-af6a-341b9529b67e",
+        "text": "ton problème ca sera de remonter les hot leads correctement pour les BDRs les voient et les engage du coup mais avec du zapier et slack ca devrait aller",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761035205.371099",
+        "parent_user_id": "U02N2EVMFCG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lJDW1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ton problème ca sera de remonter les hot leads correctement pour les BDRs les voient et les engage du coup mais avec du zapier et slack ca devrait aller"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1761035690.998589",
+        "client_msg_id": "a3a7caf3-7e2f-4c4e-ac99-998ca420e86e",
+        "text": "J'ai un target market assez petit, et vais vouloir concentrer sur l'international dans un premier temps. Donc peu de volume, manuel faisable pour commencer par des SDR alternants. Mais _deal breaker_ selon toi ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761035205.371099",
+        "parent_user_id": "U02N2EVMFCG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ggjW\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai un target market assez petit, et vais vouloir concentrer sur l'international dans un premier temps. Donc peu de volume, manuel faisable pour commencer par des SDR alternants. Mais "
+                            },
+                            {
+                                "type": "text",
+                                "text": "deal breaker",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " selon toi ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1761035882.368029",
+        "client_msg_id": "de5e7071-dc09-4dc6-9a04-219352795ec4",
+        "text": "après si tu as peu de volume du coup pas certain que ca soit super pertinent pour toi",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761035205.371099",
+        "parent_user_id": "U02N2EVMFCG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AoUCy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "après si tu as peu de volume du coup pas certain que ca soit super pertinent pour toi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1761035901.818489",
+        "client_msg_id": "baff8253-f16c-49c4-aac2-0b311374f28c",
+        "text": "moi je m'en sers pour faire du bulldozer à grande échelle, ca vaut pas du 1-1 ultra customisé par un humain intelligent",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761035205.371099",
+        "parent_user_id": "U02N2EVMFCG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7biN0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "moi je m'en sers pour faire du bulldozer à grande échelle, ca vaut pas du 1-1 ultra customisé par un humain intelligent"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1761037505.012299",
+        "client_msg_id": "efb03d74-fc1a-48b9-ac19-27175851aff3",
+        "text": "Merci Romain ! <@U063A8VPPG9> <@U017CURDPB5> <@U0946E8A2US> vous avez des retours vous ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761035205.371099",
+        "parent_user_id": "U02N2EVMFCG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wsF9y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci Romain ! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U063A8VPPG9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U017CURDPB5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0946E8A2US"
+                            },
+                            {
+                                "type": "text",
+                                "text": " vous avez des retours vous ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1761037874.855699",
+        "client_msg_id": "d5455db3-345a-4a2d-9ed5-d127ce04d640",
+        "text": "très chaud que tu montres comment tu l’utilises <@U04A6JMRWCS> ça a l’air canon",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761035205.371099",
+        "parent_user_id": "U02N2EVMFCG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JVfc0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "très chaud que tu montres comment tu l’utilises "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04A6JMRWCS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ça a l’air canon"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1761037911.610299",
+        "client_msg_id": "4165b14b-8aa2-453d-80d2-48f429523ff0",
+        "text": "on se parle vendredi matin stuv?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761035205.371099",
+        "parent_user_id": "U02N2EVMFCG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b6oqm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "on se parle vendredi matin stuv?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1761038470.272759",
+        "client_msg_id": "5d898b5c-9ad7-4c49-92d2-91ff89286daa",
+        "text": "Assez chaud, on peut faire 9h ou 9h30 ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761035205.371099",
+        "parent_user_id": "U02N2EVMFCG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3fnA9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Assez chaud, on peut faire 9h ou 9h30 ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1761038482.364949",
+        "client_msg_id": "983287ad-8995-47b8-bbb1-eb551c31a454",
+        "text": "9h très bien",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761035205.371099",
+        "parent_user_id": "U02N2EVMFCG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VdZpQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "9h très bien"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1761038492.035089",
+        "client_msg_id": "a9d5aa05-2356-4570-85cf-87139c5a9735",
+        "text": "<mailto:rdoutriaux@gmail.com|rdoutriaux@gmail.com>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761035205.371099",
+        "parent_user_id": "U02N2EVMFCG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5223S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:rdoutriaux@gmail.com",
+                                "text": "rdoutriaux@gmail.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U02N2EVMFCG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1761039562.898929",
+        "client_msg_id": "dc080162-a42b-416f-bbbe-6a36f464c227",
+        "text": "Invit' envoyée ! j'ai aussi invité notre Growth Marketer qui sera un des utilisateurs, avec moi. <@U0183AS3MB6> je t'ai invité aussi",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761035205.371099",
+        "parent_user_id": "U02N2EVMFCG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "noixD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Invit' envoyée ! j'ai aussi invité notre Growth Marketer qui sera un des utilisateurs, avec moi. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0183AS3MB6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je t'ai invité aussi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0946E8A2US",
+        "type": "message",
+        "ts": "1761042269.290759",
+        "client_msg_id": "01E9DBA7-07BC-4551-8024-0D2DA51BE76C",
+        "text": "Chaud pour en être :) je les conseille en growth mais n'utilise pas le tool personnellement !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "f73f6d38e4eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-07-23\/9238905089862_f73f6d38e4eb792c8c6a_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult",
+            "team": "T017AGS2KE0",
+            "name": "thibaut.davoult",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761035205.371099",
+        "parent_user_id": "U02N2EVMFCG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6bVaV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Chaud pour en être :) je les conseille en growth mais n'utilise pas le tool personnellement !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1761042854.700609",
+        "client_msg_id": "375e9911-5b3f-41a2-bb16-5f51c560fd1c",
+        "text": "Pas sur d’être présent mais si vous pouvez record c’est parfait :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761035205.371099",
+        "parent_user_id": "U02N2EVMFCG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tHAYW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pas sur d’être présent mais si vous pouvez record c’est parfait "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U08M0JP81DK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

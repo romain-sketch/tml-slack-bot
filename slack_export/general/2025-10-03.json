@@ -1,0 +1,121 @@
+[
+    {
+        "user": "U0182J18ULQ",
+        "type": "message",
+        "ts": "1759498540.039069",
+        "client_msg_id": "b341f76e-84b2-4107-bb54-2817812a57b2",
+        "text": "Hello\nOn a un problème avec notre page Linkedin. est-ce que qqun a un contact haut placé là bas ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "dfa7b4a4cf8b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-12\/5250900759925_dfa7b4a4cf8b424f822c_72.png",
+            "first_name": "Jean-Baptiste",
+            "real_name": "Jean-Baptiste Sciandra",
+            "display_name": "Jean-Baptiste Sciandra",
+            "team": "T017AGS2KE0",
+            "name": "jb.sciandra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "63v\/V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello\nOn a un problème avec notre page Linkedin. est-ce que qqun a un contact haut placé là bas ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "x",
+                "users": [
+                    "U07MNBM4WLV",
+                    "U08EN5GRYCC",
+                    "U084KTR7YKX"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U09JE6QUZDZ",
+        "text": "<@U09JE6QUZDZ> has joined the channel",
+        "type": "message",
+        "ts": "1759500637.161889"
+    },
+    {
+        "user": "U017RAZCAGZ",
+        "type": "message",
+        "ts": "1759503045.740199",
+        "client_msg_id": "d8f86543-39b1-4e54-afc6-51e0d04cd74b",
+        "text": "Pareil pour moi, grosse semaine à venir, je ne serai pas des vôtres",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2e6e61c8f204",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-20\/1251040887619_2e6e61c8f20434050630_72.jpg",
+            "first_name": "Hélène",
+            "real_name": "Hélène Draoulec (Phenix)",
+            "display_name": "Hélène Draoulec (Phenix)",
+            "team": "T017AGS2KE0",
+            "name": "hdraoulec",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757496166.772069",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EBwmW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pareil pour moi, grosse semaine à venir, je ne serai pas des vôtres"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U017H09S857"
+                ],
+                "count": 1
+            },
+            {
+                "name": "green_heart",
+                "users": [
+                    "U017H09S857"
+                ],
+                "count": 1
+            },
+            {
+                "name": "smiling_face_with_tear",
+                "users": [
+                    "U0859A8P14K"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

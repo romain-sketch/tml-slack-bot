@@ -1,0 +1,71 @@
+[
+    {
+        "user": "U07R7CUFM7H",
+        "type": "message",
+        "ts": "1741020837.855029",
+        "client_msg_id": "16b21b71-642f-467f-a606-460e09783251",
+        "text": "Communication de crise tu peux tenter Louise de ma part. Elle bosse en free.\n<https:\/\/www.linkedin.com\/in\/louise-chaulin-a2704b4b\/>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "1eabd032cd82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-05\/8152020385456_1eabd032cd826d3f64b3_72.jpg",
+            "first_name": "Mayeul",
+            "real_name": "Mayeul",
+            "display_name": "Mayeul (Mangopay)",
+            "team": "T017AGS2KE0",
+            "name": "mayeul.wattecamps",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740643676.290339",
+        "parent_user_id": "U086LFGGVUG",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/louise-chaulin-a2704b4b\/",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "thumb_url": "https:\/\/static.licdn.com\/scds\/common\/u\/images\/email\/artdeco\/logos\/96\/linkedin-bug-color.png",
+                "thumb_width": 96,
+                "thumb_height": 96,
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/louise-chaulin-a2704b4b\/",
+                "fallback": "Louise Chaulin - Thaboris | LinkedIn",
+                "text": "Communication corporate - communication interne - communication sociale - communication de crise - influence - affaires publiques - communication de la transformation - relations presse - événementiel · Expérience : Thaboris · Formation : Essec Business School Paris · Lieu : Paris et périphérie · 500 relations ou plus sur LinkedIn. Consultez le profil de Louise Chaulin sur LinkedIn, une communauté professionnelle d’un milliard de membres.",
+                "title": "Louise Chaulin - Thaboris | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/louise-chaulin-a2704b4b\/",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3JqrB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Communication de crise tu peux tenter Louise de ma part. Elle bosse en free.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/louise-chaulin-a2704b4b\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U086LFGGVUG"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

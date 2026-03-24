@@ -1,0 +1,189 @@
+[
+    {
+        "user": "U09JE6QUZDZ",
+        "type": "message",
+        "ts": "1763110663.384699",
+        "client_msg_id": "708e9692-2965-41dc-8327-3a5b0a9acdf3",
+        "text": "Yes <@U02N2EVMFCG>!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7d0f46079dd0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-10\/9686164664817_7d0f46079dd063043221_72.jpg",
+            "first_name": "Elodie",
+            "real_name": "Elodie Gaussares",
+            "display_name": "Elodie Gaussares",
+            "team": "T017AGS2KE0",
+            "name": "egaussares",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763043512.586629",
+        "parent_user_id": "U08PLD4KPS8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NUWl1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02N2EVMFCG"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02N2EVMFCG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04L04T475K",
+        "type": "message",
+        "ts": "1763132489.133179",
+        "client_msg_id": "06f37ebd-16f6-47c7-873c-550d976d8cfb",
+        "text": "Intéressé aussi :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "992240f01962",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4685704045204_992240f019622b6b0af8_72.jpg",
+            "first_name": "Antoine",
+            "real_name": "Antoine Yahia Cherif",
+            "display_name": "Antoine Yahia Cherif",
+            "team": "T017AGS2KE0",
+            "name": "antoine.yc008",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763043512.586629",
+        "parent_user_id": "U08PLD4KPS8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xe6f4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Intéressé aussi "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U08PLD4KPS8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "Hello les TML,\n\nMission de fractional CMO de 6\/8 mois à 2\/3 jours par semaine.\nÀ Paris, a priori non négociable.\n\nVia AtScale, mais je n’ai pas (encore) le TJ.\nMP moi si intéressé.e ou si vous connaissez quelqu’un qui pourrait l’être ! :slightly_smiling_face:",
+        "files": [
+            {
+                "id": "F09STM1FFGB",
+                "created": 1763136034,
+                "timestamp": 1763136034,
+                "name": "Job Description Mission Marketing .pdf",
+                "title": "Job Description Mission Marketing .pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U04L35Y9D08",
+                "user_team": "T017AGS2KE0",
+                "editable": false,
+                "size": 52447,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F09STM1FFGB\/job_description_mission_marketing_.pdf?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F09STM1FFGB\/download\/job_description_mission_marketing_.pdf?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F09STM1FFGB-2b23b9b013\/job_description_mission_marketing__thumb_pdf.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/techmarketingleaders.slack.com\/files\/U017U6M2G00\/F09STM1FFGB\/job_description_mission_marketing_.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F09STM1FFGB-75d95a9165",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04L35Y9D08",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UD+xm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello les TML,\n\nMission de fractional CMO de 6\/8 mois à 2\/3 jours par semaine.\nÀ Paris, a priori non négociable.\n\nVia AtScale, mais je n’ai pas (encore) le TJ.\nMP moi si intéressé.e ou si vous connaissez quelqu’un qui pourrait l’être ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1763136258.846099",
+        "client_msg_id": "acb5a39b-2d49-42a1-b389-afbe2d5ebd1e",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U084KTR7YKX",
+                    "U09BVQYR1GA"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

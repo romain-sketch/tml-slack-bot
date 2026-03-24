@@ -1,0 +1,390 @@
+[
+    {
+        "user": "U092U6UDLMN",
+        "type": "message",
+        "ts": "1765471012.988769",
+        "client_msg_id": "1b7a5e56-3670-4207-8b06-5db4a59f4808",
+        "text": "Hello all :slightly_smiling_face: avez-vous des freelances à recommander pour la création de videomotion avec un fort focus produit (agents IA) ? Il faut que ça claque dixit mon CEO",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e910bc968404",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-19\/9072876473829_e910bc968404c2c0b5d1_72.png",
+            "first_name": "Bastien",
+            "real_name": "Bastien Meaux (DialOnce)",
+            "display_name": "Bastien Meaux",
+            "team": "T017AGS2KE0",
+            "name": "bmeaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1765471012.988769",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1765534246.268099",
+        "reply_users": [
+            "U078PFP7A4B",
+            "U04A6JMRWCS",
+            "U0946E8A2US",
+            "U08V1NE4BUJ"
+        ],
+        "replies": [
+            {
+                "user": "U078PFP7A4B",
+                "ts": "1765471585.262569"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1765472210.101779"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1765472212.442039"
+            },
+            {
+                "user": "U0946E8A2US",
+                "ts": "1765473623.778699"
+            },
+            {
+                "user": "U08V1NE4BUJ",
+                "ts": "1765534246.268099"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fEspC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello all "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " avez-vous des freelances à recommander pour la création de videomotion avec un fort focus produit (agents IA) ? Il faut que ça claque dixit mon CEO"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U08554C4R7C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1765471585.262569",
+        "client_msg_id": "96ac1162-0a83-4796-b384-1b2c610f26c1",
+        "text": "Hello !\nJe bosse avec <https:\/\/sebastien-vincent.fr\/fr\/projets\/|Sébastien Vincent> sur du motion design, pour mettre en avant notre produit :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1765471012.988769",
+        "parent_user_id": "U092U6UDLMN",
+        "attachments": [
+            {
+                "from_url": "https:\/\/sebastien-vincent.fr\/fr\/projets\/",
+                "image_url": "https:\/\/sebastien-vincent.fr\/storage\/2024\/10\/Clients-19-01-300x101.png",
+                "image_width": 300,
+                "image_height": 101,
+                "image_bytes": 11441,
+                "service_icon": "https:\/\/sebastien-vincent.fr\/storage\/2021\/09\/cropped-icon-01-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/sebastien-vincent.fr\/fr\/projets\/",
+                "fallback": "Sébastien Vincent: Motion designer à Lyon - Freelance - Sébastien Vincent",
+                "text": "– Motion designer freelance basé à Lyon. Spécialisé dans le storytelling, les personnages et les vidéos illustrées aux petits oignons.",
+                "title": "Motion designer à Lyon - Freelance - Sébastien Vincent",
+                "title_link": "https:\/\/sebastien-vincent.fr\/fr\/projets\/",
+                "service_name": "Sébastien Vincent"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UuGFu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello !\nJe bosse avec "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sebastien-vincent.fr\/fr\/projets\/",
+                                "text": "Sébastien Vincent"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sur du motion design, pour mettre en avant notre produit "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U092U6UDLMN",
+                    "U08554C4R7C"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1765472210.101779",
+        "client_msg_id": "738aaa41-5d75-4bb0-bce6-ba4688cdfb2a",
+        "text": "mon designer freelance hugo@askane.agency m'a fait ça <https:\/\/youtu.be\/yK-OcrRHP2g>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1765471012.988769",
+        "parent_user_id": "U092U6UDLMN",
+        "attachments": [
+            {
+                "from_url": "https:\/\/youtu.be\/yK-OcrRHP2g",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/yK-OcrRHP2g\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/yK-OcrRHP2g?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Data Observability, Reimagined for the Age of AI\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/yK-OcrRHP2g",
+                "fallback": "YouTube Video: Data Observability, Reimagined for the Age of AI",
+                "title": "Data Observability, Reimagined for the Age of AI",
+                "title_link": "https:\/\/youtu.be\/yK-OcrRHP2g",
+                "author_name": "Sifflet",
+                "author_link": "https:\/\/www.youtube.com\/@siffletdata",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YNXR+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mon designer freelance hugo@askane.agency m'a fait ça "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/yK-OcrRHP2g"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U092U6UDLMN",
+                    "U08554C4R7C",
+                    "U084KTR7YKX"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1765472212.442039",
+        "client_msg_id": "9cb169e1-b3ec-45d6-a8f5-f7ffc23d9a48",
+        "text": "ca claque non?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1765471012.988769",
+        "parent_user_id": "U092U6UDLMN",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CJDxT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ca claque non?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0946E8A2US",
+        "type": "message",
+        "ts": "1765473623.778699",
+        "edited": {
+            "user": "U0946E8A2US",
+            "ts": "1765473925.000000"
+        },
+        "client_msg_id": "6AE4FA02-28C4-455B-AC43-601EAA00F352",
+        "text": "<https:\/\/www.linkedin.com\/in\/paul-floc-h-72a397119?utm_source=share_via&utm_content=profile&utm_medium=member_ios|https:\/\/www.linkedin.com\/in\/paul-floc-h-72a397119?utm_source=share_via&utm_content=profile&utm_medium=member_ios>\n\nPas trop cher et vraiment quali !\n\n\n<https:\/\/www.linkedin.com\/in\/th%C3%A9ophile-lambert-85986b7b?utm_source=share_via&utm_content=profile&utm_medium=member_ios|https:\/\/www.linkedin.com\/in\/théophile-lambert-85986b7b?utm_source=share_via&utm_content=profile&utm_medium=member_ios>\n\nLe top du top, env 900€ tjm",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "f73f6d38e4eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-07-23\/9238905089862_f73f6d38e4eb792c8c6a_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult",
+            "team": "T017AGS2KE0",
+            "name": "thibaut.davoult",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1765471012.988769",
+        "parent_user_id": "U092U6UDLMN",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/paul-floc-h-72a397119?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "thumb_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/C4E03AQGYYzOEAGD6Tg\/profile-displayphoto-shrink_200_200\/profile-displayphoto-shrink_200_200\/0\/1643309197644?e=2147483647&v=beta&t=_xv7ASFCSiRXPokO3r09dm9eontB6VzeSBHO3wlaHTs",
+                "thumb_width": 199,
+                "thumb_height": 200,
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/paul-floc-h-72a397119?utm_source=share_via&amp;utm_content=profile&amp;utm_medium=member_ios",
+                "fallback": "Paul Floc&amp;#39;h - Freelance | LinkedIn",
+                "text": "Expérience : Freelance · Formation : LISAA - L&amp;#39;Institut Supérieur des Arts Appliqués · Lieu : Rouen · 500 relations ou plus sur LinkedIn. Consultez le profil de Paul Floc&amp;#39;h sur LinkedIn, une communauté professionnelle d’un milliard de membres.",
+                "title": "Paul Floc&amp;#39;h - Freelance | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/paul-floc-h-72a397119?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
+                "service_name": "fr.linkedin.com"
+            },
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/th%C3%A9ophile-lambert-85986b7b?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 2,
+                "original_url": "https:\/\/www.linkedin.com\/in\/th%C3%A9ophile-lambert-85986b7b?utm_source=share_via&amp;utm_content=profile&amp;utm_medium=member_ios",
+                "fallback": "Théophile Lambert - Freelance Motion Designer | LinkedIn",
+                "text": "Directeur Artistique, motion designer 2D &amp; 3D.\n\nDonner de la vie et de l&amp;#39;émotion à… · Expérience : Freelance Motion Designer · Formation : école multimédia paris · Lieu : Lyon · 345 relations sur LinkedIn. Consultez le profil de Théophile Lambert sur LinkedIn, une communauté professionnelle d’un milliard de membres.",
+                "title": "Théophile Lambert - Freelance Motion Designer | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/th%C3%A9ophile-lambert-85986b7b?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "svtAa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/paul-floc-h-72a397119?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
+                                "text": "https:\/\/www.linkedin.com\/in\/paul-floc-h-72a397119?utm_source=share_via&utm_content=profile&utm_medium=member_ios"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nPas trop cher et vraiment quali !\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/th%C3%A9ophile-lambert-85986b7b?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
+                                "text": "https:\/\/www.linkedin.com\/in\/théophile-lambert-85986b7b?utm_source=share_via&utm_content=profile&utm_medium=member_ios"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nLe top du top, env 900€ tjm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U092U6UDLMN",
+                    "U03P99RGMTN",
+                    "U08554C4R7C",
+                    "U084KTR7YKX"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

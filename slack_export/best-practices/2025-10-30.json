@@ -1,0 +1,320 @@
+[
+    {
+        "user": "U09BVQYR1GA",
+        "type": "message",
+        "ts": "1761810433.033719",
+        "edited": {
+            "user": "U09BVQYR1GA",
+            "ts": "1761837045.000000"
+        },
+        "client_msg_id": "f0796b4c-df9d-4d95-bdee-23e32d4cce74",
+        "text": "merci <@U02N2EVMFCG> Oui ! je suis espagnol et habite en Espagne mais travaille peu avec des projets d'expansion vers l'espagne en ce moment (plus US et Europe) mais dans le passé j'y ai travaillé. Je te raconte plus <@U06CZESF7QF> pour que tu prennes en compte si cela te va :\n• Je me suis occupée du premier processus d'expansion de la startup Polabox\/cheerz (long time ago, en 2017) en ecommerce B2C. On a passé de 0e à 2me. Plein d'apprentissage et des choses à apprendre si on a un mindset trop frenchy. \n• Je me suis occupée de quelques projets ponctuels d'accompagnement expansion\/localization des best practises pour le marché espagnol pour Qonto.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0ee28ebc77d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-09-09\/9480262349955_0ee28ebc77d7f64eb0e1_72.png",
+            "first_name": "Tania",
+            "real_name": "Tania",
+            "display_name": "Tania",
+            "team": "T017AGS2KE0",
+            "name": "tsaezgrowth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761577608.761399",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lqSTo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02N2EVMFCG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Oui ! je suis espagnol et habite en Espagne mais travaille peu avec des projets d'expansion vers l'espagne en ce moment (plus US et Europe) mais dans le passé j'y ai travaillé. Je te raconte plus "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06CZESF7QF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour que tu prennes en compte si cela te va :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Je me suis occupée du premier processus d'expansion de la startup Polabox\/cheerz (long time ago, en 2017) en ecommerce B2C. On a passé de 0e à 2me. Plein d'apprentissage et des choses à apprendre si on a un mindset trop frenchy. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Je me suis occupée de quelques projets ponctuels d'accompagnement expansion\/localization des best practises pour le marché espagnol pour Qonto."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U06CZESF7QF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1761835651.038909",
+        "client_msg_id": "f72e8865-c8d1-4620-b215-50fe0d4d174e",
+        "text": "Génial <@U09BVQYR1GA>, je t’envoie un DM",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761577608.761399",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "69RFn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Génial "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U09BVQYR1GA"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", je t’envoie un DM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U054GRSQCTX",
+        "type": "message",
+        "ts": "1761840238.992249",
+        "edited": {
+            "user": "U054GRSQCTX",
+            "ts": "1761845528.000000"
+        },
+        "client_msg_id": "c0a43d34-c0e6-43e3-8f5f-8dee0e88284c",
+        "text": "Hello <@U06CZESF7QF>, et merci <@U02N2EVMFCG> pr le nudge :wink:\n\nEn effet chez Driveco on a lancé l'Espagne début 2024 (en mm tps que Benelux et Italie), avec team mkt en France et sales en Espagne, en déclinant outbound, event, inboud et communication. L’espagne est l’un de nos meilleurs terrains de jeu avec de belles perf dès le lancement (+100M€ de pipeline mkt généré depuis). Et nous diversifions les canaux en ce moment avec le SEA qui prend bien. Pr info je termine bientôt ma mission chez Driveco, mais dispo pr en discuter si le cas t'intéresse !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "01f920d8d689",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-24\/5180782979568_01f920d8d689435b5764_72.jpg",
+            "first_name": "Tarik",
+            "real_name": "Tarik Magra",
+            "display_name": "Tarik Magra",
+            "team": "T017AGS2KE0",
+            "name": "tarik.magra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761577608.761399",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kUJ6w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06CZESF7QF"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", et merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02N2EVMFCG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pr le nudge "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nEn effet chez Driveco on a lancé l'Espagne début 2024 (en mm tps que Benelux et Italie), avec team mkt en France et sales en Espagne, en déclinant outbound, event, inboud et communication. L’espagne est l’un de nos meilleurs terrains de jeu avec de belles perf dès le lancement (+100M€ de pipeline mkt généré depuis). Et nous diversifions les canaux en ce moment avec le SEA qui prend bien. Pr info je termine bientôt ma mission chez Driveco, mais dispo pr en discuter si le cas t'intéresse !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U09BVQYR1GA",
+        "type": "message",
+        "ts": "1761844955.048859",
+        "client_msg_id": "c25e7563-5733-4dda-a81a-1590a30d3635",
+        "text": "je pense aussi à <@U056DAY3YD8> qui vient de lancer l'Espagne !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0ee28ebc77d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-09-09\/9480262349955_0ee28ebc77d7f64eb0e1_72.png",
+            "first_name": "Tania",
+            "real_name": "Tania",
+            "display_name": "Tania",
+            "team": "T017AGS2KE0",
+            "name": "tsaezgrowth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761577608.761399",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qtlvr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je pense aussi à "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U056DAY3YD8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " qui vient de lancer l'Espagne !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U06CZESF7QF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1761845263.839489",
+        "client_msg_id": "8ab9e200-e53d-41f9-91e7-3fdf5fdbe069",
+        "text": "<@U056DAY3YD8> Je te DM :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761577608.761399",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B4+jW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U056DAY3YD8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Je te DM "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

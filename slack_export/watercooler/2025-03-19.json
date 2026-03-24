@@ -1,0 +1,159 @@
+[
+    {
+        "user": "U04L35Y9D08",
+        "type": "message",
+        "ts": "1742375624.076169",
+        "client_msg_id": "fc20c4c0-cef4-4f8a-b4e7-b684b9c8aa05",
+        "text": "Hello <@U03QPMQA31V>!\nTu peux contacter <https:\/\/www.linkedin.com\/in\/spreel\/|Sebastien> de ma part, il est top.\nÀ priori dispo !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "568f5815adda",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4705573084496_568f5815addab51accfb_72.jpg",
+            "first_name": "Paul",
+            "real_name": "Paul LEMONNIER",
+            "display_name": "Paul",
+            "team": "T017AGS2KE0",
+            "name": "paul.lemonnier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742316083.196179",
+        "parent_user_id": "U03QPMQA31V",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/spreel\/",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "thumb_url": "https:\/\/static.licdn.com\/scds\/common\/u\/images\/email\/artdeco\/logos\/96\/linkedin-bug-color.png",
+                "thumb_width": 96,
+                "thumb_height": 96,
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/spreel\/",
+                "fallback": "Sébastien PREEL - EGYM Wellpass | LinkedIn",
+                "text": "Experiencia: EGYM Wellpass · Educación: Université Paris Dauphine · Ubicación: Barcelona · Más de 500 contactos en LinkedIn. Ver el perfil de Sébastien PREEL en LinkedIn, una red profesional de más de 1.000 millones de miembros.",
+                "title": "Sébastien PREEL - EGYM Wellpass | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/spreel\/",
+                "service_name": "es.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yrNRH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03QPMQA31V"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!\nTu peux contacter "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/spreel\/",
+                                "text": "Sebastien"
+                            },
+                            {
+                                "type": "text",
+                                "text": " de ma part, il est top.\nÀ priori dispo !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03QPMQA31V",
+        "type": "message",
+        "ts": "1742375791.716099",
+        "client_msg_id": "806FB08D-2201-4237-86FA-C194CB92145B",
+        "text": "Génial\nMerci Paul ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "920d362f50c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-26\/3858025441956_920d362f50c400fcafe0_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu Pouget-Abadie",
+            "display_name": "Matthieu PA (Orisha)",
+            "team": "T017AGS2KE0",
+            "name": "mpougetabadie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742316083.196179",
+        "parent_user_id": "U03QPMQA31V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xClAp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Génial\nMerci Paul "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U065DFPCQMP",
+        "type": "message",
+        "ts": "1742390166.752969",
+        "client_msg_id": "C1A8A2DF-A849-423C-9A91-9D28C5F7EF3C",
+        "text": "<@U03QPMQA31V> je connais le fondateur de NextCFO si tu veux une intro ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50040e0261e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-15\/6198553206674_50040e0261e7ba62e840_72.jpg",
+            "first_name": "Gaelle",
+            "real_name": "Gaelle Le Goff",
+            "display_name": "Gaelle Le Goff",
+            "team": "T017AGS2KE0",
+            "name": "gaelle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742316083.196179",
+        "parent_user_id": "U03QPMQA31V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yoQQj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QPMQA31V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je connais le fondateur de NextCFO si tu veux une intro "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

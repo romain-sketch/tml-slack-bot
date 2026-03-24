@@ -1,0 +1,639 @@
+[
+    {
+        "user": "U067GNGDATD",
+        "type": "message",
+        "ts": "1737968932.177389",
+        "client_msg_id": "0f9e2b82-024e-4af5-af8f-16909af944b0",
+        "text": "Hello <@U017RBREWC9> pourrais-tu stp m'envoyer l'invitation, cela m'intéresse aussi!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "gd73dcdb62f7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d73dcdb62f793ad670516a42032e3fa5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Diard",
+            "display_name": "Old Account \/ Do not use",
+            "team": "T017AGS2KE0",
+            "name": "adiard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737643380.725989",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g7tKX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U017RBREWC9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pourrais-tu stp m'envoyer l'invitation, cela m'intéresse aussi!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U017RBREWC9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U067GNGDATD",
+        "type": "message",
+        "ts": "1737986954.109019",
+        "client_msg_id": "37a7ee14-8d44-46b9-a753-b66c1c40ad2b",
+        "text": "Bonjour <!here>,\nChez PeopleSpheres en pleine optimisation SEO et l’on doit forcément passer par les backlink! Je me demandais si cela était aussi un sujet pour vous et si il y aurait des personnes partantes pour faire des échanges de backlink?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "gd73dcdb62f7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d73dcdb62f793ad670516a42032e3fa5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Diard",
+            "display_name": "Old Account \/ Do not use",
+            "team": "T017AGS2KE0",
+            "name": "adiard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737986954.109019",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1738079144.142409",
+        "reply_users": [
+            "U016SBPG7K9",
+            "U067GNGDATD",
+            "U07R7CUFM7H"
+        ],
+        "replies": [
+            {
+                "user": "U016SBPG7K9",
+                "ts": "1737988371.030229"
+            },
+            {
+                "user": "U067GNGDATD",
+                "ts": "1737995052.732779"
+            },
+            {
+                "user": "U07R7CUFM7H",
+                "ts": "1738057840.213599"
+            },
+            {
+                "user": "U067GNGDATD",
+                "ts": "1738079144.142409"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lmKde",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\nChez PeopleSpheres en pleine optimisation SEO et l’on doit forcément passer par les backlink! Je me demandais si cela était aussi un sujet pour vous et si il y aurait des personnes partantes pour faire des échanges de backlink?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03CY07UZJM",
+        "type": "message",
+        "ts": "1737987918.617929",
+        "client_msg_id": "401de8b1-5744-41ee-be83-f186174403b8",
+        "text": "Je sors peut-être de ma grotte, mais c'est la 1ère fois que je vois un site web qui adapte complètement son site en fonction des régions. Ca m'a scotché !\n• EN: <https:\/\/www.infobip.com\/>\n• FR: <https:\/\/www2.infobip.com\/fr>\n• JP: <https:\/\/www2.infobip.com\/jp>\n• Arabe: <https:\/\/www.infobip.com\/ar>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "cf1b09b1a910",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-02\/6894190939717_cf1b09b1a910eb11be75_72.jpg",
+            "first_name": "Patrice",
+            "real_name": "Patrice Barbesier",
+            "display_name": "Patrice Barbesier",
+            "team": "T017AGS2KE0",
+            "name": "patrice.barbesier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737987918.617929",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1737991809.178119",
+        "reply_users": [
+            "U06CZESF7QF",
+            "U03CY07UZJM",
+            "U0177A5V42F"
+        ],
+        "replies": [
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1737988166.426349"
+            },
+            {
+                "user": "U03CY07UZJM",
+                "ts": "1737988858.640799"
+            },
+            {
+                "user": "U0177A5V42F",
+                "ts": "1737990764.670599"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1737991809.178119"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DC8vU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je sors peut-être de ma grotte, mais c'est la 1ère fois que je vois un site web qui adapte complètement son site en fonction des régions. Ca m'a scotché !\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "EN: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.infobip.com\/"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "FR: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www2.infobip.com\/fr"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "JP: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www2.infobip.com\/jp"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Arabe: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.infobip.com\/ar"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1737988166.426349",
+        "client_msg_id": "306423a9-4381-409f-b12c-7289ca3d687a",
+        "text": "Intéressant ! J’aimerais bien savoir si c’est chaque équipe locale qui gère son site ? Et si oui, à quel point ils sont libres ?\n\nTu les connais ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737987918.617929",
+        "parent_user_id": "U03CY07UZJM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7FDnm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Intéressant ! J’aimerais bien savoir si c’est chaque équipe locale qui gère son site ? Et si oui, à quel point ils sont libres ?\n\nTu les connais ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1737988371.030229",
+        "client_msg_id": "742691a4-7149-4e5c-bd9b-a8830810f440",
+        "text": "Hello ! Ca dépend de la maturité SEO mais à un moment ça devient absolument nécessaire d'avoir une strat backlink si tu veux passer un pallier. Nous on a lancé maintenant (sachant qu'une grande partie de nos backlinks étaient générés via nos clients sur l'app les premieres années). Avec :\n• <https:\/\/respona.com\/> (usage self-serve, on se débrouille tout seul pour gérer du backlink. Marche très bien mais demande un peu d'implication des équipes)\n• agences qui font ça pour nous:\n    ◦ Linkbuilder\n    ◦ Rhinorank\nTrès bon feedbacks sur les 3. C'est 1-3k€\/mois de budget et les résultats ont été immédiats. On cible principalement nos pages BOFU qui peinent face à la concurrence qui se développe.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737986954.109019",
+        "parent_user_id": "U067GNGDATD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fIf\/p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello ! Ca dépend de la maturité SEO mais à un moment ça devient absolument nécessaire d'avoir une strat backlink si tu veux passer un pallier. Nous on a lancé maintenant (sachant qu'une grande partie de nos backlinks étaient générés via nos clients sur l'app les premieres années). Avec :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/respona.com\/"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " (usage self-serve, on se débrouille tout seul pour gérer du backlink. Marche très bien mais demande un peu d'implication des équipes)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "agences qui font ça pour nous:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Linkbuilder"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Rhinorank"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nTrès bon feedbacks sur les 3. C'est 1-3k€\/mois de budget et les résultats ont été immédiats. On cible principalement nos pages BOFU qui peinent face à la concurrence qui se développe."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03CY07UZJM",
+        "type": "message",
+        "ts": "1737988858.640799",
+        "client_msg_id": "4e65f131-b210-4149-849b-88a2e3b08cf8",
+        "text": "Bonne question! Et non je ne les connais pas, je suis tombé sur eux car nos équipes pensent utiliser leur solution",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "cf1b09b1a910",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-02\/6894190939717_cf1b09b1a910eb11be75_72.jpg",
+            "first_name": "Patrice",
+            "real_name": "Patrice Barbesier",
+            "display_name": "Patrice Barbesier",
+            "team": "T017AGS2KE0",
+            "name": "patrice.barbesier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737987918.617929",
+        "parent_user_id": "U03CY07UZJM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "89ton",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonne question! Et non je ne les connais pas, je suis tombé sur eux car nos équipes pensent utiliser leur solution"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "<@U06CZESF7QF> une chose est sure, ils n'utilisent pas weglot :wink:",
+        "files": [
+            {
+                "id": "F08AFCZBER1",
+                "created": 1737990761,
+                "timestamp": 1737990761,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0177A5V42F",
+                "user_team": "T017AGS2KE0",
+                "editable": false,
+                "size": 126230,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F08AFCZBER1\/image.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F08AFCZBER1\/download\/image.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08AFCZBER1-d9f62a5e54\/image_64.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08AFCZBER1-d9f62a5e54\/image_80.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08AFCZBER1-d9f62a5e54\/image_360.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360_w": 360,
+                "thumb_360_h": 307,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08AFCZBER1-d9f62a5e54\/image_480.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_480_w": 480,
+                "thumb_480_h": 409,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08AFCZBER1-d9f62a5e54\/image_160.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08AFCZBER1-d9f62a5e54\/image_720.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720_w": 720,
+                "thumb_720_h": 614,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08AFCZBER1-d9f62a5e54\/image_800.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_800_w": 800,
+                "thumb_800_h": 682,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08AFCZBER1-d9f62a5e54\/image_960.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_960_w": 960,
+                "thumb_960_h": 818,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08AFCZBER1-d9f62a5e54\/image_1024.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 873,
+                "original_w": 1136,
+                "original_h": 968,
+                "thumb_tiny": "AwAoADDSOe2KBuzziop22lfndTz90ZqPJ2\/6ybr\/AHaALVFVCzYz5suM\/wByhnJAKvNwOfk60AW6KrxPtfBaVs8fMvSrFAEcibiP3jL\/ALvemeUuc+bJ+dTEDvS5oAh2DcT5r8jHWk8oAf66T86nzSZHqKAEUhVA3E47mnAg9KTI9RS0ABpMe9LRQAgHvS0UUAFFFFAH\/9k=",
+                "permalink": "https:\/\/techmarketingleaders.slack.com\/files\/U017U6M2G00\/F08AFCZBER1\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F08AFCZBER1-6228e17d4b",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U0177A5V42F",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "czkSD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06CZESF7QF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " une chose est sure, ils n'utilisent pas weglot "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1737990764.670599",
+        "client_msg_id": "5ae982a8-743f-4310-a5aa-153101422649",
+        "thread_ts": "1737987918.617929",
+        "parent_user_id": "U03CY07UZJM",
+        "reactions": [
+            {
+                "name": "sweat_smile",
+                "users": [
+                    "U016SBPG7K9",
+                    "U06CZESF7QF",
+                    "U03CY07UZJM",
+                    "U078PFP7A4B",
+                    "U03P99RGMTN",
+                    "U07R7CUFM7H",
+                    "U01T6U402V8"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1737991809.178119",
+        "client_msg_id": "ab4d10fc-c55e-4d4e-b593-468fa07f945c",
+        "text": "Wow sympa le mix de 3 langues :sweat_smile:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737987918.617929",
+        "parent_user_id": "U03CY07UZJM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OI3ba",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wow sympa le mix de 3 langues "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U067GNGDATD",
+        "type": "message",
+        "ts": "1737995052.732779",
+        "client_msg_id": "32d9b8c7-a887-456c-a64e-1d335d8cd8a9",
+        "text": "Merci!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "gd73dcdb62f7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d73dcdb62f793ad670516a42032e3fa5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Diard",
+            "display_name": "Old Account \/ Do not use",
+            "team": "T017AGS2KE0",
+            "name": "adiard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737986954.109019",
+        "parent_user_id": "U067GNGDATD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zdgqo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

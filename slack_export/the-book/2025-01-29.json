@@ -1,0 +1,141 @@
+[
+    {
+        "user": "U04L04T475K",
+        "type": "message",
+        "ts": "1738222520.060249",
+        "client_msg_id": "1C2F4677-C70C-4AB7-A613-30C59FC9C928",
+        "text": "Hello tout le monde ! merci infiniment pour l’accueil et l’organisation de la soirée  <@U02N2EVMFCG>, <@U0183AS3MB6> , <@U01A4GMRRR9>  et <@U017H09S857>  :clap::skin-tone-2: :clap::skin-tone-2: ! Je n’ai pas pu rester jusqu’à bout mais ça faisait vraiment plaisir de voir l’énergie de toute l’équipe, et la concrétisation de ce projet ! Et merci aux équipes de Dunod. Quel est le prochain projet ? Un podcast ? :smirk: ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "992240f01962",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4685704045204_992240f019622b6b0af8_72.jpg",
+            "first_name": "Antoine",
+            "real_name": "Antoine Yahia Cherif",
+            "display_name": "Antoine Yahia Cherif",
+            "team": "T017AGS2KE0",
+            "name": "antoine.yc008",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738222520.060249",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1738232108.350249",
+        "reply_users": [
+            "U0183AS3MB6",
+            "U042GV737MX",
+            "U063A8VPPG9"
+        ],
+        "replies": [
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1738226387.653199"
+            },
+            {
+                "user": "U042GV737MX",
+                "ts": "1738226521.103129"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1738232108.350249"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "obDX1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello tout le monde ! merci infiniment pour l’accueil et l’organisation de la soirée  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02N2EVMFCG"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0183AS3MB6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01A4GMRRR9"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  et "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U017H09S857"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "clap",
+                                "unicode": "1f44f-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "clap",
+                                "unicode": "1f44f-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " ! Je n’ai pas pu rester jusqu’à bout mais ça faisait vraiment plaisir de voir l’énergie de toute l’équipe, et la concrétisation de ce projet ! Et merci aux équipes de Dunod. Quel est le prochain projet ? Un podcast ? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smirk",
+                                "unicode": "1f60f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U017H09S857",
+                    "U03P99RGMTN",
+                    "U02N2EVMFCG",
+                    "U078PFP7A4B",
+                    "U017CURDPB5",
+                    "U06LENY5V6Z",
+                    "U02CBFN48CF"
+                ],
+                "count": 7
+            }
+        ]
+    }
+]

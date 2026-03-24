@@ -1,0 +1,86 @@
+[
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1739897602.924779",
+        "client_msg_id": "63619de9-7bbd-4284-9f9b-38749f21cf93",
+        "text": "<https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:7297658168199806976\/>\nPetit like vivement apprécié :pray:  Merci !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/D4D05AQGp1Ge2Gqupqg\/videocover-high\/B4DZUZ9YTrGcCA-\/0\/1739897283457?e=2147483647&v=beta&t=2UbTNCRKLDdMI1McWhB4vLcdUlb4UaPSz6qtH5lY9Xs",
+                "image_width": 1280,
+                "image_height": 720,
+                "image_bytes": 53892,
+                "from_url": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:7297658168199806976\/",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:7297658168199806976\/",
+                "fallback": "Eugene Ernoult sur LinkedIn : On a réuni 30 agences et freelances web pour brainstormer sur les…",
+                "text": "On a réuni 30 agences et freelances web pour brainstormer sur les tendances et défis à venir.\n\n:dart: Acquisition : quels canaux privilégier pour attirer de nouveaux clients dans un environnement toujours plus concurrentiel ?\n:shopping_trolley: Exigence client : comment répondre aux attentes grandissantes et offrir une expérience fluide et engageante ?\n:mechanical_arm: IA : comment en faire un levier de croissance plutôt qu’une menace ?\n\nDes insights ultra-concrets partagés par des experts du web qui vivent ces défis au quotidien.\n:pushpin: Conclusion ? Le web évolue (comme d’hab’ :sweat_smile:) et la clé restera l’adaptation (comme d’hab’ aussi).\n\nLe succès de ce premier évènement nous a convaincu d’aller encore plus loin. Alors avec Thibaud et Margaux on lance un Tour de France des agences web pour continuer les discussions avec vous.\n\nOn a commencé avec Paris, une suggestion pour la prochaine ville ?",
+                "title": "Eugene Ernoult sur LinkedIn : On a réuni 30 agences et freelances web pour brainstormer sur les…",
+                "title_link": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:7297658168199806976\/",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aUA16",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:7297658168199806976\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPetit like vivement apprécié "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  Merci !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "star-struck",
+                "users": [
+                    "U03P99RGMTN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U067GNGDATD"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "user": "U03CY07UZJM",
+        "type": "message",
+        "ts": "1766316439.740909",
+        "client_msg_id": "47c4dc00-6369-4112-a805-a62252a63ee2",
+        "text": "Génial!! Je viens d'un peu écouter, c'est très très cool!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "cf1b09b1a910",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-02\/6894190939717_cf1b09b1a910eb11be75_72.jpg",
+            "first_name": "Patrice",
+            "real_name": "Patrice Barbesier",
+            "display_name": "Patrice Barbesier",
+            "team": "T017AGS2KE0",
+            "name": "patrice.barbesier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1766154936.945009",
+        "parent_user_id": "U08SA22HS0J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TvWjB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Génial!! Je viens d'un peu écouter, c'est très très cool!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08SA22HS0J",
+        "type": "message",
+        "ts": "1766348788.745739",
+        "client_msg_id": "9e1ce651-124c-40e2-8eda-a8f2b7e8656b",
+        "text": "Merci à tous pour vos encouragements ! <@U017CURDPB5> Super, les maquettes c'est déjà une belle étape. Si besoin de conseil pour une prochaine prod, n'hésite pas.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "266d9356f19e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-07\/10243863201635_266d9356f19e63bc9267_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu BONENFANT (SecLab)",
+            "display_name": "Matthieu BONENFANT (SecLab)",
+            "team": "T017AGS2KE0",
+            "name": "matthieu.bonenfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1766154936.945009",
+        "parent_user_id": "U08SA22HS0J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jSGHk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci à tous pour vos encouragements ! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U017CURDPB5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Super, les maquettes c'est déjà une belle étape. Si besoin de conseil pour une prochaine prod, n'hésite pas."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U017CURDPB5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

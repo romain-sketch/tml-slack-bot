@@ -1,0 +1,115 @@
+[
+    {
+        "user": "U08EN5T6F4L",
+        "type": "message",
+        "ts": "1742456118.398179",
+        "client_msg_id": "BB7947BF-67B4-44C6-B4D3-0132EB1190C0",
+        "text": "Bonjour à tous,\n\nJ’ai échangé avec <https:\/\/www.linkedin.com\/in\/carolefouquet?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=ios_app|Carole Fouquet> la CMO de Geev l’appli de dons d’objets entre particuliers aux 6 Millions d’utilisateurs. Elle aimerait bien rejoindre la communauté TML. Qu’en pensez-vous ? ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "731ca28d6808",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-18\/8615871359542_731ca28d68086f39666f_72.png",
+            "first_name": "Sidney",
+            "real_name": "Sidney Ouarzazi",
+            "display_name": "Sidney Ouarzazi (Sellsy)",
+            "team": "T017AGS2KE0",
+            "name": "sidney.o",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/carolefouquet?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+                "thumb_url": "https:\/\/static.licdn.com\/scds\/common\/u\/images\/email\/artdeco\/logos\/96\/linkedin-bug-color.png",
+                "thumb_width": 96,
+                "thumb_height": 96,
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/carolefouquet?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=ios_app",
+                "fallback": "Carole Fouquet - Geev | LinkedIn",
+                "text": "Expérience : Geev · Formation : ESSEC - ESSEC Business School · Lieu : Bordeaux · 500 relations ou plus sur LinkedIn. Consultez le profil de Carole Fouquet sur LinkedIn, une communauté professionnelle d’un milliard de membres.",
+                "title": "Carole Fouquet - Geev | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/carolefouquet?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U7zch",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour à tous,"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "J’ai échangé avec "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/carolefouquet?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+                                "text": "Carole Fouquet"
+                            },
+                            {
+                                "type": "text",
+                                "text": " la CMO de Geev l’appli de dons d’objets entre particuliers aux 6 Millions d’utilisateurs. Elle aimerait bien rejoindre la communauté TML. Qu’en pensez-vous ? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01A4GMRRR9",
+                    "U02N2EVMFCG",
+                    "U06M6E5M524",
+                    "U069NSTHZ3Q",
+                    "U04SM1RGPJB",
+                    "U04HP95GK55",
+                    "U042GV737MX",
+                    "U07D08K3U0K",
+                    "U0177A5V42F",
+                    "U02CBFN48CF",
+                    "U07MNBM4WLV",
+                    "U06EN9X790C",
+                    "U08554C4R7C",
+                    "U03P99RGMTN",
+                    "U025AMSNGF8",
+                    "U0183AS3MB6",
+                    "U01789XN2UV",
+                    "U06TF9YAWEM",
+                    "U0859A8P14K",
+                    "U067GNGDATD",
+                    "U07PEP71X4Y",
+                    "U08EN5GRYCC",
+                    "U03QPMQA31V",
+                    "U08HF5YQM6G",
+                    "U017RBREWC9",
+                    "U059T4KRCUC"
+                ],
+                "count": 26
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U017H09S857",
+                    "U063A8VPPG9"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

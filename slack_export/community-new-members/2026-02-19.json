@@ -1,0 +1,84 @@
+[
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1771506650.937959",
+        "text": "",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "ts": "1770030925.382459",
+                "author_id": "U059T4KRCUC",
+                "channel_id": "C016XK83LAJ",
+                "channel_team": "T017AGS2KE0",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T017AGS2KE0",
+                        "channel": "C016XK83LAJ",
+                        "ts": "1770030925.382459",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "VBdAL",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Hello l'équipe "
+                                                },
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "green_heart",
+                                                    "unicode": "1f49a"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\nJ'aimerais proposer l'ajout de Sophie Halliot à la communauté.\nAncienne CMO\/CGO de Bankin’, elle est aujourd'hui Fractional CMO. Je viens de discuter avec elle sur plusieurs sujets passionnants, ce serait top de l'avoir avec nous ici.\nSon profil : "
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/www.linkedin.com\/in\/sophie-halliot-0759a610\/"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/techmarketingleaders.slack.com\/archives\/C016XK83LAJ\/p1770030925382459?thread_ts=1770030925.382459&cid=C016XK83LAJ",
+                "is_share": true,
+                "fallback": "[February 2nd, 2026 12:15 PM] ilejeune: Hello l'équipe :green_heart:\nJ'aimerais proposer l'ajout de Sophie Halliot à la communauté.\nAncienne CMO\/CGO de Bankin’, elle est aujourd'hui Fractional CMO. Je viens de discuter avec elle sur plusieurs sujets passionnants, ce serait top de l'avoir avec nous ici.\nSon profil : <https:\/\/www.linkedin.com\/in\/sophie-halliot-0759a610\/>",
+                "text": "Hello l'équipe :green_heart:\nJ'aimerais proposer l'ajout de Sophie Halliot à la communauté.\nAncienne CMO\/CGO de Bankin’, elle est aujourd'hui Fractional CMO. Je viens de discuter avec elle sur plusieurs sujets passionnants, ce serait top de l'avoir avec nous ici.\nSon profil : <https:\/\/www.linkedin.com\/in\/sophie-halliot-0759a610\/>",
+                "author_name": "Isa",
+                "author_link": "https:\/\/techmarketingleaders.slack.com\/team\/U059T4KRCUC",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2023-05-29\/5337202241186_57639ff481aa2740f127_48.png",
+                "author_subname": "Isa",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Thread in Slack Conversation"
+            }
+        ]
+    }
+]

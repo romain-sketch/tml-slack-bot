@@ -1,0 +1,344 @@
+[
+    {
+        "user": "U04L04T475K",
+        "type": "message",
+        "ts": "1770883462.281109",
+        "client_msg_id": "7b1ed3d7-7cc6-4fd2-90e4-3a01dc8a3c67",
+        "text": "dis lui de me contacter ! <mailto:antoine.yc@gmail.com|antoine.yc@gmail.com>\nMerci",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "992240f01962",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4685704045204_992240f019622b6b0af8_72.jpg",
+            "first_name": "Antoine",
+            "real_name": "Antoine Yahia Cherif",
+            "display_name": "Antoine Yahia Cherif",
+            "team": "T017AGS2KE0",
+            "name": "antoine.yc008",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770825150.064029",
+        "parent_user_id": "U04L04T475K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZSe2Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "dis lui de me contacter ! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:antoine.yc@gmail.com",
+                                "text": "antoine.yc@gmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nMerci"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1770886832.442289",
+        "client_msg_id": "1d4baa2e-a226-4840-87db-97305a7b544c",
+        "text": "Merci beaucoup :heart_hands: je te dis si jamais on a besoin !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770718575.611459",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FS85Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci beaucoup "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_hands",
+                                "unicode": "1faf6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je te dis si jamais on a besoin !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "blue_heart",
+                "users": [
+                    "U07MNBM4WLV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U08SA22HS0J",
+        "type": "message",
+        "ts": "1770889941.105299",
+        "client_msg_id": "615559c3-fc89-45b5-9c07-bb1a2067c6cd",
+        "text": "Top",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "266d9356f19e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-07\/10243863201635_266d9356f19e63bc9267_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu BONENFANT (SecLab)",
+            "display_name": "Matthieu BONENFANT (SecLab)",
+            "team": "T017AGS2KE0",
+            "name": "matthieu.bonenfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770825150.064029",
+        "parent_user_id": "U04L04T475K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q+1L2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Top"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U065DFPCQMP",
+        "type": "message",
+        "ts": "1770892709.840399",
+        "client_msg_id": "644468be-539c-4c2a-a280-e70402a498c3",
+        "text": "je t'ai envoyé qq contacts également",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50040e0261e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-15\/6198553206674_50040e0261e7ba62e840_72.jpg",
+            "first_name": "Gaelle",
+            "real_name": "Gaelle Le Goff",
+            "display_name": "Gaelle Le Goff",
+            "team": "T017AGS2KE0",
+            "name": "gaelle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770825150.064029",
+        "parent_user_id": "U04L04T475K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C5RuN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je t'ai envoyé qq contacts également"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08PLD4KPS8",
+        "type": "message",
+        "ts": "1770894168.480799",
+        "client_msg_id": "cd3e1c47-a2b3-4633-bf20-1a276becbb1e",
+        "text": "Hello <@U04L04T475K>, pour le poste DA, je recommande <https:\/\/www.linkedin.com\/in\/anne-sophie-furic-37165548\/|Anne-Sophie Furic>. Profil couteau suisse car a une compréhension profonde des enjeux de messaging (a fait sciences po avant une reconversion vers le graphisme) + sait tout faire ensuite. Voir <https:\/\/www.tandem-marseille.fr\/|portfolio ici>. Basée à Marseille donc atout de proximité.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ed1e5a6e17a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-15\/8903493241218_7ed1e5a6e17a9b117971_72.jpg",
+            "first_name": "Ségolène",
+            "real_name": "Ségolène Finet",
+            "display_name": "Ségolène Finet",
+            "team": "T017AGS2KE0",
+            "name": "finetsegolene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770825150.064029",
+        "parent_user_id": "U04L04T475K",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/anne-sophie-furic-37165548\/",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "thumb_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/D4E03AQFsmbhfGX0ZQw\/profile-displayphoto-shrink_200_200\/profile-displayphoto-shrink_200_200\/0\/1697796323089?e=2147483647&v=beta&t=D4bSR6OmB0WTY5ZFQqk8leUz-PE93F32lmk36NhonSc",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/anne-sophie-furic-37165548\/",
+                "fallback": "Anne-Sophie Furic - Freelance | LinkedIn",
+                "text": "For the past +10 years, I&amp;#39;ve worked as a Brand &amp; Communications expert. Today, I work… · Experience: Freelance · Education: Sciences Po Rennes · Location: Marseille · 500+ connections on LinkedIn. View Anne-Sophie Furic’s profile on LinkedIn, a professional community of 1 billion members.",
+                "title": "Anne-Sophie Furic - Freelance | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/anne-sophie-furic-37165548\/",
+                "service_name": "fr.linkedin.com"
+            },
+            {
+                "image_url": "https:\/\/cdn.prod.website-files.com\/69299c62981a51fb906ee10e\/692f28121edb8d605785f0ed_Tandem-Marseille_brand-communication.jpg",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 304323,
+                "from_url": "https:\/\/www.tandem-marseille.fr\/",
+                "id": 2,
+                "original_url": "https:\/\/www.tandem-marseille.fr\/",
+                "fallback": "Tandem | Brand studio basé à Marseille",
+                "text": "Mettre en mouvement votre marque : identité de marque, contenu, social media, design et relations presse pour renforcer votre communication.",
+                "title": "Tandem | Brand studio basé à Marseille",
+                "title_link": "https:\/\/www.tandem-marseille.fr\/",
+                "service_name": "tandem-marseille.fr"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eRi+8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04L04T475K"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", pour le poste DA, je recommande "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/anne-sophie-furic-37165548\/",
+                                "text": "Anne-Sophie Furic"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Profil couteau suisse car a une compréhension profonde des enjeux de messaging (a fait sciences po avant une reconversion vers le graphisme) + sait tout faire ensuite. Voir "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.tandem-marseille.fr\/",
+                                "text": "portfolio ici"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Basée à Marseille donc atout de proximité."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04L04T475K",
+        "type": "message",
+        "ts": "1770896174.899029",
+        "client_msg_id": "9c6782e4-3c8c-4d74-b85e-30c45916c530",
+        "text": "merci à toutes &amp; tous :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "992240f01962",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4685704045204_992240f019622b6b0af8_72.jpg",
+            "first_name": "Antoine",
+            "real_name": "Antoine Yahia Cherif",
+            "display_name": "Antoine Yahia Cherif",
+            "team": "T017AGS2KE0",
+            "name": "antoine.yc008",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770825150.064029",
+        "parent_user_id": "U04L04T475K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UGFVE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "merci à toutes & tous "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0AEPPHSNQJ",
+        "text": "<@U0AEPPHSNQJ> has joined the channel",
+        "type": "message",
+        "ts": "1770926699.389469"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0AF2M53E81",
+        "text": "<@U0AF2M53E81> has joined the channel",
+        "type": "message",
+        "ts": "1770932865.888719"
+    }
+]

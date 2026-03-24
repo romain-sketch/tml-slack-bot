@@ -1,0 +1,67 @@
+[
+    {
+        "user": "U06E3PY5LAY",
+        "type": "message",
+        "ts": "1757668983.991989",
+        "client_msg_id": "a93fe538-0da6-481f-8177-9cd37ad7644d",
+        "text": "Hello Claire - je recommande <https:\/\/www.linkedin.com\/in\/lea-c%C3%A9line-lutz-981429156\/|Léa Céline Lutz> qui était dans mon équipe chez Withings et a lancé en freelance récément",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e6f18bbbcc15",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-16\/6475144975749_e6f18bbbcc1579d4df98_72.png",
+            "first_name": "Elizabeth",
+            "real_name": "Elizabeth Coleon",
+            "display_name": "Elizabeth Coleon",
+            "team": "T017AGS2KE0",
+            "name": "eorzano",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757605855.574509",
+        "parent_user_id": "U042GV737MX",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/lea-c%C3%A9line-lutz-981429156\/",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "thumb_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/D4E03AQG6IahJtnPbLw\/profile-displayphoto-scale_200_200\/B4EZkT1ipsIkAY-\/0\/1756974432662?e=2147483647&v=beta&t=m8J2vGHWnkN-VfXnyxS2N14hTBhU__q6mYCwQGPXyAU",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/lea-c%C3%A9line-lutz-981429156\/",
+                "fallback": "Lea Céline Lutz - Trilingual Brand Marketer :de::fr: · Helping brands grow in the DACH market · Freelance leacelinelutz.com | LinkedIn",
+                "text": "Trilingual Brand Marketer :de::fr: · Helping brands grow in the DACH market · Freelance <http:\/\/leacelinelutz.com|leacelinelutz.com> · :book: <https:\/\/www.leacelinelutz.com> \n\n5+ years of experience driving high-impact campaigns across the globe. My approach always starts with a clear goal and strategy, not a marketing lever. This is how I have gathered strong expertise in making brands stand out through influence, events, PR, advertising, and content creation. I manage seven-figure budgets, lead cross-market brand strategies, and thrive on creating memorable experiences. · Expérience : Withings · Formation : Hochschule RheinMain · Lieu : Paris · 500 relations ou plus sur LinkedIn. Consultez le profil de Lea Céline Lutz sur LinkedIn, une communauté professionnelle d’un milliard de membres.",
+                "title": "Lea Céline Lutz - Trilingual Brand Marketer :de::fr: · Helping brands grow in the DACH market · Freelance leacelinelutz.com | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/lea-c%C3%A9line-lutz-981429156\/",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "meXSf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Claire - je recommande "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/lea-c%C3%A9line-lutz-981429156\/",
+                                "text": "Léa Céline Lutz"
+                            },
+                            {
+                                "type": "text",
+                                "text": " qui était dans mon équipe chez Withings et a lancé en freelance récément"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

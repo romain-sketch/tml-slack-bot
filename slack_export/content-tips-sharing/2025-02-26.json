@@ -1,0 +1,108 @@
+[
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1740581582.774589",
+        "client_msg_id": "d483f243-8dde-4161-aaf2-4e48dc34cf0e",
+        "text": "On bosse avec Ellipsis depuis plus de 5 ans : Agence SEO basé au UK. Ils sont top et très correct niveau tarif : <https:\/\/getellipsis.com\/>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740403634.123269",
+        "parent_user_id": "U078PFP7A4B",
+        "attachments": [
+            {
+                "image_url": "https:\/\/getellipsis.com\/wp-content\/uploads\/2022\/04\/Primary-Logo_Pale-Blue.jpeg",
+                "image_width": 1080,
+                "image_height": 1080,
+                "image_bytes": 8717,
+                "from_url": "https:\/\/getellipsis.com\/",
+                "service_icon": "https:\/\/getellipsis.com\/wp-content\/uploads\/2022\/03\/cropped-Logomark_Chambray-1-180x180.webp",
+                "id": 1,
+                "original_url": "https:\/\/getellipsis.com\/",
+                "fallback": "Ellipsis®: Ellipsis® • SEO Content is winner-takes-all. We make you win.",
+                "text": "Ellipsis® is a world-class SEO Content agency. We deliver ranking results, backed by expertise, technology, and process.",
+                "title": "Ellipsis® • SEO Content is winner-takes-all. We make you win.",
+                "title_link": "https:\/\/getellipsis.com\/",
+                "service_name": "Ellipsis®"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eoN1g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On bosse avec Ellipsis depuis plus de 5 ans : Agence SEO basé au UK. Ils sont top et très correct niveau tarif : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/getellipsis.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1740581616.839339",
+        "client_msg_id": "8caeb64a-2ee1-4388-b0f7-f40c26497d2b",
+        "text": "Tu peux contacter Alex de ma part : <mailto:alex@getellipsis.com|alex@getellipsis.com>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740403634.123269",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IVTk6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tu peux contacter Alex de ma part : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:alex@getellipsis.com",
+                                "text": "alex@getellipsis.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

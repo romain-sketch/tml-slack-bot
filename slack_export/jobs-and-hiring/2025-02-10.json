@@ -1,0 +1,125 @@
+[
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1739183367.212369",
+        "client_msg_id": "2B2C28F3-7110-4000-8981-B49DF64E9B84",
+        "text": "Ils sont ouvert à un cab de recrutement ? :)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738322828.228679",
+        "parent_user_id": "U017CURDPB5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mBFIg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ils sont ouvert à un cab de recrutement ? :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03CY07UZJM",
+        "type": "message",
+        "ts": "1739187572.483069",
+        "client_msg_id": "b98de6bc-57c6-4e6a-be87-4a17665c1436",
+        "text": "Je cherche un(e) Senior Marketing Manager tout terrain pour hipto, une boite que j'accompagne en Part Time.\n• 5 ans xp\n• Tout est à construire\n• <https:\/\/www.welcometothejungle.com\/fr\/companies\/hipto\/jobs\/senior-marketing-manager-cdi-h-f_boulogne-billancourt?q=f2f8d72c9f03aa49d3d41ca853da24ff&amp;o=247e2e90-7b48-4d74-8aca-5ace52ff7dcf|Offre ici>\nMerci !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "cf1b09b1a910",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-02\/6894190939717_cf1b09b1a910eb11be75_72.jpg",
+            "first_name": "Patrice",
+            "real_name": "Patrice Barbesier",
+            "display_name": "Patrice Barbesier",
+            "team": "T017AGS2KE0",
+            "name": "patrice.barbesier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oc\/rA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je cherche un(e) Senior Marketing Manager tout terrain pour hipto, une boite que j'accompagne en Part Time.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "5 ans xp"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Tout est à construire"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.welcometothejungle.com\/fr\/companies\/hipto\/jobs\/senior-marketing-manager-cdi-h-f_boulogne-billancourt?q=f2f8d72c9f03aa49d3d41ca853da24ff&o=247e2e90-7b48-4d74-8aca-5ace52ff7dcf",
+                                        "text": "Offre ici"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nMerci !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

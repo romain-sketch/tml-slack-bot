@@ -1,0 +1,970 @@
+[
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1743768012.889189",
+        "client_msg_id": "094f0509-d913-4998-9e3d-d0e207c67452",
+        "text": "Hello!\nQui a déjà pousser des campagnes en geo targeting en B2B autour d'un salon pro par exemple ?\nMerci",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743768012.889189",
+        "reply_count": 7,
+        "reply_users_count": 4,
+        "latest_reply": "1744091902.515189",
+        "reply_users": [
+            "U01T6U402V8",
+            "U084KTR7YKX",
+            "U0183AS3MB6",
+            "U01A4GMRRR9"
+        ],
+        "replies": [
+            {
+                "user": "U01T6U402V8",
+                "ts": "1743768800.018399"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1743772236.471619"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1743772400.761299"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1743775709.910199"
+            },
+            {
+                "user": "U01A4GMRRR9",
+                "ts": "1743777655.620089"
+            },
+            {
+                "user": "U01T6U402V8",
+                "ts": "1744037038.001079"
+            },
+            {
+                "user": "U01A4GMRRR9",
+                "ts": "1744091902.515189"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IUvXB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello!\nQui a déjà pousser des campagnes en geo targeting en B2B autour d'un salon pro par exemple ?\nMerci"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01T6U402V8",
+        "type": "message",
+        "ts": "1743768800.018399",
+        "client_msg_id": "868656fa-e059-488c-89fe-ca196494aa6a",
+        "text": "Hello <@U01A4GMRRR9>\n• j’ai deja fait (NYC) autour de la NRF en outreach (mix de NL et d’emails) et un peu de linkedin pour du ticketing. \n=&gt;Pas de résultats de dingue sur les inscriptions.\nJe peux t’en dire plus si tu veux.\n+ Intéressée par les autres pratiques aussi!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "1a396483c2d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-13\/1958483219154_1a396483c2d9cd7cccd3_72.jpg",
+            "first_name": "Simone",
+            "real_name": "Simone Sfeir (FrenchFounders)",
+            "display_name": "Simone Sfeir",
+            "team": "T017AGS2KE0",
+            "name": "simone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743768012.889189",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R\/aRP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01A4GMRRR9"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "j’ai deja fait (NYC) autour de la NRF en outreach (mix de NL et d’emails) et un peu de linkedin pour du ticketing. "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "=>Pas de résultats de dingue sur les inscriptions.\nJe peux t’en dire plus si tu veux.\n+ Intéressée par les autres pratiques aussi!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01A4GMRRR9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1743772236.471619",
+        "edited": {
+            "user": "U084KTR7YKX",
+            "ts": "1743772297.000000"
+        },
+        "client_msg_id": "c3f40c85-3220-4fac-a200-b6130aecb0fd",
+        "text": "idem pour salon \"go entrepreneurs\" de Paris en 2020 (ça date !!)\n• flyers pour aller sur le stand \n• meta ads pour aussi aller sur le stand ou checker le site pour les gens étant dans la zone de l'event\nPas de résultats très probants (mais peut-être aussi qu'on avait mal opéré et pas été très créatifs)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743768012.889189",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4L73W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "idem pour salon \"go entrepreneurs\" de Paris en 2020 (ça date !!)\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "flyers pour aller sur le stand "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "meta ads pour aussi aller sur le stand ou checker le site pour les gens étant dans la zone de l'event"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pas de résultats très probants (mais peut-être aussi qu'on avait mal opéré et pas été très créatifs)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1743772400.761299",
+        "edited": {
+            "user": "U084KTR7YKX",
+            "ts": "1743772423.000000"
+        },
+        "client_msg_id": "16af3036-262b-4b87-8220-ff3f9b930ca6",
+        "text": "Par contre on avait aussi fait en 2023 avec JC decaux des affichages pour les SMBs BTP & Artisans autour des LeroyMerlin & Co\net ça avait améliorer l\"awareness & la considération de marque sur cette cible. (pas plus de leads par contre)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743768012.889189",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jYaOy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Par contre on avait aussi fait en 2023 avec JC decaux des affichages pour les SMBs BTP & Artisans autour des LeroyMerlin & Co\net ça avait améliorer l\"awareness & la considération de marque sur cette cible. (pas plus de leads par contre)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Hello les TML, vous avez déjà eu des faux profils sur linkedin qui s’attribuent un job chez vous ?\nVoici Gabrielle, ma nouvelle collègue avec une belle photo d’IA, un bon texte de poste Kamoulox genAI...\nOn a écrit à Linkedin pour la virer, mais cela peut prendre 10 jours...Mais que faire de plus ?\nQuels sont les risques ?",
+        "files": [
+            {
+                "id": "F08LW2LQBRR",
+                "created": 1743775503,
+                "timestamp": 1743775503,
+                "name": "Screenshot 2025-04-04 at 16.04.57.png",
+                "title": "Screenshot 2025-04-04 at 16.04.57.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03P99RGMTN",
+                "user_team": "T017AGS2KE0",
+                "editable": false,
+                "size": 141150,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F08LW2LQBRR\/screenshot_2025-04-04_at_16.04.57.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F08LW2LQBRR\/download\/screenshot_2025-04-04_at_16.04.57.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08LW2LQBRR-be2033dab5\/screenshot_2025-04-04_at_16.04.57_64.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08LW2LQBRR-be2033dab5\/screenshot_2025-04-04_at_16.04.57_80.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08LW2LQBRR-be2033dab5\/screenshot_2025-04-04_at_16.04.57_360.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360_w": 360,
+                "thumb_360_h": 275,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08LW2LQBRR-be2033dab5\/screenshot_2025-04-04_at_16.04.57_480.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_480_w": 480,
+                "thumb_480_h": 367,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08LW2LQBRR-be2033dab5\/screenshot_2025-04-04_at_16.04.57_160.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "original_w": 626,
+                "original_h": 478,
+                "thumb_tiny": "AwAkADCWQkbAvc88dKZHIxba2D79KmuLdiuY85FMt7ZsqTwOdxIwTQA6ip\/IX1NHkL6mgQ0fcFFSbARgGjyx6mgBjqC54\/nSbR6fzqRlyTwaXbx91aBjAxUYFPUk9R+NG0f3VpwwOlAEccCRLtXOM561IBgYFFFAET26O5Y5yfelSFYwQuefepKKd2Fhu0e\/50oUD1\/OlopAIFA6UtFFAH\/\/2Q==",
+                "permalink": "https:\/\/techmarketingleaders.slack.com\/files\/U017U6M2G00\/F08LW2LQBRR\/screenshot_2025-04-04_at_16.04.57.png",
+                "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F08LW2LQBRR-977f6bcfa9",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03P99RGMTN",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9mqyD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello les TML, vous avez déjà eu des faux profils sur linkedin qui s’attribuent un job chez vous ?\nVoici Gabrielle, ma nouvelle collègue avec une belle photo d’IA, un bon texte de poste Kamoulox genAI...\nOn a écrit à Linkedin pour la virer, mais cela peut prendre 10 jours...Mais que faire de plus ?\nQuels sont les risques ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1743775657.115959",
+        "edited": {
+            "user": "U03P99RGMTN",
+            "ts": "1743777449.000000"
+        },
+        "client_msg_id": "2d6fa3b0-7537-4739-ac95-bf604b4b0a70",
+        "thread_ts": "1743775657.115959",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1743784650.000839",
+        "reply_users": [
+            "U01CNU4Q2H2",
+            "U0183AS3MB6"
+        ],
+        "replies": [
+            {
+                "user": "U01CNU4Q2H2",
+                "ts": "1743781711.868919"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1743784650.000839"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1743775709.910199",
+        "client_msg_id": "0b9fa51c-a22f-480c-8592-7f22e7fed373",
+        "text": "Moi, sur instagram. Mini budget, une approche “venez nous voir au stand XYZ”, et ça marchait plutôt bien :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743768012.889189",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NV8\/E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Moi, sur instagram. Mini budget, une approche “venez nous voir au stand XYZ”, et ça marchait plutôt bien "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1743775776.592009",
+        "client_msg_id": "905f8d52-1dcd-43dd-872d-2779e4ad9acd",
+        "text": "elle doits e faire passer pour une fausse RH pour faire des arnaques à l'embauche je crois",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743775776.592009",
+        "reply_count": 7,
+        "reply_users_count": 4,
+        "latest_reply": "1744118379.889889",
+        "reply_users": [
+            "U063A8VPPG9",
+            "U04A6JMRWCS",
+            "U03P99RGMTN",
+            "U065DFPCQMP"
+        ],
+        "replies": [
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1743778143.655429"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1743778355.988249"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1743778363.104479"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1743778369.031349"
+            },
+            {
+                "user": "U03P99RGMTN",
+                "ts": "1743781790.990079"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1743781859.097859"
+            },
+            {
+                "user": "U065DFPCQMP",
+                "ts": "1744118379.889889"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RDAIy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "elle doits e faire passer pour une fausse RH pour faire des arnaques à l'embauche je crois"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1743775780.341779",
+        "client_msg_id": "1b733781-2876-4ef4-a94a-03cf12ee342f",
+        "text": "j'avais connu ca chez pigment",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5PTr2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "j'avais connu ca chez pigment"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03P99RGMTN",
+                    "U06DYTRDLUD",
+                    "U065DFPCQMP"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1743777655.620089",
+        "client_msg_id": "bef31164-defa-4417-a6d7-d3a7a6650f98",
+        "text": "Merci!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743768012.889189",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zdgqo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1743778143.655429",
+        "client_msg_id": "1D5DDE80-9241-4AC6-BAFF-10EC3BEC3271",
+        "text": "Les gens sont oufs! ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743775776.592009",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tzIvG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Les gens sont oufs! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1743778355.988249",
+        "client_msg_id": "ac06287b-5b73-4b06-8d99-7492fce1c737",
+        "text": "les mecs te font croire que tu es embauché après tout un process",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743775776.592009",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eaulv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "les mecs te font croire que tu es embauché après tout un process"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1743778363.104479",
+        "client_msg_id": "d5659ac7-9f7e-4d13-aeee-8f80b23cd44d",
+        "text": "ils te disent qu'ils t'envoient un ordi et tout",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743775776.592009",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iTEOU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ils te disent qu'ils t'envoient un ordi et tout"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1743778369.031349",
+        "client_msg_id": "2c6edd08-f589-4f44-96e0-dfe3a14508bd",
+        "text": "mais tu dois avancer les frais de douane",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743775776.592009",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5f6o4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mais tu dois avancer les frais de douane"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "disappointed",
+                "users": [
+                    "U069NSTHZ3Q",
+                    "U017RAZCAGZ"
+                ],
+                "count": 2
+            },
+            {
+                "name": "disguised_face",
+                "users": [
+                    "U03P99RGMTN",
+                    "U063A8VPPG9"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U01CNU4Q2H2",
+        "type": "message",
+        "ts": "1743781711.868919",
+        "client_msg_id": "b70ff140-287f-4370-aa34-0459f1be6d69",
+        "text": "Hello ! Je crois qu'ils ont modifié cette règle mais c'était une vieille technique pour récupérer tous les followers LK d'une page (en gros du moment où tu déclarais bosser dans une boite tu pouvais accéder à tous les followers et ainsi faire des campagnes de growth). A voir ce qu'est devenue cette pratique...",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "3fc42a41f9fd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-18\/7441599507842_3fc42a41f9fd86423da2_72.png",
+            "first_name": "Marilyne",
+            "real_name": "Marilyne Dupuy",
+            "display_name": "Marilyne Dupuy (Napta)",
+            "team": "T017AGS2KE0",
+            "name": "marilyne.dupuy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743775657.115959",
+        "parent_user_id": "U03P99RGMTN",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CPTvj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello ! Je crois qu'ils ont modifié cette règle mais c'était une vieille technique pour récupérer tous les followers LK d'une page (en gros du moment où tu déclarais bosser dans une boite tu pouvais accéder à tous les followers et ainsi faire des campagnes de growth). A voir ce qu'est devenue cette pratique..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "confounded",
+                "users": [
+                    "U03P99RGMTN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U084LQF8023"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03P99RGMTN",
+        "type": "message",
+        "ts": "1743781790.990079",
+        "client_msg_id": "4dbba245-1bf1-431e-8037-679740e04be6",
+        "text": "oui, on vient de découvrir ça ! j’espère que les candidats sur nos offres ne se feront pas avoir...",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2f8b530bfffa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-28\/7656384027105_2f8b530bfffa39d455d3_72.png",
+            "first_name": "Julie",
+            "real_name": "Julie Asselin (365Talents)",
+            "display_name": "Julie Asselin (365Talents)",
+            "team": "T017AGS2KE0",
+            "name": "julie.asselin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743775776.592009",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dTWT\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oui, on vient de découvrir ça ! j’espère que les candidats sur nos offres ne se feront pas avoir..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1743781859.097859",
+        "client_msg_id": "a02a4e8f-ee1f-4211-a566-d8afbfba26b9",
+        "text": "on avait mis un disclaimer sur notre page carrière",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743775776.592009",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o5tB3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "on avait mis un disclaimer sur notre page carrière"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03P99RGMTN",
+                    "U063A8VPPG9",
+                    "U067GNGDATD"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1743784650.000839",
+        "client_msg_id": "b9678897-3e45-441a-b7d3-3ef56369fe3e",
+        "text": "Je confirme :point_up_2:\nTechnique efficace pour du scraping…",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743775657.115959",
+        "parent_user_id": "U03P99RGMTN",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AoKz4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je confirme "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_up_2",
+                                "unicode": "1f446"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nTechnique efficace pour du scraping…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

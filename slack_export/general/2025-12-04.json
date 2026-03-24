@@ -1,0 +1,186 @@
+[
+    {
+        "user": "U08PEJM137X",
+        "type": "message",
+        "ts": "1764837846.871339",
+        "client_msg_id": "124bc337-5619-4c04-9a99-b3f253aaa632",
+        "text": "Bonjour ! Est-ce que qqun travaille dans la BioTech, MedTech ou le domaine de la santé de manière générale ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b98ee70a24e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-24\/9792276790672_b98ee70a24e8f7089231_72.png",
+            "first_name": "Séverine",
+            "real_name": "Séverine Loeuille",
+            "display_name": "Séverine Loeuille",
+            "team": "T017AGS2KE0",
+            "name": "loeuille.severine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764837846.871339",
+        "reply_count": 7,
+        "reply_users_count": 4,
+        "latest_reply": "1765293855.917589",
+        "reply_users": [
+            "U042GV737MX",
+            "U0177A5V42F",
+            "U08554C4R7C",
+            "U04L35Y9D08"
+        ],
+        "replies": [
+            {
+                "user": "U042GV737MX",
+                "ts": "1764837894.303319"
+            },
+            {
+                "user": "U0177A5V42F",
+                "ts": "1764858200.896979"
+            },
+            {
+                "user": "U08554C4R7C",
+                "ts": "1764941432.871669"
+            },
+            {
+                "user": "U04L35Y9D08",
+                "ts": "1765210796.161449"
+            },
+            {
+                "user": "U0177A5V42F",
+                "ts": "1765211061.984669"
+            },
+            {
+                "user": "U04L35Y9D08",
+                "ts": "1765293132.002679"
+            },
+            {
+                "user": "U0177A5V42F",
+                "ts": "1765293855.917589"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cOXu7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour ! Est-ce que qqun travaille dans la BioTech, MedTech ou le domaine de la santé de manière générale ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "x",
+                "users": [
+                    "U017RAZCAGZ",
+                    "U063A8VPPG9"
+                ],
+                "count": 2
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U0177A5V42F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U042GV737MX",
+        "type": "message",
+        "ts": "1764837894.303319",
+        "client_msg_id": "59eb3090-7262-4c21-bfd9-95f2cb6f69b5",
+        "text": "oui !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "477225f2b12e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4077716786404_477225f2b12eccc47dc4_72.png",
+            "first_name": "Claire",
+            "real_name": "Claire Chauvallon",
+            "display_name": "Claire Chauvallon",
+            "team": "T017AGS2KE0",
+            "name": "chauvallon.claire",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764837846.871339",
+        "parent_user_id": "U08PEJM137X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Mh3W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oui !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0A11HFGA31",
+        "text": "<@U0A11HFGA31> has joined the channel",
+        "type": "message",
+        "ts": "1764856335.591459"
+    },
+    {
+        "user": "U0177A5V42F",
+        "type": "message",
+        "ts": "1764858200.896979",
+        "client_msg_id": "b370b08f-e74d-4077-968f-30aa65ea4197",
+        "text": "Yes !\nOn peut se faire une visio tous les trois si vous voulez. Quels sont tes besoins ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ebca9b04129",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-17\/1245815650949_7ebca9b041296679a81d_72.jpg",
+            "first_name": "Guillaume",
+            "real_name": "Guillaume Laguette",
+            "display_name": "Guillaume Laguette (echOpen)",
+            "team": "T017AGS2KE0",
+            "name": "laguette.guillaume",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764837846.871339",
+        "parent_user_id": "U08PEJM137X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W\/IsS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes !\nOn peut se faire une visio tous les trois si vous voulez. Quels sont tes besoins ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

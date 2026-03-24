@@ -1,0 +1,453 @@
+[
+    {
+        "user": "U020QK16RMJ",
+        "type": "message",
+        "ts": "1741939463.768349",
+        "client_msg_id": "331ffd1d-393a-414a-9ce1-1d160940c9ff",
+        "text": "Salut, je cherche à identifier qui à BPIFrance peut me référencer pour des missions d'advisory. Vous avez des contacts?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "56d8a678e801",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-18\/7292097443269_56d8a678e801350db84a_72.png",
+            "first_name": "Joël",
+            "real_name": "Joël Gaudeul",
+            "display_name": "Joël (Swan)",
+            "team": "T017AGS2KE0",
+            "name": "joel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741939463.768349",
+        "reply_count": 8,
+        "reply_users_count": 3,
+        "latest_reply": "1742205434.142889",
+        "reply_users": [
+            "U022RFSKQQK",
+            "U02N2EVMFCG",
+            "U063Q1LA69W"
+        ],
+        "replies": [
+            {
+                "user": "U022RFSKQQK",
+                "ts": "1741940449.422219"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1741946443.049099"
+            },
+            {
+                "user": "U063Q1LA69W",
+                "ts": "1741967689.966269"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1741968623.527459"
+            },
+            {
+                "user": "U063Q1LA69W",
+                "ts": "1741968666.080569"
+            },
+            {
+                "user": "U022RFSKQQK",
+                "ts": "1741968717.503269"
+            },
+            {
+                "user": "U063Q1LA69W",
+                "ts": "1741968825.965079"
+            },
+            {
+                "user": "U022RFSKQQK",
+                "ts": "1742205434.142889"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wYfuD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salut, je cherche à identifier qui à BPIFrance peut me référencer pour des missions d'advisory. Vous avez des contacts?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U022RFSKQQK",
+        "type": "message",
+        "ts": "1741940449.422219",
+        "client_msg_id": "df6873a5-f360-488e-82e3-d638dca21d89",
+        "text": "Hello <@U020QK16RMJ> si tu trouves je suis preneuse. J'ai essayé par plusieurs moyens et j'ai pas réussi encore.:see_no_evil:  Le seul tips valable qu'on m'ait donné c'est que tu accompagnes une boîte qui est elle même accompagnée par la BPI et que eux demande à la BPI de te référencer pr faire financer ton accompagnement . Et après c'est bingo :)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "67fe59b92c78",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-01\/6569222233124_67fe59b92c782b5917b3_72.jpg",
+            "first_name": "Aude",
+            "real_name": "Aude Romelly",
+            "display_name": "Aude Romelly",
+            "team": "T017AGS2KE0",
+            "name": "aromelly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741939463.768349",
+        "parent_user_id": "U020QK16RMJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ckNYK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U020QK16RMJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " si tu trouves je suis preneuse. J'ai essayé par plusieurs moyens et j'ai pas réussi encore."
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "see_no_evil",
+                                "unicode": "1f648"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  Le seul tips valable qu'on m'ait donné c'est que tu accompagnes une boîte qui est elle même accompagnée par la BPI et que eux demande à la BPI de te référencer pr faire financer ton accompagnement . Et après c'est bingo :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1741946443.049099",
+        "client_msg_id": "b382284c-aa33-43f4-b6f1-55675c8d4070",
+        "text": "Pareil, ils m'ont dit qu'ils avaient assez de gens pour l moment et qu'ils reviendraient vers moi :slightly_smiling_face: je pense que <@U063Q1LA69W> fait partie des heureux élus ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741939463.768349",
+        "parent_user_id": "U020QK16RMJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5zCzX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pareil, ils m'ont dit qu'ils avaient assez de gens pour l moment et qu'ils reviendraient vers moi "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je pense que "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U063Q1LA69W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " fait partie des heureux élus ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063Q1LA69W",
+        "type": "message",
+        "ts": "1741967689.966269",
+        "client_msg_id": "bc7062b4-1b5c-40fe-bced-9bae179eb38a",
+        "text": "Hello\nYes, j’ai été référencé mais c’était en 2022 .. autre époque.\nAujourd’hui l’Accompagnement au global est en mutation et l’équipe Conseil (qui s’occupe du recrutement des consultants) revoit sa stratégie, les vannes sont donc fermées -&gt; et je ne sais pas pour cb de temps.\n\nPour entrer chez eux, il faut : soit avoir une expertise\/verticale très spécifique soit passer par une entreprise financée (cf message de Aude).\n\nUn point de contact détourné serait de vous diriger vers la partie Accélérateur et\/ou l’Université.\nIls recherchent encore des consultants pour des séminaires + interventions thématiques (si vous parlez d’IA I Efficience ou d’International ça aide). La rem est bonne et c’est globalement “facile”.\n\nJe les connais bien donc je peux faire une intro ! En revanche 3 d’un coup c’est un peu gros ^^",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "92164dc1a505",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-29\/6530542210935_92164dc1a50580eb3d38_72.jpg",
+            "first_name": "Jolhane",
+            "real_name": "Jolhane Leite",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "jolhaneleite",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741939463.768349",
+        "parent_user_id": "U020QK16RMJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lHpNo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello\nYes, j’ai été référencé mais c’était en 2022 .. autre époque.\nAujourd’hui l’Accompagnement au global est en mutation et l’équipe Conseil (qui s’occupe du recrutement des consultants) revoit sa stratégie, les vannes sont donc fermées -> et je ne sais pas pour cb de temps.\n\nPour entrer chez eux, il faut : soit avoir une expertise\/verticale très spécifique soit passer par une entreprise financée (cf message de Aude).\n\nUn point de contact détourné serait de vous diriger vers la partie Accélérateur et\/ou l’Université.\nIls recherchent encore des consultants pour des séminaires + interventions thématiques (si vous parlez d’IA I Efficience ou d’International ça aide). La rem est bonne et c’est globalement “facile”.\n\nJe les connais bien donc je peux faire une intro ! En revanche 3 d’un coup c’est un peu gros ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1741968623.527459",
+        "client_msg_id": "3026B73A-A0E1-425C-937F-9CD754E3C3A7",
+        "text": "Pas besoin pour moi j’essayais juste de faciliter ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741939463.768349",
+        "parent_user_id": "U020QK16RMJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z0AFU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pas besoin pour moi "
+                            },
+                            {
+                                "type": "text",
+                                "text": "j’essayais"
+                            },
+                            {
+                                "type": "text",
+                                "text": " juste de faciliter "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063Q1LA69W",
+        "type": "message",
+        "ts": "1741968666.080569",
+        "client_msg_id": "9A19FB85-C761-487A-BD87-3623D4A07CDC",
+        "text": "<@U02N2EVMFCG> je peux faire une MER par trimestre :rolling_on_the_floor_laughing: ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "92164dc1a505",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-29\/6530542210935_92164dc1a50580eb3d38_72.jpg",
+            "first_name": "Jolhane",
+            "real_name": "Jolhane Leite",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "jolhaneleite",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741939463.768349",
+        "parent_user_id": "U020QK16RMJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vr777",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02N2EVMFCG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je peux faire une MER par trimestre "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U022RFSKQQK",
+        "type": "message",
+        "ts": "1741968717.503269",
+        "client_msg_id": "54a8394e-855a-41d5-b636-220d5567bf6f",
+        "text": "Je suis deuze dans l'ordre d'apparition :) donc bien sûr <@U020QK16RMJ> a la prio! Intéressée pour avoir plus d'info sur la partie séminaire \/ université quand tu as un peu de temps :) \nEn tout cas félicitations d'y être entré!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "67fe59b92c78",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-01\/6569222233124_67fe59b92c782b5917b3_72.jpg",
+            "first_name": "Aude",
+            "real_name": "Aude Romelly",
+            "display_name": "Aude Romelly",
+            "team": "T017AGS2KE0",
+            "name": "aromelly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741939463.768349",
+        "parent_user_id": "U020QK16RMJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "boHti",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je suis deuze dans l'ordre d'apparition :) donc bien sûr "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U020QK16RMJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a la prio! Intéressée pour avoir plus d'info sur la partie séminaire \/ université quand tu as un peu de temps :) \nEn tout cas félicitations d'y être entré!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063Q1LA69W",
+        "type": "message",
+        "ts": "1741968825.965079",
+        "client_msg_id": "24C105E9-41DA-451E-B45A-2AEF11EF8DDB",
+        "text": "À dispo pour en parler semaine pro ou la suivante.\n\nEt j’ai pas de mérite c’est que du réseau (pas de secret) ^^",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "92164dc1a505",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-29\/6530542210935_92164dc1a50580eb3d38_72.jpg",
+            "first_name": "Jolhane",
+            "real_name": "Jolhane Leite",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "jolhaneleite",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741939463.768349",
+        "parent_user_id": "U020QK16RMJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "023h4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "À dispo pour en parler semaine pro ou la suivante.\n\nEt "
+                            },
+                            {
+                                "type": "text",
+                                "text": "j’ai"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pas de mérite "
+                            },
+                            {
+                                "type": "text",
+                                "text": "c’est"
+                            },
+                            {
+                                "type": "text",
+                                "text": " que du réseau (pas de secret) ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U022RFSKQQK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

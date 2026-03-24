@@ -1,0 +1,909 @@
+[
+    {
+        "user": "U059T4KRCUC",
+        "type": "message",
+        "ts": "1742893192.343729",
+        "client_msg_id": "e53d0b60-be73-4a44-9738-b97d88f76d92",
+        "text": "Ciao tout le monde ! La question du mardi : quelle est votre reco de website tools pour qu’une équipe marketing soit indépendante sans code ? J’ai Webflow en tête mais plutôt par legacy — avez-vous des nouveautés avec l’IA à me reco ? Et si vous avez un freelancer à me reco pour le montage du site, je prends aussi ! Happy Tuesday :yellow_heart:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "57639ff481aa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-29\/5337202241186_57639ff481aa2740f127_72.png",
+            "first_name": "Isa",
+            "real_name": "Isa",
+            "display_name": "Isa",
+            "team": "T017AGS2KE0",
+            "name": "ilejeune",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742893192.343729",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1742914476.495609",
+        "reply_users": [
+            "U084KTR7YKX",
+            "U059T4KRCUC",
+            "U055KSYA2AH"
+        ],
+        "replies": [
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1742896877.946209"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1742896905.875309"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1742896994.816859"
+            },
+            {
+                "user": "U059T4KRCUC",
+                "ts": "1742903534.453899"
+            },
+            {
+                "user": "U055KSYA2AH",
+                "ts": "1742914476.495609"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yDC9k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ciao tout le monde ! La question du mardi : quelle est votre reco de website tools pour qu’une équipe marketing soit indépendante sans code ? J’ai Webflow en tête mais plutôt par legacy — avez-vous des nouveautés avec l’IA à me reco ? Et si vous avez un freelancer à me reco pour le montage du site, je prends aussi ! Happy Tuesday "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "yellow_heart",
+                                "unicode": "1f49b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1742893328.771349",
+        "client_msg_id": "77cb2604-d7f3-4d8e-a71f-1d4439ea89f0",
+        "text": "en vrai webflow c'est fastoche",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yxe\/g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "en vrai webflow c'est fastoche"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U084KTR7YKX"
+                ],
+                "count": 1
+            },
+            {
+                "name": "green_heart",
+                "users": [
+                    "U059T4KRCUC",
+                    "U067VEJFT5F"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1742893338.362449",
+        "client_msg_id": "3770fe8d-bfdb-442e-b4f8-829f6064cb01",
+        "text": "et j'ai un super freelance :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742893338.362449",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1742903562.652119",
+        "reply_users": [
+            "U059T4KRCUC"
+        ],
+        "replies": [
+            {
+                "user": "U059T4KRCUC",
+                "ts": "1742903562.652119"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4+0jW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "et j'ai un super freelance "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04HP95GK55",
+        "type": "message",
+        "ts": "1742894043.574089",
+        "client_msg_id": "55959314-DE63-4FB2-8C76-1AD765271B3F",
+        "text": "Hello hello, j’aurais besoin de former ma content manager sur de la rédaction SEO très poussée. Vous auriez le contact d’un bon free qui fait ça svp ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c346c82c7f22",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-06\/6302019761282_c346c82c7f22a623d69d_72.jpg",
+            "first_name": "Raphael",
+            "real_name": "Raphael Dardek",
+            "display_name": "Raphael (Kyka)",
+            "team": "T017AGS2KE0",
+            "name": "rdardek",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742894043.574089",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1742896448.938589",
+        "reply_users": [
+            "U063A8VPPG9",
+            "U04HP95GK55"
+        ],
+        "replies": [
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1742894872.616819"
+            },
+            {
+                "user": "U04HP95GK55",
+                "ts": "1742896448.938589"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "svtNQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello hello, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "j’aurais"
+                            },
+                            {
+                                "type": "text",
+                                "text": " besoin de former ma content manager sur de la rédaction SEO très poussée. Vous auriez le contact "
+                            },
+                            {
+                                "type": "text",
+                                "text": "d’un"
+                            },
+                            {
+                                "type": "text",
+                                "text": " bon free qui fait ça svp ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1742894872.616819",
+        "edited": {
+            "user": "U063A8VPPG9",
+            "ts": "1742894880.000000"
+        },
+        "client_msg_id": "EBD39FEC-321A-4C6E-9C4F-8CB2D7110D08",
+        "text": "Victor Da Silva est top en SEO",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742894043.574089",
+        "parent_user_id": "U04HP95GK55",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ff8wW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Victor Da Silva est top en "
+                            },
+                            {
+                                "type": "text",
+                                "text": "SEO"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04HP95GK55",
+        "type": "message",
+        "ts": "1742896448.938589",
+        "client_msg_id": "352C017A-A5B4-4840-9993-D7FAF7827C47",
+        "text": "Merci :pray: ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c346c82c7f22",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-06\/6302019761282_c346c82c7f22a623d69d_72.jpg",
+            "first_name": "Raphael",
+            "real_name": "Raphael Dardek",
+            "display_name": "Raphael (Kyka)",
+            "team": "T017AGS2KE0",
+            "name": "rdardek",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742894043.574089",
+        "parent_user_id": "U04HP95GK55",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ieDhv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1742896877.946209",
+        "client_msg_id": "995da6ee-7e7e-453d-a23b-f567cffdf939",
+        "text": "<@U059T4KRCUC> j'ai <https:\/\/www.linkedin.com\/in\/gabriel-amzallag\/> qui était dans ma team website et connait webflow qui se met à son compte",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742893192.343729",
+        "parent_user_id": "U059T4KRCUC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hd57i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U059T4KRCUC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " j'ai "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/gabriel-amzallag\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " qui était dans ma team website et connait webflow qui se met à son compte"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "green_heart",
+                "users": [
+                    "U059T4KRCUC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1742896905.875309",
+        "client_msg_id": "6c650dd7-4470-47d5-8454-20f1fa9a9882",
+        "text": "pour des sujets pages features &amp; personae : SEO, CRO, PMM",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742893192.343729",
+        "parent_user_id": "U059T4KRCUC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wMlSS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pour des sujets pages features & personae : SEO, CRO, PMM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1742896994.816859",
+        "client_msg_id": "40c55a04-4d58-43f6-bc9d-50feb563a646",
+        "text": "et alignée avec Romain webflow c'est très bien.\npas forcément le plus poussé en SEO mais c'est vraiment si tu as des besoins très avancés de sous-slugs, etc...",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742893192.343729",
+        "parent_user_id": "U059T4KRCUC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vgat1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "et alignée avec Romain webflow c'est très bien.\npas forcément le plus poussé en SEO mais c'est vraiment si tu as des besoins très avancés de sous-slugs, etc..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U059T4KRCUC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U059T4KRCUC",
+        "type": "message",
+        "ts": "1742903534.453899",
+        "client_msg_id": "4580878d-1f41-4f8c-8d6f-203c9fe0a29e",
+        "text": "Super merci!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "57639ff481aa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-29\/5337202241186_57639ff481aa2740f127_72.png",
+            "first_name": "Isa",
+            "real_name": "Isa",
+            "display_name": "Isa",
+            "team": "T017AGS2KE0",
+            "name": "ilejeune",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742893192.343729",
+        "parent_user_id": "U059T4KRCUC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L8HQM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Super merci!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U059T4KRCUC",
+        "type": "message",
+        "ts": "1742903562.652119",
+        "client_msg_id": "cb4a47d2-65bc-49a1-8f59-1eee80f10451",
+        "text": "Preneuse!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "57639ff481aa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-29\/5337202241186_57639ff481aa2740f127_72.png",
+            "first_name": "Isa",
+            "real_name": "Isa",
+            "display_name": "Isa",
+            "team": "T017AGS2KE0",
+            "name": "ilejeune",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742893338.362449",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CxaK\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Preneuse!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U067VEJFT5F",
+        "type": "message",
+        "ts": "1742908682.114659",
+        "client_msg_id": "1dad5989-78e7-40d0-9c6f-9f04996eca70",
+        "text": "<@U016SBPG7K9> merci Thibaut : good point ! dans les deux cas on part de zero. Aucune compétence en la matière dans l'équipe",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9fcbd8d4bd09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-05\/6296382564371_9fcbd8d4bd095d25ab4c_72.jpg",
+            "first_name": "Amandine",
+            "real_name": "Amandine Moreau",
+            "display_name": "Amandine Moreau",
+            "team": "T017AGS2KE0",
+            "name": "a.gremont.pro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742806827.426949",
+        "parent_user_id": "U067VEJFT5F",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TrMfs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U016SBPG7K9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " merci Thibaut : good point ! dans les deux cas on part de zero. Aucune compétence en la matière dans l'équipe"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U055KSYA2AH",
+        "type": "message",
+        "ts": "1742914476.495609",
+        "client_msg_id": "2f6a7fe9-ef5d-4fb8-b163-bf267bccdb59",
+        "text": "Webflow. What else ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "77f967801b39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-02\/5198498072658_77f967801b39b2c56563_72.png",
+            "first_name": "Olivier",
+            "real_name": "Olivier Milcent",
+            "display_name": "Olivier Milcent (DeepReach)",
+            "team": "T017AGS2KE0",
+            "name": "omilcent",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742893192.343729",
+        "parent_user_id": "U059T4KRCUC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iTJr5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Webflow. What else ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sweat_smile",
+                "users": [
+                    "U059T4KRCUC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U055KSYA2AH",
+        "type": "message",
+        "ts": "1742932864.679539",
+        "client_msg_id": "f14d8b5f-6513-442d-ae9a-19ce1a27c1cb",
+        "text": "Hello, à tout hasard, qqun a t-il déjà une experience de campagne InstantLead sur TikTok ? Des retours sur la qualité des conversions ou autre XP à partager ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "77f967801b39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-02\/5198498072658_77f967801b39b2c56563_72.png",
+            "first_name": "Olivier",
+            "real_name": "Olivier Milcent",
+            "display_name": "Olivier Milcent (DeepReach)",
+            "team": "T017AGS2KE0",
+            "name": "omilcent",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742932864.679539",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1742934273.221079",
+        "reply_users": [
+            "U04HP95GK55",
+            "U055KSYA2AH"
+        ],
+        "replies": [
+            {
+                "user": "U04HP95GK55",
+                "ts": "1742933602.636099"
+            },
+            {
+                "user": "U055KSYA2AH",
+                "ts": "1742933796.606079"
+            },
+            {
+                "user": "U04HP95GK55",
+                "ts": "1742934273.221079"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "elhcY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, à tout hasard, qqun a t-il déjà une experience de campagne InstantLead sur TikTok ? Des retours sur la qualité des conversions ou autre XP à partager ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04HP95GK55",
+        "type": "message",
+        "ts": "1742933602.636099",
+        "client_msg_id": "5672B5A4-7755-46AF-B7B2-34F997997FDE",
+        "text": "Oui j’ai testé l’année dernière sur un petit budget. Tu as un bon accompagnement des acomptes managers, pas comme sur Meta. Pas top pour de la lead gen, plus adapté pour de la noto. Je pense que les choses vont rapidement changer sur ce média dans les prochains mois. ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c346c82c7f22",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-06\/6302019761282_c346c82c7f22a623d69d_72.jpg",
+            "first_name": "Raphael",
+            "real_name": "Raphael Dardek",
+            "display_name": "Raphael (Kyka)",
+            "team": "T017AGS2KE0",
+            "name": "rdardek",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742932864.679539",
+        "parent_user_id": "U055KSYA2AH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LcxVC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui "
+                            },
+                            {
+                                "type": "text",
+                                "text": "j’ai"
+                            },
+                            {
+                                "type": "text",
+                                "text": " testé l’année dernière sur un petit budget. Tu as un bon accompagnement des acomptes managers, pas comme sur Meta. Pas top pour de la lead gen, plus adapté pour de la noto. Je pense que les choses vont rapidement changer sur ce média dans les prochains mois. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U055KSYA2AH",
+        "type": "message",
+        "ts": "1742933796.606079",
+        "client_msg_id": "5998d25c-fbee-4d20-a38d-70e79b7c1c76",
+        "text": "<@U03CWQEAFLH> thanks mais InstantLead c’est un format vraiment drivé au CPL, comment ça se fait que tu aies un bon retour en noto et pas en lead, c’est bizarre :shushing_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "77f967801b39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-02\/5198498072658_77f967801b39b2c56563_72.png",
+            "first_name": "Olivier",
+            "real_name": "Olivier Milcent",
+            "display_name": "Olivier Milcent (DeepReach)",
+            "team": "T017AGS2KE0",
+            "name": "omilcent",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742932864.679539",
+        "parent_user_id": "U055KSYA2AH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C2C77",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CWQEAFLH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thanks mais InstantLead c’est un format vraiment drivé au CPL, comment ça se fait que tu aies un bon retour en noto et pas en lead, c’est bizarre "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "shushing_face",
+                                "unicode": "1f92b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04HP95GK55",
+        "type": "message",
+        "ts": "1742934273.221079",
+        "client_msg_id": "7398745D-B811-471B-9BD2-2809F647B578",
+        "text": "Je n’ai pas eu de bonnes perf sur les campagnes Instantlead. L’ AM nous expliquait qu’actuellement TikTok était plus adapté pour des campagnes de noto ou si on voulait faire des leads, il fallait aussi mettre un bon budget noto… ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c346c82c7f22",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-06\/6302019761282_c346c82c7f22a623d69d_72.jpg",
+            "first_name": "Raphael",
+            "real_name": "Raphael Dardek",
+            "display_name": "Raphael (Kyka)",
+            "team": "T017AGS2KE0",
+            "name": "rdardek",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742932864.679539",
+        "parent_user_id": "U055KSYA2AH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MO5cT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je n’ai pas eu de bonnes perf sur les campagnes Instantlead. L’ AM nous expliquait "
+                            },
+                            {
+                                "type": "text",
+                                "text": "qu’actuellement"
+                            },
+                            {
+                                "type": "text",
+                                "text": " TikTok était plus adapté pour des campagnes de noto ou si on voulait faire des leads, il fallait aussi mettre un bon budget noto"
+                            },
+                            {
+                                "type": "text",
+                                "text": "…"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U055KSYA2AH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

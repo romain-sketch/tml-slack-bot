@@ -1,0 +1,67 @@
+[
+    {
+        "user": "U01789XN2UV",
+        "type": "message",
+        "ts": "1749124772.790309",
+        "client_msg_id": "2188dc4c-8e04-406b-9790-41c82b400d28",
+        "text": "*Baisse traffic AdWords*\nAvez-vous remarqué une baisse assez notable du volume de traffic envoyé depuis AdWords depuis une ou deux semaines ?\nJe l'ai remarqué sur deux comptes qui ne sont pas du tout dans le même domaine :thinking_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "dc904393dfdd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-01-27\/8347075988438_dc904393dfdd624e2705_72.jpg",
+            "first_name": "Adrien",
+            "real_name": "Adrien Plat",
+            "display_name": "Adrien Plat",
+            "team": "T017AGS2KE0",
+            "name": "adrien",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749124772.790309",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1749209086.392819",
+        "reply_users": [
+            "U069NSTHZ3Q"
+        ],
+        "replies": [
+            {
+                "user": "U069NSTHZ3Q",
+                "ts": "1749209086.392819"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4j9Q+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Baisse traffic AdWords",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nAvez-vous remarqué une baisse assez notable du volume de traffic envoyé depuis AdWords depuis une ou deux semaines ?\nJe l'ai remarqué sur deux comptes qui ne sont pas du tout dans le même domaine "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face",
+                                "unicode": "1f914"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

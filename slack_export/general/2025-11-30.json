@@ -1,0 +1,656 @@
+[
+    {
+        "user": "U06TF9YAWEM",
+        "type": "message",
+        "ts": "1764574361.237839",
+        "client_msg_id": "30DADCB2-AE5F-4736-90D4-C76081E2806F",
+        "text": "Merci pour le partage ! ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "bd18243d01f9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-04-13\/8768953549904_bd18243d01f97fe02075_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Lhermitte",
+            "display_name": "Marie Lhermitte (Lucca)",
+            "team": "T017AGS2KE0",
+            "name": "marie.lhermitte78",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764264774.923319",
+        "parent_user_id": "U020QK16RMJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0UF1q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci pour le partage ! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1764575278.299119",
+        "edited": {
+            "user": "U063A8VPPG9",
+            "ts": "1765296739.000000"
+        },
+        "client_msg_id": "0d8130b9-0907-4b96-9604-0994315faa88",
+        "text": "Hello la team\n\nPour ceux qui sont passés à côté, suite aux posts de <@U08HF5YQM6G> et moi même sur nos ruptures de période d'essai, avec <@U04SM1RGPJB>, on a décidé d'organiser un gouter\/apéro spécial \"*ragots*\" !!!\n\nPas de slide, pas de marketing, juste des échanges et des rigolades\n(et du champagne pour <@U078PFP7A4B> et moi)) !\n\nRDV jeudi 11\/12 à 18h ici <https:\/\/www.tripadvisor.fr\/Restaurant_Review-g187147-d1899096-Reviews-Le_Huitieme_Arrt-Paris_Ile_de_France.html>!\n\nOn a rien réservé pour le moment, mais si on est nombreux, on appelera pour être sur d'avoir une table.\n\nXoxo (oui oui je me suis prise pour Gossip Girl) !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764575278.299119",
+        "reply_count": 30,
+        "reply_users_count": 19,
+        "latest_reply": "1765471969.087749",
+        "reply_users": [
+            "U04SM1RGPJB",
+            "U06CZESF7QF",
+            "U092PH1F2CA",
+            "U078PFP7A4B",
+            "U08HF5YQM6G",
+            "U056DAY3YD8",
+            "U055KSYA2AH",
+            "U08SA22HS0J",
+            "U08M0JP81DK",
+            "U06MLNEGNKB",
+            "U0183AS3MB6",
+            "U017RAZCAGZ",
+            "U07MNBM4WLV",
+            "U07PEP71X4Y",
+            "U04TU0UA2R1",
+            "U03CY07UZJM",
+            "U063A8VPPG9",
+            "U04L04T475K",
+            "U06E3PY5LAY"
+        ],
+        "replies": [
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1764575343.838419"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1764575408.992559"
+            },
+            {
+                "user": "U092PH1F2CA",
+                "ts": "1764575427.031189"
+            },
+            {
+                "user": "U078PFP7A4B",
+                "ts": "1764575474.822199"
+            },
+            {
+                "user": "U08HF5YQM6G",
+                "ts": "1764575526.624969"
+            },
+            {
+                "user": "U056DAY3YD8",
+                "ts": "1764575781.545229"
+            },
+            {
+                "user": "U055KSYA2AH",
+                "ts": "1764577402.401329"
+            },
+            {
+                "user": "U08SA22HS0J",
+                "ts": "1764578145.593019"
+            },
+            {
+                "user": "U08M0JP81DK",
+                "ts": "1764580694.270639"
+            },
+            {
+                "user": "U06MLNEGNKB",
+                "ts": "1764582708.412949"
+            },
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1764586309.599919"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1764595813.604259"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1764595819.449209"
+            },
+            {
+                "user": "U017RAZCAGZ",
+                "ts": "1764599545.241169"
+            },
+            {
+                "user": "U07MNBM4WLV",
+                "ts": "1764603299.310589"
+            },
+            {
+                "user": "U07PEP71X4Y",
+                "ts": "1764671631.581789"
+            },
+            {
+                "user": "U04TU0UA2R1",
+                "ts": "1764680350.679239"
+            },
+            {
+                "user": "U03CY07UZJM",
+                "ts": "1764798388.180669"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1765276739.855379"
+            },
+            {
+                "user": "U04L04T475K",
+                "ts": "1765277925.448219"
+            },
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1765279162.810769"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1765282728.110819"
+            },
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1765282750.113439"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1765299364.632619"
+            },
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1765299431.851639"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1765299494.337979"
+            },
+            {
+                "user": "U06E3PY5LAY",
+                "ts": "1765385349.587229"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1765385702.825599"
+            },
+            {
+                "user": "U04L04T475K",
+                "ts": "1765468964.261079"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1765471969.087749"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.tripadvisor.fr\/Restaurant_Review-g187147-d1899096-Reviews-Le_Huitieme_Arrt-Paris_Ile_de_France.html",
+                "image_url": "https:\/\/media-cdn.tripadvisor.com\/media\/photo-w\/2e\/92\/aa\/7c\/caption.jpg",
+                "image_width": 1024,
+                "image_height": 1365,
+                "image_bytes": 346536,
+                "service_icon": "https:\/\/static.tacdn.com\/assets\/s\/12951248.png",
+                "id": 1,
+                "original_url": "https:\/\/www.tripadvisor.fr\/Restaurant_Review-g187147-d1899096-Reviews-Le_Huitieme_Arrt-Paris_Ile_de_France.html",
+                "fallback": "Tripadvisor: LE HUITIEME ARRT, Paris - Quartier de l'Europe - Menu, Prix, Restaurant Avis &amp; Réservations - Tripadvisor",
+                "text": "Réserver une table Le Huitieme Arrt, Paris sur Tripadvisor : consultez 70 avis sur Le Huitieme Arrt, noté 4.1 sur 5 sur Tripadvisor et classé #4 438 sur 16 232 restaurants à Paris.",
+                "title": "LE HUITIEME ARRT, Paris - Quartier de l'Europe - Menu, Prix, Restaurant Avis &amp; Réservations - Tripadvisor",
+                "title_link": "https:\/\/www.tripadvisor.fr\/Restaurant_Review-g187147-d1899096-Reviews-Le_Huitieme_Arrt-Paris_Ile_de_France.html",
+                "service_name": "Tripadvisor"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DSP47",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello la team\n\nPour ceux qui sont passés à côté, suite aux posts de "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08HF5YQM6G"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et moi même sur nos ruptures de période d'essai, avec "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04SM1RGPJB"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", on a décidé d'organiser un gouter\/apéro spécial \""
+                            },
+                            {
+                                "type": "text",
+                                "text": "ragots",
+                                "style": {
+                                    "bold": true,
+                                    "underline": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\" !!!\n\nPas de slide, pas de marketing, juste des échanges et des rigolades\n(et du champagne pour "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U078PFP7A4B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et moi)) !\n\nRDV jeudi 11\/12 à 18h ici "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.tripadvisor.fr\/Restaurant_Review-g187147-d1899096-Reviews-Le_Huitieme_Arrt-Paris_Ile_de_France.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!\n\nOn a rien réservé pour le moment, mais si on est nombreux, on appelera pour être sur d'avoir une table.\n\nXoxo (oui oui je me suis prise pour Gossip Girl) !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U08HF5YQM6G",
+                    "U04SM1RGPJB",
+                    "U06CZESF7QF",
+                    "U078PFP7A4B",
+                    "U0182J18ULQ",
+                    "U056DAY3YD8",
+                    "U092PH1F2CA",
+                    "U03QPMQA31V",
+                    "U04A6JMRWCS",
+                    "U09JE6QUZDZ",
+                    "U0177A5V42F",
+                    "U07R7CUFM7H",
+                    "U03P99RGMTN",
+                    "U07MNBM4WLV",
+                    "U06DYTRDLUD",
+                    "U017CURDPB5"
+                ],
+                "count": 16
+            },
+            {
+                "name": "weary",
+                "users": [
+                    "U06CZESF7QF",
+                    "U04L35Y9D08",
+                    "U07D08K3U0K",
+                    "U017H09S857",
+                    "U08SA22HS0J",
+                    "U07MNBM4WLV",
+                    "U08554C4R7C"
+                ],
+                "count": 7
+            },
+            {
+                "name": "right_anger_bubble",
+                "users": [
+                    "U02N2EVMFCG"
+                ],
+                "count": 1
+            },
+            {
+                "name": "smiling_imp",
+                "users": [
+                    "U04SM1RGPJB",
+                    "U06MLNEGNKB",
+                    "U092PH1F2CA",
+                    "U07PEP71X4Y",
+                    "U056DAY3YD8",
+                    "U08HF5YQM6G",
+                    "U08M0JP81DK",
+                    "U063A8VPPG9"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1764575343.838419",
+        "client_msg_id": "4e120c2f-a9e8-40c2-8d94-7f30faeaf518",
+        "text": "ça va être THE soirée",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764575278.299119",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1yTWB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ça va être THE soirée"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart_hands",
+                "users": [
+                    "U063A8VPPG9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1764575408.992559",
+        "client_msg_id": "2308789a-4a07-4c05-97db-ccdaf3c64899",
+        "text": "Le fomo s’intensifie !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764575278.299119",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tPxrJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le fomo s’intensifie !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U063A8VPPG9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U092PH1F2CA",
+        "type": "message",
+        "ts": "1764575427.031189",
+        "client_msg_id": "dad59c75-a9c7-42be-8c59-fa0f00e53ea8",
+        "text": "I'm in!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9a39d2d117ff",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-23\/9092853310756_9a39d2d117ffed6b6a7d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Diard",
+            "display_name": "Alexandre Diard (ex PeopleSpheres)",
+            "team": "T017AGS2KE0",
+            "name": "diard.alexandre",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764575278.299119",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8l1BR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm in!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart_hands",
+                "users": [
+                    "U063A8VPPG9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1764575474.822199",
+        "client_msg_id": "4F5B35B2-D2F4-4ED2-957E-11E8C613A0DC",
+        "text": "Hâte ! :champagne:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764575278.299119",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PtT86",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hâte ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "champagne",
+                                "unicode": "1f37e"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart_hands",
+                "users": [
+                    "U063A8VPPG9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U08HF5YQM6G",
+        "type": "message",
+        "ts": "1764575526.624969",
+        "client_msg_id": "BA51E6B9-9B3F-41FA-A9A4-F0445590C4B5",
+        "text": "Yessss :heart_hands:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "dc5afdcdc051",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-28\/10418814050592_dc5afdcdc0516abb4cac_72.jpg",
+            "first_name": "Roy",
+            "real_name": "Roy Brockmann",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "roy.brockmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764575278.299119",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8dMoA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yessss "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_hands",
+                                "unicode": "1faf6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart_hands",
+                "users": [
+                    "U063A8VPPG9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U056DAY3YD8",
+        "type": "message",
+        "ts": "1764575781.545229",
+        "client_msg_id": "EE8F0A36-051F-4B17-B813-AE5CDC6AFEAE",
+        "text": "Chaud !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "1497d32a4908",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-16\/6043403579731_1497d32a4908ee3b80b5_72.png",
+            "first_name": "Alexis",
+            "real_name": "Alexis Chevallier",
+            "display_name": "Alexis Chevallier (Part-Time CMO)",
+            "team": "T017AGS2KE0",
+            "name": "alexchvllr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764575278.299119",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZwVPW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Chaud !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart_hands",
+                "users": [
+                    "U063A8VPPG9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

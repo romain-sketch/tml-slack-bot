@@ -1,0 +1,259 @@
+[
+    {
+        "user": "U06DYTRDLUD",
+        "type": "message",
+        "ts": "1741594400.803219",
+        "edited": {
+            "user": "U06DYTRDLUD",
+            "ts": "1741594412.000000"
+        },
+        "client_msg_id": "3b5af7e2-3945-41f8-935b-bc9c96623698",
+        "text": "Salut les TML, rapide rappel que j'organise un retex en visio sur alignement Sales x Marketing ce vendredi à 11h30. Je vous partage l'invitation si vous voulez :pray:\nBonne semaine à tous",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901f49789864",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-17\/6483135134229_901f4978986494a521e4_72.jpg",
+            "first_name": "Flora",
+            "real_name": "Flora Wolfer",
+            "display_name": "Flora Wolfer (Payplug)",
+            "team": "T017AGS2KE0",
+            "name": "fwolfer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3wG2l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salut les TML, rapide rappel que j'organise un retex en visio sur alignement Sales x Marketing ce vendredi à 11h30. Je vous partage l'invitation si vous voulez "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nBonne semaine à tous"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U020QK16RMJ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U08EN5GRYCC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U020QK16RMJ",
+        "type": "message",
+        "ts": "1741610394.588129",
+        "client_msg_id": "bdaad688-c0d2-4727-b2b2-c597102c12c5",
+        "text": "<mailto:joel@rampupconsulting.fr|joel@rampupconsulting.fr>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "56d8a678e801",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-18\/7292097443269_56d8a678e801350db84a_72.png",
+            "first_name": "Joël",
+            "real_name": "Joël Gaudeul",
+            "display_name": "Joël (Swan)",
+            "team": "T017AGS2KE0",
+            "name": "joel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741011937.270369",
+        "parent_user_id": "U06DYTRDLUD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8hUfD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:joel@rampupconsulting.fr",
+                                "text": "joel@rampupconsulting.fr"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06DYTRDLUD",
+        "type": "message",
+        "ts": "1741613315.763169",
+        "client_msg_id": "2b0ed2ac-a960-4d2a-bd50-bd81ae45683d",
+        "text": "Joel, j'ai déjà mis ton email Swan, tu veux aussi celui ci ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901f49789864",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-17\/6483135134229_901f4978986494a521e4_72.jpg",
+            "first_name": "Flora",
+            "real_name": "Flora Wolfer",
+            "display_name": "Flora Wolfer (Payplug)",
+            "team": "T017AGS2KE0",
+            "name": "fwolfer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741011937.270369",
+        "parent_user_id": "U06DYTRDLUD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BKyhv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Joel, j'ai déjà mis ton email Swan, tu veux aussi celui ci ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U067GNGDATD",
+        "type": "message",
+        "ts": "1741620356.167339",
+        "client_msg_id": "f0d8a307-eaba-4a08-8913-14b4bfe1a920",
+        "text": "<mailto:adiard@peoplespheres.com|adiard@peoplespheres.com>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "gd73dcdb62f7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d73dcdb62f793ad670516a42032e3fa5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Diard",
+            "display_name": "Old Account \/ Do not use",
+            "team": "T017AGS2KE0",
+            "name": "adiard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741011937.270369",
+        "parent_user_id": "U06DYTRDLUD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i9+zo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:adiard@peoplespheres.com",
+                                "text": "adiard@peoplespheres.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06DYTRDLUD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U08554C4R7C",
+        "type": "message",
+        "ts": "1741624319.366259",
+        "client_msg_id": "8dfcfce6-dbd8-4cdc-8538-fbc2ee8d0ca7",
+        "text": "<mailto:pauline.fumeron@lifen.fr|pauline.fumeron@lifen.fr> merciiii :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9c992809fd1f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8164113933223_9c992809fd1f2d731c79_72.jpg",
+            "first_name": "Pauline",
+            "real_name": "Pauline Fumeron (Lifen)",
+            "display_name": "Pauline (Lifen)",
+            "team": "T017AGS2KE0",
+            "name": "pfumeron",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741011937.270369",
+        "parent_user_id": "U06DYTRDLUD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fVoLG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:pauline.fumeron@lifen.fr",
+                                "text": "pauline.fumeron@lifen.fr"
+                            },
+                            {
+                                "type": "text",
+                                "text": " merciiii "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06DYTRDLUD"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

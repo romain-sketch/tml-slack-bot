@@ -1,0 +1,394 @@
+[
+    {
+        "user": "U059T4KRCUC",
+        "type": "message",
+        "ts": "1760710844.268659",
+        "client_msg_id": "b7ba7980-f1ac-41c3-9b88-7afdc76d0b89",
+        "text": ":wave: Hello\n Je suis Isa, CMO chez *Joko,* on est une boîte *B2B2C* qui aide les consommateurs à mieux shopper (cashback, codes promo, comparateur…), et on développe aujourd’hui notre *pôle B2B* pour renforcer nos partenariats avec les marques et e-commerçants (nous avons 12 personnes en B2C Marketing mais qu'une personne en B2B Marketing).\nOn est en train d’*évaluer le scope pour un second profil senior (et futur lead B2B Marketing)* côté B2B, et je serais ravie d’avoir vos *retours ou conseils* sur la façon dont vous avez structuré vos équipes marketing \/ sales à un stade similaire.\n:point_right: *Organisation actuelle :*\n• 1 junior qui gère *la stratégie content, LinkedIn, la newsletter B2B et la préparation des events*\n• Une équipe *Sales &amp; Account Management* dédiée à l’acquisition et la rétention de marchands mais côté commercial\n*Mes questions:*\n• Comment vous avez *structuré vos fonctions B2B Marketing* dans une petite équipe en croissance? \n• Et si vous avez des exemples d’*orga cible à 2–3 ans* pour ce type de setup\nVos retours d’expérience ou org charts m’aideraient beaucoup :pray:\nRavie de faire un call pr partage d'xp avec certains aussi\nMerci d’avance et bon vendredi :heart_hands:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "57639ff481aa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-29\/5337202241186_57639ff481aa2740f127_72.png",
+            "first_name": "Isa",
+            "real_name": "Isa",
+            "display_name": "Isa",
+            "team": "T017AGS2KE0",
+            "name": "ilejeune",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760710844.268659",
+        "reply_count": 8,
+        "reply_users_count": 5,
+        "latest_reply": "1762523764.964809",
+        "reply_users": [
+            "U0859A8P14K",
+            "U059T4KRCUC",
+            "U017H09S857",
+            "U020QK16RMJ",
+            "U06MHCCLQG3"
+        ],
+        "replies": [
+            {
+                "user": "U0859A8P14K",
+                "ts": "1760717370.691899"
+            },
+            {
+                "user": "U059T4KRCUC",
+                "ts": "1760719090.571839"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1761061802.088139"
+            },
+            {
+                "user": "U020QK16RMJ",
+                "ts": "1761118976.815829"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1761126730.604019"
+            },
+            {
+                "user": "U059T4KRCUC",
+                "ts": "1761722251.193709"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1761723942.210529"
+            },
+            {
+                "user": "U06MHCCLQG3",
+                "ts": "1762523764.964809"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cWP+Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hello\n Je suis Isa, CMO chez "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Joko,",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " on est une boîte "
+                            },
+                            {
+                                "type": "text",
+                                "text": "B2B2C",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " qui aide les consommateurs à mieux shopper (cashback, codes promo, comparateur…), et on développe aujourd’hui notre "
+                            },
+                            {
+                                "type": "text",
+                                "text": "pôle B2B",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour renforcer nos partenariats avec les marques et e-commerçants (nous avons 12 personnes en B2C Marketing mais qu'une personne en B2B Marketing).\nOn est en train d’"
+                            },
+                            {
+                                "type": "text",
+                                "text": "évaluer le scope pour un second profil senior (et futur lead B2B Marketing)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " côté B2B, et je serais ravie d’avoir vos "
+                            },
+                            {
+                                "type": "text",
+                                "text": "retours ou conseils",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " sur la façon dont vous avez structuré vos équipes marketing \/ sales à un stade similaire.\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_right",
+                                "unicode": "1f449",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Organisation actuelle :",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "1 junior qui gère "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "la stratégie content, LinkedIn, la newsletter B2B et la préparation des events",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Une équipe "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Sales & Account Management",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " dédiée à l’acquisition et la rétention de marchands mais côté commercial"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mes questions:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Comment vous avez "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "structuré vos fonctions B2B Marketing",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " dans une petite équipe en croissance? "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Et si vous avez des exemples d’"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "orga cible à 2–3 ans",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " pour ce type de setup"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Vos retours d’expérience ou org charts m’aideraient beaucoup "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nRavie de faire un call pr partage d'xp avec certains aussi\nMerci d’avance et bon vendredi "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_hands",
+                                "unicode": "1faf6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0859A8P14K",
+        "type": "message",
+        "ts": "1760717370.691899",
+        "client_msg_id": "7F133B0B-77BC-49A0-9652-8655F562C865",
+        "text": "Bonjour Isa! Dans ma start\/scale up précédente B2B on avait une personne content (messaging, livre blancs, Linked in voice , prise de paroles sur events …) , une personne acquisition digitale (qui mixait tactiques growth, optimisation du CRM , ads..), une personne product marketing . Et après des stagiaires ou apprentis en dessous … aux heures de gloire on a eu un poste events\/ public affairs mais probablement pas pertinent ici et sinon Channel marketing \/ partenariats peut être très intéressant à staffer :) au plaisir d’échanger !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "de9373c86530",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8178910826725_de9373c86530dc48c9e8_72.png",
+            "first_name": "Alexandra",
+            "real_name": "Alexandra Lougovoy",
+            "display_name": "Alexandra Lougovoy (Eudonet)",
+            "team": "T017AGS2KE0",
+            "name": "a.lougovoy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760710844.268659",
+        "parent_user_id": "U059T4KRCUC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4L3QC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour Isa! Dans ma start\/scale up précédente B2B on avait une personne content (messaging, livre blancs, Linked in voice , prise de paroles sur events …) , une personne acquisition digitale (qui mixait tactiques growth, optimisation du CRM , ads..), une personne product marketing . Et après des stagiaires ou apprentis en dessous … aux heures de gloire on a eu un poste events\/ public affairs mais probablement pas pertinent ici et sinon Channel marketing \/ partenariats peut être très intéressant à staffer :) au "
+                            },
+                            {
+                                "type": "text",
+                                "text": "plaisir "
+                            },
+                            {
+                                "type": "text",
+                                "text": "d’échanger !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "green_heart",
+                "users": [
+                    "U059T4KRCUC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U059T4KRCUC",
+        "type": "message",
+        "ts": "1760719090.571839",
+        "client_msg_id": "4603ae79-d063-440f-9d62-83cf674a289c",
+        "text": "Super interesting thank you Alex!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "57639ff481aa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-29\/5337202241186_57639ff481aa2740f127_72.png",
+            "first_name": "Isa",
+            "real_name": "Isa",
+            "display_name": "Isa",
+            "team": "T017AGS2KE0",
+            "name": "ilejeune",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760710844.268659",
+        "parent_user_id": "U059T4KRCUC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iC8V7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Super interesting thank you Alex!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

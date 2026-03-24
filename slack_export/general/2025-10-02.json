@@ -1,0 +1,845 @@
+[
+    {
+        "subtype": "thread_broadcast",
+        "user": "U017H09S857",
+        "thread_ts": "1757496166.772069",
+        "root": {
+            "user": "U017H09S857",
+            "type": "message",
+            "ts": "1757496166.772069",
+            "client_msg_id": "526e27c0-a6f8-4b3b-80b3-aadaa5b91545",
+            "text": "*<!channel> Networking breakfast* :coffee:\nCa fait un moment qu'on n'a pas eu de moment networking !\nJe peux recevoir chez Alan le *mardi 7\/10*\nQui serait partant ?\nEst ce qu'il y a un sujet dont vous aimeriez parler (présentation, retours d'expérience...?",
+            "team": "T017AGS2KE0",
+            "thread_ts": "1757496166.772069",
+            "reply_count": 24,
+            "reply_users_count": 12,
+            "latest_reply": "1759839047.532219",
+            "reply_users": [
+                "U03P99RGMTN",
+                "U08V1NE4BUJ",
+                "U017H09S857",
+                "U084KTR7YKX",
+                "U06DYTRDLUD",
+                "U032T5N7UTY",
+                "U017RAZCAGZ",
+                "U07PEP71X4Y",
+                "U08M0JP81DK",
+                "U07MNBM4WLV",
+                "U06M6E5M524",
+                "U01T6U402V8"
+            ],
+            "replies": [
+                {
+                    "user": "U03P99RGMTN",
+                    "ts": "1757497406.743089"
+                },
+                {
+                    "user": "U08V1NE4BUJ",
+                    "ts": "1757527082.916819"
+                },
+                {
+                    "user": "U017H09S857",
+                    "ts": "1757624684.451409"
+                },
+                {
+                    "user": "U08V1NE4BUJ",
+                    "ts": "1757663015.314869"
+                },
+                {
+                    "user": "U084KTR7YKX",
+                    "ts": "1757922134.054489"
+                },
+                {
+                    "user": "U06DYTRDLUD",
+                    "ts": "1757924473.209139"
+                },
+                {
+                    "user": "U032T5N7UTY",
+                    "ts": "1758613361.149829"
+                },
+                {
+                    "user": "U017H09S857",
+                    "ts": "1758886557.908709"
+                },
+                {
+                    "user": "U017RAZCAGZ",
+                    "ts": "1759235149.433829"
+                },
+                {
+                    "user": "U017H09S857",
+                    "ts": "1759236897.933149"
+                },
+                {
+                    "user": "U017H09S857",
+                    "ts": "1759236928.282609"
+                },
+                {
+                    "user": "U06DYTRDLUD",
+                    "ts": "1759239726.623079"
+                },
+                {
+                    "user": "U017H09S857",
+                    "ts": "1759392452.990579"
+                },
+                {
+                    "user": "U07PEP71X4Y",
+                    "ts": "1759408696.376989"
+                },
+                {
+                    "user": "U017H09S857",
+                    "ts": "1759411533.512629"
+                },
+                {
+                    "user": "U08M0JP81DK",
+                    "ts": "1759414370.720909"
+                },
+                {
+                    "user": "U07PEP71X4Y",
+                    "ts": "1759414672.750139"
+                },
+                {
+                    "user": "U017H09S857",
+                    "ts": "1759416747.500669"
+                },
+                {
+                    "user": "U07MNBM4WLV",
+                    "ts": "1759419027.214819"
+                },
+                {
+                    "user": "U017H09S857",
+                    "ts": "1759422180.851989"
+                },
+                {
+                    "user": "U06M6E5M524",
+                    "ts": "1759436922.585249"
+                },
+                {
+                    "user": "U017RAZCAGZ",
+                    "ts": "1759503045.740199"
+                },
+                {
+                    "user": "U017H09S857",
+                    "ts": "1759766489.909409"
+                },
+                {
+                    "user": "U01T6U402V8",
+                    "ts": "1759839047.532219"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "xVjAH",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "broadcast",
+                                    "range": "channel",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " Networking breakfast ",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "coffee",
+                                    "unicode": "2615",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nCa fait un moment qu'on n'a pas eu de moment networking !\nJe peux recevoir chez Alan le "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "mardi 7\/10",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nQui serait partant ?\nEst ce qu'il y a un sujet dont vous aimeriez parler (présentation, retours d'expérience...?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1759392452.990579",
+        "client_msg_id": "83eefc0c-f419-4af9-8b5d-6d52ad4c7292",
+        "text": "Hello, on sera une vingtaine mardi prochain :tada: S'il y a un changement de programme et si vous ne pouvez plus venir, pouvez vous refuser l'invitation Google Calendar comme ça je peux ajuster la logistique? :green_heart:\n\n*Rdv à partir de 8h15 chez Alan, 117 quai de Valmy.* \n• Pour plus de simplicité, ne prenez pas l'entrée principale mais la porte en haut de la petite allée qui monte (entrée B)\n• 8e étage\n*Programme*\n• 8h15-9h: petit dej \n• 9-10h: contenu\n    ◦ REX stratégie d'influence (Flora) + sponsoring, mass media (si Maxime est toujours partant)\n    ◦ discussion libre sur la construction du budget 2026\n• Si vous avez des questions spécifiques sur ces sujets, n'hésitez pas à les partager en amont du petit dej!",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gr7cN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, on sera une vingtaine mardi prochain "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada",
+                                "unicode": "1f389"
+                            },
+                            {
+                                "type": "text",
+                                "text": " S'il y a un changement de programme et si vous ne pouvez plus venir, pouvez vous refuser l'invitation Google Calendar comme ça je peux ajuster la logistique? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "green_heart",
+                                "unicode": "1f49a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Rdv à partir de 8h15 chez Alan, 117 quai de Valmy. ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Pour plus de simplicité, ne prenez pas l'entrée principale mais la porte en haut de la petite allée qui monte (entrée B)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "8e étage"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Programme",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "8h15-9h: petit dej "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "9-10h: contenu"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "REX stratégie d'influence (Flora) + sponsoring, mass media (si Maxime est toujours partant)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "discussion libre sur la construction du budget 2026"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Si vous avez des questions spécifiques sur ces sujets, n'hésitez pas à les partager en amont du petit dej!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "green_heart",
+                "users": [
+                    "U06DYTRDLUD",
+                    "U063A8VPPG9",
+                    "U03P99RGMTN",
+                    "U02N2EVMFCG",
+                    "U032T5N7UTY",
+                    "U06TF9YAWEM",
+                    "U06E3PY5LAY",
+                    "U08HF5YQM6G",
+                    "U06EN9X790C",
+                    "U092PH1F2CA"
+                ],
+                "count": 10
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U032T5N7UTY",
+                    "U06TF9YAWEM",
+                    "U06EN9X790C"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U07PEP71X4Y",
+        "type": "message",
+        "ts": "1759408696.376989",
+        "client_msg_id": "fee6ede5-7e40-4aea-942c-5a5cafd87736",
+        "text": "Bonjour <@U017H09S857> j'ai vu tardivement le fil car je suis en plein GTM d'un nouveau produit chez nous, si pas trop tard j'aimerais beaucoup me joindre à vous, sinon la prochaine fois, merci :blush:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "03ee4bf9d742",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-26\/7782829511830_03ee4bf9d74231490efd_72.png",
+            "first_name": "Elena",
+            "real_name": "Elena Souiller-Fedorenkova",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "elenafed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757496166.772069",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U9RVR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U017H09S857"
+                            },
+                            {
+                                "type": "text",
+                                "text": " j'ai vu tardivement le fil car je suis en plein GTM d'un nouveau produit chez nous, si pas trop tard j'aimerais beaucoup me joindre à vous, sinon la prochaine fois, merci "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "green_heart",
+                "users": [
+                    "U0859A8P14K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1759411533.512629",
+        "edited": {
+            "user": "U017H09S857",
+            "ts": "1759411584.000000"
+        },
+        "client_msg_id": "5e7248b7-1545-496c-b231-8fe6bb9ec4fa",
+        "text": "bien sûr <@U07PEP71X4Y> il n'est pas trop tard\njusqu'au dernier moment, vous pouvez décider de venir ! acceptez\/refusez juste l'invit GCalendar que je puisse suivre le nb de personnes présentes!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757496166.772069",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H797v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "bien sûr "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07PEP71X4Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": " il n'est pas trop tard\njusqu'au dernier moment, vous pouvez décider de venir ! acceptez\/refusez juste l'invit GCalendar que je puisse suivre le nb de personnes présentes!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08M0JP81DK",
+        "type": "message",
+        "ts": "1759414370.720909",
+        "client_msg_id": "2C9D4191-0C3F-4FFC-B505-B84237BAD293",
+        "text": "Je viens de refuser à contrecœur, démarrage mission parttime un peu sportif! La prochaine fois avec plaisir! Merci <@U017H09S857> ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "f8f282c0f1ce",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-04-07\/8720578468499_f8f282c0f1cedcfe5323_72.png",
+            "first_name": "Pierre",
+            "real_name": "Pierre Osdoit-Patrigeon",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "pierre.osdoit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757496166.772069",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tsrN5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je viens de refuser à contrecœur, démarrage mission parttime un peu sportif! La prochaine fois avec plaisir! Merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U017H09S857"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07PEP71X4Y",
+        "type": "message",
+        "ts": "1759414672.750139",
+        "client_msg_id": "1400331e-99a3-4492-8584-bd356a2ff8d0",
+        "text": "Je n'ai pas l'invitation malheureusement, je dois être enregistrée ici avec <mailto:elenafed@gmail.com|elenafed@gmail.com>, sinon <mailto:elena.souiller-fedorenkova@knave.eu|elena.souiller-fedorenkova@knave.eu>, merci :blush:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "03ee4bf9d742",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-26\/7782829511830_03ee4bf9d74231490efd_72.png",
+            "first_name": "Elena",
+            "real_name": "Elena Souiller-Fedorenkova",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "elenafed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757496166.772069",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nbRPD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je n'ai pas l'invitation malheureusement, je dois être enregistrée ici avec "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:elenafed@gmail.com",
+                                "text": "elenafed@gmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", sinon "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:elena.souiller-fedorenkova@knave.eu",
+                                "text": "elena.souiller-fedorenkova@knave.eu",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": ", merci "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U017H09S857"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U07PEP71X4Y"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1759416747.500669",
+        "client_msg_id": "343cfad3-d19c-4cea-a452-6b62adcff2b7",
+        "text": "bon courage <@U08M0JP81DK>!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757496166.772069",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8VW3U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "bon courage "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08M0JP81DK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U08M0JP81DK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U07MNBM4WLV",
+        "type": "message",
+        "ts": "1759419027.214819",
+        "client_msg_id": "e31df1fe-fa64-4266-8a38-3fcf862a1e03",
+        "text": "Hello Aurélie,\n\nÇa tombe du coup le mm jour que notre afterwork clients et je ne peux pas faire les deux (sinon mon mari m'étripe, surtout en plein déménagement).\nMerci pour l'invitation :smiling_face_with_tear:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "028ce63b55be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7733128030774_028ce63b55be29945d4f_72.jpg",
+            "first_name": "Domitille",
+            "real_name": "Domitille de Saint-Exupéry",
+            "display_name": "Domitille de Saint-Exupéry (lemlist)",
+            "team": "T017AGS2KE0",
+            "name": "domitille433",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757496166.772069",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kZPzS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Aurélie,\n\nÇa tombe du coup le mm jour que notre afterwork clients et je ne peux pas faire les deux (sinon mon mari m'étripe, surtout en plein déménagement).\nMerci pour l'invitation "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_tear",
+                                "unicode": "1f972"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1759422180.851989",
+        "client_msg_id": "603b8183-9efe-4682-b27b-3f01e5680b55",
+        "text": "Normal <@U07MNBM4WLV>\nOn peut se faire un dej côté canal St Martin un de ces jours cela dit!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757496166.772069",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6dqvR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Normal "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07MNBM4WLV"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nOn peut se faire un dej côté canal St Martin un de ces jours cela dit!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U07MNBM4WLV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06M6E5M524",
+        "type": "message",
+        "ts": "1759436922.585249",
+        "edited": {
+            "user": "U06M6E5M524",
+            "ts": "1759508245.000000"
+        },
+        "client_msg_id": "77D6C1B1-905D-4F21-B845-42189367BB91",
+        "text": "Bonsoir <@U017H09S857> ,\nJe ne vais finalement pas pouvoir me joindre à vous car je viens de commencer un nouveau job cette semaine qui me prend déjà beaucoup de temps..",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e6878c6cdff3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-01\/8130211077744_e6878c6cdff3ca4586b1_72.jpg",
+            "first_name": "Thibault",
+            "real_name": "Thibault Delebarre",
+            "display_name": "Thibault Delebarre",
+            "team": "T017AGS2KE0",
+            "name": "thibault.delebarre",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757496166.772069",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZiKDO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonsoir "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U017H09S857"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ,\nJe ne vais finalement pas pouvoir me joindre à vous car je viens de commencer "
+                            },
+                            {
+                                "type": "text",
+                                "text": "un nouveau job "
+                            },
+                            {
+                                "type": "text",
+                                "text": "cette semaine qui me prend déjà beaucoup de temps.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U017H09S857"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

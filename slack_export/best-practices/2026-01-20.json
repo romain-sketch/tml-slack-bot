@@ -1,0 +1,204 @@
+[
+    {
+        "user": "U0A0QG03DLN",
+        "type": "message",
+        "ts": "1768901867.968389",
+        "client_msg_id": "9d6e8b97-f664-4a1f-84f5-be521e64391d",
+        "text": "hello Guillaume, en plus de la désano de trafic suggérée par Matthieu et Tania, tu peux également tracker dans ton CRM les conversions issues de pages ou de keywords spécifiques -&gt; ça te permettrait de voir le volume et la qualité des leads collectés pour comprendre s'ils correspondent à ton ICP. De ce j'ai constaté chez Eskimoz, l'investissement en SEO permet de booster tous les types de trafic, ce qui permet à terme d'augmenter l'awareness et d'améliorer les taux de réponse \/ de conversion sur tes autres canaux",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b968d96b48d4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-12-01\/10056348127568_b968d96b48d4a3ee8664_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Courbin",
+            "display_name": "Alexandre Courbin",
+            "team": "T017AGS2KE0",
+            "name": "alexandre.courbin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1768555473.621539",
+        "parent_user_id": "U0A11HFGA31",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bPnCq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello Guillaume, en plus de la désano de trafic suggérée par Matthieu et Tania, tu peux également tracker dans ton CRM les conversions issues de pages ou de keywords spécifiques -> ça te permettrait de voir le volume et la qualité des leads collectés pour comprendre s'ils correspondent à ton ICP. De ce j'ai constaté chez Eskimoz, l'investissement en SEO permet de booster tous les types de trafic, ce qui permet à terme d'augmenter l'awareness et d'améliorer les taux de réponse \/ de conversion sur tes autres canaux"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U09BVQYR1GA",
+        "type": "message",
+        "ts": "1768902351.299269",
+        "client_msg_id": "dd9c5fb3-69a3-47f4-86c5-052677c0e1db",
+        "text": "je les ai presque tous utilisés et cela depend du marché dont tu as besoin la data et ton techstack existant. Je suppose que dans ton cas c'est le marché français uniquement non ?\nHubspot\/Clearbit +\n• Leadfeeder\/dealfront en EU. Si tu as Hubspot ils ont une feature qui va de mieux en mieux mais pas à l'hauteur de dealfront.\n• Les archis connus  R2B, Demandbase mais juste pour les US ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0ee28ebc77d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-09-09\/9480262349955_0ee28ebc77d7f64eb0e1_72.png",
+            "first_name": "Tania",
+            "real_name": "Tania",
+            "display_name": "Tania",
+            "team": "T017AGS2KE0",
+            "name": "tsaezgrowth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1768555473.621539",
+        "parent_user_id": "U0A11HFGA31",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n31GZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je les ai presque tous utilisés et cela depend du marché dont tu as besoin la data et ton techstack existant. Je suppose que dans ton cas c'est le marché français uniquement non ?\nHubspot\/Clearbit +\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Leadfeeder\/dealfront en EU. Si tu as Hubspot ils ont une feature qui va de mieux en mieux mais pas à l'hauteur de dealfront."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Les archis connus  R2B, Demandbase mais juste pour les US "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0A11HFGA31",
+        "type": "message",
+        "ts": "1768902650.918959",
+        "client_msg_id": "1AACCB67-81FA-4D70-ABE6-DCBE7A53A687",
+        "text": "Merci a tous les 2. <@U09BVQYR1GA> : yes c’est France a 90% pour le moment et on a matomo \/wordpress \/ hubspot",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7e865350c03c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-02-19\/10540347829202_7e865350c03cb51c24eb_72.jpg",
+            "first_name": "Guillaume",
+            "real_name": "Guillaume Djourabtchi (Advens Cybersecurity)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "gdjourabtchi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1768555473.621539",
+        "parent_user_id": "U0A11HFGA31",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MDoOB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci a tous les 2"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U09BVQYR1GA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : yes c’est France a 90% pour le moment et on a matomo \/wordpress \/ hubspot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U09BVQYR1GA",
+        "type": "message",
+        "ts": "1768902741.704169",
+        "client_msg_id": "95acdcb5-fdcf-474b-8555-2cb5b61736df",
+        "text": "dans ce cas-là je testerai hubspot deaononimation feature et je la testerai contre dealfront",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0ee28ebc77d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-09-09\/9480262349955_0ee28ebc77d7f64eb0e1_72.png",
+            "first_name": "Tania",
+            "real_name": "Tania",
+            "display_name": "Tania",
+            "team": "T017AGS2KE0",
+            "name": "tsaezgrowth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1768555473.621539",
+        "parent_user_id": "U0A11HFGA31",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LHeMG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "dans ce cas-là je testerai hubspot deaononimation feature et je la testerai contre dealfront"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

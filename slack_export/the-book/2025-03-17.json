@@ -1,0 +1,219 @@
+[
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1742215650.338329",
+        "client_msg_id": "1c5318f0-3ff1-4efd-b973-0dc5fe91dbe2",
+        "text": "Hi,\nPour info dans le cadre de la promo du livre :\nPris de parole lors de *All4Customer Paris 2025 ( 1, 2 et 3 avril 2025*) en *plénière le 2 avril  dans le Grand Amphithéâtre (10h45 – 11h15)*\n*Agir avec impact : startups, licornes, ONG, Académies &amp; Fondations, les agents du changement du marketing*\n Avec :\n• *Maxime Cousin*, Directeur Général - Forbes 30 Under 30 - OSOL\n• *Erika Léger*, Directrice du Campus et Communautés – Paris – Terra Academia - Veolia\n• *Geoffrey Vion*, Co-Auteur et VP Marketing, *\"Quand les startups et les licornes réinventent le marketing\"*\n• *Cécile Delettre*, Responsable des conférences plénières Marketing, Digital et Communication\nLe livre sera mis en vente sur site",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742215650.338329",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1744114393.299779",
+        "reply_users": [
+            "U017H09S857"
+        ],
+        "replies": [
+            {
+                "user": "U017H09S857",
+                "ts": "1744114393.299779"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fACuv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi,\nPour info dans le cadre de la promo du livre :\nPris de parole lors de "
+                            },
+                            {
+                                "type": "text",
+                                "text": "All4Customer Paris 2025 ( 1, 2 et 3 avril 2025",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ") en "
+                            },
+                            {
+                                "type": "text",
+                                "text": "plénière le 2 avril  dans le Grand Amphithéâtre (10h45 – 11h15)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Agir avec impact : startups, licornes, ONG, Académies & Fondations, les agents du changement du marketing",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n Avec :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Maxime Cousin",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", Directeur Général - Forbes 30 Under 30 - OSOL"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Erika Léger",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", Directrice du Campus et Communautés – Paris – Terra Academia - Veolia"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Geoffrey Vion",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", Co-Auteur et VP Marketing, "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "\"Quand les startups et les licornes réinventent le marketing\"",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Cécile Delettre",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", Responsable des conférences plénières Marketing, Digital et Communication"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le livre sera mis en vente sur site"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02N2EVMFCG",
+                    "U063A8VPPG9",
+                    "U042GV737MX",
+                    "U017CURDPB5",
+                    "U06LENY5V6Z",
+                    "U017RAZCAGZ",
+                    "U03CY07UZJM",
+                    "U065DFPCQMP",
+                    "U08EN5T6F4L",
+                    "U02MZTE8GCF"
+                ],
+                "count": 10
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U063A8VPPG9",
+                    "U017H09S857",
+                    "U017RAZCAGZ",
+                    "U03P99RGMTN"
+                ],
+                "count": 4
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U065DFPCQMP",
+                    "U08HF5YQM6G"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U084LQF8023"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

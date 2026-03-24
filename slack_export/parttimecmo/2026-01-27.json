@@ -1,0 +1,126 @@
+[
+    {
+        "user": "U065DFPCQMP",
+        "type": "message",
+        "ts": "1769506645.945109",
+        "client_msg_id": "F0132408-6E38-4C0C-9166-D8FC78AE3C89",
+        "text": "<@U02N2EVMFCG> intro LinkedIn ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50040e0261e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-15\/6198553206674_50040e0261e7ba62e840_72.jpg",
+            "first_name": "Gaelle",
+            "real_name": "Gaelle Le Goff",
+            "display_name": "Gaelle Le Goff",
+            "team": "T017AGS2KE0",
+            "name": "gaelle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769254325.753589",
+        "parent_user_id": "U065DFPCQMP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YUvDr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02N2EVMFCG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " intro LinkedIn "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U02N2EVMFCG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U065DFPCQMP",
+        "type": "message",
+        "ts": "1769549402.163369",
+        "edited": {
+            "user": "U065DFPCQMP",
+            "ts": "1769549527.000000"
+        },
+        "client_msg_id": "4D6AF132-AD13-4D4B-81EC-AFF5A8C64F21",
+        "text": "Optimisation frais pro \/ perso \nLe type de conseil qu'on ne trouve pas partout et que les comptables oublient de clarifier \n\n<https:\/\/www.dougs.fr\/outils-simulation\/?utm_source=youtube&utm_medium=social&utm_campaign=content_yt_dougs&utm_content=1xf93_oOrKc_charge_deductibles|https:\/\/www.dougs.fr\/outils-simulation\/?utm_source=youtube&utm_medium=social&utm_campaign=content_yt_dougs&utm_content=1xf93_oOrKc_charge_deductibles>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50040e0261e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-15\/6198553206674_50040e0261e7ba62e840_72.jpg",
+            "first_name": "Gaelle",
+            "real_name": "Gaelle Le Goff",
+            "display_name": "Gaelle Le Goff",
+            "team": "T017AGS2KE0",
+            "name": "gaelle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.dougs.fr\/outils-simulation\/?utm_source=youtube&utm_medium=social&utm_campaign=content_yt_dougs&utm_content=1xf93_oOrKc_charge_deductibles",
+                "service_icon": "https:\/\/www.dougs.fr\/icons\/icon-48x48.png?v=4696337c0c04ce51d742fab920e7c437",
+                "thumb_url": "https:\/\/www.dougs.fr\/images\/dougs-social-share.jpg",
+                "thumb_width": 680,
+                "thumb_height": 355,
+                "id": 1,
+                "original_url": "https:\/\/www.dougs.fr\/outils-simulation\/?utm_source=youtube&amp;utm_medium=social&amp;utm_campaign=content_yt_dougs&amp;utm_content=1xf93_oOrKc_charge_deductibles",
+                "fallback": "Outils de simulation - Dougs Compta",
+                "text": "Découvrez nos outils pour vous aider dans vos décisions",
+                "title": "Outils de simulation - Dougs Compta",
+                "title_link": "https:\/\/www.dougs.fr\/outils-simulation\/?utm_source=youtube&utm_medium=social&utm_campaign=content_yt_dougs&utm_content=1xf93_oOrKc_charge_deductibles",
+                "service_name": "dougs.fr"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3ZVkx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Optimisation frais pro \/ perso \nLe type de conseil qu'on ne trouve pas partout et "
+                            },
+                            {
+                                "type": "text",
+                                "text": "que"
+                            },
+                            {
+                                "type": "text",
+                                "text": " les comptables oublient de clarifier \n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dougs.fr\/outils-simulation\/?utm_source=youtube&utm_medium=social&utm_campaign=content_yt_dougs&utm_content=1xf93_oOrKc_charge_deductibles",
+                                "text": "https:\/\/www.dougs.fr\/outils-simulation\/?utm_source=youtube&utm_medium=social&utm_campaign=content_yt_dougs&utm_content=1xf93_oOrKc_charge_deductibles"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

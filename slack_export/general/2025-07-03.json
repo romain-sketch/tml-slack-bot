@@ -1,0 +1,112 @@
+[
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1751526048.543129",
+        "client_msg_id": "542a4fa8-fa76-46a7-9d2f-f3cc1ea6ffd6",
+        "text": "C’était très sympa merci <@U0183AS3MB6>!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1747683303.608779",
+        "parent_user_id": "U0183AS3MB6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/QwZb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C’était très sympa merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0183AS3MB6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U0183AS3MB6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U092PH1F2CA",
+        "type": "message",
+        "ts": "1751526525.217879",
+        "client_msg_id": "3dfbee4e-670b-41c4-a92f-cf4002eeac9f",
+        "text": "<@U0183AS3MB6> Encore merci pour l'invitation et l'accueil, vous allez être bien la bas!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9a39d2d117ff",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-23\/9092853310756_9a39d2d117ffed6b6a7d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Diard",
+            "display_name": "Alexandre Diard (ex PeopleSpheres)",
+            "team": "T017AGS2KE0",
+            "name": "diard.alexandre",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1747683303.608779",
+        "parent_user_id": "U0183AS3MB6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IZPTK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0183AS3MB6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Encore merci pour l'invitation et l'accueil, vous allez être bien la bas!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U0183AS3MB6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

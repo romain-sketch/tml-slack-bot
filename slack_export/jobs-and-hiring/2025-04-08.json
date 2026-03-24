@@ -1,0 +1,67 @@
+[
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1744179489.580769",
+        "client_msg_id": "f1d6aeab-f245-4ea9-97a6-81cb563f20b4",
+        "text": "Que penses-tu d'<https:\/\/www.linkedin.com\/in\/pierot-eve-acquisition-growth\/|elle> ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744015651.249409",
+        "parent_user_id": "U042GV737MX",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/pierot-eve-acquisition-growth\/",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "thumb_url": "https:\/\/static.licdn.com\/scds\/common\/u\/images\/email\/artdeco\/logos\/96\/linkedin-bug-color.png",
+                "thumb_width": 96,
+                "thumb_height": 96,
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/pierot-eve-acquisition-growth\/",
+                "fallback": ":sparkles: Eve Piérot - INVIVOX | LinkedIn",
+                "text": "CMO | 14 years+ experience in digital marketing, specializing in startups and… · Expérience : INVIVOX · Formation : Euromed Marseille · Lieu : Paris · 500 relations ou plus sur LinkedIn. Consultez le profil de :sparkles: Eve Piérot sur LinkedIn, une communauté professionnelle d’un milliard de membres.",
+                "title": ":sparkles: Eve Piérot - INVIVOX | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/pierot-eve-acquisition-growth\/",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Iolyh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Que penses-tu d'"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/pierot-eve-acquisition-growth\/",
+                                "text": "elle"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

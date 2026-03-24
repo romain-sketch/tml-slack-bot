@@ -1,0 +1,808 @@
+[
+    {
+        "user": "U03P99RGMTN",
+        "type": "message",
+        "ts": "1744010511.418929",
+        "client_msg_id": "c77563e3-8ad3-475e-8078-255d08db99d1",
+        "text": "Merci David, j’ai partagé à notre directeur sécu, il va A-DO-RER :wink:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2f8b530bfffa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-28\/7656384027105_2f8b530bfffa39d455d3_72.png",
+            "first_name": "Julie",
+            "real_name": "Julie Asselin (365Talents)",
+            "display_name": "Julie Asselin (365Talents)",
+            "team": "T017AGS2KE0",
+            "name": "julie.asselin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744004384.543519",
+        "parent_user_id": "U017CURDPB5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gJkp8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci David, j’ai partagé à notre directeur sécu, il va A-DO-RER "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U056DAY3YD8",
+        "type": "message",
+        "ts": "1744030021.923919",
+        "client_msg_id": "fb2e454b-82d6-4878-bd9f-d65047913aad",
+        "text": "Bonjour à tous,\n\nJe me permets de vous solliciter sur un problème de déliverabilité que nous rencontrons actuellement chez Roundtable.\n\nOn a mis en place des séquences d'emails automatiques post-onboarding pour différents personas :\n• On a créé des adresses avec un domaine différent de notre domaine principal (`<http:\/\/getroundtable.eu|getroundtable.eu>` au lieu de `<http:\/\/roundtable.eu|roundtable.eu>`) pour protéger notre domaine principal\n• On a réchauffé ces adresses avec Lemwarm pendant plusieurs mois\n• Malgré les bons signaux de Lemwarm, nos séquences envoyées via HubSpot atterrissent dans les spams\n*Nos questions*\n1. Est-ce que cette approche avec un domaine séparé est pertinente ou vaut-il mieux utiliser notre domaine principal ?\n2. Est-ce que vous avez rencontré le même problème et avez-vous trouvé des solutions ?\n3. Avez-vous des recommandations spécifiques pour améliorer notre déliverabilité ?\nToute expérience ou conseil serait très apprécié !\n\nMerci d'avance pour votre aide ! :pray:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "1497d32a4908",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-16\/6043403579731_1497d32a4908ee3b80b5_72.png",
+            "first_name": "Alexis",
+            "real_name": "Alexis Chevallier",
+            "display_name": "Alexis Chevallier (Part-Time CMO)",
+            "team": "T017AGS2KE0",
+            "name": "alexchvllr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744030021.923919",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1744038817.656249",
+        "reply_users": [
+            "U0183AS3MB6",
+            "U04SM1RGPJB",
+            "U07MNBM4WLV",
+            "U056DAY3YD8"
+        ],
+        "replies": [
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1744033196.360479"
+            },
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1744033738.614239"
+            },
+            {
+                "user": "U07MNBM4WLV",
+                "ts": "1744035900.942379"
+            },
+            {
+                "user": "U056DAY3YD8",
+                "ts": "1744038023.800279"
+            },
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1744038705.163519"
+            },
+            {
+                "user": "U056DAY3YD8",
+                "ts": "1744038817.656249"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BmFSQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour à tous,\n\nJe me permets de vous solliciter sur un problème de déliverabilité que nous rencontrons actuellement chez Roundtable.\n\nOn a mis en place des séquences d'emails automatiques post-onboarding pour différents personas :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "On a créé des adresses avec un domaine différent de notre domaine principal ("
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "http:\/\/getroundtable.eu",
+                                        "text": "getroundtable.eu",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " au lieu de "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "http:\/\/roundtable.eu",
+                                        "text": "roundtable.eu",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ") pour protéger notre domaine principal"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "On a réchauffé ces adresses avec Lemwarm pendant plusieurs mois"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Malgré les bons signaux de Lemwarm, nos séquences envoyées via HubSpot atterrissent dans les spams"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Nos questions",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Est-ce que cette approche avec un domaine séparé est pertinente ou vaut-il mieux utiliser notre domaine principal ?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Est-ce que vous avez rencontré le même problème et avez-vous trouvé des solutions ?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Avez-vous des recommandations spécifiques pour améliorer notre déliverabilité ?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nToute expérience ou conseil serait très apprécié !\n\nMerci d'avance pour votre aide ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1744033167.705479",
+        "client_msg_id": "1d5facd2-c68b-4dd8-8168-5c1c381bc368",
+        "text": "Hey ! Nouveau ciblage dispo sur LinkedIn Ads : <https:\/\/www.linkedin.com\/smart-links\/AQHYAivI0cPLIQ\/32726cb1-e4e2-44a8-81d1-6ce42e244ab0>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/smart-links\/AQHYAivI0cPLIQ\/32726cb1-e4e2-44a8-81d1-6ce42e244ab0",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/bgsy6v435pgzegckur5tz0u2m",
+                "thumb_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/D5632AQHo6LVVcFxlJg\/sales-bundle-document-cover-images_1920\/B56ZXXsSXxGQA0-\/0\/1743080470961?e=1744639200&v=beta&t=bkiyoQjHxObGP5ahDQzo_kxEaLZhsw1RlAAj8JVPvkA",
+                "thumb_width": 1920,
+                "thumb_height": 1080,
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/smart-links\/AQHYAivI0cPLIQ\/32726cb1-e4e2-44a8-81d1-6ce42e244ab0",
+                "fallback": "Smart Links: Buyer Group - BETA",
+                "text": "Buyer Group - BETA shared by Mathilde DEGRUGILLIERS",
+                "title": "Buyer Group - BETA",
+                "title_link": "https:\/\/www.linkedin.com\/smart-links\/AQHYAivI0cPLIQ\/32726cb1-e4e2-44a8-81d1-6ce42e244ab0",
+                "service_name": "Smart Links"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5oyma",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey ! Nouveau ciblage dispo sur LinkedIn Ads : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/smart-links\/AQHYAivI0cPLIQ\/32726cb1-e4e2-44a8-81d1-6ce42e244ab0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U055KSYA2AH",
+                    "U017RAZCAGZ",
+                    "U06CZESF7QF",
+                    "U084KTR7YKX",
+                    "U04L35Y9D08",
+                    "U06LENY5V6Z"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1744033196.360479",
+        "client_msg_id": "73abaabf-7a38-40f5-8f2a-69a9a4e8ac55",
+        "text": "Avez-vous double check sur <https:\/\/glockapps.com\/|Glockapps> ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744030021.923919",
+        "parent_user_id": "U056DAY3YD8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/w4nP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Avez-vous double check sur "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/glockapps.com\/",
+                                "text": "Glockapps"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U056DAY3YD8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1744033738.614239",
+        "client_msg_id": "6d17800f-7619-4d45-aa6f-deea467df871",
+        "text": "On a pris l'habitude d'avoir 3\/5 noms de domaines qui tournent, et de les jeter au fur et à mesure hélas. Tu cibles du grand compte ou du smb\/mm ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744030021.923919",
+        "parent_user_id": "U056DAY3YD8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "knFDE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On a pris l'habitude d'avoir 3\/5 noms de domaines qui tournent, et de les jeter au fur et à mesure hélas. Tu cibles du grand compte ou du smb\/mm ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U056DAY3YD8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U08M0JP81DK",
+        "text": "<@U08M0JP81DK> has joined the channel",
+        "type": "message",
+        "ts": "1744034377.094039"
+    },
+    {
+        "text": "Hello <@U056DAY3YD8>\nJ'ai demandé à notre PM deliverabilité :wink:",
+        "files": [
+            {
+                "id": "F08M58WEEKE",
+                "created": 1744035880,
+                "timestamp": 1744035880,
+                "name": "Capture d’écran 2025-04-07 à 16.24.16.png",
+                "title": "Capture d’écran 2025-04-07 à 16.24.16.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U07MNBM4WLV",
+                "user_team": "T017AGS2KE0",
+                "editable": false,
+                "size": 454116,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F08M58WEEKE\/capture_d___e__cran_2025-04-07_a___16.24.16.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F08M58WEEKE\/download\/capture_d___e__cran_2025-04-07_a___16.24.16.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08M58WEEKE-531e631f02\/capture_d___e__cran_2025-04-07_a___16.24.16_64.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08M58WEEKE-531e631f02\/capture_d___e__cran_2025-04-07_a___16.24.16_80.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08M58WEEKE-531e631f02\/capture_d___e__cran_2025-04-07_a___16.24.16_360.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360_w": 360,
+                "thumb_360_h": 234,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08M58WEEKE-531e631f02\/capture_d___e__cran_2025-04-07_a___16.24.16_480.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_480_w": 480,
+                "thumb_480_h": 312,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08M58WEEKE-531e631f02\/capture_d___e__cran_2025-04-07_a___16.24.16_160.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08M58WEEKE-531e631f02\/capture_d___e__cran_2025-04-07_a___16.24.16_720.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720_w": 720,
+                "thumb_720_h": 467,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08M58WEEKE-531e631f02\/capture_d___e__cran_2025-04-07_a___16.24.16_800.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_800_w": 800,
+                "thumb_800_h": 519,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08M58WEEKE-531e631f02\/capture_d___e__cran_2025-04-07_a___16.24.16_960.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_960_w": 960,
+                "thumb_960_h": 623,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08M58WEEKE-531e631f02\/capture_d___e__cran_2025-04-07_a___16.24.16_1024.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 665,
+                "original_w": 2030,
+                "original_h": 1318,
+                "thumb_tiny": "AwAfADDQxg9qXcaR2VT8zAfU0zzI\/wDnon\/fVAEm72pd1R+ZHjO9f++hSiWID\/WJ+YoAfmgc0KVYZUgj1FLQBDLAkj5YZOKb9ji\/uj9amPJpeaLgVzaR8D096PsMVWMUc+tO4DYYxFGEByBT6KKQH\/\/Z",
+                "permalink": "https:\/\/techmarketingleaders.slack.com\/files\/U017U6M2G00\/F08M58WEEKE\/capture_d___e__cran_2025-04-07_a___16.24.16.png",
+                "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F08M58WEEKE-2e7911c10c",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U07MNBM4WLV",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CuOo0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U056DAY3YD8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nJ'ai demandé à notre PM deliverabilité "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1744035900.942379",
+        "client_msg_id": "0d0c2a36-2c9a-42d4-a743-0c429d525a34",
+        "thread_ts": "1744030021.923919",
+        "parent_user_id": "U056DAY3YD8",
+        "reactions": [
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "U020QK16RMJ",
+                    "U056DAY3YD8",
+                    "U016SBPG7K9"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U08EN5GRYCC",
+                    "U016SBPG7K9"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U01T6U402V8",
+        "type": "message",
+        "ts": "1744037038.001079",
+        "client_msg_id": "800b4a2b-506c-4080-8c5b-614f7c139e3e",
+        "text": "<@U01A4GMRRR9> ceux qui peuvent aider sur des actions “Geolocalisation” c’est “Locala” ou meme “Ermes” =&gt; ils travaillent surtout avec des marques pour du “online to offine” \/\/faire venir la cible qui est en fait a cote ou pas loin de la boutique dont les criteres sont ceux du personae ideal.\nje pense que tu peux utiliser leur data pour du B2B",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "1a396483c2d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-13\/1958483219154_1a396483c2d9cd7cccd3_72.jpg",
+            "first_name": "Simone",
+            "real_name": "Simone Sfeir (FrenchFounders)",
+            "display_name": "Simone Sfeir",
+            "team": "T017AGS2KE0",
+            "name": "simone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743768012.889189",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W7OP9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01A4GMRRR9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ceux qui peuvent aider sur des actions “Geolocalisation” c’est “Locala” ou meme “Ermes” => ils travaillent surtout avec des marques pour du “online to offine” \/\/faire venir la cible qui est en fait a cote ou pas loin de la boutique dont les criteres sont ceux du personae ideal.\nje pense que tu peux utiliser leur data pour du B2B"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U056DAY3YD8",
+        "type": "message",
+        "ts": "1744038023.800279",
+        "client_msg_id": "4621faae-2d6d-4bdf-af7a-f8cf2393258f",
+        "text": "Oh trop cool merci <@U07MNBM4WLV>!! et <@U04SM1RGPJB> et <@U0183AS3MB6> pour les tips ! :heart_eyes:\n<@U04SM1RGPJB> on cible principalement des founders dans nos séquences :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "1497d32a4908",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-16\/6043403579731_1497d32a4908ee3b80b5_72.png",
+            "first_name": "Alexis",
+            "real_name": "Alexis Chevallier",
+            "display_name": "Alexis Chevallier (Part-Time CMO)",
+            "team": "T017AGS2KE0",
+            "name": "alexchvllr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744030021.923919",
+        "parent_user_id": "U056DAY3YD8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "erXZ4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh trop cool merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07MNBM4WLV"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!! et "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04SM1RGPJB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0183AS3MB6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour les tips ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_eyes",
+                                "unicode": "1f60d"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04SM1RGPJB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on cible principalement des founders dans nos séquences "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1744038705.163519",
+        "client_msg_id": "6ad9dafc-fea9-42a3-bc84-394974a4db44",
+        "text": "oui donc pas des boites avec des anti spams sophistiqués, la base devrait suffire :wink:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744030021.923919",
+        "parent_user_id": "U056DAY3YD8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9tfO7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oui donc pas des boites avec des anti spams sophistiqués, la base devrait suffire "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U056DAY3YD8",
+        "type": "message",
+        "ts": "1744038817.656249",
+        "client_msg_id": "ea8ab80e-5bb2-4427-9069-7cec13d083e6",
+        "text": "Oui exactement !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "1497d32a4908",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-16\/6043403579731_1497d32a4908ee3b80b5_72.png",
+            "first_name": "Alexis",
+            "real_name": "Alexis Chevallier",
+            "display_name": "Alexis Chevallier (Part-Time CMO)",
+            "team": "T017AGS2KE0",
+            "name": "alexchvllr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744030021.923919",
+        "parent_user_id": "U056DAY3YD8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dzuho",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui exactement !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1744091902.515189",
+        "client_msg_id": "64FDD218-5B40-4EF0-9ECC-C0FD706DC256",
+        "text": "Merci ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743768012.889189",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ogiwq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

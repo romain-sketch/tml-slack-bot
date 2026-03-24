@@ -1,0 +1,404 @@
+[
+    {
+        "user": "U05H3SJKYFQ",
+        "type": "message",
+        "ts": "1745914923.089149",
+        "client_msg_id": "66d9be72-8ea0-494d-b465-6955d1ad4c20",
+        "text": "super intéressée par le sujet <@U06CZESF7QF> mais encore en cours de notre côté pour l'allemagne, pas encore une success story",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0931617f5e75",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-04\/5842709801061_0931617f5e75eee9f27b_72.jpg",
+            "first_name": "Raphaëlle",
+            "real_name": "Raphaëlle Béguinel - Malt",
+            "display_name": "Raphaëlle Béguinel - Malt",
+            "team": "T017AGS2KE0",
+            "name": "rbeguinel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745853908.011799",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ppmVl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "super intéressée par le sujet "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06CZESF7QF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " mais encore en cours de notre côté pour l'allemagne, pas encore une success story"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1745915261.339959",
+        "client_msg_id": "e7a297ae-70cd-4c67-bc14-9f4e79799b65",
+        "text": "Andrea a renvoyé vers Emeric et moi (donc ok :))",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745853908.011799",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t4GxO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Andrea a renvoyé vers Emeric et moi (donc ok :))"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1745915377.838019",
+        "client_msg_id": "01a7d93b-babc-4163-99c7-ad150548b09a",
+        "text": "<@U01MVJPEEH3> Ok pas de soucis merci beaucoup ! Tu es la bienvenue en tout cas si vous souhaitez vous y frotter bientôt :smile: . L’event sera le *17 Juin dans l’après midi chez Brevo* si jamais ca te dit :slightly_smiling_face:\n\n<@U05H3SJKYFQ> C’est noté merci ! Pareil tu es la bienvenue !!\n\n<@U04SM1RGPJB> Top :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745853908.011799",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FgheQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01MVJPEEH3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Ok pas de soucis merci beaucoup ! Tu es la bienvenue en tout cas si vous souhaitez vous y frotter bientôt "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            },
+                            {
+                                "type": "text",
+                                "text": " . L’event sera le "
+                            },
+                            {
+                                "type": "text",
+                                "text": "17 Juin dans l’après midi chez Brevo ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "si jamais ca te dit "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05H3SJKYFQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " C’est noté merci ! Pareil tu es la bienvenue !!\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04SM1RGPJB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Top "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0177A5V42F",
+        "type": "message",
+        "ts": "1745917188.441869",
+        "client_msg_id": "c51e649f-a6f7-4da6-8541-afa0488f04cf",
+        "text": "<@U06CZESF7QF>, je peux te faire une intro à <https:\/\/www.linkedin.com\/in\/celia-maury-90b85384\/|Célia> si ça t'intéresse. Sinon Docto est plutot un bon exemple il me semble <@U06TF9YAWEM>, <@U042GV737MX>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ebca9b04129",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-17\/1245815650949_7ebca9b041296679a81d_72.jpg",
+            "first_name": "Guillaume",
+            "real_name": "Guillaume Laguette",
+            "display_name": "Guillaume Laguette (echOpen)",
+            "team": "T017AGS2KE0",
+            "name": "laguette.guillaume",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745853908.011799",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "odhiF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06CZESF7QF"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", je peux te faire une intro à "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/celia-maury-90b85384\/",
+                                "text": "Célia"
+                            },
+                            {
+                                "type": "text",
+                                "text": " si ça t'intéresse. Sinon Docto est plutot un bon exemple il me semble "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06TF9YAWEM"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U042GV737MX"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06TF9YAWEM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1745917828.024159",
+        "client_msg_id": "ba01f4b7-e6ad-43d0-bbb1-18ec689ae542",
+        "text": "On organise l’event avec Brevo et ils ont contacté Docto normalement. Mais ca m’intéresse d’en discuter avec vous <@U06TF9YAWEM> <@U042GV737MX>!\n\n<@U0177A5V42F> Je te dis vite pour Célia.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745853908.011799",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Jqlp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On organise l’event avec Brevo et ils ont contacté Docto normalement. Mais ca m’intéresse d’en discuter avec vous "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06TF9YAWEM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U042GV737MX"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0177A5V42F"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Je te dis vite pour Célia."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0177A5V42F",
+                    "U06TF9YAWEM"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06TF9YAWEM",
+        "type": "message",
+        "ts": "1745945581.262779",
+        "client_msg_id": "959D6071-B3FF-4A62-9AC2-CA3209576D77",
+        "text": "Je suis off pour 10 jours mais si besoin <@U06CZESF7QF> je pourrais te mettre en contact avec mes contacts b2b DE à mon retour (mon homologue growth en Allemagne ou au global) .\nCote B2C, <@U042GV737MX> pourra t’aiguiller au mieux :) ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "bd18243d01f9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-04-13\/8768953549904_bd18243d01f97fe02075_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Lhermitte",
+            "display_name": "Marie Lhermitte (Lucca)",
+            "team": "T017AGS2KE0",
+            "name": "marie.lhermitte78",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745853908.011799",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wQkBh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je suis off pour 10 jours mais si besoin "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06CZESF7QF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "je p"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ourrais"
+                            },
+                            {
+                                "type": "text",
+                                "text": " te mettre en contact avec"
+                            },
+                            {
+                                "type": "text",
+                                "text": " mes contacts b2b DE à mon retour (mon homologue growth en Allemagne ou au global) .\nCote B2C, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U042GV737MX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pourra t’aiguiller au mieux :) "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

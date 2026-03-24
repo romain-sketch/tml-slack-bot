@@ -1,0 +1,46 @@
+[
+    {
+        "user": "U06EN9X790C",
+        "type": "message",
+        "ts": "1760777956.951969",
+        "client_msg_id": "34D7D07A-5ECC-4885-A2DF-B7D20E1AAB30",
+        "text": "<@U09JE6QUZDZ> merci! ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "bea7f170501a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-20\/6503634777459_bea7f170501a9dc7d1c3_72.jpg",
+            "first_name": "Chiraz",
+            "real_name": "Chiraz Hassen",
+            "display_name": "Chiraz",
+            "team": "T017AGS2KE0",
+            "name": "chiraz.hassen558",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760705912.130659",
+        "parent_user_id": "U06EN9X790C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JWmOG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U09JE6QUZDZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " merci! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

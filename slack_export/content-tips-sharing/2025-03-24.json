@@ -1,0 +1,110 @@
+[
+    {
+        "user": "U03P99RGMTN",
+        "type": "message",
+        "ts": "1742831842.854199",
+        "client_msg_id": "8d377727-a0db-4f5b-9285-7baa4c428516",
+        "text": "Si jamais vous cherchez un *monteur pour projet video*, je vous passe les coordonnées de Vincent avec qui j’ai travaillé et que je recommande:\nson CV vidéo : <https:\/\/player.vimeo.com\/video\/931276572?h=87d461bcf2>,\nLe portfolio <https:\/\/vimeopro.com\/agencegrandpublic\/vincent-schavsinski>.\net focus projet *Mesdames Média sur ce projet* : <https:\/\/mesdames.media\/par-thematique\/comment-je-me-suis-relevee\/>\nson email ici : <mailto:schavinz@gmail.com|schavinz@gmail.com>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2f8b530bfffa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-28\/7656384027105_2f8b530bfffa39d455d3_72.png",
+            "first_name": "Julie",
+            "real_name": "Julie Asselin (365Talents)",
+            "display_name": "Julie Asselin (365Talents)",
+            "team": "T017AGS2KE0",
+            "name": "julie.asselin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EagrV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si jamais vous cherchez un "
+                            },
+                            {
+                                "type": "text",
+                                "text": "monteur pour projet video",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", je vous passe les coordonnées de Vincent avec qui j’ai travaillé et que je recommande:\nson CV vidéo : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/player.vimeo.com\/video\/931276572?h=87d461bcf2"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\nLe portfolio "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/vimeopro.com\/agencegrandpublic\/vincent-schavsinski"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\net focus projet "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Mesdames Média sur ce projet ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ": "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/mesdames.media\/par-thematique\/comment-je-me-suis-relevee\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nson email ici : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:schavinz@gmail.com",
+                                "text": "schavinz@gmail.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U08EN5GRYCC",
+                    "U06CZESF7QF",
+                    "U063A8VPPG9",
+                    "U07MNBM4WLV"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U08K178SPUM",
+        "text": "<@U08K178SPUM> has joined the channel",
+        "type": "message",
+        "ts": "1742848700.073809"
+    }
+]

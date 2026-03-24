@@ -1,0 +1,82 @@
+[
+    {
+        "user": "U084LQF8023",
+        "type": "message",
+        "ts": "1740424072.428759",
+        "client_msg_id": "b0e6d13b-4f2b-4fe6-af0b-4958376bb5e3",
+        "text": "Bonjour à tous, ma question est un peu hors sujet pour la communauté, mais y a-t-il des clients de la plateforme DEGIRO dans le coin ? :slightly_smiling_face: Merci !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a70a92c39694",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-01-20\/8306570351351_a70a92c3969457259db9_72.jpg",
+            "first_name": "Cosmina",
+            "real_name": "Cosmina Trifan",
+            "display_name": "Cosmina Trifan",
+            "team": "T017AGS2KE0",
+            "name": "cosmi.trifan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740424072.428759",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1740471741.817629",
+        "reply_users": [
+            "U084KTR7YKX"
+        ],
+        "replies": [
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1740471741.817629"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sThOX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour à tous, ma question est un peu hors sujet pour la communauté, mais y a-t-il des clients de la plateforme DEGIRO dans le coin ? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Merci !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "x",
+                "users": [
+                    "U017RAZCAGZ",
+                    "U063Q1LA69W",
+                    "U063A8VPPG9",
+                    "U01A4GMRRR9",
+                    "U06M6E5M524",
+                    "U06MLNEGNKB",
+                    "U020QK16RMJ",
+                    "U06DYTRDLUD",
+                    "U054GRSQCTX",
+                    "U03P99RGMTN"
+                ],
+                "count": 10
+            }
+        ]
+    }
+]

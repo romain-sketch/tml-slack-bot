@@ -1,0 +1,330 @@
+[
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1740410245.663669",
+        "edited": {
+            "user": "U017H09S857",
+            "ts": "1740410318.000000"
+        },
+        "client_msg_id": "7bd15c49-0cf6-482b-b83b-43245b1db146",
+        "text": "*11\/03 -*  *Petit Dej France Digitale* \nHello <@U02N2EVMFCG> est ce que tu as plus d'infos sur le petit dej (déroulé, contenu, etc)? comme je suis en train de préparer différentes interventions sur AIxMarketing, ça m'arrange de mutualiser :wink:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740410245.663669",
+        "reply_count": 27,
+        "reply_users_count": 4,
+        "latest_reply": "1741933011.799659",
+        "reply_users": [
+            "U02N2EVMFCG",
+            "U017H09S857",
+            "U065DFPCQMP",
+            "U020QK16RMJ"
+        ],
+        "replies": [
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1740420092.203989"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1740424377.904479"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1740481575.205039"
+            },
+            {
+                "user": "U065DFPCQMP",
+                "ts": "1740514091.141959"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1740950829.598019"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1741264288.516859"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1741268515.734289"
+            },
+            {
+                "user": "U065DFPCQMP",
+                "ts": "1741268640.067239"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1741273102.668209"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1741273116.991429"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1741276192.404599"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1741276258.884569"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1741279127.192029"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1741279275.316849"
+            },
+            {
+                "user": "U065DFPCQMP",
+                "ts": "1741366727.028289"
+            },
+            {
+                "user": "U020QK16RMJ",
+                "ts": "1741610273.527119"
+            },
+            {
+                "user": "U020QK16RMJ",
+                "ts": "1741610277.539869"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1741626477.967879"
+            },
+            {
+                "user": "U065DFPCQMP",
+                "ts": "1741626644.733739"
+            },
+            {
+                "user": "U065DFPCQMP",
+                "ts": "1741626872.446839"
+            },
+            {
+                "user": "U020QK16RMJ",
+                "ts": "1741640468.442749"
+            },
+            {
+                "user": "U065DFPCQMP",
+                "ts": "1741696121.202689"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1741726996.154399"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1741813819.614519"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1741900125.657489"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1741900136.482829"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1741933011.799659"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ha64z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "11\/03 - ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Petit Dej France Digitale ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nHello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02N2EVMFCG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " est ce que tu as plus d'infos sur le petit dej (déroulé, contenu, etc)? comme je suis en train de préparer différentes interventions sur AIxMarketing, ça m'arrange de mutualiser "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U063Q1LA69W",
+                    "U063A8VPPG9",
+                    "U067VEJFT5F"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1740420092.203989",
+        "client_msg_id": "1A24DB06-5177-4998-9DCF-58F0BE8E0205",
+        "text": "Yes j’ai ça <https:\/\/tally.so\/r\/wbYd6Z|https:\/\/tally.so\/r\/wbYd6Z>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740410245.663669",
+        "parent_user_id": "U017H09S857",
+        "attachments": [
+            {
+                "image_url": "https:\/\/storage.tally.so\/6a25b34c-71e9-4913-9a16-4ce661fc0bb0\/Bann.png",
+                "image_width": 2487,
+                "image_height": 599,
+                "image_bytes": 75112,
+                "from_url": "https:\/\/tally.so\/r\/wbYd6Z",
+                "service_icon": "https:\/\/tally.so\/tally-square.png",
+                "id": 1,
+                "original_url": "https:\/\/tally.so\/r\/wbYd6Z",
+                "fallback": "Tally Forms: Cercle des CMO ft TechMarketingLeaders(11.03)",
+                "title": "Cercle des CMO ft TechMarketingLeaders(11.03)",
+                "title_link": "https:\/\/tally.so\/r\/wbYd6Z",
+                "service_name": "Tally Forms"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZWEeD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes "
+                            },
+                            {
+                                "type": "text",
+                                "text": "j’ai"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ça "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/tally.so\/r\/wbYd6Z",
+                                "text": "https:\/\/tally.so\/r\/wbYd6Z"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "green_heart",
+                "users": [
+                    "U017H09S857"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1740424377.904479",
+        "client_msg_id": "9F1BE67B-7F93-4E23-BE75-F1072AEE3654",
+        "text": "Ok du coup faut quand même qu’on se coordonne entre nous ;)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740410245.663669",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3xwPB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok du coup faut quand même"
+                            },
+                            {
+                                "type": "text",
+                                "text": " qu’on se coordonne entre nous ;)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,140 @@
+[
+    {
+        "user": "U07MNBM4WLV",
+        "type": "message",
+        "ts": "1758789674.327489",
+        "client_msg_id": "375a16e9-317f-4e24-a6cb-620ad7aa8c22",
+        "text": "Hello\nEst-ce que certains d'entre vous seront à cet event à tout hasard <https:\/\/luma.com\/ei8azr6t?tk=i1nZLk> ?\nComme ça on peut en profiter pour catchup :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "028ce63b55be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7733128030774_028ce63b55be29945d4f_72.jpg",
+            "first_name": "Domitille",
+            "real_name": "Domitille de Saint-Exupéry",
+            "display_name": "Domitille de Saint-Exupéry (lemlist)",
+            "team": "T017AGS2KE0",
+            "name": "domitille433",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1758789674.327489",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1758806329.858159",
+        "reply_users": [
+            "U084KTR7YKX"
+        ],
+        "replies": [
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1758806329.858159"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "image_url": "https:\/\/og.luma.com\/cdn-cgi\/image\/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=419\/api\/event-one?calendar_avatar=https%3A%2F%2Fimages.lumacdn.com%2Fcalendars%2F2y%2Fc824365c-6383-4074-8558-41711b263128&calendar_name=Hexa&color0=%23f4f4f4&color1=%23ebacd3&color2=%23f89586&color3=%232b2c2d&host_avatar=https%3A%2F%2Fimages.lumacdn.com%2Favatars%2Fyy%2F255c30ba-49b3-46a9-b61b-4d21bd0e1a9b&host_name=Hexa&img=https%3A%2F%2Fimages.lumacdn.com%2Fevent-covers%2Far%2F2478e1fe-7362-4cce-8fc9-f5598800e261.png&name=How%20lemlist%20broke%20through%20the%20%2415M%20ARR%20plateau",
+                "image_width": 800,
+                "image_height": 419,
+                "image_bytes": 23035,
+                "from_url": "https:\/\/luma.com\/ei8azr6t?tk=i1nZLk",
+                "service_icon": "https:\/\/luma.com\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/luma.com\/ei8azr6t?tk=i1nZLk",
+                "fallback": "How lemlist broke through the $15M ARR plateau · Luma",
+                "text": "EVENT IN FRENCH :fr:\n\nJoin us for this tactical PLG session, no fluff, just what actually worked (and what didn’t).\nLemlist hit a wall at $15M ARR. Product-led…",
+                "title": "How lemlist broke through the $15M ARR plateau · Luma",
+                "title_link": "https:\/\/luma.com\/ei8azr6t?tk=i1nZLk",
+                "service_name": "luma.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "arwL5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello\nEst-ce que certains d'entre vous seront à cet event à tout hasard "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/luma.com\/ei8azr6t?tk=i1nZLk"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ?\nComme ça on peut en profiter pour catchup "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "upside_down_face",
+                "users": [
+                    "U084KTR7YKX",
+                    "U09BVQYR1GA"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1758806329.858159",
+        "client_msg_id": "f0b10d6e-419d-42cf-b39b-6c124355e976",
+        "text": "not in Paris :disappointed:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1758789674.327489",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lylkS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "not in Paris "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed",
+                                "unicode": "1f61e"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

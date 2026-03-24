@@ -1,0 +1,219 @@
+[
+    {
+        "user": "U055KSYA2AH",
+        "type": "message",
+        "ts": "1760618028.466239",
+        "client_msg_id": "36ee15a1-4b46-4261-9b25-116add075a0a",
+        "text": "Hello, j’ai des recrutements assez seniors à faire prochainement. Je cherche des profils issus du monde martech\/adtech\/regies pubs\/agences media : qqun connait-il des cabinets de recrutement ou chasseurs freelance de talents vraiment spécialisés dans cette industrie ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "77f967801b39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-02\/5198498072658_77f967801b39b2c56563_72.png",
+            "first_name": "Olivier",
+            "real_name": "Olivier Milcent",
+            "display_name": "Olivier Milcent (DeepReach)",
+            "team": "T017AGS2KE0",
+            "name": "omilcent",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760618028.466239",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1760625804.443839",
+        "reply_users": [
+            "U01A4GMRRR9",
+            "U03CY07UZJM",
+            "U055KSYA2AH"
+        ],
+        "replies": [
+            {
+                "user": "U01A4GMRRR9",
+                "ts": "1760619509.503889"
+            },
+            {
+                "user": "U03CY07UZJM",
+                "ts": "1760621671.562269"
+            },
+            {
+                "user": "U055KSYA2AH",
+                "ts": "1760625804.443839"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pHNsI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, j’ai des recrutements assez seniors à faire prochainement. Je cherche des profils issus du monde martech\/adtech\/regies pubs\/agences media : qqun connait-il des cabinets de recrutement ou chasseurs freelance de talents vraiment spécialisés dans cette industrie ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1760619509.503889",
+        "client_msg_id": "9e36444b-5d30-40ca-8215-f90242b5972b",
+        "text": "<@U055KSYA2AH> <https:\/\/www.linkedin.com\/in\/edithzeller\/> est passé en Freelance.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760618028.466239",
+        "parent_user_id": "U055KSYA2AH",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/edithzeller\/",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/edithzeller\/",
+                "fallback": "Edith Zeller - https:\/\/www.instagram.com\/edithzellerparis\/ | LinkedIn",
+                "text": ":toolbox: Currently in Paris connecting top Executive Leaders and Interim Managers with top tech… · Expérience : <https:\/\/www.instagram.com\/edithzellerparis\/> · Formation : EDHEC Business School · Lieu : Paris · 500 relations ou plus sur LinkedIn. Consultez le profil de Edith Zeller sur LinkedIn, une communauté professionnelle d’un milliard de membres.",
+                "title": "Edith Zeller - https:\/\/www.instagram.com\/edithzellerparis\/ | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/edithzeller\/",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XVuv4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U055KSYA2AH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/edithzeller\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " est passé en Freelance."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03CY07UZJM",
+        "type": "message",
+        "ts": "1760621671.562269",
+        "client_msg_id": "121ddab6-e7ff-45fc-be02-90980681be96",
+        "text": "Tu cherches quoi comme poste ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "cf1b09b1a910",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-02\/6894190939717_cf1b09b1a910eb11be75_72.jpg",
+            "first_name": "Patrice",
+            "real_name": "Patrice Barbesier",
+            "display_name": "Patrice Barbesier",
+            "team": "T017AGS2KE0",
+            "name": "patrice.barbesier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760618028.466239",
+        "parent_user_id": "U055KSYA2AH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3KOVB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tu cherches quoi comme poste ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U055KSYA2AH",
+        "type": "message",
+        "ts": "1760625804.443839",
+        "client_msg_id": "e6ece691-bdb3-4dd4-8e37-0ddb8e108fb6",
+        "text": "Senior Sales",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "77f967801b39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-02\/5198498072658_77f967801b39b2c56563_72.png",
+            "first_name": "Olivier",
+            "real_name": "Olivier Milcent",
+            "display_name": "Olivier Milcent (DeepReach)",
+            "team": "T017AGS2KE0",
+            "name": "omilcent",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760618028.466239",
+        "parent_user_id": "U055KSYA2AH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rKALZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Senior Sales"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CY07UZJM"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

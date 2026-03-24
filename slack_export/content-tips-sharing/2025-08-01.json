@@ -1,0 +1,55 @@
+[
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1754043679.519969",
+        "client_msg_id": "80e84858-edaa-4cec-a2f3-f0320b30ab9f",
+        "text": "quelqu'un a des refs de freelancer content creation expert en anglais et sur l'univers du modern data stack?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1754043679.519969",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1754136011.405239",
+        "reply_users": [
+            "U06MHCCLQG3"
+        ],
+        "replies": [
+            {
+                "user": "U06MHCCLQG3",
+                "ts": "1754136011.405239"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jpb4j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "quelqu'un a des refs de freelancer content creation expert en anglais et sur l'univers du modern data stack?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

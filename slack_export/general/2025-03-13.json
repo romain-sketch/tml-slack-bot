@@ -1,0 +1,821 @@
+[
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1741855627.398329",
+        "client_msg_id": "41aea3a5-ea3f-4946-9125-c24bb9a42b21",
+        "text": "alors alors",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6rOMX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "alors alors"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1741855636.180589",
+        "client_msg_id": "6b229db3-3928-4697-9db1-763b9d45129f",
+        "text": "nul besoin de belles images aujourd'hui",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tp2f2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nul besoin de belles images aujourd'hui"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U01789XN2UV",
+                    "U07MNBM4WLV",
+                    "U078PFP7A4B",
+                    "U06CZESF7QF"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1741855651.439999",
+        "client_msg_id": "a682d165-2c34-47c2-808e-ba2cec346f73",
+        "text": "mais je cherche des exs de one pager d'enablement du GTM sur une industrie, ou un use case",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741855651.439999",
+        "reply_count": 9,
+        "reply_users_count": 4,
+        "latest_reply": "1741940484.974839",
+        "reply_users": [
+            "U04A6JMRWCS",
+            "U04SM1RGPJB",
+            "U069NSTHZ3Q",
+            "U017H09S857"
+        ],
+        "replies": [
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1741869336.753729"
+            },
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1741873128.999769"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1741873199.387529"
+            },
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1741873247.524759"
+            },
+            {
+                "user": "U069NSTHZ3Q",
+                "ts": "1741876214.471249"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1741876271.567899"
+            },
+            {
+                "user": "U069NSTHZ3Q",
+                "ts": "1741876459.698109"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1741899032.675779"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1741940484.974839"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UHeRA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mais je cherche des exs de one pager d'enablement du GTM sur une industrie, ou un use case"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07MNBM4WLV",
+        "type": "message",
+        "ts": "1741867327.775159",
+        "client_msg_id": "6037338f-11f6-402c-a621-89ffd694777c",
+        "text": "<@U04A6JMRWCS> Chief Entertaining Officer de TML",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "028ce63b55be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7733128030774_028ce63b55be29945d4f_72.jpg",
+            "first_name": "Domitille",
+            "real_name": "Domitille de Saint-Exupéry",
+            "display_name": "Domitille de Saint-Exupéry (lemlist)",
+            "team": "T017AGS2KE0",
+            "name": "domitille433",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tOTi5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04A6JMRWCS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Chief Entertaining Officer de TML"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "flushed",
+                "users": [
+                    "U04A6JMRWCS"
+                ],
+                "count": 1
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U07LN85V6TG",
+                    "U017H09S857",
+                    "U06DYTRDLUD"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U04A6JMRWCS",
+        "thread_ts": "1741855651.439999",
+        "root": {
+            "user": "U04A6JMRWCS",
+            "type": "message",
+            "ts": "1741855651.439999",
+            "client_msg_id": "a682d165-2c34-47c2-808e-ba2cec346f73",
+            "text": "mais je cherche des exs de one pager d'enablement du GTM sur une industrie, ou un use case",
+            "team": "T017AGS2KE0",
+            "thread_ts": "1741855651.439999",
+            "reply_count": 9,
+            "reply_users_count": 4,
+            "latest_reply": "1741940484.974839",
+            "reply_users": [
+                "U04A6JMRWCS",
+                "U04SM1RGPJB",
+                "U069NSTHZ3Q",
+                "U017H09S857"
+            ],
+            "replies": [
+                {
+                    "user": "U04A6JMRWCS",
+                    "ts": "1741869336.753729"
+                },
+                {
+                    "user": "U04SM1RGPJB",
+                    "ts": "1741873128.999769"
+                },
+                {
+                    "user": "U04A6JMRWCS",
+                    "ts": "1741873199.387529"
+                },
+                {
+                    "user": "U04SM1RGPJB",
+                    "ts": "1741873247.524759"
+                },
+                {
+                    "user": "U069NSTHZ3Q",
+                    "ts": "1741876214.471249"
+                },
+                {
+                    "user": "U04A6JMRWCS",
+                    "ts": "1741876271.567899"
+                },
+                {
+                    "user": "U069NSTHZ3Q",
+                    "ts": "1741876459.698109"
+                },
+                {
+                    "user": "U017H09S857",
+                    "ts": "1741899032.675779"
+                },
+                {
+                    "user": "U04A6JMRWCS",
+                    "ts": "1741940484.974839"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "UHeRA",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "mais je cherche des exs de one pager d'enablement du GTM sur une industrie, ou un use case"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1741869336.753729",
+        "client_msg_id": "4fdb8711-6820-4819-95c9-fe82705b4732",
+        "text": "tout de suite, ca parle moins hein",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B5voS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tout de suite, ca parle moins hein"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U078PFP7A4B",
+                    "U06CZESF7QF",
+                    "U0183AS3MB6",
+                    "U06MLNEGNKB",
+                    "U07MNBM4WLV"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1741873128.999769",
+        "client_msg_id": "d6c85de5-0592-4210-ab2e-c7d58a4da40a",
+        "text": "T'as mis trop de buzzwords et du coup j'ai pas compris le besoin",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741855651.439999",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NcdYS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "T'as mis trop de buzzwords et du coup j'ai pas compris le besoin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1741873199.387529",
+        "client_msg_id": "772fbd44-af55-4ac5-ab21-a872ee16154f",
+        "text": "Des documents courts que vous créez pour former les GTMs aux campaignes",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741855651.439999",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XqJwH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Des documents courts que vous créez pour former les GTMs aux campaignes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1741873247.524759",
+        "client_msg_id": "e59b8086-a0b1-441e-8f4a-2e11133fbf41",
+        "text": "Ah ! J'ai pas sous le coude. Faudra attendre 1 mois :rolling_on_the_floor_laughing:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741855651.439999",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jrXil",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah ! J'ai pas sous le coude. Faudra attendre 1 mois "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "genre ça?",
+        "files": [
+            {
+                "id": "F08HD67AQSJ",
+                "created": 1741876211,
+                "timestamp": 1741876211,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U069NSTHZ3Q",
+                "user_team": "T017AGS2KE0",
+                "editable": false,
+                "size": 216887,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F08HD67AQSJ\/image.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F08HD67AQSJ\/download\/image.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08HD67AQSJ-8f88d2682b\/image_64.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08HD67AQSJ-8f88d2682b\/image_80.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08HD67AQSJ-8f88d2682b\/image_360.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360_w": 360,
+                "thumb_360_h": 202,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08HD67AQSJ-8f88d2682b\/image_480.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08HD67AQSJ-8f88d2682b\/image_160.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08HD67AQSJ-8f88d2682b\/image_720.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720_w": 720,
+                "thumb_720_h": 404,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08HD67AQSJ-8f88d2682b\/image_800.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_800_w": 800,
+                "thumb_800_h": 449,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08HD67AQSJ-8f88d2682b\/image_960.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_960_w": 960,
+                "thumb_960_h": 539,
+                "original_w": 988,
+                "original_h": 555,
+                "thumb_tiny": "AwAaADCAUUnzf3G\/75NPjikkJCqePXikUJWrEQIU\/wB0Vn\/ZJv7o\/wC+hWiikRoCOQAKYmPyPWjIpu32FKPegQhyD3pecUtFADQTmg5zxTqKAG8460o5paKAP\/\/Z",
+                "permalink": "https:\/\/techmarketingleaders.slack.com\/files\/U017U6M2G00\/F08HD67AQSJ\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F08HD67AQSJ-097d1e0c50",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U069NSTHZ3Q",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1fBcl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "genre ça?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1741876214.471249",
+        "client_msg_id": "9a47dacc-c36c-43c8-80f5-5465fb90fd70",
+        "thread_ts": "1741855651.439999",
+        "parent_user_id": "U04A6JMRWCS"
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1741876271.567899",
+        "client_msg_id": "767b2394-f38f-4319-86b1-aaa6fd6f2643",
+        "text": "Top! j'étais curieux de voir le type d'info que vous mettiez dedans",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741855651.439999",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rvbm9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Top! j'étais curieux de voir le type d'info que vous mettiez dedans"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U069NSTHZ3Q",
+        "type": "message",
+        "ts": "1741876459.698109",
+        "client_msg_id": "af9c6741-60fb-4e59-b8fd-c45fe36e2723",
+        "text": "on doit revoir le design mais pour les sales on fait des slides de ce type par secteur, et des slides \"cas client\" classique besoin\/solution\/bénéfices avec citation",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "fbbca81fca0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-30\/7816371623809_fbbca81fca0c916c8c15_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Gannau (Oodrive)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "m.gannau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741855651.439999",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WdQgQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "on doit revoir le design mais pour les sales on fait des slides de ce type par secteur, et des slides \"cas client\" classique besoin\/solution\/bénéfices avec citation"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U055KSYA2AH",
+        "type": "message",
+        "ts": "1741883125.153479",
+        "client_msg_id": "b1be172f-2aa8-498c-9832-fee0cbcb3b71",
+        "text": "Je viens de tomber là dessus au cas où <https:\/\/community.pricingsaas.com\/|https:\/\/community.pricingsaas.com\/>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "77f967801b39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-02\/5198498072658_77f967801b39b2c56563_72.png",
+            "first_name": "Olivier",
+            "real_name": "Olivier Milcent",
+            "display_name": "Olivier Milcent (DeepReach)",
+            "team": "T017AGS2KE0",
+            "name": "omilcent",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741688579.145369",
+        "parent_user_id": "U069NSTHZ3Q",
+        "attachments": [
+            {
+                "image_url": "https:\/\/canada1.discourse-cdn.com\/flex011\/uploads\/pricingsaas\/original\/1X\/c0f5279c4f70943025530a881dcdbd6d9e2497d0.png",
+                "image_width": 512,
+                "image_height": 512,
+                "image_bytes": 1527,
+                "from_url": "https:\/\/community.pricingsaas.com\/",
+                "service_icon": "https:\/\/canada1.discourse-cdn.com\/flex011\/uploads\/pricingsaas\/optimized\/1X\/c0f5279c4f70943025530a881dcdbd6d9e2497d0_2_180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/community.pricingsaas.com\/",
+                "fallback": "PricingSaaS Community",
+                "text": "SaaS pricing community: turning gut feel pricing into confident decisions.",
+                "title": "PricingSaaS Community",
+                "title_link": "https:\/\/community.pricingsaas.com\/",
+                "service_name": "community.pricingsaas.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mdD6O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je viens de tomber là dessus au cas où "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/community.pricingsaas.com\/",
+                                "text": "https:\/\/community.pricingsaas.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "un exemple de one pager d'alan",
+        "files": [
+            {
+                "id": "F08HP2USJF4",
+                "created": 1741899010,
+                "timestamp": 1741899010,
+                "name": "Alan - one-pager-C-levels-FRANCE.pdf",
+                "title": "Alan - one-pager-C-levels-FRANCE.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U017H09S857",
+                "user_team": "T017AGS2KE0",
+                "editable": false,
+                "size": 2332362,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F08HP2USJF4\/alan_-_one-pager-c-levels-france.pdf?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F08HP2USJF4\/download\/alan_-_one-pager-c-levels-france.pdf?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08HP2USJF4-1d44f703a2\/alan_-_one-pager-c-levels-france_thumb_pdf.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_pdf_w": 912,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/techmarketingleaders.slack.com\/files\/U017U6M2G00\/F08HP2USJF4\/alan_-_one-pager-c-levels-france.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F08HP2USJF4-70fd8f7fd4",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U017H09S857",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6fUhS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "un exemple de one pager d'alan"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1741899032.675779",
+        "client_msg_id": "e492ad62-cbd1-4c86-b50a-9697aff4c40e",
+        "thread_ts": "1741855651.439999",
+        "parent_user_id": "U04A6JMRWCS",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U069NSTHZ3Q"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1741933105.820819",
+        "client_msg_id": "7735b67a-3328-447d-9063-b0657b55ef79",
+        "text": "Update : l'équipe Dunod met à jour des livres comme le nôtre tous les 2 ans environ, donc on a un peu de temps :slightly_smiling_face: merci pour vos idées, on va reprendre le sujet dans quelques mois si vous le voulez bien",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740767714.741899",
+        "parent_user_id": "U02N2EVMFCG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w3TRz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Update : l'équipe Dunod met à jour des livres comme le nôtre tous les 2 ans environ, donc on a un peu de temps "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " merci pour vos idées, on va reprendre le sujet dans quelques mois si vous le voulez bien"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

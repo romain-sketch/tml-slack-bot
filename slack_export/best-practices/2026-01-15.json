@@ -1,0 +1,89 @@
+[
+    {
+        "user": "U01CNU4Q2H2",
+        "type": "message",
+        "ts": "1768465334.515979",
+        "client_msg_id": "a4ac5efb-6812-48be-9bf8-3f26d23bc6be",
+        "text": "Hello <@U078PFP7A4B> back after :hatching_chick: n°2 et chez nous aujourd'hui on est full Enterprise si tu veux en discuter ! :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "3fc42a41f9fd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-18\/7441599507842_3fc42a41f9fd86423da2_72.png",
+            "first_name": "Marilyne",
+            "real_name": "Marilyne Dupuy",
+            "display_name": "Marilyne Dupuy (Napta)",
+            "team": "T017AGS2KE0",
+            "name": "marilyne.dupuy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1768239789.092609",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qll1K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U078PFP7A4B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " back after "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hatching_chick",
+                                "unicode": "1f423"
+                            },
+                            {
+                                "type": "text",
+                                "text": " n°2 et chez nous aujourd'hui on est full Enterprise si tu veux en discuter ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart_hands",
+                "users": [
+                    "U078PFP7A4B",
+                    "U017H09S857"
+                ],
+                "count": 2
+            },
+            {
+                "name": "baby_chick",
+                "users": [
+                    "U03P99RGMTN",
+                    "U017H09S857"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U03P99RGMTN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

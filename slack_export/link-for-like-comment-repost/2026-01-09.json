@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U017CURDPB5",
+        "type": "message",
+        "ts": "1767978746.580919",
+        "client_msg_id": "dc5d3991-6106-464d-bfec-c4d2ead10973",
+        "text": "Ca va etre super !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "671ad569fbc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5982967598243_671ad569fbc40977de70_72.jpg",
+            "first_name": "David",
+            "real_name": "David Remaud",
+            "display_name": "David Remaud (iBanFirst)",
+            "team": "T017AGS2KE0",
+            "name": "david.remaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1767876686.722359",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zJOGG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ca va etre super !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

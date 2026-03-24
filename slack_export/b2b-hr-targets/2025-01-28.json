@@ -1,0 +1,112 @@
+[
+    {
+        "user": "U02CBFN48CF",
+        "type": "message",
+        "ts": "1738064687.862009",
+        "client_msg_id": "9e089ac5-d0f0-425e-89ad-c91197c20a43",
+        "text": "J'aurais des moments dispo pour café\/passer vous voir demain en fin de matinée ou jeudi matin. Sinon n'hésitez pas à passer au stand E42 l'après midi :wink: <@U04SM1RGPJB> <@U067GNGDATD>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2b617c4484e3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-17\/3122469005251_2b617c4484e3a8e2151c_72.jpg",
+            "first_name": "Morgane",
+            "real_name": "Morgane Mouly",
+            "display_name": "Morgane Mouly (United Heroes)",
+            "team": "T017AGS2KE0",
+            "name": "morgane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732539657.942719",
+        "parent_user_id": "U02CBFN48CF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/XN0x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'aurais des moments dispo pour café\/passer vous voir demain en fin de matinée ou jeudi matin. Sinon n'hésitez pas à passer au stand E42 l'après midi "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04SM1RGPJB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U067GNGDATD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1738066721.023809",
+        "client_msg_id": "9e1beb84-a062-459c-939d-878ffee8715a",
+        "text": "Je serai là jeudi !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732539657.942719",
+        "parent_user_id": "U02CBFN48CF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gBGlm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je serai là jeudi !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02CBFN48CF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,234 @@
+[
+    {
+        "user": "U092U6UDLMN",
+        "type": "message",
+        "ts": "1750411430.034309",
+        "client_msg_id": "7daf645a-e4de-45ab-8b1d-1b8235165ce5",
+        "text": "Hello <@U069NSTHZ3Q> tu peux contacter <https:\/\/www.linkedin.com\/in\/marion-perrier-22947762\/|Marion Perrier>, journaliste et rédactrice SEO avec qui j'ai travaillé pendant 5 ans sur des contenus fintech et que je recommande vivement. A voire si elle serait à l'aise sur la thématique cybersécurité. Je peux lui passer un coup de fil si tu veux.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e910bc968404",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-19\/9072876473829_e910bc968404c2c0b5d1_72.png",
+            "first_name": "Bastien",
+            "real_name": "Bastien Meaux (DialOnce)",
+            "display_name": "Bastien Meaux",
+            "team": "T017AGS2KE0",
+            "name": "bmeaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750323780.127129",
+        "parent_user_id": "U092U6UDLMN",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/marion-perrier-22947762\/",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/marion-perrier-22947762\/",
+                "fallback": "Marion Perrier - Management Magazine | LinkedIn",
+                "text": "Expérience : Management Magazine · Formation : IFP - Institut français de presse · Lieu : Paris et périphérie · 153 relations sur LinkedIn. Consultez le profil de Marion Perrier sur LinkedIn, une communauté professionnelle d’un milliard de membres.",
+                "title": "Marion Perrier - Management Magazine | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/marion-perrier-22947762\/",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iB\/x4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U069NSTHZ3Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " tu peux contacter "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/marion-perrier-22947762\/",
+                                "text": "Marion Perrier"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", journaliste et rédactrice SEO avec qui j'ai travaillé pendant 5 ans sur des contenus fintech et que je recommande vivement. A voire si elle serait à l'aise sur la thématique cybersécurité. Je peux lui passer un coup de fil si tu veux."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U069NSTHZ3Q",
+        "type": "message",
+        "ts": "1750414505.318399",
+        "client_msg_id": "a90bbc51-8f73-4ab7-ad76-2beda2efc601",
+        "text": "merci <@U092U6UDLMN> pour ton retour ! Comme on a plusieurs angles\/sujets, on va la contacter directement de ta part (mon collègue Thomas Bourson). bon week-end avec un peu d'avance",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "fbbca81fca0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-30\/7816371623809_fbbca81fca0c916c8c15_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Gannau (Oodrive)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "m.gannau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750323780.127129",
+        "parent_user_id": "U092U6UDLMN",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fN3mV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U092U6UDLMN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour ton retour ! Comme on a plusieurs angles\/sujets, on va la contacter directement de ta part (mon collègue Thomas Bourson). bon week-end avec un peu d'avance"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U092U6UDLMN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U08SA22HS0J",
+        "type": "message",
+        "ts": "1750421329.296029",
+        "client_msg_id": "ea740c90-be2a-4d5a-9ce6-a70ab3681a65",
+        "text": "Hello <@U069NSTHZ3Q>, chez Stormshield on passait par Ultramedia. Il y a aussi la boîte de Sébastien Gest, ndnm (<http:\/\/ndnm.fr|ndnm.fr>), qui est spécialisée en contenus Cyber\/IT.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "266d9356f19e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-07\/10243863201635_266d9356f19e63bc9267_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu BONENFANT (SecLab)",
+            "display_name": "Matthieu BONENFANT (SecLab)",
+            "team": "T017AGS2KE0",
+            "name": "matthieu.bonenfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750323780.127129",
+        "parent_user_id": "U092U6UDLMN",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C0zAk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U069NSTHZ3Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", chez Stormshield on passait par Ultramedia. Il y a aussi la boîte de Sébastien Gest, ndnm ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/ndnm.fr",
+                                "text": "ndnm.fr"
+                            },
+                            {
+                                "type": "text",
+                                "text": "), qui est spécialisée en contenus Cyber\/IT."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U069NSTHZ3Q",
+        "type": "message",
+        "ts": "1750423454.188979",
+        "client_msg_id": "91694245-3896-495b-87ae-a770ca7fd658",
+        "text": "merci <@U08SA22HS0J>!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "fbbca81fca0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-30\/7816371623809_fbbca81fca0c916c8c15_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Gannau (Oodrive)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "m.gannau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750323780.127129",
+        "parent_user_id": "U092U6UDLMN",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i+vP7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08SA22HS0J"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

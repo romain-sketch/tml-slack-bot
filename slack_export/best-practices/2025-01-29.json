@@ -1,0 +1,904 @@
+[
+    {
+        "user": "U03P99RGMTN",
+        "type": "message",
+        "ts": "1738139316.371909",
+        "client_msg_id": "9240e1e6-1712-47cb-964d-3e33820b9dcb",
+        "text": "je sais que <@U025AMSNGF8> est sur l’Espagne en pays d’ouverture INT, il a peut être des infos :wink:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2f8b530bfffa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-28\/7656384027105_2f8b530bfffa39d455d3_72.png",
+            "first_name": "Julie",
+            "real_name": "Julie Asselin (365Talents)",
+            "display_name": "Julie Asselin (365Talents)",
+            "team": "T017AGS2KE0",
+            "name": "julie.asselin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738075828.158169",
+        "parent_user_id": "U017RAZCAGZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rz\/rR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je sais que "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U025AMSNGF8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " est sur l’Espagne en pays d’ouverture INT, il a peut être des infos "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1738140090.456979",
+        "client_msg_id": "2fcaaf1c-6242-4b56-a2c8-90f9114fe527",
+        "text": "chez Salesforce ils etaient trés bons sur ca. <@U080K705ESH> tu te souviens du tool qu'ils utilisaient?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738054673.523129",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IYMcq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "chez Salesforce ils etaient trés bons sur ca. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U080K705ESH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " tu te souviens du tool qu'ils utilisaient?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U025AMSNGF8",
+        "type": "message",
+        "ts": "1738141038.886359",
+        "client_msg_id": "fb49e203-e3cc-4c7a-81b5-3099c94f1efc",
+        "text": "Exact <@U03P99RGMTN>, on avait lancé avec Kompass pour le sizing de notre marché en Espagne <@U017RAZCAGZ>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b5f2d16c46f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-18\/6070004520657_b5f2d16c46f6b166931e_72.png",
+            "first_name": "Eliott",
+            "real_name": "Eliott Guerin",
+            "display_name": "Eliott Guerin (Skello)",
+            "team": "T017AGS2KE0",
+            "name": "eliott",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738075828.158169",
+        "parent_user_id": "U017RAZCAGZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Foj+G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exact "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03P99RGMTN"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", on avait lancé avec Kompass pour le sizing de notre marché en Espagne "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U017RAZCAGZ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U017RAZCAGZ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "grin",
+                "users": [
+                    "U03P99RGMTN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U086LFGGVUG",
+        "type": "message",
+        "ts": "1738145262.395189",
+        "client_msg_id": "a272c946-a21e-464d-8c01-aef152002401",
+        "text": "<http:\/\/Iberinform.es|Iberinform.es>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "8037084d031e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-01-03\/8241041927621_8037084d031e372f4d94_72.jpg",
+            "first_name": "Laura",
+            "real_name": "Laura Silva",
+            "display_name": "Laura Silva",
+            "team": "T017AGS2KE0",
+            "name": "laura.silva",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738075828.158169",
+        "parent_user_id": "U017RAZCAGZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Bkn7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Iberinform.es",
+                                "text": "Iberinform.es"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U017RAZCAGZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1738156659.989699",
+        "client_msg_id": "259fa075-45c0-48bb-ab9d-05e944bbbc48",
+        "text": "Quelqu'un aurait un use case social media par hasard? :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737704264.055269",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+IW8L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Quelqu'un aurait un use case social media par hasard? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06DLQ4644X",
+        "type": "message",
+        "ts": "1738165601.542269",
+        "client_msg_id": "ab63e791-5106-4172-babd-65e7edb1a587",
+        "text": "*Bonnes pratiques RP*\nHello à tous,\nPreneuse de vos lumières svp :bulb:\nPour vos RP et plus spécifiquement pour une annonce de levée (serie B), est-ce qu'il est d'usage\/vous recommandez de payer pour être sur les *newswire* en plus du travail de reprise du CP fait par notre attachée de presse ?\nJe ne suis pas très familière avec cet exercice...\nMerci beaucoup :pray:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2283416a1274",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-16\/6501881471632_2283416a12749bffd4ea_72.jpg",
+            "first_name": "Sybille",
+            "real_name": "Sybille d'Hérouville (Riot, ex Swile)",
+            "display_name": "Sybille d'Hérouville (Riot)",
+            "team": "T017AGS2KE0",
+            "name": "sybille",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738165601.542269",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1738222791.399189",
+        "reply_users": [
+            "U03P99RGMTN",
+            "U06DLQ4644X",
+            "U01A4GMRRR9"
+        ],
+        "replies": [
+            {
+                "user": "U03P99RGMTN",
+                "ts": "1738166242.021739"
+            },
+            {
+                "user": "U06DLQ4644X",
+                "ts": "1738166681.338549"
+            },
+            {
+                "user": "U03P99RGMTN",
+                "ts": "1738166907.498969"
+            },
+            {
+                "user": "U06DLQ4644X",
+                "ts": "1738167151.281599"
+            },
+            {
+                "user": "U06DLQ4644X",
+                "ts": "1738167198.958779"
+            },
+            {
+                "user": "U03P99RGMTN",
+                "ts": "1738167235.760529"
+            },
+            {
+                "user": "U01A4GMRRR9",
+                "ts": "1738222791.399189"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Er1ak",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonnes pratiques RP",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nHello à tous,\nPreneuse de vos lumières svp "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bulb",
+                                "unicode": "1f4a1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPour vos RP et plus spécifiquement pour une annonce de levée (serie B), est-ce qu'il est d'usage\/vous recommandez de payer pour être sur les "
+                            },
+                            {
+                                "type": "text",
+                                "text": "newswire",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " en plus du travail de reprise du CP fait par notre attachée de presse ?\nJe ne suis pas très familière avec cet exercice...\nMerci beaucoup "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03P99RGMTN",
+        "type": "message",
+        "ts": "1738166242.021739",
+        "client_msg_id": "45856078-5498-4fe0-8441-4737bd3d2da3",
+        "text": "Hey, les RP, c’est mon dada :horse:  :wink:\nAlors si tu as une portée internationale (genre target US, c’est interessant de se mettre dans des wire - par contre, sur la france, cela marche très peu selon moi)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2f8b530bfffa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-28\/7656384027105_2f8b530bfffa39d455d3_72.png",
+            "first_name": "Julie",
+            "real_name": "Julie Asselin (365Talents)",
+            "display_name": "Julie Asselin (365Talents)",
+            "team": "T017AGS2KE0",
+            "name": "julie.asselin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738165601.542269",
+        "parent_user_id": "U06DLQ4644X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KHiBE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey, les RP, c’est mon dada "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "horse",
+                                "unicode": "1f434"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nAlors si tu as une portée internationale (genre target US, c’est interessant de se mettre dans des wire - par contre, sur la france, cela marche très peu selon moi)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06DLQ4644X",
+        "type": "message",
+        "ts": "1738166681.338549",
+        "client_msg_id": "c8f7c8ff-4ea0-4015-83c5-f80032d05e9a",
+        "text": "Oh lucky me. Merci <@U03P99RGMTN> pour ton retour :pray:\nAujourd'hui, on est présent en France, Italie et Espagne donc tu penses qu'il serait pertinent de se mettre dans des wire européens ?\nNotre fond m'a partagé cette liste de newswire :\n&gt; • US1 Wire: $1,358.50 \n&gt; • French Wire: $1,364.25\n&gt; • Western Europe Wire: $3,145\n&gt;     ◦ Distribution to Austria, Belgium, Denmark, Finland, France, Germany, Greece, Ireland, Italy, Netherlands, Norway, Portugal, Spain, Switzerland, Sweden, and UK\n&gt; • Europe General News Wire: $3,149.25\n&gt;     ◦ Distribution to Austria, Belgium, Czech Republic, Denmark, Finland, France, Germany, Greece, Ireland, Italy, Luxembourg, Netherlands, Norway, Poland, Portugal, Russia, Spain, Sweden, Switzerland, and UK\n&gt; • Pan Europe Wire: $6,919\n&gt;     ◦ Distribution to Albania, Armenia, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Faroe Islands, Finland, France, Georgia, Germany, Gibraltar, Greece, Greenland, Hungary, Iceland, Ireland, Italy, Kosovo, Latvia, Lithuania, Luxembourg, Macedonia, Malta, Montenegro, Netherlands, Norway, Poland, Portugal, Romania, Russia, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, Ukraine, and UK\n&gt; \n",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2283416a1274",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-16\/6501881471632_2283416a12749bffd4ea_72.jpg",
+            "first_name": "Sybille",
+            "real_name": "Sybille d'Hérouville (Riot, ex Swile)",
+            "display_name": "Sybille d'Hérouville (Riot)",
+            "team": "T017AGS2KE0",
+            "name": "sybille",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738165601.542269",
+        "parent_user_id": "U06DLQ4644X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1UTA8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh lucky me. Merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03P99RGMTN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour ton retour "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nAujourd'hui, on est présent en France, Italie et Espagne donc tu penses qu'il serait pertinent de se mettre dans des wire européens ?\nNotre fond m'a partagé cette liste de newswire :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "US1 Wire: $1,358.50 "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "French Wire: $1,364.25"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Western Europe Wire: $3,145"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Distribution to Austria, Belgium, Denmark, Finland, France, Germany, Greece, Ireland, Italy, Netherlands, Norway, Portugal, Spain, Switzerland, Sweden, and UK"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Europe General News Wire: $3,149.25"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Distribution to Austria, Belgium, Czech Republic, Denmark, Finland, France, Germany, Greece, Ireland, Italy, Luxembourg, Netherlands, Norway, Poland, Portugal, Russia, Spain, Sweden, Switzerland, and UK"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Pan Europe Wire: $6,919"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Distribution to Albania, Armenia, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Faroe Islands, Finland, France, Georgia, Germany, Gibraltar, Greece, Greenland, Hungary, Iceland, Ireland, Italy, Kosovo, Latvia, Lithuania, Luxembourg, Macedonia, Malta, Montenegro, Netherlands, Norway, Poland, Portugal, Romania, Russia, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, Ukraine, and UK"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": []
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03P99RGMTN",
+        "type": "message",
+        "ts": "1738166907.498969",
+        "client_msg_id": "53959525-cb98-457c-9acd-b5ae661974bd",
+        "text": "moi je ferai juste un test sur les 2 pays INT et pour une annonce de levée en FR, comme y’en a plus beaucoup, c’est possible qu’il soit bien repris, donc. Bref, fais juste sur tes 3 geos et regarde ensuite tes résultats quanti, mais pour le quali, je ferai une cible de presse qui t’intéresse : par exemple, objectif en France, tu veux minimum 1 mention par un media tier 1, une  ITW tv\/radio ?\nPense aussi a ton plan d’annonce post levée pour montrer aux médias ce que tu fais ensuite et rester dans le ‘top of mind’",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2f8b530bfffa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-28\/7656384027105_2f8b530bfffa39d455d3_72.png",
+            "first_name": "Julie",
+            "real_name": "Julie Asselin (365Talents)",
+            "display_name": "Julie Asselin (365Talents)",
+            "team": "T017AGS2KE0",
+            "name": "julie.asselin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738165601.542269",
+        "parent_user_id": "U06DLQ4644X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5O7vy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "moi je ferai juste un test sur les 2 pays INT et pour une annonce de levée en FR, comme y’en a plus beaucoup, c’est possible qu’il soit bien repris, donc. Bref, fais juste sur tes 3 geos et regarde ensuite tes résultats quanti, mais pour le quali, je ferai une cible de presse qui t’intéresse : par exemple, objectif en France, tu veux minimum 1 mention par un media tier 1, une  ITW tv\/radio ?\nPense aussi a ton plan d’annonce post levée pour montrer aux médias ce que tu fais ensuite et rester dans le ‘top of mind’"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U06DLQ4644X"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06DLQ4644X",
+        "type": "message",
+        "ts": "1738167151.281599",
+        "client_msg_id": "1ca2de2c-d179-46d9-b311-9811988f5433",
+        "text": "Pour l'annonce sur la France, c'est notre free RP qui s'en occupe donc on a déjà communiqué sur notre levée (embargo) auprès de plusieurs media Tiers 1 : tv, podcast, print. Le plan de comm est fait je dirais.\nPour l'Italie et l'Espagne, on n'a pas de plan. Donc toi tu recommandes de se mettre dans des newswire Italie et Espagne ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2283416a1274",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-16\/6501881471632_2283416a12749bffd4ea_72.jpg",
+            "first_name": "Sybille",
+            "real_name": "Sybille d'Hérouville (Riot, ex Swile)",
+            "display_name": "Sybille d'Hérouville (Riot)",
+            "team": "T017AGS2KE0",
+            "name": "sybille",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738165601.542269",
+        "parent_user_id": "U06DLQ4644X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3us78",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour l'annonce sur la France, c'est notre free RP qui s'en occupe donc on a déjà communiqué sur notre levée (embargo) auprès de plusieurs media Tiers 1 : tv, podcast, print. Le plan de comm est fait je dirais.\nPour l'Italie et l'Espagne, on n'a pas de plan. Donc toi tu recommandes de se mettre dans des newswire Italie et Espagne ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U03P99RGMTN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06DLQ4644X",
+        "type": "message",
+        "ts": "1738167198.958779",
+        "client_msg_id": "0e31972f-377f-4968-959d-3b97f8e9f0c0",
+        "text": "Et super point pour le plan post annonce ! Faut que j'etoffe ça :muscle:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2283416a1274",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-16\/6501881471632_2283416a12749bffd4ea_72.jpg",
+            "first_name": "Sybille",
+            "real_name": "Sybille d'Hérouville (Riot, ex Swile)",
+            "display_name": "Sybille d'Hérouville (Riot)",
+            "team": "T017AGS2KE0",
+            "name": "sybille",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738165601.542269",
+        "parent_user_id": "U06DLQ4644X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HJLBd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et super point pour le plan post annonce ! Faut que j'etoffe ça "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle",
+                                "unicode": "1f4aa"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03P99RGMTN",
+        "type": "message",
+        "ts": "1738167235.760529",
+        "client_msg_id": "a79b9652-b944-4770-b71b-2e78d47bf8b8",
+        "text": "tu peux les tester et ne payer que ces pays là (ça va etre 500 eu chacun max)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2f8b530bfffa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-28\/7656384027105_2f8b530bfffa39d455d3_72.png",
+            "first_name": "Julie",
+            "real_name": "Julie Asselin (365Talents)",
+            "display_name": "Julie Asselin (365Talents)",
+            "team": "T017AGS2KE0",
+            "name": "julie.asselin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738165601.542269",
+        "parent_user_id": "U06DLQ4644X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gsIls",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tu peux les tester et ne payer que ces pays là (ça va etre 500 eu chacun max)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U06DLQ4644X"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1738222791.399189",
+        "client_msg_id": "2401DCA0-DB16-4CFC-B442-EEB0D10EDC1D",
+        "text": "<@U06DLQ4644X> je rejoins Julie. Wire pour les US mais pas de bons résultats en europe. En Espagne tu auras des publications mais de faible qualité . Je recommande des free dans chaque pays qu’il peuvent se focaliser sur qq médias clefs. \nAu delà des RP, il y’a pas mal de choses qui peuvent être mis en place via l interne coordonné sur LinkedIn, …\n<@U020QK16RMJ> hot topic pour toi aussi , non :-) ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738165601.542269",
+        "parent_user_id": "U06DLQ4644X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yRSHq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06DLQ4644X"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je rejoins Julie. Wire pour les US mais pas de bons résultats en europe. En Espagne tu auras des publications mais de faible qualité . Je recommande des free dans chaque pays "
+                            },
+                            {
+                                "type": "text",
+                                "text": "qu’il "
+                            },
+                            {
+                                "type": "text",
+                                "text": "peuvent se focaliser sur qq médias clefs. \nAu delà des RP, il "
+                            },
+                            {
+                                "type": "text",
+                                "text": "y’a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pas mal de choses qui peuvent être mis en place via l interne coordonné sur LinkedIn, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "…"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U020QK16RMJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " hot topic pour toi aussi , non :-) "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U06DLQ4644X"
+                ],
+                "count": 1
+            },
+            {
+                "name": "bulb",
+                "users": [
+                    "U06DLQ4644X"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

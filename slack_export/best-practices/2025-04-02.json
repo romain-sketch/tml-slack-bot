@@ -1,0 +1,1481 @@
+[
+    {
+        "user": "U06DYTRDLUD",
+        "type": "message",
+        "ts": "1743578916.178709",
+        "client_msg_id": "6a50aa11-1165-4d17-84b2-dd952d5a33cf",
+        "text": "Hello, nous on a arrêté assez vite, ça vendait pas mais je pense qu'on avait pas exactement le bon public.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901f49789864",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-17\/6483135134229_901f4978986494a521e4_72.jpg",
+            "first_name": "Flora",
+            "real_name": "Flora Wolfer",
+            "display_name": "Flora Wolfer (Payplug)",
+            "team": "T017AGS2KE0",
+            "name": "fwolfer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743515386.435639",
+        "parent_user_id": "U084LQF8023",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2fwj6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, nous on a arrêté assez vite, ça vendait pas mais je pense qu'on avait pas exactement le bon public."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1743585094.335189",
+        "client_msg_id": "e7cbd9e1-856a-452b-96b1-860f38eabbe0",
+        "text": "Ah top - merci beaucoup !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743495280.773209",
+        "parent_user_id": "U08EN5T6F4L",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0EaIU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah top - merci beaucoup !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U063A8VPPG9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1743594400.023809",
+        "edited": {
+            "user": "U078PFP7A4B",
+            "ts": "1743594416.000000"
+        },
+        "client_msg_id": "899835b2-c83a-4982-aee1-fec3a68a73c1",
+        "text": "Hello !\n\nEst-ce que vous avez de bons graphistes\/designer à me recommander pour le design\/mise en forme de contenus ?\nJe n'ai pas un gros budget (environ 700€ pour un contenu de 15-20 pages) :grimacing:\n\nMerci :pray:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743594400.023809",
+        "reply_count": 12,
+        "reply_users_count": 5,
+        "latest_reply": "1743603338.264339",
+        "reply_users": [
+            "U056DAY3YD8",
+            "U078PFP7A4B",
+            "U022RFSKQQK",
+            "U063A8VPPG9",
+            "U084LQF8023"
+        ],
+        "replies": [
+            {
+                "user": "U056DAY3YD8",
+                "ts": "1743595153.407159"
+            },
+            {
+                "user": "U078PFP7A4B",
+                "ts": "1743595680.337509"
+            },
+            {
+                "user": "U022RFSKQQK",
+                "ts": "1743597741.315099"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1743600838.715599"
+            },
+            {
+                "user": "U078PFP7A4B",
+                "ts": "1743601346.677589"
+            },
+            {
+                "user": "U084LQF8023",
+                "ts": "1743602655.019619"
+            },
+            {
+                "user": "U084LQF8023",
+                "ts": "1743602688.745259"
+            },
+            {
+                "user": "U078PFP7A4B",
+                "ts": "1743602708.377079"
+            },
+            {
+                "user": "U084LQF8023",
+                "ts": "1743602716.871559"
+            },
+            {
+                "user": "U078PFP7A4B",
+                "ts": "1743602744.413959"
+            },
+            {
+                "user": "U084LQF8023",
+                "ts": "1743602792.083089"
+            },
+            {
+                "user": "U084LQF8023",
+                "ts": "1743603338.264339"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8FEy0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello !\n\nEst-ce que vous avez de bons graphistes\/designer à me recommander pour le design\/mise en forme de contenus ?\nJe n'ai pas un gros budget (environ 700€ pour un contenu de 15-20 pages) "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grimacing",
+                                "unicode": "1f62c"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nMerci "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1743595045.424099",
+        "client_msg_id": "edb097fb-d2cc-4569-8865-c3c047021121",
+        "text": "700 pour 15-20 pages je serai pas trop optimiste...",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743595045.424099",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1743601807.291699",
+        "reply_users": [
+            "U063A8VPPG9",
+            "U04A6JMRWCS"
+        ],
+        "replies": [
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1743600862.912589"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1743600987.752399"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1743601005.300419"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1743601585.762639"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1743601807.291699"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F81lf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "700 pour 15-20 pages je serai pas trop optimiste..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1743595055.540729",
+        "client_msg_id": "694ec040-771a-4b1d-929d-4c92e05e4108",
+        "text": "mais j'ai un super freelance à te recommander quand même",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743595055.540729",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1743595095.454069",
+        "reply_users": [
+            "U078PFP7A4B"
+        ],
+        "replies": [
+            {
+                "user": "U078PFP7A4B",
+                "ts": "1743595095.454069"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ekBtp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mais j'ai un super freelance à te recommander quand même"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1743595095.454069",
+        "client_msg_id": "46efe009-abf2-4533-b4ed-bc9cab2e772b",
+        "text": "Je prends avec plaisir !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743595055.540729",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pgDhn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je prends avec plaisir !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U056DAY3YD8",
+        "type": "message",
+        "ts": "1743595153.407159",
+        "client_msg_id": "a60bdd69-cfc5-4221-a806-0ee612d3ee34",
+        "text": "Hello ! Yes tu peux contacter ces deux personnes de ma part :slightly_smiling_face:\n\n<https:\/\/www.linkedin.com\/in\/sophie-raguis\/>\n<https:\/\/www.linkedin.com\/in\/luna-jouve\/>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "1497d32a4908",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-16\/6043403579731_1497d32a4908ee3b80b5_72.png",
+            "first_name": "Alexis",
+            "real_name": "Alexis Chevallier",
+            "display_name": "Alexis Chevallier (Part-Time CMO)",
+            "team": "T017AGS2KE0",
+            "name": "alexchvllr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743594400.023809",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qA5bq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello ! Yes tu peux contacter ces deux personnes de ma part "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/sophie-raguis\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/luna-jouve\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U078PFP7A4B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1743595680.337509",
+        "client_msg_id": "9b17db3e-118f-4e7d-9627-4b9c73268ae4",
+        "text": "Merci Alexis, je le fais de ce pas !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743594400.023809",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GmCoi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci Alexis, je le fais de ce pas !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U056DAY3YD8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U069NSTHZ3Q",
+        "type": "message",
+        "ts": "1743596313.538419",
+        "client_msg_id": "e91940bc-8f46-4b92-b774-d47045027233",
+        "text": "Hello, je cherche toujours des bons graphistes sur ppt, je n'ai pas eu de chance avec les derniers essais. Si vous en avez des bons je suis preneuse aussi :pray:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "fbbca81fca0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-30\/7816371623809_fbbca81fca0c916c8c15_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Gannau (Oodrive)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "m.gannau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743596313.538419",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1743598435.772909",
+        "reply_users": [
+            "U03P99RGMTN",
+            "U056DAY3YD8",
+            "U069NSTHZ3Q"
+        ],
+        "replies": [
+            {
+                "user": "U03P99RGMTN",
+                "ts": "1743597447.040369"
+            },
+            {
+                "user": "U056DAY3YD8",
+                "ts": "1743598250.287059"
+            },
+            {
+                "user": "U069NSTHZ3Q",
+                "ts": "1743598435.772909"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wP1qJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, je cherche toujours des bons graphistes sur ppt, je n'ai pas eu de chance avec les derniers essais. Si vous en avez des bons je suis preneuse aussi "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03P99RGMTN",
+        "type": "message",
+        "ts": "1743597447.040369",
+        "client_msg_id": "1ee4dca8-68d5-4b15-92dc-394daf045593",
+        "text": "je follow car moi aussi je cherche des “artistes en slides”",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2f8b530bfffa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-28\/7656384027105_2f8b530bfffa39d455d3_72.png",
+            "first_name": "Julie",
+            "real_name": "Julie Asselin (365Talents)",
+            "display_name": "Julie Asselin (365Talents)",
+            "team": "T017AGS2KE0",
+            "name": "julie.asselin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743596313.538419",
+        "parent_user_id": "U069NSTHZ3Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qC99R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je follow car moi aussi je cherche des “artistes en slides”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U022RFSKQQK",
+        "type": "message",
+        "ts": "1743597741.315099",
+        "client_msg_id": "9257756d-c6ca-49d6-a392-5ec9255956be",
+        "text": "Si tu n'as pas trouvé avec les contacts d'Alexis tu peux contacter Margaux de ma part : <mailto:margauxquercypro@gmail.com|margauxquercypro@gmail.com> \/ <https:\/\/www.iletaitune-marque.com\/|https:\/\/www.iletaitune-marque.com\/>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "67fe59b92c78",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-01\/6569222233124_67fe59b92c782b5917b3_72.jpg",
+            "first_name": "Aude",
+            "real_name": "Aude Romelly",
+            "display_name": "Aude Romelly",
+            "team": "T017AGS2KE0",
+            "name": "aromelly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743594400.023809",
+        "parent_user_id": "U078PFP7A4B",
+        "attachments": [
+            {
+                "image_url": "https:\/\/cdn.prod.website-files.com\/67b888a2f92978131b1d428c\/67c979f4a612eb6a2b9a12e6_Banniere-monochrome-1600x900px.jpg",
+                "image_width": 1800,
+                "image_height": 1013,
+                "image_bytes": 323451,
+                "from_url": "https:\/\/www.iletaitune-marque.com\/",
+                "id": 1,
+                "original_url": "https:\/\/www.iletaitune-marque.com\/",
+                "fallback": "Il était une Marque | Designer de Marque Freelance",
+                "text": "Création d'identités visuelles, packagings et sites web sur mesure pour lancer votre marque ou votre activité. Découvrez mon approche et mon portfolio.",
+                "title": "Il était une Marque | Designer de Marque Freelance",
+                "title_link": "https:\/\/www.iletaitune-marque.com\/",
+                "service_name": "iletaitune-marque.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LFJ6o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si tu n'as pas trouvé avec les contacts d'Alexis tu peux contacter Margaux de ma part : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:margauxquercypro@gmail.com",
+                                "text": "margauxquercypro@gmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \/ "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.iletaitune-marque.com\/",
+                                "text": "https:\/\/www.iletaitune-marque.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U078PFP7A4B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U056DAY3YD8",
+        "type": "message",
+        "ts": "1743598250.287059",
+        "client_msg_id": "2a787a4f-ccb8-4612-bb95-88823c2e4ef6",
+        "text": "Je vous recommande <https:\/\/www.linkedin.com\/in\/romain-tanneau-02089b107\/> :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "1497d32a4908",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-16\/6043403579731_1497d32a4908ee3b80b5_72.png",
+            "first_name": "Alexis",
+            "real_name": "Alexis Chevallier",
+            "display_name": "Alexis Chevallier (Part-Time CMO)",
+            "team": "T017AGS2KE0",
+            "name": "alexchvllr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743596313.538419",
+        "parent_user_id": "U069NSTHZ3Q",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/romain-tanneau-02089b107\/",
+                "thumb_url": "https:\/\/static.licdn.com\/scds\/common\/u\/images\/email\/artdeco\/logos\/96\/linkedin-bug-color.png",
+                "thumb_width": 96,
+                "thumb_height": 96,
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/romain-tanneau-02089b107\/",
+                "fallback": "Romain Tanneau - RT Studio | LinkedIn",
+                "text": "Spécialisé en branding B2B, je transforme des offres complexes en messages clairs et… · Expérience : RT Studio · Formation : CentraleSupélec · Lieu : Paris et périphérie · 500 relations ou plus sur LinkedIn. Consultez le profil de Romain Tanneau sur LinkedIn, une communauté professionnelle d’un milliard de membres.",
+                "title": "Romain Tanneau - RT Studio | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/romain-tanneau-02089b107\/",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hEWzT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je vous recommande "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/romain-tanneau-02089b107\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U069NSTHZ3Q",
+        "type": "message",
+        "ts": "1743598435.772909",
+        "client_msg_id": "023dcade-a20f-4e20-bc4a-ee35c26ab67e",
+        "text": "merci <@U056DAY3YD8>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "fbbca81fca0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-30\/7816371623809_fbbca81fca0c916c8c15_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Gannau (Oodrive)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "m.gannau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743596313.538419",
+        "parent_user_id": "U069NSTHZ3Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WUYgY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U056DAY3YD8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U056DAY3YD8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1743600838.715599",
+        "client_msg_id": "72f31c73-190e-44e1-9131-5da198cdd980",
+        "text": "OOEO <@U078PFP7A4B>, contacte les de notre part avec Jo ils te feront un bon prix",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743594400.023809",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aXaIN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "OOEO "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U078PFP7A4B"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", contacte les de notre part avec Jo ils te feront un bon prix"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U078PFP7A4B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1743600862.912589",
+        "client_msg_id": "ef30ab9c-c4a8-4772-a98b-ae02cffa2776",
+        "text": "dis donc hier on t'a pas entendu pour un 1er avril !!! j'etais decue lol",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743595045.424099",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VLsUd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "dis donc hier on t'a pas entendu pour un 1er avril !!! j'etais decue lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1743600987.752399",
+        "client_msg_id": "7a7ce8f1-01b4-4465-95ba-f7944b525736",
+        "text": "J'ai voulu faire un truc sur le Vibe marketing, mais je suis pas encore mûr",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743595045.424099",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "abI4V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai voulu faire un truc sur le Vibe marketing, mais je suis pas encore mûr"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1743601005.300419",
+        "client_msg_id": "0ed37bea-30a3-4c9f-ae9e-a658057899a2",
+        "text": "J'espère que vous mettez le vibe marketing en top nouveau topic chez unlockM d'ailleurs",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743595045.424099",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DigPu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'espère que vous mettez le vibe marketing en top nouveau topic chez unlockM d'ailleurs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1743601346.677589",
+        "client_msg_id": "fda9670e-0921-43f4-ab68-06194cae1adb",
+        "text": "Merci ! Je vais les contacter !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743594400.023809",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9mC79",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci ! Je vais les contacter !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1743601585.762639",
+        "client_msg_id": "FDD20859-F4DC-4C6D-A64B-B6D87341F167",
+        "text": "On t attend pour ça! J attends le Channel Gossip xoxo",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743595045.424099",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iFC+s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On t attend pour ça! J attends le Channel Gossip xoxo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1743601807.291699",
+        "client_msg_id": "85020d3c-259f-4157-b46b-d252608db9a8",
+        "text": "moi aussi <@U063Q1LA69W>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743595045.424099",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K2HIR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "moi aussi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U063Q1LA69W"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084LQF8023",
+        "type": "message",
+        "ts": "1743602655.019619",
+        "client_msg_id": "c741216a-d286-4f47-8937-27401d8988ef",
+        "text": "J'en ai aussi une recco geniallissime <https:\/\/www.linkedin.com\/in\/valentinpasquier98\/>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a70a92c39694",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-01-20\/8306570351351_a70a92c3969457259db9_72.jpg",
+            "first_name": "Cosmina",
+            "real_name": "Cosmina Trifan",
+            "display_name": "Cosmina Trifan",
+            "team": "T017AGS2KE0",
+            "name": "cosmi.trifan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743594400.023809",
+        "parent_user_id": "U078PFP7A4B",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/valentinpasquier98\/",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "thumb_url": "https:\/\/static.licdn.com\/scds\/common\/u\/images\/email\/artdeco\/logos\/96\/linkedin-bug-color.png",
+                "thumb_width": 96,
+                "thumb_height": 96,
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/valentinpasquier98\/",
+                "fallback": "Valentin Pasquier - Carsup | LinkedIn",
+                "text": "Spécialisé dans l&amp;#39;image de marque, j&amp;#39;ai une formation solide en marketing et en… · Expérience : Carsup · Formation : Sup de Pub · Lieu : Fleury-les-Aubrais · 54 relations sur LinkedIn. Consultez le profil de Valentin Pasquier sur LinkedIn, une communauté professionnelle d’un milliard de membres.",
+                "title": "Valentin Pasquier - Carsup | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/valentinpasquier98\/",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4q0PG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'en ai aussi une recco geniallissime "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/valentinpasquier98\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084LQF8023",
+        "type": "message",
+        "ts": "1743602688.745259",
+        "client_msg_id": "e8b119ec-0a3e-4789-b349-c0528f62cc7c",
+        "text": "il est pas cher,  bien et rapide quasi impossible de trouver cette combi",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a70a92c39694",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-01-20\/8306570351351_a70a92c3969457259db9_72.jpg",
+            "first_name": "Cosmina",
+            "real_name": "Cosmina Trifan",
+            "display_name": "Cosmina Trifan",
+            "team": "T017AGS2KE0",
+            "name": "cosmi.trifan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743594400.023809",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v20u+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "il est pas cher,  bien et rapide quasi impossible de trouver cette combi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U078PFP7A4B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1743602708.377079",
+        "client_msg_id": "22af0daf-c297-47eb-8623-2b9623bee8e2",
+        "text": "wow effectivement ! merci je contacte aussi !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743594400.023809",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1zU9Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "wow effectivement ! merci je contacte aussi !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084LQF8023",
+        "type": "message",
+        "ts": "1743602716.871559",
+        "client_msg_id": "c847b204-4cfd-42dd-836c-cb65033093dd",
+        "text": "j'ai son tel aussi si tu veux \/email",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a70a92c39694",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-01-20\/8306570351351_a70a92c3969457259db9_72.jpg",
+            "first_name": "Cosmina",
+            "real_name": "Cosmina Trifan",
+            "display_name": "Cosmina Trifan",
+            "team": "T017AGS2KE0",
+            "name": "cosmi.trifan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743594400.023809",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q\/pD\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "j'ai son tel aussi si tu veux \/email"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1743602744.413959",
+        "client_msg_id": "bcbd4bd1-a78c-4b39-b604-431472ff3130",
+        "text": "Ah je veux bien son mail stp !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743594400.023809",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3V6FO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah je veux bien son mail stp !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084LQF8023",
+        "type": "message",
+        "ts": "1743602792.083089",
+        "client_msg_id": "1ea93cd4-36da-4dd7-ba40-fc24c6bc4b7a",
+        "text": "sinon en agence j'ai bossé avec <https:\/\/www.ekela.fr\/> ils sont basé à orléans donc avec des tarifs de provénce. Et ils travaillent comme un free, tu es en direct avec le designer . Pareil je peux intro",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a70a92c39694",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-01-20\/8306570351351_a70a92c3969457259db9_72.jpg",
+            "first_name": "Cosmina",
+            "real_name": "Cosmina Trifan",
+            "display_name": "Cosmina Trifan",
+            "team": "T017AGS2KE0",
+            "name": "cosmi.trifan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743594400.023809",
+        "parent_user_id": "U078PFP7A4B",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.ekela.fr\/",
+                "service_icon": "https:\/\/www.ekela.fr\/wp-content\/themes\/enfold-child\/gfx\/touch-icons\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.ekela.fr\/",
+                "fallback": "Agence marketing &amp; digitale à Orléans - Loiret 45",
+                "text": "EKELA : Agence marketing &amp; digitale créative :bulb: et innovante :brain: Faites le plein d'idées pour vos projets, passez à l'action ! :sunglasses:",
+                "title": "Agence marketing &amp; digitale à Orléans - Loiret 45",
+                "title_link": "https:\/\/www.ekela.fr\/",
+                "service_name": "ekela.fr"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IUla\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sinon en agence j'ai bossé avec "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.ekela.fr\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ils sont basé à orléans donc avec des tarifs de provénce. Et ils travaillent comme un free, tu es en direct avec le designer . Pareil je peux intro"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084LQF8023",
+        "type": "message",
+        "ts": "1743603338.264339",
+        "client_msg_id": "46957455-81c0-4bcd-b2b5-914ee9e490f6",
+        "text": "je t'ai envoyé son tel en DM",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a70a92c39694",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-01-20\/8306570351351_a70a92c3969457259db9_72.jpg",
+            "first_name": "Cosmina",
+            "real_name": "Cosmina Trifan",
+            "display_name": "Cosmina Trifan",
+            "team": "T017AGS2KE0",
+            "name": "cosmi.trifan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743594400.023809",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iG01N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je t'ai envoyé son tel en DM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U078PFP7A4B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U084LQF8023",
+        "type": "message",
+        "ts": "1743607051.466009",
+        "client_msg_id": "ca824a92-83e4-47ab-bf8f-79a34d151594",
+        "text": "Merciiii #bestcommunity ever !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a70a92c39694",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-01-20\/8306570351351_a70a92c3969457259db9_72.jpg",
+            "first_name": "Cosmina",
+            "real_name": "Cosmina Trifan",
+            "display_name": "Cosmina Trifan",
+            "team": "T017AGS2KE0",
+            "name": "cosmi.trifan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743515386.435639",
+        "parent_user_id": "U084LQF8023",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P1pEh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merciiii #bestcommunity ever !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1758886557.908709",
+        "client_msg_id": "80C2E550-F2B4-42E1-A365-8705855B9A79",
+        "text": "Hello, on peut faire une thématique brand <@U06DYTRDLUD> <@U032T5N7UTY> avec REX sur  sponsoring \/ marketing sportif, mass media et strat d’influence \nQu’en pensez vous?\n\nSur l’exercice budgétaire quelles sont tes points d’interrogation Maxime? Je suis partante pour en discuter avec toi ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757496166.772069",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V5bRA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, on peut faire une thématique brand "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06DYTRDLUD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U032T5N7UTY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " avec REX sur  sponsoring \/ marketing sportif, mass media et strat d’influence \nQu’en pensez vous?\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Sur l’exercice budgétaire quelles sont tes points d’interrogation Maxime? Je suis partante pour en discuter avec toi "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

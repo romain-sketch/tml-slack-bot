@@ -1,0 +1,81 @@
+[
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1762771635.755759",
+        "client_msg_id": "667d4ce4-ffa7-4a0a-91ca-ff332c740212",
+        "text": "<https:\/\/www.instagram.com\/reel\/DQwCkXODNyr\/>\nObligé de partager ce Galansire sur le bullshit Linkedin qui est exceptionnel comme souvent avec lui :joy:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4WGi0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.instagram.com\/reel\/DQwCkXODNyr\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nObligé de partager ce Galansire sur le bullshit Linkedin qui est exceptionnel comme souvent avec lui "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U078PFP7A4B",
+                    "U02N2EVMFCG",
+                    "U0951RDNKU6",
+                    "U03P99RGMTN",
+                    "U054GRSQCTX",
+                    "U06EN9X790C",
+                    "U08EN5T6F4L",
+                    "U06UK9NGTB4",
+                    "U017CURDPB5",
+                    "U04CW99BP3Q",
+                    "U06TF9YAWEM",
+                    "U04L35Y9D08",
+                    "U06DYTRDLUD",
+                    "U0A0QG03DLN"
+                ],
+                "count": 14
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U0951RDNKU6",
+                    "U06UK9NGTB4",
+                    "U06TF9YAWEM",
+                    "U06DYTRDLUD"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

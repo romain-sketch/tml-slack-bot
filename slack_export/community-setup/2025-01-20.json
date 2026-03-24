@@ -1,0 +1,66 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U084LQF8023",
+        "text": "<@U084LQF8023> has joined the channel",
+        "type": "message",
+        "ts": "1737385380.027299"
+    },
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1737406813.763619",
+        "client_msg_id": "2b6a7c02-9956-40d7-9f84-723c1b0d1f36",
+        "text": "Top idée!\n<@U020QK16RMJ> tu prends le lead sur la mise en place avec peut-être un petit groupe de TML intéressés pour commencer?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737122814.454869",
+        "parent_user_id": "U020QK16RMJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YmSv1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Top idée!\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U020QK16RMJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " tu prends le lead sur la mise en place avec peut-être un petit groupe de TML intéressés pour commencer?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U020QK16RMJ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

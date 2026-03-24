@@ -1,0 +1,50 @@
+[
+    {
+        "user": "U092PH1F2CA",
+        "type": "message",
+        "ts": "1758183720.846839",
+        "client_msg_id": "5f3d9f20-037e-452c-a97c-8a17efaf1e65",
+        "text": "Welcome <@U09BVQYR1GA>!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9a39d2d117ff",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-23\/9092853310756_9a39d2d117ffed6b6a7d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Diard",
+            "display_name": "Alexandre Diard (ex PeopleSpheres)",
+            "team": "T017AGS2KE0",
+            "name": "diard.alexandre",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757924267.685689",
+        "parent_user_id": "U09BVQYR1GA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9JNz2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U09BVQYR1GA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

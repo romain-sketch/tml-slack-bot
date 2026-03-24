@@ -1,0 +1,75 @@
+[
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1756842123.979549",
+        "client_msg_id": "ca142e32-02c4-49d1-94a6-77a911e35783",
+        "text": "Il y a de nombreux intermédiaires qui font ça ? Galion ? J'ai vu des pubs <https:\/\/www.equitymastermind.fr\/service\/coaching-private-equity\/|EF> ces dernières années mais j'ai jamais cliqué dessus",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756462412.282319",
+        "parent_user_id": "U01A4GMRRR9",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.equitymastermind.fr\/service\/coaching-private-equity\/",
+                "image_url": "https:\/\/www.equitymastermind.fr\/wp-content\/uploads\/2024\/03\/MINDSET-IS-EVERYTHING-24.png",
+                "image_width": 1200,
+                "image_height": 628,
+                "image_bytes": 1265216,
+                "service_icon": "https:\/\/www.equitymastermind.fr\/wp-content\/uploads\/2023\/09\/favikon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.equitymastermind.fr\/service\/coaching-private-equity\/",
+                "fallback": "Equity Mastermind: Coaching private equity - Equity Mastermind",
+                "text": "Coaching private equity Accompagnement pour investir dans l’avenir Bienvenue chez Equity Mastermind, où nous offrons un service de coaching private equity conçu pour vous aider à investir dans des entreprises prometteuses et à créer un écosystème d’entreprises scalable, valorisable et vendable. Rejoignez-nous pour bénéficier d’un accompagnement personnalisé qui vous permettra de prendre des parts dans […]",
+                "title": "Coaching private equity - Equity Mastermind",
+                "title_link": "https:\/\/www.equitymastermind.fr\/service\/coaching-private-equity\/",
+                "service_name": "Equity Mastermind",
+                "fields": [
+                    {
+                        "value": "5 minutes",
+                        "title": "Durée de lecture estimée",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FKQ6H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Il y a de nombreux intermédiaires qui font ça ? Galion ? J'ai vu des pubs "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.equitymastermind.fr\/service\/coaching-private-equity\/",
+                                "text": "EF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ces dernières années mais j'ai jamais cliqué dessus"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1748407031.494399",
+        "client_msg_id": "d2df8d55-df93-456e-add3-3f71f28f6de9",
+        "text": "Tu as réussi à résoudre ton souci <@U067VEJFT5F>? Pour une EI, la règle générale est en effet de déclarer le chiffre d'affaires en TTC sur la déclaration 2042-C-PRO. C'est parce que les EI sont soumises à l'IR (Impôt sur le Revenu) et non à l'IS (Impôt sur les Sociétés).\nLa logique est la suivante : en tant qu'EI, la TVA que tu collectes n'est pas considérée comme un produit pour ton entreprise, mais comme une dette envers l'État. Tu déclares donc bien le montant TTC, puis la TVA est déduite via ta déclaration de TVA séparée (c'est ton cab qui fait ça non ?). Ils ont donc raison sur ce point !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748281509.539319",
+        "parent_user_id": "U067VEJFT5F",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0gwlK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tu as réussi à résoudre ton souci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U067VEJFT5F"
+                            },
+                            {
+                                "type": "text",
+                                "text": "? Pour une EI, la règle générale est en effet de déclarer le chiffre d'affaires en TTC sur la déclaration 2042-C-PRO. C'est parce que les EI sont soumises à l'IR (Impôt sur le Revenu) et non à l'IS (Impôt sur les Sociétés).\nLa logique est la suivante : en tant qu'EI, la TVA que tu collectes n'est pas considérée comme un produit pour ton entreprise, mais comme une dette envers l'État. Tu déclares donc bien le montant TTC, puis la TVA est déduite via ta déclaration de TVA séparée (c'est ton cab qui fait ça non ?). Ils ont donc raison sur ce point !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U067VEJFT5F",
+        "type": "message",
+        "ts": "1748412258.777379",
+        "client_msg_id": "dc5e6d85-5aad-43f3-9625-c085c2f856a5",
+        "text": "yes ! Alors comme j'avais challengé mon interlocutrice (qui devait être un niveau 1), mon intuition était la bonne :\nVoici le retour des fiscalistes :\n\"Même si c'est une EI, La société est soumise à TVA donc c'est le CA HT qu'il convient de déclarer.\nL'administration détermine le bénéfice net imposable en appliquant un abattement forfaitaire de 34 % (minimum : 305 €) au montant total des recettes hors taxe, dont sont exclues les plus ou moins-values de cession d'éléments affectés à l'exploitation. Au temps pour moi effectivement vu que vous êtes assujetti à tva.\"",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9fcbd8d4bd09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-05\/6296382564371_9fcbd8d4bd095d25ab4c_72.jpg",
+            "first_name": "Amandine",
+            "real_name": "Amandine Moreau",
+            "display_name": "Amandine Moreau",
+            "team": "T017AGS2KE0",
+            "name": "a.gremont.pro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748281509.539319",
+        "parent_user_id": "U067VEJFT5F",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Te+n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes ! Alors comme j'avais challengé mon interlocutrice (qui devait être un niveau 1), mon intuition était la bonne :\nVoici le retour des fiscalistes :\n\"Même si c'est une EI, La société est soumise à TVA donc c'est le CA HT qu'il convient de déclarer.\nL'administration détermine le bénéfice net imposable en appliquant un abattement forfaitaire de 34 % (minimum : 305 €) au montant total des recettes hors taxe, dont sont exclues les plus ou moins-values de cession d'éléments affectés à l'exploitation. Au temps pour moi effectivement vu que vous êtes assujetti à tva.\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U067VEJFT5F",
+        "type": "message",
+        "ts": "1748412309.757169",
+        "client_msg_id": "f4d27c74-8f50-4568-9e03-b19f767a3ceb",
+        "text": "merci beaucoup en tous cas :smiling_face_with_3_hearts: la next step sera probablement de passer en SASU pour moi et effectivement ça deviendra de l'IS!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9fcbd8d4bd09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-05\/6296382564371_9fcbd8d4bd095d25ab4c_72.jpg",
+            "first_name": "Amandine",
+            "real_name": "Amandine Moreau",
+            "display_name": "Amandine Moreau",
+            "team": "T017AGS2KE0",
+            "name": "a.gremont.pro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748281509.539319",
+        "parent_user_id": "U067VEJFT5F",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mf1UO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "merci beaucoup en tous cas "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_3_hearts",
+                                "unicode": "1f970"
+                            },
+                            {
+                                "type": "text",
+                                "text": " la next step sera probablement de passer en SASU pour moi et effectivement ça deviendra de l'IS!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1748412410.076739",
+        "client_msg_id": "CC90BB09-4E4E-4BED-B42B-9791A279D5A2",
+        "text": ":ok_hand:  <@U065DFPCQMP> a des super insights sur le sujet elle a fait une enquête dessus récemment ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748281509.539319",
+        "parent_user_id": "U067VEJFT5F",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jv745",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "ok_hand",
+                                "unicode": "1f44c"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U065DFPCQMP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a des super insights sur le sujet elle a fait une enquête dessus récemment "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U067VEJFT5F",
+                    "U065DFPCQMP"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

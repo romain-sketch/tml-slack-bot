@@ -1,0 +1,573 @@
+[
+    {
+        "user": "U017RBKTEEM",
+        "type": "message",
+        "ts": "1756805831.992409",
+        "client_msg_id": "0df86f3c-af81-421f-a566-0cf490200dfa",
+        "text": "Bonjour à tous, je recherche un freelance expert en tracking pour le site <http:\/\/www.seazon.fr|www.seazon.fr>, auriez-vous quelqu'un a me recommander ? Merci par avance,",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5383fefaed62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-20\/1257007429188_5383fefaed62e15a550f_72.jpg",
+            "first_name": "Edouard",
+            "real_name": "Edouard Borie (Seazon \/ Foodchéri)",
+            "display_name": "Edouard B",
+            "team": "T017AGS2KE0",
+            "name": "edouard.borie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756805831.992409",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1756836949.686299",
+        "reply_users": [
+            "U07D08K3U0K",
+            "U017RBKTEEM",
+            "U02N2EVMFCG"
+        ],
+        "replies": [
+            {
+                "user": "U07D08K3U0K",
+                "ts": "1756806021.619029"
+            },
+            {
+                "user": "U017RBKTEEM",
+                "ts": "1756810596.181769"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1756829067.266359"
+            },
+            {
+                "user": "U017RBKTEEM",
+                "ts": "1756836949.686299"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y0lHQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour à tous, je recherche un freelance expert en tracking pour le site "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.seazon.fr",
+                                "text": "www.seazon.fr"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", auriez-vous quelqu'un a me recommander ? Merci par avance,"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07D08K3U0K",
+        "type": "message",
+        "ts": "1756806021.619029",
+        "client_msg_id": "aa5057a7-fb58-499a-94e8-0db8adf10c76",
+        "text": "Hello, on a bossé avec Romain Trublard, il est top : <mailto:romain@trackanalyse.com|romain@trackanalyse.com>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "ee04aae8ef81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-02\/7689117269088_ee04aae8ef81d255cd1f_72.png",
+            "first_name": "Tiphanie",
+            "real_name": "Tiphanie Meyer",
+            "display_name": "Tiphanie",
+            "team": "T017AGS2KE0",
+            "name": "tiphanie.meyer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756805831.992409",
+        "parent_user_id": "U017RBKTEEM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ma0oE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, on a bossé avec Romain Trublard, il est top : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:romain@trackanalyse.com",
+                                "text": "romain@trackanalyse.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U017RBKTEEM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U017RBKTEEM",
+        "type": "message",
+        "ts": "1756810596.181769",
+        "client_msg_id": "0c9728a2-7072-486f-93dc-9b09429e6024",
+        "text": "Merci <@U07D08K3U0K>!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5383fefaed62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-20\/1257007429188_5383fefaed62e15a550f_72.jpg",
+            "first_name": "Edouard",
+            "real_name": "Edouard Borie (Seazon \/ Foodchéri)",
+            "display_name": "Edouard B",
+            "team": "T017AGS2KE0",
+            "name": "edouard.borie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756805831.992409",
+        "parent_user_id": "U017RBKTEEM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W3vvK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07D08K3U0K"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1756829067.266359",
+        "client_msg_id": "22dd6c98-3c04-42d8-a5fc-9dabcd4e1343",
+        "text": "Nous on a fait des super projets avec <https:\/\/www.linkedin.com\/in\/damien-querbes-9112491a\/?originalSubdomain=be|Damien> &amp; <https:\/\/www.linkedin.com\/in\/marwann\/?originalSubdomain=fr|Marwann>, je peux te faire une intro si besoin. J'en connais d'autres mais j'ai pas le recul de projets clients réussis",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756805831.992409",
+        "parent_user_id": "U017RBKTEEM",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/damien-querbes-9112491a\/?originalSubdomain=be",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/damien-querbes-9112491a\/?originalSubdomain=be",
+                "fallback": "Damien Querbes - Empowering scale-ups to unlock revenue through customer data insights and predictions | Data Science | Analytics | Data Architecture | LinkedIn",
+                "text": "Empowering scale-ups to unlock revenue through customer data insights and predictions | Data Science | Analytics | Data Architecture · • I help digital scale-ups unlock revenue by leveraging customer data insights and predictive analytics. With 9 years of experience building data warehouses for growth teams, I provide a 360° view of customers that fuels data-driven decision-making. My expertise spans from key SaaS tools like Segment and DBT to the GCP environment, which I use daily to create robust, scalable data solutions.\n• My journey started in Performance Marketing and CMO roles, where close collaboration with CTOs pushed me to dive into data coding. This unique combination of marketing and technical experience allows me to bridge the gap between growth teams and tech, offering end-to-end implementation of data strategies that truly drive growth.\n• In 2023, with AI on the rise and with plenty of customer prediction use cases in mind, it felt like the right time to expand my skills with the 6 month ML\/AI bootcamp at LeWagon. Along with my GCP data engineer certification passed in 2024, I am now autonomous on all the aspects of ML ops in the cloud. \n• Thus, after establishing data warehouses and pipelines, I’ve launched several advanced ML projects to production such as Marketing Mix Modeling, LTV Prediction for new customers, and Uplift Modeling for promotional actions. One of the most underrated strategies, in my opinion, is LTV Prediction. Few companies optimize their campaigns based on lifetime value, and that represents a massive opportunity.\n• If you haven’t explored LTV-based optimizations yet, I’d love to help you unlock this potential in your business. Let’s work together to build data-driven strategies that lead to long-term success! · Experience: DQS Consulting · Education: EM Lyon · Location: Brussels Region · 500+ connections on LinkedIn. View Damien Querbes’ profile on LinkedIn, a professional community of 1 billion members.",
+                "title": "Damien Querbes - Empowering scale-ups to unlock revenue through customer data insights and predictions | Data Science | Analytics | Data Architecture | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/damien-querbes-9112491a\/?originalSubdomain=be",
+                "service_name": "be.linkedin.com"
+            },
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/marwann\/?originalSubdomain=fr",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 2,
+                "original_url": "https:\/\/www.linkedin.com\/in\/marwann\/?originalSubdomain=fr",
+                "fallback": "Marwann AL SAADI - Superdocu | LinkedIn",
+                "text": "Co-founder of Superdocu (collecting &amp; updating documents and information for our clients)… · Experience: Superdocu · Education: Institut d&amp;#39;Economie scientifique et de Gestion · Location: Greater Paris Metropolitan Region · 500+ connections on LinkedIn. View Marwann AL SAADI’s profile on LinkedIn, a professional community of 1 billion members.",
+                "title": "Marwann AL SAADI - Superdocu | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/marwann\/?originalSubdomain=fr",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yrspi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nous on a fait des super projets avec "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/damien-querbes-9112491a\/?originalSubdomain=be",
+                                "text": "Damien",
+                                "style": {
+                                    "unlink": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " & "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/marwann\/?originalSubdomain=fr",
+                                "text": "Marwann"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", je peux te faire une intro si besoin. J'en connais d'autres mais j'ai pas le recul de projets clients réussis"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017RBKTEEM",
+        "type": "message",
+        "ts": "1756836949.686299",
+        "client_msg_id": "83f79c58-3886-47c4-a036-bb1b7851370d",
+        "text": "Merci Yannig pour les pistes, je les ajoute à ma liste et je reviens vers toi si besoin ! :+1:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5383fefaed62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-20\/1257007429188_5383fefaed62e15a550f_72.jpg",
+            "first_name": "Edouard",
+            "real_name": "Edouard Borie (Seazon \/ Foodchéri)",
+            "display_name": "Edouard B",
+            "team": "T017AGS2KE0",
+            "name": "edouard.borie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756805831.992409",
+        "parent_user_id": "U017RBKTEEM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qA5mQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci Yannig pour les pistes, je les ajoute à ma liste et je reviens vers toi si besoin ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1756875899.843319",
+        "client_msg_id": "47C4198E-23FB-47E2-8C56-68E4F27568E1",
+        "text": "Hello tout le monde\nJe cherche un free-lance francophone et bilingue anglais dispo asap en tant que PMO vous auriez des recos svp? \nMerciii",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756875899.843319",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1757667949.808789",
+        "reply_users": [
+            "U02N2EVMFCG",
+            "U063A8VPPG9",
+            "U07BLPPL3C1",
+            "U06E3PY5LAY"
+        ],
+        "replies": [
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1756878166.848069"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1756878860.683989"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1756880650.664609"
+            },
+            {
+                "user": "U07BLPPL3C1",
+                "ts": "1756903724.546259"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1756905283.958749"
+            },
+            {
+                "user": "U06E3PY5LAY",
+                "ts": "1757667949.808789"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RERX7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello tout le monde"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Je cherche un free-lance francophone et bilingue anglais dispo asap en tant que PMO vous auriez des recos svp? "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Merciii"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1756878166.848069",
+        "client_msg_id": "d50838e8-aadd-4017-ac1d-453af1015f8c",
+        "text": "PMO Digital ? <https:\/\/www.linkedin.com\/in\/thibaultfoyart\/?locale=en_US|Thib>. Ou sur autre chose ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756875899.843319",
+        "parent_user_id": "U063A8VPPG9",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/thibaultfoyart\/?locale=en_US",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "thumb_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/D4E03AQEopC8x-l23Gg\/profile-displayphoto-shrink_200_200\/B4EZboE1uJHcAY-\/0\/1747650305435?e=2147483647&v=beta&t=NyOgxRRTmZ-jxmZjbKPr8F7pCdxCqVQv3YlQI4ZkA_M",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/thibaultfoyart\/?locale=en_US",
+                "fallback": "Thibault Foyart - Digital Marketing Consultant | LinkedIn",
+                "text": "Digital Marketing Consultant · :fast_forward: tl;dr: Digital project manager and Paid Ads specialist with over 10 years&amp;#39; experience. My strengths: delivering projects on time, analyzing data, standardizing processes, and communicating proactively and clearly.\n\n:necktie: I have over 10 years&amp;#39; experience in this field, including 2 years in Paris and 8 years in Montreal. These years include 2 years as an Ad Ops and Paid Campaign Manager in an agency, an expertise I&amp;#39;ve continued to develop independently for over 6 years. I then progressed to Project Manager in the Consulting team, also taking on responsibilities as Consultant and Practice Manager.\n\n:hammer_and_wrench: I&amp;#39;ve had the privilege of working for nearly a hundred customers from a variety of sectors, and have managed their projects by mobilizing the key levers of digital marketing: Paid Media, SEO, CRO, Analytics &amp; Tracking, Content and Digital Transformation.\n\n:nerd_face: Digital project management is my passion: optimizing \/ transiting tools and processes; setting up templates; making sure objectives and scope are crystal clear; streamlining communications and ensuring tasks are well organized, from pre-sales to post-sales. · Experience: Hirondo · Education: Novancia Business School · Location: Paris · 500+ connections on LinkedIn. View Thibault Foyart’s profile on LinkedIn, a professional community of 1 billion members.",
+                "title": "Thibault Foyart - Digital Marketing Consultant | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/thibaultfoyart\/?locale=en_US",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/llLV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "PMO Digital ? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/thibaultfoyart\/?locale=en_US",
+                                "text": "Thib"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Ou sur autre chose ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1756878860.683989",
+        "client_msg_id": "99476784-2EED-47AA-A3B8-EECBE932344A",
+        "text": "PMO marketing qui me reporte en direct pour un gros projet de transfo ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756875899.843319",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GhvUP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "PMO marketing qui me reporte en direct pour un gros projet de transfo "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1756880650.664609",
+        "client_msg_id": "7D32D07A-CFCC-487D-A2F0-7BC2A2A80D3E",
+        "text": "<https:\/\/www.linkedin.com\/in\/adrienlpr?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=ios_app|Adrien> je sais qu’il est dispo actuellement environ half-time je peux te faire une intro ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756875899.843319",
+        "parent_user_id": "U063A8VPPG9",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/adrienlpr?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/adrienlpr?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=ios_app",
+                "fallback": "Adrien Laprévote - Président fondateur d&amp;#39;Allo Louis - Impact maker :seedling: | LinkedIn",
+                "text": "Président fondateur d&amp;#39;Allo Louis - Impact maker :seedling: · &gt; 10+ years of work experience\n&gt; CEO, former Senior Consultant in Digital Transformation\n&gt; Complex project management, Marketing strategy, B2B sales, Investors relationship, Product Engineering, IT Project Management expertise\n&gt; Management (10+ people) and Manager&amp;#39;s Management experience\n&gt; Newcastle (MBA) student and Kedge Business School (Master Management - Grande Ecole) graduate\n&gt; Passionate about outdoor activities and strategy !\n\nDigital native, je mets mes dix années d’expérience en stratégie numérique ainsi qu’en gestion de projets complexes au service d&amp;#39;une start-up à impact leader sur son marché, Allo Louis, ainsi qu&amp;#39;à tous les acteurs qui veulent faire la différence.\n\nAu plaisir d&amp;#39;échanger avec vous, A.L. · Formation : Incubateur Makesense · Lieu : Meudon · 500 relations ou plus sur LinkedIn. Consultez le profil de Adrien Laprévote sur LinkedIn, une communauté professionnelle d’un milliard de membres.",
+                "title": "Adrien Laprévote - Président fondateur d&amp;#39;Allo Louis - Impact maker :seedling: | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/adrienlpr?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H7a6S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/adrienlpr?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+                                "text": "Adrien"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je sais "
+                            },
+                            {
+                                "type": "text",
+                                "text": "qu’il"
+                            },
+                            {
+                                "type": "text",
+                                "text": " est dispo actuellement environ half-time je peux te faire une intro "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

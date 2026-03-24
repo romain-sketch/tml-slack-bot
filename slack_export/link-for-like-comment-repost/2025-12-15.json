@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U01T6U402V8",
+        "type": "message",
+        "ts": "1765856951.308519",
+        "client_msg_id": "6b43cbbc-19c6-483c-8001-74fdaed629ba",
+        "text": "Bravo!!!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "1a396483c2d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-13\/1958483219154_1a396483c2d9cd7cccd3_72.jpg",
+            "first_name": "Simone",
+            "real_name": "Simone Sfeir (FrenchFounders)",
+            "display_name": "Simone Sfeir",
+            "team": "T017AGS2KE0",
+            "name": "simone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1765447520.893259",
+        "parent_user_id": "U0177A5V42F",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rPCoI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bravo!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

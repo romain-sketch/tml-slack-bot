@@ -1,0 +1,469 @@
+[
+    {
+        "user": "U07MNBM4WLV",
+        "type": "message",
+        "ts": "1759314751.483969",
+        "client_msg_id": "77038c1d-bc82-448a-b6eb-0f983f0412a3",
+        "text": "Hello <@U069NSTHZ3Q> <@U08HF5YQM6G> <@U08SA22HS0J> <@U078PFP7A4B>\n\nj'ai complètement oublié de poster ici mon message alors que c'était dans ma to do de la semaine dernière :see_no_evil:\nOn organise un event privé pour nos clients mardi soir prochain dans nos nouveaux locaux.\nVous êtes plus que bienvenus !\nYaura une annonce en avant première de notre CEO (la raison pour laquelle j'ai oublié de poster ce message :joy:).\n\nEt les leaders GTM de belles scaleups pour un échange entre pairs (pigment, swan, partoo, yousign...)\n\nEt du champagne, la vue 360 sur Paris etc.\n\nEt notre VP sales pour lui soutirer des choses (dites pas que j'ai dis ça) :joy:\n<https:\/\/luma.com\/b4o4uhif>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "028ce63b55be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7733128030774_028ce63b55be29945d4f_72.jpg",
+            "first_name": "Domitille",
+            "real_name": "Domitille de Saint-Exupéry",
+            "display_name": "Domitille de Saint-Exupéry (lemlist)",
+            "team": "T017AGS2KE0",
+            "name": "domitille433",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756742190.984759",
+        "parent_user_id": "U08HF5YQM6G",
+        "attachments": [
+            {
+                "image_url": "https:\/\/og.luma.com\/cdn-cgi\/image\/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=419\/api\/event-one?calendar_avatar=https%3A%2F%2Fimages.lumacdn.com%2Fcalendars%2Fcd%2F28ac0b27-3a63-454d-9e07-564c048ea273.png&calendar_name=lemlist&color0=%23ae7064&color1=%23431c1e&color2=%23efebe0&color3=%232a70f8&host_avatar=https%3A%2F%2Fimages.lumacdn.com%2Favatars%2F0e%2F7760de9c-e381-48ab-ae53-72ca10e13e08&host_name=lemlist&img=https%3A%2F%2Fimages.lumacdn.com%2Fevent-covers%2Fxo%2Ffc4b3f20-bb35-4b0b-af78-c13d070b3121.png&name=La%20lemaill%C3%A8re%20%3A%20bienvenue%20%C3%A0%20la%20cr%C3%A9maill%C3%A8re%20de%20lemlist",
+                "image_width": 800,
+                "image_height": 419,
+                "image_bytes": 32610,
+                "from_url": "https:\/\/luma.com\/b4o4uhif",
+                "service_icon": "https:\/\/luma.com\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/luma.com\/b4o4uhif",
+                "fallback": "La lemaillère : bienvenue à la crémaillère de lemlist · Luma",
+                "text": "lemlist inaugure ses nouveaux bureaux parisiens. Et on en profite pour partager une grande nouvelle, révélée en live - et en avant première - par notre CEO.\nAu…",
+                "title": "La lemaillère : bienvenue à la crémaillère de lemlist · Luma",
+                "title_link": "https:\/\/luma.com\/b4o4uhif",
+                "service_name": "luma.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h1rhu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U069NSTHZ3Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08HF5YQM6G"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08SA22HS0J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U078PFP7A4B"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nj'ai complètement oublié de poster ici mon message alors que c'était dans ma to do de la semaine dernière "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "see_no_evil",
+                                "unicode": "1f648"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nOn organise un event privé pour nos clients mardi soir prochain dans nos nouveaux locaux.\nVous êtes plus que bienvenus !\nYaura une annonce en avant première de notre CEO (la raison pour laquelle j'ai oublié de poster ce message "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            },
+                            {
+                                "type": "text",
+                                "text": ").\n\nEt les leaders GTM de belles scaleups pour un échange entre pairs (pigment, swan, partoo, yousign...)\n\nEt du champagne, la vue 360 sur Paris etc.\n\nEt notre VP sales pour lui soutirer des choses (dites pas que j'ai dis ça) "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/luma.com\/b4o4uhif"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U067VEJFT5F",
+        "type": "message",
+        "ts": "1759319544.816829",
+        "client_msg_id": "2ed0a892-6840-45a0-b79a-8502f07d1429",
+        "text": "Bonjour à tous !\nJe démarre un nouveau poste et je cherche des feedbacks sur deux agences RP :\n• ICONIC \n• The Arcane \nest-ce que l'un(e) de vous aurait bossé avec eux ? Thanks!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9fcbd8d4bd09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-05\/6296382564371_9fcbd8d4bd095d25ab4c_72.jpg",
+            "first_name": "Amandine",
+            "real_name": "Amandine Moreau",
+            "display_name": "Amandine Moreau",
+            "team": "T017AGS2KE0",
+            "name": "a.gremont.pro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759319544.816829",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1759785423.939209",
+        "reply_users": [
+            "U05H3SJKYFQ",
+            "U0951RDNKU6"
+        ],
+        "replies": [
+            {
+                "user": "U05H3SJKYFQ",
+                "ts": "1759395467.314359"
+            },
+            {
+                "user": "U0951RDNKU6",
+                "ts": "1759785423.939209"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sSE9c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour à tous !\nJe démarre un nouveau poste et je cherche des feedbacks sur deux agences RP :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ICONIC "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The Arcane "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "est-ce que l'un(e) de vous aurait bossé avec eux ? Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "x",
+                "users": [
+                    "U01A4GMRRR9",
+                    "U025AMSNGF8",
+                    "U08EN5T6F4L",
+                    "U017RAZCAGZ",
+                    "U06EN9X790C",
+                    "U08PLD4KPS8",
+                    "U069NSTHZ3Q",
+                    "U054GRSQCTX",
+                    "U065DFPCQMP",
+                    "U06E3PY5LAY",
+                    "U02N2EVMFCG",
+                    "U06CZESF7QF",
+                    "U017H09S857",
+                    "U03CY07UZJM",
+                    "U06DYTRDLUD",
+                    "U08EN5GRYCC",
+                    "U03P99RGMTN",
+                    "U017CURDPB5",
+                    "U06MHCCLQG3"
+                ],
+                "count": 19
+            }
+        ]
+    },
+    {
+        "user": "U069NSTHZ3Q",
+        "type": "message",
+        "ts": "1759319747.382659",
+        "client_msg_id": "feb68789-eaa1-47dd-b432-4ec3cc80a2dc",
+        "text": "Merci <@U07MNBM4WLV> pour l'invitation ! J'ai déjà le gros event des Assises de la sécu à Monaco cette semaine là donc je ne peux pas rajouter un autre soir en extérieur (on a instauré des quotas avec mon mari ahah) mais trop dommage d'autant qu'on est voisins, je suis à Bonne Nouvelle aussi. Dans tes locaux tu as des gens hyper sympas de chez iCIMS (mon ex  boite où j'ai gardé mes meilleurs collègues). Dis moi si tu veux que je forwarde à notre RevOps qui gère le projet Lemlist ou de mon côté à la personne côté marketing automation.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "fbbca81fca0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-30\/7816371623809_fbbca81fca0c916c8c15_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Gannau (Oodrive)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "m.gannau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756742190.984759",
+        "parent_user_id": "U08HF5YQM6G",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+ai5P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07MNBM4WLV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour l'invitation ! J'ai déjà le gros event des Assises de la sécu à Monaco cette semaine là donc je ne peux pas rajouter un autre soir en extérieur (on a instauré des quotas avec mon mari ahah) mais trop dommage d'autant qu'on est voisins, je suis à Bonne Nouvelle aussi. Dans tes locaux tu as des gens hyper sympas de chez iCIMS (mon ex  boite où j'ai gardé mes meilleurs collègues). Dis moi si tu veux que je forwarde à notre RevOps qui gère le projet Lemlist ou de mon côté à la personne côté marketing automation."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "laughing",
+                "users": [
+                    "U07MNBM4WLV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U067VEJFT5F",
+        "type": "message",
+        "ts": "1759336752.625399",
+        "client_msg_id": "b8924089-0e24-43e5-a6e5-4b630fd2e2f6",
+        "text": "+ j'ajoute aussi LE SURLIGNEUR :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9fcbd8d4bd09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-05\/6296382564371_9fcbd8d4bd095d25ab4c_72.jpg",
+            "first_name": "Amandine",
+            "real_name": "Amandine Moreau",
+            "display_name": "Amandine Moreau",
+            "team": "T017AGS2KE0",
+            "name": "a.gremont.pro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759336752.625399",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1759394874.192199",
+        "reply_users": [
+            "U067VEJFT5F"
+        ],
+        "replies": [
+            {
+                "user": "U067VEJFT5F",
+                "ts": "1759394874.192199"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cxi8f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "+ j'ajoute aussi LE SURLIGNEUR "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "x",
+                "users": [
+                    "U069NSTHZ3Q",
+                    "U017RAZCAGZ",
+                    "U054GRSQCTX",
+                    "U065DFPCQMP",
+                    "U06E3PY5LAY",
+                    "U02N2EVMFCG",
+                    "U06CZESF7QF",
+                    "U063A8VPPG9",
+                    "U017H09S857",
+                    "U03CY07UZJM",
+                    "U025AMSNGF8",
+                    "U06DYTRDLUD",
+                    "U08EN5GRYCC",
+                    "U03P99RGMTN",
+                    "U017CURDPB5",
+                    "U06EN9X790C"
+                ],
+                "count": 16
+            }
+        ]
+    },
+    {
+        "user": "U08SA22HS0J",
+        "type": "message",
+        "ts": "1759341319.036199",
+        "client_msg_id": "d0c2da25-395c-42c3-99e1-d466662c2319",
+        "text": "Ah les Assises, elles me manquent quand même;-)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "266d9356f19e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-07\/10243863201635_266d9356f19e63bc9267_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu BONENFANT (SecLab)",
+            "display_name": "Matthieu BONENFANT (SecLab)",
+            "team": "T017AGS2KE0",
+            "name": "matthieu.bonenfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756742190.984759",
+        "parent_user_id": "U08HF5YQM6G",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "llc9S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah les Assises, elles me manquent quand même;-)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08SA22HS0J",
+        "type": "message",
+        "ts": "1759341356.567179",
+        "client_msg_id": "ce73932c-cab8-4d96-88d4-1dfc11ef84b8",
+        "text": "Merci <@U07MNBM4WLV> je vais voir si je peux me libérer.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "266d9356f19e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-07\/10243863201635_266d9356f19e63bc9267_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu BONENFANT (SecLab)",
+            "display_name": "Matthieu BONENFANT (SecLab)",
+            "team": "T017AGS2KE0",
+            "name": "matthieu.bonenfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756742190.984759",
+        "parent_user_id": "U08HF5YQM6G",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nbXuO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07MNBM4WLV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je vais voir si je peux me libérer."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,230 @@
+[
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1749547254.340999",
+        "client_msg_id": "3c24d91a-aad5-494b-9b59-542c282c5900",
+        "text": "Bravo <@U06C95MP43Z> <https:\/\/www.lesechos.fr\/start-up\/portraits\/anne-carole-coen-lentrepreneuse-qui-casse-les-codes-des-secteurs-traditionnels-2169829>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749547254.340999",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1749743862.596489",
+        "reply_users": [
+            "U06C95MP43Z",
+            "U0182J18ULQ"
+        ],
+        "replies": [
+            {
+                "user": "U06C95MP43Z",
+                "ts": "1749562816.470209"
+            },
+            {
+                "user": "U0182J18ULQ",
+                "ts": "1749590072.751979"
+            },
+            {
+                "user": "U06C95MP43Z",
+                "ts": "1749743862.596489"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.lesechos.fr\/start-up\/portraits\/anne-carole-coen-lentrepreneuse-qui-casse-les-codes-des-secteurs-traditionnels-2169829",
+                "ts": 1749541753,
+                "image_url": "https:\/\/media.lesechos.com\/api\/v1\/images\/view\/6847e381fa547b88f50421e4\/1280x720\/0150229680011-web.jpg",
+                "image_width": 1280,
+                "image_height": 720,
+                "image_bytes": 80109,
+                "id": 1,
+                "original_url": "https:\/\/www.lesechos.fr\/start-up\/portraits\/anne-carole-coen-lentrepreneuse-qui-casse-les-codes-des-secteurs-traditionnels-2169829",
+                "fallback": "Les Echos: Anne-Carole Coën, l'entrepreneuse qui casse les codes des secteurs traditionnels",
+                "text": "Après avoir participé au succès de Chauffeur Privé et de Swile, Anne-Carole Coën a cofondé Kolet. Sa start-up, spécialisée dans les solutions d'eSIM pour voyageurs, vient de boucler une deuxième levée de fonds de 10 millions de dollars.",
+                "title": "Anne-Carole Coën, l'entrepreneuse qui casse les codes des secteurs traditionnels",
+                "title_link": "https:\/\/www.lesechos.fr\/start-up\/portraits\/anne-carole-coen-lentrepreneuse-qui-casse-les-codes-des-secteurs-traditionnels-2169829",
+                "service_name": "Les Echos"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h91Er",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bravo "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06C95MP43Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.lesechos.fr\/start-up\/portraits\/anne-carole-coen-lentrepreneuse-qui-casse-les-codes-des-secteurs-traditionnels-2169829"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U078PFP7A4B",
+                    "U063A8VPPG9",
+                    "U06M6E5M524",
+                    "U04SM1RGPJB",
+                    "U03P99RGMTN",
+                    "U084KTR7YKX",
+                    "U08554C4R7C",
+                    "U017CURDPB5",
+                    "U01A4GMRRR9",
+                    "U017RAZCAGZ",
+                    "U016SBPG7K9",
+                    "U03QPMQA31V",
+                    "U08QZ6EKE4Q",
+                    "U063Q1LA69W",
+                    "U08SA22HS0J",
+                    "U01MVJPEEH3",
+                    "U08EN5GRYCC",
+                    "U0177A5V42F",
+                    "U01789XN2UV",
+                    "U06MLNEGNKB",
+                    "U069NSTHZ3Q",
+                    "U06DYTRDLUD",
+                    "U04HP95GK55",
+                    "U06TF9YAWEM",
+                    "U017H09S857",
+                    "U08M0JP81DK",
+                    "U04CW99BP3Q",
+                    "U055KSYA2AH",
+                    "U08PLD4KPS8",
+                    "U04L35Y9D08",
+                    "U0183AS3MB6",
+                    "U025AMSNGF8",
+                    "U0859A8P14K",
+                    "U06LENY5V6Z",
+                    "U017RBREWC9"
+                ],
+                "count": 35
+            }
+        ]
+    },
+    {
+        "user": "U06C95MP43Z",
+        "type": "message",
+        "ts": "1749562816.470209",
+        "client_msg_id": "62ed642a-7a72-4e1b-8950-281248af23bf",
+        "text": "merci bcp c'est trop sympa :smiling_face_with_3_hearts:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "4b949a5cd393",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-23\/7185594457152_4b949a5cd3931f022e89_72.jpg",
+            "first_name": "Anne-Carole",
+            "real_name": "Anne-Carole Cöen (Kolet, ex Swile)",
+            "display_name": "Anne-Carole (Kolet, ex Swile)",
+            "team": "T017AGS2KE0",
+            "name": "ac_coen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749547254.340999",
+        "parent_user_id": "U02N2EVMFCG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d3r7V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "merci bcp c'est trop sympa "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_3_hearts",
+                                "unicode": "1f970"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0182J18ULQ",
+        "type": "message",
+        "ts": "1749590072.751979",
+        "client_msg_id": "F9AE8DA3-268B-47DB-8DE3-F01F0BAE3916",
+        "text": "Huge congrats de la part d’un user de la première heure",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "dfa7b4a4cf8b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-12\/5250900759925_dfa7b4a4cf8b424f822c_72.png",
+            "first_name": "Jean-Baptiste",
+            "real_name": "Jean-Baptiste Sciandra",
+            "display_name": "Jean-Baptiste Sciandra",
+            "team": "T017AGS2KE0",
+            "name": "jb.sciandra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749547254.340999",
+        "parent_user_id": "U02N2EVMFCG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l2vQP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Huge congrats de la part d’un user de la première heure"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U06C95MP43Z"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,470 @@
+[
+    {
+        "user": "U0859A8P14K",
+        "type": "message",
+        "ts": "1747646741.862669",
+        "client_msg_id": "1B7A23FF-096E-4E2D-A112-7328476C93F5",
+        "text": "Hello Aurelie malht j’ai à ce stade seulement un budg stage 6 mois ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "de9373c86530",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8178910826725_de9373c86530dc48c9e8_72.png",
+            "first_name": "Alexandra",
+            "real_name": "Alexandra Lougovoy",
+            "display_name": "Alexandra Lougovoy (Eudonet)",
+            "team": "T017AGS2KE0",
+            "name": "a.lougovoy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1747413769.153619",
+        "parent_user_id": "U0859A8P14K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B1DAc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Aurelie malht "
+                            },
+                            {
+                                "type": "text",
+                                "text": "j’ai"
+                            },
+                            {
+                                "type": "text",
+                                "text": " à ce stade seulement un budg stage 6 mois "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "U017H09S857"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U017RAZCAGZ",
+        "type": "message",
+        "ts": "1747649722.171929",
+        "client_msg_id": "6fb7a7bf-e262-403d-a26d-6d11648614a3",
+        "text": "<@U017H09S857> moi ca m'intéresse !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2e6e61c8f204",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-20\/1251040887619_2e6e61c8f20434050630_72.jpg",
+            "first_name": "Hélène",
+            "real_name": "Hélène Draoulec (Phenix)",
+            "display_name": "Hélène Draoulec (Phenix)",
+            "team": "T017AGS2KE0",
+            "name": "hdraoulec",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1747413769.153619",
+        "parent_user_id": "U0859A8P14K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e2tJ1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U017H09S857"
+                            },
+                            {
+                                "type": "text",
+                                "text": " moi ca m'intéresse !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1747663175.046859",
+        "client_msg_id": "73ba6bd8-a3ef-4257-8b78-04277781ae2d",
+        "text": "Top! J'en parle à la fille que je connais et je te mets en relation !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1747413769.153619",
+        "parent_user_id": "U0859A8P14K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sDJGK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Top! J'en parle à la fille que je connais et je te mets en relation !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U025AMSNGF8",
+        "type": "message",
+        "ts": "1747671479.998969",
+        "client_msg_id": "97aac825-a1fc-4865-8ea8-11264b28fbe9",
+        "text": "Message de Julien le CEO de <https:\/\/www.diffly.co\/fr|Diffly> :point_down:\n\n _“Nous cherchons notre futur·e *Head of Marketing*, futur *pilier*_ _*qui s’inscrit dans la durée* pour construire 100% du pôle Marketing chez Diffly._\n_Le profil idéal ? Un(e) talent capable de *poser la stratégie marketing, l’exécuter à fond*, de *construire un pôle de référence dans l’industrie du SaaS B2B* et de *s’inscrire sur le long terme*._\n_Ce rôle est parfait pour *un A player*, capable de porter son périmètre *avec autonomie, ambition et impact.*_\n_En effet, tout est à construire côté Marketing ! Nous recherchons un profil qui saura *libérer le potentiel* de Diffly et accompagner sa croissance ambitieuse._\n_Si tu veux en discuter ou recommander quelqu’un, n’hésite pas à contacter Julien Cohen-Roussey, CEO &amp; co-founder à <mailto:julien@diffly.co|julien@diffly.co>._\n_Voici :_\n• _<https:\/\/dj-k1p04.eu1.hs-sales-engage.com\/Ctc\/GI+23284\/dj-k1p04\/JlY2-6qcW95jsWP6lZ3pzW25Bm8M7t_j3yW2JsMMk2GmwdQW2bdyMb1JtvwWVnqxPh74Z1yPW73-3739gtGy9N80K-SsGnHQFW1dFvyq87wk--N8GQhY0kyN5RV1VXPt5_68fcN5nl2rf3P9BfW4QVTs-6DlDLyW3ZQyPf2zpfb_W3qVMVB6xhDCMW6LqGZy7sp0wwN6D4tXT68GWrW866PMJ92M0dDW2hPQcN48-Ds1W1RGpsQ6NcfYzW8yj8J_7WHlyJW5Q5_tp6xDYvBW6FLDZ95FsWzqW2J2B7K4DBv85VlWcg85lk-YkN4G3jc36_MYGW7TRn72539NbZW1MRg-K7RJlpFW7Vcp784Y-xYlW22bQ3R5vMy4hN5znfz-YDv6PW8bmHw81lTH8rf1Mg6Gq04|Le lien vers la fiche de poste>_\n• _<https:\/\/dj-k1p04.eu1.hs-sales-engage.com\/Ctc\/GI+23284\/dj-k1p04\/Jks2-6qcW69sMD-6lZ3p0N377m2mFJtL0W2t-T1k62JwvRW7lJZnZ2fjCHlW7nwMxq4b1mxDW3skZct3LN7JKW8GhLtt3f1RtXW2HMF8z8bN51zW34MNSY67STT2W3q_NQS3q00_5W175KcB8yvlPWN3f13MX7VTZ7W4xD2Sy7XzmNFW7rz8xf3szr94W5rtKJj3cbsg_W3wDLVq8NCYcvW4DdGbb6mB50GW19BdM72FMgG0W3cYGX06NJY01W8HFcGr49JDQcW2Z7KMN1G8fMHf2p3SQ204|Le lien pour postuler>_\n_Merci beaucoup”_",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b5f2d16c46f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-18\/6070004520657_b5f2d16c46f6b166931e_72.png",
+            "first_name": "Eliott",
+            "real_name": "Eliott Guerin",
+            "display_name": "Eliott Guerin (Skello)",
+            "team": "T017AGS2KE0",
+            "name": "eliott",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/cdn.prod.website-files.com\/660fb0b7675a90b26e81fb57\/66799e8401993ea4a2339ba3_Screenshot%202024-06-24%20at%2018.27.40.png",
+                "image_width": 1195,
+                "image_height": 808,
+                "image_bytes": 202315,
+                "from_url": "https:\/\/www.diffly.co\/fr",
+                "id": 1,
+                "original_url": "https:\/\/www.diffly.co\/fr",
+                "fallback": "Diffly | Plateforme de Win-Loss Analysis centrée sur l’acheteur",
+                "text": "Diffly est la première solution de win-loss analysis en Europe qui aide les entreprises B2B à gagner plus de deals. En combinant l’IA et sa plateforme SaaS, Diffly permet d’augmenter vos taux de conversion, améliorer vos stratégies Go-to-market et d’utiliser le feedback des acheteurs pour prendre des décisions clés.",
+                "title": "Diffly | Plateforme de Win-Loss Analysis centrée sur l’acheteur",
+                "title_link": "https:\/\/www.diffly.co\/fr",
+                "service_name": "diffly.co"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T4lYt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Message de Julien le CEO de "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.diffly.co\/fr",
+                                "text": "Diffly"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_down",
+                                "unicode": "1f447"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": " “Nous cherchons notre futur·e ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Head of Marketing",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", futur ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "pilier",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "qui s’inscrit dans la durée",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour construire 100% du pôle Marketing chez Diffly.",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Le profil idéal ? Un(e) talent capable de ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "poser la stratégie marketing, l’exécuter à fond",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", de ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "construire un pôle de référence dans l’industrie du SaaS B2B",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " et de ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "s’inscrire sur le long terme",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ".",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Ce rôle est parfait pour ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "un A player",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", capable de porter son périmètre ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "avec autonomie, ambition et impact.",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "En effet, tout est à construire côté Marketing ! Nous recherchons un profil qui saura ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "libérer le potentiel",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " de Diffly et accompagner sa croissance ambitieuse.",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Si tu veux en discuter ou recommander quelqu’un, n’hésite pas à contacter Julien Cohen-Roussey, CEO & co-founder à ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:julien@diffly.co",
+                                "text": "julien@diffly.co",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ".",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Voici :",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/dj-k1p04.eu1.hs-sales-engage.com\/Ctc\/GI+23284\/dj-k1p04\/JlY2-6qcW95jsWP6lZ3pzW25Bm8M7t_j3yW2JsMMk2GmwdQW2bdyMb1JtvwWVnqxPh74Z1yPW73-3739gtGy9N80K-SsGnHQFW1dFvyq87wk--N8GQhY0kyN5RV1VXPt5_68fcN5nl2rf3P9BfW4QVTs-6DlDLyW3ZQyPf2zpfb_W3qVMVB6xhDCMW6LqGZy7sp0wwN6D4tXT68GWrW866PMJ92M0dDW2hPQcN48-Ds1W1RGpsQ6NcfYzW8yj8J_7WHlyJW5Q5_tp6xDYvBW6FLDZ95FsWzqW2J2B7K4DBv85VlWcg85lk-YkN4G3jc36_MYGW7TRn72539NbZW1MRg-K7RJlpFW7Vcp784Y-xYlW22bQ3R5vMy4hN5znfz-YDv6PW8bmHw81lTH8rf1Mg6Gq04",
+                                        "text": "Le lien vers la fiche de poste",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/dj-k1p04.eu1.hs-sales-engage.com\/Ctc\/GI+23284\/dj-k1p04\/Jks2-6qcW69sMD-6lZ3p0N377m2mFJtL0W2t-T1k62JwvRW7lJZnZ2fjCHlW7nwMxq4b1mxDW3skZct3LN7JKW8GhLtt3f1RtXW2HMF8z8bN51zW34MNSY67STT2W3q_NQS3q00_5W175KcB8yvlPWN3f13MX7VTZ7W4xD2Sy7XzmNFW7rz8xf3szr94W5rtKJj3cbsg_W3wDLVq8NCYcvW4DdGbb6mB50GW19BdM72FMgG0W3cYGX06NJY01W8HFcGr49JDQcW2Z7KMN1G8fMHf2p3SQ204",
+                                        "text": "Le lien pour postuler",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci beaucoup”",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "user": "U04L04T475K",
+        "type": "message",
+        "ts": "1763371505.403979",
+        "client_msg_id": "b06d3b28-f765-416d-a80b-0f455edea00b",
+        "text": "Hello,\nJe cherche un.e juriste qui pourrait m'aider sur un mini projet ad-hoc pour une recherche IP sur un nom de boîte sur le marché FR, auriez vous un contact ?\nMerci !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "992240f01962",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4685704045204_992240f019622b6b0af8_72.jpg",
+            "first_name": "Antoine",
+            "real_name": "Antoine Yahia Cherif",
+            "display_name": "Antoine Yahia Cherif",
+            "team": "T017AGS2KE0",
+            "name": "antoine.yc008",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cIHiJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello,\nJe cherche un.e juriste qui pourrait m'aider sur un mini projet ad-hoc pour une recherche IP sur un nom de boîte sur le marché FR, auriez vous un contact ?\nMerci !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03RM102N0H",
+        "type": "message",
+        "ts": "1763384191.828579",
+        "client_msg_id": "5529c956-e3bd-43c8-aa63-46056daaf084",
+        "text": "Bonjour,\nChez Brut. avant d'intégrer pleinement ce poste chez nous, nous faisions appel à Christine Nguyen Duc Long (<mailto:cng@cng-avocat.com|cng@cng-avocat.com>).\nA++",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "20bddc2a3f01",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3855479138293_20bddc2a3f016ad51576_72.jpg",
+            "first_name": "Elsa",
+            "real_name": "Elsa Magadoux",
+            "display_name": "Elsa Magadoux (Brut.)",
+            "team": "T017AGS2KE0",
+            "name": "elsa.magadoux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LnqoL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour,\nChez Brut. avant d'intégrer pleinement ce poste chez nous, nous faisions appel à Christine Nguyen Duc Long ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:cng@cng-avocat.com",
+                                "text": "cng@cng-avocat.com",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": ").\nA++"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

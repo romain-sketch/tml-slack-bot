@@ -1,0 +1,504 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U08PLD4KPS8",
+        "text": "<@U08PLD4KPS8> has joined the channel",
+        "type": "message",
+        "ts": "1745834343.045029",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U03P99RGMTN",
+                    "U067VEJFT5F"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06TF9YAWEM",
+        "type": "message",
+        "ts": "1745836869.838969",
+        "client_msg_id": "2FEDDE9A-0F3B-4B29-952F-C96325857F1D",
+        "text": "Hello Gwenn, chez Docto on était assez ROIste sur le programme à environ 25% du CAC SEA non brand - but you know it :) \nTout le challenge bien sûr sur ce type de programme c’est la modélisation de la cannib. ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "bd18243d01f9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-04-13\/8768953549904_bd18243d01f97fe02075_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Lhermitte",
+            "display_name": "Marie Lhermitte (Lucca)",
+            "team": "T017AGS2KE0",
+            "name": "marie.lhermitte78",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745490853.313929",
+        "parent_user_id": "U084KTR7YKX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q8AgL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Gwenn, chez Docto on était assez ROIste sur le programme à environ 25% du CAC SEA non brand - but you know it :) \nTout le challenge bien sûr sur ce type de programme c’est la modélisation de la cannib. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U084KTR7YKX"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U084KTR7YKX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1745853908.011799",
+        "client_msg_id": "faf00514-f283-4172-9bd5-5bb25426b3eb",
+        "text": "Hello les TML :wave: !\n\nOn prépare un événement physique en juin à Paris sur *l’expansion internationale en Allemagne* :de: \n\nL’idée : aller à contre-courant de la “démondialisation” ambiante, montrer que les entreprises multi-pays résistent mieux dans ce contexte et jouer un peu la carte “Project Europe”\n\nOn cherche des speakers pour partager leurs expériences, en particulier des *startups ou scale-ups françaises qui ont réussi en Allemagne*\n\nOn a déjà contacté quelques boîtes comme *Qonto, Deepki, Agorapulse, Oscaro*... mais je suis sûr qu’il y en a plein d’autres !\n\n:one: *Vous connaissez d’autres acteurs FR qui cartonnent en Allemagne ?*\n:two: *Ou vous avez des histoires ou insights à partager sur l’expansion en Allemagne de votre boite ?*\n\nContactez-moi si c’est le cas, ça m’intéresse d’en discuter avec vous !\n\nMerci beaucoup :raised_hands:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745853908.011799",
+        "reply_count": 12,
+        "reply_users_count": 7,
+        "latest_reply": "1746018519.195819",
+        "reply_users": [
+            "U06CZESF7QF",
+            "U04SM1RGPJB",
+            "U01MVJPEEH3",
+            "U05H3SJKYFQ",
+            "U0177A5V42F",
+            "U06TF9YAWEM",
+            "U08M0JP81DK"
+        ],
+        "replies": [
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1745854082.691419"
+            },
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1745855489.872629"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1745855661.743709"
+            },
+            {
+                "user": "U01MVJPEEH3",
+                "ts": "1745863735.497419"
+            },
+            {
+                "user": "U05H3SJKYFQ",
+                "ts": "1745914923.089149"
+            },
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1745915261.339959"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1745915377.838019"
+            },
+            {
+                "user": "U0177A5V42F",
+                "ts": "1745917188.441869"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1745917828.024159"
+            },
+            {
+                "user": "U06TF9YAWEM",
+                "ts": "1745945581.262779"
+            },
+            {
+                "user": "U08M0JP81DK",
+                "ts": "1745998296.917849"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1746018519.195819"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/bGnT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello les TML "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": " !\n\nOn prépare un événement physique en juin à Paris sur "
+                            },
+                            {
+                                "type": "text",
+                                "text": "l’expansion internationale en Allemagne ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "de",
+                                "unicode": "1f1e9-1f1ea",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nL’idée : aller à contre-courant de la “démondialisation” ambiante, montrer que les entreprises multi-pays résistent mieux dans ce contexte et jouer un peu la carte “Project Europe”\n\nOn cherche des speakers pour partager leurs expériences, en particulier des "
+                            },
+                            {
+                                "type": "text",
+                                "text": "startups ou scale-ups françaises qui ont réussi en Allemagne",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nOn a déjà contacté quelques boîtes comme "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Qonto, Deepki, Agorapulse, Oscaro",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "... mais je suis sûr qu’il y en a plein d’autres !\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "one",
+                                "unicode": "0031-fe0f-20e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Vous connaissez d’autres acteurs FR qui cartonnent en Allemagne ?",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "two",
+                                "unicode": "0032-fe0f-20e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Ou vous avez des histoires ou insights à partager sur l’expansion en Allemagne de votre boite ?",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nContactez-moi si c’est le cas, ça m’intéresse d’en discuter avec vous !\n\nMerci beaucoup "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "unicode": "1f64c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1745854082.691419",
+        "client_msg_id": "6620b464-7bc4-452c-8593-1cb91d181bd9",
+        "text": "• <@U01MVJPEEH3> Ca pourrait t’intéresser ? De mémoire c’est une de vos grosses forces\n• <@U08JCBMPU4C> <@U04SM1RGPJB> Je sais pas qui a été contacté chez vous (c’est via Andrea Vaugan avec qui on organise l’event) mais si ça intéresse quelqu’un d’en parler chez Agorapulse on est très chaud",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745853908.011799",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gDZmZ",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "U01MVJPEEH3"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Ca pourrait t’intéresser ? De mémoire c’est une de vos grosses forces"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "U08JCBMPU4C"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U04SM1RGPJB"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Je sais pas qui a été contacté chez vous (c’est via Andrea Vaugan avec qui on organise l’event) mais si ça intéresse quelqu’un d’en parler chez Agorapulse on est très chaud"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1745855489.872629",
+        "client_msg_id": "3483d840-cf8d-4912-8722-bce7da68a4a5",
+        "text": "hello, happy d'en parler mais on est pas encore foufous à mon goût (Andrea peut t'en parler), on peut parler de l'xp peopledoc aussi.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745853908.011799",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SdSCO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello, happy d'en parler mais on est pas encore foufous à mon goût (Andrea peut t'en parler), on peut parler de l'xp peopledoc aussi."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1745855661.743709",
+        "client_msg_id": "b1ea48e5-8d28-4408-81e0-6e41d2c493b7",
+        "text": "Avec plaisir pour en parler ! Je te DM demain (kids pickup time :hatched_chick: )",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745853908.011799",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CDJdP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Avec plaisir pour en parler ! Je te DM demain (kids pickup time "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hatched_chick",
+                                "unicode": "1f425"
+                            },
+                            {
+                                "type": "text",
+                                "text": " )"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04SM1RGPJB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01MVJPEEH3",
+        "type": "message",
+        "ts": "1745863735.497419",
+        "client_msg_id": "D7EDDD2D-17A3-4F08-B85A-4314B0A5C1C9",
+        "text": "Merci d'avoir pensé à moi ! On est présent dans pas mal de pays mais on s'est pas encore frotté à l'Allemagne :grin: ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4a6a5004b64",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-06\/9627187901735_b4a6a5004b643abc6bec_72.png",
+            "first_name": "Camille",
+            "real_name": "Camille Moreau",
+            "display_name": "Camille Moreau (Mantu)",
+            "team": "T017AGS2KE0",
+            "name": "camille.moreau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745853908.011799",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NsEL2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci d'avoir pensé à moi ! On est présent dans pas mal de pays "
+                            },
+                            {
+                                "type": "text",
+                                "text": "mais on s'est pas encore frotté à l'Allemagne "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin",
+                                "unicode": "1f601"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

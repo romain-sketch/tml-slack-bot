@@ -1,0 +1,601 @@
+[
+    {
+        "user": "U0177A5V42F",
+        "type": "message",
+        "ts": "1769508961.568159",
+        "client_msg_id": "f74b7a4a-fc64-4443-954f-3981bb9db6d5",
+        "text": "Bienvenue :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ebca9b04129",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-17\/1245815650949_7ebca9b041296679a81d_72.jpg",
+            "first_name": "Guillaume",
+            "real_name": "Guillaume Laguette",
+            "display_name": "Guillaume Laguette (echOpen)",
+            "team": "T017AGS2KE0",
+            "name": "laguette.guillaume",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769457342.346559",
+        "parent_user_id": "U0ABUV23EG0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w0wBv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bienvenue "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06UK9NGTB4",
+        "type": "message",
+        "ts": "1769509226.748009",
+        "client_msg_id": "ca1b1f2e-1db5-494e-9c03-bbd4fca2d1a9",
+        "text": "Welcome Elena !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0de90fd94651",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-12-08\/10074067873414_0de90fd94651dd81ffed_72.png",
+            "first_name": "François",
+            "real_name": "François Castro-Lara",
+            "display_name": "François Castro-Lara (Mayday)",
+            "team": "T017AGS2KE0",
+            "name": "francois",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769457342.346559",
+        "parent_user_id": "U0ABUV23EG0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PGiYn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome Elena !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0AAYJQAL8N",
+        "text": "<@U0AAYJQAL8N> has joined the channel",
+        "type": "message",
+        "ts": "1769510208.727249",
+        "team": "T017AGS2KE0"
+    },
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1769511021.042109",
+        "client_msg_id": "0506584b-2165-444a-86b9-413e43caa93b",
+        "text": "Welcome <@U0AAYJQAL8N>!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769511021.042109",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1769525687.489729",
+        "reply_users": [
+            "U02N2EVMFCG",
+            "U0183AS3MB6",
+            "U04SM1RGPJB",
+            "U0A0QG03DLN",
+            "U06CZESF7QF"
+        ],
+        "replies": [
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1769511216.779299"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1769513733.182219"
+            },
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1769517496.655709"
+            },
+            {
+                "user": "U0A0QG03DLN",
+                "ts": "1769521855.697209"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1769525687.489729"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sESCr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0AAYJQAL8N"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U07D08K3U0K",
+                    "U0A0QG03DLN",
+                    "U06CZESF7QF",
+                    "U08EN5GRYCC",
+                    "U08EN5T6F4L"
+                ],
+                "count": 5
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U0A0QG03DLN",
+                    "U0AAYJQAL8N"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1769511216.779299",
+        "client_msg_id": "bc6e54d6-8499-4971-85ed-f2beecac1f15",
+        "text": "Bienvenue !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769511021.042109",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nBYK7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bienvenue !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U0AAYJQAL8N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1769513733.182219",
+        "client_msg_id": "87d80a4c-293f-4637-864a-fcdda4210699",
+        "text": "Bienvenue :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769511021.042109",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w0wBv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bienvenue "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U0AAYJQAL8N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1769517496.655709",
+        "client_msg_id": "531f5edd-eb0d-434e-a1cd-ac24507935f4",
+        "text": "bienvenue à toi <@U0AAYJQAL8N> :)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769511021.042109",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rIe5c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "bienvenue à toi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0AAYJQAL8N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U0AAYJQAL8N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0A0QG03DLN",
+        "type": "message",
+        "ts": "1769521837.596059",
+        "client_msg_id": "2592df96-dd42-4738-bb9f-1e1254a5d80e",
+        "text": "hello Elena, bienvenue ! et bravo pour la médaille la semaine dernière :clap:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b968d96b48d4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-12-01\/10056348127568_b968d96b48d4a3ee8664_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Courbin",
+            "display_name": "Alexandre Courbin",
+            "team": "T017AGS2KE0",
+            "name": "alexandre.courbin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769457342.346559",
+        "parent_user_id": "U0ABUV23EG0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HGTRM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello Elena, bienvenue ! et bravo pour la médaille la semaine dernière "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "clap",
+                                "unicode": "1f44f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0A0QG03DLN",
+        "type": "message",
+        "ts": "1769521855.697209",
+        "client_msg_id": "3fe3a426-05b2-4997-ae43-27bd58584018",
+        "text": "welcome Sandrine !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b968d96b48d4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-12-01\/10056348127568_b968d96b48d4a3ee8664_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Courbin",
+            "display_name": "Alexandre Courbin",
+            "team": "T017AGS2KE0",
+            "name": "alexandre.courbin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769511021.042109",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ooPNj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "welcome Sandrine !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U0AAYJQAL8N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1769525687.489729",
+        "client_msg_id": "86a50a64-3836-4565-addd-2d6ffea6a54c",
+        "text": "Hello Sandrine !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769511021.042109",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ogdrt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Sandrine !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U0AAYJQAL8N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0AAYJQAL8N",
+        "type": "message",
+        "ts": "1769532391.668409",
+        "client_msg_id": "83aac1f9-6362-4bb4-9354-e892cc91c4c8",
+        "text": "Merci beaucoup pour votre chaleureux accueil, ravie de rejoindre la communauté :pray:\nJe suis Sandrine, experte B2B Tech \/ SaaS et fondatrice d’un cabinet de conseil (10+ ans). J’interviens aux côtés des dirigeants et de leurs équipes sur des enjeux transverses d’organisation, de structuration et de scale de leurs projets transatlantiques US&lt;–&gt;Europe (parfois un peu _Lost in Translation_ :wink:).\nMes sujets : international GTM, alignement Marketing–Sales–CS–RevOps, structuration d’organisation, process &amp; stack, pilotage budget\/P&amp;L, et accélération de la croissance (pipeline, conversion, rétention).\nRavie d’échanger, de contribuer et de partager avec vous !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "806ddaa1be87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-27\/10377053187107_806ddaa1be870edec5aa_72.jpg",
+            "first_name": "Sandrine",
+            "real_name": "Sandrine Puichaffret",
+            "display_name": "Sandrine Puichaffret",
+            "team": "T017AGS2KE0",
+            "name": "spuichaffret",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p0uSf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci beaucoup pour votre chaleureux accueil, ravie de rejoindre la communauté "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nJe suis Sandrine, experte B2B Tech \/ SaaS et fondatrice d’un cabinet de conseil (10+ ans). J’interviens aux côtés des dirigeants et de leurs équipes sur des enjeux transverses d’organisation, de structuration et de scale de leurs projets transatlantiques US<–>Europe (parfois un peu "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Lost in Translation",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            },
+                            {
+                                "type": "text",
+                                "text": ").\nMes sujets : international GTM, alignement Marketing–Sales–CS–RevOps, structuration d’organisation, process & stack, pilotage budget\/P&L, et accélération de la croissance (pipeline, conversion, rétention).\nRavie d’échanger, de contribuer et de partager avec vous !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "green_heart",
+                "users": [
+                    "U017H09S857",
+                    "U017RAZCAGZ",
+                    "U04SM1RGPJB",
+                    "U08SA22HS0J",
+                    "U0177A5V42F",
+                    "U08EN5GRYCC",
+                    "U06DYTRDLUD",
+                    "U06CZESF7QF"
+                ],
+                "count": 8
+            },
+            {
+                "name": "wave",
+                "users": [
+                    "U06LENY5V6Z",
+                    "U017RAZCAGZ",
+                    "U08M0JP81DK",
+                    "U063A8VPPG9",
+                    "U01A4GMRRR9",
+                    "U0177A5V42F",
+                    "U01CNU4Q2H2",
+                    "U07D08K3U0K",
+                    "U017CURDPB5",
+                    "U03P99RGMTN",
+                    "U06DYTRDLUD",
+                    "U06CZESF7QF"
+                ],
+                "count": 12
+            }
+        ]
+    }
+]

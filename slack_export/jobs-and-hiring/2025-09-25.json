@@ -1,0 +1,124 @@
+[
+    {
+        "user": "U0182J18ULQ",
+        "type": "message",
+        "ts": "1758814098.830809",
+        "client_msg_id": "2d16ecbc-85e7-4a97-966b-b18b291ec4d3",
+        "text": "Hello ici,\nJe suis à la recherche d'un.e freelance pour une mission longue.\nProfil Brand and Content très généraliste de préférence; Avec au moins 3\/4 ans d'expérience.\n2 à 3 jours par semaine pendant 6 mois. Basé à Paris.\nEst-ce que vous avez des profils à me recommender ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "dfa7b4a4cf8b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-12\/5250900759925_dfa7b4a4cf8b424f822c_72.png",
+            "first_name": "Jean-Baptiste",
+            "real_name": "Jean-Baptiste Sciandra",
+            "display_name": "Jean-Baptiste Sciandra",
+            "team": "T017AGS2KE0",
+            "name": "jb.sciandra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tGGtT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello ici,\nJe suis à la recherche d'un.e freelance pour une mission longue.\nProfil Brand and Content très généraliste de préférence; Avec au moins 3\/4 ans d'expérience.\n2 à 3 jours par semaine pendant 6 mois. Basé à Paris.\nEst-ce que vous avez des profils à me recommender ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01T6U402V8",
+        "type": "message",
+        "ts": "1758814183.265319",
+        "client_msg_id": "01D2CDDE-2E48-4183-A930-70F3DDC9C11A",
+        "text": "Hello <@U0182J18ULQ> c’est un profil CMO part time ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "1a396483c2d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-13\/1958483219154_1a396483c2d9cd7cccd3_72.jpg",
+            "first_name": "Simone",
+            "real_name": "Simone Sfeir (FrenchFounders)",
+            "display_name": "Simone Sfeir",
+            "team": "T017AGS2KE0",
+            "name": "simone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ShORC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0182J18ULQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " c’est un profil CMO part time ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0182J18ULQ",
+        "type": "message",
+        "ts": "1758817213.845179",
+        "client_msg_id": "6caf2f40-5557-41a5-a64d-10982b75ae99",
+        "text": "Non, pas du tout. Vraiment Brand and Content Manager",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "dfa7b4a4cf8b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-12\/5250900759925_dfa7b4a4cf8b424f822c_72.png",
+            "first_name": "Jean-Baptiste",
+            "real_name": "Jean-Baptiste Sciandra",
+            "display_name": "Jean-Baptiste Sciandra",
+            "team": "T017AGS2KE0",
+            "name": "jb.sciandra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AJARr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Non, pas du tout. Vraiment Brand and Content Manager"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

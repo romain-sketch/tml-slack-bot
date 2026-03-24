@@ -1,0 +1,495 @@
+[
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1767613958.935149",
+        "edited": {
+            "user": "U084KTR7YKX",
+            "ts": "1767614037.000000"
+        },
+        "client_msg_id": "42022f06-fa1a-4f65-86bc-38da1d2ebbbf",
+        "text": "Bonne année à tous ! :raised_hands:\nEn vous souhaitant\n• des objectifs ambitieux mais atteignables\n• des CEOs qui comprennent l'importance de la brand et du long terme\n• des magnifiques \"rituals & feedback loops\" avec les Sales et une coopération aux petits oignons\n• un budget qui se soit pas coupé en 2 avec les mêmes objectifs initiaux lors du reforecast post Q1\n• des CPC qui arrêtent d'augmenter sur les plateformes d'Ads (Meta, Google, on vous voit....)\nj'ai oublié quoi ? :love_letter:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1767613958.935149",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1767628294.127049",
+        "reply_users": [
+            "U0183AS3MB6",
+            "U063A8VPPG9",
+            "U017CURDPB5",
+            "U04SM1RGPJB",
+            "U06DYTRDLUD"
+        ],
+        "replies": [
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1767615124.530589"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1767615255.751399"
+            },
+            {
+                "user": "U017CURDPB5",
+                "ts": "1767617942.352449"
+            },
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1767626218.393339"
+            },
+            {
+                "user": "U06DYTRDLUD",
+                "ts": "1767628294.127049"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1TggB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonne année à tous ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "unicode": "1f64c"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nEn vous souhaitant\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "des objectifs ambitieux mais atteignables"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "des CEOs qui comprennent l'importance de la brand et du long terme"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "des magnifiques \"rituals & feedback loops\" avec les Sales et une coopération aux petits oignons"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "un budget qui se soit pas coupé en 2 avec les mêmes objectifs initiaux lors du reforecast post Q1"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "des CPC qui arrêtent d'augmenter sur les plateformes d'Ads (Meta, Google, on vous voit....)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "j'ai oublié quoi ? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "love_letter",
+                                "unicode": "1f48c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U042GV737MX",
+                    "U078PFP7A4B",
+                    "U01A4GMRRR9",
+                    "U063A8VPPG9",
+                    "U0183AS3MB6",
+                    "U06UK9NGTB4",
+                    "U0951RDNKU6",
+                    "U07D08K3U0K",
+                    "U06MLNEGNKB",
+                    "U03P99RGMTN",
+                    "U03QPMQA31V",
+                    "U025AMSNGF8",
+                    "U09EFH6S1BQ",
+                    "U017RAZCAGZ",
+                    "U08M0JP81DK",
+                    "U06TF9YAWEM"
+                ],
+                "count": 16
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U0951RDNKU6",
+                    "U069NSTHZ3Q",
+                    "U06MLNEGNKB",
+                    "U03P99RGMTN",
+                    "U03QPMQA31V",
+                    "U06GAFVRP9V",
+                    "U06DYTRDLUD",
+                    "U06M6E5M524",
+                    "U04CW99BP3Q",
+                    "U0A0QG03DLN",
+                    "U06TF9YAWEM",
+                    "U08HF5YQM6G",
+                    "U0859A8P14K"
+                ],
+                "count": 13
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1767615124.530589",
+        "client_msg_id": "f158a279-1885-4ef7-a974-06c9ee37d4f9",
+        "text": "Un CFO qui acceptent les budgets du premier coup :smile:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1767613958.935149",
+        "parent_user_id": "U084KTR7YKX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pcAAy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un CFO qui acceptent les budgets du premier coup "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U084KTR7YKX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1767615255.751399",
+        "client_msg_id": "717aad4e-ffb6-4a2b-80d4-faffcd0b86b5",
+        "text": "un CEO qui n'a pas 1 idée à la seconde !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1767613958.935149",
+        "parent_user_id": "U084KTR7YKX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VJS5d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "un CEO qui n'a pas 1 idée à la seconde !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U06CZESF7QF",
+                    "U06MLNEGNKB",
+                    "U017CURDPB5",
+                    "U084KTR7YKX",
+                    "U06TF9YAWEM",
+                    "U0859A8P14K"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "user": "U017CURDPB5",
+        "type": "message",
+        "ts": "1767617942.352449",
+        "client_msg_id": "61cc79c7-2b84-42df-9182-a7cd6e74112f",
+        "text": "tu as oublié:\n• comment s'éclater quand aucun des points précédents n'est rempli :joy:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "671ad569fbc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5982967598243_671ad569fbc40977de70_72.jpg",
+            "first_name": "David",
+            "real_name": "David Remaud",
+            "display_name": "David Remaud (iBanFirst)",
+            "team": "T017AGS2KE0",
+            "name": "david.remaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1767613958.935149",
+        "parent_user_id": "U084KTR7YKX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uFNRA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tu as oublié:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "comment s'éclater quand aucun des points précédents n'est rempli "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "joy",
+                                        "unicode": "1f602"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U04A6JMRWCS",
+                    "U017RAZCAGZ",
+                    "U04SM1RGPJB",
+                    "U084KTR7YKX"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1767626218.393339",
+        "client_msg_id": "a3dca3fa-4a76-4e0b-8bb4-cce6c6c53233",
+        "text": "• des bonus énormes parce qu'on a explosé le résultat ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1767613958.935149",
+        "parent_user_id": "U084KTR7YKX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SkBgs",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "des bonus énormes parce qu'on a explosé le résultat ?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart_hands",
+                "users": [
+                    "U06DYTRDLUD",
+                    "U084KTR7YKX",
+                    "U0A0QG03DLN",
+                    "U07R7CUFM7H",
+                    "U06TF9YAWEM"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "user": "U06DYTRDLUD",
+        "type": "message",
+        "ts": "1767628294.127049",
+        "edited": {
+            "user": "U06DYTRDLUD",
+            "ts": "1767628313.000000"
+        },
+        "client_msg_id": "51699f81-a9f3-4212-b6a1-ea46da5c556c",
+        "text": "Des Comex qui vous font une feedback plus activable que \"faut marketer\"",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901f49789864",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-17\/6483135134229_901f4978986494a521e4_72.jpg",
+            "first_name": "Flora",
+            "real_name": "Flora Wolfer",
+            "display_name": "Flora Wolfer (Payplug)",
+            "team": "T017AGS2KE0",
+            "name": "fwolfer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1767613958.935149",
+        "parent_user_id": "U084KTR7YKX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T6hcf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Des Comex qui vous font une feedback plus activable que \"faut marketer\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U084KTR7YKX",
+                    "U06TF9YAWEM"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1741423390.945709",
+        "client_msg_id": "1519f8b9-d8e3-43e0-a32f-e78d781853fd",
+        "text": "Hello Adrien, tu as trouvé ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741243496.755989",
+        "parent_user_id": "U04TU0UA2R1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CBONK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Adrien, tu as trouvé ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

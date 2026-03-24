@@ -1,0 +1,232 @@
+[
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1742545417.769849",
+        "client_msg_id": "7bd3ba52-a0c4-4bf5-9cef-bad81f9e420a",
+        "text": "Pour ceux que ça intéresse, retour de Sum Up\n&gt; sales IA, \n&gt; - Tools, 11x (us), Pyto (petit truc français), 11labs \n&gt; - ⁠mieux: 11x plus simple et 11labs mais y’a une bonne partie à faire soit même \n&gt; \n&gt; Use case\n&gt; - qualification de leads ac des résultats similaires a humain, les gens étaient ok pour parler à une ia mais répondaient comme à un serveur vocale \n&gt; \n&gt; On a jamais testé plus haut dans le funnel genre closer des deals, mais clairement les résultats sur la qualif étaient mieux que les nos sdr au maroc et portugal\n&gt; on mesure lead à SQL, \n&gt; humain 43%\n&gt; IA 40% \n&gt; Maroc \/ Portugal 30%\n&gt; Donc il y a des gens qui raccrochent mais all in all le taux lead &gt; SQL ne ment pas",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742462400.445319",
+        "parent_user_id": "U084KTR7YKX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Inpi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour ceux que ça intéresse, retour de Sum Up\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sales IA, \n- Tools, 11x (us), Pyto (petit truc français), 11labs \n- ⁠mieux: 11x plus simple et 11labs mais y’a une bonne partie à faire soit même \n\nUse case\n- qualification de leads ac des résultats similaires a humain, les gens étaient ok pour parler à une ia mais répondaient comme à un serveur vocale \n\nOn a jamais testé plus haut dans le funnel genre closer des deals, mais clairement les résultats sur la qualif étaient mieux que les nos sdr au maroc et portugal\non mesure lead à SQL, \nhumain 43%\nIA 40% \nMaroc \/ Portugal 30%\nDonc il y a des gens qui raccrochent mais all in all le taux lead > SQL ne ment pas"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04TU0UA2R1",
+                    "U04L35Y9D08"
+                ],
+                "count": 2
+            },
+            {
+                "name": "bulb",
+                "users": [
+                    "U06CZESF7QF",
+                    "U02N2EVMFCG"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U04TU0UA2R1",
+        "type": "message",
+        "ts": "1742546003.363869",
+        "client_msg_id": "16e177e4-8a61-44ec-a7a9-5860bda60fcb",
+        "text": "Tu sais quels types de leads ils traitaient via IA ? plutôt des petits deals ou ils ont testé sur tout type de demandes ? et le workflow c'était le rappel de demandes venant de leur formulaire de contact ou il y avait d'autres choses ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2349ebc07255",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-15\/4939175993079_2349ebc07255c4ecc3fc_72.jpg",
+            "first_name": "Adrien",
+            "real_name": "Adrien Le Roy",
+            "display_name": "Adrien Le Roy (Indy)",
+            "team": "T017AGS2KE0",
+            "name": "adrien.le.roy2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742462400.445319",
+        "parent_user_id": "U084KTR7YKX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "037pq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tu sais quels types de leads ils traitaient via IA ? plutôt des petits deals ou ils ont testé sur tout type de demandes ? et le workflow c'était le rappel de demandes venant de leur formulaire de contact ou il y avait d'autres choses ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1742546051.038989",
+        "edited": {
+            "user": "U084KTR7YKX",
+            "ts": "1742546086.000000"
+        },
+        "client_msg_id": "6ebc578d-0cef-494b-aeda-4d47983e505c",
+        "text": "• oui demande de rappel sur les formulaires (vraiment inbound qualif. pas testé en \"outbound\" ou autres use cases)\n• je ne sais pas quel type de leads je demande",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742462400.445319",
+        "parent_user_id": "U084KTR7YKX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PdiWo",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "oui demande de rappel sur les formulaires (vraiment inbound qualif. pas testé en \"outbound\" ou autres use cases)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "je ne sais pas quel type de leads je demande"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04TU0UA2R1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1742550681.683389",
+        "client_msg_id": "50201df1-688d-4e60-96f1-9ed25e40ab15",
+        "text": "<@U04TU0UA2R1> tous les leads sauf les grands comptes",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742462400.445319",
+        "parent_user_id": "U084KTR7YKX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JKbJf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04TU0UA2R1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " tous les leads sauf les grands comptes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04TU0UA2R1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

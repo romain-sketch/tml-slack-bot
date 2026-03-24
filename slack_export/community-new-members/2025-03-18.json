@@ -1,0 +1,613 @@
+[
+    {
+        "user": "U07MNBM4WLV",
+        "type": "message",
+        "ts": "1742306550.392789",
+        "client_msg_id": "40d8e65a-b11d-4b91-8a37-5afaa0ac3e5c",
+        "text": "Oui karément !!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "028ce63b55be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7733128030774_028ce63b55be29945d4f_72.jpg",
+            "first_name": "Domitille",
+            "real_name": "Domitille de Saint-Exupéry",
+            "display_name": "Domitille de Saint-Exupéry (lemlist)",
+            "team": "T017AGS2KE0",
+            "name": "domitille433",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742219753.323359",
+        "parent_user_id": "U04SM1RGPJB",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8mAMm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui karément !!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1742307403.753499",
+        "client_msg_id": "069fdacf-bb4e-4b8c-8140-fd1d00491013",
+        "text": "super !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742219753.323359",
+        "parent_user_id": "U04SM1RGPJB",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HPfd1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "super !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03RM102N0H",
+        "type": "message",
+        "ts": "1742311952.711099",
+        "client_msg_id": "cca887a0-94b6-434e-add3-8f2444477116",
+        "text": "Oui je l'ai déjà rencontré, intéressant ! il est passé par Bodyguard aussi.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "20bddc2a3f01",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3855479138293_20bddc2a3f016ad51576_72.jpg",
+            "first_name": "Elsa",
+            "real_name": "Elsa Magadoux",
+            "display_name": "Elsa Magadoux (Brut.)",
+            "team": "T017AGS2KE0",
+            "name": "elsa.magadoux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741702773.610329",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hhzra",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui je l'ai déjà rencontré, intéressant ! il est passé par Bodyguard aussi."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart_hands",
+                "users": [
+                    "U08HF5YQM6G"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U08JCBMPU4C",
+        "text": "<@U08JCBMPU4C> has joined the channel",
+        "type": "message",
+        "ts": "1742312149.988389",
+        "team": "T017AGS2KE0"
+    },
+    {
+        "user": "U08JCBMPU4C",
+        "type": "message",
+        "ts": "1742312684.405969",
+        "client_msg_id": "fe8916f9-a62e-4aae-91f6-363d206303b7",
+        "text": "\"Dis donc c'est aussi select que Attractive World ici\" (oui, je pense que c'est le genre que 1ère impression que je veux laisser)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86da5b5dddd6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-18\/8624632003380_86da5b5dddd629c6251c_72.jpg",
+            "first_name": "Rémi",
+            "real_name": "Rémi Malenfant",
+            "display_name": "Rémi Malenfant",
+            "team": "T017AGS2KE0",
+            "name": "remimalenfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742312684.405969",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1742378846.852869",
+        "reply_users": [
+            "U04SM1RGPJB",
+            "U063A8VPPG9",
+            "U0183AS3MB6",
+            "U08JCBMPU4C",
+            "U017H09S857"
+        ],
+        "replies": [
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1742312854.124249"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1742313707.584419"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1742316311.215849"
+            },
+            {
+                "user": "U08JCBMPU4C",
+                "ts": "1742319709.615109"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1742378846.852869"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3+ULb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Dis donc c'est aussi select que Attractive World ici\" (oui, je pense que c'est le genre que 1ère impression que je veux laisser)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U08HF5YQM6G",
+                    "U04SM1RGPJB",
+                    "U016SBPG7K9",
+                    "U063A8VPPG9",
+                    "U07D08K3U0K",
+                    "U056DAY3YD8",
+                    "U08EN5T6F4L",
+                    "U08554C4R7C",
+                    "U01A4GMRRR9",
+                    "U06CZESF7QF",
+                    "U017RAZCAGZ",
+                    "U0182J18ULQ",
+                    "U04HP95GK55",
+                    "U067GNGDATD",
+                    "U017H09S857",
+                    "U06U1GG592M",
+                    "U06LENY5V6Z"
+                ],
+                "count": 17
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U07R7CUFM7H",
+                    "U04SM1RGPJB",
+                    "U02CBFN48CF",
+                    "U07D08K3U0K",
+                    "U03QPMQA31V",
+                    "U08554C4R7C",
+                    "U06CZESF7QF",
+                    "U06M6E5M524",
+                    "U02N2EVMFCG",
+                    "U03CY07UZJM",
+                    "U017RAZCAGZ",
+                    "U0182J18ULQ",
+                    "U04HP95GK55",
+                    "U017RBREWC9",
+                    "U063Q1LA69W",
+                    "U06EN9X790C",
+                    "U03P99RGMTN",
+                    "U017H09S857",
+                    "U08EN5GRYCC",
+                    "U017CURDPB5",
+                    "U065DFPCQMP"
+                ],
+                "count": 21
+            }
+        ]
+    },
+    {
+        "user": "U08JCBMPU4C",
+        "type": "message",
+        "ts": "1742312705.086399",
+        "client_msg_id": "8b925d94-fe47-4374-867a-cf503e90d930",
+        "text": "so much love, I just can't",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86da5b5dddd6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-18\/8624632003380_86da5b5dddd629c6251c_72.jpg",
+            "first_name": "Rémi",
+            "real_name": "Rémi Malenfant",
+            "display_name": "Rémi Malenfant",
+            "team": "T017AGS2KE0",
+            "name": "remimalenfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742219753.323359",
+        "parent_user_id": "U04SM1RGPJB",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pb+PG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so much love, I just can't"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U063A8VPPG9",
+                    "U06CZESF7QF",
+                    "U063Q1LA69W"
+                ],
+                "count": 3
+            },
+            {
+                "name": "wave",
+                "users": [
+                    "U06CZESF7QF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1742312854.124249",
+        "client_msg_id": "e2fee18f-16b1-4758-8287-e5d1ac15adc1",
+        "text": "Welcome ici !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742312684.405969",
+        "parent_user_id": "U08JCBMPU4C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LSlrx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome ici !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1742313675.908699",
+        "client_msg_id": "a2543611-c034-4c82-8042-209559f7c1ab",
+        "text": "<@U08JCBMPU4C> tu as ton fan club ahahha",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742219753.323359",
+        "parent_user_id": "U04SM1RGPJB",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UVbKe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U08JCBMPU4C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " tu as ton fan club ahahha"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1742313707.584419",
+        "client_msg_id": "c9ce1001-6408-48bc-9c42-6d4e1548a0f4",
+        "text": "Attractive world, non mais t'es pas si vieux quand meme? :joy:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742312684.405969",
+        "parent_user_id": "U08JCBMPU4C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gM9ag",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Attractive world, non mais t'es pas si vieux quand meme? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "grin",
+                "users": [
+                    "U08JCBMPU4C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1742314389.809079",
+        "client_msg_id": "2e68ce68-400e-4951-bd6f-7205d90f0f56",
+        "text": "il est genial, il peut",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742219753.323359",
+        "parent_user_id": "U04SM1RGPJB",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GGcuo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "il est genial, il peut"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart_hands",
+                "users": [
+                    "U063A8VPPG9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1742316311.215849",
+        "client_msg_id": "c92a8aff-dd8e-4443-9ae4-bd5bc18d11a5",
+        "text": "<@U063A8VPPG9> j’ai pensé la même chose :smile:\nWelcome Rémi",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742312684.405969",
+        "parent_user_id": "U08JCBMPU4C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fxze5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U063A8VPPG9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " j’ai pensé la même chose "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nWelcome Rémi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U063A8VPPG9",
+                    "U017RAZCAGZ",
+                    "U03P99RGMTN"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U08JCBMPU4C",
+        "type": "message",
+        "ts": "1742319709.615109",
+        "client_msg_id": "aa0ea5b4-9e2b-4449-8859-271a334c2ce2",
+        "text": "J'avoue, je me suis daté.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86da5b5dddd6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-18\/8624632003380_86da5b5dddd629c6251c_72.jpg",
+            "first_name": "Rémi",
+            "real_name": "Rémi Malenfant",
+            "display_name": "Rémi Malenfant",
+            "team": "T017AGS2KE0",
+            "name": "remimalenfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742312684.405969",
+        "parent_user_id": "U08JCBMPU4C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9a8lG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'avoue, je me suis daté."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

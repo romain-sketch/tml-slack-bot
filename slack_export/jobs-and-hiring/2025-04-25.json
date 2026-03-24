@@ -1,0 +1,57 @@
+[
+    {
+        "user": "U06E3PY5LAY",
+        "type": "message",
+        "ts": "1745567806.131309",
+        "client_msg_id": "e2902982-2b31-48dd-b115-70dd3f6eae15",
+        "text": "Hello <@U07BLPPL3C1> IA avec cible CMO &amp; CFO",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e6f18bbbcc15",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-16\/6475144975749_e6f18bbbcc1579d4df98_72.png",
+            "first_name": "Elizabeth",
+            "real_name": "Elizabeth Coleon",
+            "display_name": "Elizabeth Coleon",
+            "team": "T017AGS2KE0",
+            "name": "eorzano",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745340216.354489",
+        "parent_user_id": "U06E3PY5LAY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tlSQJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07BLPPL3C1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " IA avec cible CMO & CFO"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U08PEJM137X",
+        "text": "<@U08PEJM137X> has joined the channel",
+        "type": "message",
+        "ts": "1745571767.021739"
+    }
+]

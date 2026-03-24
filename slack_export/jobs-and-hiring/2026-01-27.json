@@ -1,0 +1,136 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U0AAYJQAL8N",
+        "text": "<@U0AAYJQAL8N> has joined the channel",
+        "type": "message",
+        "ts": "1769510208.833989"
+    },
+    {
+        "user": "U0A0QG03DLN",
+        "type": "message",
+        "ts": "1769521802.714729",
+        "client_msg_id": "67011fa5-0220-4f42-9f08-6b77dfbd2ed4",
+        "text": "hello Alexis ! je te recommande <https:\/\/www.linkedin.com\/in\/reneezachariou\/|Renée Zachariou>, je me souviens qu'elle a bossé avec plusieurs fintech et également dans la crypto - tu peux la contacter de ma part, il me semble qu'elle avait des dispos dernièrement :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b968d96b48d4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-12-01\/10056348127568_b968d96b48d4a3ee8664_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Courbin",
+            "display_name": "Alexandre Courbin",
+            "team": "T017AGS2KE0",
+            "name": "alexandre.courbin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769439553.215129",
+        "parent_user_id": "U056DAY3YD8",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/reneezachariou\/",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "thumb_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/D4D03AQH4Qws7DkLayg\/profile-displayphoto-shrink_200_200\/B4DZYUQrzRHwAY-\/0\/1744096644931?e=2147483647&v=beta&t=C4bRY1gyRHs_HE5zdmEN3vvSBMhbTTikdKtdoVr0G34",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/reneezachariou\/",
+                "fallback": "Renée Zachariou - Freelance | LinkedIn",
+                "text": "I work with words. Words to inform, words to educate, words to inspire. I help my clients… · Experience: Freelance · Education: Sciences Po · Location: Paris · 500+ connections on LinkedIn. View Renée Zachariou’s profile on LinkedIn, a professional community of 1 billion members.",
+                "title": "Renée Zachariou - Freelance | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/reneezachariou\/",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hwQ0i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello Alexis ! je te recommande "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/reneezachariou\/",
+                                "text": "Renée Zachariou"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", je me souviens qu'elle a bossé avec plusieurs fintech et également dans la crypto - tu peux la contacter de ma part, il me semble qu'elle avait des dispos dernièrement "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U056DAY3YD8",
+        "type": "message",
+        "ts": "1769521956.577699",
+        "client_msg_id": "33a0a6b1-1371-490d-8f6b-81f609c6946d",
+        "text": "Top, merci <@U0A0QG03DLN> !!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "1497d32a4908",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-16\/6043403579731_1497d32a4908ee3b80b5_72.png",
+            "first_name": "Alexis",
+            "real_name": "Alexis Chevallier",
+            "display_name": "Alexis Chevallier (Part-Time CMO)",
+            "team": "T017AGS2KE0",
+            "name": "alexchvllr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769439553.215129",
+        "parent_user_id": "U056DAY3YD8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xEywg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Top, merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0A0QG03DLN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " !!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U0A0QG03DLN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,179 @@
+[
+    {
+        "user": "U08SA22HS0J",
+        "type": "message",
+        "ts": "1761116630.127709",
+        "client_msg_id": "10805af7-6341-4318-a9f3-638cebdf295c",
+        "text": "La grosse news de la Martech FR! Bravo !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "266d9356f19e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-07\/10243863201635_266d9356f19e63bc9267_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu BONENFANT (SecLab)",
+            "display_name": "Matthieu BONENFANT (SecLab)",
+            "team": "T017AGS2KE0",
+            "name": "matthieu.bonenfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760979988.870179",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WZU\/v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "La grosse news de la Martech FR! Bravo !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U084KTR7YKX",
+                    "U07MNBM4WLV"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U08SA22HS0J",
+        "type": "message",
+        "ts": "1761116834.198419",
+        "client_msg_id": "9330e343-8206-485a-8816-f245d4f66c69",
+        "text": "J’avais récemment partagé mon Retex sur l’utilisation de Runway pour la réalisation du clip du premier single du nouvel album de mon groupe. Si ça vous intéresse ou si vous aimez le métal, c’est par ici que ça se passe. <https:\/\/www.linkedin.com\/posts\/matthieubonenfant_ia-techmarketing-activity-7384867926501203970-Vg6H?utm_source=share&amp;utm_medium=member_android&amp;rcm=ACoAAAEfLkgBqFtmR1_C7WuvSLuahlhV0sZpmv0|https:\/\/www.linkedin.com\/posts\/matthieubonenfant_ia-techmarketing-activity-7384867926501203970-Vg6H?utm_source=share&amp;utm_medium=member_android&amp;rcm=ACoAAAEfLkgBqFtmR1_C7WuvSLuahlhV0sZpmv0>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "266d9356f19e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-07\/10243863201635_266d9356f19e63bc9267_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu BONENFANT (SecLab)",
+            "display_name": "Matthieu BONENFANT (SecLab)",
+            "team": "T017AGS2KE0",
+            "name": "matthieu.bonenfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/posts\/matthieubonenfant_ia-techmarketing-activity-7384867926501203970-Vg6H?utm_source=share&utm_medium=member_android&rcm=ACoAAAEfLkgBqFtmR1_C7WuvSLuahlhV0sZpmv0",
+                "image_url": "https:\/\/dms.licdn.com\/playlist\/vid\/v2\/D4E05AQFfsSAQ-gvM3w\/thumbnail-with-play-button-overlay-high\/B4EZnxRurZIQDc-\/0\/1760689685338?e=2147483647&v=beta&t=ySinBc9LUSCBDz9lLaRmK5vMplcBsKKpJLdFiiVxezc",
+                "image_width": 1280,
+                "image_height": 720,
+                "image_bytes": 13221,
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/posts\/matthieubonenfant_ia-techmarketing-activity-7384867926501203970-Vg6H?utm_source=share&amp;utm_medium=member_android&amp;rcm=ACoAAAEfLkgBqFtmR1_C7WuvSLuahlhV0sZpmv0",
+                "fallback": "#ia #techmarketing | Matthieu Bonenfant | 25 commentaires",
+                "text": "IA :brain: x HEAVY METAL :guitar: \n\nAujourd'hui sort le premier single du quatrième disque de The Losts, mon groupe de Dark Heavy Metal.\n\nPour cette sortie, on voulait un clip en Lyrics video assez épuré et qui mette en avant le travail d'Alek Vladski, l'artiste qui a réalisé la pochette et l'artwork du livret.\n\nOn a donc décidé d'avoir recours à l'IA pour animer les illustrations présentes dans le livret. Pour ça, j'ai utilisé Runway et voici la méthodo appliquée pour ceux que ça intéresse.\n\n:round_pushpin: Runway génère des séquences videos de 10 secondes max. Pas possible de générer un clip complet. Il a donc fallu générer beaucoup de plans pour couvrir les 5 minutes du morceau (on fait des morceaux longs dans le heavy metal... grrrr...). Il faut pas mal itérer pour avoir un rendu correct et pas trop d'hallucinations. Pour ce clip, j'ai fait presque 100 générations.\n\n:round_pushpin:J'ai d'abord utilisé le modèle Gen-4 Turbo (moins coûteux) pour animer les illustrations à partir d'un prompt textuel. Lorsque le rendu n'était pas top, je testais avec le modèle Gen-4 (presque 3 fois plus de crédits par génération).\n\n:round_pushpin:Pour les plans où les illustrations sont incrustées dans des décors, j'ai d'abord généré une image du décor dans le style des illustrations avec Runway, j'ai intégré l'illustration dans ce décor en utilisant le système de références de Runway (qui permet de conserver assez fidèlement des éléments d'images taguées comme références dans une image finale) et j'ai ensuite généré l'animation sur la base de cette dernière image. Pour les itérations, j'ai utilisé le système de Seed qui permet de conserver une certaine cohérence.\n\n:round_pushpin:Pour le montage, j'ai tout simplement utilisé Canva (les capacités sont limitées mais pour l'objectif qu'on s'était fixé, ça faisait largement le job) en ajoutant la piste audio et les paroles (la synchronisation entre audio et paroles a été faite manuellement).\n\n:round_pushpin:Au niveau du tarif, ça m'a coûté environ 80€ (entre le coût de l'abonnement mensuel et le rachat de crédits additionnels). Beaucoup moins que si on était passé par un pro mais, forcément, le rendu n'est pas aussi bon et qualitatif, il ne faut pas se leurrer.\n\nJe vous laisse voir et écouter. N'hésitez pas à me partager vos retours.\n\nL'album sort le 19 décembre avec le label finlandais Inverse Records.\n\nPS : l'IA c'est que pour la video, la musique c'est 100% avec nos mimines, nos cordes vocales (et les pieds du batteur). Pas de Suno ou équivalent :wink: \n\n#IA #TechMarketing\n\nw Yann Bonenfant| 25 commentaires sur LinkedIn",
+                "title": "#ia #techmarketing | Matthieu Bonenfant | 25 commentaires",
+                "title_link": "https:\/\/www.linkedin.com\/posts\/matthieubonenfant_ia-techmarketing-activity-7384867926501203970-Vg6H?utm_source=share&utm_medium=member_android&rcm=ACoAAAEfLkgBqFtmR1_C7WuvSLuahlhV0sZpmv0",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ghzlh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J’avais récemment partagé mon Retex sur l’utilisation de Runway pour la réalisation du clip du premier single du nouvel album de mon groupe. Si ça vous intéresse ou si vous aimez le métal, c’est par ici que ça se passe. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/posts\/matthieubonenfant_ia-techmarketing-activity-7384867926501203970-Vg6H?utm_source=share&utm_medium=member_android&rcm=ACoAAAEfLkgBqFtmR1_C7WuvSLuahlhV0sZpmv0",
+                                "text": "https:\/\/www.linkedin.com\/posts\/matthieubonenfant_ia-techmarketing-activity-7384867926501203970-Vg6H?utm_source=share&utm_medium=member_android&rcm=ACoAAAEfLkgBqFtmR1_C7WuvSLuahlhV0sZpmv0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "star-struck",
+                "users": [
+                    "U03P99RGMTN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U092PH1F2CA",
+                    "U01MVJPEEH3"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U092PH1F2CA",
+        "type": "message",
+        "ts": "1761139752.422889",
+        "client_msg_id": "83897569-b6ce-4fb9-a8d7-31667662a184",
+        "text": "Congrats!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9a39d2d117ff",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-23\/9092853310756_9a39d2d117ffed6b6a7d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Diard",
+            "display_name": "Alexandre Diard (ex PeopleSpheres)",
+            "team": "T017AGS2KE0",
+            "name": "diard.alexandre",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760979988.870179",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GjrtL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Congrats!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U07MNBM4WLV",
+                    "U084KTR7YKX"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

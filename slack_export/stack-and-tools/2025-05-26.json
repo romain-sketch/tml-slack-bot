@@ -1,0 +1,45 @@
+[
+    {
+        "user": "U017RAZCAGZ",
+        "type": "message",
+        "ts": "1748248938.678879",
+        "client_msg_id": "ef696961-d1d7-4471-b072-6cf5f7fa32df",
+        "text": "Hello la team - On envisage de partir en POC sur DemandBase, est-ce que certains d'entre-vous l'utilisent ici et seraient prêts à me faire un partage d'expérience ? Merci :pray:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2e6e61c8f204",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-20\/1251040887619_2e6e61c8f20434050630_72.jpg",
+            "first_name": "Hélène",
+            "real_name": "Hélène Draoulec (Phenix)",
+            "display_name": "Hélène Draoulec (Phenix)",
+            "team": "T017AGS2KE0",
+            "name": "hdraoulec",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jTOQx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello la team - On envisage de partir en POC sur DemandBase, est-ce que certains d'entre-vous l'utilisent ici et seraient prêts à me faire un partage d'expérience ? Merci "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

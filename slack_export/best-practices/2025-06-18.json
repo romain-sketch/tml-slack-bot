@@ -1,0 +1,1570 @@
+[
+    {
+        "user": "U016QJZLRN3",
+        "type": "message",
+        "ts": "1750231423.640859",
+        "client_msg_id": "45620128-7177-49f3-bdda-0c6b3ee7eda1",
+        "text": "Je voulais juste dire un grand merci à <@U08V1NE4BUJ> qui nous a fait un retour d’expérience sur son processus de génération de posts LinkedIn grâce à l’IA avec <@U067VEJFT5F> &amp; <@U08M0JP81DK> suite à une discussion sur ce channel, super précieux d’avoir tant de réactivité et de partage des membres ! :raised_hands:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "8f96b26362da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-09\/4613327625731_8f96b26362dac7316985_72.jpg",
+            "first_name": "Célia",
+            "real_name": "Célia Poncelin",
+            "display_name": "Célia Poncelin",
+            "team": "T017AGS2KE0",
+            "name": "celia.poncelin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750231423.640859",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1750272982.857109",
+        "reply_users": [
+            "U04L35Y9D08",
+            "U016QJZLRN3",
+            "U08V1NE4BUJ",
+            "U06EKS2T9EE"
+        ],
+        "replies": [
+            {
+                "user": "U04L35Y9D08",
+                "ts": "1750234130.024159"
+            },
+            {
+                "user": "U016QJZLRN3",
+                "ts": "1750260712.652919"
+            },
+            {
+                "user": "U08V1NE4BUJ",
+                "ts": "1750260758.504129"
+            },
+            {
+                "user": "U06EKS2T9EE",
+                "ts": "1750267035.990849"
+            },
+            {
+                "user": "U08V1NE4BUJ",
+                "ts": "1750272960.622569"
+            },
+            {
+                "user": "U08V1NE4BUJ",
+                "ts": "1750272982.857109"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kst4N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je voulais juste dire un grand merci à "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08V1NE4BUJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " qui nous a fait un retour d’expérience sur son processus de génération de posts LinkedIn grâce à l’IA avec "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U067VEJFT5F"
+                            },
+                            {
+                                "type": "text",
+                                "text": " & "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08M0JP81DK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " suite à une discussion sur ce channel, super précieux d’avoir tant de réactivité et de partage des membres ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "unicode": "1f64c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U04L35Y9D08",
+                    "U08M0JP81DK",
+                    "U06DYTRDLUD"
+                ],
+                "count": 3
+            },
+            {
+                "name": "hearts",
+                "users": [
+                    "U07MNBM4WLV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1750231805.966329",
+        "client_msg_id": "dc48b80f-97a3-47d0-8791-fc4779a7cda4",
+        "text": "Oh mince je viens juste de voir votre discussion, j'ai loupé le call.. est-ce que vous auriez fait trainer un notetaker dans le call à tout hasard ? :pray:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749719720.417789",
+        "parent_user_id": "U016QJZLRN3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U9jub",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh mince je viens juste de voir votre discussion, j'ai loupé le call.. est-ce que vous auriez fait trainer un notetaker dans le call à tout hasard ? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08V1NE4BUJ",
+        "type": "message",
+        "ts": "1750232709.226959",
+        "client_msg_id": "d81cd44b-e61c-4218-bcc0-b79a832876f3",
+        "text": "je t’envoie le tl;dv en mp :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "3654a4fc5d4e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-02\/8999698350033_3654a4fc5d4e25a0a92c_72.jpg",
+            "first_name": "Alan",
+            "real_name": "Alan Huet (Fundora)",
+            "display_name": "Alan HUET",
+            "team": "T017AGS2KE0",
+            "name": "alan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749719720.417789",
+        "parent_user_id": "U016QJZLRN3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oStc2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je t’envoie le tl;dv en mp "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "U078PFP7A4B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04L35Y9D08",
+        "type": "message",
+        "ts": "1750234130.024159",
+        "client_msg_id": "44CAB03C-327B-4278-B73D-2019853DC1A2",
+        "text": "J’ai vu le post et les échanges, mais impossible de me joindre à vous, cette fois ! \nPreneur d’un tl;dr s’il y en a un :slightly_smiling_face: ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "568f5815adda",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4705573084496_568f5815addab51accfb_72.jpg",
+            "first_name": "Paul",
+            "real_name": "Paul LEMONNIER",
+            "display_name": "Paul",
+            "team": "T017AGS2KE0",
+            "name": "paul.lemonnier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750231423.640859",
+        "parent_user_id": "U016QJZLRN3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NjJTg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J’ai"
+                            },
+                            {
+                                "type": "text",
+                                "text": " vu le post et les échanges, mais impossible de me joindre à vous, cette fois ! \nPreneur "
+                            },
+                            {
+                                "type": "text",
+                                "text": "d’un"
+                            },
+                            {
+                                "type": "text",
+                                "text": " tl;dr "
+                            },
+                            {
+                                "type": "text",
+                                "text": "s’il"
+                            },
+                            {
+                                "type": "text",
+                                "text": " y en a un "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04L35Y9D08",
+        "type": "message",
+        "ts": "1750234301.647209",
+        "client_msg_id": "D31763A1-B723-40B4-BE0A-76A60F690668",
+        "text": "Hello les TML, \n\nAvez-vous un benchmark des TJM des agences \/ free-lances ops ?\n\nJ’ai une proposition d’un cab data et CRM à 1200€\/j pour le lead sur la mission et 950€\/j pour les spécialistes data. \n\nÇa me paraît cher, preneur de vos retours !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "568f5815adda",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4705573084496_568f5815addab51accfb_72.jpg",
+            "first_name": "Paul",
+            "real_name": "Paul LEMONNIER",
+            "display_name": "Paul",
+            "team": "T017AGS2KE0",
+            "name": "paul.lemonnier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750234301.647209",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1750245728.010729",
+        "reply_users": [
+            "U084KTR7YKX",
+            "U04L35Y9D08",
+            "U0183AS3MB6",
+            "U02N2EVMFCG"
+        ],
+        "replies": [
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1750234521.362209"
+            },
+            {
+                "user": "U04L35Y9D08",
+                "ts": "1750234629.495879"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1750236803.105589"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1750239604.051399"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1750240385.805049"
+            },
+            {
+                "user": "U04L35Y9D08",
+                "ts": "1750245728.010729"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RXVk0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello les TML, \n\nAvez-vous un benchmark des TJM des agences \/ free-lances ops ?\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "J’ai"
+                            },
+                            {
+                                "type": "text",
+                                "text": " une proposition "
+                            },
+                            {
+                                "type": "text",
+                                "text": "d’un"
+                            },
+                            {
+                                "type": "text",
+                                "text": " cab data et CRM à 1200€\/j pour le lead sur la mission et 950€\/j pour les spécialistes data. \n\nÇa me paraît cher, preneur de vos retours !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1750234521.362209",
+        "edited": {
+            "user": "U084KTR7YKX",
+            "ts": "1750234534.000000"
+        },
+        "client_msg_id": "f6cd5756-01de-42b2-b0df-82ab747cdb60",
+        "text": "chez fifty-five (cab data aussi) c'était junior 700-800, senior 900-1000, leads 1100-1200 et managers\/directeurs 1300-1500 - pour des prestas assez premiums.\nen 2017 :slightly_smiling_face:\n\nles cabinets de conseils c'est souvent cher malheureusement vs des freelancers en direct",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750234301.647209",
+        "parent_user_id": "U04L35Y9D08",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "igGdw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "chez fifty-five (cab data aussi) c'était junior 700-800, senior 900-1000, leads 1100-1200 et managers\/directeurs 1300-1500 - pour des prestas assez premiums.\nen 2017 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nles cabinets de conseils c'est souvent cher malheureusement vs des freelancers en direct"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04L35Y9D08"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04L35Y9D08",
+        "type": "message",
+        "ts": "1750234629.495879",
+        "client_msg_id": "76BA72D8-E0E4-4F82-94C4-31AC68415A1B",
+        "text": "Merci Gwenn!\nOui, ils sont chers, mais c’est assez aligné finalement. C’est Cartelis en l’occurrence, donc pas aussi premium, mais 8 ans après, c’est pas deconnant que ça ait monté un peu ! ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "568f5815adda",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4705573084496_568f5815addab51accfb_72.jpg",
+            "first_name": "Paul",
+            "real_name": "Paul LEMONNIER",
+            "display_name": "Paul",
+            "team": "T017AGS2KE0",
+            "name": "paul.lemonnier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750234301.647209",
+        "parent_user_id": "U04L35Y9D08",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S6txV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci Gwenn!\nOui, ils sont chers, mais "
+                            },
+                            {
+                                "type": "text",
+                                "text": "c’est"
+                            },
+                            {
+                                "type": "text",
+                                "text": " assez aligné finalement. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "C’est"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Cartelis en "
+                            },
+                            {
+                                "type": "text",
+                                "text": "l’occurrence"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", donc pas aussi premium, mais 8 ans après, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "c’est"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pas deconnant que ça ait monté un peu ! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U084KTR7YKX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1750236803.105589",
+        "client_msg_id": "bbf5628c-3521-49bd-afa0-8394521b0833",
+        "text": "Je confirme que ce sont des profils chers, on a même des freelances qui postulent avec ce TJM là chez Bulldozer pour info… :sweat_smile:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750234301.647209",
+        "parent_user_id": "U04L35Y9D08",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rzi9i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je confirme que ce sont des profils chers, on a même des freelances qui postulent avec ce TJM là chez Bulldozer pour info… "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sweat_smile",
+                "users": [
+                    "U04L35Y9D08"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1750239604.051399",
+        "client_msg_id": "a0b2acad-5a30-4d39-aea8-1c7f3dafd449",
+        "text": "Hello, comme Jordan chez Hirondo on a des profils moins chers et moins gourmands, et la structure de coûts est bien plus légère",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750234301.647209",
+        "parent_user_id": "U04L35Y9D08",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0ya34",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, comme Jordan chez Hirondo on a des profils moins chers et moins gourmands, et la structure de coûts est bien plus légère"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Chez nous :point_down:",
+        "files": [
+            {
+                "id": "F091ZNVV682",
+                "created": 1750240380,
+                "timestamp": 1750240380,
+                "name": "Capture d’écran 2025-06-18 à 11.52.55.png",
+                "title": "Capture d’écran 2025-06-18 à 11.52.55.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02N2EVMFCG",
+                "user_team": "T017AGS2KE0",
+                "editable": false,
+                "size": 80553,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F091ZNVV682\/capture_d___e__cran_2025-06-18_a___11.52.55.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F091ZNVV682\/download\/capture_d___e__cran_2025-06-18_a___11.52.55.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F091ZNVV682-078d0a0b27\/capture_d___e__cran_2025-06-18_a___11.52.55_64.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F091ZNVV682-078d0a0b27\/capture_d___e__cran_2025-06-18_a___11.52.55_80.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F091ZNVV682-078d0a0b27\/capture_d___e__cran_2025-06-18_a___11.52.55_360.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360_w": 360,
+                "thumb_360_h": 117,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F091ZNVV682-078d0a0b27\/capture_d___e__cran_2025-06-18_a___11.52.55_480.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_480_w": 480,
+                "thumb_480_h": 156,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F091ZNVV682-078d0a0b27\/capture_d___e__cran_2025-06-18_a___11.52.55_160.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F091ZNVV682-078d0a0b27\/capture_d___e__cran_2025-06-18_a___11.52.55_720.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720_w": 720,
+                "thumb_720_h": 234,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F091ZNVV682-078d0a0b27\/capture_d___e__cran_2025-06-18_a___11.52.55_800.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_800_w": 800,
+                "thumb_800_h": 260,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F091ZNVV682-078d0a0b27\/capture_d___e__cran_2025-06-18_a___11.52.55_960.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_960_w": 960,
+                "thumb_960_h": 312,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F091ZNVV682-078d0a0b27\/capture_d___e__cran_2025-06-18_a___11.52.55_1024.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 333,
+                "original_w": 2266,
+                "original_h": 736,
+                "thumb_tiny": "AwAPADDSoo5o5oATPyZ9qWm4+XGe1LmgBaKOaKAP\/9k=",
+                "permalink": "https:\/\/techmarketingleaders.slack.com\/files\/U017U6M2G00\/F091ZNVV682\/capture_d___e__cran_2025-06-18_a___11.52.55.png",
+                "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F091ZNVV682-9601e1c073",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U02N2EVMFCG",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rhc5m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Chez nous "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_down",
+                                "unicode": "1f447"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1750240385.805049",
+        "client_msg_id": "a62986c7-4de9-4aef-be97-376773aefbf7",
+        "thread_ts": "1750234301.647209",
+        "parent_user_id": "U04L35Y9D08",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U016QJZLRN3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04L35Y9D08",
+        "type": "message",
+        "ts": "1750245728.010729",
+        "client_msg_id": "8ED474C9-BBF7-4A46-8D48-335E3DDF2D88",
+        "text": "Trop bien, merci, ça va m’aider à négocier, ca reste un peu élevé ! ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "568f5815adda",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4705573084496_568f5815addab51accfb_72.jpg",
+            "first_name": "Paul",
+            "real_name": "Paul LEMONNIER",
+            "display_name": "Paul",
+            "team": "T017AGS2KE0",
+            "name": "paul.lemonnier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750234301.647209",
+        "parent_user_id": "U04L35Y9D08",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4GjyO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Trop bien, merci, ça va "
+                            },
+                            {
+                                "type": "text",
+                                "text": "m’aider"
+                            },
+                            {
+                                "type": "text",
+                                "text": " à négocier, ca reste un peu élevé ! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07MNBM4WLV",
+        "type": "message",
+        "ts": "1750255715.096029",
+        "client_msg_id": "e0c20b5b-600e-42a0-b1f9-b259876952c0",
+        "text": "Hello,\nest-ce que certains d'entre vous ont réussi a bien leverage G2 et notamment leur offre payante ?\n(récupérer plus de reviews plus vite, avoir de la data d'intent pour des campagnes, apparaitre en premier dans les recherches etc).",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "028ce63b55be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7733128030774_028ce63b55be29945d4f_72.jpg",
+            "first_name": "Domitille",
+            "real_name": "Domitille de Saint-Exupéry",
+            "display_name": "Domitille de Saint-Exupéry (lemlist)",
+            "team": "T017AGS2KE0",
+            "name": "domitille433",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750255715.096029",
+        "reply_count": 9,
+        "reply_users_count": 6,
+        "latest_reply": "1750261106.550319",
+        "reply_users": [
+            "U078PFP7A4B",
+            "U01A4GMRRR9",
+            "U063A8VPPG9",
+            "U07MNBM4WLV",
+            "U03CY07UZJM",
+            "U016SBPG7K9"
+        ],
+        "replies": [
+            {
+                "user": "U078PFP7A4B",
+                "ts": "1750256124.712249"
+            },
+            {
+                "user": "U01A4GMRRR9",
+                "ts": "1750256653.360349"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1750257083.762859"
+            },
+            {
+                "user": "U07MNBM4WLV",
+                "ts": "1750257754.126179"
+            },
+            {
+                "user": "U03CY07UZJM",
+                "ts": "1750257763.003649"
+            },
+            {
+                "user": "U07MNBM4WLV",
+                "ts": "1750258033.708419"
+            },
+            {
+                "user": "U03CY07UZJM",
+                "ts": "1750259466.403799"
+            },
+            {
+                "user": "U016SBPG7K9",
+                "ts": "1750260662.833129"
+            },
+            {
+                "user": "U016SBPG7K9",
+                "ts": "1750261106.550319"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QaMCX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello,\nest-ce que certains d'entre vous ont réussi a bien leverage G2 et notamment leur offre payante ?\n(récupérer plus de reviews plus vite, avoir de la data d'intent pour des campagnes, apparaitre en premier dans les recherches etc)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1750256124.712249",
+        "client_msg_id": "7dc4ae78-4037-4d50-8d54-e80a33a6e865",
+        "text": "Hello !\nNoooon, et je galère pour tous les points mentionnés. Mais je suis en version gratuite :grimacing:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750255715.096029",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dTWin",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello !\nNoooon, et je galère pour tous les points mentionnés. Mais je suis en version gratuite "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grimacing",
+                                "unicode": "1f62c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1750256653.360349",
+        "client_msg_id": "5232f1e8-10f8-42e6-a287-b77bc3f5264e",
+        "text": "Hi, On a plus de 500 avis et on est plutôt bon sur l'outil.\n<@U03CY07UZJM> a eu un call avec la personne chez moi qui gère cela, il peut partager ses notes sans doute",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750255715.096029",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pbXX+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi, On a plus de 500 avis et on est plutôt bon sur l'outil.\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CY07UZJM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a eu un call avec la personne chez moi qui gère cela, il peut partager ses notes sans doute"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1750257083.762859",
+        "client_msg_id": "745a7cac-85d9-4db8-ac91-116cd7d86854",
+        "text": "hyper interessée ausssi, j'ai galéré de fou",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750255715.096029",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KvEUz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hyper interessée ausssi, j'ai galéré de fou"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07MNBM4WLV",
+        "type": "message",
+        "ts": "1750257754.126179",
+        "client_msg_id": "46ccce32-3e55-4476-8889-21e6494dd9cd",
+        "text": "ah oui preneuse des notes :smile:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "028ce63b55be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7733128030774_028ce63b55be29945d4f_72.jpg",
+            "first_name": "Domitille",
+            "real_name": "Domitille de Saint-Exupéry",
+            "display_name": "Domitille de Saint-Exupéry (lemlist)",
+            "team": "T017AGS2KE0",
+            "name": "domitille433",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750255715.096029",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F2Mxs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ah oui preneuse des notes "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Avec plaisir, voilà les notes",
+        "files": [
+            {
+                "id": "F092DUXNR7B",
+                "created": 1750257754,
+                "timestamp": 1750257754,
+                "name": "G2.pdf",
+                "title": "G2.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U03CY07UZJM",
+                "user_team": "T017AGS2KE0",
+                "editable": false,
+                "size": 75835,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F092DUXNR7B\/g2.pdf?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F092DUXNR7B\/download\/g2.pdf?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F092DUXNR7B-387d9a9940\/g2_thumb_pdf.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_pdf_w": 911,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/techmarketingleaders.slack.com\/files\/U017U6M2G00\/F092DUXNR7B\/g2.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F092DUXNR7B-b761486599",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03CY07UZJM",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xZ4I5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Avec plaisir, voilà les notes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1750257763.003649",
+        "client_msg_id": "c07cc994-eb34-46b0-a7ec-a06fda6201a5",
+        "thread_ts": "1750255715.096029",
+        "parent_user_id": "U07MNBM4WLV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U07MNBM4WLV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U07MNBM4WLV",
+        "type": "message",
+        "ts": "1750258033.708419",
+        "client_msg_id": "e358f4c4-fb56-4bb4-b639-7cd97f5e0bb3",
+        "text": "quand ils contactent tes clients G2, ils le font via la data que tu leur donnes ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "028ce63b55be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7733128030774_028ce63b55be29945d4f_72.jpg",
+            "first_name": "Domitille",
+            "real_name": "Domitille de Saint-Exupéry",
+            "display_name": "Domitille de Saint-Exupéry (lemlist)",
+            "team": "T017AGS2KE0",
+            "name": "domitille433",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750255715.096029",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sw\/xU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "quand ils contactent tes clients G2, ils le font via la data que tu leur donnes ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03CY07UZJM",
+        "type": "message",
+        "ts": "1750259466.403799",
+        "client_msg_id": "8dd1127b-690f-479a-933b-d3434826a2bd",
+        "text": "je l'avais pas questionné là-dessus, mais j'imagine que oui",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "cf1b09b1a910",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-02\/6894190939717_cf1b09b1a910eb11be75_72.jpg",
+            "first_name": "Patrice",
+            "real_name": "Patrice Barbesier",
+            "display_name": "Patrice Barbesier",
+            "team": "T017AGS2KE0",
+            "name": "patrice.barbesier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750255715.096029",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T6KeT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je l'avais pas questionné là-dessus, mais j'imagine que oui"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U07MNBM4WLV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U07BLPPL3C1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1750260662.833129",
+        "client_msg_id": "15341fac-38aa-4f98-8566-32661d291811",
+        "text": "On a ultra poncé G2 en payant et maintenant churné (1600 reviews). Je devrais faire une note aussi car la question remonte beaucoup.\nEn résumé : Je pense que c'est pas une dépense très justifiable car 100% des vrais bénéfices sont gratuits, sauf si tu galères vraiment à générer des reviews toi-même (il y a un playbook clair pour faire au mieux, mais ça demande quand meme un peu de temps à 1 IC voire 2 pour gérer les campagnes et rewards notamment).\n\nLes intents G2, j'attends encore de rencontrer le marketer qui me dit que ça a marché pour lui\/elle. Nous on avait des insights super du genre \"Someone at Walmart is comparing Zoom and Teams\". Je caricature, mais à moins de cibler des boites de &lt;50 personnes où tu es quasi sûre de pouvoir trouver ton end user\/buyer à partir juste du nom de boite, je vois vraiment pas comment leverager ces infos (ou alors juste comme un signal ABM parmi 100 autres).",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750255715.096029",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P0lQi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On a ultra poncé G2 en payant et maintenant churné (1600 reviews). Je devrais faire une note aussi car la question remonte beaucoup.\nEn résumé : Je pense que c'est pas une dépense très justifiable car 100% des vrais bénéfices sont gratuits, sauf si tu galères vraiment à générer des reviews toi-même (il y a un playbook clair pour faire au mieux, mais ça demande quand meme un peu de temps à 1 IC voire 2 pour gérer les campagnes et rewards notamment).\n\nLes intents G2, j'attends encore de rencontrer le marketer qui me dit que ça a marché pour lui\/elle. Nous on avait des insights super du genre \"Someone at Walmart is comparing Zoom and Teams\". Je caricature, mais à moins de cibler des boites de <50 personnes où tu es quasi sûre de pouvoir trouver ton end user\/buyer à partir juste du nom de boite, je vois vraiment pas comment leverager ces infos (ou alors juste comme un signal ABM parmi 100 autres)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U016QJZLRN3",
+        "type": "message",
+        "ts": "1750260712.652919",
+        "client_msg_id": "29fd22b5-b845-43a7-ab31-4592090151e3",
+        "text": "<@U08V1NE4BUJ> en a fait un :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "8f96b26362da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-09\/4613327625731_8f96b26362dac7316985_72.jpg",
+            "first_name": "Célia",
+            "real_name": "Célia Poncelin",
+            "display_name": "Célia Poncelin",
+            "team": "T017AGS2KE0",
+            "name": "celia.poncelin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750231423.640859",
+        "parent_user_id": "U016QJZLRN3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YmwQF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U08V1NE4BUJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " en a fait un "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08V1NE4BUJ",
+        "type": "message",
+        "ts": "1750260758.504129",
+        "client_msg_id": "41023a74-bd59-4a8a-9240-11c18cd85517",
+        "text": "yes je lui ai envoyé :wink:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "3654a4fc5d4e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-02\/8999698350033_3654a4fc5d4e25a0a92c_72.jpg",
+            "first_name": "Alan",
+            "real_name": "Alan Huet (Fundora)",
+            "display_name": "Alan HUET",
+            "team": "T017AGS2KE0",
+            "name": "alan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750231423.640859",
+        "parent_user_id": "U016QJZLRN3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DFkOd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes je lui ai envoyé "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1750261106.550319",
+        "client_msg_id": "e4cb93c4-fd19-489e-a4ec-ed23ae81dbc8",
+        "text": "Grosse diff par rapport à la note de Patrice : nous on fait du volume, et beaucoup de reviews de Livestorm sont faites par des SMBs sur G2. Notre système pour générer des avis est bien moins manuel et au cas par cas que ce que fait CS (d'ailleurs, incroyable ce playbook customer marketing ! :heart_eyes:)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750255715.096029",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wZAaP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Grosse diff par rapport à la note de Patrice : nous on fait du volume, et beaucoup de reviews de Livestorm sont faites par des SMBs sur G2. Notre système pour générer des avis est bien moins manuel et au cas par cas que ce que fait CS (d'ailleurs, incroyable ce playbook customer marketing ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_eyes",
+                                "unicode": "1f60d"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06EKS2T9EE",
+        "type": "message",
+        "ts": "1750267035.990849",
+        "client_msg_id": "b5d1b2f8-45b0-4f3a-813e-939ef29d36c3",
+        "text": "Ça m'intéresse aussi <@U08V1NE4BUJ> :blush: !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "67436d6635b7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-22\/6520984669921_67436d6635b7e99b97ef_72.png",
+            "first_name": "Julie",
+            "real_name": "Julie Bidault",
+            "display_name": "Julie Bidault",
+            "team": "T017AGS2KE0",
+            "name": "julie.cbidault",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750231423.640859",
+        "parent_user_id": "U016QJZLRN3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iIIIG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ça m'intéresse aussi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08V1NE4BUJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08V1NE4BUJ",
+        "type": "message",
+        "ts": "1750272960.622569",
+        "client_msg_id": "40E19E0B-6ED1-41F1-9FB9-C91032C6F872",
+        "text": "<@U06EKS2T9EE> écris moi en mp je t’envoie le tl dv ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "3654a4fc5d4e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-02\/8999698350033_3654a4fc5d4e25a0a92c_72.jpg",
+            "first_name": "Alan",
+            "real_name": "Alan Huet (Fundora)",
+            "display_name": "Alan HUET",
+            "team": "T017AGS2KE0",
+            "name": "alan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750231423.640859",
+        "parent_user_id": "U016QJZLRN3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LVI4O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06EKS2T9EE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " écris moi en mp je t’envoie le tl dv "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06EKS2T9EE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U08V1NE4BUJ",
+        "type": "message",
+        "ts": "1750272982.857109",
+        "client_msg_id": "593EF289-9ECF-4616-A499-D6D639CFD47B",
+        "text": "<@U016QJZLRN3> merci beaucoup pour ton retour :relaxed: :pray::skin-tone-2: :pray::skin-tone-2: ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "3654a4fc5d4e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-02\/8999698350033_3654a4fc5d4e25a0a92c_72.jpg",
+            "first_name": "Alan",
+            "real_name": "Alan Huet (Fundora)",
+            "display_name": "Alan HUET",
+            "team": "T017AGS2KE0",
+            "name": "alan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750231423.640859",
+        "parent_user_id": "U016QJZLRN3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kr9Ry",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U016QJZLRN3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " merci beaucoup pour ton retour "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "relaxed",
+                                "unicode": "263a-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

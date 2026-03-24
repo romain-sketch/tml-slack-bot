@@ -1,0 +1,132 @@
+[
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1739511329.043329",
+        "client_msg_id": "dba1d9e8-7073-4701-ab0d-36714be125ab",
+        "text": "Hello <!here> comment ça va ?\nEst-ce que vous pouvez me dire *quels sites RH sont les meilleurs pour une annonce* produit (lancement nouvelle plateforme Shapr) dans 15 jours ? <@U03P99RGMTN> j'ai vu que tu as fait une tribune das Focus RH, <@U07LN85V6TG> que tu diffuses sur RH Matin, etc. ? J'aimerais choisir les quelques cibles pertinents pour toucher les RH, TAM et les _hiring managers_ qui sont les principaux utilisateurs de Shapr aujourd'hui... merci !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739511329.043329",
+        "reply_count": 8,
+        "reply_users_count": 4,
+        "latest_reply": "1739803814.265279",
+        "reply_users": [
+            "U03P99RGMTN",
+            "U07LN85V6TG",
+            "U04SM1RGPJB",
+            "U02N2EVMFCG"
+        ],
+        "replies": [
+            {
+                "user": "U03P99RGMTN",
+                "ts": "1739523498.057109"
+            },
+            {
+                "user": "U03P99RGMTN",
+                "ts": "1739523592.208969"
+            },
+            {
+                "user": "U07LN85V6TG",
+                "ts": "1739524863.412679"
+            },
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1739525665.079869"
+            },
+            {
+                "user": "U07LN85V6TG",
+                "ts": "1739525871.297229"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1739542701.066159"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1739790877.879089"
+            },
+            {
+                "user": "U07LN85V6TG",
+                "ts": "1739803814.265279"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BpVaX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " comment ça va ?\nEst-ce que vous pouvez me dire "
+                            },
+                            {
+                                "type": "text",
+                                "text": "quels sites RH sont les meilleurs pour une annonce",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " produit (lancement nouvelle plateforme Shapr) dans 15 jours ? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03P99RGMTN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " j'ai vu que tu as fait une tribune das Focus RH, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07LN85V6TG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " que tu diffuses sur RH Matin, etc. ? J'aimerais choisir les quelques cibles pertinents pour toucher les RH, TAM et les "
+                            },
+                            {
+                                "type": "text",
+                                "text": "hiring managers",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " qui sont les principaux utilisateurs de Shapr aujourd'hui... merci !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

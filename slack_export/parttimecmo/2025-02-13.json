@@ -1,0 +1,397 @@
+[
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1739454554.543069",
+        "client_msg_id": "36fd6dbf-e814-4b2c-80d5-e354ac17ab69",
+        "text": "Hello, pour un prospect, je recherche un(e) rockstar en PLG, acquisition B2C, savoir-faire TikTok Insta et tout le tralala. Pour prendre le lead d'une très belle scale-up marketing EdTech. *Qui recommanderiez-vous ?* J'ai parlé CEO ce midi et ça a l'air de dépoter, il faut quelqu'un avec un beau _track record._ Mission _full-time_, interim 6 mois au moins. Merci !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739454554.543069",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1739459609.211559",
+        "reply_users": [
+            "U0183AS3MB6",
+            "U02N2EVMFCG",
+            "U063A8VPPG9"
+        ],
+        "replies": [
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1739454886.379219"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1739455527.204319"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1739457291.799769"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1739458356.706849"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1739459609.211559"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ishTa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, pour un prospect, je recherche un(e) rockstar en PLG, acquisition B2C, savoir-faire TikTok Insta et tout le tralala. Pour prendre le lead d'une très belle scale-up marketing EdTech. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Qui recommanderiez-vous ?",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " J'ai parlé CEO ce midi et ça a l'air de dépoter, il faut quelqu'un avec un beau "
+                            },
+                            {
+                                "type": "text",
+                                "text": "track record.",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Mission"
+                            },
+                            {
+                                "type": "text",
+                                "text": " full-time",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", interim 6 mois au moins. Merci !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "x",
+                "users": [
+                    "U063A8VPPG9",
+                    "U06LENY5V6Z"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1739454886.379219",
+        "client_msg_id": "88376e0d-366d-42e8-b4ac-e26e0f9a7fde",
+        "text": "Je peux te faire une intro à <https:\/\/www.linkedin.com\/in\/charlesalexandreperetz\/?originalSubdomain=fr|Charles-Alexandre> si tu veux, gros gros gros profil perf B2C.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739454554.543069",
+        "parent_user_id": "U02N2EVMFCG",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/charlesalexandreperetz\/?originalSubdomain=fr",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/charlesalexandreperetz\/?originalSubdomain=fr",
+                "fallback": "Charles-alexandre Peretz - Drive to store Group | LinkedIn",
+                "text": "Expérience : Drive to store Group · Formation : Ecole de Management de Marseille · Lieu : Paris · 500 relations ou plus sur LinkedIn. Consultez le profil de Charles-alexandre Peretz sur LinkedIn, une communauté professionnelle d’un milliard de membres.",
+                "title": "Charles-alexandre Peretz - Drive to store Group | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/charlesalexandreperetz\/?originalSubdomain=fr",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vxYGb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je peux te faire une intro à "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/charlesalexandreperetz\/?originalSubdomain=fr",
+                                "text": "Charles-Alexandre"
+                            },
+                            {
+                                "type": "text",
+                                "text": " si tu veux, gros gros gros profil perf B2C."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02N2EVMFCG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1739455527.204319",
+        "client_msg_id": "fd903f14-1243-4f28-a38d-4d29941a01f9",
+        "text": "Hello Jordan, merci ! Il a l'air top, peut-être + corp que _scale-up_ (en toute nuance) ? Mais chaud pour une intro si tu pense que ça peut _match_",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739454554.543069",
+        "parent_user_id": "U02N2EVMFCG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4+RTP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Jordan, merci ! Il a l'air top, peut-être + corp que "
+                            },
+                            {
+                                "type": "text",
+                                "text": "scale-up",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " (en toute nuance) ? Mais chaud pour une intro si tu pense que ça peut "
+                            },
+                            {
+                                "type": "text",
+                                "text": "match",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1739457291.799769",
+        "client_msg_id": "b15baf57-fc89-4000-bb5d-8c6c53dad095",
+        "text": "Ha pour le coup il est trèèèès scale up :smile:\nMais il a surtout fait des missions en indé qu’il ne met pas sur son linkedin. Je te fais une intro",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739454554.543069",
+        "parent_user_id": "U02N2EVMFCG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OrAkd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ha pour le coup il est trèèèès scale up "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nMais il a surtout fait des missions en indé qu’il ne met pas sur son linkedin. Je te fais une intro"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02N2EVMFCG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1739458356.706849",
+        "client_msg_id": "89d76865-3fc8-4029-b4f5-b99be5f59311",
+        "text": "Merci !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739454554.543069",
+        "parent_user_id": "U02N2EVMFCG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CHpyc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1739459609.211559",
+        "client_msg_id": "8e93eb17-ce32-41d2-8cb6-6b5eb633e49b",
+        "text": "je connais personne en B2C :confused:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739454554.543069",
+        "parent_user_id": "U02N2EVMFCG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hsG+b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je connais personne en B2C "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused",
+                                "unicode": "1f615"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U02N2EVMFCG"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

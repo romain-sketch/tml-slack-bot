@@ -1,0 +1,87 @@
+[
+    {
+        "user": "U09EFH6S1BQ",
+        "type": "message",
+        "ts": "1757663924.466909",
+        "client_msg_id": "c4501200-1c5b-4d9e-9ba6-58e672562c0b",
+        "text": "Bonjour à tous,\nMerci pour votre accueil et merci <@U04TR6DMRPF> pour ta recommandation !\nPour me présenter en quelques mots : j’ai un background tech, puis j’ai passé une quinzaine d’années chez Microsoft sur des industries B2C (Retail, Online, Telcos). Depuis 6 ans, j’évolue dans le SaaS B2B, d’abord chez Intuit et aujourd’hui chez CybelAngel.\nMes sujets du moment : SEO\/GEO, GTM US, et bien sûr, intégrer l’IA dans nos process partout où cela fait sens.\nAu plaisir d'échanger avec vous et d’apporter ma contribution à la communauté TML !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "ffa600162240",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-02-04\/10441989667490_ffa600162240cca72992_72.png",
+            "first_name": "Timothée",
+            "real_name": "Timothée COLLARD",
+            "display_name": "Timothée COLLARD",
+            "team": "T017AGS2KE0",
+            "name": "timothee.collard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ajMeZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour à tous,\nMerci pour votre accueil et merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04TR6DMRPF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour ta recommandation !\nPour me présenter en quelques mots : j’ai un background tech, puis j’ai passé une quinzaine d’années chez Microsoft sur des industries B2C (Retail, Online, Telcos). Depuis 6 ans, j’évolue dans le SaaS B2B, d’abord chez Intuit et aujourd’hui chez CybelAngel.\nMes sujets du moment : SEO\/GEO, GTM US, et bien sûr, intégrer l’IA dans nos process partout où cela fait sens.\nAu plaisir d'échanger avec vous et d’apporter ma contribution à la communauté TML !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "the_horns",
+                "users": [
+                    "U03CY07UZJM",
+                    "U078PFP7A4B",
+                    "U0177A5V42F",
+                    "U01A4GMRRR9",
+                    "U07D08K3U0K",
+                    "U0183AS3MB6",
+                    "U08QZ6EKE4Q"
+                ],
+                "count": 7
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U017H09S857",
+                    "U069NSTHZ3Q",
+                    "U03P99RGMTN",
+                    "U04TR6DMRPF",
+                    "U08PLD4KPS8",
+                    "U06MLNEGNKB"
+                ],
+                "count": 6
+            },
+            {
+                "name": "wave",
+                "users": [
+                    "U06LENY5V6Z",
+                    "U055KSYA2AH",
+                    "U092U6UDLMN",
+                    "U04L35Y9D08",
+                    "U07BLPPL3C1",
+                    "U032T5N7UTY"
+                ],
+                "count": 6
+            }
+        ]
+    }
+]

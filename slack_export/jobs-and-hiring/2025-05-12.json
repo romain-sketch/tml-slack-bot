@@ -1,0 +1,119 @@
+[
+    {
+        "user": "U017RAZCAGZ",
+        "type": "message",
+        "ts": "1747045200.449839",
+        "client_msg_id": "b2e24798-8f64-43f3-b4ce-ee73ed8910b6",
+        "text": "Hello à tous, nous cherchons un Chief People Officer chez Phenix. Si jamais vous connaissez quelqu'un de bien, je suis preneuse ! <https:\/\/career.wearephenix.com\/jobs\/5916611-chief-people-officer>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2e6e61c8f204",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-20\/1251040887619_2e6e61c8f20434050630_72.jpg",
+            "first_name": "Hélène",
+            "real_name": "Hélène Draoulec (Phenix)",
+            "display_name": "Hélène Draoulec (Phenix)",
+            "team": "T017AGS2KE0",
+            "name": "hdraoulec",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/screenshots.teamtailor-cdn.com\/7b17578e-6a6d-4565-80bf-8e3714488a6d-facebook.png?update=1747041911",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 978963,
+                "from_url": "https:\/\/career.wearephenix.com\/jobs\/5916611-chief-people-officer",
+                "service_icon": "https:\/\/images.teamtailor-cdn.com\/images\/s3\/teamtailor-production\/favicon_apple-v3\/image_uploads\/379e1281-fdc1-4014-b142-3ca6e107630c\/original.png",
+                "ts": 1747039671,
+                "id": 1,
+                "original_url": "https:\/\/career.wearephenix.com\/jobs\/5916611-chief-people-officer",
+                "fallback": "Phenix: Chief People Officer - Phenix",
+                "text": "Context and team :handshake:&amp;nbsp; Phenix is a French impact-driven company dedicated to the fight against food waste. We offer innovative and practical solutions that help businesses reduce waste and gi...",
+                "title": "Chief People Officer - Phenix",
+                "title_link": "https:\/\/career.wearephenix.com\/jobs\/5916611-chief-people-officer",
+                "service_name": "Phenix"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UwWWN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello à tous, nous cherchons un Chief People Officer chez Phenix. Si jamais vous connaissez quelqu'un de bien, je suis preneuse ! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/career.wearephenix.com\/jobs\/5916611-chief-people-officer"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U067VEJFT5F",
+        "type": "message",
+        "ts": "1747068508.785739",
+        "client_msg_id": "c5c915de-713c-4f6d-8284-51e1b6b7a6f7",
+        "text": "Salut <@U04SM1RGPJB>! Si ce n'est pas trop tard, je serais ravie d'avoir une mise en relation :slightly_smiling_face: thanks!!!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9fcbd8d4bd09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-05\/6296382564371_9fcbd8d4bd095d25ab4c_72.jpg",
+            "first_name": "Amandine",
+            "real_name": "Amandine Moreau",
+            "display_name": "Amandine Moreau",
+            "team": "T017AGS2KE0",
+            "name": "a.gremont.pro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1746177232.652939",
+        "parent_user_id": "U04SM1RGPJB",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UT65N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salut "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04SM1RGPJB"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! Si ce n'est pas trop tard, je serais ravie d'avoir une mise en relation "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thanks!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

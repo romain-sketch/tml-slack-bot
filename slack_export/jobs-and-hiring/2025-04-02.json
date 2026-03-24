@@ -1,0 +1,151 @@
+[
+    {
+        "user": "U08C1HZNT8S",
+        "type": "message",
+        "ts": "1743590022.879839",
+        "edited": {
+            "user": "U08C1HZNT8S",
+            "ts": "1743590038.000000"
+        },
+        "client_msg_id": "90a6c8ee-b41e-4f7f-9e36-98bc816957c3",
+        "text": "Bonjour Raphaëlle, j'ai un profil en tête qui serait parfaite pour le rôle mais elle recherche en full-remote (elle est basée à Lavale ; mais peut venir 1 fois par mois à Paris par exemple). Est-ce que tu serais tout de même ouverte à sa candidature ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "61c9836da04d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-06\/8423651765825_61c9836da04d5e9d3e43_72.jpg",
+            "first_name": "Séverine",
+            "real_name": "Séverine Loeuille (Impact Plus)",
+            "display_name": "Séverine Loeuille (Impact Plus)",
+            "team": "T017AGS2KE0",
+            "name": "severine.loeuille",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743498869.188109",
+        "parent_user_id": "U05H3SJKYFQ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gaqGb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour Raphaëlle, j'ai un profil en tête qui serait parfaite pour le rôle mais elle recherche en full-remote (elle est basée à Lavale ; mais peut venir 1 fois par mois à Paris par exemple). Est-ce que tu serais tout de même ouverte à sa candidature ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07R7CUFM7H",
+        "type": "message",
+        "ts": "1743613288.717969",
+        "client_msg_id": "becefcdf-1583-4b01-a854-1360e7eaed5a",
+        "text": "Tout pareil que Séverine.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "1eabd032cd82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-05\/8152020385456_1eabd032cd826d3f64b3_72.jpg",
+            "first_name": "Mayeul",
+            "real_name": "Mayeul",
+            "display_name": "Mayeul (Mangopay)",
+            "team": "T017AGS2KE0",
+            "name": "mayeul.wattecamps",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743498869.188109",
+        "parent_user_id": "U05H3SJKYFQ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OlbO1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tout pareil que Séverine."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05H3SJKYFQ",
+        "type": "message",
+        "ts": "1743623162.770619",
+        "client_msg_id": "12cc28d6-a2b2-427a-8992-b3b50fff73b6",
+        "text": "malheureusement on va avoir une dimension présentielle plus fréquente sur paris... en même le head of product marketing est sur amsterdam donc pourquoi pas... je veux bien, on peut tenter :slightly_smiling_face: <@U08C1HZNT8S> <@U07R7CUFM7H> merci !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0931617f5e75",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-04\/5842709801061_0931617f5e75eee9f27b_72.jpg",
+            "first_name": "Raphaëlle",
+            "real_name": "Raphaëlle Béguinel - Malt",
+            "display_name": "Raphaëlle Béguinel - Malt",
+            "team": "T017AGS2KE0",
+            "name": "rbeguinel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743498869.188109",
+        "parent_user_id": "U05H3SJKYFQ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pzoX7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "malheureusement on va avoir une dimension présentielle plus fréquente sur paris... en même le head of product marketing est sur amsterdam donc pourquoi pas... je veux bien, on peut tenter "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08C1HZNT8S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07R7CUFM7H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " merci !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

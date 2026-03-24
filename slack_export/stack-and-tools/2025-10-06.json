@@ -1,0 +1,779 @@
+[
+    {
+        "user": "U09BVQYR1GA",
+        "type": "message",
+        "ts": "1759735293.769739",
+        "client_msg_id": "93248559-3c1f-43fd-ad6c-ea76d5d32b41",
+        "text": "Bonjour ! Je suis en train d’analyser des outils de _call recording_ pour les équipes sales et marketing.\n Je cherche une alternative à Chorus ou Gong (que j’ai déjà utilisés, mais trop onéreux) qui permette de :\n• Identifier les *émotions et objections* des prospects pour aider les sales à mieux réagir,\n• *Enregistrer les appels* et générer des *transcripts* exploitables pour le contenu,\n• Fournir des *axes d’amélioration* aux équipes commerciales.\n• D'autres use cases que sont un must-have pour vous dans votre quotidien marketing\/sales ?\nIl me semble que quelqu’un en avait parlé ici par <@U078PFP7A4B> et quelqu'un d'autre, vous auriez des *recommandations* ? :pray:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0ee28ebc77d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-09-09\/9480262349955_0ee28ebc77d7f64eb0e1_72.png",
+            "first_name": "Tania",
+            "real_name": "Tania",
+            "display_name": "Tania",
+            "team": "T017AGS2KE0",
+            "name": "tsaezgrowth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759735293.769739",
+        "reply_count": 17,
+        "reply_users_count": 13,
+        "latest_reply": "1760610213.772969",
+        "reply_users": [
+            "U056DAY3YD8",
+            "U08EN5T6F4L",
+            "U02N2EVMFCG",
+            "U078PFP7A4B",
+            "U017CURDPB5",
+            "U07MNBM4WLV",
+            "U084KTR7YKX",
+            "U025AMSNGF8",
+            "U063A8VPPG9",
+            "U06EN9X790C",
+            "U06DYTRDLUD",
+            "U06U1GG592M",
+            "U092PH1F2CA"
+        ],
+        "replies": [
+            {
+                "user": "U056DAY3YD8",
+                "ts": "1759735634.725499"
+            },
+            {
+                "user": "U08EN5T6F4L",
+                "ts": "1759735826.229449"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1759735829.306109"
+            },
+            {
+                "user": "U078PFP7A4B",
+                "ts": "1759736944.746159"
+            },
+            {
+                "user": "U017CURDPB5",
+                "ts": "1759738930.743739"
+            },
+            {
+                "user": "U07MNBM4WLV",
+                "ts": "1759742870.357499"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1759751195.034189"
+            },
+            {
+                "user": "U025AMSNGF8",
+                "ts": "1759754330.299089"
+            },
+            {
+                "user": "U025AMSNGF8",
+                "ts": "1759754346.892999"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1759772853.289769"
+            },
+            {
+                "user": "U06EN9X790C",
+                "ts": "1759815164.863259"
+            },
+            {
+                "user": "U06DYTRDLUD",
+                "ts": "1759910180.200819"
+            },
+            {
+                "user": "U06U1GG592M",
+                "ts": "1760071810.556869"
+            },
+            {
+                "user": "U017CURDPB5",
+                "ts": "1760365698.931349"
+            },
+            {
+                "user": "U092PH1F2CA",
+                "ts": "1760458637.035399"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1760608234.832229"
+            },
+            {
+                "user": "U017CURDPB5",
+                "ts": "1760610213.772969"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LNKf8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour ! Je suis en train d’analyser des outils de "
+                            },
+                            {
+                                "type": "text",
+                                "text": "call recording",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour les équipes sales et marketing.\n Je cherche une alternative à Chorus ou Gong (que j’ai déjà utilisés, mais trop onéreux) qui permette de :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Identifier les "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "émotions et objections",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " des prospects pour aider les sales à mieux réagir,"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Enregistrer les appels",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " et générer des "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "transcripts",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " exploitables pour le contenu,"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Fournir des "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "axes d’amélioration",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " aux équipes commerciales."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "D'autres use cases que sont un must-have pour vous dans votre quotidien marketing\/sales ?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Il me semble que quelqu’un en avait parlé ici par "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U078PFP7A4B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et quelqu'un d'autre, vous auriez des "
+                            },
+                            {
+                                "type": "text",
+                                "text": "recommandations",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U056DAY3YD8",
+        "type": "message",
+        "ts": "1759735634.725499",
+        "client_msg_id": "0123ce8e-a0c7-4be5-8cde-41f653ac152d",
+        "text": "Claap ! :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "1497d32a4908",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-16\/6043403579731_1497d32a4908ee3b80b5_72.png",
+            "first_name": "Alexis",
+            "real_name": "Alexis Chevallier",
+            "display_name": "Alexis Chevallier (Part-Time CMO)",
+            "team": "T017AGS2KE0",
+            "name": "alexchvllr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759735293.769739",
+        "parent_user_id": "U09BVQYR1GA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tFhnb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Claap ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08EN5T6F4L",
+        "type": "message",
+        "ts": "1759735826.229449",
+        "client_msg_id": "406c658c-c945-4c24-a21d-bb61d5be8f6d",
+        "text": "Hello <@U09BVQYR1GA> on utilise Modjo pour notre part et on en est très contents",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "731ca28d6808",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-18\/8615871359542_731ca28d68086f39666f_72.png",
+            "first_name": "Sidney",
+            "real_name": "Sidney Ouarzazi",
+            "display_name": "Sidney Ouarzazi (Sellsy)",
+            "team": "T017AGS2KE0",
+            "name": "sidney.o",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759735293.769739",
+        "parent_user_id": "U09BVQYR1GA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "amXQl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U09BVQYR1GA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on utilise Modjo pour notre part et on en est très contents"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1759735829.306109",
+        "client_msg_id": "5F07C10D-BFA7-416C-9D98-D2E53955A761",
+        "text": "J’ai eu de très bons échos de Modjo, ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759735293.769739",
+        "parent_user_id": "U09BVQYR1GA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MOB0\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J’ai eu de très bons échos de Modjo"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1759736944.746159",
+        "client_msg_id": "d0073b97-b987-464e-b343-55753b801d63",
+        "text": "On utilise Claap depuis quelques mois pour les calls commerciaux, avant on l'utilisait uniquement en interne. Et c'est un succès, on est ravis :slightly_smiling_face:\n\ncc <@U084KTR7YKX> :wink:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759735293.769739",
+        "parent_user_id": "U09BVQYR1GA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6F5ky",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On utilise Claap depuis quelques mois pour les calls commerciaux, avant on l'utilisait uniquement en interne. Et c'est un succès, on est ravis "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\ncc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U084KTR7YKX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U06TF9YAWEM",
+                    "U084KTR7YKX"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U017CURDPB5",
+        "type": "message",
+        "ts": "1759738930.743739",
+        "client_msg_id": "c9e1888a-960c-4b12-a7a6-a982e9fee4d4",
+        "text": "Hello, On utilise Modjo et c'est top: pour les sales, les manages des sales, le marketing... En revanche pas sur que ce soit moins cher que Chorus ou Gong",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "671ad569fbc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5982967598243_671ad569fbc40977de70_72.jpg",
+            "first_name": "David",
+            "real_name": "David Remaud",
+            "display_name": "David Remaud (iBanFirst)",
+            "team": "T017AGS2KE0",
+            "name": "david.remaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759735293.769739",
+        "parent_user_id": "U09BVQYR1GA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OTo3X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, On utilise Modjo et c'est top: pour les sales, les manages des sales, le marketing... En revanche pas sur que ce soit moins cher que Chorus ou Gong"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07MNBM4WLV",
+        "type": "message",
+        "ts": "1759742870.357499",
+        "client_msg_id": "a71cc858-ee73-4db9-8ce2-00c062beb4db",
+        "text": "Claap aussi ! Outil assez puissant qui évolue vite.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "028ce63b55be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7733128030774_028ce63b55be29945d4f_72.jpg",
+            "first_name": "Domitille",
+            "real_name": "Domitille de Saint-Exupéry",
+            "display_name": "Domitille de Saint-Exupéry (lemlist)",
+            "team": "T017AGS2KE0",
+            "name": "domitille433",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759735293.769739",
+        "parent_user_id": "U09BVQYR1GA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fDk2h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Claap aussi ! Outil assez puissant qui évolue vite."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1759751195.034189",
+        "client_msg_id": "a92ae94b-8cd2-416a-86e4-fe9f46c10df5",
+        "text": "En FR et moins chers que Chorus et Gong pour des cas d'usage avancés en Sales &amp; Marketing - c'est clairement Claap &amp; Modjo. ils ont tous les 2 des forces et faiblesses. Donc le mieux c'est de les comparer selon tes cas d'usages et besoin :slightly_smiling_face:.\n\nje vois que le match est serré dans les commentaires précédents ^^",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759735293.769739",
+        "parent_user_id": "U09BVQYR1GA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t9i9l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En FR et moins chers que Chorus et Gong pour des cas d'usage avancés en Sales & Marketing - c'est clairement Claap & Modjo. ils ont tous les 2 des forces et faiblesses. Donc le mieux c'est de les comparer selon tes cas d'usages et besoin "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n\nje vois que le match est serré dans les commentaires précédents ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U025AMSNGF8",
+        "type": "message",
+        "ts": "1759754330.299089",
+        "client_msg_id": "511e4280-0765-495d-9d40-3023b633b789",
+        "text": "Modjo et Claap sont très bons",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b5f2d16c46f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-18\/6070004520657_b5f2d16c46f6b166931e_72.png",
+            "first_name": "Eliott",
+            "real_name": "Eliott Guerin",
+            "display_name": "Eliott Guerin (Skello)",
+            "team": "T017AGS2KE0",
+            "name": "eliott",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759735293.769739",
+        "parent_user_id": "U09BVQYR1GA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GEH0N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Modjo et Claap sont très bons"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U025AMSNGF8",
+        "type": "message",
+        "ts": "1759754346.892999",
+        "client_msg_id": "887e942d-c1ce-47c0-92b9-a1c5ab3458a8",
+        "text": "(On est chez Modjo)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b5f2d16c46f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-18\/6070004520657_b5f2d16c46f6b166931e_72.png",
+            "first_name": "Eliott",
+            "real_name": "Eliott Guerin",
+            "display_name": "Eliott Guerin (Skello)",
+            "team": "T017AGS2KE0",
+            "name": "eliott",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759735293.769739",
+        "parent_user_id": "U09BVQYR1GA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dzrne",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(On est chez Modjo)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1759772853.289769",
+        "edited": {
+            "user": "U063A8VPPG9",
+            "ts": "1759772859.000000"
+        },
+        "client_msg_id": "4A8F06BF-DADD-488D-996E-530B928E902A",
+        "text": "Modjo et claap sont tops",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759735293.769739",
+        "parent_user_id": "U09BVQYR1GA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "otJCr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Modjo et cla"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ap"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sont tops"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06EN9X790C",
+        "type": "message",
+        "ts": "1759815164.863259",
+        "client_msg_id": "E130FB0D-66C7-4773-ADC7-EDFF3D8773F9",
+        "text": "Modjo :ok_hand::skin-tone-2: ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "bea7f170501a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-20\/6503634777459_bea7f170501a9dc7d1c3_72.jpg",
+            "first_name": "Chiraz",
+            "real_name": "Chiraz Hassen",
+            "display_name": "Chiraz",
+            "team": "T017AGS2KE0",
+            "name": "chiraz.hassen558",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759735293.769739",
+        "parent_user_id": "U09BVQYR1GA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "om1N5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Modjo "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ok_hand",
+                                "unicode": "1f44c-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "user": "U04L04T475K",
+        "type": "message",
+        "ts": "1760004103.432439",
+        "client_msg_id": "d9c13f46-53bd-4fa8-9962-020841adf111",
+        "text": "Hello, je cherche une reco d'agence pour faire du gros affichage outdoor (type billboard sur la face d'une gare ou d'un immeuble) - vous auriez ça sous la main ? Merci !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "992240f01962",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4685704045204_992240f019622b6b0af8_72.jpg",
+            "first_name": "Antoine",
+            "real_name": "Antoine Yahia Cherif",
+            "display_name": "Antoine Yahia Cherif",
+            "team": "T017AGS2KE0",
+            "name": "antoine.yc008",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760004103.432439",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1760024195.094559",
+        "reply_users": [
+            "U09JE6QUZDZ"
+        ],
+        "replies": [
+            {
+                "user": "U09JE6QUZDZ",
+                "ts": "1760024195.094559"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FzBGz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, je cherche une reco d'agence pour faire du gros affichage outdoor (type billboard sur la face d'une gare ou d'un immeuble) - vous auriez ça sous la main ? Merci !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "x",
+                "users": [
+                    "U08SA22HS0J",
+                    "U02N2EVMFCG"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U09JE6QUZDZ",
+        "type": "message",
+        "ts": "1760024195.094559",
+        "client_msg_id": "8238715F-A946-439D-86DD-5A7F9C9C47FE",
+        "text": "Tu ne veux pas passer par une agence média? J’avais bossé avec BIG pour de l’affichage métro, gare et bus événementiel. Et tout s’est bien passé. ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7d0f46079dd0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-10\/9686164664817_7d0f46079dd063043221_72.jpg",
+            "first_name": "Elodie",
+            "real_name": "Elodie Gaussares",
+            "display_name": "Elodie Gaussares",
+            "team": "T017AGS2KE0",
+            "name": "egaussares",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760004103.432439",
+        "parent_user_id": "U04L04T475K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3\/Sa0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tu ne veux pas passer par une agence média? J’avais bossé avec BIG pour de l’affichage métro, gare et bus événementiel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Et tout s’est bien passé"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

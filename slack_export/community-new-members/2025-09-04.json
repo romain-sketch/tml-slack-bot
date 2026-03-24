@@ -1,0 +1,91 @@
+[
+    {
+        "user": "U04CW99BP3Q",
+        "type": "message",
+        "ts": "1756970465.791359",
+        "client_msg_id": "1ae3f36b-e1f0-4c81-a871-4893182552e0",
+        "text": "bravo pour ton nouveau poste !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7e1f9e2f5ffb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-11-30\/4445095862754_7e1f9e2f5ffb646f7b24_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Reboul",
+            "display_name": "Marie Reboul",
+            "team": "T017AGS2KE0",
+            "name": "marie.reboul",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756925975.853509",
+        "parent_user_id": "U04TR6DMRPF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nd0wE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "bravo pour ton nouveau poste !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04TR6DMRPF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U065DFPCQMP",
+        "type": "message",
+        "ts": "1756991459.723069",
+        "client_msg_id": "bb5ea8e5-51fc-4750-a770-b066cd76ef84",
+        "text": "Félicitations Camille !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50040e0261e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-15\/6198553206674_50040e0261e7ba62e840_72.jpg",
+            "first_name": "Gaelle",
+            "real_name": "Gaelle Le Goff",
+            "display_name": "Gaelle Le Goff",
+            "team": "T017AGS2KE0",
+            "name": "gaelle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756925975.853509",
+        "parent_user_id": "U04TR6DMRPF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+fVR7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Félicitations Camille !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

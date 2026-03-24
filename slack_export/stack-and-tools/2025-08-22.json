@@ -1,0 +1,53 @@
+[
+    {
+        "user": "U017RAZCAGZ",
+        "type": "message",
+        "ts": "1755856567.831849",
+        "client_msg_id": "4e7ad2b3-7377-4b8c-a033-520c048889fb",
+        "text": "Bonjour ! Est-ce que certains d'entre-vous ont des retours d'expérience à partager sur Katalyz ou d'autres solutions de \"deal rooms\" ? J'ai l'impression que c'est très adapté ENT, mais que je me pose la question de la pertinence \/ l'impact sur des sales cycles plus courts ? Merci !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2e6e61c8f204",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-20\/1251040887619_2e6e61c8f20434050630_72.jpg",
+            "first_name": "Hélène",
+            "real_name": "Hélène Draoulec (Phenix)",
+            "display_name": "Hélène Draoulec (Phenix)",
+            "team": "T017AGS2KE0",
+            "name": "hdraoulec",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RzBQV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour ! Est-ce que certains d'entre-vous ont des retours d'expérience à partager sur Katalyz ou d'autres solutions de \"deal rooms\" ? J'ai l'impression que c'est très adapté ENT, mais que je me pose la question de la pertinence \/ l'impact sur des sales cycles plus courts ? Merci !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "x",
+                "users": [
+                    "U06DYTRDLUD",
+                    "U069NSTHZ3Q",
+                    "U06CZESF7QF",
+                    "U03P99RGMTN",
+                    "U08M0JP81DK"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

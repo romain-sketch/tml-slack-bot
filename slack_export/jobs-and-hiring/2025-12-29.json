@@ -1,0 +1,144 @@
+[
+    {
+        "user": "U020QK16RMJ",
+        "type": "message",
+        "ts": "1767013947.371449",
+        "client_msg_id": "6474c949-6466-45f6-b8f2-c91f51044e7c",
+        "text": "Done.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "56d8a678e801",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-18\/7292097443269_56d8a678e801350db84a_72.png",
+            "first_name": "Joël",
+            "real_name": "Joël Gaudeul",
+            "display_name": "Joël (Swan)",
+            "team": "T017AGS2KE0",
+            "name": "joel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1766739415.481389",
+        "parent_user_id": "U020QK16RMJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U5pFO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Done."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1767013969.753319",
+        "client_msg_id": "04A6070C-65EC-43FF-90C6-AB7F8881A0AD",
+        "text": "Merci !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1766739415.481389",
+        "parent_user_id": "U020QK16RMJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5SBGc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U020QK16RMJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06E3PY5LAY",
+        "type": "message",
+        "ts": "1767015844.233899",
+        "client_msg_id": "87D98FA3-E55B-4ECA-A2F9-C79EF09BD4CB",
+        "text": "Bonjour <@U020QK16RMJ> . Merci! J’ai un rôle free-lance Évents et ABM chez Photoroom  (Paris avec remote flex) pour tout de suite (CDI à recruter plutôt basé à New York). Pourrais-tu me faire un intro aussi <mailto:elizabeth.coleon@photoroom.com|elizabeth.coleon@photoroom.com>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e6f18bbbcc15",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-16\/6475144975749_e6f18bbbcc1579d4df98_72.png",
+            "first_name": "Elizabeth",
+            "real_name": "Elizabeth Coleon",
+            "display_name": "Elizabeth Coleon",
+            "team": "T017AGS2KE0",
+            "name": "eorzano",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1766739415.481389",
+        "parent_user_id": "U020QK16RMJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5\/gGH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U020QK16RMJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " . Merci! J’ai un rôle free-lance Évents et ABM chez Photoroom  (Paris avec remote flex) pour tout de suite (CDI à recruter plutôt basé à New York). Pourrais-tu me faire un intro aussi "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:elizabeth.coleon@photoroom.com",
+                                "text": "elizabeth.coleon@photoroom.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

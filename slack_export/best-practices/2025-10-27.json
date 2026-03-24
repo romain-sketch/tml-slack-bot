@@ -1,0 +1,989 @@
+[
+    {
+        "user": "U020QK16RMJ",
+        "type": "message",
+        "ts": "1761571887.320269",
+        "client_msg_id": "a94ae12e-e54d-4acc-af40-355034c314ca",
+        "text": "Le 20\/11, on peut le faire en mode hybride si vous le voulez, j'ai normalement le bon setup.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "56d8a678e801",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-18\/7292097443269_56d8a678e801350db84a_72.png",
+            "first_name": "Joël",
+            "real_name": "Joël Gaudeul",
+            "display_name": "Joël (Swan)",
+            "team": "T017AGS2KE0",
+            "name": "joel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759909660.136279",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v1aM\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le 20\/11, on peut le faire en mode hybride si vous le voulez, j'ai normalement le bon setup."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U078PFP7A4B",
+                    "U03P99RGMTN",
+                    "U06DYTRDLUD",
+                    "U017H09S857",
+                    "U01A4GMRRR9"
+                ],
+                "count": 5
+            },
+            {
+                "name": "bulb",
+                "users": [
+                    "U03P99RGMTN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "Hello à tous,\nEst-ce que certaines d’entre vous ont fait du pitch deck un élément central de leur stratégie de suivi et d’analyse, avec <https:\/\/pitch.com\/product|Pitch> ?\nAujourd’hui, on est encore sur Google Slides… et c’est franchement l’enfer :sweat_smile: ! Impossible de savoir ce qui est lu, ce qui capte l’attention, ou ce qui décroche. L’idée  pour nous serait de transformer nos sales deck en une homepage dynamique :\n• pilotée par le marketing (narratif, design, contenus),\n• et instrumentée côté data pour comprendre ce qui marche, ce qui est lu ou ignoré, et ce qui convertit (visites, temps passé, slides vues, etc.). Je cherche des retours d’expérience de ceux qui ont poussé ce concept sous un angle “data-driven deck”.\n:point_right: Très preneur d’un call de 15 minutes avec ceux qui ont testé ou mis ça en place, je pense que c’est vraiment game changer pour la conversion et l’alignement sales \/ marketing.",
+        "files": [
+            {
+                "id": "F09NQT8944B",
+                "created": 1761575761,
+                "timestamp": 1761575761,
+                "name": "Capture d’écran 2025-10-27 à 15.30.12.png",
+                "title": "Capture d’écran 2025-10-27 à 15.30.12.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U06MHCCLQG3",
+                "user_team": "T017AGS2KE0",
+                "editable": false,
+                "size": 451830,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F09NQT8944B\/capture_d___e__cran_2025-10-27_a___15.30.12.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F09NQT8944B\/download\/capture_d___e__cran_2025-10-27_a___15.30.12.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F09NQT8944B-9f801b7c36\/capture_d___e__cran_2025-10-27_a___15.30.12_64.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F09NQT8944B-9f801b7c36\/capture_d___e__cran_2025-10-27_a___15.30.12_80.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F09NQT8944B-9f801b7c36\/capture_d___e__cran_2025-10-27_a___15.30.12_360.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360_w": 360,
+                "thumb_360_h": 156,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F09NQT8944B-9f801b7c36\/capture_d___e__cran_2025-10-27_a___15.30.12_480.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_480_w": 480,
+                "thumb_480_h": 208,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F09NQT8944B-9f801b7c36\/capture_d___e__cran_2025-10-27_a___15.30.12_160.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F09NQT8944B-9f801b7c36\/capture_d___e__cran_2025-10-27_a___15.30.12_720.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720_w": 720,
+                "thumb_720_h": 311,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F09NQT8944B-9f801b7c36\/capture_d___e__cran_2025-10-27_a___15.30.12_800.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_800_w": 800,
+                "thumb_800_h": 346,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F09NQT8944B-9f801b7c36\/capture_d___e__cran_2025-10-27_a___15.30.12_960.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_960_w": 960,
+                "thumb_960_h": 415,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F09NQT8944B-9f801b7c36\/capture_d___e__cran_2025-10-27_a___15.30.12_1024.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 443,
+                "original_w": 1882,
+                "original_h": 814,
+                "thumb_tiny": "AwAVADDTNJmkY47gc96Zl8FSy7uxxx9MZoAkzRmmocqMsGJ5yOhpwoAXmikJIPAz0o70ABGaXFFFABikxS0UAJilxRRQB\/\/Z",
+                "permalink": "https:\/\/techmarketingleaders.slack.com\/files\/U017U6M2G00\/F09NQT8944B\/capture_d___e__cran_2025-10-27_a___15.30.12.png",
+                "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F09NQT8944B-0526b74c21",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06MHCCLQG3",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vNppm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello à tous,\nEst-ce que certaines d’entre vous ont fait du pitch deck un élément central de leur stratégie de suivi et d’analyse, avec "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/pitch.com\/product",
+                                "text": "Pitch"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ?\nAujourd’hui, on est encore sur Google Slides… et c’est franchement l’enfer "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ! Impossible de savoir ce qui est lu, ce qui capte l’attention, ou ce qui décroche. L’idée  pour nous serait de transformer nos sales deck en une homepage dynamique :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "pilotée par le marketing (narratif, design, contenus),"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "et instrumentée côté data pour comprendre ce qui marche, ce qui est lu ou ignoré, et ce qui convertit (visites, temps passé, slides vues, etc.). Je cherche des retours d’expérience de ceux qui ont poussé ce concept sous un angle “data-driven deck”."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "point_right",
+                                "unicode": "1f449"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Très preneur d’un call de 15 minutes avec ceux qui ont testé ou mis ça en place, je pense que c’est vraiment game changer pour la conversion et l’alignement sales \/ marketing."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1761575799.158909",
+        "client_msg_id": "dced4eed-ea21-4d09-9e19-e97ba90c51d9",
+        "thread_ts": "1761575799.158909",
+        "reply_count": 9,
+        "reply_users_count": 6,
+        "latest_reply": "1762348525.751159",
+        "reply_users": [
+            "U08M0JP81DK",
+            "U08SA22HS0J",
+            "U06MHCCLQG3",
+            "U01A4GMRRR9",
+            "U0183AS3MB6",
+            "U065DFPCQMP"
+        ],
+        "replies": [
+            {
+                "user": "U08M0JP81DK",
+                "ts": "1761598846.693249"
+            },
+            {
+                "user": "U08SA22HS0J",
+                "ts": "1761756155.192079"
+            },
+            {
+                "user": "U06MHCCLQG3",
+                "ts": "1761921052.054739"
+            },
+            {
+                "user": "U06MHCCLQG3",
+                "ts": "1761921116.579589"
+            },
+            {
+                "user": "U01A4GMRRR9",
+                "ts": "1762088891.188939"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1762089226.240979"
+            },
+            {
+                "user": "U06MHCCLQG3",
+                "ts": "1762092794.331469"
+            },
+            {
+                "user": "U06MHCCLQG3",
+                "ts": "1762092876.151289"
+            },
+            {
+                "user": "U065DFPCQMP",
+                "ts": "1762348525.751159"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "image_url": "https:\/\/res.cloudinary.com\/pitch-software\/image\/upload\/v1708355989\/website\/marketing-pages\/presentation-maker\/presentation-maker-sharing.png",
+                "image_width": 1200,
+                "image_height": 600,
+                "image_bytes": 377193,
+                "from_url": "https:\/\/pitch.com\/product",
+                "service_icon": "https:\/\/pitch.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/pitch.com\/product",
+                "fallback": "Pitch: Product | Pitch",
+                "text": "Pitch is where everyone in your team can build impressive, on-brand decks in minutes. Enjoy seamless collaboration, easy sharing, and presentation analytics.",
+                "title": "Product | Pitch",
+                "title_link": "https:\/\/pitch.com\/product",
+                "service_name": "Pitch"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "x",
+                "users": [
+                    "U017RAZCAGZ",
+                    "U06CZESF7QF",
+                    "U025AMSNGF8",
+                    "U08M0JP81DK",
+                    "U017H09S857",
+                    "U08SA22HS0J"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1761577608.761399",
+        "client_msg_id": "85e2eec6-0255-4e55-a562-998651da79c3",
+        "text": "Hello les TML !\n\nOn prépare notre deuxième event Next Market Live suite au succès du premier (merci encore à ceux qui ont participé ou sont venus au 1er sur l’Allemagne notamment <@U04SM1RGPJB> <@U03CY07UZJM> :blue_heart: )\n\nLe deuxième event sera focalisé sur l’*expansion international en Espagne* :es:\n\nOn cherche donc des retours d’expériences de ceux\/celles qui se seraient lancés avec succès (ou non !) en Espagne. Si c’est votre cas, je serais très très intéressé d’en parler avec vous. Ou si vous avez des noms en tête, je suis preneur également !\n\nOn cherche également un partenaire pour cet event si jamais :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761577608.761399",
+        "reply_count": 18,
+        "reply_users_count": 8,
+        "latest_reply": "1762255700.549999",
+        "reply_users": [
+            "U02N2EVMFCG",
+            "U08EN5GRYCC",
+            "U06CZESF7QF",
+            "U0951RDNKU6",
+            "U04L35Y9D08",
+            "U09BVQYR1GA",
+            "U054GRSQCTX",
+            "U04SM1RGPJB"
+        ],
+        "replies": [
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1761581379.238499"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1761643830.361949"
+            },
+            {
+                "user": "U08EN5GRYCC",
+                "ts": "1761645177.798619"
+            },
+            {
+                "user": "U08EN5GRYCC",
+                "ts": "1761645249.878709"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1761649834.731179"
+            },
+            {
+                "user": "U0951RDNKU6",
+                "ts": "1761658366.679139"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1761659341.528459"
+            },
+            {
+                "user": "U0951RDNKU6",
+                "ts": "1761669737.365279"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1761672579.748339"
+            },
+            {
+                "user": "U04L35Y9D08",
+                "ts": "1761719587.017289"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1761756446.829639"
+            },
+            {
+                "user": "U09BVQYR1GA",
+                "ts": "1761810433.033719"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1761835651.038909"
+            },
+            {
+                "user": "U054GRSQCTX",
+                "ts": "1761840238.992249"
+            },
+            {
+                "user": "U09BVQYR1GA",
+                "ts": "1761844955.048859"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1761845263.839489"
+            },
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1762174848.975779"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1762255700.549999"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cS0ml",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello les TML !\n\nOn prépare notre deuxième event Next Market Live suite au succès du premier (merci encore à ceux qui ont participé ou sont venus au 1er sur l’Allemagne notamment "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04SM1RGPJB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CY07UZJM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blue_heart",
+                                "unicode": "1f499"
+                            },
+                            {
+                                "type": "text",
+                                "text": " )\n\nLe deuxième event sera focalisé sur l’"
+                            },
+                            {
+                                "type": "text",
+                                "text": "expansion international en Espagne ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "es",
+                                "unicode": "1f1ea-1f1f8",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nOn cherche donc des retours d’expériences de ceux\/celles qui se seraient lancés avec succès (ou non !) en Espagne. Si c’est votre cas, je serais très très intéressé d’en parler avec vous. Ou si vous avez des noms en tête, je suis preneur également !\n\nOn cherche également un partenaire pour cet event si jamais "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03CY07UZJM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1761580913.119929",
+        "client_msg_id": "18514d09-1e13-4d9e-903e-966e7dd69b9c",
+        "text": "Et deuxième question,\n\nOn cherche une agence \/ plateforme Content pour pouvoir gérer de la création de contenu “simple” “at scale” (beaucoup de guillemets :sweat_smile: )\n\nOn a repéré <https:\/\/www.contentoo.com\/|Contentoo>.\n\nEst-ce que vous avez d’autres recos ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/cdn.prod.website-files.com\/6703d07beac1c49d08ea57b8\/68d14f99128c764374725d59_Frame%201000006106.png",
+                "image_width": 1648,
+                "image_height": 884,
+                "image_bytes": 255865,
+                "from_url": "https:\/\/www.contentoo.com\/",
+                "id": 1,
+                "original_url": "https:\/\/www.contentoo.com\/",
+                "fallback": "Contentoo - Quality content at scale",
+                "text": "Contentoo combines AI workflows with expert freelancers, helping your marketing team scale content creation and meet demand.",
+                "title": "Contentoo - Quality content at scale",
+                "title_link": "https:\/\/www.contentoo.com\/",
+                "service_name": "contentoo.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mtBcR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et deuxième question,\n\nOn cherche une agence \/ plateforme Content pour pouvoir gérer de la création de contenu “simple” “at scale” (beaucoup de guillemets "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": " )\n\nOn a repéré "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.contentoo.com\/",
+                                "text": "Contentoo"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n\nEst-ce que vous avez d’autres recos ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1761581379.238499",
+        "client_msg_id": "9e2e9131-d933-49a0-973e-50a82c4918b5",
+        "text": "<@U09BVQYR1GA>? :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761577608.761399",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TmTsG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U09BVQYR1GA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03P99RGMTN",
+        "type": "message",
+        "ts": "1761582043.907889",
+        "edited": {
+            "user": "U03P99RGMTN",
+            "ts": "1761583391.000000"
+        },
+        "client_msg_id": "84cead3c-8955-4ae6-8d9e-c331ae9aaa3e",
+        "text": "Hello les TML, une autre question mais cette fois-ci sur du field Marketing.\n\nJ’ai des Sales qui ne sont pas assez bons en “rabattage de leads” sur salon et j’aimerais trouver une solution.\nEn gros, j’aimerais trouver des étudiants qui savent “attraper” des passants pour des assos et les convertir... est ce que cela existe via des agences  et avoir ce staffing sur quelques jours ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2f8b530bfffa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-28\/7656384027105_2f8b530bfffa39d455d3_72.png",
+            "first_name": "Julie",
+            "real_name": "Julie Asselin (365Talents)",
+            "display_name": "Julie Asselin (365Talents)",
+            "team": "T017AGS2KE0",
+            "name": "julie.asselin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761582043.907889",
+        "reply_count": 14,
+        "reply_users_count": 6,
+        "latest_reply": "1762275089.566949",
+        "reply_users": [
+            "U078PFP7A4B",
+            "U03P99RGMTN",
+            "U092PH1F2CA",
+            "U04L35Y9D08",
+            "U06MHCCLQG3",
+            "U07BLPPL3C1"
+        ],
+        "replies": [
+            {
+                "user": "U078PFP7A4B",
+                "ts": "1761582102.557959"
+            },
+            {
+                "user": "U03P99RGMTN",
+                "ts": "1761582353.407259"
+            },
+            {
+                "user": "U092PH1F2CA",
+                "ts": "1761641615.210009"
+            },
+            {
+                "user": "U04L35Y9D08",
+                "ts": "1761720055.427209"
+            },
+            {
+                "user": "U03P99RGMTN",
+                "ts": "1761725867.016529"
+            },
+            {
+                "user": "U04L35Y9D08",
+                "ts": "1761728579.353199"
+            },
+            {
+                "user": "U06MHCCLQG3",
+                "ts": "1762092627.592579"
+            },
+            {
+                "user": "U03P99RGMTN",
+                "ts": "1762093328.725289"
+            },
+            {
+                "user": "U078PFP7A4B",
+                "ts": "1762183872.543819"
+            },
+            {
+                "user": "U07BLPPL3C1",
+                "ts": "1762273165.322529"
+            },
+            {
+                "user": "U092PH1F2CA",
+                "ts": "1762274642.928509"
+            },
+            {
+                "user": "U04L35Y9D08",
+                "ts": "1762274706.973369"
+            },
+            {
+                "user": "U06MHCCLQG3",
+                "ts": "1762275067.706079"
+            },
+            {
+                "user": "U06MHCCLQG3",
+                "ts": "1762275089.566949"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B55jB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello les TML, une autre question mais cette fois-ci sur du field Marketing.\n\nJ’ai des Sales qui ne sont pas assez bons en “rabattage de leads” sur salon et j’aimerais trouver une solution.\nEn gros, j’aimerais trouver des étudiants qui savent “attraper” des passants pour des assos et les convertir... est ce que cela existe via des agences  et avoir ce staffing sur quelques jours ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1761582102.557959",
+        "client_msg_id": "696b441b-ef00-471f-9792-120352038d5b",
+        "text": "J'ai le même souci avec mes sales :sweat_smile:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761582043.907889",
+        "parent_user_id": "U03P99RGMTN",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "drTwJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai le même souci avec mes sales "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart_hands",
+                "users": [
+                    "U03P99RGMTN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03P99RGMTN",
+        "type": "message",
+        "ts": "1761582353.407259",
+        "client_msg_id": "8aa6ae91-6aa8-45da-aa2f-9f271fb8ee8e",
+        "text": "je te dis dès que je trouve <@U078PFP7A4B>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2f8b530bfffa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-28\/7656384027105_2f8b530bfffa39d455d3_72.png",
+            "first_name": "Julie",
+            "real_name": "Julie Asselin (365Talents)",
+            "display_name": "Julie Asselin (365Talents)",
+            "team": "T017AGS2KE0",
+            "name": "julie.asselin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761582043.907889",
+        "parent_user_id": "U03P99RGMTN",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hs5fd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je te dis dès que je trouve "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U078PFP7A4B"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart_hands",
+                "users": [
+                    "U078PFP7A4B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U020QK16RMJ",
+        "type": "message",
+        "ts": "1761598559.014999",
+        "client_msg_id": "27899dc3-4544-43b0-9903-020fe32dcf1c",
+        "text": "En présentiel, vous gagnez des chocolatines (j'aime les débats houleux).\nA distance, vous gagnez une vue de moi de 3\/4 :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "56d8a678e801",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-18\/7292097443269_56d8a678e801350db84a_72.png",
+            "first_name": "Joël",
+            "real_name": "Joël Gaudeul",
+            "display_name": "Joël (Swan)",
+            "team": "T017AGS2KE0",
+            "name": "joel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759909660.136279",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hrv63",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En présentiel, vous gagnez des chocolatines (j'aime les débats houleux).\nA distance, vous gagnez une vue de moi de 3\/4 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U063A8VPPG9",
+                    "U078PFP7A4B",
+                    "U03P99RGMTN",
+                    "U09EFH6S1BQ"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U08M0JP81DK",
+        "type": "message",
+        "ts": "1761598846.693249",
+        "client_msg_id": "762BBA7F-5775-4B45-9CDB-BC70D59C8E33",
+        "text": "Encore très bridé par du PowerPoint “bare bones” mais très preneur de ton retour si tu testes Pitch!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "f8f282c0f1ce",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-04-07\/8720578468499_f8f282c0f1cedcfe5323_72.png",
+            "first_name": "Pierre",
+            "real_name": "Pierre Osdoit-Patrigeon",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "pierre.osdoit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761575799.158909",
+        "parent_user_id": "U06MHCCLQG3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9hQHh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "E"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ncore très bridé par du PowerPoint “bare bones” mais très preneur de ton retour si tu testes Pitch!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06MHCCLQG3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1761630988.860679",
+        "client_msg_id": "61b8f0ec-dc81-44c5-8e9b-71c1132681e0",
+        "text": "Je pourrai être là en présentiel finalement :slightly_smiling_face: Tu envoies une invit’ <@U020QK16RMJ>?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759909660.136279",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yqThc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je pourrai être là en présentiel finalement "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Tu envoies une invit’ "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U020QK16RMJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U020QK16RMJ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

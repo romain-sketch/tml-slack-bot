@@ -1,0 +1,1155 @@
+[
+    {
+        "user": "U06DYTRDLUD",
+        "type": "message",
+        "ts": "1763544942.332759",
+        "client_msg_id": "bf3d82ad-8f3a-443b-b9e3-74144866ba53",
+        "text": "Salut Marion,\nJ'ai un <https:\/\/www.linkedin.com\/in\/elodiegirardet\/|bon profil> à te reco qui a fait le dernier rebranding de Payplug :slightly_smiling_face:\nA ta dispo pour creuser son exp en mp si tu veux",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901f49789864",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-17\/6483135134229_901f4978986494a521e4_72.jpg",
+            "first_name": "Flora",
+            "real_name": "Flora Wolfer",
+            "display_name": "Flora Wolfer (Payplug)",
+            "team": "T017AGS2KE0",
+            "name": "fwolfer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763480987.763589",
+        "parent_user_id": "U0951RDNKU6",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/elodiegirardet\/",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "thumb_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/D4E03AQGaGoHrEDJuew\/profile-displayphoto-shrink_200_200\/profile-displayphoto-shrink_200_200\/0\/1663245627668?e=2147483647&v=beta&t=NU26fAKbiV5lD-CEaTSjZm8fAn1R3_cmU6PxVi2XQFc",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/elodiegirardet\/",
+                "fallback": "Elodie Rousseau - Payplug | LinkedIn",
+                "text": "7 years of B2B experience. Specialist in GTM strategy, product… · Expérience : Payplug · Formation : Nottingham Trent University · Lieu : Paris · 500 relations ou plus sur LinkedIn. Consultez le profil de Elodie Rousseau sur LinkedIn, une communauté professionnelle d’un milliard de membres.",
+                "title": "Elodie Rousseau - Payplug | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/elodiegirardet\/",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P9tk9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salut Marion,\nJ'ai un "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/elodiegirardet\/",
+                                "text": "bon profil"
+                            },
+                            {
+                                "type": "text",
+                                "text": " à te reco qui a fait le dernier rebranding de Payplug "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nA ta dispo pour creuser son exp en mp si tu veux"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U0951RDNKU6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0951RDNKU6",
+        "type": "message",
+        "ts": "1763545088.298879",
+        "client_msg_id": "1dd9ec14-50a6-474b-a61e-ee3be54cb7e4",
+        "text": "Elle a un super profil, merci <@U06DYTRDLUD>, tu sais si elle est prête à redevenir IC vs Head of ? Elle serait sous la Brand Director donc si elle cherche du management cela va être compliqué car vrt un rôle Expert sans management.  wdyt?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "85dcd88ccf2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-06\/9660924995297_85dcd88ccf2fa3d8be38_72.jpg",
+            "first_name": "Marion",
+            "real_name": "Marion de Robillard",
+            "display_name": "Marion de Robillard",
+            "team": "T017AGS2KE0",
+            "name": "marionderobillard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763480987.763589",
+        "parent_user_id": "U0951RDNKU6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mxyI2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Elle a un super profil, merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06DYTRDLUD"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", tu sais si elle est prête à redevenir IC vs Head of ? Elle serait sous la Brand Director donc si elle cherche du management cela va être compliqué car vrt un rôle Expert sans management.  wdyt?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U06DYTRDLUD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "La job desc",
+        "files": [
+            {
+                "id": "F09TFQBFUTH",
+                "created": 1763545193,
+                "timestamp": 1763545193,
+                "name": "Job description _ Global Brand Manager.pdf",
+                "title": "Job description _ Global Brand Manager.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U0951RDNKU6",
+                "user_team": "T017AGS2KE0",
+                "editable": false,
+                "size": 219484,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F09TFQBFUTH\/job_description___global_brand_manager.pdf?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F09TFQBFUTH\/download\/job_description___global_brand_manager.pdf?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F09TFQBFUTH-68bb26a6cd\/job_description___global_brand_manager_thumb_pdf.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_pdf_w": 911,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/techmarketingleaders.slack.com\/files\/U017U6M2G00\/F09TFQBFUTH\/job_description___global_brand_manager.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F09TFQBFUTH-ada2acb51d",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U0951RDNKU6",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Acnkv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "La job desc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1763545198.361349",
+        "client_msg_id": "80c7c428-6249-41fc-82de-2dc9f1bf32f9",
+        "thread_ts": "1763480987.763589",
+        "parent_user_id": "U0951RDNKU6"
+    },
+    {
+        "user": "U06DYTRDLUD",
+        "type": "message",
+        "ts": "1763545425.282029",
+        "client_msg_id": "21e981ac-86f8-44ce-906f-ea186b3c8579",
+        "text": "Je pense qu'elle serait ravie - si le rayonnement et l'impact sont les bons. Elle est partie de chez nous justement car le management la fatiguait :eyes:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901f49789864",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-17\/6483135134229_901f4978986494a521e4_72.jpg",
+            "first_name": "Flora",
+            "real_name": "Flora Wolfer",
+            "display_name": "Flora Wolfer (Payplug)",
+            "team": "T017AGS2KE0",
+            "name": "fwolfer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763480987.763589",
+        "parent_user_id": "U0951RDNKU6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GSO9b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je pense qu'elle serait ravie - si le rayonnement et l'impact sont les bons. Elle est partie de chez nous justement car le management la fatiguait "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes",
+                                "unicode": "1f440"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U0951RDNKU6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06DYTRDLUD",
+        "type": "message",
+        "ts": "1763545512.115439",
+        "client_msg_id": "79f86d7c-9934-4927-872e-371cc416a92a",
+        "text": "Je lui transmets la fiche de poste et je lui dis que tu la contactes sur linkedin?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901f49789864",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-17\/6483135134229_901f4978986494a521e4_72.jpg",
+            "first_name": "Flora",
+            "real_name": "Flora Wolfer",
+            "display_name": "Flora Wolfer (Payplug)",
+            "team": "T017AGS2KE0",
+            "name": "fwolfer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763480987.763589",
+        "parent_user_id": "U0951RDNKU6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h7LXx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je lui transmets la fiche de poste et je lui dis que tu la contactes sur linkedin?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0951RDNKU6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0951RDNKU6",
+        "type": "message",
+        "ts": "1763545653.201239",
+        "client_msg_id": "81863852-0c67-415e-b374-492a56045ff5",
+        "text": "je viens de donner son contact au TAM direct :wink:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "85dcd88ccf2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-06\/9660924995297_85dcd88ccf2fa3d8be38_72.jpg",
+            "first_name": "Marion",
+            "real_name": "Marion de Robillard",
+            "display_name": "Marion de Robillard",
+            "team": "T017AGS2KE0",
+            "name": "marionderobillard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763480987.763589",
+        "parent_user_id": "U0951RDNKU6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7RyML",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je viens de donner son contact au TAM direct "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "hearts",
+                "users": [
+                    "U06DYTRDLUD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06GAFVRP9V",
+        "type": "message",
+        "ts": "1763556379.921309",
+        "client_msg_id": "43D52122-8FDC-4E3D-8C50-0BC9E4213983",
+        "text": "Hello Marion! \nJe te reco Anne-Sophie Furic qui, chez Ovrsea, avait mené tout le rebranding d’une main de maître. Auparavant elle avait mené un rebranding dans env. 10 pays chez TalentSoft. \nActuellement free mais ouverte à ne plus l’être je pense (je peux lui dder si tu veux) ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "23f608acd501",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-08\/9645247295495_23f608acd5017f2c6446_72.png",
+            "first_name": "Joséphine",
+            "real_name": "Joséphine Poupard Bouteiller",
+            "display_name": "Joséphine",
+            "team": "T017AGS2KE0",
+            "name": "josephine.poupard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763480987.763589",
+        "parent_user_id": "U0951RDNKU6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oGA+P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Marion! \nJe te reco Anne-Sophie Furic qui, chez Ovrsea, avait mené tout le rebranding "
+                            },
+                            {
+                                "type": "text",
+                                "text": "d’une"
+                            },
+                            {
+                                "type": "text",
+                                "text": " main de maître. Auparavant elle avait mené un rebranding dans env. 10 pays chez TalentSoft. \nActuellement free mais ouverte à ne plus "
+                            },
+                            {
+                                "type": "text",
+                                "text": "l’être"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je pense (je peux lui dder si tu veux) "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0951RDNKU6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03CY07UZJM",
+        "type": "message",
+        "ts": "1763561811.952029",
+        "client_msg_id": "95378866-e0f0-40ac-92a6-f32c1243de9f",
+        "text": "*Advisor PMM*\nNapta souhaite retravailler son Positionnement sur Q1 2026. Dans ce cadre, ils cherchent un(e) expert(e) PMM qui pourrait les accompagner sur un format advisor pendant 2 ou 3 mois. En gros :\n• pas de PMM chez Napta, mais 3 personnes qui se partagent le taff. 1 Brand, 1 Sales Enablement et 1 PM\n• l'idée est de les laisser exécuter ce projet, mais tout en étant encadré par un expert \nConnaissez-vous des gens ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "cf1b09b1a910",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-02\/6894190939717_cf1b09b1a910eb11be75_72.jpg",
+            "first_name": "Patrice",
+            "real_name": "Patrice Barbesier",
+            "display_name": "Patrice Barbesier",
+            "team": "T017AGS2KE0",
+            "name": "patrice.barbesier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763561811.952029",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1763626385.905749",
+        "reply_users": [
+            "U063A8VPPG9",
+            "U08PLD4KPS8",
+            "U03CY07UZJM",
+            "U02N2EVMFCG"
+        ],
+        "replies": [
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1763562908.853769"
+            },
+            {
+                "user": "U08PLD4KPS8",
+                "ts": "1763570073.820199"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1763570170.032429"
+            },
+            {
+                "user": "U03CY07UZJM",
+                "ts": "1763571970.211419"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1763574834.589449"
+            },
+            {
+                "user": "U03CY07UZJM",
+                "ts": "1763626385.905749"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MiHcq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Advisor PMM",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nNapta souhaite retravailler son Positionnement sur Q1 2026. Dans ce cadre, ils cherchent un(e) expert(e) PMM qui pourrait les accompagner sur un format advisor pendant 2 ou 3 mois. En gros :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "pas de PMM chez Napta, mais 3 personnes qui se partagent le taff. 1 Brand, 1 Sales Enablement et 1 PM"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "l'idée est de les laisser exécuter ce projet, mais tout en étant encadré par un expert "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nConnaissez-vous des gens ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02N2EVMFCG",
+                    "U06DYTRDLUD"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1763562908.853769",
+        "client_msg_id": "c7007584-7d0b-4d36-b0a0-fedfee51252f",
+        "text": "<@U07PEP71X4Y> ou Lorenza Pugliese",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763561811.952029",
+        "parent_user_id": "U03CY07UZJM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xAnze",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U07PEP71X4Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ou Lorenza Pugliese"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08PLD4KPS8",
+        "type": "message",
+        "ts": "1763570073.820199",
+        "client_msg_id": "F2A93A57-C8E4-43BE-846F-9B5D5566AFD3",
+        "text": "<https:\/\/www.linkedin.com\/in\/pauline-lafontaine-46192ab|Pauline Lafontaine> ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ed1e5a6e17a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-15\/8903493241218_7ed1e5a6e17a9b117971_72.jpg",
+            "first_name": "Ségolène",
+            "real_name": "Ségolène Finet",
+            "display_name": "Ségolène Finet",
+            "team": "T017AGS2KE0",
+            "name": "finetsegolene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763561811.952029",
+        "parent_user_id": "U03CY07UZJM",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/pauline-lafontaine-46192ab",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/pauline-lafontaine-46192ab",
+                "fallback": "Pauline Lafontaine - École Polytechnique | LinkedIn",
+                "text": "I thrive as much on helping early-stage startups build a solid product marketing… · Expérience : École Polytechnique · Formation : Telecom ParisTech · Lieu : Paris · 500 relations ou plus sur LinkedIn. Consultez le profil de Pauline Lafontaine sur LinkedIn, une communauté professionnelle d’un milliard de membres.",
+                "title": "Pauline Lafontaine - École Polytechnique | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/pauline-lafontaine-46192ab",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KPix7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/pauline-lafontaine-46192ab",
+                                "text": "Pauline Lafontaine"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1763570170.032429",
+        "client_msg_id": "c3231b83-6157-40d4-8795-9b40b2a73b46",
+        "text": "Pauline est top top top !!! je valide aussi :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763561811.952029",
+        "parent_user_id": "U03CY07UZJM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ea+yP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pauline est top top top !!! je valide aussi "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "U08PLD4KPS8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03CY07UZJM",
+        "type": "message",
+        "ts": "1763571970.211419",
+        "client_msg_id": "19681b5f-47de-44ed-9d5a-20096f36eadc",
+        "text": "Merci, je les contacte tout de suite !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "cf1b09b1a910",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-02\/6894190939717_cf1b09b1a910eb11be75_72.jpg",
+            "first_name": "Patrice",
+            "real_name": "Patrice Barbesier",
+            "display_name": "Patrice Barbesier",
+            "team": "T017AGS2KE0",
+            "name": "patrice.barbesier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763561811.952029",
+        "parent_user_id": "U03CY07UZJM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EBQ+F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci, je les contacte tout de suite !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Hello,\nJe vous partage le CV d'Alice avec qui j'ai beaucoup apprécié travailler (profil 360°, très efficace, grosse compétence sur Hubspot). Elle a 7 ans d'expérience en marketing acquisition BtoB\/PME. Elle recherche un job de marketing manager (acquisition \/ growth), elle est basée à Nantes.",
+        "files": [
+            {
+                "id": "F09TK430UCF",
+                "created": 1763572025,
+                "timestamp": 1763572025,
+                "name": "CV Alice JAMET FR.pdf",
+                "title": "CV Alice JAMET FR.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U06MLNEGNKB",
+                "user_team": "T017AGS2KE0",
+                "editable": false,
+                "size": 1519440,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F09TK430UCF\/cv_alice_jamet_fr.pdf?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F09TK430UCF\/download\/cv_alice_jamet_fr.pdf?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F09TK430UCF-faf27ccf12\/cv_alice_jamet_fr_thumb_pdf.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/techmarketingleaders.slack.com\/files\/U017U6M2G00\/F09TK430UCF\/cv_alice_jamet_fr.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F09TK430UCF-4593ae691d",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06MLNEGNKB",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DLboi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello,\nJe vous partage le CV d'Alice avec qui j'ai beaucoup apprécié travailler (profil 360°, très efficace, grosse compétence sur Hubspot). Elle a 7 ans d'expérience en marketing acquisition BtoB\/PME. Elle recherche un job de marketing manager (acquisition \/ growth), elle est basée à Nantes."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1763572395.053609",
+        "client_msg_id": "79ffde8f-a4ea-4a13-85b9-4a6bf3a7e4db",
+        "thread_ts": "1763572395.053609",
+        "reply_count": 8,
+        "reply_users_count": 5,
+        "latest_reply": "1764257797.074599",
+        "reply_users": [
+            "U01A4GMRRR9",
+            "U06MLNEGNKB",
+            "U09BVQYR1GA",
+            "U08PEJM137X",
+            "U068DB6D669"
+        ],
+        "replies": [
+            {
+                "user": "U01A4GMRRR9",
+                "ts": "1763576379.584589"
+            },
+            {
+                "user": "U06MLNEGNKB",
+                "ts": "1763584473.083879"
+            },
+            {
+                "user": "U09BVQYR1GA",
+                "ts": "1763585704.719669"
+            },
+            {
+                "user": "U06MLNEGNKB",
+                "ts": "1763586169.807609"
+            },
+            {
+                "user": "U09BVQYR1GA",
+                "ts": "1763586295.987679"
+            },
+            {
+                "user": "U08PEJM137X",
+                "ts": "1763626252.024889"
+            },
+            {
+                "user": "U06MLNEGNKB",
+                "ts": "1763626588.708189"
+            },
+            {
+                "user": "U068DB6D669",
+                "ts": "1764257797.074599"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U042GV737MX",
+                    "U06DYTRDLUD"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1763574834.589449",
+        "edited": {
+            "user": "U02N2EVMFCG",
+            "ts": "1763574871.000000"
+        },
+        "client_msg_id": "ada6e3a2-b80e-4519-bffd-f4f5eb372de9",
+        "text": "Pauline est très chère, mais très appréciée par les clients je peux en attester :slightly_smiling_face:\n(PS : ça n'est en aucun cas une critique, elle est super)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763561811.952029",
+        "parent_user_id": "U03CY07UZJM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GkNwA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pauline est très chère, mais très appréciée par les clients je peux en attester "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n(PS : ça n'est en aucun cas une critique, elle est super)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1763576379.584589",
+        "client_msg_id": "B06D5454-1A1B-43EB-B189-6131D3A92907",
+        "text": "Un post va s ouvrir chez <http:\/\/Sekoia.io|Sekoia.io>. Pas encore publié donc c est du off Market comme dirait <@U063A8VPPG9> :-)\nElle peut me contacter pour intro si elle veut ! ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763572395.053609",
+        "parent_user_id": "U06MLNEGNKB",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RgkfI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un post va s ouvrir chez Sekoia.io. Pas encore publié donc c est du off Market comme dirait "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U063A8VPPG9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " :-)\nElle peut me contacter pour intro si elle veut ! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U063A8VPPG9",
+                    "U078PFP7A4B"
+                ],
+                "count": 2
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U06MLNEGNKB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06MLNEGNKB",
+        "type": "message",
+        "ts": "1763584473.083879",
+        "client_msg_id": "68FD1E84-43A7-44A7-A7E9-7739835A4FC2",
+        "text": "Merci ! Je lui transmets ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9484de19a0b4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-25\/7476258473346_9484de19a0b48472edf8_72.jpg",
+            "first_name": "Priscilla",
+            "real_name": "Priscilla (Memo Bank)",
+            "display_name": "Priscilla (Memo Bank)",
+            "team": "T017AGS2KE0",
+            "name": "priscilla.cavrois",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763572395.053609",
+        "parent_user_id": "U06MLNEGNKB",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hb\/6W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci ! Je lui transmets "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U09BVQYR1GA",
+        "type": "message",
+        "ts": "1763585704.719669",
+        "client_msg_id": "a134c36d-e412-4ba8-8459-88bdbce48154",
+        "text": "je cherche en growth mais il faut absolument à Paris quelques jours par semaine. tu sais si possible ? <@U06MLNEGNKB>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0ee28ebc77d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-09-09\/9480262349955_0ee28ebc77d7f64eb0e1_72.png",
+            "first_name": "Tania",
+            "real_name": "Tania",
+            "display_name": "Tania",
+            "team": "T017AGS2KE0",
+            "name": "tsaezgrowth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763572395.053609",
+        "parent_user_id": "U06MLNEGNKB",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TNJVn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je cherche en growth mais il faut absolument à Paris quelques jours par semaine. tu sais si possible ? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06MLNEGNKB"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06MLNEGNKB",
+        "type": "message",
+        "ts": "1763586169.807609",
+        "client_msg_id": "3B18C3D9-69AF-49CF-99CB-7AA586FDBDA5",
+        "text": "Je lui demande, plutôt 2 ou 3 jours à Paris ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9484de19a0b4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-25\/7476258473346_9484de19a0b48472edf8_72.jpg",
+            "first_name": "Priscilla",
+            "real_name": "Priscilla (Memo Bank)",
+            "display_name": "Priscilla (Memo Bank)",
+            "team": "T017AGS2KE0",
+            "name": "priscilla.cavrois",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763572395.053609",
+        "parent_user_id": "U06MLNEGNKB",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tbmnr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je lui demande, plutôt 2 ou 3 jours à Paris ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U09BVQYR1GA",
+        "type": "message",
+        "ts": "1763586295.987679",
+        "client_msg_id": "72ee09b3-7379-44b9-9714-7499346915f6",
+        "text": "les deux bons ! <@U06MLNEGNKB>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0ee28ebc77d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-09-09\/9480262349955_0ee28ebc77d7f64eb0e1_72.png",
+            "first_name": "Tania",
+            "real_name": "Tania",
+            "display_name": "Tania",
+            "team": "T017AGS2KE0",
+            "name": "tsaezgrowth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763572395.053609",
+        "parent_user_id": "U06MLNEGNKB",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LbLRj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "les deux bons ! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06MLNEGNKB"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

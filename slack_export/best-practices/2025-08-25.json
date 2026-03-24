@@ -1,0 +1,725 @@
+[
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1756122358.256499",
+        "client_msg_id": "95ef7523-7752-4aa4-80c8-cabdf77facfc",
+        "text": "*Petite question de retour de vacances : quels sont les meilleurs CMOs qui vous inspirent en Europe\/aux US* (pas en France, puisque l'on sait tous que les meilleurs CMOs sont ici :sweat_smile:) ?\nOn a envie de discuter et de s'inspirer de ce qui se passent dans d'autres boites \/ contextes \/ pays\nThanks!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756122358.256499",
+        "reply_count": 15,
+        "reply_users_count": 9,
+        "latest_reply": "1757668984.636029",
+        "reply_users": [
+            "U04SM1RGPJB",
+            "U063A8VPPG9",
+            "U0183AS3MB6",
+            "U017H09S857",
+            "U017CURDPB5",
+            "U07MNBM4WLV",
+            "U06MHCCLQG3",
+            "U0951RDNKU6",
+            "U06E3PY5LAY"
+        ],
+        "replies": [
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1756130707.947379"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1756146290.905779"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1756147316.444619"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1756149573.244839"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1756149591.192269"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1756208153.133959"
+            },
+            {
+                "user": "U017CURDPB5",
+                "ts": "1756364927.401639"
+            },
+            {
+                "user": "U07MNBM4WLV",
+                "ts": "1756717374.457839"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1756935612.320149"
+            },
+            {
+                "user": "U06MHCCLQG3",
+                "ts": "1756990732.454939"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1757019841.972479"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1757057090.995649"
+            },
+            {
+                "user": "U0951RDNKU6",
+                "ts": "1757413759.695019"
+            },
+            {
+                "user": "U06E3PY5LAY",
+                "ts": "1757668863.467399"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1757668984.636029"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uhGoA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Petite question de retour de vacances : quels sont les meilleurs CMOs qui vous inspirent en Europe\/aux US ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "(pas en France, puisque l'on sait tous que les meilleurs CMOs sont ici "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") ?\nOn a envie de discuter et de s'inspirer de ce qui se passent dans d'autres boites \/ contextes \/ pays\nThanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CY07UZJM",
+                    "U078PFP7A4B",
+                    "U067VEJFT5F"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U09BVQYR1GA",
+        "text": "<@U09BVQYR1GA> has joined the channel",
+        "type": "message",
+        "ts": "1756126203.869139"
+    },
+    {
+        "user": "U055KSYA2AH",
+        "type": "message",
+        "ts": "1756129699.234189",
+        "client_msg_id": "1881dda0-29d7-4603-8245-ffbb1c693d78",
+        "text": "Hello, je cherche à renouveler mon presta de design de stands pour les différents salons pro que l’on fait. Qqun à des recos ? fiabilité, qualité\/prix ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "77f967801b39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-02\/5198498072658_77f967801b39b2c56563_72.png",
+            "first_name": "Olivier",
+            "real_name": "Olivier Milcent",
+            "display_name": "Olivier Milcent (DeepReach)",
+            "team": "T017AGS2KE0",
+            "name": "omilcent",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756129699.234189",
+        "reply_count": 7,
+        "reply_users_count": 5,
+        "latest_reply": "1756740178.661729",
+        "reply_users": [
+            "U063A8VPPG9",
+            "U02N2EVMFCG",
+            "U06DYTRDLUD",
+            "U055KSYA2AH",
+            "U054GRSQCTX"
+        ],
+        "replies": [
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1756146805.526869"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1756154656.200739"
+            },
+            {
+                "user": "U06DYTRDLUD",
+                "ts": "1756193985.454739"
+            },
+            {
+                "user": "U055KSYA2AH",
+                "ts": "1756207546.649589"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1756240892.941519"
+            },
+            {
+                "user": "U054GRSQCTX",
+                "ts": "1756735654.454099"
+            },
+            {
+                "user": "U055KSYA2AH",
+                "ts": "1756740178.661729"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U3sGj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, je cherche à renouveler mon presta de design de stands pour les différents salons pro que l’on fait. Qqun à des recos ? fiabilité, qualité\/prix ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1756130707.947379",
+        "client_msg_id": "37478838-31a9-499c-83a5-35425c42fc5b",
+        "text": "clairement Jody Kaminsky (ma boss chez UKG). A fait toute la croissance de la boite en 20 ans, tous les m&amp;a et reorg, et a supporté une super culture (pay equity brand campaigns, DE&amp;I...)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756122358.256499",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GJ+tR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "clairement Jody Kaminsky (ma boss chez UKG). A fait toute la croissance de la boite en 20 ans, tous les m&a et reorg, et a supporté une super culture (pay equity brand campaigns, DE&I...)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "star-struck",
+                "users": [
+                    "U017H09S857",
+                    "U0183AS3MB6",
+                    "U084KTR7YKX",
+                    "U07MNBM4WLV"
+                ],
+                "count": 4
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U017H09S857",
+                    "U063A8VPPG9"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1756146290.905779",
+        "client_msg_id": "A4FA5AA6-BB0A-4FC5-BEEC-E393D1E75718",
+        "text": "Udi de chez Gong est top\nMon ancien boss Jeff Reekers aussi de chez Aircall (NY)\nSarah Franklin quand elle était chez salesforce était incroyable\nMeltem la head of growth de chez Deel est top top (Canada) \nStéphanie Genin de chez Uberall aux UK vraiment smart \n",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756122358.256499",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3jqwH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Udi de chez Gong est top\nMon ancien boss Jeff Reekers aussi de chez Aircall (NY)\nSarah Franklin quand elle était chez salesforce était incroyable\nMeltem la head of growth de chez Deel est top top (Canada) \nStéphanie Genin de chez Uberall aux UK vraiment smart \n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U017H09S857"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1756146805.526869",
+        "client_msg_id": "51D4DD2A-7D65-46E5-AE56-622432FF5687",
+        "text": "Je suis ça m intéresse aussi :)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756129699.234189",
+        "parent_user_id": "U055KSYA2AH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DqI7t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je suis ça m intéresse aussi :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1756147316.444619",
+        "client_msg_id": "F8DA27CC-8977-43A2-876D-2DCD407AF994",
+        "text": "Udi de Gong je confirme très bon.\nSinon le CMO de Hubspot (j’ai plus son nom mais il fait beaucoup de contenu)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756122358.256499",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LjeUT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Udi de Gong je confirme très bon.\nSinon le CMO de Hubspot (j’ai plus son nom mais il fait beaucoup de contenu)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U017H09S857"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1756148778.752469",
+        "edited": {
+            "user": "U084KTR7YKX",
+            "ts": "1756148788.000000"
+        },
+        "client_msg_id": "2b26125a-8164-4690-8a60-81ae035c47e1",
+        "text": "Hello la commu :wave:\npour ceux qui sont rentrés de vacs ça donne quoi votre acquisition \/ closing au mois d'Août en B2B ?\nj'ai l'impression que c'est très calme pour mes 3\/4 clients...\nChez Qonto j'étais habituée à entre -20% et -30% en fonction des marchés en Acquisition Aout vs Juillet mais là sur des mid-market ou enterprise c'est parfois :face_in_clouds:. Après on fait des sujets moyens et longs termes :slightly_smiling_face:\nthks :pray:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756148778.752469",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1756203505.394839",
+        "reply_users": [
+            "U01A4GMRRR9",
+            "U03P99RGMTN",
+            "U078PFP7A4B",
+            "U06DYTRDLUD",
+            "U084KTR7YKX"
+        ],
+        "replies": [
+            {
+                "user": "U01A4GMRRR9",
+                "ts": "1756188678.088139"
+            },
+            {
+                "user": "U03P99RGMTN",
+                "ts": "1756192438.261489"
+            },
+            {
+                "user": "U078PFP7A4B",
+                "ts": "1756193130.643649"
+            },
+            {
+                "user": "U06DYTRDLUD",
+                "ts": "1756198749.568309"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1756203505.394839"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8H0\/z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello la commu "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\npour ceux qui sont rentrés de vacs ça donne quoi votre acquisition \/ closing au mois d'Août en B2B ?\nj'ai l'impression que c'est très calme pour mes 3\/4 clients...\nChez Qonto j'étais habituée à entre -20% et -30% en fonction des marchés en Acquisition Aout vs Juillet mais là sur des mid-market ou enterprise c'est parfois "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_in_clouds",
+                                "unicode": "1f636-200d-1f32b-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Après on fait des sujets moyens et longs termes "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nthks "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1756149573.244839",
+        "client_msg_id": "73A87E0C-43CC-41B6-9F3B-2CE8CE3F5393",
+        "text": "Amazing, vous êtes au top",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756122358.256499",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Y8EI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Amazing, vous êtes au top"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1756149591.192269",
+        "client_msg_id": "A48D1B50-F105-464F-8E75-44251F40B1F7",
+        "text": "Est ce que vous pouvez me faire des intros pour certains d’entre eux?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756122358.256499",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9gcW3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Est ce que vous pouvez me faire des intros pour certains d’entre eux?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1756154656.200739",
+        "client_msg_id": "f4ec3662-001f-4d43-bd2d-34d4a01b4770",
+        "text": "<@U06DYTRDLUD> tu recommanderais Louis-Christophe pour ça ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756129699.234189",
+        "parent_user_id": "U055KSYA2AH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UgHRO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06DYTRDLUD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " tu recommanderais Louis-Christophe pour ça ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1756188678.088139",
+        "edited": {
+            "user": "U01A4GMRRR9",
+            "ts": "1756188714.000000"
+        },
+        "client_msg_id": "AE953C17-EE3E-4E8C-9630-A0B100675E7C",
+        "text": "Hello,\nIl ne se passe entre rien et pas grand chose au mois d août sur du MM et ENT de notre côté en France \/ South Europe. On reçoit jusque 85% de OOO sur les 2 premières semaines d août :-) j arrête même le Paid dans certains pays sur certains segments sur ces périodes. C est une période où on va prioriser d autres aspects : on envoi du contenu en amont,\nOn sécurise nos speakers pour nos évents (car les C levels consulte leurs mails),… ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756148778.752469",
+        "parent_user_id": "U084KTR7YKX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ylaAd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello,\nIl ne se passe entre rien et pas grand chose au mois d août sur du MM et ENT de notre côté en France \/ South Europe. On reçoit jusque 85% de OOO sur les 2 premières semaines d août :-) j arrête même le Paid dans certains pays sur certains segments sur ces périodes. C est une période où on va prioriser d autres aspects : on envoi du contenu en amont,\nOn sécurise nos speakers pour nos évents (car les C levels consulte leurs mails),… "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U084KTR7YKX"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U084KTR7YKX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

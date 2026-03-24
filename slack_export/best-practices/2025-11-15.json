@@ -1,0 +1,122 @@
+[
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1763277503.237199",
+        "client_msg_id": "188ca105-fa25-4e3f-a562-2c91962c506d",
+        "text": "Hello <!here>\nAuriez vous des datas\/Bench sur le ratio du nombre de FTE dans une équipe marketing vs total HC d’une entreprise ou ARR svp?\nEn phase d hypercroissance \/ scaling international.\npareil un ratio FTE\/ free-lance au sein de cette équipe?\nmerciiiii",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763277503.237199",
+        "reply_count": 14,
+        "reply_users_count": 8,
+        "latest_reply": "1764696821.094069",
+        "reply_users": [
+            "U017H09S857",
+            "U07MNBM4WLV",
+            "U069NSTHZ3Q",
+            "U063A8VPPG9",
+            "U084KTR7YKX",
+            "U0951RDNKU6",
+            "U0859A8P14K",
+            "U08PLD4KPS8"
+        ],
+        "replies": [
+            {
+                "user": "U017H09S857",
+                "ts": "1763280192.856209"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1763280215.935409"
+            },
+            {
+                "user": "U07MNBM4WLV",
+                "ts": "1763368397.300309"
+            },
+            {
+                "user": "U069NSTHZ3Q",
+                "ts": "1763369835.321669"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1763372988.034269"
+            },
+            {
+                "user": "U07MNBM4WLV",
+                "ts": "1763373195.704879"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1763373400.742889"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1763380306.959199"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1763381028.518659"
+            },
+            {
+                "user": "U0951RDNKU6",
+                "ts": "1763390573.536929"
+            },
+            {
+                "user": "U0859A8P14K",
+                "ts": "1763454662.141719"
+            },
+            {
+                "user": "U08PLD4KPS8",
+                "ts": "1764696540.649499"
+            },
+            {
+                "user": "U08PLD4KPS8",
+                "ts": "1764696751.878529"
+            },
+            {
+                "user": "U08PLD4KPS8",
+                "ts": "1764696821.094069"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YB+GC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nAuriez vous des datas\/Bench sur le ratio du nombre de FTE dans une équipe marketing vs total HC d’une entreprise ou ARR svp?\nEn phase d hypercroissance \/ scaling international.\npareil un ratio FTE\/ free-lance au sein de cette équipe?\nmerciiiii"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

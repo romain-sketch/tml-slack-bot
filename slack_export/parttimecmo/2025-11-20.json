@@ -1,0 +1,50 @@
+[
+    {
+        "user": "U03QPMQA31V",
+        "type": "message",
+        "ts": "1763630130.531989",
+        "client_msg_id": "1B5FD4CF-E054-449B-9EC5-C60141714031",
+        "text": "Avec plaisir ! Merci <@U02N2EVMFCG> \nDis moi qd ça t’arrange ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "920d362f50c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-26\/3858025441956_920d362f50c400fcafe0_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu Pouget-Abadie",
+            "display_name": "Matthieu PA (Orisha)",
+            "team": "T017AGS2KE0",
+            "name": "mpougetabadie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763044686.146079",
+        "parent_user_id": "U03QPMQA31V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tMdYE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Avec plaisir ! Merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02N2EVMFCG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nDis moi qd ça t’arrange "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

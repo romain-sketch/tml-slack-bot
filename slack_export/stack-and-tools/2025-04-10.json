@@ -1,0 +1,143 @@
+[
+    {
+        "user": "U06GYUPMCR5",
+        "type": "message",
+        "ts": "1744287818.246509",
+        "client_msg_id": "273a8ce3-9584-4376-8da1-610ebdfbe003",
+        "text": "Hello\nJe suis en train de finir ma recherche d'agence media pour Colonies. La lead gen est très liée au SEA aujourd'hui, j'ai besoin de re-balancer en SEO et aussi d'aller chercher des leads à l'étranger pour les logements en France. Mon coeur balance entre Ads'Up et Datashake. Est-ce que quelqu'un a une mauvaise expérience avec une de ces agences? Merci",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7605196cd68d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-31\/7196035108950_7605196cd68d96ff55b6_72.png",
+            "first_name": "Céline",
+            "real_name": "Céline COROUGE",
+            "display_name": "Céline COROUGE",
+            "team": "T017AGS2KE0",
+            "name": "cecorouge",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1621935389.000900",
+        "parent_user_id": "U020QK16RMJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5jy2e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello\nJe suis en train de finir ma recherche d'agence media pour Colonies. La lead gen est très liée au SEA aujourd'hui, j'ai besoin de re-balancer en SEO et aussi d'aller chercher des leads à l'étranger pour les logements en France. Mon coeur balance entre Ads'Up et Datashake. Est-ce que quelqu'un a une mauvaise expérience avec une de ces agences? Merci"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U069NSTHZ3Q",
+        "type": "message",
+        "ts": "1744291112.358659",
+        "client_msg_id": "4a0c680d-3bf6-45e4-b0e4-84e29945a897",
+        "text": "hello <@U06GYUPMCR5> on commence juste avec Datashake donc je n'ai pas assez de recul. On est resté 2 ans avec Ads up, ils étaient bien mais on a commencé à tourner en rond et se reposer un peu trop sur les acquis, d'où le changement, mais au départ on était content.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "fbbca81fca0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-30\/7816371623809_fbbca81fca0c916c8c15_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Gannau (Oodrive)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "m.gannau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1621935389.000900",
+        "parent_user_id": "U020QK16RMJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lhGqO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06GYUPMCR5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on commence juste avec Datashake donc je n'ai pas assez de recul. On est resté 2 ans avec Ads up, ils étaient bien mais on a commencé à tourner en rond et se reposer un peu trop sur les acquis, d'où le changement, mais au départ on était content."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06GYUPMCR5",
+        "type": "message",
+        "ts": "1744292727.512539",
+        "client_msg_id": "8289fbc9-530c-4153-9e25-29327fb45ab0",
+        "text": "Merci <@U069NSTHZ3Q>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7605196cd68d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-31\/7196035108950_7605196cd68d96ff55b6_72.png",
+            "first_name": "Céline",
+            "real_name": "Céline COROUGE",
+            "display_name": "Céline COROUGE",
+            "team": "T017AGS2KE0",
+            "name": "cecorouge",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1621935389.000900",
+        "parent_user_id": "U020QK16RMJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wPT1g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U069NSTHZ3Q"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U069NSTHZ3Q"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

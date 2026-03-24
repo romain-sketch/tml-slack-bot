@@ -1,0 +1,60 @@
+[
+    {
+        "user": "U08SA22HS0J",
+        "type": "message",
+        "ts": "1749391131.825779",
+        "client_msg_id": "7edd80ef-e265-4115-8c2f-5c9862816ba3",
+        "text": "Hello la team, pour un usage perso, je cherche un canon à mail gratuit qui n'affiche pas son branding et qui permette de faire du tracking. Vous avez une idée ? Merci",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "266d9356f19e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-07\/10243863201635_266d9356f19e63bc9267_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu BONENFANT (SecLab)",
+            "display_name": "Matthieu BONENFANT (SecLab)",
+            "team": "T017AGS2KE0",
+            "name": "matthieu.bonenfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749391131.825779",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1749470165.668629",
+        "reply_users": [
+            "U06UK9NGTB4",
+            "U08SA22HS0J"
+        ],
+        "replies": [
+            {
+                "user": "U06UK9NGTB4",
+                "ts": "1749457801.989579"
+            },
+            {
+                "user": "U08SA22HS0J",
+                "ts": "1749470165.668629"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w6ne4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello la team, pour un usage perso, je cherche un canon à mail gratuit qui n'affiche pas son branding et qui permette de faire du tracking. Vous avez une idée ? Merci"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

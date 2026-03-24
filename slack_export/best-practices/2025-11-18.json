@@ -1,0 +1,52 @@
+[
+    {
+        "user": "U0859A8P14K",
+        "type": "message",
+        "ts": "1763454662.141719",
+        "client_msg_id": "F40E0680-39DA-4C8F-8ECE-14B1BC36527E",
+        "text": "Hello! Par ici 10 marketteurs sur 230 personnes \/ 25 M ARR",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "de9373c86530",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8178910826725_de9373c86530dc48c9e8_72.png",
+            "first_name": "Alexandra",
+            "real_name": "Alexandra Lougovoy",
+            "display_name": "Alexandra Lougovoy (Eudonet)",
+            "team": "T017AGS2KE0",
+            "name": "a.lougovoy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763277503.237199",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GyJYy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello! Par ici 10 marketteurs sur 230 personnes \/ 25 M ARR"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U069NSTHZ3Q",
+                    "U06MHCCLQG3"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

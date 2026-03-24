@@ -1,0 +1,108 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U09BVQYR1GA",
+        "text": "<@U09BVQYR1GA> has joined the channel",
+        "type": "message",
+        "ts": "1764229259.582449"
+    },
+    {
+        "user": "U09BVQYR1GA",
+        "type": "message",
+        "ts": "1764229301.309159",
+        "client_msg_id": "6bc04e41-e278-49c8-8892-cfd875b24126",
+        "text": "oui ! stripe avec paiement automatique avant le mois  <@U0946E8A2US>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0ee28ebc77d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-09-09\/9480262349955_0ee28ebc77d7f64eb0e1_72.png",
+            "first_name": "Tania",
+            "real_name": "Tania",
+            "display_name": "Tania",
+            "team": "T017AGS2KE0",
+            "name": "tsaezgrowth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757941343.504679",
+        "parent_user_id": "U0946E8A2US",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hQjMs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oui ! stripe avec paiement automatique avant le mois  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0946E8A2US"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U09BVQYR1GA",
+        "type": "message",
+        "ts": "1764229476.559149",
+        "client_msg_id": "c7161612-8015-42a0-b297-3221464a6424",
+        "text": "je faisait comme <@U01A4GMRRR9> à une époque mais j'ai vu que mon closing n'était pas bon et que je devais faire bcp des techniques de follow-up donc ce que j'ai fini par faire et de commencer avce un fee mensuel qui est plus petit et avoir sa carte pour que je ne doive pas faire les relances et la partie facture chaque mois. Tout est fait par Stripe. Je dois juste relancer quand je fais d'upselling par rapport au retainer mensuel.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0ee28ebc77d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-09-09\/9480262349955_0ee28ebc77d7f64eb0e1_72.png",
+            "first_name": "Tania",
+            "real_name": "Tania",
+            "display_name": "Tania",
+            "team": "T017AGS2KE0",
+            "name": "tsaezgrowth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757941343.504679",
+        "parent_user_id": "U0946E8A2US",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bj7\/P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je faisait comme "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01A4GMRRR9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " à une époque mais j'ai vu que mon closing n'était pas bon et que je devais faire bcp des techniques de follow-up donc ce que j'ai fini par faire et de commencer avce un fee mensuel qui est plus petit et avoir sa carte pour que je ne doive pas faire les relances et la partie facture chaque mois. Tout est fait par Stripe. Je dois juste relancer quand je fais d'upselling par rapport au retainer mensuel."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U08SX6ZDADD",
+        "text": "<@U08SX6ZDADD> has joined the channel",
+        "type": "message",
+        "ts": "1764229909.254549"
+    }
+]

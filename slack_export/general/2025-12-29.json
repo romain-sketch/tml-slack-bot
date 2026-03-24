@@ -1,0 +1,113 @@
+[
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1767026354.661619",
+        "edited": {
+            "user": "U084KTR7YKX",
+            "ts": "1767026415.000000"
+        },
+        "client_msg_id": "821ddb22-80f3-48f3-994e-3632e59406d1",
+        "text": "ECRIRE EN CAPITALE et mettre trois points d'exclamations ou d'interrogations !!! ??? (trigger, on dirait un message de mon père :scream_cat:)\n\nen tout cas JE SUIS INSCRITE !!! :slightly_smiling_face: (ceci est aussi un émoji de boomer)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1765437418.765269",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1wBXG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ECRIRE EN CAPITALE et mettre trois points d'exclamations ou d'interrogations !!! ??? (trigger, on dirait un message de mon père "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "scream_cat",
+                                "unicode": "1f640"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")\n\nen tout cas JE SUIS INSCRITE !!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (ceci est aussi un émoji de boomer)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U0951RDNKU6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06LENY5V6Z",
+        "type": "message",
+        "ts": "1767026919.400649",
+        "client_msg_id": "4cd313ba-16a4-43f1-bc44-eb3c98fa2bd7",
+        "text": "Bravo, c'est top ! Belle fin d'année en attendant 2026 !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "848090157b3c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6702750742819_848090157b3c5d209ab6_72.jpg",
+            "first_name": "Gaëlle",
+            "real_name": "Gaëlle Dumur",
+            "display_name": "Gaëlle Dumur",
+            "team": "T017AGS2KE0",
+            "name": "gaelle.dumur",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1766066282.683009",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J17i8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bravo, c'est top ! Belle fin d'année en attendant 2026 !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

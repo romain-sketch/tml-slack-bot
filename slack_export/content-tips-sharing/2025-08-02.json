@@ -1,0 +1,142 @@
+[
+    {
+        "user": "U06MHCCLQG3",
+        "type": "message",
+        "ts": "1754136011.405239",
+        "client_msg_id": "3BCC489A-B411-41B2-BDD0-3A3BB91077CC",
+        "text": "On a internalisé, trop de mauvaises expériences en free",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c0d40ab69a35",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-02\/6731971842677_c0d40ab69a3508d4c595_72.png",
+            "first_name": "Arnaud",
+            "real_name": "Arnaud Delubac (Greenly)",
+            "display_name": "Arnaud Delubac",
+            "team": "T017AGS2KE0",
+            "name": "arnaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1754043679.519969",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ogFIR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On a internalisé, trop de mauvaises expériences en free"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06MHCCLQG3",
+        "type": "message",
+        "ts": "1754136316.213049",
+        "edited": {
+            "user": "U06MHCCLQG3",
+            "ts": "1754502592.000000"
+        },
+        "client_msg_id": "3108954B-AA78-4749-8102-F31D4225078A",
+        "text": "Hello tout le monde,\n\nJe me posais une question toute simple : comment vous évaluez la perf de vos agences RP ? De mon côté, on réfléchit à faire un petit audit pour y voir plus clair pour la rentrée. En 2024, on a eu près de 800 retombées presse, avec quelques jolis coups comme Le Monde, NYT, WSJ ou The Guardian — surtout grâce à nos data stories qui marchent très bien à l’international. L’agence est aussi hyper réactive sur l’actu, ce qui nous permet de bien surfer sur les sujets chauds. Par contre, côté TV, c’est très mou…\n\nDu coup je suis curieux :\n– Vous leur donnez quels objectifs, vous ?\n– Vous mesurez quoi exactement pour garder un bon niveau d’exigence ?\n– Et comment vous dosez qualité vs. quantité ?\n\nMerci pour vos retours ! :pray:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c0d40ab69a35",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-02\/6731971842677_c0d40ab69a3508d4c595_72.png",
+            "first_name": "Arnaud",
+            "real_name": "Arnaud Delubac (Greenly)",
+            "display_name": "Arnaud Delubac",
+            "team": "T017AGS2KE0",
+            "name": "arnaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1754136316.213049",
+        "reply_count": 7,
+        "reply_users_count": 4,
+        "latest_reply": "1756995112.256979",
+        "reply_users": [
+            "U069NSTHZ3Q",
+            "U05H3SJKYFQ",
+            "U08PLD4KPS8",
+            "U06MHCCLQG3"
+        ],
+        "replies": [
+            {
+                "user": "U069NSTHZ3Q",
+                "ts": "1755506620.109199"
+            },
+            {
+                "user": "U05H3SJKYFQ",
+                "ts": "1756193794.308079"
+            },
+            {
+                "user": "U08PLD4KPS8",
+                "ts": "1756486272.595429"
+            },
+            {
+                "user": "U08PLD4KPS8",
+                "ts": "1756486536.084159"
+            },
+            {
+                "user": "U06MHCCLQG3",
+                "ts": "1756991229.457789"
+            },
+            {
+                "user": "U06MHCCLQG3",
+                "ts": "1756991249.753729"
+            },
+            {
+                "user": "U05H3SJKYFQ",
+                "ts": "1756995112.256979"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NWLrO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello tout le monde,\n\nJe me posais une question toute simple : comment vous évaluez la perf de vos agences RP ? De mon côté, on réfléchit à faire un petit audit pour y voir plus clair pour la rentrée. En 2024, on a eu près de 800 retombées presse, avec quelques jolis coups comme Le Monde, NYT, WSJ ou The Guardian — surtout grâce à nos data stories qui marchent très bien à l’international. L’agence est aussi hyper réactive sur l’actu, ce qui nous permet de bien surfer sur les sujets chauds. Par contre, côté TV, c’est très mou…\n\nDu coup je suis curieux :\n– Vous leur donnez quels objectifs, vous ?\n– Vous mesurez quoi exactement pour garder un bon niveau d’exigence ?\n– Et comment vous dosez qualité vs. quantité ?\n\nMerci pour vos retours ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U08QZ6EKE4Q",
+                    "U07MNBM4WLV",
+                    "U05H3SJKYFQ"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

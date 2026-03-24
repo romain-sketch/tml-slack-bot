@@ -1,0 +1,140 @@
+[
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1740403634.123269",
+        "client_msg_id": "55cf841d-5732-41e6-99f2-22d1dcff0d2f",
+        "text": "Hello !\nEst-ce que quelqu'un a une bonne agence SEO pour un site et contenus anglophones uniquement ?\nIdéalement au UK, car on n'adresse pas le marché US.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740403634.123269",
+        "reply_count": 9,
+        "reply_users_count": 5,
+        "latest_reply": "1740651756.487689",
+        "reply_users": [
+            "U07MNBM4WLV",
+            "U084KTR7YKX",
+            "U0183AS3MB6",
+            "U078PFP7A4B",
+            "U06CZESF7QF"
+        ],
+        "replies": [
+            {
+                "user": "U07MNBM4WLV",
+                "ts": "1740412745.774329"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1740471780.971169"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1740471916.830719"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1740471965.618259"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1740472137.860039"
+            },
+            {
+                "user": "U078PFP7A4B",
+                "ts": "1740477500.975229"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1740581582.774589"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1740581616.839339"
+            },
+            {
+                "user": "U078PFP7A4B",
+                "ts": "1740651756.487689"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "expZD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello !\nEst-ce que quelqu'un a une bonne agence SEO pour un site et contenus anglophones uniquement ?\nIdéalement au UK, car on n'adresse pas le marché US."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "x",
+                "users": [
+                    "U08EN5T6F4L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U07MNBM4WLV",
+        "type": "message",
+        "ts": "1740412745.774329",
+        "client_msg_id": "850b5c78-4f9f-4776-b304-18d6210ea6cf",
+        "text": "Intéressée aussi, surtout pour la partie accompagnement plutôt strat.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "028ce63b55be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7733128030774_028ce63b55be29945d4f_72.jpg",
+            "first_name": "Domitille",
+            "real_name": "Domitille de Saint-Exupéry",
+            "display_name": "Domitille de Saint-Exupéry (lemlist)",
+            "team": "T017AGS2KE0",
+            "name": "domitille433",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740403634.123269",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0t1oF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Intéressée aussi, surtout pour la partie accompagnement plutôt strat."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

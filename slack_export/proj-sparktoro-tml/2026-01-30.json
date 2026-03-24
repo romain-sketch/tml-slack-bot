@@ -1,0 +1,460 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U0177A5V42F",
+        "text": "<@U0177A5V42F> has joined the channel",
+        "type": "message",
+        "ts": "1769788520.212719"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U065DFPCQMP",
+        "text": "<@U065DFPCQMP> has joined the channel",
+        "inviter": "U0177A5V42F",
+        "type": "message",
+        "ts": "1769788535.181429"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U09BVQYR1GA",
+        "text": "<@U09BVQYR1GA> has joined the channel",
+        "inviter": "U0177A5V42F",
+        "type": "message",
+        "ts": "1769788535.294059"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0946E8A2US",
+        "text": "<@U0946E8A2US> has joined the channel",
+        "inviter": "U0177A5V42F",
+        "type": "message",
+        "ts": "1769788535.370259"
+    },
+    {
+        "user": "U065DFPCQMP",
+        "type": "message",
+        "ts": "1769788573.488459",
+        "client_msg_id": "24c257a8-f5e2-4a31-8129-96fb3706f6b9",
+        "text": "aussitot dit, aussitot fait :clap:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50040e0261e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-15\/6198553206674_50040e0261e7ba62e840_72.jpg",
+            "first_name": "Gaelle",
+            "real_name": "Gaelle Le Goff",
+            "display_name": "Gaelle Le Goff",
+            "team": "T017AGS2KE0",
+            "name": "gaelle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KlfN9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "aussitot dit, aussitot fait "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "clap",
+                                "unicode": "1f44f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0177A5V42F",
+        "type": "message",
+        "ts": "1769789184.652339",
+        "client_msg_id": "2c9a8be6-14d1-41e3-b619-da39ddcfa71c",
+        "text": ":rocket: Kick-off : Projet \"Audience Intelligence\" (EU-First)\n\nHello ! On passe à la vitesse supérieure ?\nL’idée : coder notre propre *\"SparkToro-like\"* optimisé pour le marché français et européen, là où les outils US nous laissent sur notre faim.\n:dart: La Vision\nOn veut un outil capable de dé-siloter l'attention de nos prospects. Savoir ce qu'ils font entre deux recherches Google : ce qu'ils lisent, qui ils écoutent, et où ils traînent.\n:classical_building: Les 4 Piliers du MVP (The Core)\nPour que l'outil soit une vraie machine de guerre marketing, on doit couvrir ces 4 zones :\n1. *Influence Sociale (Cross-Canal) :* Mapper qui ils suivent sur LinkedIn (notre priorité B2B), mais aussi X, YouTube, TikTok et Instagram.\n2. *Consommation Média :* Identifier les podcasts, newsletters (Substack\/Ghost) et médias de niche qu'ils partagent et consultent.\n3. *Analyse Sémantique :* Quels mots-clés utilisent-ils pour se décrire (Bios) et de quels sujets parlent-ils en ce moment (Hashtags\/Keywords) ?\n4. *Démographie &amp; Localisation :* Filtrage précis par zone géographique (France\/Europe) et par intitulé de poste.\n:hammer_and_wrench: La Tech Stack (Vibe Coding)\nOn part sur *Lovable* pour le frontend et l'orchestration. L'objectif est de \"vibe coder\" une interface ultra-clean (type Linear\/SparkToro) qui appelle différentes sources de données via API.\n\n:clipboard: Répartition des Rôles (Qui prend quoi ?)\nPour avancer vite, on a besoin de se répartir les briques. Voici une suggestion de rôles pour les membres du commando :\n• Gaëlle : Lead Lovable &amp; Frontend Architecture\n• Guillaume : UX\/UI + PMM\n• Thibault Data Sourcing &amp; API Wrangler ?\n• Tania ?\n:fire: Next Steps\n1. *Validation :* Est-ce que cette structure vous chauffe ? Des modifs sur les piliers ?\n2. *Assignation :* Dites-moi si vos rôles vous conviennent ou si vous voulez switcher.\n3. *Action :* Une fois les rôles ok, on lance le premier \"Mega-Prompt\" dans Lovable pour poser la structure.\n",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ebca9b04129",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-17\/1245815650949_7ebca9b041296679a81d_72.jpg",
+            "first_name": "Guillaume",
+            "real_name": "Guillaume Laguette",
+            "display_name": "Guillaume Laguette (echOpen)",
+            "team": "T017AGS2KE0",
+            "name": "laguette.guillaume",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QACHu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "rocket",
+                                "unicode": "1f680"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Kick-off : Projet \"Audience Intelligence\" (EU-First)\n\nHello ! On passe à la vitesse supérieure ?\nL’idée : coder notre propre "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\"SparkToro-like\"",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " optimisé pour le marché français et européen, là où les outils US nous laissent sur notre faim.\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dart",
+                                "unicode": "1f3af"
+                            },
+                            {
+                                "type": "text",
+                                "text": " La Vision\nOn veut un outil capable de dé-siloter l'attention de nos prospects. Savoir ce qu'ils font entre deux recherches Google : ce qu'ils lisent, qui ils écoutent, et où ils traînent.\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "classical_building",
+                                "unicode": "1f3db-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Les 4 Piliers du MVP (The Core)\nPour que l'outil soit une vraie machine de guerre marketing, on doit couvrir ces 4 zones :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Influence Sociale (Cross-Canal) :",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Mapper qui ils suivent sur LinkedIn (notre priorité B2B), mais aussi X, YouTube, TikTok et Instagram."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Consommation Média :",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Identifier les podcasts, newsletters (Substack\/Ghost) et médias de niche qu'ils partagent et consultent."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Analyse Sémantique :",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Quels mots-clés utilisent-ils pour se décrire (Bios) et de quels sujets parlent-ils en ce moment (Hashtags\/Keywords) ?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Démographie & Localisation :",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Filtrage précis par zone géographique (France\/Europe) et par intitulé de poste."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hammer_and_wrench",
+                                "unicode": "1f6e0-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " La Tech Stack (Vibe Coding)\nOn part sur "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Lovable",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour le frontend et l'orchestration. L'objectif est de \"vibe coder\" une interface ultra-clean (type Linear\/SparkToro) qui appelle différentes sources de données via API.\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "clipboard",
+                                "unicode": "1f4cb"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Répartition des Rôles (Qui prend quoi ?)\nPour avancer vite, on a besoin de se répartir les briques. Voici une suggestion de rôles pour les membres du commando :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Gaëlle : Lead Lovable & Frontend Architecture"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Guillaume : UX\/UI + PMM"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Thibault Data Sourcing & API Wrangler ?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Tania ?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire",
+                                "unicode": "1f525"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Next Steps\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Validation :",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Est-ce que cette structure vous chauffe ? Des modifs sur les piliers ?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Assignation :",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Dites-moi si vos rôles vous conviennent ou si vous voulez switcher."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Action :",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Une fois les rôles ok, on lance le premier \"Mega-Prompt\" dans Lovable pour poser la structure."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U065DFPCQMP",
+        "type": "message",
+        "ts": "1769791194.206249",
+        "client_msg_id": "2AEE2F90-0D03-4BE3-8C6A-1C48EFE17B19",
+        "text": "<@U0946E8A2US> c'est plutôt du cursor ou Claude qu’il va falloir que ce projet non ? ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50040e0261e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-15\/6198553206674_50040e0261e7ba62e840_72.jpg",
+            "first_name": "Gaelle",
+            "real_name": "Gaelle Le Goff",
+            "display_name": "Gaelle Le Goff",
+            "team": "T017AGS2KE0",
+            "name": "gaelle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9xITW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0946E8A2US"
+                            },
+                            {
+                                "type": "text",
+                                "text": " c'est plutôt du cursor ou Claude qu’il va falloir que ce projet non ? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U065DFPCQMP",
+        "type": "message",
+        "ts": "1769791215.230419",
+        "client_msg_id": "1E3E778D-D10D-4C9F-892E-4BFE0F15317D",
+        "text": "(Le pauvre il n'a même pas eu le temps de dire qu’il était ok) ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50040e0261e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-15\/6198553206674_50040e0261e7ba62e840_72.jpg",
+            "first_name": "Gaelle",
+            "real_name": "Gaelle Le Goff",
+            "display_name": "Gaelle Le Goff",
+            "team": "T017AGS2KE0",
+            "name": "gaelle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tIDR8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(Le pauvre il n'a même pas eu le temps de dire qu’il était ok) "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

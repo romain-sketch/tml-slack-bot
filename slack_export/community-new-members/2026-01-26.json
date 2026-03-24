@@ -1,0 +1,539 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U0ABUV23EG0",
+        "text": "<@U0ABUV23EG0> has joined the channel",
+        "type": "message",
+        "ts": "1769456141.715299",
+        "team": "T017AGS2KE0"
+    },
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1769456969.547639",
+        "client_msg_id": "F03E5F85-C605-41AB-8302-C777B1413CD6",
+        "text": "Welcome <@U0ABUV23EG0> !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QPocJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0ABUV23EG0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U08M0JP81DK",
+                    "U063A8VPPG9",
+                    "U06LENY5V6Z"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1769456995.394529",
+        "client_msg_id": "F6C6A8A5-A829-43C6-9796-DD5CEF65D6DA",
+        "text": "Invit envoyée ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769194144.172879",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LK1eg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Invit envoyée "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U042GV737MX",
+        "type": "message",
+        "ts": "1769457264.217549",
+        "client_msg_id": "77c464dc-7a7c-482f-bcae-cee14d0596ed",
+        "text": "Welcome !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "477225f2b12e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4077716786404_477225f2b12eccc47dc4_72.png",
+            "first_name": "Claire",
+            "real_name": "Claire Chauvallon",
+            "display_name": "Claire Chauvallon",
+            "team": "T017AGS2KE0",
+            "name": "chauvallon.claire",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uFZtb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0ABUV23EG0",
+        "type": "message",
+        "ts": "1769457342.346559",
+        "client_msg_id": "ff7eba06-9ae2-4325-b5b2-86c634ebad33",
+        "text": "Merci pour l'acceuil ! Très contente de vous rejoindre :slightly_smiling_face:\n\nMini présentation : Je suis Eléna, je bosse depuis une grosse quinzaine d'années d'abord en data puis en marketing B2C majoritairement (avec appétence forte produit \/ data). Actuellement chez Mon Marché, une app de livraison de courses où je m'éclate vraiment !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "1bb979c7b54d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-26\/10369683502723_1bb979c7b54df5b7b218_72.png",
+            "first_name": "Eléna",
+            "real_name": "Eléna Vouge Michel",
+            "display_name": "Eléna Vouge Michel",
+            "team": "T017AGS2KE0",
+            "name": "elenavouge",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769457342.346559",
+        "reply_count": 9,
+        "reply_users_count": 9,
+        "latest_reply": "1769721253.692729",
+        "reply_users": [
+            "U01A4GMRRR9",
+            "U02N2EVMFCG",
+            "U0183AS3MB6",
+            "U063A8VPPG9",
+            "U0946E8A2US",
+            "U0177A5V42F",
+            "U06UK9NGTB4",
+            "U0A0QG03DLN",
+            "U0951RDNKU6"
+        ],
+        "replies": [
+            {
+                "user": "U01A4GMRRR9",
+                "ts": "1769458276.208039"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1769491730.942069"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1769495805.618049"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1769498822.488749"
+            },
+            {
+                "user": "U0946E8A2US",
+                "ts": "1769500460.025569"
+            },
+            {
+                "user": "U0177A5V42F",
+                "ts": "1769508961.568159"
+            },
+            {
+                "user": "U06UK9NGTB4",
+                "ts": "1769509226.748009"
+            },
+            {
+                "user": "U0A0QG03DLN",
+                "ts": "1769521837.596059"
+            },
+            {
+                "user": "U0951RDNKU6",
+                "ts": "1769721253.692729"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6efnC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci pour l'acceuil ! Très contente de vous rejoindre "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nMini présentation : Je suis Eléna, je bosse depuis une grosse quinzaine d'années d'abord en data puis en marketing B2C majoritairement (avec appétence forte produit \/ data). Actuellement chez Mon Marché, une app de livraison de courses où je m'éclate vraiment !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U09JE6QUZDZ",
+                    "U017H09S857",
+                    "U042GV737MX",
+                    "U069NSTHZ3Q",
+                    "U04HP95GK55",
+                    "U0A0QG03DLN",
+                    "U08EN5GRYCC",
+                    "U06TF9YAWEM",
+                    "U0951RDNKU6"
+                ],
+                "count": 9
+            },
+            {
+                "name": "wave",
+                "users": [
+                    "U01A4GMRRR9",
+                    "U08M0JP81DK",
+                    "U0183AS3MB6",
+                    "U063A8VPPG9",
+                    "U04L35Y9D08",
+                    "U07D08K3U0K",
+                    "U04HP95GK55",
+                    "U03QTQ36Q6T",
+                    "U08PLD4KPS8",
+                    "U06LENY5V6Z",
+                    "U0177A5V42F",
+                    "U04TU0UA2R1",
+                    "U09EFH6S1BQ",
+                    "U078PFP7A4B",
+                    "U092U6UDLMN",
+                    "U08EN5T6F4L",
+                    "U06TF9YAWEM",
+                    "U0951RDNKU6"
+                ],
+                "count": 18
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02N2EVMFCG",
+                    "U04L35Y9D08",
+                    "U0A0QG03DLN",
+                    "U08EN5GRYCC",
+                    "U06TF9YAWEM",
+                    "U0951RDNKU6"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1769458276.208039",
+        "client_msg_id": "1f288c8a-e632-4778-bc94-8c168d3132f6",
+        "text": "Welcome <@U0ABUV23EG0>!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769457342.346559",
+        "parent_user_id": "U0ABUV23EG0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Knd6u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0ABUV23EG0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U0ABUV23EG0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1769491730.942069",
+        "client_msg_id": "a46f0d5d-64b9-43fe-9edb-f2f5edeb6f96",
+        "text": "Welcome !!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769457342.346559",
+        "parent_user_id": "U0ABUV23EG0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cvhju",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome !!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1769495805.618049",
+        "client_msg_id": "6420B90B-0DA8-44E2-9E30-E1CD103F946C",
+        "text": "Bienvenue :)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769457342.346559",
+        "parent_user_id": "U0ABUV23EG0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tZzaw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bienvenue :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1769498822.488749",
+        "client_msg_id": "897068d9-14cc-4a5a-9c55-db16cba1842b",
+        "text": "Welcome et bravo pour ton pitch :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769457342.346559",
+        "parent_user_id": "U0ABUV23EG0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uIgBv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome et bravo pour ton pitch "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0946E8A2US",
+        "type": "message",
+        "ts": "1769500460.025569",
+        "edited": {
+            "user": "U0946E8A2US",
+            "ts": "1769500471.000000"
+        },
+        "client_msg_id": "E742AF7A-6C2C-4691-A441-69E311ECEA44",
+        "text": "Bienvenue Eléna ! :wave:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "f73f6d38e4eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-07-23\/9238905089862_f73f6d38e4eb792c8c6a_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult",
+            "team": "T017AGS2KE0",
+            "name": "thibaut.davoult",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769457342.346559",
+        "parent_user_id": "U0ABUV23EG0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mdimC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bienvenue El"
+                            },
+                            {
+                                "type": "text",
+                                "text": "é"
+                            },
+                            {
+                                "type": "text",
+                                "text": "na ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

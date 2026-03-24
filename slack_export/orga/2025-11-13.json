@@ -1,0 +1,992 @@
+[
+    {
+        "user": "U06U1GG592M",
+        "type": "message",
+        "ts": "1763041070.276679",
+        "client_msg_id": "ee7d73cc-266d-4c77-bb5d-124e4ae30348",
+        "text": "*Rattachement Field Marketing* \n\nHello à tous !\nJe fais appel à vos REX sur un sujet d’orga qui revient souvent :\n :point_right: *où doit vivre le Field Marketing ? Côté Sales ou côté Marketing ?*\nDe mon côté, je pense qu’il est préférable de le garder sous Marketing (cohérence du messaging, gouvernance budget, synergies Paid\/PMM\/Lifecycle\/SEO…).\nJe m’interroge sur les risques d’un passage côté Sales : fragmentation par marché, perte de cohérence, difficulté à synchroniser des livrables transverses _très_ time-sensitive.\n*==&gt; Des retours d’expérience à partager ?*\nMerci :pray:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "84a1e781f35c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-31\/7202740482978_84a1e781f35c228ca958_72.jpg",
+            "first_name": "Carolane",
+            "real_name": "Carolane Guyon",
+            "display_name": "Carolane (Veesion)",
+            "team": "T017AGS2KE0",
+            "name": "c.guyon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763041070.276679",
+        "reply_count": 14,
+        "reply_users_count": 11,
+        "latest_reply": "1763396949.783559",
+        "reply_users": [
+            "U01A4GMRRR9",
+            "U04A6JMRWCS",
+            "U092U6UDLMN",
+            "U03QPMQA31V",
+            "U08PLD4KPS8",
+            "U08SA22HS0J",
+            "U06U1GG592M",
+            "U063A8VPPG9",
+            "U06EN9X790C",
+            "U017H09S857",
+            "U0951RDNKU6"
+        ],
+        "replies": [
+            {
+                "user": "U01A4GMRRR9",
+                "ts": "1763041158.791259"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1763041239.187159"
+            },
+            {
+                "user": "U092U6UDLMN",
+                "ts": "1763041682.439489"
+            },
+            {
+                "user": "U03QPMQA31V",
+                "ts": "1763044226.313529"
+            },
+            {
+                "user": "U08PLD4KPS8",
+                "ts": "1763045363.059029"
+            },
+            {
+                "user": "U08SA22HS0J",
+                "ts": "1763045605.958899"
+            },
+            {
+                "user": "U06U1GG592M",
+                "ts": "1763045952.178849"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1763049567.255199"
+            },
+            {
+                "user": "U06EN9X790C",
+                "ts": "1763050940.641719"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1763058994.611119"
+            },
+            {
+                "user": "U0951RDNKU6",
+                "ts": "1763390887.274719"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1763396568.290009"
+            },
+            {
+                "user": "U0951RDNKU6",
+                "ts": "1763396750.223329"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1763396949.783559"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nVGWo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Rattachement Field Marketing ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nHello à tous !\nJe fais appel à vos REX sur un sujet d’orga qui revient souvent :\n "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_right",
+                                "unicode": "1f449"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "où doit vivre le Field Marketing ? Côté Sales ou côté Marketing ?",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDe mon côté, je pense qu’il est préférable de le garder sous Marketing (cohérence du messaging, gouvernance budget, synergies Paid\/PMM\/Lifecycle\/SEO…).\nJe m’interroge sur les risques d’un passage côté Sales : fragmentation par marché, perte de cohérence, difficulté à synchroniser des livrables transverses "
+                            },
+                            {
+                                "type": "text",
+                                "text": "très",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " time-sensitive.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "==> Des retours d’expérience à partager ?",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nMerci "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1763041158.791259",
+        "client_msg_id": "528A4094-7FDE-4952-91A8-A38DB1BB971C",
+        "text": "Marketing - aucun doute ! \nLe ‘rattachement ‘ doit se faire via des Kpis communs ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763041070.276679",
+        "parent_user_id": "U06U1GG592M",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GOrRB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Marketing - aucun doute ! \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Le ‘rattachement"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ‘ doit se faire via des Kpis communs "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1763041239.187159",
+        "client_msg_id": "9d9a9d20-8216-4f7e-a766-63b19d4ae340",
+        "text": "tu peux leur dire que la réponse est dans le titre du job je pense",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763041070.276679",
+        "parent_user_id": "U06U1GG592M",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LJhb9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tu peux leur dire que la réponse est dans le titre du job je pense"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U06CZESF7QF",
+                    "U06U1GG592M",
+                    "U08EN5T6F4L",
+                    "U03QPMQA31V",
+                    "U078PFP7A4B",
+                    "U063A8VPPG9",
+                    "U06EN9X790C",
+                    "U02N2EVMFCG",
+                    "U06DYTRDLUD",
+                    "U08M0JP81DK",
+                    "U07R7CUFM7H",
+                    "U067VEJFT5F"
+                ],
+                "count": 12
+            }
+        ]
+    },
+    {
+        "user": "U092U6UDLMN",
+        "type": "message",
+        "ts": "1763041682.439489",
+        "client_msg_id": "579a9eb6-ef95-4c41-b8ae-dd6f3f395150",
+        "text": "Marketing",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e910bc968404",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-19\/9072876473829_e910bc968404c2c0b5d1_72.png",
+            "first_name": "Bastien",
+            "real_name": "Bastien Meaux (DialOnce)",
+            "display_name": "Bastien Meaux",
+            "team": "T017AGS2KE0",
+            "name": "bmeaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763041070.276679",
+        "parent_user_id": "U06U1GG592M",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cSKsX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Marketing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03QPMQA31V",
+        "type": "message",
+        "ts": "1763044226.313529",
+        "client_msg_id": "8f8aea25-e184-47ec-9f79-67603db258c9",
+        "text": "MARKETING! :smile:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "920d362f50c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-26\/3858025441956_920d362f50c400fcafe0_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu Pouget-Abadie",
+            "display_name": "Matthieu PA (Orisha)",
+            "team": "T017AGS2KE0",
+            "name": "mpougetabadie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763041070.276679",
+        "parent_user_id": "U06U1GG592M",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+3c0a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "MARKETING! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08PLD4KPS8",
+        "type": "message",
+        "ts": "1763045363.059029",
+        "edited": {
+            "user": "U08PLD4KPS8",
+            "ts": "1763045426.000000"
+        },
+        "client_msg_id": "4d0c3f99-2be8-4247-b876-f1f6ca2f26ff",
+        "text": "Marketing - j'ai vécu les deux. Le Field Marketing, d'abord créé au marketing, est passé sous les GM pays (des sales en fait)  dans toutes les régions (y compris la France).\n*Avantages*:  bon alignement sur les objectifs +  GMs pays qui tout d'un coup se soucient du marketing parce que c'est chez eux donc inclusion du FMM dans toutes les discussions commerciales (revue des comptes, etc.) + GM pays qui du coup comprennent le lead gen et donc mettent la pressions sur les sales pour suivre les leads --- il y avait des effets assez vertueux au début.\n*Inconvénients*:  coûte cher (car profils managés par une personne qui ne connait pas la fonction, donc il faut des profils seniors) + manque d'alignement entre les pays + difficulté pour le GM sales de bien manager et faire grandir le field marketer (donc souci au moment des evals de fin d'année, des entretiens de carrière, etc.) + au final c'est moi qui passait du temps sur les recrutements (car GM pays qui ne se sentait pas à l'aise pour recruter) + la gestion de l'alignement marketing prend un peu plus de temps.\n\n Au final, en tant que CMO je devais faire les recrutements + les evals, et définir les objectifs, et travailler les opportunités de développement, + l'allocation des budgets, le plan marketing, donc 80% du boulot de management et de structuration. pour des FMMs qui étaient chez les sales. Je pense que le seul pays pour lequel cela fonctionnait était celui le plus mature ou le FMM avait 15 ans d'expérience et était en fait un directeur marketing pays.\n\nDonc les FMMs était chez les sales \"en apparence\". C'était un peu soûlant même si cela m'avait permis de développer des relations proches avec les GMs...\nSi c'était à refaire, je me battrais bcp plus pour que les FMMs restent au marketing.  Ne voulais pas être vue comme trop territoriale sur le moment, mais j'ai franchement regretté.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ed1e5a6e17a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-15\/8903493241218_7ed1e5a6e17a9b117971_72.jpg",
+            "first_name": "Ségolène",
+            "real_name": "Ségolène Finet",
+            "display_name": "Ségolène Finet",
+            "team": "T017AGS2KE0",
+            "name": "finetsegolene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763041070.276679",
+        "parent_user_id": "U06U1GG592M",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RnNo8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Marketing - j'ai vécu les deux. Le Field Marketing, d'abord créé au marketing, est passé sous les GM pays (des sales en fait)  dans toutes les régions (y compris la France).\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Avantages",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ":  bon alignement sur les objectifs +  GMs pays qui tout d'un coup se soucient du marketing parce que c'est chez eux donc inclusion du FMM dans toutes les discussions commerciales (revue des comptes, etc.) + GM pays qui du coup comprennent le lead gen et donc mettent la pressions sur les sales pour suivre les leads --- il y avait des effets assez vertueux au début.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Inconvénients",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ":  coûte cher (car profils managés par une personne qui ne connait pas la fonction, donc il faut des profils seniors) + manque d'alignement entre les pays + difficulté pour le GM sales de bien manager et faire grandir le field marketer (donc souci au moment des evals de fin d'année, des entretiens de carrière, etc.) + au final c'est moi qui passait du temps sur les recrutements (car GM pays qui ne se sentait pas à l'aise pour recruter) + la gestion de l'alignement marketing prend un peu plus de temps.\n\n Au final, en tant que CMO je devais faire les recrutements + les evals, et définir les objectifs, et travailler les opportunités de développement, + l'allocation des budgets, le plan marketing, donc 80% du boulot de management et de structuration. pour des FMMs qui étaient chez les sales. Je pense que le seul pays pour lequel cela fonctionnait était celui le plus mature ou le FMM avait 15 ans d'expérience et était en fait un directeur marketing pays.\n\nDonc les FMMs était chez les sales \"en apparence\". C'était un peu soûlant même si cela m'avait permis de développer des relations proches avec les GMs...\nSi c'était à refaire, je me battrais bcp plus pour que les FMMs restent au marketing.  Ne voulais pas être vue comme trop territoriale sur le moment, mais j'ai franchement regretté."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U06U1GG592M",
+                    "U06DYTRDLUD",
+                    "U08M0JP81DK"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U08SA22HS0J",
+        "type": "message",
+        "ts": "1763045605.958899",
+        "client_msg_id": "74a06a72-21b6-4360-815c-fff2681df7cd",
+        "text": "Marketing also ! Très bon Retex Ségolène. J'ai aussi connu une expérience où les FMM étaient rattachés aux équipes Sales locales. On avait beaucoup de mal à coordonner des opérations multi-pays et le focus était fortement porté sur le court-terme et l'acquisition au détriment d'autres leviers. Tout est repassé sous le market.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "266d9356f19e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-07\/10243863201635_266d9356f19e63bc9267_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu BONENFANT (SecLab)",
+            "display_name": "Matthieu BONENFANT (SecLab)",
+            "team": "T017AGS2KE0",
+            "name": "matthieu.bonenfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763041070.276679",
+        "parent_user_id": "U06U1GG592M",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WoTyk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Marketing also ! Très bon Retex Ségolène. J'ai aussi connu une expérience où les FMM étaient rattachés aux équipes Sales locales. On avait beaucoup de mal à coordonner des opérations multi-pays et le focus était fortement porté sur le court-terme et l'acquisition au détriment d'autres leviers. Tout est repassé sous le market."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U08PLD4KPS8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06U1GG592M",
+        "type": "message",
+        "ts": "1763045952.178849",
+        "client_msg_id": "2726be60-477b-4812-aeb6-c473289c60f4",
+        "text": "Merci beaucoup c'est hyper intéressant !\n\n_Au final, en tant que CMO je devais faire les recrutements + les evals, et définir les objectifs, et travailler les opportunités de développement, + l'allocation des budgets, le plan marketing, donc 80% du boulot de management et de structuration_ *=&gt; Mais tellement !!* \n_fortement porté sur le court-terme et l'acquisition au détriment d'autres leviers_ *=&gt; exactement ma crainte aussi* ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "84a1e781f35c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-31\/7202740482978_84a1e781f35c228ca958_72.jpg",
+            "first_name": "Carolane",
+            "real_name": "Carolane Guyon",
+            "display_name": "Carolane (Veesion)",
+            "team": "T017AGS2KE0",
+            "name": "c.guyon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763041070.276679",
+        "parent_user_id": "U06U1GG592M",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VjiZy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci beaucoup c'est hyper intéressant !\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Au final, en tant que CMO je devais faire les recrutements + les evals, et définir les objectifs, et travailler les opportunités de développement, + l'allocation des budgets, le plan marketing, donc 80% du boulot de management et de structuration",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "=> Mais tellement !! ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "fortement porté sur le court-terme et l'acquisition au détriment d'autres leviers",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " => exactement ma crainte aussi ",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U08PLD4KPS8",
+                    "U020QK16RMJ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1763049567.255199",
+        "client_msg_id": "ec051ba3-c542-4afc-9797-5cf022a9b48b",
+        "text": "Marketing, indispensable pour les economies d'échelle pour pouvoir scaler :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763041070.276679",
+        "parent_user_id": "U06U1GG592M",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kwfL5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Marketing, indispensable pour les economies d'échelle pour pouvoir scaler "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06U1GG592M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06EN9X790C",
+        "type": "message",
+        "ts": "1763050940.641719",
+        "client_msg_id": "59DB949E-2C87-4DD6-99DF-3B76688BD783",
+        "text": "Obviously Marketing! \nKpi communs et mission: driver du pipeline MQL&gt;SQL et supporter les sales (events partenariats etc.)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "bea7f170501a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-20\/6503634777459_bea7f170501a9dc7d1c3_72.jpg",
+            "first_name": "Chiraz",
+            "real_name": "Chiraz Hassen",
+            "display_name": "Chiraz",
+            "team": "T017AGS2KE0",
+            "name": "chiraz.hassen558",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763041070.276679",
+        "parent_user_id": "U06U1GG592M",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "trFv+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "O"
+                            },
+                            {
+                                "type": "text",
+                                "text": "bviously Marketing! \nKpi communs et mission: driver du pipeline MQL>SQL et supporter les sales (events partenariats etc.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1763058994.611119",
+        "client_msg_id": "aff4a4f3-938a-4365-bd48-9bbb07fefdfc",
+        "text": "Marketing aussi pour Alan, pour les mêmes raisons que tout le monde!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763041070.276679",
+        "parent_user_id": "U06U1GG592M",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ooCR0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Marketing aussi pour Alan, pour les mêmes raisons que tout le monde!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U09BVQYR1GA",
+        "type": "message",
+        "ts": "1763101885.392179",
+        "edited": {
+            "user": "U09BVQYR1GA",
+            "ts": "1764326964.000000"
+        },
+        "client_msg_id": "63e583d6-5b2b-463e-bde5-d65f176d1323",
+        "text": "Hello tout le monde !\n J’aurais besoin de vos retours sur un cas d’organisation un peu particulier.\nJe suis en mission fractional depuis 6 mois. Le client veut recruter “mon clone”… sauf que mon rôle est un mix assez bizarre : ABM early-stage + growth + sales enablement dans un cycle de vente long. Bref, pas un bon profil marketing tradi.\n*Contexte rapide :*\n• Cycle de vente long et complexe → très très début de méthodo ABM.\n• Le sales actuel n’a pas les bases du métier sales (il ne sait pas faire des objections handlin, multithreading, discovery, follow-up…). Je le coache, et c’est ce que le CEO apprécie le plus. Mais ça reste _hors_ périmètre marketing. Je lui ai déjà dit que vu que j'ai travaillé sur les deux je m'amuse à le faire mais il me semble que c'est bizarre dans le marché d'avoir cela.\n• Il y a bcp de travail opérational chez le profil growth. Actuellement je fais la machine inbound, ABM, sales enablement, direction sprints, optimisation web...\n• L’organisation que j’ai proposée (et validée) :\n    ◦ *Account Executive full-funnel* (BDR + closing d'un AE). Un gros, un bon profil sales pour coacher\/qu'ils voient ce que c'est un bon sales.\n    ◦ *GTM Lead* (hybride sales\/marketing)\n    ◦ *Content Manager*\n*Mes questions :*\n1. Qui doit encadrer le sales actuel : l’AE ou le GTM Lead ? Mon client veut que cela soit le profil marketingt (GTM Lead) mais mon point est que cette personne aurait bcp d'opérationnel.\n2. Quelle organisation\/méthodologie (type squad, pairing, rituels…) pour structurer son coaching et créer une dynamique positive entre l'AE, GTM lead et le sales actuel. On travaille avec des sprints mais pas trop performants.s\n3. Des idées pour motiver un sales qui ne connait pas les bases du sales (même si il le fait depuis 8 ans) sans tomber dans le micro-management ?\n4. vous avez des exemples d’*orga cible à 2–3 ans* pour ce type de setup\n5. Avez-vous des expériences simmilaires ? Des recos génériques dans l'embauche de ce team ?\npoint de douleur client ultime et overarching à tout : inertie de vente car c'est le leader dans le marché mais un blackbox sur son entonnoir de création et gestion de leads.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0ee28ebc77d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-09-09\/9480262349955_0ee28ebc77d7f64eb0e1_72.png",
+            "first_name": "Tania",
+            "real_name": "Tania",
+            "display_name": "Tania",
+            "team": "T017AGS2KE0",
+            "name": "tsaezgrowth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763101885.392179",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1764135186.704909",
+        "reply_users": [
+            "U0183AS3MB6",
+            "U0177A5V42F",
+            "U09BVQYR1GA"
+        ],
+        "replies": [
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1763111157.122449"
+            },
+            {
+                "user": "U0177A5V42F",
+                "ts": "1763127204.342329"
+            },
+            {
+                "user": "U09BVQYR1GA",
+                "ts": "1764135186.704909"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0pPlm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello tout le monde !\n J’aurais besoin de vos retours sur un cas d’organisation un peu particulier.\nJe suis en mission fractional depuis 6 mois. Le client veut recruter “mon clone”… sauf que mon rôle est un mix assez bizarre : ABM early-stage + growth + sales enablement dans un cycle de vente long. Bref, pas un bon profil marketing tradi.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Contexte rapide :",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Cycle de vente long et complexe → très très début de méthodo ABM."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Le sales actuel n’a pas les bases du métier sales (il ne sait pas faire des objections handlin, multithreading, discovery, follow-up…). Je le coache, et c’est ce que le CEO apprécie le plus. Mais ça reste "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "hors",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " périmètre marketing. Je lui ai déjà dit que vu que j'ai travaillé sur les deux je m'amuse à le faire mais il me semble que c'est bizarre dans le marché d'avoir cela."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Il y a bcp de travail opérational chez le profil growth. Actuellement je fais la machine inbound, ABM, sales enablement, direction sprints, optimisation web..."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "L’organisation que j’ai proposée (et validée) :"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Account Executive full-funnel",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " (BDR + closing d'un AE). Un gros, un bon profil sales pour coacher\/qu'ils voient ce que c'est un bon sales."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "GTM Lead",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " (hybride sales\/marketing)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Content Manager",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Mes questions :",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Qui doit encadrer le sales actuel : l’AE ou le GTM Lead ? Mon client veut que cela soit le profil marketingt (GTM Lead) mais mon point est que cette personne aurait bcp d'opérationnel."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Quelle organisation\/méthodologie (type squad, pairing, rituels…) pour structurer son coaching et créer une dynamique positive entre l'AE, GTM lead et le sales actuel. On travaille avec des sprints mais pas trop performants.s"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Des idées pour motiver un sales qui ne connait pas les bases du sales (même si il le fait depuis 8 ans) sans tomber dans le micro-management ?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "vous avez des exemples d’"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "orga cible à 2–3 ans",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " pour ce type de setup"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Avez-vous des expériences simmilaires ? Des recos génériques dans l'embauche de ce team ?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\npoint de douleur client ultime et overarching à tout : inertie de vente car c'est le leader dans le marché mais un blackbox sur son entonnoir de création et gestion de leads."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

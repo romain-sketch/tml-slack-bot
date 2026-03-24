@@ -1,0 +1,157 @@
+[
+    {
+        "user": "U07D08K3U0K",
+        "type": "message",
+        "ts": "1755001302.841059",
+        "edited": {
+            "user": "U07D08K3U0K",
+            "ts": "1755001422.000000"
+        },
+        "client_msg_id": "3e659943-4724-4240-9dd0-2f02269bf22e",
+        "text": "Hello à tous,\nJ’espère que vous passez un très bel été :sunny:\nDans votre rôle, quel est le lien entre le CRO et le CMO ? Sont-ils tous les deux présents au Comex\/Copil ?\nMerci beaucoup !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "ee04aae8ef81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-02\/7689117269088_ee04aae8ef81d255cd1f_72.png",
+            "first_name": "Tiphanie",
+            "real_name": "Tiphanie Meyer",
+            "display_name": "Tiphanie",
+            "team": "T017AGS2KE0",
+            "name": "tiphanie.meyer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1755001302.841059",
+        "reply_count": 9,
+        "reply_users_count": 7,
+        "latest_reply": "1757413569.156349",
+        "reply_users": [
+            "U02N2EVMFCG",
+            "U020QK16RMJ",
+            "U07D08K3U0K",
+            "U017RAZCAGZ",
+            "U069NSTHZ3Q",
+            "U06DYTRDLUD",
+            "U0951RDNKU6"
+        ],
+        "replies": [
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1755007443.508739"
+            },
+            {
+                "user": "U020QK16RMJ",
+                "ts": "1755070591.532469"
+            },
+            {
+                "user": "U07D08K3U0K",
+                "ts": "1755086056.785389"
+            },
+            {
+                "user": "U017RAZCAGZ",
+                "ts": "1755156697.859409"
+            },
+            {
+                "user": "U07D08K3U0K",
+                "ts": "1755162063.747429"
+            },
+            {
+                "user": "U069NSTHZ3Q",
+                "ts": "1755506797.894219"
+            },
+            {
+                "user": "U06DYTRDLUD",
+                "ts": "1755675720.571289"
+            },
+            {
+                "user": "U07D08K3U0K",
+                "ts": "1755763609.016399"
+            },
+            {
+                "user": "U0951RDNKU6",
+                "ts": "1757413569.156349"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3ojI\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello à tous,\nJ’espère que vous passez un très bel été "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunny",
+                                "unicode": "2600-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDans votre rôle, quel est le lien entre le CRO et le CMO ? Sont-ils tous les deux présents au Comex\/Copil ?\nMerci beaucoup !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1755007443.508739",
+        "client_msg_id": "d0040968-0966-40e4-a78e-60f9eaf102e9",
+        "text": "post series-B ches Didomi je suis passé sur le CRO qui était au Board (Co-founder), pré series-B j'étais à son niveau. Demande des investisseurs d'avoir une _accountability_ claire. On était tous les deux au CODIR avant &amp; après série B",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1755001302.841059",
+        "parent_user_id": "U07D08K3U0K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nIeEG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "post series-B ches Didomi je suis passé sur le CRO qui était au Board (Co-founder), pré series-B j'étais à son niveau. Demande des investisseurs d'avoir une "
+                            },
+                            {
+                                "type": "text",
+                                "text": "accountability",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " claire. On était tous les deux au CODIR avant & après série B"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

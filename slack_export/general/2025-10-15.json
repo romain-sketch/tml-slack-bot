@@ -1,0 +1,67 @@
+[
+    {
+        "user": "U04L04T475K",
+        "type": "message",
+        "ts": "1760532047.281829",
+        "client_msg_id": "52b9056a-678c-4bd9-bbfa-a6abc3ef6854",
+        "text": "pareil <@U06DYTRDLUD> , j'ai fait le tour des pays d'Europe avec mon VPN",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "992240f01962",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4685704045204_992240f019622b6b0af8_72.jpg",
+            "first_name": "Antoine",
+            "real_name": "Antoine Yahia Cherif",
+            "display_name": "Antoine Yahia Cherif",
+            "team": "T017AGS2KE0",
+            "name": "antoine.yc008",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760115589.119679",
+        "parent_user_id": "U0951RDNKU6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SN58f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pareil "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06DYTRDLUD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , j'ai fait le tour des pays d'Europe avec mon VPN"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U06DYTRDLUD",
+                    "U0951RDNKU6"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heart_hands",
+                "users": [
+                    "U0951RDNKU6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

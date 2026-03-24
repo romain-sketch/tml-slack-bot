@@ -1,0 +1,47 @@
+[
+    {
+        "user": "U020QK16RMJ",
+        "type": "message",
+        "ts": "1748852201.788949",
+        "client_msg_id": "1a89580f-000b-46a1-b2b2-ce629339d9d5",
+        "text": "Bonjour, je cherche 1 à deux places pour Vivatech (pour quelqu'un de mon réseau). Vous en avez?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "56d8a678e801",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-18\/7292097443269_56d8a678e801350db84a_72.png",
+            "first_name": "Joël",
+            "real_name": "Joël Gaudeul",
+            "display_name": "Joël (Swan)",
+            "team": "T017AGS2KE0",
+            "name": "joel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FuJtg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour, je cherche 1 à deux places pour Vivatech (pour quelqu'un de mon réseau). Vous en avez?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U08V1NE4BUJ",
+        "text": "<@U08V1NE4BUJ> has joined the channel",
+        "type": "message",
+        "ts": "1748884401.405189"
+    }
+]

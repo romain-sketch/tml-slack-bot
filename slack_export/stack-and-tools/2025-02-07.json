@@ -1,0 +1,114 @@
+[
+    {
+        "user": "U069NSTHZ3Q",
+        "type": "message",
+        "ts": "1738923200.599859",
+        "client_msg_id": "c58a470f-0e6e-4d9f-ac6f-5d979d779dd2",
+        "text": "Hello, vous travaillez toujours avec Junto? on était chez Ads up et on voulait justement passer chez DataShake ou Junto, mais là on penchait plus pour Datashake. Any insights frais? Merci",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "fbbca81fca0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-30\/7816371623809_fbbca81fca0c916c8c15_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Gannau (Oodrive)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "m.gannau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1621935389.000900",
+        "parent_user_id": "U020QK16RMJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m\/OE7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, vous travaillez toujours avec Junto? on était chez Ads up et on voulait justement passer chez DataShake ou Junto, mais là on penchait plus pour Datashake. Any insights frais? Merci"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017CURDPB5",
+        "type": "message",
+        "ts": "1738947766.432889",
+        "client_msg_id": "6a62044a-2364-4cd0-bcc5-ef078f158815",
+        "text": "Hello, connaissez-vous des outils de LLM qui peuvent aider à lire les sales notes dans Salesforce. Je cherche quelque chose d'assez intégré et plug and play. Thx !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "671ad569fbc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5982967598243_671ad569fbc40977de70_72.jpg",
+            "first_name": "David",
+            "real_name": "David Remaud",
+            "display_name": "David Remaud (iBanFirst)",
+            "team": "T017AGS2KE0",
+            "name": "david.remaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738947766.432889",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1739949375.027009",
+        "reply_users": [
+            "U017RBREWC9",
+            "U017CURDPB5",
+            "U063A8VPPG9"
+        ],
+        "replies": [
+            {
+                "user": "U017RBREWC9",
+                "ts": "1739044364.508769"
+            },
+            {
+                "user": "U017CURDPB5",
+                "ts": "1739190645.942019"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1739949375.027009"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LHatI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, connaissez-vous des outils de LLM qui peuvent aider à lire les sales notes dans Salesforce. Je cherche quelque chose d'assez intégré et plug and play. Thx !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U06TF9YAWEM"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

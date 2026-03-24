@@ -1,0 +1,152 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U08EN5T6F4L",
+        "text": "<@U08EN5T6F4L> has joined the channel",
+        "type": "message",
+        "ts": "1740302503.818799"
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U0183AS3MB6",
+        "thread_ts": "1738322518.475449",
+        "root": {
+            "user": "U0183AS3MB6",
+            "type": "message",
+            "ts": "1738322518.475449",
+            "client_msg_id": "06d8fa25-a469-4a4d-9f15-a50de891d767",
+            "text": "Hello tout le monde,\nVu l’audience de Bulldozer, j’aimerais bien ajouter dans notre newsletter une section “emploi” où on diffuse des offres d’emploi marketing\/growth\/…\nPour tester l’intérêt et l’efficacité sur un échantillon, j’aimerais bien tester avec vos offres du moment :slightly_smiling_face:\nPouvez-vous me les partager ici please ?\nMerciiiii",
+            "team": "T017AGS2KE0",
+            "thread_ts": "1738322518.475449",
+            "reply_count": 13,
+            "reply_users_count": 9,
+            "latest_reply": "1740405433.704599",
+            "reply_users": [
+                "U017H09S857",
+                "U06CZESF7QF",
+                "U080K705ESH",
+                "U06TF9YAWEM",
+                "U0183AS3MB6",
+                "U04A6JMRWCS",
+                "U06MLNEGNKB",
+                "U017CURDPB5",
+                "U08EN5T6F4L"
+            ],
+            "replies": [
+                {
+                    "user": "U017H09S857",
+                    "ts": "1738504107.717519"
+                },
+                {
+                    "user": "U06CZESF7QF",
+                    "ts": "1738570989.147669"
+                },
+                {
+                    "user": "U080K705ESH",
+                    "ts": "1738666557.416629"
+                },
+                {
+                    "user": "U06TF9YAWEM",
+                    "ts": "1738684762.500939"
+                },
+                {
+                    "user": "U0183AS3MB6",
+                    "ts": "1739397207.582509"
+                },
+                {
+                    "user": "U06CZESF7QF",
+                    "ts": "1739433575.969489"
+                },
+                {
+                    "user": "U06TF9YAWEM",
+                    "ts": "1739549141.002749"
+                },
+                {
+                    "user": "U0183AS3MB6",
+                    "ts": "1740325880.604059"
+                },
+                {
+                    "user": "U04A6JMRWCS",
+                    "ts": "1740384803.085769"
+                },
+                {
+                    "user": "U06MLNEGNKB",
+                    "ts": "1740386058.907399"
+                },
+                {
+                    "user": "U017CURDPB5",
+                    "ts": "1740387463.790409"
+                },
+                {
+                    "user": "U0183AS3MB6",
+                    "ts": "1740389634.140589"
+                },
+                {
+                    "user": "U08EN5T6F4L",
+                    "ts": "1740405433.704599"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "IcJd+",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Hello tout le monde,\nVu l’audience de Bulldozer, j’aimerais bien ajouter dans notre newsletter une section “emploi” où on diffuse des offres d’emploi marketing\/growth\/…\nPour tester l’intérêt et l’efficacité sur un échantillon, j’aimerais bien tester avec vos offres du moment "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "slightly_smiling_face",
+                                    "unicode": "1f642"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nPouvez-vous me les partager ici please ?\nMerciiiii"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1740325880.604059",
+        "client_msg_id": "1b3a05f5-56ba-4146-91cf-5100a2881803",
+        "text": "Hey ! Il y a de la place pour la prochaine qui part mardi si certains sont intéressés ? :slightly_smiling_face:",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gM2uv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey ! Il y a de la place pour la prochaine qui part mardi si certains sont intéressés ? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U08EN5GRYCC",
+        "text": "<@U08EN5GRYCC> has joined the channel",
+        "type": "message",
+        "ts": "1740334328.277309"
+    }
+]

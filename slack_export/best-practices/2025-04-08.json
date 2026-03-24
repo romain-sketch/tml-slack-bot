@@ -1,0 +1,209 @@
+[
+    {
+        "user": "U067GNGDATD",
+        "type": "message",
+        "ts": "1744109147.670529",
+        "client_msg_id": "55ff7b79-0542-4536-85d6-1aa53a35eb99",
+        "text": "Hello à tous, petite question pratico-pratique : comment récoltez-vous le NPS (Net Promoter Score) auprès de vos clients ? Quels canaux utilisez-vous (email, in-app, téléphone, etc.) ? Et à quel moment du parcours client le déclenchez-vous ? Je cherche à optimiser notre démarche côté PeopleSpheres. Vos retours d’expérience m’intéressent beaucoup :pray:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "gd73dcdb62f7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d73dcdb62f793ad670516a42032e3fa5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Diard",
+            "display_name": "Old Account \/ Do not use",
+            "team": "T017AGS2KE0",
+            "name": "adiard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744109147.670529",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1744709378.588809",
+        "reply_users": [
+            "U06DYTRDLUD",
+            "U020QK16RMJ",
+            "U0859A8P14K",
+            "U067GNGDATD"
+        ],
+        "replies": [
+            {
+                "user": "U06DYTRDLUD",
+                "ts": "1744121475.402369"
+            },
+            {
+                "user": "U020QK16RMJ",
+                "ts": "1744123320.194089"
+            },
+            {
+                "user": "U0859A8P14K",
+                "ts": "1744355477.035649"
+            },
+            {
+                "user": "U067GNGDATD",
+                "ts": "1744709378.588809"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uA7r7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello à tous, petite question pratico-pratique : comment récoltez-vous le NPS (Net Promoter Score) auprès de vos clients ? Quels canaux utilisez-vous (email, in-app, téléphone, etc.) ? Et à quel moment du parcours client le déclenchez-vous ? Je cherche à optimiser notre démarche côté PeopleSpheres. Vos retours d’expérience m’intéressent beaucoup "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U065DFPCQMP",
+        "type": "message",
+        "ts": "1744118379.889889",
+        "client_msg_id": "2a3544cf-35d7-49dd-a1b0-495f88dc2ba1",
+        "text": "waw :cold_sweat:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50040e0261e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-15\/6198553206674_50040e0261e7ba62e840_72.jpg",
+            "first_name": "Gaelle",
+            "real_name": "Gaelle Le Goff",
+            "display_name": "Gaelle Le Goff",
+            "team": "T017AGS2KE0",
+            "name": "gaelle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743775776.592009",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hmEuZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "waw "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cold_sweat",
+                                "unicode": "1f630"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06DYTRDLUD",
+        "type": "message",
+        "ts": "1744121475.402369",
+        "client_msg_id": "d5c0072e-9042-4418-bf55-8afa047b80c1",
+        "text": "Chez nous c'est un email auto qui part tous les 6 mois à date anniversaire de la première utilisation du produit.\nWorkflow dans HS, branché sur wootric.\nEt on relance 2-3 fois si absence de réponse.\nOn n'appelle pas, car on considère que si absence de réponse, c'est un client neutre voir détracteur.\nEn revanche une absence de réponse successive est aussi l'occasion de vérifier qu'on a les bons contacts dans le CRM.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901f49789864",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-17\/6483135134229_901f4978986494a521e4_72.jpg",
+            "first_name": "Flora",
+            "real_name": "Flora Wolfer",
+            "display_name": "Flora Wolfer (Payplug)",
+            "team": "T017AGS2KE0",
+            "name": "fwolfer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744109147.670529",
+        "parent_user_id": "U067GNGDATD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ouD+W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Chez nous c'est un email auto qui part tous les 6 mois à date anniversaire de la première utilisation du produit.\nWorkflow dans HS, branché sur wootric.\nEt on relance 2-3 fois si absence de réponse.\nOn n'appelle pas, car on considère que si absence de réponse, c'est un client neutre voir détracteur.\nEn revanche une absence de réponse successive est aussi l'occasion de vérifier qu'on a les bons contacts dans le CRM."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U020QK16RMJ",
+        "type": "message",
+        "ts": "1744123320.194089",
+        "client_msg_id": "6bf12d89-c571-4500-a427-d0a9cf2d7900",
+        "text": "Assez aligné sur un worklfow automatisé à X mois. Ma reco est de bien distinguer NPS de CSAT, typiquement certaines équipes veulent évaluer le onboarding ou l'implémentation, et le mix dans le NPS alors que c'est un sujet légèrement différent.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "56d8a678e801",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-18\/7292097443269_56d8a678e801350db84a_72.png",
+            "first_name": "Joël",
+            "real_name": "Joël Gaudeul",
+            "display_name": "Joël (Swan)",
+            "team": "T017AGS2KE0",
+            "name": "joel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744109147.670529",
+        "parent_user_id": "U067GNGDATD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5crAV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Assez aligné sur un worklfow automatisé à X mois. Ma reco est de bien distinguer NPS de CSAT, typiquement certaines équipes veulent évaluer le onboarding ou l'implémentation, et le mix dans le NPS alors que c'est un sujet légèrement différent."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06DYTRDLUD"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

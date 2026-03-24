@@ -1,0 +1,296 @@
+[
+    {
+        "user": "U020QK16RMJ",
+        "type": "message",
+        "ts": "1750778354.248349",
+        "client_msg_id": "3c58dffd-dc48-4a4d-83ec-9df1df7f9db6",
+        "text": "Salut, je cherche des reco d'influenceurs en finances personnelles. Vous avez déjà travaillé avec certains?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "56d8a678e801",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-18\/7292097443269_56d8a678e801350db84a_72.png",
+            "first_name": "Joël",
+            "real_name": "Joël Gaudeul",
+            "display_name": "Joël (Swan)",
+            "team": "T017AGS2KE0",
+            "name": "joel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750778354.248349",
+        "reply_count": 8,
+        "reply_users_count": 7,
+        "latest_reply": "1750924872.494259",
+        "reply_users": [
+            "U02N2EVMFCG",
+            "U04L04T475K",
+            "U08V1NE4BUJ",
+            "U067VEJFT5F",
+            "U06MLNEGNKB",
+            "U020QK16RMJ",
+            "U06DYTRDLUD"
+        ],
+        "replies": [
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1750781592.357459"
+            },
+            {
+                "user": "U04L04T475K",
+                "ts": "1750781825.645119"
+            },
+            {
+                "user": "U08V1NE4BUJ",
+                "ts": "1750829251.549939"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1750832421.095429"
+            },
+            {
+                "user": "U067VEJFT5F",
+                "ts": "1750842680.357429"
+            },
+            {
+                "user": "U06MLNEGNKB",
+                "ts": "1750860464.506349"
+            },
+            {
+                "user": "U020QK16RMJ",
+                "ts": "1750867292.358359"
+            },
+            {
+                "user": "U06DYTRDLUD",
+                "ts": "1750924872.494259"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lI7js",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salut, je cherche des reco d'influenceurs en finances personnelles. Vous avez déjà travaillé avec certains?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1750781592.357459",
+        "client_msg_id": "d9d39d04-588e-4d87-81a1-15319ae5977e",
+        "text": "Hugo Bentz, plus entrepreneuriat que Finance Perso. On a gait un truc avec lui avec Hirondo, et <@U04L04T475K> avec Payfit :slightly_smiling_face: Après moi perso je suis <https:\/\/www.instagram.com\/laminuteriches\/?hl=en|LMR> et <https:\/\/www.instagram.com\/nicolas.finance\/?hl=en|NF>, j'aime beaucoup, je ne sais pas si ça correspond à ta recherche",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750778354.248349",
+        "parent_user_id": "U020QK16RMJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ns8Ug",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hugo Bentz, plus entrepreneuriat que Finance Perso. On a gait un truc avec lui avec Hirondo, et "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04L04T475K"
+                            },
+                            {
+                                "type": "text",
+                                "text": " avec Payfit "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Après moi perso je suis "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.instagram.com\/laminuteriches\/?hl=en",
+                                "text": "LMR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.instagram.com\/nicolas.finance\/?hl=en",
+                                "text": "NF"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", j'aime beaucoup, je ne sais pas si ça correspond à ta recherche"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04L04T475K",
+        "type": "message",
+        "ts": "1750781825.645119",
+        "client_msg_id": "1279A7DC-B029-4FD6-B638-A60149DF6855",
+        "text": "<@U020QK16RMJ> je reco pas forcément :). Le contenu était sympa, le TOV aussi, mais l’engagement vraiment très faible. ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "992240f01962",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4685704045204_992240f019622b6b0af8_72.jpg",
+            "first_name": "Antoine",
+            "real_name": "Antoine Yahia Cherif",
+            "display_name": "Antoine Yahia Cherif",
+            "team": "T017AGS2KE0",
+            "name": "antoine.yc008",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750778354.248349",
+        "parent_user_id": "U020QK16RMJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wTKD8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U020QK16RMJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je reco pas forcément :). Le contenu était sympa, le TOV aussi, mais "
+                            },
+                            {
+                                "type": "text",
+                                "text": "l’engagement"
+                            },
+                            {
+                                "type": "text",
+                                "text": " vraiment très faible. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08V1NE4BUJ",
+        "type": "message",
+        "ts": "1750829251.549939",
+        "client_msg_id": "603975a2-50a7-49ba-96a4-8df1df44b70c",
+        "text": "Même avis qu’Antoine",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "3654a4fc5d4e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-02\/8999698350033_3654a4fc5d4e25a0a92c_72.jpg",
+            "first_name": "Alan",
+            "real_name": "Alan Huet (Fundora)",
+            "display_name": "Alan HUET",
+            "team": "T017AGS2KE0",
+            "name": "alan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750778354.248349",
+        "parent_user_id": "U020QK16RMJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oLRaT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Même avis qu’Antoine"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1750832421.095429",
+        "client_msg_id": "fb2d1f12-71af-463b-b279-7853fa876085",
+        "text": "Idem (j'ai eu un reaich plus fort que lui, sur mon post 1er avril, ce qui m'a beaucoup surpris). Maintenat on ne parlait que de 2 posts et de Linkedin, pas plus",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750778354.248349",
+        "parent_user_id": "U020QK16RMJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4VazY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Idem (j'ai eu un reaich plus fort que lui, sur mon post 1er avril, ce qui m'a beaucoup surpris). Maintenat on ne parlait que de 2 posts et de Linkedin, pas plus"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "user": "U067GNGDATD",
+        "type": "message",
+        "ts": "1739475470.091899",
+        "client_msg_id": "725C5229-6C22-4144-9608-E2423C82E53D",
+        "text": "Je suis aussi preneur de conseils, je me pause exactement les mêmes questions que <@U03QPMQA31V> pour une boîte qui est très early.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "gd73dcdb62f7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d73dcdb62f793ad670516a42032e3fa5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Diard",
+            "display_name": "Old Account \/ Do not use",
+            "team": "T017AGS2KE0",
+            "name": "adiard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679916418.064819",
+        "parent_user_id": "U0468UYMUUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cv6p6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je suis aussi preneur de conseils, je me pause exactement les mêmes questions que "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03QPMQA31V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour une boîte qui est très early."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1739518008.272339",
+        "client_msg_id": "829a6b36-ec44-4e40-956b-ca4a7cd5eff6",
+        "text": "Hello !\nAlors les boites qui sont capables d'offrir des stocks contre de l'adivsory sont ultra rare... Un vrai problème de connaissance légal + de maturité.\nAprès je peux vous donner 2\/3 conseils :\n. Pour évaluer le volume de BSA -&gt; j'ai fait un équivalent temps en jours en prenant en compte une décote en fonction du potentiel de la boite\n. Il est ultra important de ne pas mentionner le nombre de jours\/heures dans vos contrats BSA car cela peut être perçu comme du travail au noir.\na votre dispo !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679916418.064819",
+        "parent_user_id": "U0468UYMUUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K\/v4A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello !\nAlors les boites qui sont capables d'offrir des stocks contre de l'adivsory sont ultra rare... Un vrai problème de connaissance légal + de maturité.\nAprès je peux vous donner 2\/3 conseils :\n. Pour évaluer le volume de BSA -> j'ai fait un équivalent temps en jours en prenant en compte une décote en fonction du potentiel de la boite\n. Il est ultra important de ne pas mentionner le nombre de jours\/heures dans vos contrats BSA car cela peut être perçu comme du travail au noir.\na votre dispo !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

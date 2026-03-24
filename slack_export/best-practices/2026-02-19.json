@@ -1,0 +1,102 @@
+[
+    {
+        "user": "U0A11HFGA31",
+        "type": "message",
+        "ts": "1771492034.904149",
+        "edited": {
+            "user": "U0A11HFGA31",
+            "ts": "1771492477.000000"
+        },
+        "client_msg_id": "08195766-dc2f-4221-88fa-a7244ca43b32",
+        "text": "Hello à tous la Team : )\nJe souhaitais discuter avec vous de votre expérience et bonnes pratiques pour lancer une cellule SDR au sein d'une équipe marketing growth.\nEn quelques mots le contexte :\n• On est maintenant plutôt pas mauvais pour générer les leads commerciaux (80% influencés par le marketing) grâce aux leviers inbound du site web (20% des leads) \/ De l'ABM sur des verticaux clés avec situation d'autorité (15% des leads) et les events (45% des leads). \n• On a actuellement une cible grands comptes qui évolue vers du mid-market (500 à 2K employés) et on sait qu'on a plein de leads qu'on ne relance pas (nos MQL très chauds, les leads de nos partenaires, les contacts des events qui ne sont pas en situation d'achat dans les 3 mois, les anciens deals perdus, etc...)\n• Ainsi on souhaite avoir une force d'outbound pour relancer ces contacts et générer plus de RDV qualifiants pour notre force de vente. Après de longues discussions, on a décidé de mettre cette équipe de SDR au marketing vs les sales car plus proche du contenu \/ offre \/ processus d'automatisation de gestion-nurturing-emailing des contacts\nAinsi est-ce que certains d'entre vous ont eu à construire ce type d'équipe ? Et je serai super intéressé pour discuter avec vous de comment bien commencer ? Avec notamment une question clé : internaliser ou externaliser ? Et si externaliser quel partenaire recommandriez-vous (j'ai l'impression qu'il y a à boire et à manger dehors) ?\nMerci d'avance :smiley:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7e865350c03c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-02-19\/10540347829202_7e865350c03cb51c24eb_72.jpg",
+            "first_name": "Guillaume",
+            "real_name": "Guillaume Djourabtchi (Advens Cybersecurity)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "gdjourabtchi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UOEcW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello à tous la Team : )\nJe souhaitais discuter avec vous de votre expérience et bonnes pratiques pour lancer une cellule SDR au sein d'une équipe marketing growth.\nEn quelques mots le contexte :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "On est maintenant plutôt pas mauvais pour générer les leads commerciaux (80% influencés par le marketing) grâce aux leviers inbound du site web (20% des leads) \/ De l'ABM sur des verticaux clés avec situation d'autorité (15% des leads) et les events (45% des leads). "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "On a actuellement une cible grands comptes qui évolue vers du mid-market (500 à 2K employés) et on sait qu'on a plein de leads qu'on ne relance pas (nos MQL très chauds, les leads de nos partenaires, les contacts des events qui ne sont pas en situation d'achat dans les 3 mois, les anciens deals perdus, etc...)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Ainsi on souhaite avoir une force d'outbound pour relancer ces contacts et générer plus de RDV qualifiants pour notre force de vente. Après de longues discussions, on a décidé de mettre cette équipe de SDR au marketing vs les sales car plus proche du contenu \/ offre \/ processus d'automatisation de gestion-nurturing-emailing des contacts"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ainsi est-ce que certains d'entre vous ont eu à construire ce type d'équipe ? Et je serai super intéressé pour discuter avec vous de comment bien commencer ? Avec notamment une question clé : internaliser ou externaliser ? Et si externaliser quel partenaire recommandriez-vous (j'ai l'impression qu'il y a à boire et à manger dehors) ?\nMerci d'avance "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiley",
+                                "unicode": "1f603"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U069NSTHZ3Q"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

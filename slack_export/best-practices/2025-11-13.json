@@ -1,0 +1,152 @@
+[
+    {
+        "user": "U08SA22HS0J",
+        "type": "message",
+        "ts": "1763027164.836339",
+        "client_msg_id": "86171197-91c4-44fa-aaf7-3ee665612a5d",
+        "text": "Je partage vos avis, si on parle du MKT en général, il doit contribuer à 100% du business, que ce soit par la brand, le sales enablement, l’inbound, le customer mkt, le coop mkt avec le channel,... le risque à parler d’une contribution à hauteur de 35% de la génération de pipeline, c’est que ça soit totalement coupé pour concentrer les efforts sur les 2 tiers restants ;-). Si on parle du mix inbound\/outbound, je trouve que ça varie vachement d’un business à l’autre. Perso, j’avais une business line B2B orientée PLG où l’inbound+events générait 65% du pipeline et une seconde plus SLG où on était plus proche des 30%.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "266d9356f19e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-07\/10243863201635_266d9356f19e63bc9267_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu BONENFANT (SecLab)",
+            "display_name": "Matthieu BONENFANT (SecLab)",
+            "team": "T017AGS2KE0",
+            "name": "matthieu.bonenfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762944403.564169",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bs3dI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je partage vos avis, si on parle du MKT en général, il doit contribuer à 100% du business, que ce soit par la brand, le sales enablement, l’inbound, le customer mkt, le coop mkt avec le channel,... le risque à parler d’une contribution à hauteur de 35% de la génération de pipeline, c’est que ça soit totalement coupé pour concentrer les efforts sur les 2 tiers restants ;-). Si on parle du mix inbound\/outbound, je trouve que ça varie vachement d’un business à l’autre. Perso, j’avais une business line B2B orientée PLG où l’inbound+events générait 65% du pipeline et une seconde plus SLG où on était plus proche des 30%."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U092U6UDLMN",
+                    "U0946E8A2US",
+                    "U065DFPCQMP",
+                    "U02N2EVMFCG"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U08PLD4KPS8",
+        "type": "message",
+        "ts": "1763047620.613699",
+        "client_msg_id": "1437dd49-644b-44eb-96e2-6ad4f6e2d832",
+        "text": "Hello <@U020QK16RMJ>, vous êtes où dans Paris? Je vois deux adresses (dans le 17ème et dans le 9ème donc doute.) Merci!!!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ed1e5a6e17a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-15\/8903493241218_7ed1e5a6e17a9b117971_72.jpg",
+            "first_name": "Ségolène",
+            "real_name": "Ségolène Finet",
+            "display_name": "Ségolène Finet",
+            "team": "T017AGS2KE0",
+            "name": "finetsegolene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759909660.136279",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NhEx2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U020QK16RMJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", vous êtes où dans Paris? Je vois deux adresses (dans le 17ème et dans le 9ème donc doute.) Merci!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U020QK16RMJ",
+        "type": "message",
+        "ts": "1763052885.586599",
+        "client_msg_id": "83a4608e-a514-437c-bc47-043d852bc24a",
+        "text": "168 rue saint maur 75011",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "56d8a678e801",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-18\/7292097443269_56d8a678e801350db84a_72.png",
+            "first_name": "Joël",
+            "real_name": "Joël Gaudeul",
+            "display_name": "Joël (Swan)",
+            "team": "T017AGS2KE0",
+            "name": "joel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759909660.136279",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A20oH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "168 rue saint maur 75011"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U06DYTRDLUD",
+                    "U08PLD4KPS8"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

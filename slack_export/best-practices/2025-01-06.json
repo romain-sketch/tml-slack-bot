@@ -1,0 +1,2366 @@
+[
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1736151278.825749",
+        "client_msg_id": "c29f73f9-137c-4073-b742-75b00e9c167f",
+        "text": "Hello <!here>\npetites questions pour un bon lundi matin :slightly_smiling_face: :\n• Ceux qui ont déjà essayé product hunt, auriez vous des retours à faire? des bons resultats? etes vous contents? lead gen ou brand awareness? est ce interessant de le developper ? (US ou FR?)\n• ceux qui ont développé le marché US : avez vous deja fait du sponsoring de NL ? si oui avez vous des bons resultats? des agences à reco?\n• Pour US toujours, auriez vous des agences d'influenceurs à recommander svp?\nMerciiiii",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736151278.825749",
+        "reply_count": 21,
+        "reply_users_count": 8,
+        "latest_reply": "1737553222.075979",
+        "reply_users": [
+            "U07R7CUFM7H",
+            "U084KTR7YKX",
+            "U04A6JMRWCS",
+            "U063A8VPPG9",
+            "U016SBPG7K9",
+            "U0183AS3MB6",
+            "U06CZESF7QF",
+            "U06U1GG592M"
+        ],
+        "replies": [
+            {
+                "user": "U07R7CUFM7H",
+                "ts": "1736152212.977849"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1736154871.538399"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1736157133.967149"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1736157171.813249"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1736157306.830849"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1736158327.676169"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1736158353.361929"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1736158497.900449"
+            },
+            {
+                "user": "U016SBPG7K9",
+                "ts": "1736159576.977629"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1736159614.745339"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1736159657.180179"
+            },
+            {
+                "user": "U016SBPG7K9",
+                "ts": "1736160016.049709"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1736162279.367419"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1736167750.905579"
+            },
+            {
+                "user": "U06U1GG592M",
+                "ts": "1736170225.158389"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1736170377.096849"
+            },
+            {
+                "user": "U06U1GG592M",
+                "ts": "1736170707.709589"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1736170879.204289"
+            },
+            {
+                "user": "U06U1GG592M",
+                "ts": "1736171005.725989"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1736171172.218769"
+            },
+            {
+                "user": "U06U1GG592M",
+                "ts": "1737553222.075979"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vhi6F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\npetites questions pour un bon lundi matin "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Ceux qui ont déjà essayé product hunt, auriez vous des retours à faire? des bons resultats? etes vous contents? lead gen ou brand awareness? est ce interessant de le developper ? (US ou FR?)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ceux qui ont développé le marché US : avez vous deja fait du sponsoring de NL ? si oui avez vous des bons resultats? des agences à reco?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Pour US toujours, auriez vous des agences d'influenceurs à recommander svp?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merciiiii"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07R7CUFM7H",
+        "type": "message",
+        "ts": "1736152194.399869",
+        "client_msg_id": "ce737e40-e90f-46d3-988e-4aa0fc12942e",
+        "text": "De mon côté, non aujourd'hui, mais si je sors les RFP des PMM et que je créé comme un pôle dédié ; l'idée serait d'en faire un peu plus en effet.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "1eabd032cd82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-05\/8152020385456_1eabd032cd826d3f64b3_72.jpg",
+            "first_name": "Mayeul",
+            "real_name": "Mayeul",
+            "display_name": "Mayeul (Mangopay)",
+            "team": "T017AGS2KE0",
+            "name": "mayeul.wattecamps",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1734714083.104509",
+        "parent_user_id": "U07R7CUFM7H",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0o8Jy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "De mon côté, non aujourd'hui, mais si je sors les RFP des PMM et que je créé comme un pôle dédié ; l'idée serait d'en faire un peu plus en effet."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07R7CUFM7H",
+        "type": "message",
+        "ts": "1736152212.977849",
+        "client_msg_id": "207259c2-2d5a-4176-87bc-b2ad782dce46",
+        "text": "Hello, preneuse aussi sur la partie US !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "1eabd032cd82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-05\/8152020385456_1eabd032cd826d3f64b3_72.jpg",
+            "first_name": "Mayeul",
+            "real_name": "Mayeul",
+            "display_name": "Mayeul (Mangopay)",
+            "team": "T017AGS2KE0",
+            "name": "mayeul.wattecamps",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736151278.825749",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oCbt\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, preneuse aussi sur la partie US !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1736154871.538399",
+        "client_msg_id": "4bfc2061-627a-4e2f-88ff-2bedaf15f964",
+        "text": "Réponses collectées auprès de mon copain pour <http:\/\/claap.io|claap.io>\n&gt; • product hunt interessant quand on est sur une cible très produit\/tech-savvy avec un produit très trendy.\n&gt; • On a fait une fois pour cible produit. C’est cher donc le mieux c’est de les avoir de manière organique. On en avait eu beaucoup suite à nos launch product hunt mais il faut être n1.\n&gt; • Nope\n",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736151278.825749",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UgpIV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Réponses collectées auprès de mon copain pour "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/claap.io",
+                                "text": "claap.io"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "product hunt interessant quand on est sur une cible très produit\/tech-savvy avec un produit très trendy."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "On a fait une fois pour cible produit. C’est cher donc le mieux c’est de les avoir de manière organique. On en avait eu beaucoup suite à nos launch product hunt mais il faut être n1."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Nope"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U063A8VPPG9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1736157133.967149",
+        "client_msg_id": "d519c3ea-e160-4f60-b24a-eb5095d535ce",
+        "text": "hello Manu, sur le marché US, on a eu des supers résultats sur le sponsoring de NLs (je parle univers Data et CFO), on a contractualisé en direct avec les NLs qui nous intéressaient plutot que de passer par des agences car on se faisait dépouiller sinon",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736151278.825749",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iIfTJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello Manu, sur le marché US, on a eu des supers résultats sur le sponsoring de NLs (je parle univers Data et CFO), on a contractualisé en direct avec les NLs qui nous intéressaient plutot que de passer par des agences car on se faisait dépouiller sinon"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1736157171.813249",
+        "client_msg_id": "e6a751fd-21a5-4003-bb0b-e0bdf619569f",
+        "text": "pareil sur les influenceurs, on a bossé en direct avec eux. et en fait, le plus malins fondent eux memes leurs agences et ouvrent tous les réseaux. J'ai des refs, mais pareils, c'est en data. Pas sur que ca t'intéresse",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736151278.825749",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3VOR1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pareil sur les influenceurs, on a bossé en direct avec eux. et en fait, le plus malins fondent eux memes leurs agences et ouvrent tous les réseaux. J'ai des refs, mais pareils, c'est en data. Pas sur que ca t'intéresse"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1736157306.830849",
+        "client_msg_id": "c4d03bcd-da72-44b6-87a8-087521d80fff",
+        "text": "Merci <@U04A6JMRWCS> hyper interessant. Comment tu as reussi à identifier les bonnes NL et influenceurs en solo (sans agence) ? oui moi c'est pas sur data mais Sales AI et Product \/ Tech.\nThanks :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736151278.825749",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E1U8o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04A6JMRWCS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " hyper interessant. Comment tu as reussi à identifier les bonnes NL et influenceurs en solo (sans agence) ? oui moi c'est pas sur data mais Sales AI et Product \/ Tech.\nThanks "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1736158327.676169",
+        "client_msg_id": "661d7bac-ec82-40fe-a45b-013a491efd14",
+        "text": "on a interrogé nos customers, nos équipes et fait quelques recherches linkedin et autres, en vrai ct assez simple pour une première approche",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736151278.825749",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zvjBY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "on a interrogé nos customers, nos équipes et fait quelques recherches linkedin et autres, en vrai ct assez simple pour une première approche"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U063A8VPPG9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1736158353.361929",
+        "client_msg_id": "cda9b5b1-8f7b-4d24-96d3-159340bda0ea",
+        "text": "c'est pour humanlinker que tu cherches?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736151278.825749",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sis99",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "c'est pour humanlinker que tu cherches?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1736158497.900449",
+        "client_msg_id": "4cc3cf1f-4e26-4c21-bd9e-46ba2f7d3cbf",
+        "text": "yes HL et Dust",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736151278.825749",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "drQXa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes HL et Dust"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U04A6JMRWCS"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U016SBPG7K9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1736159576.977629",
+        "client_msg_id": "928cffe1-73b5-4aca-bd62-46787ca20083",
+        "text": "ça peut aider à commencer les recherches NLs et influencers: <https:\/\/ivee.so\/>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736151278.825749",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VRB\/g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ça peut aider à commencer les recherches NLs et influencers: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ivee.so\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06U1GG592M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1736159614.745339",
+        "client_msg_id": "e76e90c6-fcc7-4899-b91d-7fa07333e574",
+        "text": "true dat. Je m'en suis servi récemment, c'est perfectible mais c'est gratuit :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736151278.825749",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s0jdd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "true dat. Je m'en suis servi récemment, c'est perfectible mais c'est gratuit "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1736159657.180179",
+        "client_msg_id": "a96e9049-e6c8-4ccf-95b7-a62a247c475b",
+        "text": "canon je connaissais pas je regarde merci",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736151278.825749",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O6oCR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "canon je connaissais pas je regarde merci"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1736160016.049709",
+        "client_msg_id": "f95ab638-780c-4b07-91ba-6bd4d3ce8d02",
+        "text": "ils proposent aussi un service agence pour faire la sélection + outreach influencers pour toi. On teste en ce moment",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736151278.825749",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nCtAU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ils proposent aussi un service agence pour faire la sélection + outreach influencers pour toi. On teste en ce moment"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U063A8VPPG9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1736162279.367419",
+        "client_msg_id": "E6F2F8DB-4C0E-447F-8918-2874B66C3056",
+        "text": "Si besoin d’être mis en relation avec le CEO de Ivee let me know je le connais bien :) et je confirme c’est canon ! <@U06CZESF7QF> t’as bossé avec eux aussi je crois ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736151278.825749",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kkJTn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si besoin "
+                            },
+                            {
+                                "type": "text",
+                                "text": "d’être"
+                            },
+                            {
+                                "type": "text",
+                                "text": " mis en relation avec le CEO de Ivee let me know je le connais bien :) et je confirme c’est canon ! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06CZESF7QF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " t’as bossé avec eux aussi je crois ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U063A8VPPG9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U017RAZCAGZ",
+        "type": "message",
+        "ts": "1736164283.391929",
+        "client_msg_id": "AA8C0E78-247D-462C-B494-0B40FEE03F81",
+        "text": "Hello à tous et bonne année ! Lesquels d entre vous travaillent en B2B avec des modèles d attribution multi touch ? ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2e6e61c8f204",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-20\/1251040887619_2e6e61c8f20434050630_72.jpg",
+            "first_name": "Hélène",
+            "real_name": "Hélène Draoulec (Phenix)",
+            "display_name": "Hélène Draoulec (Phenix)",
+            "team": "T017AGS2KE0",
+            "name": "hdraoulec",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736164283.391929",
+        "reply_count": 17,
+        "reply_users_count": 8,
+        "latest_reply": "1736327364.888699",
+        "reply_users": [
+            "U04A6JMRWCS",
+            "U04SM1RGPJB",
+            "U06MLNEGNKB",
+            "U017CURDPB5",
+            "U016SBPG7K9",
+            "U017RAZCAGZ",
+            "U0183AS3MB6",
+            "U069NSTHZ3Q"
+        ],
+        "replies": [
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1736164516.832649"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1736164527.528129"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1736164530.486119"
+            },
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1736167699.060879"
+            },
+            {
+                "user": "U06MLNEGNKB",
+                "ts": "1736169257.246079"
+            },
+            {
+                "user": "U06MLNEGNKB",
+                "ts": "1736169443.553389"
+            },
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1736171323.471699"
+            },
+            {
+                "user": "U017CURDPB5",
+                "ts": "1736171325.765519"
+            },
+            {
+                "user": "U017CURDPB5",
+                "ts": "1736171332.886839"
+            },
+            {
+                "user": "U017CURDPB5",
+                "ts": "1736171387.337539"
+            },
+            {
+                "user": "U017CURDPB5",
+                "ts": "1736171415.415829"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1736173679.995869"
+            },
+            {
+                "user": "U016SBPG7K9",
+                "ts": "1736179121.457589"
+            },
+            {
+                "user": "U017RAZCAGZ",
+                "ts": "1736184841.879619"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1736194110.499729"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1736239579.480309"
+            },
+            {
+                "user": "U069NSTHZ3Q",
+                "ts": "1736327364.888699"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fME+m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello à tous et bonne année ! Lesquels d entre vous travaillent en B2B avec des modèles d attribution multi touch ? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U04A6JMRWCS",
+        "thread_ts": "1736164283.391929",
+        "root": {
+            "user": "U017RAZCAGZ",
+            "type": "message",
+            "ts": "1736164283.391929",
+            "client_msg_id": "AA8C0E78-247D-462C-B494-0B40FEE03F81",
+            "text": "Hello à tous et bonne année ! Lesquels d entre vous travaillent en B2B avec des modèles d attribution multi touch ? ",
+            "team": "T017AGS2KE0",
+            "thread_ts": "1736164283.391929",
+            "reply_count": 17,
+            "reply_users_count": 8,
+            "latest_reply": "1736327364.888699",
+            "reply_users": [
+                "U04A6JMRWCS",
+                "U04SM1RGPJB",
+                "U06MLNEGNKB",
+                "U017CURDPB5",
+                "U016SBPG7K9",
+                "U017RAZCAGZ",
+                "U0183AS3MB6",
+                "U069NSTHZ3Q"
+            ],
+            "replies": [
+                {
+                    "user": "U04A6JMRWCS",
+                    "ts": "1736164516.832649"
+                },
+                {
+                    "user": "U04A6JMRWCS",
+                    "ts": "1736164527.528129"
+                },
+                {
+                    "user": "U04A6JMRWCS",
+                    "ts": "1736164530.486119"
+                },
+                {
+                    "user": "U04SM1RGPJB",
+                    "ts": "1736167699.060879"
+                },
+                {
+                    "user": "U06MLNEGNKB",
+                    "ts": "1736169257.246079"
+                },
+                {
+                    "user": "U06MLNEGNKB",
+                    "ts": "1736169443.553389"
+                },
+                {
+                    "user": "U04SM1RGPJB",
+                    "ts": "1736171323.471699"
+                },
+                {
+                    "user": "U017CURDPB5",
+                    "ts": "1736171325.765519"
+                },
+                {
+                    "user": "U017CURDPB5",
+                    "ts": "1736171332.886839"
+                },
+                {
+                    "user": "U017CURDPB5",
+                    "ts": "1736171387.337539"
+                },
+                {
+                    "user": "U017CURDPB5",
+                    "ts": "1736171415.415829"
+                },
+                {
+                    "user": "U04A6JMRWCS",
+                    "ts": "1736173679.995869"
+                },
+                {
+                    "user": "U016SBPG7K9",
+                    "ts": "1736179121.457589"
+                },
+                {
+                    "user": "U017RAZCAGZ",
+                    "ts": "1736184841.879619"
+                },
+                {
+                    "user": "U0183AS3MB6",
+                    "ts": "1736194110.499729"
+                },
+                {
+                    "user": "U04A6JMRWCS",
+                    "ts": "1736239579.480309"
+                },
+                {
+                    "user": "U069NSTHZ3Q",
+                    "ts": "1736327364.888699"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "fME+m",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Hello à tous et bonne année ! Lesquels d entre vous travaillent en B2B avec des modèles d attribution multi touch ? "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1736164516.832649",
+        "client_msg_id": "eccc8c64-f667-4cfa-8ad3-575525dfcbb2",
+        "text": "en train d'ouvrir la boite de Pandore? :slightly_smiling_face:",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FP4x0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "en train d'ouvrir la boite de Pandore? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U017RAZCAGZ",
+                    "U017H09S857",
+                    "U07LN85V6TG",
+                    "U06CZESF7QF",
+                    "U06DLQ4644X",
+                    "U017CURDPB5",
+                    "U03QPMQA31V",
+                    "U08300D2NJY",
+                    "U02CBFN48CF",
+                    "U078PFP7A4B",
+                    "U025AMSNGF8",
+                    "U07R7CUFM7H",
+                    "U06V83JDFLY",
+                    "U07D08K3U0K",
+                    "U03P99RGMTN",
+                    "U06DYTRDLUD"
+                ],
+                "count": 16
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1736164527.528129",
+        "client_msg_id": "5db96d96-5058-4de0-b888-f9eccaebd799",
+        "text": "j'ai utilisé dreamdata chez pigment pour faire du MTA",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736164283.391929",
+        "parent_user_id": "U017RAZCAGZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bpqpx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "j'ai utilisé dreamdata chez pigment pour faire du MTA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1736164530.486119",
+        "client_msg_id": "ab9e9454-06ef-4423-8cc8-e3a2c86beee5",
+        "text": "c'était relou",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736164283.391929",
+        "parent_user_id": "U017RAZCAGZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NTFU+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "c'était relou"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1736167699.060879",
+        "client_msg_id": "0dca093d-02e7-49e6-93ba-f4d0b45200fa",
+        "text": "J'ai décidé de ne plus m'embêter avec ça perso. :sweat_smile:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736164283.391929",
+        "parent_user_id": "U017RAZCAGZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "96Bfx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai décidé de ne plus m'embêter avec ça perso. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sweat_smile",
+                "users": [
+                    "U06U1GG592M",
+                    "U063A8VPPG9",
+                    "U07R7CUFM7H"
+                ],
+                "count": 3
+            },
+            {
+                "name": "woman-raising-hand",
+                "users": [
+                    "U02CBFN48CF",
+                    "U0183AS3MB6",
+                    "U086LFGGVUG",
+                    "U07R7CUFM7H"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1736167750.905579",
+        "edited": {
+            "user": "U06CZESF7QF",
+            "ts": "1736167757.000000"
+        },
+        "client_msg_id": "87671a18-1fee-4bbd-93bc-d791623810b5",
+        "text": "Yes on est en cours de mission avec Ivee (pour leur nouvelle offre de Service en plus du tool). Très content pour l’instant de la relation avec eux et des résultats même si on a pas encore pu lier à un ROI Business direct",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736151278.825749",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1842m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes on est en cours de mission avec Ivee (pour leur nouvelle offre de Service en plus du tool). Très content pour l’instant de la relation avec eux et des résultats même si on a pas encore pu lier à un ROI Business direct"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06MLNEGNKB",
+        "type": "message",
+        "ts": "1736169257.246079",
+        "edited": {
+            "user": "U06MLNEGNKB",
+            "ts": "1736169265.000000"
+        },
+        "client_msg_id": "d0bb24c7-fe5f-4f2c-bffc-b1c0ffa2e6e1",
+        "text": "Pareil, je ne m'embête plus",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9484de19a0b4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-25\/7476258473346_9484de19a0b48472edf8_72.jpg",
+            "first_name": "Priscilla",
+            "real_name": "Priscilla (Memo Bank)",
+            "display_name": "Priscilla (Memo Bank)",
+            "team": "T017AGS2KE0",
+            "name": "priscilla.cavrois",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736164283.391929",
+        "parent_user_id": "U017RAZCAGZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kmbZU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pareil, je ne m'embête plus"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06MLNEGNKB",
+        "type": "message",
+        "ts": "1736169443.553389",
+        "client_msg_id": "6cfde5f3-df07-41ac-9044-133385b73b75",
+        "text": "• Sur les reportings officiels : je considère le last touch\n• Sur notre perf réelle : je considère les volumes au global (inbound + outbound).\n• Sur chaque investissement : je regarde l’impact de l’investissement (exemple : sur le paid, combien d’impressions sur une audience donnée, combien d’engagement, etc.)\n",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9484de19a0b4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-25\/7476258473346_9484de19a0b48472edf8_72.jpg",
+            "first_name": "Priscilla",
+            "real_name": "Priscilla (Memo Bank)",
+            "display_name": "Priscilla (Memo Bank)",
+            "team": "T017AGS2KE0",
+            "name": "priscilla.cavrois",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736164283.391929",
+        "parent_user_id": "U017RAZCAGZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tvxKm",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Sur les reportings officiels : je considère le last touch"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Sur notre perf réelle : je considère les volumes au global (inbound + outbound)."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Sur chaque investissement : je regarde l’impact de l’investissement (exemple : sur le paid, combien d’impressions sur une audience donnée, combien d’engagement, etc.)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06U1GG592M",
+        "type": "message",
+        "ts": "1736170225.158389",
+        "client_msg_id": "3a02008b-9c64-452c-b469-115499e722fe",
+        "text": "Pour les US, comme Romain, on a sourcé nous-mêmes les newsletters et contractualisé en direct. On a analysé leur audience, les KPI, et pris en compte les retours de nos clients en parallèle. Au début, ça marchait super bien pour promouvoir les webinars, mais ça s’est vite essoufflé, on a été trop push.\n\nCôté influenceurs, pareil, on les a sourcés nous-mêmes en fouillant sur YouTube et Google.\n\nPour les UGC (si ça vous intéresse), on a sourcé quelques agences et plateformes, on va tester une agence FR ce mois-ci qui bosse aux US.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "84a1e781f35c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-31\/7202740482978_84a1e781f35c228ca958_72.jpg",
+            "first_name": "Carolane",
+            "real_name": "Carolane Guyon",
+            "display_name": "Carolane (Veesion)",
+            "team": "T017AGS2KE0",
+            "name": "c.guyon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736151278.825749",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "giBCo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour les US, comme Romain, on a sourcé nous-mêmes les newsletters et contractualisé en direct. On a analysé leur audience, les KPI, et pris en compte les retours de nos clients en parallèle. Au début, ça marchait super bien pour promouvoir les webinars, mais ça s’est vite essoufflé, on a été trop push.\n\nCôté influenceurs, pareil, on les a sourcés nous-mêmes en fouillant sur YouTube et Google.\n\nPour les UGC (si ça vous intéresse), on a sourcé quelques agences et plateformes, on va tester une agence FR ce mois-ci qui bosse aux US."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1736170377.096849",
+        "client_msg_id": "ca7c233c-c9d4-4230-9597-a16a399eda24",
+        "text": "canon <@U06U1GG592M> merci. Pour l'agence, ca m'interessera en effet :slightly_smiling_face: merci",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736151278.825749",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4d1aD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "canon "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06U1GG592M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " merci. Pour l'agence, ca m'interessera en effet "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " merci"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06U1GG592M",
+        "type": "message",
+        "ts": "1736170707.709589",
+        "client_msg_id": "07eb38d7-8daa-47bf-aa0e-364cb4936097",
+        "text": "*Agences Prod UGC*\n• *Rocketvid* (<https:\/\/www.rocketvid.co\/>) : On lance un test avec eux ce mois-ci.\n• *UGC Factory* (<https:\/\/ugcfactory.fr\/>) : Intéressant, mais ça demande un engagement mensuel. Si je ne me trompe, c’est 5 500 €\/mois pour 18 ads.\n*Plateformes UGC en direct*\n• *Billio* : J’ai testé, mais je n’ai pas trop aimé l’ergonomie.\n• *Influee* : On me l’a recommandé, mais on n’a pas la bande passante en interne pour gérer tout en direct pour le moment. Une fois qu’on aura monté une équipe Créa\/Vidéo, ce type de plateforme pourra devenir une option intéressante.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "84a1e781f35c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-31\/7202740482978_84a1e781f35c228ca958_72.jpg",
+            "first_name": "Carolane",
+            "real_name": "Carolane Guyon",
+            "display_name": "Carolane (Veesion)",
+            "team": "T017AGS2KE0",
+            "name": "c.guyon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736151278.825749",
+        "parent_user_id": "U063A8VPPG9",
+        "attachments": [
+            {
+                "image_url": "https:\/\/cdn.prod.website-files.com\/64649a36af65ec660cddf948\/65731c3613e8024d3ae41971_mockup%20ia%20monitoring%20(1).png",
+                "image_width": 1563,
+                "image_height": 1563,
+                "image_bytes": 499111,
+                "from_url": "https:\/\/www.rocketvid.co\/",
+                "id": 1,
+                "original_url": "https:\/\/www.rocketvid.co\/",
+                "fallback": "Accueil - RocketVid",
+                "text": "En 2023, les UGC augmentés® RocketVid ont été en moyenne 28 % plus performants que les Créatives classiques de nos clients ! (preuves à l'appui)",
+                "title": "Accueil - RocketVid",
+                "title_link": "https:\/\/www.rocketvid.co\/",
+                "service_name": "rocketvid.co"
+            },
+            {
+                "from_url": "https:\/\/ugcfactory.fr\/",
+                "service_icon": "https:\/\/i0.wp.com\/ugcfactory.fr\/wp-content\/uploads\/2023\/03\/Design-sans-titre-53.png?fit=180%2C180&amp;ssl=1",
+                "id": 2,
+                "original_url": "https:\/\/ugcfactory.fr\/",
+                "fallback": "UGC Factory - L’agence qui divise vos CPA par 2 🚀: UGC Factory - L’agence qui divise vos CPA par 2 :rocket::rocket:",
+                "text": "L’agence UGC française qui ré-alimente vos ads tous les mois avec des créatives UGC optimisées pour la conversion.",
+                "title": "UGC Factory - L’agence qui divise vos CPA par 2 :rocket::rocket:",
+                "title_link": "https:\/\/ugcfactory.fr\/",
+                "service_name": "UGC Factory - L’agence qui divise vos CPA par 2 🚀"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jIO5l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Agences Prod UGC",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Rocketvid",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " ("
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.rocketvid.co\/"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ") : On lance un test avec eux ce mois-ci."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "UGC Factory",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " ("
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/ugcfactory.fr\/"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ") : Intéressant, mais ça demande un engagement mensuel. Si je ne me trompe, c’est 5 500 €\/mois pour 18 ads."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Plateformes UGC en direct",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Billio",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " : J’ai testé, mais je n’ai pas trop aimé l’ergonomie."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Influee",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " : On me l’a recommandé, mais on n’a pas la bande passante en interne pour gérer tout en direct pour le moment. Une fois qu’on aura monté une équipe Créa\/Vidéo, ce type de plateforme pourra devenir une option intéressante."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1736170879.204289",
+        "client_msg_id": "243e2f98-0652-4a4f-a348-6ff58f83f63b",
+        "text": "merciiii à tous, vous etes au top",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736151278.825749",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z+6Uq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "merciiii à tous, vous etes au top"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06U1GG592M",
+        "type": "message",
+        "ts": "1736171005.725989",
+        "client_msg_id": "8eac617b-5e56-482a-b678-d1f586ba48d2",
+        "text": "Je cherche encore côté SEO aux US, si jamais tu as des pistes.. :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "84a1e781f35c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-31\/7202740482978_84a1e781f35c228ca958_72.jpg",
+            "first_name": "Carolane",
+            "real_name": "Carolane Guyon",
+            "display_name": "Carolane (Veesion)",
+            "team": "T017AGS2KE0",
+            "name": "c.guyon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736151278.825749",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f4DKW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je cherche encore côté SEO aux US, si jamais tu as des pistes.. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1736171172.218769",
+        "client_msg_id": "3343d3a5-ae57-490a-ac53-d20dd2202e67",
+        "text": "<@U069NSTHZ3Q> tu connais pas qq en SEO aux US?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736151278.825749",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LcdZo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U069NSTHZ3Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " tu connais pas qq en SEO aux US?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U06U1GG592M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1736171323.471699",
+        "client_msg_id": "dfe62b66-7e20-461c-84e9-4d3a1cfa29b8",
+        "text": "Tout comme Priscilla. Et je mords ceux qui disent \"du coup faut tout mettre sur le seo\"",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736164283.391929",
+        "parent_user_id": "U017RAZCAGZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "33VRU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tout comme Priscilla. Et je mords ceux qui disent \"du coup faut tout mettre sur le seo\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017CURDPB5",
+        "type": "message",
+        "ts": "1736171325.765519",
+        "client_msg_id": "b23dc004-1686-4059-9c47-17ec63dfbb5c",
+        "text": "En effet, en B2B j'aurais tendance à deconseillé le multi-touch:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "671ad569fbc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5982967598243_671ad569fbc40977de70_72.jpg",
+            "first_name": "David",
+            "real_name": "David Remaud",
+            "display_name": "David Remaud (iBanFirst)",
+            "team": "T017AGS2KE0",
+            "name": "david.remaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736164283.391929",
+        "parent_user_id": "U017RAZCAGZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "COStu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En effet, en B2B j'aurais tendance à deconseillé le multi-touch:"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017CURDPB5",
+        "type": "message",
+        "ts": "1736171332.886839",
+        "client_msg_id": "b01bf3dc-7e91-4707-8ac6-c0992f34da06",
+        "text": "• pb de definition",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "671ad569fbc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5982967598243_671ad569fbc40977de70_72.jpg",
+            "first_name": "David",
+            "real_name": "David Remaud",
+            "display_name": "David Remaud (iBanFirst)",
+            "team": "T017AGS2KE0",
+            "name": "david.remaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736164283.391929",
+        "parent_user_id": "U017RAZCAGZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L\/NAy",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "pb de definition"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017CURDPB5",
+        "type": "message",
+        "ts": "1736171387.337539",
+        "client_msg_id": "cb39477b-2e46-46ac-85e4-051d470f24bd",
+        "text": "• pb de tracking\n• un bon first touch pount ou last touch point pour comparer des canaux entre eux\n• Et surtout travailler une culture du lead \"commun\" pas par equipe",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "671ad569fbc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5982967598243_671ad569fbc40977de70_72.jpg",
+            "first_name": "David",
+            "real_name": "David Remaud",
+            "display_name": "David Remaud (iBanFirst)",
+            "team": "T017AGS2KE0",
+            "name": "david.remaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736164283.391929",
+        "parent_user_id": "U017RAZCAGZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q7yTW",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "pb de tracking"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "un bon first touch pount ou last touch point pour comparer des canaux entre eux"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Et surtout travailler une culture du lead \"commun\" pas par equipe"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017CURDPB5",
+        "type": "message",
+        "ts": "1736171415.415829",
+        "client_msg_id": "136115f1-3978-4bc4-8c19-7b9ff412e0e3",
+        "text": "• après en ABM sur grands comptes bien ciblés, ca peut etre jouable mais j'ai jamais fait",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "671ad569fbc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5982967598243_671ad569fbc40977de70_72.jpg",
+            "first_name": "David",
+            "real_name": "David Remaud",
+            "display_name": "David Remaud (iBanFirst)",
+            "team": "T017AGS2KE0",
+            "name": "david.remaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736164283.391929",
+        "parent_user_id": "U017RAZCAGZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zaXMo",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "après en ABM sur grands comptes bien ciblés, ca peut etre jouable mais j'ai jamais fait"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1736173679.995869",
+        "client_msg_id": "241f812e-36ee-4c02-9706-f20790fc85d1",
+        "text": "difficile de terminer la conversation sans terminer sur la tarte à la crême: l'attribution pour définir la winning formula pour closer plus vite et plus gros, par pour alimenter des gueguerres entre départments",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736164283.391929",
+        "parent_user_id": "U017RAZCAGZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UwiMv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "difficile de terminer la conversation sans terminer sur la tarte à la crême: l'attribution pour définir la winning formula pour closer plus vite et plus gros, par pour alimenter des gueguerres entre départments"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1736179121.457589",
+        "client_msg_id": "45D56BFB-50FA-480C-A962-3E4CA3C3197F",
+        "text": "Il est tellement réconfortant ce thread :heart_eyes: ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736164283.391929",
+        "parent_user_id": "U017RAZCAGZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/cZ1w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Il est tellement réconfortant ce thread "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_eyes",
+                                "unicode": "1f60d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017RAZCAGZ",
+        "type": "message",
+        "ts": "1736184841.879619",
+        "client_msg_id": "edd04bce-ede4-4154-80d6-0acc4c777893",
+        "text": "Bon, je cherchais des arguments pour dire à mon DG que je pense que le multitouch est une usine à gaz, que personne ne va rien y comprendre, j'ai l'impression que vous êtes unanimes... (ping <@U0183AS3MB6> :wink:). Est-ce que quelqu'un est en désaccord et a un multitouch qui le comble dans ce groupe ? (ou sinon qu'il se taise à jamais)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2e6e61c8f204",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-20\/1251040887619_2e6e61c8f20434050630_72.jpg",
+            "first_name": "Hélène",
+            "real_name": "Hélène Draoulec (Phenix)",
+            "display_name": "Hélène Draoulec (Phenix)",
+            "team": "T017AGS2KE0",
+            "name": "hdraoulec",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736164283.391929",
+        "parent_user_id": "U017RAZCAGZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U8+cW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bon, je cherchais des arguments pour dire à mon DG que je pense que le multitouch est une usine à gaz, que personne ne va rien y comprendre, j'ai l'impression que vous êtes unanimes... (ping "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0183AS3MB6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            },
+                            {
+                                "type": "text",
+                                "text": "). Est-ce que quelqu'un est en désaccord et a un multitouch qui le comble dans ce groupe ? (ou sinon qu'il se taise à jamais)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1736194110.499729",
+        "client_msg_id": "D79DB114-DD88-4DB9-B99C-C6DC626EBF61",
+        "text": "Ahahah j’adore :joy: ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736164283.391929",
+        "parent_user_id": "U017RAZCAGZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XFjAZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ahahah j’adore "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

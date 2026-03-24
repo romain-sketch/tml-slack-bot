@@ -1,0 +1,570 @@
+[
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1745567048.631689",
+        "client_msg_id": "1ecc1080-322d-4835-a90d-be7ddf8a8a71",
+        "text": "okay hyper clair, oui je comprends merci !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745490853.313929",
+        "parent_user_id": "U084KTR7YKX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vM8WL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "okay hyper clair, oui je comprends merci !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U08PEJM137X",
+        "text": "<@U08PEJM137X> has joined the channel",
+        "type": "message",
+        "ts": "1745571767.036429"
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1745597381.536529",
+        "client_msg_id": "70054766-dfc8-44b1-a3be-c101b3f79af9",
+        "text": "Hello !\nPour une fondation : qui a un contact d'un studio \/ freelance pour créer un template de Podcast ?\nL'Enregistrement est fait : intro\/Podcast\/Outro.\nIl faudrait faire le 1er montage avec Jingle\/Intro sur fond musicale\/Podcast\/Outro sur fond musical.\nL'idée est d'avoir un rendu très quali, après quelques 1er enregistrement les prochaines invités sont des anciens ministres,...\nMerci !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745597381.536529",
+        "reply_count": 7,
+        "reply_users_count": 4,
+        "latest_reply": "1745610651.504489",
+        "reply_users": [
+            "U01A4GMRRR9",
+            "U0183AS3MB6",
+            "U02N2EVMFCG",
+            "U063A8VPPG9"
+        ],
+        "replies": [
+            {
+                "user": "U01A4GMRRR9",
+                "ts": "1745597388.305649"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1745597924.443809"
+            },
+            {
+                "user": "U01A4GMRRR9",
+                "ts": "1745598134.795099"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1745598369.425839"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1745599580.749349"
+            },
+            {
+                "user": "U01A4GMRRR9",
+                "ts": "1745599642.341839"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1745610651.504489"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NP+lJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello !\nPour une fondation : qui a un contact d'un studio \/ freelance pour créer un template de Podcast ?\nL'Enregistrement est fait : intro\/Podcast\/Outro.\nIl faudrait faire le 1er montage avec Jingle\/Intro sur fond musicale\/Podcast\/Outro sur fond musical.\nL'idée est d'avoir un rendu très quali, après quelques 1er enregistrement les prochaines invités sont des anciens ministres,...\nMerci !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1745597388.305649",
+        "client_msg_id": "0a9610bc-cd86-457a-9fb2-895a1fb2116e",
+        "text": "<@U0183AS3MB6> ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745597381.536529",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cZy\/I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0183AS3MB6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1745597924.443809",
+        "client_msg_id": "94615425-ca79-410b-89df-b89b5281b8bc",
+        "text": "Je peux t’intro à l’agence par qui je passe :slightly_smiling_face: Flomodia ils s’appellent\nça t’intéresse ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745597381.536529",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TKoGI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je peux t’intro à l’agence par qui je passe "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Flomodia ils s’appellent\nça t’intéresse ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1745598134.795099",
+        "client_msg_id": "AE706DA7-6479-4CE8-8749-33CA77EEB494",
+        "text": "Yes merci . ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745597381.536529",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7diNS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes merci . "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1745598369.425839",
+        "client_msg_id": "31081a25-bcf3-4b7c-ac3b-88ea3927e405",
+        "text": "done",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745597381.536529",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pKsrh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "done"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01A4GMRRR9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1745599580.749349",
+        "client_msg_id": "C12C1432-9688-45FF-9A7D-E450DF6805FB",
+        "text": "Y avait <https:\/\/techmarketingleaders.slack.com\/archives\/C016PK4DTP1\/p1711545350312459|ça> aussi que <@U07MNBM4WLV> avait partagé mais je sais pas si l’offre existe encore ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745597381.536529",
+        "parent_user_id": "U01A4GMRRR9",
+        "attachments": [
+            {
+                "from_url": "https:\/\/techmarketingleaders.slack.com\/archives\/C016PK4DTP1\/p1711545350312459",
+                "ts": "1711545350.312459",
+                "author_id": "U017U9VCLV6",
+                "channel_id": "C016PK4DTP1",
+                "channel_team": "T017AGS2KE0",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T017AGS2KE0",
+                        "channel": "C016PK4DTP1",
+                        "ts": "1711545350.312459",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "awu\/L",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Lancer son podcast B2B - nouveau presta FR",
+                                                    "style": {
+                                                        "code": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n\nHello à tous,\n\nJe partage une nouvelle offre de podcast-as-service que j'ai reçu, si certains ont envie de lancer leur podcast mais n'ont pas les ressources people \/ le temps pour.\n\nQui ? Anna Logacheva (experte content factory), Eric Seclet (podcast SaaS Club\/Start to Scale, expert copywriting) & Mony Chhim (expert LinkedIn ads) Quoi ? une offre clé en main : créer un podcast sur mesure pour les entreprises B2B, puis décliner ce contenu dans tous les formats (blog, newsletter, vidéos courtes sous-titrées, posts LinkedIn, livres blancs, etc) + ads\nContact sales : "
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "mailto:eric.seclet@gmail.com",
+                                                    "text": "eric.seclet@gmail.com"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n\nPas testé.\nMais je me suis déjà posé la question d'externaliser... et je trouve qu'il y a des éléments intéressants dans le deck.\nSharing is caring "
+                                                },
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "wink",
+                                                    "unicode": "1f609"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "files": [
+                    {
+                        "id": "F06RL2A7BAN",
+                        "created": 1711545298,
+                        "timestamp": 1711545298,
+                        "name": "Podcast-as-a-Service (1).pdf",
+                        "title": "Podcast-as-a-Service (1).pdf",
+                        "mimetype": "application\/pdf",
+                        "filetype": "pdf",
+                        "pretty_type": "PDF",
+                        "user": "U017U9VCLV6",
+                        "user_team": "T017AGS2KE0",
+                        "editable": false,
+                        "size": 9490701,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F06RL2A7BAN\/podcast-as-a-service__1_.pdf?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                        "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F06RL2A7BAN\/download\/podcast-as-a-service__1_.pdf?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                        "media_display_type": "unknown",
+                        "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F06RL2A7BAN-34d457d57b\/podcast-as-a-service__1__thumb_pdf.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                        "thumb_pdf_w": 2200,
+                        "thumb_pdf_h": 1238,
+                        "permalink": "https:\/\/techmarketingleaders.slack.com\/files\/U017U6M2G00\/F06RL2A7BAN\/podcast-as-a-service__1_.pdf",
+                        "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F06RL2A7BAN-062146ca97",
+                        "comments_count": 0,
+                        "is_starred": false,
+                        "skipped_shares": true,
+                        "has_rich_preview": false,
+                        "file_access": "visible"
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/techmarketingleaders.slack.com\/archives\/C016PK4DTP1\/p1711545350312459",
+                "fallback": "[March 27th, 2024 6:15 AM] domitille: `Lancer son podcast B2B - nouveau presta FR`\n\nHello à tous,\n\nJe partage une nouvelle offre de podcast-as-service que j'ai reçu, si certains ont envie de lancer leur podcast mais n'ont pas les ressources people \/ le temps pour.\n\nQui ? Anna Logacheva (experte content factory), Eric Seclet (podcast SaaS Club\/Start to Scale, expert copywriting) &amp; Mony Chhim (expert LinkedIn ads) Quoi ? une offre clé en main : créer un podcast sur mesure pour les entreprises B2B, puis décliner ce contenu dans tous les formats (blog, newsletter, vidéos courtes sous-titrées, posts LinkedIn, livres blancs, etc) + ads\nContact sales : <mailto:eric.seclet@gmail.com|eric.seclet@gmail.com>\n\nPas testé.\nMais je me suis déjà posé la question d'externaliser... et je trouve qu'il y a des éléments intéressants dans le deck.\nSharing is caring :wink:",
+                "text": "`Lancer son podcast B2B - nouveau presta FR`\n\nHello à tous,\n\nJe partage une nouvelle offre de podcast-as-service que j'ai reçu, si certains ont envie de lancer leur podcast mais n'ont pas les ressources people \/ le temps pour.\n\nQui ? Anna Logacheva (experte content factory), Eric Seclet (podcast SaaS Club\/Start to Scale, expert copywriting) &amp; Mony Chhim (expert LinkedIn ads) Quoi ? une offre clé en main : créer un podcast sur mesure pour les entreprises B2B, puis décliner ce contenu dans tous les formats (blog, newsletter, vidéos courtes sous-titrées, posts LinkedIn, livres blancs, etc) + ads\nContact sales : <mailto:eric.seclet@gmail.com|eric.seclet@gmail.com>\n\nPas testé.\nMais je me suis déjà posé la question d'externaliser... et je trouve qu'il y a des éléments intéressants dans le deck.\nSharing is caring :wink:",
+                "author_name": "Domitille de Saint-Exupéry",
+                "author_link": "https:\/\/techmarketingleaders.slack.com\/team\/U017U9VCLV6",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2022-03-23\/3284895477924_12d235b0118938fa2d82_48.png",
+                "author_subname": "Domitille de Saint-Exupéry",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Thread in Slack Conversation"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mfyb3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Y avait "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/techmarketingleaders.slack.com\/archives\/C016PK4DTP1\/p1711545350312459",
+                                "text": "ça"
+                            },
+                            {
+                                "type": "text",
+                                "text": " aussi que "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07MNBM4WLV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " avait partagé mais je sais pas si "
+                            },
+                            {
+                                "type": "text",
+                                "text": "l’offre"
+                            },
+                            {
+                                "type": "text",
+                                "text": " existe encore "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1745599642.341839",
+        "client_msg_id": "2EDB655F-410A-43A0-A0BD-2D02C3205EB5",
+        "text": "Merci <@U02N2EVMFCG> ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745597381.536529",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FoCTr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02N2EVMFCG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1745610651.504489",
+        "client_msg_id": "8EF56715-6241-4F0B-A2B7-AEAB1B648B3A",
+        "text": "Flomo ils sont tops, et Éric anna aussi, si besoin d une intro dis moi! \nDans tous les cas tu es entre de bonnes mains mais pour jingle \/ montage je te recommande Flomo ! ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745597381.536529",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XaH7W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Flomo ils sont tops, et Éric anna aussi, si besoin d une intro dis moi! \nDans tous les cas tu es entre de bonnes mains mais pour jingle \/ montage je te recommande Flomo ! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

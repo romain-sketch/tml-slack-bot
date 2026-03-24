@@ -1,0 +1,580 @@
+[
+    {
+        "user": "U06E3PY5LAY",
+        "type": "message",
+        "ts": "1765385349.587229",
+        "client_msg_id": "8266d665-8360-4df2-ac5e-73d337cd9cbc",
+        "text": "Je peux me rajouter dans la liste <@U063A8VPPG9> ? Merci pour l'organisation!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e6f18bbbcc15",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-16\/6475144975749_e6f18bbbcc1579d4df98_72.png",
+            "first_name": "Elizabeth",
+            "real_name": "Elizabeth Coleon",
+            "display_name": "Elizabeth Coleon",
+            "team": "T017AGS2KE0",
+            "name": "eorzano",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764575278.299119",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X3ziN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je peux me rajouter dans la liste "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U063A8VPPG9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ? Merci pour l'organisation!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1765385702.825599",
+        "client_msg_id": "4e513f1c-fab1-4d3f-896f-86fb9ba93c13",
+        "text": "<@U06E3PY5LAY> trop cool, alors on a ni invit ni liste, mais RDV sur place à 18h :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764575278.299119",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1qN\/L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06E3PY5LAY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " trop cool, alors on a ni invit ni liste, mais RDV sur place à 18h "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U06E3PY5LAY"
+                ],
+                "count": 1
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U092PH1F2CA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1765437418.765269",
+        "client_msg_id": "c4df04f0-b2f2-4861-80c9-b5547a00cbed",
+        "text": "Hello <!channel> *on a l'immense plaisir d'annoncer : The Network Effect*\n\nDepuis 2020, TML réunit les meilleurs leaders marketing de la tech française. Le 22 janvier 2026, nous allons encore plus loin.\n\nAvec les copains d'*UnlockM, Bulldozer, Le café du market', futur proche et Hirondo* *nous organisons The Network Effect - une soirée qui célèbre la force du collectif dans notre industrie.*\n\nParce que nos plus grandes réussites naissent souvent d'une conversation, d'un partage d'expérience, d'une connexion authentique.\n\nCe qui vous attend :\n• Une table ronde sur l’IA et ses champs d’application concrets\n• Les Network Effect Awards qui mettent en lumière les innovations IA les plus impactantes\n• Du networking: l'opportunité de rencontrer 100+ leaders marketing français\n:admission_tickets: *Réservez votre place : <https:\/\/luma.com\/ejidduzl>*\n\n:sports_medal: *Candidatez aux Awards : <https:\/\/tally.so\/r\/2EEjpg>*\n\nOn vous attend trèèèèèèès nombreux",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1765437418.765269",
+        "reply_count": 17,
+        "reply_users_count": 11,
+        "latest_reply": "1767026354.661619",
+        "reply_users": [
+            "U063A8VPPG9",
+            "U078PFP7A4B",
+            "U07PEP71X4Y",
+            "U06CZESF7QF",
+            "U08554C4R7C",
+            "U017CURDPB5",
+            "U084KTR7YKX",
+            "U065DFPCQMP",
+            "U017H09S857",
+            "U0951RDNKU6",
+            "U06TF9YAWEM"
+        ],
+        "replies": [
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1765437882.460329"
+            },
+            {
+                "user": "U078PFP7A4B",
+                "ts": "1765440792.482229"
+            },
+            {
+                "user": "U07PEP71X4Y",
+                "ts": "1765441305.688479"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1765442507.601439"
+            },
+            {
+                "user": "U08554C4R7C",
+                "ts": "1765445796.196889"
+            },
+            {
+                "user": "U017CURDPB5",
+                "ts": "1765445888.814279"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1765446653.266419"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1765446670.427239"
+            },
+            {
+                "user": "U065DFPCQMP",
+                "ts": "1765461224.350939"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1765461474.201679"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1765461723.693229"
+            },
+            {
+                "user": "U0951RDNKU6",
+                "ts": "1765542803.128759"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1765552399.596629"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1765614021.727339"
+            },
+            {
+                "user": "U06TF9YAWEM",
+                "ts": "1765718600.693679"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1766075981.613989"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1767026354.661619"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZLK8Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "on a l'immense plaisir d'annoncer : The Network Effect",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nDepuis 2020, TML réunit les meilleurs leaders marketing de la tech française. Le 22 janvier 2026, nous allons encore plus loin.\n\nAvec les copains d'"
+                            },
+                            {
+                                "type": "text",
+                                "text": "UnlockM",
+                                "style": {
+                                    "bold": true,
+                                    "unlink": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Bulldozer",
+                                "style": {
+                                    "bold": true,
+                                    "unlink": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Le café du market'",
+                                "style": {
+                                    "bold": true,
+                                    "unlink": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "futur proche",
+                                "style": {
+                                    "bold": true,
+                                    "unlink": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " et ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Hirondo",
+                                "style": {
+                                    "bold": true,
+                                    "unlink": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "nous organisons The Network Effect - une soirée qui célèbre la force du collectif dans notre industrie.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nParce que nos plus grandes réussites naissent souvent d'une conversation, d'un partage d'expérience, d'une connexion authentique.\n\nCe qui vous attend :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Une table ronde sur l’IA et ses champs d’application concrets"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Les Network Effect Awards qui mettent en lumière les innovations IA les plus impactantes"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Du networking: l'opportunité de rencontrer 100+ leaders marketing français"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "admission_tickets",
+                                "unicode": "1f39f-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Réservez votre place : ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/luma.com\/ejidduzl",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sports_medal",
+                                "unicode": "1f3c5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Candidatez aux Awards : ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/tally.so\/r\/2EEjpg",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nOn vous attend trèèèèèèès nombreux"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U08SA22HS0J",
+                    "U07D08K3U0K",
+                    "U063A8VPPG9",
+                    "U08M0JP81DK",
+                    "U09EFH6S1BQ",
+                    "U092U6UDLMN",
+                    "U0946E8A2US",
+                    "U08HF5YQM6G",
+                    "U06MLNEGNKB",
+                    "U03QPMQA31V",
+                    "U02N2EVMFCG",
+                    "U017CURDPB5",
+                    "U06CZESF7QF",
+                    "U0183AS3MB6",
+                    "U084KTR7YKX",
+                    "U0177A5V42F",
+                    "U0A0QG03DLN",
+                    "U01MVJPEEH3",
+                    "U069NSTHZ3Q",
+                    "U08QZ6EKE4Q",
+                    "U09JE6QUZDZ",
+                    "U054GRSQCTX",
+                    "U06DYTRDLUD",
+                    "U065DFPCQMP",
+                    "U03P99RGMTN",
+                    "U07MNBM4WLV",
+                    "U06EN9X790C",
+                    "U08PLD4KPS8",
+                    "U0951RDNKU6",
+                    "U0A2RBDS1E3",
+                    "U06LENY5V6Z",
+                    "U06TF9YAWEM"
+                ],
+                "count": 32
+            },
+            {
+                "name": "rocket",
+                "users": [
+                    "U07D08K3U0K",
+                    "U063A8VPPG9",
+                    "U055KSYA2AH",
+                    "U01A4GMRRR9",
+                    "U0946E8A2US",
+                    "U08HF5YQM6G",
+                    "U06MLNEGNKB",
+                    "U078PFP7A4B",
+                    "U08PEJM137X",
+                    "U03QPMQA31V",
+                    "U02N2EVMFCG",
+                    "U04L35Y9D08",
+                    "U06CZESF7QF",
+                    "U0183AS3MB6",
+                    "U08554C4R7C",
+                    "U0177A5V42F",
+                    "U0A0QG03DLN",
+                    "U08EN5T6F4L",
+                    "U08QZ6EKE4Q",
+                    "U054GRSQCTX",
+                    "U06DYTRDLUD",
+                    "U07MNBM4WLV",
+                    "U06EN9X790C",
+                    "U0951RDNKU6",
+                    "U06TF9YAWEM"
+                ],
+                "count": 25
+            },
+            {
+                "name": "smiling_face_with_tear",
+                "users": [
+                    "U078PFP7A4B",
+                    "U06DYTRDLUD"
+                ],
+                "count": 2
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U065DFPCQMP",
+                    "U06V83JDFLY",
+                    "U0951RDNKU6",
+                    "U06TF9YAWEM"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1765437882.460329",
+        "client_msg_id": "7b9396ca-4ae8-47c8-837c-fc6489e06fba",
+        "text": "ouiiii !! Allez la !!!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1765437418.765269",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PzjTH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ouiiii !! Allez la !!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "handshake",
+                "users": [
+                    "U017H09S857"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

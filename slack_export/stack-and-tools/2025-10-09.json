@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U06U1GG592M",
+        "type": "message",
+        "ts": "1760071810.556869",
+        "client_msg_id": "10803E5E-E8B5-4018-8220-E4F7C233F9FE",
+        "text": "+1 Modjo !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "84a1e781f35c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-31\/7202740482978_84a1e781f35c228ca958_72.jpg",
+            "first_name": "Carolane",
+            "real_name": "Carolane Guyon",
+            "display_name": "Carolane (Veesion)",
+            "team": "T017AGS2KE0",
+            "name": "c.guyon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759735293.769739",
+        "parent_user_id": "U09BVQYR1GA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WVZsB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "+1 Modjo !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

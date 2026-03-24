@@ -1,0 +1,62 @@
+[
+    {
+        "user": "U07BLPPL3C1",
+        "type": "message",
+        "ts": "1769096566.249159",
+        "client_msg_id": "7a04c6c9-3f51-444c-8c16-efd32afbb98e",
+        "text": "Hello nous avions aussi pendant plusieurs années <https:\/\/www.albacross.com\/> que j'aimais beaucoup pour identifier mon traffic.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a188c365467d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-16\/7728349993798_a188c365467d3e63d25d_72.jpg",
+            "first_name": "Esther",
+            "real_name": "Esther Daga",
+            "display_name": "Esther Daga (Powell)",
+            "team": "T017AGS2KE0",
+            "name": "estherdaga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1768555473.621539",
+        "parent_user_id": "U0A11HFGA31",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.albacross.com\/",
+                "id": 1,
+                "original_url": "https:\/\/www.albacross.com\/",
+                "fallback": "Identify Website Visitors, Decision Makers, and Automate Outreach | Albacross",
+                "text": "Engage leads visiting your website with personalized automated outreach. Identify companies, segment by buying intent, and auto-engage ready-to-buy prospects.",
+                "title": "Identify Website Visitors, Decision Makers, and Automate Outreach | Albacross",
+                "title_link": "https:\/\/www.albacross.com\/",
+                "service_name": "albacross.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "38MBW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello nous avions aussi pendant plusieurs années "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.albacross.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " que j'aimais beaucoup pour identifier mon traffic."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

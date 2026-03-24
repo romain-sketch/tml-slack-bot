@@ -1,0 +1,94 @@
+[
+    {
+        "user": "U08V1NE4BUJ",
+        "type": "message",
+        "ts": "1755503003.194299",
+        "client_msg_id": "4eff2720-ec0a-497a-b3a5-2427ade066dc",
+        "text": "Hello, ça ne pourrait pas matcher avec ma recherche de copywriter tu penses ?\n\nL’offre -&gt; <https:\/\/www.notion.so\/Designer-Graphiste-UX-UI-Cr-ation-25174847aae780968651f4bdc75f40a0?source=copy_link>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "3654a4fc5d4e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-02\/8999698350033_3654a4fc5d4e25a0a92c_72.jpg",
+            "first_name": "Alan",
+            "real_name": "Alan Huet (Fundora)",
+            "display_name": "Alan HUET",
+            "team": "T017AGS2KE0",
+            "name": "alan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1755462748.946669",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dXr4F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, ça ne pourrait pas matcher avec ma recherche de copywriter tu penses ?\n\nL’offre -> "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/Designer-Graphiste-UX-UI-Cr-ation-25174847aae780968651f4bdc75f40a0?source=copy_link"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07MNBM4WLV",
+        "type": "message",
+        "ts": "1755581384.168999",
+        "client_msg_id": "11A2E503-9F6C-46F0-B72A-93605A2F7BAA",
+        "text": "Hello, je ne pense pas qu’elle a les compétences graphistes ;)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "028ce63b55be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7733128030774_028ce63b55be29945d4f_72.jpg",
+            "first_name": "Domitille",
+            "real_name": "Domitille de Saint-Exupéry",
+            "display_name": "Domitille de Saint-Exupéry (lemlist)",
+            "team": "T017AGS2KE0",
+            "name": "domitille433",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1755462748.946669",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ym5Z1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, je ne pense pas "
+                            },
+                            {
+                                "type": "text",
+                                "text": "qu’elle"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a les compétences graphistes ;)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

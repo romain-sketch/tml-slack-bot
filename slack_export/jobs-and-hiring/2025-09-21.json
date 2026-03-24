@@ -1,0 +1,76 @@
+[
+    {
+        "user": "U055KSYA2AH",
+        "type": "message",
+        "ts": "1758521993.513479",
+        "client_msg_id": "dbaf4642-6269-472c-b228-aec3a22167e0",
+        "text": "hello, je recommande Nil (<https:\/\/linktr.ee\/nil.ulgen>) tu peux la contacter de ma part",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "77f967801b39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-02\/5198498072658_77f967801b39b2c56563_72.png",
+            "first_name": "Olivier",
+            "real_name": "Olivier Milcent",
+            "display_name": "Olivier Milcent (DeepReach)",
+            "team": "T017AGS2KE0",
+            "name": "omilcent",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1758272155.987759",
+        "parent_user_id": "U06U1GG592M",
+        "attachments": [
+            {
+                "image_url": "https:\/\/linktr.ee\/og\/image\/nil.ulgen.jpg",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 36475,
+                "from_url": "https:\/\/linktr.ee\/nil.ulgen",
+                "service_icon": "https:\/\/assets.production.linktr.ee\/profiles\/_next\/static\/logo-assets\/apple-icon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/linktr.ee\/nil.ulgen",
+                "fallback": "Linktree: Nil Ülgen | Instagram | Linktree",
+                "text": "I enhance designs \nwith creativity and flair :sparkles:",
+                "title": "Nil Ülgen | Instagram | Linktree",
+                "title_link": "https:\/\/linktr.ee\/nil.ulgen",
+                "service_name": "Linktree"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bFEst",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello, je recommande Nil ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/linktr.ee\/nil.ulgen"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") tu peux la contacter de ma part"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U06U1GG592M"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

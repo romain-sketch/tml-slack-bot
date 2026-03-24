@@ -1,0 +1,344 @@
+[
+    {
+        "user": "U086LFGGVUG",
+        "type": "message",
+        "ts": "1739807805.428489",
+        "client_msg_id": "a357d38a-6b08-416a-88c6-541595d2a38d",
+        "text": "[ Sessions de calls BDR groupées ]\n\nHello !\nJe cherche à faire monter en compétences nos 2 BDR, arrivés récemment, très juniors.\nJ'ai notamment pensé à *des calling sessions \"partagées\" avec des S ou BDR d'autres boites*.\nJe pense que c'est top pour les faire progresser mais aussi pour valoriser leur travail et développer leur sentiment d'appartenance à ce rôle (qui est nouveau chez nous et qui est côté marketing).\n\n&gt; Est-ce que certains d'entre vous ont ce type de pratiques dans leur boîte ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "8037084d031e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-01-03\/8241041927621_8037084d031e372f4d94_72.jpg",
+            "first_name": "Laura",
+            "real_name": "Laura Silva",
+            "display_name": "Laura Silva",
+            "team": "T017AGS2KE0",
+            "name": "laura.silva",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739807805.428489",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1740643797.610089",
+        "reply_users": [
+            "U020QK16RMJ",
+            "U04L35Y9D08",
+            "U086LFGGVUG"
+        ],
+        "replies": [
+            {
+                "user": "U020QK16RMJ",
+                "ts": "1739809634.561469"
+            },
+            {
+                "user": "U04L35Y9D08",
+                "ts": "1739809650.529929"
+            },
+            {
+                "user": "U086LFGGVUG",
+                "ts": "1740643797.610089"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jqRoe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[ Sessions de calls BDR groupées ]\n\nHello !\nJe cherche à faire monter en compétences nos 2 BDR, arrivés récemment, très juniors.\nJ'ai notamment pensé à "
+                            },
+                            {
+                                "type": "text",
+                                "text": "des calling sessions \"partagées\" avec des S ou BDR d'autres boites",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\nJe pense que c'est top pour les faire progresser mais aussi pour valoriser leur travail et développer leur sentiment d'appartenance à ce rôle (qui est nouveau chez nous et qui est côté marketing).\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Est-ce que certains d'entre vous ont ce type de pratiques dans leur boîte ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U020QK16RMJ",
+        "type": "message",
+        "ts": "1739809634.561469",
+        "edited": {
+            "user": "U020QK16RMJ",
+            "ts": "1739809646.000000"
+        },
+        "client_msg_id": "356c8135-4a52-4fbe-870c-0c77f75c4682",
+        "text": "Regarde du côté de Zeliq et Vincent Deloffre (ping le de ma part).... c'est des tueurs sur le sujet.\n<https:\/\/www.linkedin.com\/in\/vincentdeloffre\/?originalSubdomain=fr>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "56d8a678e801",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-18\/7292097443269_56d8a678e801350db84a_72.png",
+            "first_name": "Joël",
+            "real_name": "Joël Gaudeul",
+            "display_name": "Joël (Swan)",
+            "team": "T017AGS2KE0",
+            "name": "joel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739807805.428489",
+        "parent_user_id": "U086LFGGVUG",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/vincentdeloffre\/?originalSubdomain=fr",
+                "thumb_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/D4D03AQGc8O4VSMdygw\/profile-displayphoto-shrink_200_200\/profile-displayphoto-shrink_200_200\/0\/1730815115127?e=2147483647&v=beta&t=407vCQU6KshgQTHKWwUY4eUkAbFyN9hmjTOvXKjPlD0",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/vincentdeloffre\/?originalSubdomain=fr",
+                "fallback": "Vincent Deloffre - ZELIQ | LinkedIn",
+                "text": "Expérience : ZELIQ · Formation : Audencia Business School · Lieu : France · 500 relations ou plus sur LinkedIn. Consultez le profil de Vincent Deloffre sur LinkedIn, une communauté professionnelle d’un milliard de membres.",
+                "title": "Vincent Deloffre - ZELIQ | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/vincentdeloffre\/?originalSubdomain=fr",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vy61f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Regarde du côté de Zeliq et Vincent Deloffre (ping le de ma part).... c'est des tueurs sur le sujet.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/vincentdeloffre\/?originalSubdomain=fr"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U086LFGGVUG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04L35Y9D08",
+        "type": "message",
+        "ts": "1739809650.529929",
+        "client_msg_id": "28857e6c-0a19-4cae-91a9-f54ad0be0f96",
+        "text": "Hello,\nJe peux te mettre en relation avec <https:\/\/www.linkedin.com\/in\/alexandre-dardel-2898666b\/|Alexandre>.\nOn a monté ensemble l’équipe BDR chez Artur’In et de nouveau bossé sur le sujet prospection chez Najar - il maîtrise très bien ce sujet :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "568f5815adda",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4705573084496_568f5815addab51accfb_72.jpg",
+            "first_name": "Paul",
+            "real_name": "Paul LEMONNIER",
+            "display_name": "Paul",
+            "team": "T017AGS2KE0",
+            "name": "paul.lemonnier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739807805.428489",
+        "parent_user_id": "U086LFGGVUG",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/alexandre-dardel-2898666b\/",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/alexandre-dardel-2898666b\/",
+                "fallback": "Alexandre DARDEL - Paris, Île-de-France, France | Profil professionnel | LinkedIn",
+                "text": "Lieu : Paris. 500 relations ou plus sur LinkedIn. Consultez le profil de Alexandre DARDEL sur LinkedIn, une communauté professionnelle d’un milliard de membres.",
+                "title": "Alexandre DARDEL - Paris, Île-de-France, France | Profil professionnel | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/alexandre-dardel-2898666b\/",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UslzP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello,\nJe peux te mettre en relation avec "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/alexandre-dardel-2898666b\/",
+                                "text": "Alexandre"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\nOn a monté ensemble l’équipe BDR chez Artur’In et de nouveau bossé sur le sujet prospection chez Najar - il maîtrise très bien ce sujet "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U086LFGGVUG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1739864881.648949",
+        "client_msg_id": "f69d7579-20e2-410c-809a-9fc5133b9d8d",
+        "text": "Hello <!here>\nest ce qu'il y a des expert SEO &lt;&gt; AI dans le coin qu'on peut interroger sur un quick call svp? :slightly_smiling_face: (vous ou dans vos équipes)\nMerciiiiiii",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739864881.648949",
+        "reply_count": 10,
+        "reply_users_count": 5,
+        "latest_reply": "1739877914.435549",
+        "reply_users": [
+            "U04SM1RGPJB",
+            "U063A8VPPG9",
+            "U078PFP7A4B",
+            "U017RAZCAGZ",
+            "U016SBPG7K9"
+        ],
+        "replies": [
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1739868321.049069"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1739869823.902399"
+            },
+            {
+                "user": "U078PFP7A4B",
+                "ts": "1739869959.569779"
+            },
+            {
+                "user": "U017RAZCAGZ",
+                "ts": "1739871274.201919"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1739872313.666329"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1739872334.295029"
+            },
+            {
+                "user": "U016SBPG7K9",
+                "ts": "1739875286.549719"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1739876524.998979"
+            },
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1739877710.429529"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1739877914.435549"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R4sk9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nest ce qu'il y a des expert SEO <> AI dans le coin qu'on peut interroger sur un quick call svp? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (vous ou dans vos équipes)\nMerciiiiiii"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

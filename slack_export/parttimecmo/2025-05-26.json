@@ -1,0 +1,322 @@
+[
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1748243430.898419",
+        "client_msg_id": "79ba68d4-beee-49e0-88f7-4af9f819ca96",
+        "text": "ok !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748197989.217099",
+        "parent_user_id": "U084KTR7YKX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oY5+3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1748243439.018149",
+        "client_msg_id": "f1b48e6b-98b9-45e0-8365-efc5a3fa0c57",
+        "text": "je te fais la MER ce midi :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748197989.217099",
+        "parent_user_id": "U084KTR7YKX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MyNzR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je te fais la MER ce midi "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U063Q1LA69W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U067VEJFT5F",
+        "type": "message",
+        "ts": "1748281509.539319",
+        "client_msg_id": "3b4d3d96-c5b4-4939-ad82-adee15fbae38",
+        "text": "Help help :fire:la deadline des impôts approche : je suis toujours en statut EI et mon cabinet me dit qu'il faut que je declare mon CA en TTC .... est-ce que l'un de vous a de l'expérience sur le sujet ? Je trouve ça très bizarre et spontanément j'aurais déclaré du HT .... A votre bon coeur si vous avez des billes là-dessus ... Thanks!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9fcbd8d4bd09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-05\/6296382564371_9fcbd8d4bd095d25ab4c_72.jpg",
+            "first_name": "Amandine",
+            "real_name": "Amandine Moreau",
+            "display_name": "Amandine Moreau",
+            "team": "T017AGS2KE0",
+            "name": "a.gremont.pro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748281509.539319",
+        "reply_count": 8,
+        "reply_users_count": 5,
+        "latest_reply": "1748419091.674399",
+        "reply_users": [
+            "U020QK16RMJ",
+            "U067VEJFT5F",
+            "U04L04T475K",
+            "U02N2EVMFCG",
+            "U04TU0UA2R1"
+        ],
+        "replies": [
+            {
+                "user": "U020QK16RMJ",
+                "ts": "1748287059.017479"
+            },
+            {
+                "user": "U067VEJFT5F",
+                "ts": "1748289968.963969"
+            },
+            {
+                "user": "U04L04T475K",
+                "ts": "1748324398.850249"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1748407031.494399"
+            },
+            {
+                "user": "U067VEJFT5F",
+                "ts": "1748412258.777379"
+            },
+            {
+                "user": "U067VEJFT5F",
+                "ts": "1748412309.757169"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1748412410.076739"
+            },
+            {
+                "user": "U04TU0UA2R1",
+                "ts": "1748419091.674399"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RFHhm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Help help "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire",
+                                "unicode": "1f525"
+                            },
+                            {
+                                "type": "text",
+                                "text": "la deadline des impôts approche : je suis toujours en statut EI et mon cabinet me dit qu'il faut que je declare mon CA en TTC .... est-ce que l'un de vous a de l'expérience sur le sujet ? Je trouve ça très bizarre et spontanément j'aurais déclaré du HT .... A votre bon coeur si vous avez des billes là-dessus ... Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U020QK16RMJ",
+        "type": "message",
+        "ts": "1748287059.017479",
+        "client_msg_id": "da0caedb-02d2-4d2b-a908-0be2463c99f1",
+        "text": "Normalement en auto-entrepreneur tu ne collectes pas de TVA (dispense) donc tout est TTC",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "56d8a678e801",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-18\/7292097443269_56d8a678e801350db84a_72.png",
+            "first_name": "Joël",
+            "real_name": "Joël Gaudeul",
+            "display_name": "Joël (Swan)",
+            "team": "T017AGS2KE0",
+            "name": "joel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748281509.539319",
+        "parent_user_id": "U067VEJFT5F",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L8eeY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Normalement en auto-entrepreneur tu ne collectes pas de TVA (dispense) donc tout est TTC"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U067VEJFT5F",
+        "type": "message",
+        "ts": "1748289968.963969",
+        "client_msg_id": "5b1f6634-30a0-4f48-8d6b-e3b632bbf7e8",
+        "text": "Si en fait tu en collectes dès que tu dépasses 37K€ de CA",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9fcbd8d4bd09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-05\/6296382564371_9fcbd8d4bd095d25ab4c_72.jpg",
+            "first_name": "Amandine",
+            "real_name": "Amandine Moreau",
+            "display_name": "Amandine Moreau",
+            "team": "T017AGS2KE0",
+            "name": "a.gremont.pro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748281509.539319",
+        "parent_user_id": "U067VEJFT5F",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yavc8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si en fait tu en collectes dès que tu dépasses 37K€ de CA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04L04T475K",
+        "type": "message",
+        "ts": "1748324398.850249",
+        "client_msg_id": "1568AEE3-28B5-4749-B093-70F5A8E67A03",
+        "text": "En AE tu déclares ton ÇA en HT. Mais je ne sais pas pour l’EI. Qu’est ce que te dit ChatGPT?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "992240f01962",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4685704045204_992240f019622b6b0af8_72.jpg",
+            "first_name": "Antoine",
+            "real_name": "Antoine Yahia Cherif",
+            "display_name": "Antoine Yahia Cherif",
+            "team": "T017AGS2KE0",
+            "name": "antoine.yc008",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748281509.539319",
+        "parent_user_id": "U067VEJFT5F",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E9UJa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "E"
+                            },
+                            {
+                                "type": "text",
+                                "text": "n AE tu déclares ton ÇA en HT. Mais je ne sais pas pour l’EI. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Qu’est"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ce que te dit ChatGPT?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

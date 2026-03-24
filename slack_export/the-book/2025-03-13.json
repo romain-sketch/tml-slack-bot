@@ -1,0 +1,169 @@
+[
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1741900125.657489",
+        "client_msg_id": "64763f5f-6d7c-47b4-99ee-5f915fd23b90",
+        "text": "Non je n'ai rien eu",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740410245.663669",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pIzKX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Non je n'ai rien eu"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1741900136.482829",
+        "client_msg_id": "a6576dcb-2d3b-47f3-a06a-c67aa03f7897",
+        "text": "Désolée j'ai pas pu m'en occuper aujourd'hui",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740410245.663669",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wae\/I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Désolée j'ai pas pu m'en occuper aujourd'hui"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1741933011.799659",
+        "client_msg_id": "e90dd751-d085-4981-8e22-66afafaa443d",
+        "text": "Je vais faire aujourd'hui. Des choses à mettre en avant en particulier à part les _reviews_ du livre et nos pages Linkedin respectives ? Je mettrai aussi une partie des <https:\/\/francedigitale.notion.site\/IA-et-Marketing-Exemples-concrets-pour-passer-l-action-1b333628401d801a96c9ef5f0e5334eb|notes> de FD",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740410245.663669",
+        "parent_user_id": "U017H09S857",
+        "attachments": [
+            {
+                "image_url": "https:\/\/francedigitale.notion.site\/image\/attachment%3Aa42abffb-2b8b-4e7a-bca1-1f82578c0834%3ASocialMediaPreviewImage.png?table=block&id=1b333628-401d-801a-96c9-ef5f0e5334eb&spaceId=5fab0ff4-cd40-4ffe-875e-ebceade5ca31&width=2000&userId=&cache=v2",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 23946,
+                "from_url": "https:\/\/francedigitale.notion.site\/IA-et-Marketing-Exemples-concrets-pour-passer-l-action-1b333628401d801a96c9ef5f0e5334eb",
+                "service_icon": "https:\/\/francedigitale.notion.site\/images\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/francedigitale.notion.site\/IA-et-Marketing-Exemples-concrets-pour-passer-l-action-1b333628401d801a96c9ef5f0e5334eb",
+                "fallback": "France Digitale on Notion: IA et Marketing - Exemples concrets pour passer à l’action. | Notion",
+                "text": "Cas d’usages par fonction",
+                "title": "IA et Marketing - Exemples concrets pour passer à l’action. | Notion",
+                "title_link": "https:\/\/francedigitale.notion.site\/IA-et-Marketing-Exemples-concrets-pour-passer-l-action-1b333628401d801a96c9ef5f0e5334eb",
+                "service_name": "France Digitale on Notion"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GQFLL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je vais faire aujourd'hui. Des choses à mettre en avant en particulier à part les "
+                            },
+                            {
+                                "type": "text",
+                                "text": "reviews",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " du livre et nos pages Linkedin respectives ? Je mettrai aussi une partie des "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/francedigitale.notion.site\/IA-et-Marketing-Exemples-concrets-pour-passer-l-action-1b333628401d801a96c9ef5f0e5334eb",
+                                "text": "notes"
+                            },
+                            {
+                                "type": "text",
+                                "text": " de FD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U017H09S857",
+                    "U065DFPCQMP"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "user": "U020QK16RMJ",
+        "type": "message",
+        "ts": "1762516289.015309",
+        "client_msg_id": "fb82ce2f-9520-4b3b-add6-5844f4fbd0fe",
+        "text": "Et Indy dans tout ça? ils est bien leur compte pro, non?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "56d8a678e801",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-18\/7292097443269_56d8a678e801350db84a_72.png",
+            "first_name": "Joël",
+            "real_name": "Joël Gaudeul",
+            "display_name": "Joël (Swan)",
+            "team": "T017AGS2KE0",
+            "name": "joel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762359261.784389",
+        "parent_user_id": "U0182J18ULQ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c++Re",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et Indy dans tout ça? ils est bien leur compte pro, non?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U020QK16RMJ",
+        "type": "message",
+        "ts": "1762516299.156449",
+        "client_msg_id": "767c0487-0e33-481a-8970-456b4c42e6fc",
+        "text": "(en toute objectivité)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "56d8a678e801",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-18\/7292097443269_56d8a678e801350db84a_72.png",
+            "first_name": "Joël",
+            "real_name": "Joël Gaudeul",
+            "display_name": "Joël (Swan)",
+            "team": "T017AGS2KE0",
+            "name": "joel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762359261.784389",
+        "parent_user_id": "U0182J18ULQ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iss5N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(en toute objectivité)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

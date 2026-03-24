@@ -1,0 +1,772 @@
+[
+    {
+        "user": "U017RAZCAGZ",
+        "type": "message",
+        "ts": "1739177266.080319",
+        "client_msg_id": "36dd8a9c-68f6-43bc-a766-0b41604dc7bf",
+        "text": "<@U055KSYA2AH> 8%",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2e6e61c8f204",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-20\/1251040887619_2e6e61c8f20434050630_72.jpg",
+            "first_name": "Hélène",
+            "real_name": "Hélène Draoulec (Phenix)",
+            "display_name": "Hélène Draoulec (Phenix)",
+            "team": "T017AGS2KE0",
+            "name": "hdraoulec",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738762694.862019",
+        "parent_user_id": "U055KSYA2AH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w\/2q5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U055KSYA2AH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 8%"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U055KSYA2AH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0720BFAVFE",
+        "type": "message",
+        "ts": "1739185538.226869",
+        "client_msg_id": "657AE14F-9B8A-4CC5-94AF-B1712E925E12",
+        "text": "Hello à tous !\nJ’espère que vous allez bien.\nEst-ce que quelqu’un a déjà bossé avec l’agence Bruno pour du rebranding ? J’aurais besoin d’un REX. \nMerci bcp !!\nFlore",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50e6f9a21044",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-27\/7202574403248_50e6f9a210444de165cf_72.jpg",
+            "first_name": "Flore",
+            "real_name": "Flore Blanchard-Dignac",
+            "display_name": "Flore Blanchard-Dignac",
+            "team": "T017AGS2KE0",
+            "name": "flore.blanchard.digna",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739185538.226869",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1740604009.233959",
+        "reply_users": [
+            "U02N2EVMFCG",
+            "U065DFPCQMP",
+            "U0859A8P14K"
+        ],
+        "replies": [
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1739187862.371899"
+            },
+            {
+                "user": "U065DFPCQMP",
+                "ts": "1739289364.695259"
+            },
+            {
+                "user": "U0859A8P14K",
+                "ts": "1740604009.233959"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+NcxS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello à tous !\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "J’espère"
+                            },
+                            {
+                                "type": "text",
+                                "text": " que vous allez bien.\nEst-ce que "
+                            },
+                            {
+                                "type": "text",
+                                "text": "quelqu’un"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a déjà bossé avec l’agence Bruno pour du rebranding ? J’aurais besoin d’un REX. \nMerci bcp !!\nFlore"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "woman-shrugging",
+                "users": [
+                    "U084KTR7YKX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0720BFAVFE",
+        "type": "message",
+        "ts": "1739185714.152149",
+        "client_msg_id": "E43B7136-2A81-4BE5-ACC5-24E62E79C8AB",
+        "text": "<@U059T4KRCUC> je ne sais pas si tu avais vu mon message précédent ? :) on peut s’appeler si plus simple. :) \nMerci bcp",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50e6f9a21044",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-27\/7202574403248_50e6f9a210444de165cf_72.jpg",
+            "first_name": "Flore",
+            "real_name": "Flore Blanchard-Dignac",
+            "display_name": "Flore Blanchard-Dignac",
+            "team": "T017AGS2KE0",
+            "name": "flore.blanchard.digna",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715701925.558419",
+        "parent_user_id": "U059T4KRCUC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2nMyb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U059T4KRCUC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je ne sais pas si tu avais vu mon message précédent ? :) on peut "
+                            },
+                            {
+                                "type": "text",
+                                "text": "s’appeler"
+                            },
+                            {
+                                "type": "text",
+                                "text": " si plus simple. :) \nMerci bcp"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Fais une recherche sur le Slack tu trouveras pas mal de retours (de différentes dates). À mettre à jour par une discussion peut-être (j’ai pas de retour à te faire perso)",
+        "files": [
+            {
+                "id": "F08CGDTUCTX",
+                "created": 1739187835,
+                "timestamp": 1739187835,
+                "name": "IMG_8944.jpg",
+                "title": "IMG_8944",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U02N2EVMFCG",
+                "user_team": "T017AGS2KE0",
+                "editable": false,
+                "size": 64861,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F08CGDTUCTX\/img_8944.jpg?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F08CGDTUCTX\/download\/img_8944.jpg?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08CGDTUCTX-7ea979dd30\/img_8944_64.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08CGDTUCTX-7ea979dd30\/img_8944_80.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08CGDTUCTX-7ea979dd30\/img_8944_360.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360_w": 360,
+                "thumb_360_h": 277,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08CGDTUCTX-7ea979dd30\/img_8944_480.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_480_w": 480,
+                "thumb_480_h": 369,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08CGDTUCTX-7ea979dd30\/img_8944_160.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08CGDTUCTX-7ea979dd30\/img_8944_720.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720_w": 720,
+                "thumb_720_h": 554,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08CGDTUCTX-7ea979dd30\/img_8944_800.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_800_w": 800,
+                "thumb_800_h": 615,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08CGDTUCTX-7ea979dd30\/img_8944_960.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_960_w": 960,
+                "thumb_960_h": 738,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08CGDTUCTX-7ea979dd30\/img_8944_1024.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 788,
+                "original_w": 1170,
+                "original_h": 900,
+                "thumb_tiny": "AwAkADCBRxnGfxpNp9Kmjgdo1YMACM9DRLHLHHvLgjPvWdiiHaaNpoLOeuD+NIGY9MUWC4pBHUUEjsMUjM3GaMuRyePrRYLjVBK5D49s0pUnrIPzqMAYzz1x0p2w+jflWuhGohGO9Jz60uw\/3W\/KkKkdQQPeloAHI7ilHPcU2igYu47dvGKUt7Cmd6U9TQApOfaikpf8KAEooooA\/9k=",
+                "permalink": "https:\/\/techmarketingleaders.slack.com\/files\/U017U6M2G00\/F08CGDTUCTX\/img_8944.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F08CGDTUCTX-9f1b60970d",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U02N2EVMFCG",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r0BOl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fais une recherche sur le Slack tu trouveras pas mal de retours (de différentes dates). À mettre à jour par une discussion peut-être ("
+                            },
+                            {
+                                "type": "text",
+                                "text": "j’ai"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pas de retour à te faire perso)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1739187862.371899",
+        "client_msg_id": "5B8388CC-DFDF-4560-90A0-B895568A43EA",
+        "thread_ts": "1739185538.226869",
+        "parent_user_id": "U0720BFAVFE"
+    },
+    {
+        "user": "U0177A5V42F",
+        "type": "message",
+        "ts": "1739190597.795819",
+        "client_msg_id": "dab69a49-1ece-424c-b7a5-eaf5f01e7572",
+        "text": "merci <@U017CURDPB5>, 150 opportunités gérées en tournant par un seul sales, c'est bien ca ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ebca9b04129",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-17\/1245815650949_7ebca9b041296679a81d_72.jpg",
+            "first_name": "Guillaume",
+            "real_name": "Guillaume Laguette",
+            "display_name": "Guillaume Laguette (echOpen)",
+            "team": "T017AGS2KE0",
+            "name": "laguette.guillaume",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738947482.116989",
+        "parent_user_id": "U017CURDPB5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "soZMe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U017CURDPB5"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", 150 opportunités gérées en tournant par un seul sales, c'est bien ca ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017CURDPB5",
+        "type": "message",
+        "ts": "1739190613.958959",
+        "client_msg_id": "5b084354-3819-4ad0-8409-ce05d25f1ff1",
+        "text": "oui c'est ca!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "671ad569fbc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5982967598243_671ad569fbc40977de70_72.jpg",
+            "first_name": "David",
+            "real_name": "David Remaud",
+            "display_name": "David Remaud (iBanFirst)",
+            "team": "T017AGS2KE0",
+            "name": "david.remaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738947482.116989",
+        "parent_user_id": "U017CURDPB5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ApfBy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oui c'est ca!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0177A5V42F",
+        "type": "message",
+        "ts": "1739190832.432299",
+        "client_msg_id": "6a9d76e0-ce46-455e-9fef-273173e80bfe",
+        "text": "Whao ca me parait vraiment pas mal, tu te souviens du ramp-up de ces dernières années ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ebca9b04129",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-17\/1245815650949_7ebca9b041296679a81d_72.jpg",
+            "first_name": "Guillaume",
+            "real_name": "Guillaume Laguette",
+            "display_name": "Guillaume Laguette (echOpen)",
+            "team": "T017AGS2KE0",
+            "name": "laguette.guillaume",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738947482.116989",
+        "parent_user_id": "U017CURDPB5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xgXyc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Whao ca me parait vraiment pas mal, tu te souviens du ramp-up de ces dernières années ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1739193671.594289",
+        "client_msg_id": "e3ae9130-2252-4f86-88e8-1e3a561508eb",
+        "text": "Hello à tous,\n\nA la recherche de best practices sur les flows d'onboarding plutôt PLG \/ low-touch post signup mais si vous avez aussi high-touch, preneuse.\nMes questions du moment : quel nombre d'emails et quelle fréquence, quelle segmentation (user vs manager &amp; fonctions), tips sur des dos &amp; donts (ex : 1 email : 1 action)\n\nMerci :pray:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739193671.594289",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1739289101.195639",
+        "reply_users": [
+            "U016SBPG7K9",
+            "U084KTR7YKX",
+            "U065DFPCQMP"
+        ],
+        "replies": [
+            {
+                "user": "U016SBPG7K9",
+                "ts": "1739203139.398169"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1739206986.536669"
+            },
+            {
+                "user": "U016SBPG7K9",
+                "ts": "1739208673.471149"
+            },
+            {
+                "user": "U065DFPCQMP",
+                "ts": "1739289101.195639"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vVD\/o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello à tous,\n\nA la recherche de best practices sur les flows d'onboarding plutôt PLG \/ low-touch post signup mais si vous avez aussi high-touch, preneuse.\nMes questions du moment : quel nombre d'emails et quelle fréquence, quelle segmentation (user vs manager & fonctions), tips sur des dos & donts (ex : 1 email : 1 action)\n\nMerci "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U0177A5V42F",
+                    "U063A8VPPG9",
+                    "U017CURDPB5",
+                    "U06TF9YAWEM"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1739203139.398169",
+        "client_msg_id": "fe872580-7b27-4db4-935c-d0c96c8a0ffd",
+        "text": "Elena Verna a du très bon contenu sur le sujet :\n• <https:\/\/www.elenaverna.com\/p\/dont-reinvent-user-profiling-during|profiling>\n• <https:\/\/www.elenaverna.com\/p\/try-this-onboarding-email-series|a feature a day for the first 7-30 days>\n• pas 100% on topic: <https:\/\/www.elenaverna.com\/p\/how-to-boost-team-expansion-9-tactics|9 tactics for team expansion>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739193671.594289",
+        "parent_user_id": "U084KTR7YKX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dJ\/yi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Elena Verna a du très bon contenu sur le sujet :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.elenaverna.com\/p\/dont-reinvent-user-profiling-during",
+                                        "text": "profiling"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.elenaverna.com\/p\/try-this-onboarding-email-series",
+                                        "text": "a feature a day for the first 7-30 days"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "pas 100% on topic: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.elenaverna.com\/p\/how-to-boost-team-expansion-9-tactics",
+                                        "text": "9 tactics for team expansion"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U084KTR7YKX"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U084KTR7YKX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1739206986.536669",
+        "edited": {
+            "user": "U084KTR7YKX",
+            "ts": "1739207138.000000"
+        },
+        "client_msg_id": "f13ec50a-3d04-4405-a0ae-92cee6f5885b",
+        "text": "au top Elena\n> a feature a day :raised_hands: \nça me fait penser à \"an apple a day keeps the doctor away\"\n\nje pense que c'est top en v1\n\n• en v2, je voulais aussi essayer de voir en fonction des features activées et non activées pour chaque user avec des flows adaptés mais je me dis\n    ◦ que c'est peut-être overkill et dur à maintenir - même si sûrement plus pertinent pour chaque user (maybe à tester avec des agents IA qui vont piocher dans une base d'emails préparés et adaptent au prospect :thinking_face: bon j'overthink again ^^ et je parle seule sur un slack",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739193671.594289",
+        "parent_user_id": "U084KTR7YKX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hq2S0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "au top Elena\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "a feature a day "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "unicode": "1f64c"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ça me fait penser à \"an apple a day keeps the doctor away\"\n\nje pense que c'est top en v1\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "en v2, je voulais aussi essayer de voir en fonction des features activées et non activées pour chaque user avec des flows adaptés mais je me dis"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "que c'est peut-être overkill et dur à maintenir - même si sûrement plus pertinent pour chaque user (maybe à tester avec des agents IA qui vont piocher dans une base d'emails préparés et adaptent au prospect "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "thinking_face",
+                                        "unicode": "1f914"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " bon j'overthink again ^^ et je parle seule sur un slack"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1739208673.471149",
+        "client_msg_id": "D172C7DF-1415-4254-82E4-7525EED16E02",
+        "text": "Non je dirais pas overkill parce que ça évite d'émailler des users des infos qu'ils ont déjà. Pour le garder simple tu peux peux être envoyer ou non l'e-mail si la feature a été utilisée\/setup ou pas (mais pas d'autre condition que envoyer oui\/non, ça évite les branches dans tous les sens).",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739193671.594289",
+        "parent_user_id": "U084KTR7YKX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6bko0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Non je dirais pas overkill parce que ça évite d'émailler des users des infos qu'ils ont déjà"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Pour le garder simple tu peux peux être envoyer ou non l'e-mail si la feature a été utilisée\/setup ou pas (mais pas d'autre condition que envoyer oui\/non, ça évite les branches dans tous les sens)"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U084KTR7YKX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

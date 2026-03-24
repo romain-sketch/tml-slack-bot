@@ -1,0 +1,50 @@
+[
+    {
+        "user": "U08PLD4KPS8",
+        "type": "message",
+        "ts": "1749630645.389919",
+        "client_msg_id": "49a67370-3ed0-4a5d-a0fe-ef14ac208e8f",
+        "text": "Hello <@U020QK16RMJ>\nQuel type de campagne as-tu en tête?  Marque? Lead Gen? Acquisition? Autre? Je pose la question parce que selon le type de campagne, les réponses seront très différentes.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ed1e5a6e17a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-15\/8903493241218_7ed1e5a6e17a9b117971_72.jpg",
+            "first_name": "Ségolène",
+            "real_name": "Ségolène Finet",
+            "display_name": "Ségolène Finet",
+            "team": "T017AGS2KE0",
+            "name": "finetsegolene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749047797.733249",
+        "parent_user_id": "U020QK16RMJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zd7ex",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U020QK16RMJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nQuel type de campagne as-tu en tête?  Marque? Lead Gen? Acquisition? Autre? Je pose la question parce que selon le type de campagne, les réponses seront très différentes."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

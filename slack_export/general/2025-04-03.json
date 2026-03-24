@@ -1,0 +1,296 @@
+[
+    {
+        "user": "U020QK16RMJ",
+        "type": "message",
+        "ts": "1743669057.333909",
+        "edited": {
+            "user": "U020QK16RMJ",
+            "ts": "1743760831.000000"
+        },
+        "client_msg_id": "5ed58c1e-5dd8-4e08-a38a-e2d1bfef93e0",
+        "text": ":bell: Après une longue genèse, le buddy program commence... enfin presque.\nPour ceux intéressés, je vous invite à répondre à ce questionnaire préparé avec <@U086LFGGVUG>\n<https:\/\/tally.so\/r\/wQ4N01>\nCela nous permettra de vous aider dans le matching et de définir quelques guidelines pour vous accompagner.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "56d8a678e801",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-18\/7292097443269_56d8a678e801350db84a_72.png",
+            "first_name": "Joël",
+            "real_name": "Joël Gaudeul",
+            "display_name": "Joël (Swan)",
+            "team": "T017AGS2KE0",
+            "name": "joel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743669057.333909",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1743760820.963889",
+        "reply_users": [
+            "U084KTR7YKX",
+            "U065DFPCQMP",
+            "U06DYTRDLUD",
+            "U020QK16RMJ"
+        ],
+        "replies": [
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1743671234.569589"
+            },
+            {
+                "user": "U065DFPCQMP",
+                "ts": "1743673441.440009"
+            },
+            {
+                "user": "U06DYTRDLUD",
+                "ts": "1743685174.954249"
+            },
+            {
+                "user": "U020QK16RMJ",
+                "ts": "1743746491.464539"
+            },
+            {
+                "user": "U020QK16RMJ",
+                "ts": "1743760820.963889"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+cUyX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "bell",
+                                "unicode": "1f514"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Après une longue genèse, le buddy program commence... enfin presque.\nPour ceux intéressés, je vous invite à répondre à ce questionnaire préparé avec "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U086LFGGVUG"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/tally.so\/r\/wQ4N01"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nCela nous permettra de vous aider dans le matching et de définir quelques guidelines pour vous accompagner."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U078PFP7A4B",
+                    "U084KTR7YKX",
+                    "U06CZESF7QF",
+                    "U065DFPCQMP",
+                    "U06DYTRDLUD",
+                    "U04TU0UA2R1",
+                    "U06M6E5M524",
+                    "U017H09S857",
+                    "U08HF5YQM6G",
+                    "U06DLQ4644X"
+                ],
+                "count": 10
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U084KTR7YKX",
+                    "U086LFGGVUG",
+                    "U06CZESF7QF",
+                    "U065DFPCQMP",
+                    "U04TU0UA2R1",
+                    "U08HF5YQM6G",
+                    "U06DLQ4644X",
+                    "U0859A8P14K"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1743671234.569589",
+        "client_msg_id": "709423ee-cacf-4b1e-a800-b56436b07ff9",
+        "text": "bravo pour l'initiative :raised_hands:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743669057.333909",
+        "parent_user_id": "U020QK16RMJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FQhl7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "bravo pour l'initiative "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "unicode": "1f64c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U065DFPCQMP",
+        "type": "message",
+        "ts": "1743673441.440009",
+        "client_msg_id": "47642dde-de3d-411b-a122-879b0d58a998",
+        "text": "Merci à tous les 2, une suggestion: laisser la possibilité de consulter toutes les questions du formulaire pour évaluer le temps nécessaire pour le remplir (il y a une option à cocher)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50040e0261e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-15\/6198553206674_50040e0261e7ba62e840_72.jpg",
+            "first_name": "Gaelle",
+            "real_name": "Gaelle Le Goff",
+            "display_name": "Gaelle Le Goff",
+            "team": "T017AGS2KE0",
+            "name": "gaelle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743669057.333909",
+        "parent_user_id": "U020QK16RMJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9RS4Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci à tous les 2, une suggestion: laisser la possibilité de consulter toutes les questions du formulaire pour évaluer le temps nécessaire pour le remplir (il y a une option à cocher)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06DYTRDLUD",
+        "type": "message",
+        "ts": "1743685174.954249",
+        "client_msg_id": "f0c7ce0f-74ce-429f-b90d-b62e6e95201c",
+        "text": "Amazing, vraiment je trouve l'idée géniale. Merci Joël et Laura",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901f49789864",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-17\/6483135134229_901f4978986494a521e4_72.jpg",
+            "first_name": "Flora",
+            "real_name": "Flora Wolfer",
+            "display_name": "Flora Wolfer (Payplug)",
+            "team": "T017AGS2KE0",
+            "name": "fwolfer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743669057.333909",
+        "parent_user_id": "U020QK16RMJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QsqcS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Amazing, vraiment je trouve l'idée géniale. Merci Joël et Laura"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U020QK16RMJ",
+        "type": "message",
+        "ts": "1743746491.464539",
+        "client_msg_id": "7bda632e-b29a-4125-bd38-41159de4f97f",
+        "text": "Je remets un formulaire ce matin, j'ai eu un petit souci avec celui-ci.(Les réponses sont quand même bien enregistrées)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "56d8a678e801",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-18\/7292097443269_56d8a678e801350db84a_72.png",
+            "first_name": "Joël",
+            "real_name": "Joël Gaudeul",
+            "display_name": "Joël (Swan)",
+            "team": "T017AGS2KE0",
+            "name": "joel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743669057.333909",
+        "parent_user_id": "U020QK16RMJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MzjNr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je remets un formulaire ce matin, j'ai eu un petit souci avec celui-ci.(Les réponses sont quand même bien enregistrées)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

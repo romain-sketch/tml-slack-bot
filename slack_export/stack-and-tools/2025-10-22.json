@@ -1,0 +1,136 @@
+[
+    {
+        "user": "U017CURDPB5",
+        "type": "message",
+        "ts": "1761117690.253769",
+        "client_msg_id": "1dd51196-126e-4cd0-ac8d-eeaab9422735",
+        "text": "Hello, je ne pourrai pas me connecter mais pouvez-vous inviter Jerome, mon marketing ops, <mailto:jhe@ibanfirst.com|jhe@ibanfirst.com>. Il avait regardé Topo. Merci !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "671ad569fbc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5982967598243_671ad569fbc40977de70_72.jpg",
+            "first_name": "David",
+            "real_name": "David Remaud",
+            "display_name": "David Remaud (iBanFirst)",
+            "team": "T017AGS2KE0",
+            "name": "david.remaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761035205.371099",
+        "parent_user_id": "U02N2EVMFCG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XLBa7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, je ne pourrai pas me connecter mais pouvez-vous inviter Jerome, mon marketing ops, "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:jhe@ibanfirst.com",
+                                "text": "jhe@ibanfirst.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Il avait regardé Topo. Merci !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08M0JP81DK",
+        "type": "message",
+        "ts": "1761129891.947009",
+        "client_msg_id": "7F8B339F-5113-4FE6-862F-8466251A8B9C",
+        "text": "Intéressé aussi pour le record, je teste leur « Free AI SDR » depuis quelques jours et suis encore un peu circonspect :sweat_smile:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "f8f282c0f1ce",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-04-07\/8720578468499_f8f282c0f1cedcfe5323_72.png",
+            "first_name": "Pierre",
+            "real_name": "Pierre Osdoit-Patrigeon",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "pierre.osdoit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761035205.371099",
+        "parent_user_id": "U02N2EVMFCG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NZU5U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Intéressé aussi pour le record, je teste leur « Free AI SDR » depuis quelques jours et suis encore un peu circonspect "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1761137378.217429",
+        "client_msg_id": "40A9783C-B68D-4B89-8ECC-6A52244C07EE",
+        "text": "Ok !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761035205.371099",
+        "parent_user_id": "U02N2EVMFCG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n3DXN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

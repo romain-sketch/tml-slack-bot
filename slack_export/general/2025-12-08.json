@@ -1,0 +1,99 @@
+[
+    {
+        "user": "U04L35Y9D08",
+        "type": "message",
+        "ts": "1765210796.161449",
+        "client_msg_id": "a4090ec2-b131-4c54-95e3-b394a67f153d",
+        "text": "Hello,\nJ’accompagne une MedTech depuis 1an quasiment\nN’hésite pas !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "568f5815adda",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4705573084496_568f5815addab51accfb_72.jpg",
+            "first_name": "Paul",
+            "real_name": "Paul LEMONNIER",
+            "display_name": "Paul",
+            "team": "T017AGS2KE0",
+            "name": "paul.lemonnier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764837846.871339",
+        "parent_user_id": "U08PEJM137X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0JTIK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello,\nJ’accompagne une MedTech depuis 1an quasiment\nN’hésite pas !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0177A5V42F",
+        "type": "message",
+        "ts": "1765211061.984669",
+        "client_msg_id": "e3b5c8c2-c674-439a-8eef-ce128276233e",
+        "text": "Excellent, je ne savais pas que tu avais rejoint la secte <@U04L35Y9D08> :smile: c'est quelle boîte si c'est pas indiscret ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ebca9b04129",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-17\/1245815650949_7ebca9b041296679a81d_72.jpg",
+            "first_name": "Guillaume",
+            "real_name": "Guillaume Laguette",
+            "display_name": "Guillaume Laguette (echOpen)",
+            "team": "T017AGS2KE0",
+            "name": "laguette.guillaume",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764837846.871339",
+        "parent_user_id": "U08PEJM137X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p9+h3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Excellent, je ne savais pas que tu avais rejoint la secte "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04L35Y9D08"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            },
+                            {
+                                "type": "text",
+                                "text": " c'est quelle boîte si c'est pas indiscret ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "user": "U017RBREWC9",
+        "type": "message",
+        "ts": "1738772557.659479",
+        "client_msg_id": "be982512-a2cc-413c-9d28-51a041dfd18a",
+        "text": "Trop intéressée par le call si jamais :pray::pray:! <mailto:clotilde@batch.com|clotilde@batch.com>\n\nChez nous c’est ops\/growth (import dans SF) puis repasse par les AE pour acter à quel niveau on bosse le compte (parce qu’au delà d’avoir les filiales bien identifiée, la gouvernance pour les solutions CDP\/CRM change selon les groupes, c’est une galère)\n(mapping = identifier les contacts pour moi)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e7fed2c3531e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-04\/9013749604145_e7fed2c3531e67bdbec9_72.png",
+            "first_name": "",
+            "real_name": "Clotilde Rousseau",
+            "display_name": "Clotilde Rousseau (Batch)",
+            "team": "T017AGS2KE0",
+            "name": "rousseau.clotilde",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738659623.127509",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A79YW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Trop intéressée par le call si jamais "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:clotilde@batch.com",
+                                "text": "clotilde@batch.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nChez nous c’est ops\/growth (import dans SF) puis repasse par les AE pour acter à quel niveau on bosse le compte (parce qu’au delà d’avoir les filiales bien identifiée, la gouvernance pour les solutions CDP\/CRM change selon les groupes, c’est une galère)\n(mapping = identifier les contacts pour moi)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

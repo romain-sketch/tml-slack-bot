@@ -1,0 +1,734 @@
+[
+    {
+        "user": "U08C1HZNT8S",
+        "type": "message",
+        "ts": "1739453151.421739",
+        "client_msg_id": "2c0ec849-ee4e-4d37-bf18-36aad3a7e260",
+        "text": "Hello !\n\nEst-ce que certains d'entre vous ont suivi *des formations* récemment qui ont vraiment fait la différence dans votre day-to-day ? Je sais que ma question est assez large, mais pour préciser, je pense notamment à creuser les sujets suivants :\n• l’application de l’IA dans le marketing (j’ai déjà suivi celle de Ludo Salenne, et je suis aussi Shubham Sharma régulièrement sur YouTube)\n• le content marketing BtoB - comment produire des contenus impactants\n• gestion des events dans le BtoB - qualification d'opportunités, identifier le sponsorship adéquate..\n• la stratégie marketing BtoB, ou encore la stratégie marketing pour les startups dans la tech... (j'ai déjà lu le livre :wink: )\nMerci d'avance pour vos retours !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "61c9836da04d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-06\/8423651765825_61c9836da04d5e9d3e43_72.jpg",
+            "first_name": "Séverine",
+            "real_name": "Séverine Loeuille (Impact Plus)",
+            "display_name": "Séverine Loeuille (Impact Plus)",
+            "team": "T017AGS2KE0",
+            "name": "severine.loeuille",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739453151.421739",
+        "reply_count": 7,
+        "reply_users_count": 5,
+        "latest_reply": "1739463465.603439",
+        "reply_users": [
+            "U063A8VPPG9",
+            "U02N2EVMFCG",
+            "U069NSTHZ3Q",
+            "U08C1HZNT8S",
+            "U07PEP71X4Y"
+        ],
+        "replies": [
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1739453862.058539"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1739454404.954789"
+            },
+            {
+                "user": "U069NSTHZ3Q",
+                "ts": "1739454697.078549"
+            },
+            {
+                "user": "U08C1HZNT8S",
+                "ts": "1739458977.437179"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1739459941.775829"
+            },
+            {
+                "user": "U07PEP71X4Y",
+                "ts": "1739463088.370049"
+            },
+            {
+                "user": "U069NSTHZ3Q",
+                "ts": "1739463465.603439"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oaGNQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello !\n\nEst-ce que certains d'entre vous ont suivi "
+                            },
+                            {
+                                "type": "text",
+                                "text": "des formations",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " récemment qui ont vraiment fait la différence dans votre day-to-day ? Je sais que ma question est assez large, mais pour préciser, je pense notamment à creuser les sujets suivants :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "l’application de l’IA dans le marketing (j’ai déjà suivi celle de Ludo Salenne, et je suis aussi Shubham Sharma régulièrement sur YouTube)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "le content marketing BtoB - comment produire des contenus impactants"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "gestion des events dans le BtoB - qualification d'opportunités, identifier le sponsorship adéquate.."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "la stratégie marketing BtoB, ou encore la stratégie marketing pour les startups dans la tech... (j'ai déjà lu le livre "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "wink",
+                                        "unicode": "1f609"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " )"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nMerci d'avance pour vos retours !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1739453862.058539",
+        "client_msg_id": "8359EB5A-72FB-4C3B-B147-C207B57B7EB6",
+        "text": "Hello <@U08C1HZNT8S> , avec <@U063Q1LA69W> on a lancé <http:\/\/unlockm.fr|unlockm.fr> ça peut répondre à ton besoin. Dis moi si tu veux que je te montre et t explique :) ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739453151.421739",
+        "parent_user_id": "U08C1HZNT8S",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lxJe3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08C1HZNT8S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , avec "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U063Q1LA69W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on a lancé "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/unlockm.fr",
+                                "text": "unlockm.fr"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ça peut répondre à ton besoin. Dis moi si tu veux que je te montre et t explique :) "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1739454404.954789",
+        "client_msg_id": "009ce436-b654-4f88-9599-aa50bf4ca3f1",
+        "text": "J'allais dire, il y a UNLOCK ! Attends je te file mon code promo\n\n\n(je rigole)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739453151.421739",
+        "parent_user_id": "U08C1HZNT8S",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BMXgx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'allais dire, il y a UNLOCK ! Attends je te file mon code promo\n\n\n(je rigole)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U063A8VPPG9",
+                    "U04L35Y9D08",
+                    "U06DYTRDLUD"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U069NSTHZ3Q",
+        "type": "message",
+        "ts": "1739454697.078549",
+        "client_msg_id": "0132b3a9-1dac-48a2-9d2e-b2389715efaa",
+        "text": "<@U08C1HZNT8S> pour l'IA, tu étais contente de la formation Ludo Salenne, ca a changé tes habitudes ou celles de son équipe? Je suis aussi sur Unlock, avec des formations orientés CMO (gestion &amp; présentation du budget par ex, relations avec le board). Pour des formations plus techniques pour l'équipe c'est au cas par cas.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "fbbca81fca0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-30\/7816371623809_fbbca81fca0c916c8c15_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Gannau (Oodrive)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "m.gannau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739453151.421739",
+        "parent_user_id": "U08C1HZNT8S",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AqRBl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U08C1HZNT8S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour l'IA, tu étais contente de la formation Ludo Salenne, ca a changé tes habitudes ou celles de son équipe? Je suis aussi sur Unlock, avec des formations orientés CMO (gestion & présentation du budget par ex, relations avec le board). Pour des formations plus techniques pour l'équipe c'est au cas par cas."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08C1HZNT8S",
+        "type": "message",
+        "ts": "1739458977.437179",
+        "edited": {
+            "user": "U08C1HZNT8S",
+            "ts": "1739459717.000000"
+        },
+        "client_msg_id": "1afd0107-27b8-40eb-bfaf-12ad2b17a14c",
+        "text": "Hello <@U069NSTHZ3Q> Oui clairement en termes de productivité, en en particulier au niveau du contenu, ça m'a changé la vie. Ca reste opérationnel cela dit, pas certaine que ça convienne à des besoins spécifiques de CMO - mais disons que les méthodes présentées sur les cas d'usage qu'il couvre peuvent facilement s'adapter aux tiens, et il y a notamment une partie où il présente comment ChatGPT peut aider à re-challenger et prioriser la strat'.\n\nEt surtout la formation porte sur l'automatisation - comment gagner énormément de temps en automatisant tes besoins sur ChatGPT notamment via Make. C'est assez poussé, je la recommande.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "61c9836da04d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-06\/8423651765825_61c9836da04d5e9d3e43_72.jpg",
+            "first_name": "Séverine",
+            "real_name": "Séverine Loeuille (Impact Plus)",
+            "display_name": "Séverine Loeuille (Impact Plus)",
+            "team": "T017AGS2KE0",
+            "name": "severine.loeuille",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739453151.421739",
+        "parent_user_id": "U08C1HZNT8S",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zIL1T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U069NSTHZ3Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Oui clairement en termes de productivité, en en particulier au niveau du contenu, ça m'a changé la vie. Ca reste opérationnel cela dit, pas certaine que ça convienne à des besoins spécifiques de CMO - mais disons que les méthodes présentées sur les cas d'usage qu'il couvre peuvent facilement s'adapter aux tiens, et il y a notamment une partie où il présente comment ChatGPT peut aider à re-challenger et prioriser la strat'.\n\nEt surtout la formation porte sur l'automatisation - comment gagner énormément de temps en automatisant tes besoins sur ChatGPT notamment via Make. C'est assez poussé, je la recommande."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U069NSTHZ3Q"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1739459941.775829",
+        "client_msg_id": "4313b875-e420-45e7-9bcc-48930a6c685e",
+        "text": "yes coté plus technique on en a en ligne ou qui arrivent dans les prochains mois, avec des experts de folie que vous connaissez bien :\n• Pricing et packaging + Product Marketing par <@U07PEP71X4Y> \n• Growth outbound par <@U0183AS3MB6> \n• Growth inbound par <@U084KTR7YKX> \n• Content par <@U07LN85V6TG> \n• Customer marketing par Sonia Ouaksel\n• Stratégie marketing de 0 to 1 par <@U03CY07UZJM> \n• Carrière Marketing avec <@U04SM1RGPJB> \n• et la formation AI hyper actionnable avec <@U016SBPG7K9> <@U017H09S857> <@U065DFPCQMP> et d'autres :slightly_smiling_face: \nOn peut dire que les Tech Marketing Leaders sont à l'honneur, je vous kiffe les gars :heart_hands:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739453151.421739",
+        "parent_user_id": "U08C1HZNT8S",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z++5h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes coté plus technique on en a en ligne ou qui arrivent dans les prochains mois, avec des experts de folie que vous connaissez bien :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Pricing et packaging + Product Marketing par "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U07PEP71X4Y"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Growth outbound par "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U0183AS3MB6"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Growth inbound par "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U084KTR7YKX"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Content par "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U07LN85V6TG"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Customer marketing par Sonia Ouaksel"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Stratégie marketing de 0 to 1 par "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U03CY07UZJM"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Carrière Marketing avec "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U04SM1RGPJB"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "et la formation AI hyper actionnable avec "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U016SBPG7K9"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U017H09S857"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U065DFPCQMP"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " et d'autres "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "slightly_smiling_face",
+                                        "unicode": "1f642"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On peut dire que les Tech Marketing Leaders sont à l'honneur, je vous kiffe les gars "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_hands",
+                                "unicode": "1faf6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U065DFPCQMP",
+                    "U078PFP7A4B",
+                    "U016SBPG7K9",
+                    "U017H09S857",
+                    "U04SM1RGPJB",
+                    "U084KTR7YKX",
+                    "U063Q1LA69W",
+                    "U07LN85V6TG",
+                    "U06DYTRDLUD"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "user": "U07PEP71X4Y",
+        "type": "message",
+        "ts": "1739463088.370049",
+        "client_msg_id": "fbb5942b-a0e4-4c88-861c-3f6389c2ee38",
+        "text": "<@U063A8VPPG9> :rocket::rocket::rocket:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "03ee4bf9d742",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-26\/7782829511830_03ee4bf9d74231490efd_72.png",
+            "first_name": "Elena",
+            "real_name": "Elena Souiller-Fedorenkova",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "elenafed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739453151.421739",
+        "parent_user_id": "U08C1HZNT8S",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/0OiO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U063A8VPPG9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rocket",
+                                "unicode": "1f680"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rocket",
+                                "unicode": "1f680"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rocket",
+                                "unicode": "1f680"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U063A8VPPG9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U069NSTHZ3Q",
+        "type": "message",
+        "ts": "1739463465.603439",
+        "client_msg_id": "eeabd4e8-1403-44cc-8cf0-4a100ba4d5e1",
+        "text": "merci <@U08C1HZNT8S>!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "fbbca81fca0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-30\/7816371623809_fbbca81fca0c916c8c15_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Gannau (Oodrive)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "m.gannau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739453151.421739",
+        "parent_user_id": "U08C1HZNT8S",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/rbn0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08C1HZNT8S"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U08C1HZNT8S"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

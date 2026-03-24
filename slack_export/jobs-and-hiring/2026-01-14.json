@@ -1,0 +1,210 @@
+[
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1768387594.426629",
+        "edited": {
+            "user": "U084KTR7YKX",
+            "ts": "1768387606.000000"
+        },
+        "client_msg_id": "06ff661c-bbb3-434c-ba6f-9ff07e9956d7",
+        "text": "Hello à tous,\n\nvos contacts ont été contactés merci.\nAntoine, pas de free, CDI only apparemment :disappointed: sorry",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1767947485.751389",
+        "parent_user_id": "U084KTR7YKX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L+6F\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello à tous,\n\nvos contacts ont été contactés merci.\nAntoine, pas de free, CDI only apparemment "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed",
+                                "unicode": "1f61e"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sorry"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04L04T475K",
+                    "U055KSYA2AH",
+                    "U08M0JP81DK"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U07MNBM4WLV",
+        "type": "message",
+        "ts": "1768425062.168699",
+        "client_msg_id": "2e8ecd55-e6b5-4682-9d78-972dde852f86",
+        "text": "Hello la team,\nJ'ai vu une candidate intéressante dans ma recherche PMM.\n<https:\/\/www.linkedin.com\/in\/sphcvr\/|Sophia>, ex BCG et Google.\n100% english native, a vécu aux US, en Afrique... habite ajd en Belgique, Papa allemand et mère Belge.\nVraiment smart et bosseuse (elle a fait le mega extra mile dans son b-case, notamment LP sur Lovable).\nElle a été forte sur les exercices produits \/ positioning \/ messaging, mais moins sur la partie GTM.\nDonc je n'avance pas car elle a plutôt un profil trop \"consultante\" \/ analytics et moins forte en distrib imo.\nMais si vous recherchez quelqu'un plus sur le pilier market analytics \/ inisghts et messaging (et un profil international)...\nElle est motivée de bouger en France d'ailleurs.\nN'hésitez pas",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "028ce63b55be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7733128030774_028ce63b55be29945d4f_72.jpg",
+            "first_name": "Domitille",
+            "real_name": "Domitille de Saint-Exupéry",
+            "display_name": "Domitille de Saint-Exupéry (lemlist)",
+            "team": "T017AGS2KE0",
+            "name": "domitille433",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1768425062.168699",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1768567091.808099",
+        "reply_users": [
+            "U06CZESF7QF",
+            "U07MNBM4WLV"
+        ],
+        "replies": [
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1768463878.067959"
+            },
+            {
+                "user": "U07MNBM4WLV",
+                "ts": "1768567091.808099"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/sphcvr\/",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "thumb_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/D4E03AQGIdeP2AsnRbA\/profile-displayphoto-scale_200_200\/B4EZr9FuSrKkAc-\/0\/1765182728486?e=2147483647&v=beta&t=pUcCebFCSOgJLse3VRukBJRd2uI1iZsxN457Ft9DsD8",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/sphcvr\/",
+                "fallback": "Sophia Van Rijkel - NYU Stern School of Business - United States | LinkedIn",
+                "text": "Hi, I’m Sophia.\nI drive growth and go-to-market at startups and scale-ups, helping… · Education: NYU Stern School of Business · Location: United States · 500+ connections on LinkedIn. View Sophia Van Rijkel’s profile on LinkedIn, a professional community of 1 billion members.",
+                "title": "Sophia Van Rijkel - NYU Stern School of Business - United States | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/sphcvr\/",
+                "service_name": "linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fBwO8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello la team,\nJ'ai vu une candidate intéressante dans ma recherche PMM.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/sphcvr\/",
+                                "text": "Sophia"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", ex BCG et Google.\n100% english native, a vécu aux US, en Afrique... habite ajd en Belgique, Papa allemand et mère Belge.\nVraiment smart et bosseuse (elle a fait le mega extra mile dans son b-case, notamment LP sur Lovable).\nElle a été forte sur les exercices produits \/ positioning \/ messaging, mais moins sur la partie GTM.\nDonc je n'avance pas car elle a plutôt un profil trop \"consultante\" \/ analytics et moins forte en distrib imo.\nMais si vous recherchez quelqu'un plus sur le pilier market analytics \/ inisghts et messaging (et un profil international)...\nElle est motivée de bouger en France d'ailleurs.\nN'hésitez pas"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U063A8VPPG9",
+                    "U06CZESF7QF",
+                    "U03P99RGMTN",
+                    "U06DYTRDLUD"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1768463878.067959",
+        "client_msg_id": "ce11be32-d0c7-42c0-85bd-00b2986905bc",
+        "text": "Ok donc ca veut dire que tu es encore en recherche :smile: On lance la recherche dans les prochains jours nous !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1768425062.168699",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IPhx3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok donc ca veut dire que tu es encore en recherche "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            },
+                            {
+                                "type": "text",
+                                "text": " On lance la recherche dans les prochains jours nous !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,1558 @@
+[
+    {
+        "user": "U086LFGGVUG",
+        "type": "message",
+        "ts": "1754574378.314379",
+        "client_msg_id": "39a04d72-5c3c-4452-9c56-4c94d7111a01",
+        "text": "Hello aux vaillants du mois d'août :muscle:\nC'est une question mi orga \/ mi stack&amp;tool mais ce qui m'intéresse le plus c'est l'impact sur l'orga :slightly_smiling_face:\n\nEst-ce que certains d'entre vous ont implémenté Dust dans leur entreprise ?\nOn est en pilote avec eux, et biensûr on identifie 1000 use cases, mais je me demande concretement : comment préparer son orga à l'implementation de cet outil ? Une team dédiée owner du sujet ? Des champions dans chaque département ? ...\n\nJe serais ravie de faire un échange de vive voix avec ceux qui l'ont implémenté avec (ou sans!) succès :pray:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "8037084d031e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-01-03\/8241041927621_8037084d031e372f4d94_72.jpg",
+            "first_name": "Laura",
+            "real_name": "Laura Silva",
+            "display_name": "Laura Silva",
+            "team": "T017AGS2KE0",
+            "name": "laura.silva",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1754574378.314379",
+        "reply_count": 30,
+        "reply_users_count": 9,
+        "latest_reply": "1767155778.931649",
+        "reply_users": [
+            "U02N2EVMFCG",
+            "U078PFP7A4B",
+            "U063A8VPPG9",
+            "U08EN5T6F4L",
+            "U086LFGGVUG",
+            "U017CURDPB5",
+            "U020QK16RMJ",
+            "U017H09S857",
+            "U07BLPPL3C1"
+        ],
+        "replies": [
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1754575631.818119"
+            },
+            {
+                "user": "U078PFP7A4B",
+                "ts": "1754575646.199449"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1754575723.386029"
+            },
+            {
+                "user": "U078PFP7A4B",
+                "ts": "1754575766.022349"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1754578653.539389"
+            },
+            {
+                "user": "U08EN5T6F4L",
+                "ts": "1754583995.693139"
+            },
+            {
+                "user": "U086LFGGVUG",
+                "ts": "1754586972.424879"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1754594648.024059"
+            },
+            {
+                "user": "U08EN5T6F4L",
+                "ts": "1754594794.279069"
+            },
+            {
+                "user": "U017CURDPB5",
+                "ts": "1754641004.101199"
+            },
+            {
+                "user": "U017CURDPB5",
+                "ts": "1754641039.088189"
+            },
+            {
+                "user": "U017CURDPB5",
+                "ts": "1754641055.158969"
+            },
+            {
+                "user": "U020QK16RMJ",
+                "ts": "1754643188.133169"
+            },
+            {
+                "user": "U086LFGGVUG",
+                "ts": "1758539927.343219"
+            },
+            {
+                "user": "U08EN5T6F4L",
+                "ts": "1758695956.667439"
+            },
+            {
+                "user": "U086LFGGVUG",
+                "ts": "1758697879.963119"
+            },
+            {
+                "user": "U08EN5T6F4L",
+                "ts": "1758803292.923919"
+            },
+            {
+                "user": "U017CURDPB5",
+                "ts": "1758803424.916789"
+            },
+            {
+                "user": "U017CURDPB5",
+                "ts": "1758803428.374719"
+            },
+            {
+                "user": "U086LFGGVUG",
+                "ts": "1758816480.280739"
+            },
+            {
+                "user": "U08EN5T6F4L",
+                "ts": "1758816529.830989"
+            },
+            {
+                "user": "U086LFGGVUG",
+                "ts": "1758818959.717249"
+            },
+            {
+                "user": "U08EN5T6F4L",
+                "ts": "1758876478.575469"
+            },
+            {
+                "user": "U086LFGGVUG",
+                "ts": "1758885510.348729"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1758886660.028199"
+            },
+            {
+                "user": "U017CURDPB5",
+                "ts": "1758892316.195969"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1759488653.879879"
+            },
+            {
+                "user": "U07BLPPL3C1",
+                "ts": "1767103284.321099"
+            },
+            {
+                "user": "U08EN5T6F4L",
+                "ts": "1767114020.453779"
+            },
+            {
+                "user": "U07BLPPL3C1",
+                "ts": "1767155778.931649"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ORlD0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello aux vaillants du mois d'août "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle",
+                                "unicode": "1f4aa"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nC'est une question mi orga \/ mi stack&tool mais ce qui m'intéresse le plus c'est l'impact sur l'orga "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nEst-ce que certains d'entre vous ont implémenté Dust dans leur entreprise ?\nOn est en pilote avec eux, et biensûr on identifie 1000 use cases, mais je me demande concretement : comment préparer son orga à l'implementation de cet outil ? Une team dédiée owner du sujet ? Des champions dans chaque département ? ...\n\nJe serais ravie de faire un échange de vive voix avec ceux qui l'ont implémenté avec (ou sans!) succès "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1754574871.330859",
+        "client_msg_id": "379d1110-03ec-46b2-bd4f-b1133dd820a5",
+        "text": "je suis curieux de connaitre vos use cases sur Dust!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BtLrV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je suis curieux de connaitre vos use cases sur Dust!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08HF5YQM6G",
+        "type": "message",
+        "ts": "1754575039.793999",
+        "client_msg_id": "B5075797-7AEB-4136-BC49-D53ECCF46F25",
+        "text": "On teste des insights pour aider les sales sur les pitches, battlecards dynamiques, etc.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "dc5afdcdc051",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-28\/10418814050592_dc5afdcdc0516abb4cac_72.jpg",
+            "first_name": "Roy",
+            "real_name": "Roy Brockmann",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "roy.brockmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Rb\/9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On teste des insights pour"
+                            },
+                            {
+                                "type": "text",
+                                "text": " aider les sales sur les pitches, battlecards dynamiques, etc."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1754575149.253349",
+        "client_msg_id": "d2b9a403-133c-4077-a28d-3150af024732",
+        "text": "je suis pas familier de l'outil mais c'est un wraper de chatgpt avec des automatisations?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uS5VT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je suis pas familier de l'outil mais c'est un wraper de chatgpt avec des automatisations?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U086LFGGVUG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01T6U402V8",
+        "type": "message",
+        "ts": "1754575335.539159",
+        "client_msg_id": "E16D49E4-B059-4271-98D6-6BE02C20F86B",
+        "text": "Curieuse aussi :woman-raising-hand::skin-tone-2: ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "1a396483c2d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-13\/1958483219154_1a396483c2d9cd7cccd3_72.jpg",
+            "first_name": "Simone",
+            "real_name": "Simone Sfeir (FrenchFounders)",
+            "display_name": "Simone Sfeir",
+            "team": "T017AGS2KE0",
+            "name": "simone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZFiIs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Curieuse aussi "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-raising-hand",
+                                "unicode": "1f64b-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1754575631.818119",
+        "client_msg_id": "1ac9fdfa-4a99-4550-944f-c7a6e63266a6",
+        "text": "<@U017H09S857> :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1754574378.314379",
+        "parent_user_id": "U086LFGGVUG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bhUUU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U017H09S857"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U078PFP7A4B",
+        "thread_ts": "1754574378.314379",
+        "root": {
+            "user": "U086LFGGVUG",
+            "type": "message",
+            "ts": "1754574378.314379",
+            "client_msg_id": "39a04d72-5c3c-4452-9c56-4c94d7111a01",
+            "text": "Hello aux vaillants du mois d'août :muscle:\nC'est une question mi orga \/ mi stack&amp;tool mais ce qui m'intéresse le plus c'est l'impact sur l'orga :slightly_smiling_face:\n\nEst-ce que certains d'entre vous ont implémenté Dust dans leur entreprise ?\nOn est en pilote avec eux, et biensûr on identifie 1000 use cases, mais je me demande concretement : comment préparer son orga à l'implementation de cet outil ? Une team dédiée owner du sujet ? Des champions dans chaque département ? ...\n\nJe serais ravie de faire un échange de vive voix avec ceux qui l'ont implémenté avec (ou sans!) succès :pray:",
+            "team": "T017AGS2KE0",
+            "thread_ts": "1754574378.314379",
+            "reply_count": 30,
+            "reply_users_count": 9,
+            "latest_reply": "1767155778.931649",
+            "reply_users": [
+                "U02N2EVMFCG",
+                "U078PFP7A4B",
+                "U063A8VPPG9",
+                "U08EN5T6F4L",
+                "U086LFGGVUG",
+                "U017CURDPB5",
+                "U020QK16RMJ",
+                "U017H09S857",
+                "U07BLPPL3C1"
+            ],
+            "replies": [
+                {
+                    "user": "U02N2EVMFCG",
+                    "ts": "1754575631.818119"
+                },
+                {
+                    "user": "U078PFP7A4B",
+                    "ts": "1754575646.199449"
+                },
+                {
+                    "user": "U02N2EVMFCG",
+                    "ts": "1754575723.386029"
+                },
+                {
+                    "user": "U078PFP7A4B",
+                    "ts": "1754575766.022349"
+                },
+                {
+                    "user": "U063A8VPPG9",
+                    "ts": "1754578653.539389"
+                },
+                {
+                    "user": "U08EN5T6F4L",
+                    "ts": "1754583995.693139"
+                },
+                {
+                    "user": "U086LFGGVUG",
+                    "ts": "1754586972.424879"
+                },
+                {
+                    "user": "U02N2EVMFCG",
+                    "ts": "1754594648.024059"
+                },
+                {
+                    "user": "U08EN5T6F4L",
+                    "ts": "1754594794.279069"
+                },
+                {
+                    "user": "U017CURDPB5",
+                    "ts": "1754641004.101199"
+                },
+                {
+                    "user": "U017CURDPB5",
+                    "ts": "1754641039.088189"
+                },
+                {
+                    "user": "U017CURDPB5",
+                    "ts": "1754641055.158969"
+                },
+                {
+                    "user": "U020QK16RMJ",
+                    "ts": "1754643188.133169"
+                },
+                {
+                    "user": "U086LFGGVUG",
+                    "ts": "1758539927.343219"
+                },
+                {
+                    "user": "U08EN5T6F4L",
+                    "ts": "1758695956.667439"
+                },
+                {
+                    "user": "U086LFGGVUG",
+                    "ts": "1758697879.963119"
+                },
+                {
+                    "user": "U08EN5T6F4L",
+                    "ts": "1758803292.923919"
+                },
+                {
+                    "user": "U017CURDPB5",
+                    "ts": "1758803424.916789"
+                },
+                {
+                    "user": "U017CURDPB5",
+                    "ts": "1758803428.374719"
+                },
+                {
+                    "user": "U086LFGGVUG",
+                    "ts": "1758816480.280739"
+                },
+                {
+                    "user": "U08EN5T6F4L",
+                    "ts": "1758816529.830989"
+                },
+                {
+                    "user": "U086LFGGVUG",
+                    "ts": "1758818959.717249"
+                },
+                {
+                    "user": "U08EN5T6F4L",
+                    "ts": "1758876478.575469"
+                },
+                {
+                    "user": "U086LFGGVUG",
+                    "ts": "1758885510.348729"
+                },
+                {
+                    "user": "U017H09S857",
+                    "ts": "1758886660.028199"
+                },
+                {
+                    "user": "U017CURDPB5",
+                    "ts": "1758892316.195969"
+                },
+                {
+                    "user": "U02N2EVMFCG",
+                    "ts": "1759488653.879879"
+                },
+                {
+                    "user": "U07BLPPL3C1",
+                    "ts": "1767103284.321099"
+                },
+                {
+                    "user": "U08EN5T6F4L",
+                    "ts": "1767114020.453779"
+                },
+                {
+                    "user": "U07BLPPL3C1",
+                    "ts": "1767155778.931649"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ORlD0",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Hello aux vaillants du mois d'août "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "muscle",
+                                    "unicode": "1f4aa"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nC'est une question mi orga \/ mi stack&tool mais ce qui m'intéresse le plus c'est l'impact sur l'orga "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "slightly_smiling_face",
+                                    "unicode": "1f642"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\nEst-ce que certains d'entre vous ont implémenté Dust dans leur entreprise ?\nOn est en pilote avec eux, et biensûr on identifie 1000 use cases, mais je me demande concretement : comment préparer son orga à l'implementation de cet outil ? Une team dédiée owner du sujet ? Des champions dans chaque département ? ...\n\nJe serais ravie de faire un échange de vive voix avec ceux qui l'ont implémenté avec (ou sans!) succès "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "pray",
+                                    "unicode": "1f64f"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1754575646.199449",
+        "edited": {
+            "user": "U078PFP7A4B",
+            "ts": "1754575798.000000"
+        },
+        "client_msg_id": "59171609-418e-4cc0-a196-9bab6fc2e181",
+        "text": "De notre côté on l'utilise pour :\n• *des bots de connaissances :* un sur la pay transparency notre coeur de métier, afin que les équipes internes puissent poser des questions et se former sur le sujet par ex. On en a un aussi qui indique les contenus marketing à partager sur tel ou tel sujet aux prospects\/clients (par ex un sales demande \"quels sont les contenus autour de l'accompagnement des manager).\n• *un bot pour de la competitive intelligence* : regroupe toute la doc que l'on a sur les compétiteurs, et ça nous permet en posant une question de donner les avantages de notre solution par rapport au concurrent, basé sur des verbatims d'ex-clients, ce que l'on sait de leur solution, etc.\n• *un bot d'infos sur les prospects\/clients* : pluggé avec Hubspot, en tapant le nom d'une boîte on a le résumé des dernières interactions avec l'entreprise, le nom du main POC, les principaux détails sur l'entreprise (CA, pain points, etc.)\n• *un bot d'aide sur Figures* : ça permet aux CS et aux sales de demander directement si tel ou telle chose est faisable dans l'outil par ex.",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hR1sr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "De notre côté on l'utilise pour :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "des bots de connaissances :",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " un sur la pay transparency notre coeur de métier, afin que les équipes internes puissent poser des questions et se former sur le sujet par ex. On en a un aussi qui indique les contenus marketing à partager sur tel ou tel sujet aux prospects\/clients (par ex un sales demande \"quels sont les contenus autour de l'accompagnement des manager)."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "un bot pour de la competitive intelligence",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " : regroupe toute la doc que l'on a sur les compétiteurs, et ça nous permet en posant une question de donner les avantages de notre solution par rapport au concurrent, basé sur des verbatims d'ex-clients, ce que l'on sait de leur solution, etc."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "un bot d'infos sur les prospects\/clients ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": pluggé avec Hubspot, en tapant le nom d'une boîte on a le résumé des dernières interactions avec l'entreprise, le nom du main POC, les principaux détails sur l'entreprise (CA, pain points, etc.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "un bot d'aide sur Figures ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": ça permet aux CS et aux sales de demander directement si tel ou telle chose est faisable dans l'outil par ex."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1754575723.386029",
+        "client_msg_id": "0a6c626d-f933-406e-8d57-6c744ac09de9",
+        "text": "Est-ce que parfois il invente des trucs qui mènent à des erreurs <@U078PFP7A4B>? Le paramétrage est simple et fiable?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1754574378.314379",
+        "parent_user_id": "U086LFGGVUG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sy4Pv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Est-ce que parfois il invente des trucs qui mènent à des erreurs "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U078PFP7A4B"
+                            },
+                            {
+                                "type": "text",
+                                "text": "? Le paramétrage est simple et fiable?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1754575766.022349",
+        "client_msg_id": "05fcae44-ccc3-4536-aca2-12583ba8285b",
+        "text": "Non il n'invente jamais rien, ça se base uniquement sur les données qu'on lui fournit.\nParamétrage simple (j'ai fait celui du bot content, et c'était easy).",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1754574378.314379",
+        "parent_user_id": "U086LFGGVUG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "To4HK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Non il n'invente jamais rien, ça se base uniquement sur les données qu'on lui fournit.\nParamétrage simple (j'ai fait celui du bot content, et c'était easy)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02N2EVMFCG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1754575913.089249",
+        "client_msg_id": "9d0934a9-38a9-4903-b515-544fe3d809e4",
+        "text": "et pourquoi vous l'avez pas fait en crééant un chat gpt custom par ex?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1754575913.089249",
+        "reply_count": 8,
+        "reply_users_count": 6,
+        "latest_reply": "1754655640.463699",
+        "reply_users": [
+            "U0183AS3MB6",
+            "U078PFP7A4B",
+            "U04A6JMRWCS",
+            "U063A8VPPG9",
+            "U086LFGGVUG",
+            "U017CURDPB5"
+        ],
+        "replies": [
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1754576948.824119"
+            },
+            {
+                "user": "U078PFP7A4B",
+                "ts": "1754576990.619549"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1754577030.182499"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1754578363.522019"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1754578711.552989"
+            },
+            {
+                "user": "U086LFGGVUG",
+                "ts": "1754587207.894559"
+            },
+            {
+                "user": "U017CURDPB5",
+                "ts": "1754655585.435539"
+            },
+            {
+                "user": "U017CURDPB5",
+                "ts": "1754655640.463699"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FLchr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "et pourquoi vous l'avez pas fait en crééant un chat gpt custom par ex?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1754576948.824119",
+        "client_msg_id": "e21c21c3-2a01-4243-bb88-d4363043bc2e",
+        "text": "j’allais poser la même question :smile:\nou un dossier claude",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1754575913.089249",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TtMrY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "j’allais poser la même question "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nou un dossier claude"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1754576990.619549",
+        "client_msg_id": "A29FE043-D86F-4244-98E6-63C7B94CD0D6",
+        "text": "C’est pluggé directement dans Slack et on a des channels dédiés pour chacun des bots. C’est possible via chatgpt custom de faire ça  ? ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1754575913.089249",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rhz7L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C"
+                            },
+                            {
+                                "type": "text",
+                                "text": "’"
+                            },
+                            {
+                                "type": "text",
+                                "text": "est pluggé directement dans Slack et on a des channels dédiés pour chacun des bots. C’est possible via chatgpt custom de faire ça  ? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04A6JMRWCS",
+                    "U0183AS3MB6"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1754577030.182499",
+        "client_msg_id": "ccf2a9a0-b370-408d-abea-6eb70fc4f2d8",
+        "text": "après le set up est probablement un poil plus complexe que avec Dust mais bon",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1754575913.089249",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h56YY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "après le set up est probablement un poil plus complexe que avec Dust mais bon"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1754578363.522019",
+        "client_msg_id": "57b3f429-4b23-4a3d-af12-0f1f73dcbd41",
+        "text": "Canon ça <@U078PFP7A4B> :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1754575913.089249",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hj0fZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Canon ça "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U078PFP7A4B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1754578653.539389",
+        "client_msg_id": "BFCC940F-1177-4B77-8F71-0BC54FC2F7C1",
+        "text": "On l a aussi implémenté chez Payfit, <@U0951RDNKU6> ou moi pouvons t en parler :) \nGrosse utilisation sur : \n• content\n• SEO\n• Brief vidéo\/content\n• Ads copy\n• Idéation\n• Contenu newsletter\n• Sujets newsletter\n• Identification de mauvais leads",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1754574378.314379",
+        "parent_user_id": "U086LFGGVUG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s4p3w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On l a aussi implémenté chez Payfit, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0951RDNKU6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ou moi pouvons t en parler :) \nGrosse utilisation sur : "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "content"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "SEO"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Brief vidéo\/content"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Ads copy"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Idéation"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Contenu newsletter"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Sujets newsletter"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Identification de mauvais leads"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1754578711.552989",
+        "client_msg_id": "E4682D71-C047-4C78-8544-F6EF0721DEB9",
+        "text": "Tu connectes à ton CRM, notion, gslide, Slack etc… donc super base de connaissances. ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1754575913.089249",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CIm9k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tu connectes à ton CRM, notion, gslide, Slack etc"
+                            },
+                            {
+                                "type": "text",
+                                "text": "…"
+                            },
+                            {
+                                "type": "text",
+                                "text": " donc super base de connaissances. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U078PFP7A4B",
+                    "U0183AS3MB6"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U08EN5T6F4L",
+        "type": "message",
+        "ts": "1754583995.693139",
+        "client_msg_id": "63aa48c4-4aa3-44fb-b5e8-626f51063614",
+        "text": "Salut <@U086LFGGVUG>,\n\nDe notre côté, on utilise Dust depuis 9 mois avec les équipes SDR, AE, Onboarding, CSM et Marketing. Ce qui est top, c’est que ça se connecte à tous nos outils internes, et tu peux facilement développer et tester des agents. Avec l'API Dust, tu peux intégrer ces agents dans des automations et restituer les résultats où tu en as besoin.\n\nCôté orga, on a constitué une task force de 2 personnes (1 Rev Ops et 1 Data), avec une priorisation des sujets au niveau du COMEX, et des champions dans chaque équipe pour faire avancer le projet.\n\nSi ça t'intéresse, je peux te mettre en relation avec la personne qui pilote ce projet chez nous pour échanger.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "731ca28d6808",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-18\/8615871359542_731ca28d68086f39666f_72.png",
+            "first_name": "Sidney",
+            "real_name": "Sidney Ouarzazi",
+            "display_name": "Sidney Ouarzazi (Sellsy)",
+            "team": "T017AGS2KE0",
+            "name": "sidney.o",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1754574378.314379",
+        "parent_user_id": "U086LFGGVUG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "39M1s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salut "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U086LFGGVUG"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\n\nDe notre côté, on utilise Dust depuis 9 mois avec les équipes SDR, AE, Onboarding, CSM et Marketing. Ce qui est top, c’est que ça se connecte à tous nos outils internes, et tu peux facilement développer et tester des agents. Avec l'API Dust, tu peux intégrer ces agents dans des automations et restituer les résultats où tu en as besoin.\n\nCôté orga, on a constitué une task force de 2 personnes (1 Rev Ops et 1 Data), avec une priorisation des sujets au niveau du COMEX, et des champions dans chaque équipe pour faire avancer le projet.\n\nSi ça t'intéresse, je peux te mettre en relation avec la personne qui pilote ce projet chez nous pour échanger."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raising_hand",
+                "users": [
+                    "U02N2EVMFCG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U086LFGGVUG",
+        "type": "message",
+        "ts": "1754586972.424879",
+        "client_msg_id": "ac62d478-aaf0-44e1-ad49-7a84a35a2d1c",
+        "text": "merci beaucoup pour vos retours ! <@U08EN5T6F4L> trop preneuse de la mise en contact avec le pilote du projet :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "8037084d031e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-01-03\/8241041927621_8037084d031e372f4d94_72.jpg",
+            "first_name": "Laura",
+            "real_name": "Laura Silva",
+            "display_name": "Laura Silva",
+            "team": "T017AGS2KE0",
+            "name": "laura.silva",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1754574378.314379",
+        "parent_user_id": "U086LFGGVUG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gk86b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "merci beaucoup pour vos retours ! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08EN5T6F4L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " trop preneuse de la mise en contact avec le pilote du projet "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U086LFGGVUG",
+        "type": "message",
+        "ts": "1754587207.894559",
+        "client_msg_id": "3ef65473-3b22-46f9-8b37-50fc4dc2da2f",
+        "text": "de ce que j'en comprends <@U04A6JMRWCS> quand t'es tout seul ou pas nombreux (ou ultra calé rigoureux^^) des GPT ça fait l'affaire, mais quand tu commences à vouloir que tous tes sales l'utilisent par exemple, que des gens non tech arrivent à faire des choses stylées (en connectant plusieurs sources d'infos internes et externes, des MCP dans tes outils etc.) bah ça fait la dif. Apres côté \"avancée technique\" clairement y a rien de plus (de ce que je comprends mais je suis pas mega pointue)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "8037084d031e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-01-03\/8241041927621_8037084d031e372f4d94_72.jpg",
+            "first_name": "Laura",
+            "real_name": "Laura Silva",
+            "display_name": "Laura Silva",
+            "team": "T017AGS2KE0",
+            "name": "laura.silva",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1754575913.089249",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "14pQe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "de ce que j'en comprends "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04A6JMRWCS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " quand t'es tout seul ou pas nombreux (ou ultra calé rigoureux^^) des GPT ça fait l'affaire, mais quand tu commences à vouloir que tous tes sales l'utilisent par exemple, que des gens non tech arrivent à faire des choses stylées (en connectant plusieurs sources d'infos internes et externes, des MCP dans tes outils etc.) bah ça fait la dif. Apres côté \"avancée technique\" clairement y a rien de plus (de ce que je comprends mais je suis pas mega pointue)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1754594648.024059",
+        "client_msg_id": "58A70F1F-19F5-410D-A7B3-077821440215",
+        "text": "Assez chaud pour l’organisation d’une session d’échange ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1754574378.314379",
+        "parent_user_id": "U086LFGGVUG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8TadF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Assez chaud pour "
+                            },
+                            {
+                                "type": "text",
+                                "text": "l’organisation"
+                            },
+                            {
+                                "type": "text",
+                                "text": " d’une session "
+                            },
+                            {
+                                "type": "text",
+                                "text": "d’échange"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08EN5T6F4L",
+        "type": "message",
+        "ts": "1754594794.279069",
+        "client_msg_id": "8C87D220-DB96-4B88-98D1-D65A762B3A1A",
+        "text": ":+1: je vous envoie un message en mp je pense le call se fera plutôt fin août après les congés",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "731ca28d6808",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-18\/8615871359542_731ca28d68086f39666f_72.png",
+            "first_name": "Sidney",
+            "real_name": "Sidney Ouarzazi",
+            "display_name": "Sidney Ouarzazi (Sellsy)",
+            "team": "T017AGS2KE0",
+            "name": "sidney.o",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1754574378.314379",
+        "parent_user_id": "U086LFGGVUG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ibiAD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "thumbsup",
+                                "unicode": "1f44d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je vous envoie un message en mp je pense le call se fera plutôt fin août après les congés"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U086LFGGVUG",
+                    "U02N2EVMFCG"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

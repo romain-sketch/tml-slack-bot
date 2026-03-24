@@ -1,0 +1,83 @@
+[
+    {
+        "user": "U067VEJFT5F",
+        "type": "message",
+        "ts": "1743413808.613479",
+        "client_msg_id": "8659ed5f-894f-4642-a918-df082d3a9b32",
+        "text": "Complètement out of the blue mais pour un besoin perso, certains d'entre vous connaitraient-ils un commissaire de police ou un officier de police svp ? Merci d'avance !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9fcbd8d4bd09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-05\/6296382564371_9fcbd8d4bd095d25ab4c_72.jpg",
+            "first_name": "Amandine",
+            "real_name": "Amandine Moreau",
+            "display_name": "Amandine Moreau",
+            "team": "T017AGS2KE0",
+            "name": "a.gremont.pro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743413808.613479",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1743522972.754139",
+        "reply_users": [
+            "U08300D2NJY"
+        ],
+        "replies": [
+            {
+                "user": "U08300D2NJY",
+                "ts": "1743522972.754139"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e5Pyt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Complètement out of the blue mais pour un besoin perso, certains d'entre vous connaitraient-ils un commissaire de police ou un officier de police svp ? Merci d'avance !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "x",
+                "users": [
+                    "U069NSTHZ3Q",
+                    "U078PFP7A4B",
+                    "U06CZESF7QF",
+                    "U084KTR7YKX",
+                    "U04TU0UA2R1",
+                    "U08EN5T6F4L",
+                    "U04SM1RGPJB",
+                    "U04HP95GK55",
+                    "U017RAZCAGZ",
+                    "U02N2EVMFCG",
+                    "U03P99RGMTN",
+                    "U067GNGDATD",
+                    "U06DYTRDLUD"
+                ],
+                "count": 13
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U08300D2NJY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

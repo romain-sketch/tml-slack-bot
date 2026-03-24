@@ -1,0 +1,458 @@
+[
+    {
+        "user": "U04L04T475K",
+        "type": "message",
+        "ts": "1748965443.253749",
+        "client_msg_id": "1a010858-e173-49f9-a6eb-a76802205519",
+        "text": "Hello tout le monde,\nPetite question sur la \"révolution\" qui se prépare (ou déjà enclenchée :sweat_smile:) concernant le SEO x IA ou comment être mieux référencés sur les requêtes ailleurs que Google.\n• Est ce que vous l'utilisez déjà activement ? Ou en pilote ? \n• Vous passez par une agence ? des frees ? Quels types de solutions ?\n• Avez-vous déjà des insights ? Ou même des résultats ? J'ai l'impression que c'est hyper opaque.\nMerci d'avance :slightly_smiling_face: :pray:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "992240f01962",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4685704045204_992240f019622b6b0af8_72.jpg",
+            "first_name": "Antoine",
+            "real_name": "Antoine Yahia Cherif",
+            "display_name": "Antoine Yahia Cherif",
+            "team": "T017AGS2KE0",
+            "name": "antoine.yc008",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748965443.253749",
+        "reply_count": 18,
+        "reply_users_count": 10,
+        "latest_reply": "1750264346.755119",
+        "reply_users": [
+            "U084KTR7YKX",
+            "U056DAY3YD8",
+            "U08EN5T6F4L",
+            "U06DYTRDLUD",
+            "U06UK9NGTB4",
+            "U016SBPG7K9",
+            "U04L04T475K",
+            "U06CZESF7QF",
+            "U07BLPPL3C1",
+            "U04TU0UA2R1"
+        ],
+        "replies": [
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1748966001.204459"
+            },
+            {
+                "user": "U056DAY3YD8",
+                "ts": "1748967831.543599"
+            },
+            {
+                "user": "U08EN5T6F4L",
+                "ts": "1748968170.529159"
+            },
+            {
+                "user": "U06DYTRDLUD",
+                "ts": "1749025251.090969"
+            },
+            {
+                "user": "U06UK9NGTB4",
+                "ts": "1749028751.638209"
+            },
+            {
+                "user": "U016SBPG7K9",
+                "ts": "1749065152.990999"
+            },
+            {
+                "user": "U04L04T475K",
+                "ts": "1749074502.730709"
+            },
+            {
+                "user": "U06UK9NGTB4",
+                "ts": "1749103699.256159"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1749109428.432279"
+            },
+            {
+                "user": "U07BLPPL3C1",
+                "ts": "1749109641.475329"
+            },
+            {
+                "user": "U056DAY3YD8",
+                "ts": "1749109750.059169"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1749152403.539929"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1749152650.038059"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1749152704.967559"
+            },
+            {
+                "user": "U04TU0UA2R1",
+                "ts": "1749194658.180379"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1749540070.762319"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1749558361.498049"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1750264346.755119"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3vd6q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello tout le monde,\nPetite question sur la \"révolution\" qui se prépare (ou déjà enclenchée "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") concernant le SEO x IA ou comment être mieux référencés sur les requêtes ailleurs que Google.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Est ce que vous l'utilisez déjà activement ? Ou en pilote ? "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Vous passez par une agence ? des frees ? Quels types de solutions ?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Avez-vous déjà des insights ? Ou même des résultats ? J'ai l'impression que c'est hyper opaque."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nMerci d'avance "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U056DAY3YD8",
+                    "U06CZESF7QF",
+                    "U04CW99BP3Q",
+                    "U07D08K3U0K",
+                    "U06UK9NGTB4"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1748966001.204459",
+        "edited": {
+            "user": "U084KTR7YKX",
+            "ts": "1748966059.000000"
+        },
+        "client_msg_id": "adb6bc0a-93f5-43d7-a039-cd93b3a1e9c6",
+        "text": "je peux faire une réponse détaillée d'ici fin de semaine car gros enjeu chez Evaneos où je suis part-time en ce moment\n• AI Overview sur les marchés hors FR (30% de nos URLs sont concernées sur DACH, ES, IT)\n• pilotage des \"impressions\" plus que des clics > on va faire évoluer le pilotage des KPIs en interne\n• augmentation du traffic Marque et diminution du SEO non brandé > embarquer les autres équipes RP, Social, etc...",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748965443.253749",
+        "parent_user_id": "U04L04T475K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7gDK7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je peux faire une réponse détaillée d'ici fin de semaine car gros enjeu chez Evaneos où je suis part-time en ce moment\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "AI Overview sur les marchés hors FR (30% de nos URLs sont concernées sur DACH, ES, IT)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "pilotage des \"impressions\" plus que des clics > on va faire évoluer le pilotage des KPIs en interne"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "augmentation du traffic Marque et diminution du SEO non brandé > embarquer les autres équipes RP, Social, etc..."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U042GV737MX",
+                    "U06DYTRDLUD",
+                    "U08HF5YQM6G",
+                    "U065DFPCQMP"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U056DAY3YD8",
+        "type": "message",
+        "ts": "1748967831.543599",
+        "client_msg_id": "6dd542c8-0548-4f3e-9c27-e106ab654ef6",
+        "text": "Si certains on des insights je suis preneur aussi :slightly_smiling_face: et chaud de faire un call sur le sujet !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "1497d32a4908",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-16\/6043403579731_1497d32a4908ee3b80b5_72.png",
+            "first_name": "Alexis",
+            "real_name": "Alexis Chevallier",
+            "display_name": "Alexis Chevallier (Part-Time CMO)",
+            "team": "T017AGS2KE0",
+            "name": "alexchvllr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748965443.253749",
+        "parent_user_id": "U04L04T475K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fE7ZT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si certains on des insights je suis preneur aussi "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et chaud de faire un call sur le sujet !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U04CW99BP3Q",
+                    "U017RAZCAGZ",
+                    "U08EN5T6F4L",
+                    "U08M0JP81DK",
+                    "U02N2EVMFCG",
+                    "U06M6E5M524",
+                    "U07D08K3U0K",
+                    "U07BLPPL3C1",
+                    "U08HF5YQM6G",
+                    "U08EN5GRYCC",
+                    "U054GRSQCTX"
+                ],
+                "count": 11
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U04L04T475K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U08EN5T6F4L",
+        "type": "message",
+        "ts": "1748968170.529159",
+        "client_msg_id": "0E03ED8C-8349-41B0-82D7-0BC7DA59BC82",
+        "text": "<https:\/\/a16z.com\/geo-over-seo\/|https:\/\/a16z.com\/geo-over-seo\/>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "731ca28d6808",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-18\/8615871359542_731ca28d68086f39666f_72.png",
+            "first_name": "Sidney",
+            "real_name": "Sidney Ouarzazi",
+            "display_name": "Sidney Ouarzazi (Sellsy)",
+            "team": "T017AGS2KE0",
+            "name": "sidney.o",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748965443.253749",
+        "parent_user_id": "U04L04T475K",
+        "attachments": [
+            {
+                "image_url": "https:\/\/d1lamhf6l6yk6d.cloudfront.net\/uploads\/2025\/05\/250513-RIP-to-SEO-Yoast-1200x627-1.png",
+                "image_width": 1200,
+                "image_height": 627,
+                "image_bytes": 305731,
+                "from_url": "https:\/\/a16z.com\/geo-over-seo\/",
+                "service_icon": "https:\/\/d1lamhf6l6yk6d.cloudfront.net\/uploads\/2025\/01\/favicon-180.png",
+                "ts": 1748443699,
+                "id": 1,
+                "original_url": "https:\/\/a16z.com\/geo-over-seo\/",
+                "fallback": "Andreessen Horowitz: How Generative Engine Optimization (GEO) Rewrites the Rules of Search | Andreessen Horowitz",
+                "text": "Traditional search was built on links; GEO is built on language. A new paradigm is emerging, one driven not by page rank, but by AI models.",
+                "title": "How Generative Engine Optimization (GEO) Rewrites the Rules of Search | Andreessen Horowitz",
+                "title_link": "https:\/\/a16z.com\/geo-over-seo\/",
+                "service_name": "Andreessen Horowitz",
+                "fields": [
+                    {
+                        "value": "Zach Cohen and Seema Amble",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "8 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hiwS8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/a16z.com\/geo-over-seo\/",
+                                "text": "https:\/\/a16z.com\/geo-over-seo\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04L04T475K"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

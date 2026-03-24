@@ -1,0 +1,365 @@
+[
+    {
+        "user": "U08EN5T6F4L",
+        "type": "message",
+        "ts": "1758803292.923919",
+        "client_msg_id": "e3c22d4f-fa43-4b20-bfcf-ef9bdc6126bc",
+        "text": "<@U086LFGGVUG> est-ce que tu serais dispo pour organiser la session d’échange sur Dust le vendredi 3 octobre à 9h00 ou bien à 12h00 ?\n\n<@U02N2EVMFCG> <@U017CURDPB5> fyi si vous êtes toujours partants pour échanger",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "731ca28d6808",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-18\/8615871359542_731ca28d68086f39666f_72.png",
+            "first_name": "Sidney",
+            "real_name": "Sidney Ouarzazi",
+            "display_name": "Sidney Ouarzazi (Sellsy)",
+            "team": "T017AGS2KE0",
+            "name": "sidney.o",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1754574378.314379",
+        "parent_user_id": "U086LFGGVUG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mZj+J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U086LFGGVUG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " est-ce que tu serais dispo pour organiser la session d’échange sur Dust le vendredi 3 octobre à 9h00 ou bien à 12h00 ?\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02N2EVMFCG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U017CURDPB5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " fyi si vous êtes toujours partants pour échanger"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017CURDPB5",
+        "type": "message",
+        "ts": "1758803424.916789",
+        "client_msg_id": "4459e403-b0f0-4640-bc00-a17bf667ec65",
+        "text": "Hello, oui toujours partant pour échanger ! les 2 horaires me vont",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "671ad569fbc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5982967598243_671ad569fbc40977de70_72.jpg",
+            "first_name": "David",
+            "real_name": "David Remaud",
+            "display_name": "David Remaud (iBanFirst)",
+            "team": "T017AGS2KE0",
+            "name": "david.remaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1754574378.314379",
+        "parent_user_id": "U086LFGGVUG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AvF+4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, oui toujours partant pour échanger ! les 2 horaires me vont"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U08EN5T6F4L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U017CURDPB5",
+        "type": "message",
+        "ts": "1758803428.374719",
+        "client_msg_id": "3b23a4a6-0d0b-4581-b636-d6c2ec029fcc",
+        "text": "merci !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "671ad569fbc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5982967598243_671ad569fbc40977de70_72.jpg",
+            "first_name": "David",
+            "real_name": "David Remaud",
+            "display_name": "David Remaud (iBanFirst)",
+            "team": "T017AGS2KE0",
+            "name": "david.remaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1754574378.314379",
+        "parent_user_id": "U086LFGGVUG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CSGJ6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "merci !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U086LFGGVUG",
+        "type": "message",
+        "ts": "1758816480.280739",
+        "client_msg_id": "b67edff5-0af7-4c86-b844-78a2e0df3dfe",
+        "text": "carrément, je peux organiser l'invit si tu veux (si tu m'envoies l'email de ton collègue stp ?)\n12h bon pour moi !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "8037084d031e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-01-03\/8241041927621_8037084d031e372f4d94_72.jpg",
+            "first_name": "Laura",
+            "real_name": "Laura Silva",
+            "display_name": "Laura Silva",
+            "team": "T017AGS2KE0",
+            "name": "laura.silva",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1754574378.314379",
+        "parent_user_id": "U086LFGGVUG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DBieW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "carrément, je peux organiser l'invit si tu veux (si tu m'envoies l'email de ton collègue stp ?)\n12h bon pour moi !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08EN5T6F4L",
+        "type": "message",
+        "ts": "1758816529.830989",
+        "client_msg_id": "5AF661F3-DC2A-434A-A2F0-D7ABA40487F5",
+        "text": "J’envoie l’invitation de mon côté :+1: ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "731ca28d6808",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-18\/8615871359542_731ca28d68086f39666f_72.png",
+            "first_name": "Sidney",
+            "real_name": "Sidney Ouarzazi",
+            "display_name": "Sidney Ouarzazi (Sellsy)",
+            "team": "T017AGS2KE0",
+            "name": "sidney.o",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1754574378.314379",
+        "parent_user_id": "U086LFGGVUG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ej85W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J"
+                            },
+                            {
+                                "type": "text",
+                                "text": "’"
+                            },
+                            {
+                                "type": "text",
+                                "text": "envoie "
+                            },
+                            {
+                                "type": "text",
+                                "text": "l’invitation"
+                            },
+                            {
+                                "type": "text",
+                                "text": " de mon côté "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U086LFGGVUG",
+        "type": "message",
+        "ts": "1758818959.717249",
+        "client_msg_id": "5458d94d-3cf2-48e1-aaac-4154b60fa49b",
+        "text": "merciii",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "8037084d031e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-01-03\/8241041927621_8037084d031e372f4d94_72.jpg",
+            "first_name": "Laura",
+            "real_name": "Laura Silva",
+            "display_name": "Laura Silva",
+            "team": "T017AGS2KE0",
+            "name": "laura.silva",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1754574378.314379",
+        "parent_user_id": "U086LFGGVUG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m53qo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "merciii"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U09BVQYR1GA",
+        "type": "message",
+        "ts": "1758865741.379449",
+        "client_msg_id": "d52e8e9e-b04d-4ed8-8417-575323a5864c",
+        "text": "<@U06EN9X790C> moi de mon côté je vois les MDR (pas mecs de la rue) mais Marketing Development Representative :rolling_on_the_floor_laughing:chez marketing dans des projets entreprise marketing ou ABM car cela rend plus facile développer des campagnes full-funnel multichannel et multi-thread qui est le coeur de l'ABM.\nDans mes projets hybrides sales &amp; marketing ce que je trouve le plus pusisant est d'avoir des profils hybrides (marketing et sales) et pas tout cloisonné 'sales' et 'marketing'. Je suis aussi peut-être biaisée à cause de mes projets aussi",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0ee28ebc77d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-09-09\/9480262349955_0ee28ebc77d7f64eb0e1_72.png",
+            "first_name": "Tania",
+            "real_name": "Tania",
+            "display_name": "Tania",
+            "team": "T017AGS2KE0",
+            "name": "tsaezgrowth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1758106046.461179",
+        "parent_user_id": "U06EN9X790C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "exgVG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06EN9X790C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " moi de mon côté je vois les MDR (pas mecs de la rue) mais Marketing Development Representative "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            },
+                            {
+                                "type": "text",
+                                "text": "chez marketing dans des projets entreprise marketing ou ABM car cela rend plus facile développer des campagnes full-funnel multichannel et multi-thread qui est le coeur de l'ABM.\nDans mes projets hybrides sales & marketing ce que je trouve le plus pusisant est d'avoir des profils hybrides (marketing et sales) et pas tout cloisonné 'sales' et 'marketing'. Je suis aussi peut-être biaisée à cause de mes projets aussi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U06EN9X790C"
+                ],
+                "count": 1
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U06EN9X790C"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

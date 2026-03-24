@@ -1,0 +1,320 @@
+[
+    {
+        "user": "U08300D2NJY",
+        "type": "message",
+        "ts": "1748352115.837879",
+        "client_msg_id": "5c4b3135-f88c-4913-8f7b-8ae82ef918ca",
+        "text": "Hello :wave::skin-tone-2:\nJe cherche, pour un ami, une ou un free paid acquisition avec de l'xp en services B2C.\nEst-ce que vous auriez des profils à recommander ?\nUn grand merci :pray::skin-tone-2:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "06ec2fecf14f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-29\/8102732354515_06ec2fecf14fc6511a05_72.jpg",
+            "first_name": "Keyvan",
+            "real_name": "Keyvan",
+            "display_name": "Keyvan",
+            "team": "T017AGS2KE0",
+            "name": "keyvan.hamidzadeh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748352115.837879",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1748358591.669689",
+        "reply_users": [
+            "U02N2EVMFCG"
+        ],
+        "replies": [
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1748358591.669689"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nZv9C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nJe cherche, pour un ami, une ou un free paid acquisition avec de l'xp en services B2C.\nEst-ce que vous auriez des profils à recommander ?\nUn grand merci "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f-1f3fb",
+                                "skin_tone": 2
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1748358591.669689",
+        "client_msg_id": "4294def5-884a-4aba-9e33-566f7c44233e",
+        "text": "je peux t'aider là-dessus, tu veux m'envoyer des infos en DM ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748352115.837879",
+        "parent_user_id": "U08300D2NJY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "luieC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je peux t'aider là-dessus, tu veux m'envoyer des infos en DM ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07BLPPL3C1",
+        "type": "message",
+        "ts": "1748362317.872719",
+        "client_msg_id": "c5013150-dc51-4779-b425-fed7fe4970d8",
+        "text": "Bonjour,\nJe cherche un Field Marketing Manager DACH - idéalement basé à Cologne ou Paris (et encore plus idéal : un profil franco\/allemand). N'hésitez pas à passer le mot !\nJe cherche également son alternant donc là on est sur un profil allemand en France.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a188c365467d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-16\/7728349993798_a188c365467d3e63d25d_72.jpg",
+            "first_name": "Esther",
+            "real_name": "Esther Daga",
+            "display_name": "Esther Daga (Powell)",
+            "team": "T017AGS2KE0",
+            "name": "estherdaga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NAnfU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour,\nJe cherche un Field Marketing Manager DACH - idéalement basé à Cologne ou Paris (et encore plus idéal : un profil franco\/allemand). N'hésitez pas à passer le mot !\nJe cherche également son alternant donc là on est sur un profil allemand en France."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CY07UZJM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1748412534.129799",
+        "client_msg_id": "dc61e0bc-9dab-4aa2-8651-64aea0febbd0",
+        "text": "Hello, si qqn cherche ou connait un top profil pour gérer le Field Marketing France chez Deel, dites moi, ils cherchent je peux vous mettre en contact.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748412534.129799",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1749630958.810119",
+        "reply_users": [
+            "U067VEJFT5F",
+            "U063A8VPPG9",
+            "U08PLD4KPS8"
+        ],
+        "replies": [
+            {
+                "user": "U067VEJFT5F",
+                "ts": "1748413298.263789"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1748413647.594959"
+            },
+            {
+                "user": "U08PLD4KPS8",
+                "ts": "1749630958.810119"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hSdaX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, si qqn cherche ou connait un top profil pour gérer le Field Marketing France chez Deel, dites moi, ils cherchent je peux vous mettre en contact."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U067VEJFT5F",
+        "type": "message",
+        "ts": "1748413298.263789",
+        "client_msg_id": "921d53fa-46eb-4842-93be-870055fc2458",
+        "text": "Ils ne veulent pas du part-time j'imagine ?\nIls ont eu un bel article dans les Echos cette année, je l'avais vu passer.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9fcbd8d4bd09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-05\/6296382564371_9fcbd8d4bd095d25ab4c_72.jpg",
+            "first_name": "Amandine",
+            "real_name": "Amandine Moreau",
+            "display_name": "Amandine Moreau",
+            "team": "T017AGS2KE0",
+            "name": "a.gremont.pro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748412534.129799",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rt+HW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ils ne veulent pas du part-time j'imagine ?\nIls ont eu un bel article dans les Echos cette année, je l'avais vu passer."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1748413647.594959",
+        "client_msg_id": "8daea1e3-b548-43cb-a323-aaa046760920",
+        "text": "non full time :slightly_smiling_face: et ca fait un moment qu'ils cherchent",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748412534.129799",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NTn8x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "non full time "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et ca fait un moment qu'ils cherchent"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U067VEJFT5F",
+                    "U06DYTRDLUD"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

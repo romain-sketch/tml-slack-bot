@@ -1,0 +1,139 @@
+[
+    {
+        "user": "U06MLNEGNKB",
+        "type": "message",
+        "ts": "1765275992.698519",
+        "client_msg_id": "f5a0bd63-0346-47ff-8eed-94b36b0c6cf2",
+        "text": "Hello <@U08V1NE4BUJ>\nOui avec plaisir, par contre nous sommes plutôt clientèle Entreprise que Pro ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9484de19a0b4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-25\/7476258473346_9484de19a0b48472edf8_72.jpg",
+            "first_name": "Priscilla",
+            "real_name": "Priscilla (Memo Bank)",
+            "display_name": "Priscilla (Memo Bank)",
+            "team": "T017AGS2KE0",
+            "name": "priscilla.cavrois",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1765194808.980829",
+        "parent_user_id": "U08V1NE4BUJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N7B7w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08V1NE4BUJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nOui avec plaisir, par contre nous sommes plutôt clientèle Entreprise que Pro ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08V1NE4BUJ",
+        "type": "message",
+        "ts": "1765276066.876549",
+        "client_msg_id": "49e8b899-4260-4a7a-a733-9b7cce95d3e3",
+        "text": "Pardon j’ai écrit pro mais qui voulait plutôt dire entreprise. Ils investissent via leur entreprise dans nos fonds.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "3654a4fc5d4e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-02\/8999698350033_3654a4fc5d4e25a0a92c_72.jpg",
+            "first_name": "Alan",
+            "real_name": "Alan Huet (Fundora)",
+            "display_name": "Alan HUET",
+            "team": "T017AGS2KE0",
+            "name": "alan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1765194808.980829",
+        "parent_user_id": "U08V1NE4BUJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W1485",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pardon j’ai écrit pro mais qui voulait plutôt dire entreprise. Ils investissent via leur entreprise dans nos fonds."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06MLNEGNKB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U08V1NE4BUJ",
+        "type": "message",
+        "ts": "1765276079.854989",
+        "client_msg_id": "2f53310a-27bf-4e23-9c8e-f9d9733814a2",
+        "text": "je t’envoie un mp",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "3654a4fc5d4e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-02\/8999698350033_3654a4fc5d4e25a0a92c_72.jpg",
+            "first_name": "Alan",
+            "real_name": "Alan Huet (Fundora)",
+            "display_name": "Alan HUET",
+            "team": "T017AGS2KE0",
+            "name": "alan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1765262069.497489",
+        "parent_user_id": "U017CURDPB5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DCI3m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je t’envoie un mp"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

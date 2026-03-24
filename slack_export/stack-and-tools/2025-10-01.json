@@ -1,0 +1,75 @@
+[
+    {
+        "user": "U017CURDPB5",
+        "type": "message",
+        "ts": "1759335468.329909",
+        "client_msg_id": "d34fac67-09e7-4707-8c11-445e83546fcc",
+        "text": "Hello la team, est-ce que quelqu'un a déjà intégré Trustpilot dans Salesforce ? Notre objectif est d'identifier les clients mettant des notes. Trustpilot nous parle de 3 options pour le faire (Entreprise, salesforce integration, ou API integration). Au dela du prix on n'est pas sur de quelle(s) option(s) marche(nt). Merci !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "671ad569fbc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5982967598243_671ad569fbc40977de70_72.jpg",
+            "first_name": "David",
+            "real_name": "David Remaud",
+            "display_name": "David Remaud (iBanFirst)",
+            "team": "T017AGS2KE0",
+            "name": "david.remaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759335468.329909",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1759390283.310979",
+        "reply_users": [
+            "U092U6UDLMN"
+        ],
+        "replies": [
+            {
+                "user": "U092U6UDLMN",
+                "ts": "1759390283.310979"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bd8EB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello la team, est-ce que quelqu'un a déjà intégré Trustpilot dans Salesforce ? Notre objectif est d'identifier les clients mettant des notes. Trustpilot nous parle de 3 options pour le faire (Entreprise, salesforce integration, ou API integration). Au dela du prix on n'est pas sur de quelle(s) option(s) marche(nt). Merci !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "x",
+                "users": [
+                    "U06CZESF7QF",
+                    "U017H09S857",
+                    "U06DYTRDLUD",
+                    "U03P99RGMTN",
+                    "U06EN9X790C"
+                ],
+                "count": 5
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U017CURDPB5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

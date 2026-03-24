@@ -1,0 +1,75 @@
+[
+    {
+        "user": "U017RBREWC9",
+        "type": "message",
+        "ts": "1739810560.780609",
+        "client_msg_id": "04bd08ff-88ae-44b3-9d0e-3b40f5f9c825",
+        "text": "Hello <@U07MNBM4WLV>, preneuse de l’intro aussi si jamais (<mailto:clotilde@batch.com|clotilde@batch.com>) ! Merci beaucoup beaucoup !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e7fed2c3531e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-04\/9013749604145_e7fed2c3531e67bdbec9_72.png",
+            "first_name": "",
+            "real_name": "Clotilde Rousseau",
+            "display_name": "Clotilde Rousseau (Batch)",
+            "team": "T017AGS2KE0",
+            "name": "rousseau.clotilde",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739302527.262229",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H5wKJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07MNBM4WLV"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", preneuse de l’intro aussi si jamais ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:clotilde@batch.com",
+                                "text": "clotilde@batch.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") ! Merci beaucoup beaucoup !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U07MNBM4WLV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U07MNBM4WLV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

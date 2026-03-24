@@ -1,0 +1,62 @@
+[
+    {
+        "user": "U04L35Y9D08",
+        "type": "message",
+        "ts": "1762459981.668679",
+        "client_msg_id": "19FE2D55-1F59-4C98-B620-346F02AB7A01",
+        "text": "<@U078PFP7A4B> oui, a priori.\nLe lead acquisition est parti aussi, pas un bon fit sur le type de boîte, je pense que c’est lui qu’ils remplacent ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "568f5815adda",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4705573084496_568f5815addab51accfb_72.jpg",
+            "first_name": "Paul",
+            "real_name": "Paul LEMONNIER",
+            "display_name": "Paul",
+            "team": "T017AGS2KE0",
+            "name": "paul.lemonnier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762343819.484729",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hj07U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U078PFP7A4B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " oui, a priori.\nLe lead acquisition est parti aussi, pas un bon fit sur le type de boîte, je pense que "
+                            },
+                            {
+                                "type": "text",
+                                "text": "c’est"
+                            },
+                            {
+                                "type": "text",
+                                "text": " lui "
+                            },
+                            {
+                                "type": "text",
+                                "text": "qu’ils"
+                            },
+                            {
+                                "type": "text",
+                                "text": " remplacent "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

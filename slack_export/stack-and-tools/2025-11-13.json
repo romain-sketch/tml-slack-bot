@@ -1,0 +1,153 @@
+[
+    {
+        "user": "U06UK9NGTB4",
+        "type": "message",
+        "ts": "1763023888.244109",
+        "client_msg_id": "46f26012-5a71-4969-8583-21f9cf809cbe",
+        "text": "+1 pour Granola, surtout que l'offre gratuite est 100% suffisante",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0de90fd94651",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-12-08\/10074067873414_0de90fd94651dd81ffed_72.png",
+            "first_name": "François",
+            "real_name": "François Castro-Lara",
+            "display_name": "François Castro-Lara (Mayday)",
+            "team": "T017AGS2KE0",
+            "name": "francois",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762969532.591549",
+        "parent_user_id": "U08PLD4KPS8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/b\/BM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "+1 pour Granola, surtout que l'offre gratuite est 100% suffisante"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U08PLD4KPS8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U09BVQYR1GA",
+        "type": "message",
+        "ts": "1763101988.940289",
+        "client_msg_id": "99992044-0923-496e-8876-d35bb1d72155",
+        "text": "<@U08PLD4KPS8> j'ai fait notion enterprise (point important) sur 3 atéliers dans un de mes projets et plutôt bien. J'ai animé deux autres atéliers avec Noota la semaine dernière et c'éetait encore mieux !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0ee28ebc77d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-09-09\/9480262349955_0ee28ebc77d7f64eb0e1_72.png",
+            "first_name": "Tania",
+            "real_name": "Tania",
+            "display_name": "Tania",
+            "team": "T017AGS2KE0",
+            "name": "tsaezgrowth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762969532.591549",
+        "parent_user_id": "U08PLD4KPS8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MogcD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U08PLD4KPS8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " j'ai fait notion enterprise (point important) sur 3 atéliers dans un de mes projets et plutôt bien. J'ai animé deux autres atéliers avec Noota la semaine dernière et c'éetait encore mieux !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U08PLD4KPS8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1763104911.345929",
+        "client_msg_id": "2e8c92de-7a11-4a11-8251-1e0f72112cb2",
+        "text": "Granola ici aussi et je recommande ! Surtout quand on enchaine les meetings, il est capable de rendre à chacun ses notes :).",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762969532.591549",
+        "parent_user_id": "U08PLD4KPS8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HJSmu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Granola ici aussi et je recommande ! Surtout quand on enchaine les meetings, il est capable de rendre à chacun ses notes :)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U08PLD4KPS8"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

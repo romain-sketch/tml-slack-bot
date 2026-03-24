@@ -1,0 +1,140 @@
+[
+    {
+        "user": "U07D08K3U0K",
+        "type": "message",
+        "ts": "1745508041.891059",
+        "edited": {
+            "user": "U07D08K3U0K",
+            "ts": "1745508090.000000"
+        },
+        "client_msg_id": "106d6e55-4d30-4915-8c7a-e273fe01d7a7",
+        "text": "Hello les TML :wave:\n\nAvez-vous des recos de lieux lumineux et bien situés à Paris, avec une capacité d’accueil d’environ 100 personnes pour un format conférence ? Merci beaucoup pour vos retours :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "ee04aae8ef81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-02\/7689117269088_ee04aae8ef81d255cd1f_72.png",
+            "first_name": "Tiphanie",
+            "real_name": "Tiphanie Meyer",
+            "display_name": "Tiphanie",
+            "team": "T017AGS2KE0",
+            "name": "tiphanie.meyer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745508041.891059",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1746619059.473759",
+        "reply_users": [
+            "U017H09S857",
+            "U07D08K3U0K",
+            "U0859A8P14K",
+            "U067VEJFT5F"
+        ],
+        "replies": [
+            {
+                "user": "U017H09S857",
+                "ts": "1745526321.595869"
+            },
+            {
+                "user": "U07D08K3U0K",
+                "ts": "1745566831.392739"
+            },
+            {
+                "user": "U0859A8P14K",
+                "ts": "1746187262.084889"
+            },
+            {
+                "user": "U07D08K3U0K",
+                "ts": "1746430487.943849"
+            },
+            {
+                "user": "U067VEJFT5F",
+                "ts": "1746545957.176939"
+            },
+            {
+                "user": "U07D08K3U0K",
+                "ts": "1746619059.473759"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gm0rn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello les TML "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nAvez-vous des recos de lieux lumineux et bien situés à Paris, avec une capacité d’accueil d’environ 100 personnes pour un format conférence ? Merci beaucoup pour vos retours "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1745526321.595869",
+        "client_msg_id": "99C94B82-35AC-454F-BC1E-79DDC9D9C326",
+        "text": "Hôtel Gaillard est assez chouette, on a fait un event la bas récemment ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745508041.891059",
+        "parent_user_id": "U07D08K3U0K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YSxgN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hôtel "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Gaillard est assez chouette, on a fait un event la bas récemment "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

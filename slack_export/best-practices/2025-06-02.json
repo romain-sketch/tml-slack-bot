@@ -1,0 +1,402 @@
+[
+    {
+        "user": "U01T6U402V8",
+        "type": "message",
+        "ts": "1748881106.762829",
+        "edited": {
+            "user": "U01T6U402V8",
+            "ts": "1756582591.000000"
+        },
+        "client_msg_id": "41d5b877-43ec-4494-9ac8-b1f462d6570d",
+        "text": "Hello <@U06DYTRDLUD> Je suis passee aussi par là il y a quelques annees et on avait decliné des logos, des sites (meme en dehors du site principal), un linkedin….On a tout arreté 2 ans plus tard :\n• Trop confus pour notre audience: Les membres du reseau qui nous connaissent bien ne comprenaient plus rien \/\/ le reseau plus eloigné encore moins\n• On passait notre temps à “expliquer” que c’etait la meme boite mais que ceci, cela…\nBottom line: pour bien le faire, il faut avoir les bonnes raisons (business first: c’est quoi le ROI ?? ) et la bonne équipe pour decliner.\nA dispo si tu veux en parler aussi",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "1a396483c2d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-13\/1958483219154_1a396483c2d9cd7cccd3_72.jpg",
+            "first_name": "Simone",
+            "real_name": "Simone Sfeir (FrenchFounders)",
+            "display_name": "Simone Sfeir",
+            "team": "T017AGS2KE0",
+            "name": "simone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748283533.585129",
+        "parent_user_id": "U06DYTRDLUD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "daNYp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06DYTRDLUD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Je suis passee aussi par là il y a quelques annees et on avait decliné des logos, des sites (meme en dehors du site principal), un linkedin….On a tout arreté 2 ans plus tard :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Trop confus pour notre audience: Les membres du reseau qui nous connaissent bien ne comprenaient plus rien \/\/ le reseau plus eloigné encore moins"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "On passait notre temps à “expliquer” que c’etait la meme boite mais que ceci, cela…"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bottom line: pour bien le faire, il faut avoir les bonnes raisons (business first: c’est quoi le ROI ?? ) et la bonne équipe pour decliner.\nA dispo si tu veux en parler aussi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01T6U402V8",
+        "type": "message",
+        "ts": "1748881162.673909",
+        "edited": {
+            "user": "U01T6U402V8",
+            "ts": "1748881169.000000"
+        },
+        "client_msg_id": "102bf5ea-3bf2-4cfb-a55e-a93880e8570c",
+        "text": "<@U0859A8P14K> on a un de bons contacts avec Maddyness - tu cherches quoi\/qui exactement?\nplus simple si tu me dis par email\n<mailto:simone@frenchfounders.com|simone@frenchfounders.com>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "1a396483c2d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-13\/1958483219154_1a396483c2d9cd7cccd3_72.jpg",
+            "first_name": "Simone",
+            "real_name": "Simone Sfeir (FrenchFounders)",
+            "display_name": "Simone Sfeir",
+            "team": "T017AGS2KE0",
+            "name": "simone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1747994869.014149",
+        "parent_user_id": "U0859A8P14K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KHkHY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0859A8P14K"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on a un de bons contacts avec Maddyness - tu cherches quoi\/qui exactement?\nplus simple si tu me dis par email\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:simone@frenchfounders.com",
+                                "text": "simone@frenchfounders.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0859A8P14K",
+        "type": "message",
+        "ts": "1748881575.770549",
+        "client_msg_id": "9E0467FD-92D9-45C8-8676-3AF21CC7844C",
+        "text": "Un grand merci Simone je t écris alors comme ça :)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "de9373c86530",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8178910826725_de9373c86530dc48c9e8_72.png",
+            "first_name": "Alexandra",
+            "real_name": "Alexandra Lougovoy",
+            "display_name": "Alexandra Lougovoy (Eudonet)",
+            "team": "T017AGS2KE0",
+            "name": "a.lougovoy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1747994869.014149",
+        "parent_user_id": "U0859A8P14K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k7kCF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un grand merci Simone je t écris alors comme ça :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U08V1NE4BUJ",
+        "text": "<@U08V1NE4BUJ> has joined the channel",
+        "type": "message",
+        "ts": "1748884401.459669"
+    },
+    {
+        "user": "U06E3PY5LAY",
+        "type": "message",
+        "ts": "1748895300.404419",
+        "client_msg_id": "e2481c8d-2ccf-4754-87e9-dd3296c74957",
+        "text": "Merci pour le ping <@U0183AS3MB6> et pardon pour le délai <@U06DYTRDLUD>. Ravie d'échanger de vive voix. Voici qqs experiences (en lignes avec les autres (= ).\n• *+1 sur ROI* – $ et humains souvent sous-estimé (rare d’avoir suffisamment de raisons pour construire ou soutenir de la notoriété efficacement de plusieurs marques et avoir un vrai house of brands comme dans le consumer goods -- même une grosse boite comme PayPal) y compris cout enregistrement \/ protection juridique \n• *Utile d’avoir un 1-pager montrant la relation entre les marques et l'objectif vs. situation actuelle* (ex : marque d'entreprise principale, les autres sont-elles de meme niveau avec des caractéristiques de marque différentes – mission, vision, personnalité, ton, etc. – pour des raisons d'efficacité (ex Xoom, a PayPal Company ou Teach on Mars, by LumApps)  – ou s'agit-il de packages ou produits différents, auquel cas plus efficace d’utiliser le nom de la marque principale avec un nom descriptif clair pour l’audience : ex. “LumApps social intranet” vs “LumApps Employee Hub”. \n• *Contexte acquisition \/ marques déjà existantes* : niveau de notoriété actuelle (en générale sur estimé par des équipes historiques) ET si vraiment utiles d'avoir des marques (caractéristiques différentes pour bonne raisons)\n    ◦ Je suppose que SFDC garde la marque Slack pour ces raisons\n    ◦ Chez PayPal, on a continué à utiliser la marque Venmo post acquisition comme 2eme marque pour peer to peer payments aux US comme forte avec les jeunes. Par contre, on a utilisé que PayPal en Europe car : Pas assez de budget marketing en Europe pour soutenir deux marques et volonté d’utiliser un produit vu en étant \"jeune\" et innovant pour améliorer la perception globale de la marque PayPal. En revanche, on a lancé “Xoom” (acquis) en Europe pour les paiements internationaux car la marque était déjà forte, avec des caractéristiques différentes, auprès d’une communauté internationale spécifique.\n    ◦ *Différencier une expertise sur une niche spécifique:* (ex : pour l’instant LumApps garde “Teach on Mars” après l’acquisition ; il est probable qu’on évolue vers “LumApps Learning for retail” à terme, pour rendre l'offre cross-sell plus clair, bénéficier de la crédibilité de l’entreprise mère pour l'acquisition et synergies marketing spend. Withings a crée \"Withings Health Solutions\" pour la cible large enterprise B2B vs. B2C mais il fallait dédiée beaucoup de ressources meme en utilisation \"Withings\" dedans (gestion assets design, comptes social media, etc.)\n    ◦ *Org\/ contrôle de la marque:* si org séparé\/ manque d'alignement sur la stratégie et identité, difficile to pour marketing d'aligner seule \n• *“Sous-marques” pour des événements, communautés – attirer de nouvelles audiences \/ paraître moins commercial.* ex : Qonto a créé un nouveau nom, FinPal, pour sa communauté fintech, tout en gardant la mention “by Qonto” ; chez LumApps, pour notre événement phare, on l’a appelé “Bright” (avec un usage sélectif de “by LumApps”) pour attirer de manière moins commerciale)\nChez LumApps j'ai mis \"brand architecture\" dans un plus gros projet avec l'agence Koto. J'apprécie Koto sur d'autres aspects mais ils n'ont pas apporté beaucoup plus de framework\/considerations que google\/chatgpt",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e6f18bbbcc15",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-16\/6475144975749_e6f18bbbcc1579d4df98_72.png",
+            "first_name": "Elizabeth",
+            "real_name": "Elizabeth Coleon",
+            "display_name": "Elizabeth Coleon",
+            "team": "T017AGS2KE0",
+            "name": "eorzano",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748283533.585129",
+        "parent_user_id": "U06DYTRDLUD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z\/Ucc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci pour le ping "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0183AS3MB6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et pardon pour le délai "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06DYTRDLUD"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Ravie d'échanger de vive voix. Voici qqs experiences (en lignes avec les autres (= ).\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "+1 sur ROI",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " – $ et humains souvent sous-estimé (rare d’avoir suffisamment de raisons pour construire ou soutenir de la notoriété efficacement de plusieurs marques et avoir un vrai house of brands comme dans le consumer goods -- même une grosse boite comme PayPal) y compris cout enregistrement \/ protection juridique "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Utile d’avoir un 1-pager montrant la relation entre les marques et l'objectif vs. situation actuelle ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "(ex : marque d'entreprise principale, les autres sont-elles de meme niveau avec des caractéristiques de marque différentes – mission, vision, personnalité, ton, etc. – pour des raisons d'efficacité (ex Xoom, a PayPal Company ou Teach on Mars, by LumApps)  – ou s'agit-il de packages ou produits différents, auquel cas plus efficace d’utiliser le nom de la marque principale avec un nom descriptif clair pour l’audience : ex. “LumApps social intranet” vs “LumApps Employee Hub”. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Contexte acquisition \/ marques déjà existantes",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " : niveau de notoriété actuelle (en générale sur estimé par des équipes historiques) ET si vraiment utiles d'avoir des marques (caractéristiques différentes pour bonne raisons)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Je suppose que SFDC garde la marque Slack pour ces raisons"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Chez PayPal, on a continué à utiliser la marque Venmo post acquisition comme 2eme marque pour peer to peer payments aux US comme forte avec les jeunes. Par contre, on a utilisé que PayPal en Europe car : Pas assez de budget marketing en Europe pour soutenir deux marques et volonté d’utiliser un produit vu en étant \"jeune\" et innovant pour améliorer la perception globale de la marque PayPal. En revanche, on a lancé “Xoom” (acquis) en Europe pour les paiements internationaux car la marque était déjà forte, avec des caractéristiques différentes, auprès d’une communauté internationale spécifique."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Différencier une expertise sur une niche spécifique: ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "(ex : pour l’instant LumApps garde “Teach on Mars” après l’acquisition ; il est probable qu’on évolue vers “LumApps Learning for retail” à terme, pour rendre l'offre cross-sell plus clair, bénéficier de la crédibilité de l’entreprise mère pour l'acquisition et synergies marketing spend. Withings a crée \"Withings Health Solutions\" pour la cible large enterprise B2B vs. B2C mais il fallait dédiée beaucoup de ressources meme en utilisation \"Withings\" dedans (gestion assets design, comptes social media, etc.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Org\/ contrôle de la marque:",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " si org séparé\/ manque d'alignement sur la stratégie et identité, difficile to pour marketing d'aligner seule "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "“Sous-marques” pour des événements, communautés – attirer de nouvelles audiences \/ paraître moins commercial. ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "ex : Qonto a créé un nouveau nom, FinPal, pour sa communauté fintech, tout en gardant la mention “by Qonto” ; chez LumApps, pour notre événement phare, on l’a appelé “Bright” (avec un usage sélectif de “by LumApps”) pour attirer de manière moins commerciale)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Chez LumApps j'ai mis \"brand architecture\" dans un plus gros projet avec l'agence Koto. J'apprécie Koto sur d'autres aspects mais ils n'ont pas apporté beaucoup plus de framework\/considerations que google\/chatgpt"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U0183AS3MB6",
+                    "U06DYTRDLUD"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

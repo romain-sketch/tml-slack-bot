@@ -1,0 +1,119 @@
+[
+    {
+        "user": "U08SA22HS0J",
+        "type": "message",
+        "ts": "1748252421.938359",
+        "client_msg_id": "fb9a1d86-9492-4ddb-a0ab-9e2045d1bedc",
+        "text": "Hello les TLM, en plus de Mégane et de moi-même, est-ce qu'il y a d'autres gens du Nord dans la communauté ? On pourrait se faire un déj ou un afterwork sur Lille. Bien entendu, si des membres plus éloignés souhaitent se déplacer pour venir, ce serait open.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "266d9356f19e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-07\/10243863201635_266d9356f19e63bc9267_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu BONENFANT (SecLab)",
+            "display_name": "Matthieu BONENFANT (SecLab)",
+            "team": "T017AGS2KE0",
+            "name": "matthieu.bonenfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748252421.938359",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1748260677.721639",
+        "reply_users": [
+            "U06MLNEGNKB"
+        ],
+        "replies": [
+            {
+                "user": "U06MLNEGNKB",
+                "ts": "1748260677.721639"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OQAbu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello les TLM, en plus de Mégane et de moi-même, est-ce qu'il y a d'autres gens du Nord dans la communauté ? On pourrait se faire un déj ou un afterwork sur Lille. Bien entendu, si des membres plus éloignés souhaitent se déplacer pour venir, ce serait open."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "green_heart",
+                "users": [
+                    "U017H09S857"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06MLNEGNKB",
+        "type": "message",
+        "ts": "1748260677.721639",
+        "client_msg_id": "b0ff0820-f108-4867-a034-8fa372edb774",
+        "text": "Je suis à la lille aussi :woman-raising-hand:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9484de19a0b4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-25\/7476258473346_9484de19a0b48472edf8_72.jpg",
+            "first_name": "Priscilla",
+            "real_name": "Priscilla (Memo Bank)",
+            "display_name": "Priscilla (Memo Bank)",
+            "team": "T017AGS2KE0",
+            "name": "priscilla.cavrois",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748252421.938359",
+        "parent_user_id": "U08SA22HS0J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ygNUM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je suis à la lille aussi "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-raising-hand",
+                                "unicode": "1f64b-200d-2640-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U08SA22HS0J",
+                    "U078PFP7A4B"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

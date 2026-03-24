@@ -1,0 +1,279 @@
+[
+    {
+        "user": "U032T5N7UTY",
+        "type": "message",
+        "ts": "1761290248.037619",
+        "client_msg_id": "09937585-5962-49d3-845f-63d95556cdba",
+        "text": "Hello <@U0951RDNKU6>, l’usage que l’on a de Gyfti sur ce sujet concerne principalement la partie « gestion de la récompense ». Ils sont assez efficaces sur le déploiement de landing intégrant des récompenses variées (cartes cadeaux, dons, cadeaux physiques…), ainsi que sur la gestion de l’envoi (envoi de SMS pour s’assurer que le destinataire a bien validé la bonne adresse, gestion des workflows emails…). Enfin, cela permet un bon pilotage budgétaire avec d’éventuelles intégrations d’outils (CRM, Data…).\nBien entendu, cela doit s’adosser à une stratégie efficace de scoring et de notifications dans le parcours client en amont, que Gyfti ne gère pas du tout.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "026d818af51e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-14\/3105470112116_026d818af51e6af78591_72.png",
+            "first_name": "Maxime",
+            "real_name": "Maxime Baumard",
+            "display_name": "Maxime Baumard (Pennylane)",
+            "team": "T017AGS2KE0",
+            "name": "maxime.baumard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761212739.793949",
+        "parent_user_id": "U0951RDNKU6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nZaIR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0951RDNKU6"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", l’usage que l’on a de Gyfti sur ce sujet concerne principalement la partie « gestion de la récompense ». Ils sont assez efficaces sur le déploiement de landing intégrant des récompenses variées (cartes cadeaux, dons, cadeaux physiques…), ainsi que sur la gestion de l’envoi (envoi de SMS pour s’assurer que le destinataire a bien validé la bonne adresse, gestion des workflows emails…). Enfin, cela permet un bon pilotage budgétaire avec d’éventuelles intégrations d’outils (CRM, Data…).\nBien entendu, cela doit s’adosser à une stratégie efficace de scoring et de notifications dans le parcours client en amont, que Gyfti ne gère pas du tout."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U0951RDNKU6"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart_hands",
+                "users": [
+                    "U0951RDNKU6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06UK9NGTB4",
+        "type": "message",
+        "ts": "1761295197.236289",
+        "client_msg_id": "b8c2bfb8-896c-4269-b120-d788073cd438",
+        "text": "<@U04L35Y9D08> j'avoue qu'on a tenté pas mal de choses mais ça n'a malgré tout jamais dépassé 15% du mix!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0de90fd94651",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-12-08\/10074067873414_0de90fd94651dd81ffed_72.png",
+            "first_name": "François",
+            "real_name": "François Castro-Lara",
+            "display_name": "François Castro-Lara (Mayday)",
+            "team": "T017AGS2KE0",
+            "name": "francois",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761212739.793949",
+        "parent_user_id": "U0951RDNKU6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RPsZF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04L35Y9D08"
+                            },
+                            {
+                                "type": "text",
+                                "text": " j'avoue qu'on a tenté pas mal de choses mais ça n'a malgré tout jamais dépassé 15% du mix!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06TF9YAWEM",
+        "type": "message",
+        "ts": "1761314420.722549",
+        "edited": {
+            "user": "U06TF9YAWEM",
+            "ts": "1761319409.000000"
+        },
+        "client_msg_id": "5083b12d-62a2-4184-8bd8-d6461faffbd3",
+        "text": "Chez Doctolib, on l'a mis en place (jusqu'à 15% des SQL) mais on a dû l'arrêter pour plusieurs raisons :\n• des difficultés opérationnels lié à un dispositif in-house pas très robuste et scalable \n• la difficulté de prouver l'incrémentalité du programme. Dans tout programme de referral, il y a un risque de cannib vs. les autres canaux marketings. Chez Doctolib avec la très grande force de vente, on avait en + une cannibalisation par les équipes commerciales qui s'en servaient aussi pour offrir des discounts aux praticiens, et qu'on n'a jamais vraiment su éliminer. \nPour info, un article très intéressant sur le sujet d'Andrew Chen <https:\/\/andrewchen.com\/how-to-design-a-referral-program\/|ici>.\nA dispo pour en parler si tu le souhaites !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "bd18243d01f9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-04-13\/8768953549904_bd18243d01f97fe02075_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Lhermitte",
+            "display_name": "Marie Lhermitte (Lucca)",
+            "team": "T017AGS2KE0",
+            "name": "marie.lhermitte78",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761212739.793949",
+        "parent_user_id": "U0951RDNKU6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n3XtA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Chez Doctolib, on l'a mis en place (jusqu'à 15% des SQL) mais on a dû l'arrêter pour plusieurs raisons :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "des difficultés opérationnels lié à un dispositif in-house pas très robuste et scalable "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "la difficulté de prouver l'incrémentalité du programme. Dans tout programme de referral, il y a un risque de cannib vs. les autres canaux marketings. Chez Doctolib avec la très grande force de vente, on avait en + une cannibalisation par les équipes commerciales qui s'en servaient aussi pour offrir des discounts aux praticiens, et qu'on n'a jamais vraiment su éliminer. "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour info, un article très intéressant sur le sujet d'Andrew Chen "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/andrewchen.com\/how-to-design-a-referral-program\/",
+                                "text": "ici"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\nA dispo pour en parler si tu le souhaites !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "face_with_monocle",
+                "users": [
+                    "U0951RDNKU6"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U0951RDNKU6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04L35Y9D08",
+        "type": "message",
+        "ts": "1761326502.673269",
+        "client_msg_id": "1FF999E6-E6FB-4924-82A2-7A3FD5F1C119",
+        "text": "Same chez Artur’In : attention aux discounts dissimulés :eyes:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "568f5815adda",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4705573084496_568f5815addab51accfb_72.jpg",
+            "first_name": "Paul",
+            "real_name": "Paul LEMONNIER",
+            "display_name": "Paul",
+            "team": "T017AGS2KE0",
+            "name": "paul.lemonnier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761212739.793949",
+        "parent_user_id": "U0951RDNKU6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hCBKb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "S"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ame chez Artur’In : attention aux discounts dissimulés "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes",
+                                "unicode": "1f440"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U06DYTRDLUD"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U0951RDNKU6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

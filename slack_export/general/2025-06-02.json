@@ -1,0 +1,58 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U08V1NE4BUJ",
+        "text": "<@U08V1NE4BUJ> has joined the channel",
+        "type": "message",
+        "ts": "1748884401.391729"
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1748932360.162599",
+        "client_msg_id": "00a8cda4-35c6-46ef-8927-f4ea22d32a08",
+        "text": "J'essaye de venir vous voir !!!! Vous allez tout déchirer, courage pour la prep !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748844661.592479",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2sjp0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'essaye de venir vous voir !!!! Vous allez tout déchirer, courage pour la prep !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "rocket",
+                "users": [
+                    "U01A4GMRRR9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

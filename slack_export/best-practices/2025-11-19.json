@@ -1,0 +1,170 @@
+[
+    {
+        "user": "U08PLD4KPS8",
+        "type": "message",
+        "ts": "1763577566.933809",
+        "client_msg_id": "3983164A-9713-4F4A-A879-42E7E8C58652",
+        "text": "Bonsoir, \nEn relisant le thread sur la session de demain pour noter l’adresse  je vois qu’il fallait envoyer notre e-mail pour avoir l’invitation :see_no_evil:. Donc si ce n’est pas trop tard (et s’il y a de la place): <mailto:advisory@segolenefinet.com|advisory@segolenefinet.com> \nMerci beaucoup \nMerci beaucoup ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ed1e5a6e17a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-15\/8903493241218_7ed1e5a6e17a9b117971_72.jpg",
+            "first_name": "Ségolène",
+            "real_name": "Ségolène Finet",
+            "display_name": "Ségolène Finet",
+            "team": "T017AGS2KE0",
+            "name": "finetsegolene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759909660.136279",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QYone",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bo"
+                            },
+                            {
+                                "type": "text",
+                                "text": "nsoir, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "En relisant le thread sur la session de demain"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour noter "
+                            },
+                            {
+                                "type": "text",
+                                "text": "l’adresse"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": " je vois qu’il fallait "
+                            },
+                            {
+                                "type": "text",
+                                "text": "envoyer"
+                            },
+                            {
+                                "type": "text",
+                                "text": " notre e-mail pour avoir l’invitation "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "see_no_evil",
+                                "unicode": "1f648"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Donc si ce n’est pas trop tard (et s’il y a de la place): "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:advisory@segolenefinet.com",
+                                "text": "advisory@segolenefinet.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nMerci beaucoup "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Merci beaucoup "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01A4GMRRR9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1763578025.280939",
+        "client_msg_id": "123444FD-17EB-4B57-BC41-B78F2A828AAE",
+        "text": "<@U08PLD4KPS8> envoyée ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759909660.136279",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NTWf9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U08PLD4KPS8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " envoyée "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U08PLD4KPS8"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

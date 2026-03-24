@@ -1,0 +1,288 @@
+[
+    {
+        "user": "U07MNBM4WLV",
+        "type": "message",
+        "ts": "1758548587.911929",
+        "client_msg_id": "3dd8eaf4-f7a2-450a-9bfb-f3e1c6b91efb",
+        "text": "Hello à tous,\npas trouvé de réponse récente donc je reposte :wink:\ndes recos d'agence ou de freelances RP pour avoir des retombées dans des médias Tier 1 en Europe et au US (ça peut être 2 reco différentes) svp ?\nJ'ai identifié Raoul, Burlignton et Buzzpress so far.\nMerci !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "028ce63b55be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7733128030774_028ce63b55be29945d4f_72.jpg",
+            "first_name": "Domitille",
+            "real_name": "Domitille de Saint-Exupéry",
+            "display_name": "Domitille de Saint-Exupéry (lemlist)",
+            "team": "T017AGS2KE0",
+            "name": "domitille433",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1758548587.911929",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1758618594.920989",
+        "reply_users": [
+            "U078PFP7A4B",
+            "U084KTR7YKX"
+        ],
+        "replies": [
+            {
+                "user": "U078PFP7A4B",
+                "ts": "1758563162.670429"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1758618594.920989"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aiOGZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello à tous,\npas trouvé de réponse récente donc je reposte "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\ndes recos d'agence ou de freelances RP pour avoir des retombées dans des médias Tier 1 en Europe et au US (ça peut être 2 reco différentes) svp ?\nJ'ai identifié Raoul, Burlignton et Buzzpress so far.\nMerci !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1758549002.965409",
+        "client_msg_id": "f088e537-15f5-465e-8502-b96cfd1b7472",
+        "text": "si tu dis europe, tu veux dire plus que France?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cAOA\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si tu dis europe, tu veux dire plus que France?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U07MNBM4WLV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1758549007.814659",
+        "client_msg_id": "fb43007d-f80f-4b17-8dcc-0b87662538a9",
+        "text": "Sur la France, j'ai Taddeo qui est top",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hg3Qt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sur la France, j'ai Taddeo qui est top"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U07MNBM4WLV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1758549204.777299",
+        "client_msg_id": "25da7d48-19aa-471d-a1f2-844014cf5a22",
+        "text": "On bosse depuis 1 an en Eruope avec <https:\/\/tytopr.com\/>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/tytopr.com\/",
+                "image_url": "https:\/\/i0.wp.com\/tytopr.com\/wp-content\/uploads\/Website-Image-2.png?fit=2401%2C1261&ssl=1",
+                "image_width": 2401,
+                "image_height": 1261,
+                "image_bytes": 33349,
+                "service_icon": "https:\/\/tytopr.com\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/tytopr.com\/",
+                "fallback": "Tyto: Tyto | European PR agency for high-growth tech companies",
+                "text": "Tyto is the only PR and communications agency built to scale high-growth tech companies faster across Europe.",
+                "title": "Tyto | European PR agency for high-growth tech companies",
+                "title_link": "https:\/\/tytopr.com\/",
+                "service_name": "Tyto"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "01UtW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On bosse depuis 1 an en Eruope avec "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/tytopr.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U07MNBM4WLV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1758563162.670429",
+        "client_msg_id": "50DCBAB8-EE29-4011-BAFB-75E2D947502B",
+        "text": "Hello !\nJ’ai bossé avec Burlington pour le UK, on était plutôt sur du Tier 2 en termes de média plus que du Tier 1. ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1758548587.911929",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pXOtr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello !\nJ’ai boss"
+                            },
+                            {
+                                "type": "text",
+                                "text": "é"
+                            },
+                            {
+                                "type": "text",
+                                "text": " avec Burlington pour le UK, on était plutôt sur du Tier 2 en termes de média plus que du Tier 1. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U07MNBM4WLV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

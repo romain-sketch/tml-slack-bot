@@ -1,0 +1,139 @@
+[
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1759753576.079729",
+        "client_msg_id": "FC87821D-7BD2-4155-9676-E4C0E4F0427F",
+        "text": "Hello ! Dunod souhaite publier une nouvelle édition du « Grand Livre du Marketing digital » (<https:\/\/www.dunod.com\/entreprise-et-economie\/grand-livre-du-marketing-digital-1|https:\/\/www.dunod.com\/entreprise-et-economie\/grand-livre-du-marketing-digital-1>). Les auteurs ne pensent pas être capables de mettre à jour le contenu afin de le faire coller aux évolutions de l’IA, typiquement. Ils cherchent au moins un auteur supplémentaire spécialisé dans l’IA dans le marketing ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759753576.079729",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1759955884.693349",
+        "reply_users": [
+            "U02N2EVMFCG",
+            "U065DFPCQMP"
+        ],
+        "replies": [
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1759753589.156419"
+            },
+            {
+                "user": "U065DFPCQMP",
+                "ts": "1759938476.442029"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1759944226.319559"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1759955884.693349"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "image_url": "https:\/\/www.dunod.com\/sites\/default\/files\/styles\/full\/public\/thumbnails\/image\/9782100851133-001-X.jpeg",
+                "image_width": 1400,
+                "image_height": 1997,
+                "image_bytes": 378673,
+                "from_url": "https:\/\/www.dunod.com\/entreprise-et-economie\/grand-livre-du-marketing-digital-1",
+                "service_icon": "https:\/\/www.dunod.com\/sites\/all\/themes\/dunod\/favicon.ico",
+                "ts": 1759723202,
+                "id": 1,
+                "original_url": "https:\/\/www.dunod.com\/entreprise-et-economie\/grand-livre-du-marketing-digital-1",
+                "fallback": "Dunod: Le Grand Livre du Marketing digital",
+                "text": "Le digital est un fabuleux terrain de jeu pour ceux qui connaissent sa culture, ses codes et ses techniques....",
+                "title": "Le Grand Livre du Marketing digital",
+                "title_link": "https:\/\/www.dunod.com\/entreprise-et-economie\/grand-livre-du-marketing-digital-1",
+                "service_name": "Dunod"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7BpmX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello ! Dunod souhaite publier une nouvelle édition du « Grand Livre du Marketing digital » ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dunod.com\/entreprise-et-economie\/grand-livre-du-marketing-digital-1",
+                                "text": "https:\/\/www.dunod.com\/entreprise-et-economie\/grand-livre-du-marketing-digital-1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "). Les auteurs ne pensent pas être capables de mettre à jour le contenu afin de le faire coller aux évolutions de l’IA, typiquement. Ils cherchent au moins un auteur supplémentaire spécialisé dans l’IA dans le marketing ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1759753589.156419",
+        "client_msg_id": "470908E1-0FD6-4199-870C-EE60E8D80DC9",
+        "text": "<@U065DFPCQMP> ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759753576.079729",
+        "parent_user_id": "U02N2EVMFCG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/tEVw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U065DFPCQMP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

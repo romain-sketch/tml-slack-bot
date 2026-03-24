@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U04CW99BP3Q",
+        "type": "message",
+        "ts": "1758268424.718909",
+        "client_msg_id": "247692d6-bc37-421d-8263-1e9060386c77",
+        "text": "oui plutôt efficace pour nous pour les marchés européens",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7e1f9e2f5ffb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-11-30\/4445095862754_7e1f9e2f5ffb646f7b24_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Reboul",
+            "display_name": "Marie Reboul",
+            "team": "T017AGS2KE0",
+            "name": "marie.reboul",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757954828.876239",
+        "parent_user_id": "U05H3SJKYFQ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7tiXZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oui plutôt efficace pour nous pour les marchés européens"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05H3SJKYFQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

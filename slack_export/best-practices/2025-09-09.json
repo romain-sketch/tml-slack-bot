@@ -1,0 +1,139 @@
+[
+    {
+        "user": "U069NSTHZ3Q",
+        "type": "message",
+        "ts": "1757411067.034569",
+        "client_msg_id": "3129dbfe-b719-4e26-9fcc-1c74ba819f5f",
+        "text": "merci David!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "fbbca81fca0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-30\/7816371623809_fbbca81fca0c916c8c15_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Gannau (Oodrive)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "m.gannau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757351085.881929",
+        "parent_user_id": "U017CURDPB5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7434j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "merci David!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0951RDNKU6",
+        "type": "message",
+        "ts": "1757413759.695019",
+        "client_msg_id": "edf0586b-c708-4ee0-a52a-fe135f256860",
+        "text": "Michelle Taite, ex CMO de Mailchimp \/ Intuit",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "85dcd88ccf2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-06\/9660924995297_85dcd88ccf2fa3d8be38_72.jpg",
+            "first_name": "Marion",
+            "real_name": "Marion de Robillard",
+            "display_name": "Marion de Robillard",
+            "team": "T017AGS2KE0",
+            "name": "marionderobillard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756122358.256499",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c757G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Michelle Taite, ex CMO de Mailchimp \/ Intuit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08SA22HS0J",
+        "type": "message",
+        "ts": "1757424008.865729",
+        "client_msg_id": "ff124dfe-4de2-44a4-b561-f5eac42327f5",
+        "text": "Hello à tous,\n\nEst-ce qu'il y a des experts Runway ici ?\nJe galère avec l'usage des Références. Il y a quelques semaines, j'avais une bonne fidélité dans la restitution des références dans la génération d'images avec Gen-4. Maintenant, j'ai l'impression que Gen-4 interprète ces références et leur fait changer de rendu. Sinon c'est juste que mes prompts sont pourris :wink:.\n\nSi quelqu'un peut m'aider ou me filer des conseils, ça m'aiderait.\n\nMerci",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "266d9356f19e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-07\/10243863201635_266d9356f19e63bc9267_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu BONENFANT (SecLab)",
+            "display_name": "Matthieu BONENFANT (SecLab)",
+            "team": "T017AGS2KE0",
+            "name": "matthieu.bonenfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mfuSF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello à tous,\n\nEst-ce qu'il y a des experts Runway ici ?\nJe galère avec l'usage des Références. Il y a quelques semaines, j'avais une bonne fidélité dans la restitution des références dans la génération d'images avec Gen-4. Maintenant, j'ai l'impression que Gen-4 interprète ces références et leur fait changer de rendu. Sinon c'est juste que mes prompts sont pourris "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n\nSi quelqu'un peut m'aider ou me filer des conseils, ça m'aiderait.\n\nMerci"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "shrug",
+                "users": [
+                    "U02N2EVMFCG",
+                    "U06MHCCLQG3"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

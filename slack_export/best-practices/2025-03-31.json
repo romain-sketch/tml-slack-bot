@@ -1,0 +1,582 @@
+[
+    {
+        "user": "U067GNGDATD",
+        "type": "message",
+        "ts": "1743438132.893039",
+        "client_msg_id": "aaaac404-9fcc-42d1-9764-d4cf52a1d49a",
+        "text": "Hello <!here>!\nJe me demandais si au sein de votre budget Marketing vous portez l'ensemble de votre stack marketing? (CRM, Chatgpt, Outil de mailing, sondage, Hubspot Marketing, Make, Zapier, FullEnrich...? ou si cela est porté par votre département IT (et donc hors budget Marketing?)\nAvez-vous une règle clairement établie au sein de votre entreprise qui permet de déterminer qui porte tel ou tel outil dans son budget?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "gd73dcdb62f7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d73dcdb62f793ad670516a42032e3fa5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Diard",
+            "display_name": "Old Account \/ Do not use",
+            "team": "T017AGS2KE0",
+            "name": "adiard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743438132.893039",
+        "reply_count": 13,
+        "reply_users_count": 11,
+        "latest_reply": "1743491890.538469",
+        "reply_users": [
+            "U078PFP7A4B",
+            "U02N2EVMFCG",
+            "U016SBPG7K9",
+            "U084KTR7YKX",
+            "U0182J18ULQ",
+            "U0183AS3MB6",
+            "U063A8VPPG9",
+            "U01A4GMRRR9",
+            "U06MLNEGNKB",
+            "U069NSTHZ3Q",
+            "U067GNGDATD"
+        ],
+        "replies": [
+            {
+                "user": "U078PFP7A4B",
+                "ts": "1743438400.719439"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1743439368.082629"
+            },
+            {
+                "user": "U016SBPG7K9",
+                "ts": "1743440221.724669"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1743440271.723159"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1743440293.227519"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1743440313.880079"
+            },
+            {
+                "user": "U0182J18ULQ",
+                "ts": "1743440922.308179"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1743441427.388379"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1743442016.963179"
+            },
+            {
+                "user": "U01A4GMRRR9",
+                "ts": "1743443702.743979"
+            },
+            {
+                "user": "U06MLNEGNKB",
+                "ts": "1743451738.560839"
+            },
+            {
+                "user": "U069NSTHZ3Q",
+                "ts": "1743491607.803739"
+            },
+            {
+                "user": "U067GNGDATD",
+                "ts": "1743491890.538469"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1LHnn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!\nJe me demandais si au sein de votre budget Marketing vous portez l'ensemble de votre stack marketing? (CRM, Chatgpt, Outil de mailing, sondage, Hubspot Marketing, Make, Zapier, FullEnrich...? ou si cela est porté par votre département IT (et donc hors budget Marketing?)\nAvez-vous une règle clairement établie au sein de votre entreprise qui permet de déterminer qui porte tel ou tel outil dans son budget?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1743438400.719439",
+        "client_msg_id": "a9e71e34-d46f-4818-867d-656525507758",
+        "text": "De mon côté tous les outils marketing sont à 100% dans le budget Marketing.\nHormis ChatGPT, tout est côté marketing dans ta liste.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743438132.893039",
+        "parent_user_id": "U067GNGDATD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xhhmw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "De mon côté tous les outils marketing sont à 100% dans le budget Marketing.\nHormis ChatGPT, tout est côté marketing dans ta liste."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1743439368.082629",
+        "client_msg_id": "4c68c88f-7908-4773-bf01-d8006b592cc2",
+        "text": "Pareil",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743438132.893039",
+        "parent_user_id": "U067GNGDATD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hl+uJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pareil"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1743440221.724669",
+        "client_msg_id": "DC87E1FD-676A-45CE-B9A3-3D1600F10DF7",
+        "text": "Pareil",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743438132.893039",
+        "parent_user_id": "U067GNGDATD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F3oKd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pareil"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1743440271.723159",
+        "client_msg_id": "286cf4c0-c930-47a1-a96a-061ae3e1f543",
+        "text": "dans Marketing",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743438132.893039",
+        "parent_user_id": "U067GNGDATD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g8d6b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "dans Marketing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1743440293.227519",
+        "client_msg_id": "08bf7fee-5aae-4ae5-82d5-175fbd57029a",
+        "text": "après ça dépend de comment ton équipe Finance veut faire les calculs et le P&amp;L",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743438132.893039",
+        "parent_user_id": "U067GNGDATD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9XTJV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "après ça dépend de comment ton équipe Finance veut faire les calculs et le P&L"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1743440313.880079",
+        "client_msg_id": "2b54aa49-01e0-4b5b-b176-49ba52de4e21",
+        "text": "donc mon conseil voit avec eux aussi si règles internes :wink:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743438132.893039",
+        "parent_user_id": "U067GNGDATD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3LYWA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "donc mon conseil voit avec eux aussi si règles internes "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0182J18ULQ",
+        "type": "message",
+        "ts": "1743440922.308179",
+        "client_msg_id": "92D5F784-A0A8-407C-AA3F-AED256E710A4",
+        "text": "Idem, chez nous toute la stack est sur le budget marketing. ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "dfa7b4a4cf8b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-12\/5250900759925_dfa7b4a4cf8b424f822c_72.png",
+            "first_name": "Jean-Baptiste",
+            "real_name": "Jean-Baptiste Sciandra",
+            "display_name": "Jean-Baptiste Sciandra",
+            "team": "T017AGS2KE0",
+            "name": "jb.sciandra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743438132.893039",
+        "parent_user_id": "U067GNGDATD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uqVdI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Idem, chez nous toute la stack est sur le budget marketing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1743441427.388379",
+        "client_msg_id": "ae0bd232-8dfd-4344-951c-48920529d4cc",
+        "text": "Côté marketing également",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743438132.893039",
+        "parent_user_id": "U067GNGDATD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SRtXS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Côté marketing également"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1743442016.963179",
+        "client_msg_id": "7896921F-32F6-4624-8C6F-2FDF2D49E128",
+        "text": "Côté marketing aussi ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743438132.893039",
+        "parent_user_id": "U067GNGDATD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "juc3a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Côté marketing aussi "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1743443702.743979",
+        "client_msg_id": "4DB77AFE-7C78-4239-872C-AA1B4E719902",
+        "text": "On a tout passé côté IT il y a 1 an, ça évite les débats entre sales \/ SDR \/ marketing \/… ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743438132.893039",
+        "parent_user_id": "U067GNGDATD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VExbE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On a tout passé côté IT il y a 1 an, ça évite les débats entre sales \/ SDR \/ marketing \/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "…"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06MLNEGNKB",
+        "type": "message",
+        "ts": "1743451738.560839",
+        "client_msg_id": "14af4cd3-07ee-451a-8d7d-1040fdd09403",
+        "text": "C'est dans le budget Revenue (budget marketing et commercial) dans lequel j'ai une colonne qui impute les dépenses au bon département sales\/market\/CSM, ici en l'occurrence sales. Je pilote le budget Revenue car je pilote le CAC. Je fais les forecast mais quand je négocie avec le CFO, je prends juste les lignes marketing, ça aide. J'estime que la négo des dépenses sales supplémentaires c'est entre le CFO et le Head of Sales.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9484de19a0b4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-25\/7476258473346_9484de19a0b48472edf8_72.jpg",
+            "first_name": "Priscilla",
+            "real_name": "Priscilla (Memo Bank)",
+            "display_name": "Priscilla (Memo Bank)",
+            "team": "T017AGS2KE0",
+            "name": "priscilla.cavrois",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743438132.893039",
+        "parent_user_id": "U067GNGDATD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zkyqE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est dans le budget Revenue (budget marketing et commercial) dans lequel j'ai une colonne qui impute les dépenses au bon département sales\/market\/CSM, ici en l'occurrence sales. Je pilote le budget Revenue car je pilote le CAC. Je fais les forecast mais quand je négocie avec le CFO, je prends juste les lignes marketing, ça aide. J'estime que la négo des dépenses sales supplémentaires c'est entre le CFO et le Head of Sales."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

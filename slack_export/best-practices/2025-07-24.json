@@ -1,0 +1,67 @@
+[
+    {
+        "user": "U065DFPCQMP",
+        "type": "message",
+        "ts": "1753375820.622579",
+        "client_msg_id": "2e46dca5-a45b-47f3-854c-234c04c8025f",
+        "text": "J'ai vu celle ci tourner : <https:\/\/www.deel.com\/careers\/position\/?ashby_jid=451cf9e1-b069-46ea-8e87-fc83b5e8ece2> (déso pas d'intelligence humaine, à part un peu de mémoire)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50040e0261e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-15\/6198553206674_50040e0261e7ba62e840_72.jpg",
+            "first_name": "Gaelle",
+            "real_name": "Gaelle Le Goff",
+            "display_name": "Gaelle Le Goff",
+            "team": "T017AGS2KE0",
+            "name": "gaelle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1753254153.813679",
+        "parent_user_id": "U063A8VPPG9",
+        "attachments": [
+            {
+                "image_url": "https:\/\/deel-website-media-prod.s3.amazonaws.com\/General_Purple_f6b2f3f9bd.png",
+                "image_width": 2400,
+                "image_height": 1260,
+                "image_bytes": 135383,
+                "from_url": "https:\/\/www.deel.com\/careers\/position\/?ashby_jid=451cf9e1-b069-46ea-8e87-fc83b5e8ece2",
+                "service_icon": "https:\/\/www.deel.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.deel.com\/careers\/position\/?ashby_jid=451cf9e1-b069-46ea-8e87-fc83b5e8ece2",
+                "fallback": "Career Opportunitity at Deel | Join Our Team",
+                "text": "Open position and apply to join Deel",
+                "title": "Career Opportunitity at Deel | Join Our Team",
+                "title_link": "https:\/\/www.deel.com\/careers\/position\/?ashby_jid=451cf9e1-b069-46ea-8e87-fc83b5e8ece2",
+                "service_name": "deel.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1q\/cj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai vu celle ci tourner : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.deel.com\/careers\/position\/?ashby_jid=451cf9e1-b069-46ea-8e87-fc83b5e8ece2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (déso pas d'intelligence humaine, à part un peu de mémoire)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

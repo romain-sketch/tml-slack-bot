@@ -1,0 +1,781 @@
+[
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1742401724.379229",
+        "client_msg_id": "4959dc8e-286d-45f3-b0f4-1ff2d88f147a",
+        "text": "hello gang, je cherche des bonnes pratiques de sites qui poussent en CTA Prioritaire le contact us et qui ont en CTA secondaires: watch the weekly demo AND take a tour (guided demo)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742401724.379229",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1742450704.262179",
+        "reply_users": [
+            "U01A4GMRRR9",
+            "U016SBPG7K9"
+        ],
+        "replies": [
+            {
+                "user": "U01A4GMRRR9",
+                "ts": "1742405669.357829"
+            },
+            {
+                "user": "U016SBPG7K9",
+                "ts": "1742450704.262179"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Iw2HU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello gang, je cherche des bonnes pratiques de sites qui poussent en CTA Prioritaire le contact us et qui ont en CTA secondaires: watch the weekly demo AND take a tour (guided demo)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1742401738.718379",
+        "client_msg_id": "87a2dea7-d7c2-4034-bbf4-211a3e192c55",
+        "text": "je vais aussi faire la weekly demo soon et je m'interroge sur où et comment le hoster",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742401738.718379",
+        "reply_count": 12,
+        "reply_users_count": 5,
+        "latest_reply": "1742460408.574239",
+        "reply_users": [
+            "U016SBPG7K9",
+            "U04A6JMRWCS",
+            "U0183AS3MB6",
+            "U06CZESF7QF",
+            "U07MNBM4WLV"
+        ],
+        "replies": [
+            {
+                "user": "U016SBPG7K9",
+                "ts": "1742402581.244619"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1742403265.790909"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1742403273.678919"
+            },
+            {
+                "user": "U016SBPG7K9",
+                "ts": "1742403662.314899"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1742403697.693409"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1742403730.624799"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1742404360.319929"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1742406902.190719"
+            },
+            {
+                "user": "U07MNBM4WLV",
+                "ts": "1742407337.188279"
+            },
+            {
+                "user": "U016SBPG7K9",
+                "ts": "1742450313.468129"
+            },
+            {
+                "user": "U07MNBM4WLV",
+                "ts": "1742459708.721179"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1742460408.574239"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oQUD3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je vais aussi faire la weekly demo soon et je m'interroge sur où et comment le hoster"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1742402581.244619",
+        "client_msg_id": "1A1A319E-C50C-4082-A449-546D5449A1B8",
+        "text": "Livestorm of course",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742401738.718379",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rSwKB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Livestorm of course"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1742403265.790909",
+        "client_msg_id": "c2f8b7ec-336f-4206-a827-4e5e3f949ad2",
+        "text": "ooopsy",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742401738.718379",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Csxcc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ooopsy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1742403273.678919",
+        "client_msg_id": "ea2c0203-61c9-4c2e-ab0b-824d3c871e0b",
+        "text": "je te vois pas répondre à ma question",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742401738.718379",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rp0fI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je te vois pas répondre à ma question"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1742403662.314899",
+        "client_msg_id": "7840B0EE-BAD0-495A-B3FF-69F9A09A0056",
+        "text": "J'ai pas d'exemple sur ce que tu cherches précisément mais tu peux checker notre form de démo qui permet de faire une demande démo 1:1 (qu'on autorise ou non en fonction de la qualif) ou regarder une vidéo présentation produit tout de suite plutôt)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742401738.718379",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nSYW\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai pas d'exemple sur ce que tu cherches précisément mais tu peux checker notre form de démo qui permet de faire une demande démo 1:1 (qu'on autorise ou non en fonction de la qualif) ou regarder une vidéo présentation produit tout de suite plutôt)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1742403697.693409",
+        "client_msg_id": "8740e700-f959-42ef-a3fc-98c3e15768be",
+        "text": "ah c'est cool ca",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742401738.718379",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lyTq4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ah c'est cool ca"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1742403730.624799",
+        "client_msg_id": "099471ab-3944-4d8a-a36e-eb24706d2d06",
+        "text": "très beau ton site web, bravo",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742401738.718379",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yNvLK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "très beau ton site web, bravo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U016SBPG7K9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "Un truc que j’avais pris de Lattice c’était ça. Quand tu demandes le télchargement d’un contenu, l’accès à un webinar, etc ils te mettent une option “demande de démo”. Très smart.\n\nça répond pas 100% à ta question mais ça peut te donner une idée",
+        "files": [
+            {
+                "id": "F08JE064BS9",
+                "created": 1742404317,
+                "timestamp": 1742404317,
+                "name": "CleanShot 2025-03-19 at 18.11.44.jpg",
+                "title": "CleanShot 2025-03-19 at 18.11.44.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U0183AS3MB6",
+                "user_team": "T017AGS2KE0",
+                "editable": false,
+                "size": 87492,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F08JE064BS9\/cleanshot_2025-03-19_at_18.11.44.jpg?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F08JE064BS9\/download\/cleanshot_2025-03-19_at_18.11.44.jpg?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08JE064BS9-f2a526b8f8\/cleanshot_2025-03-19_at_18.11.44_64.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08JE064BS9-f2a526b8f8\/cleanshot_2025-03-19_at_18.11.44_80.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08JE064BS9-f2a526b8f8\/cleanshot_2025-03-19_at_18.11.44_360.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360_w": 176,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08JE064BS9-f2a526b8f8\/cleanshot_2025-03-19_at_18.11.44_480.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_480_w": 234,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08JE064BS9-f2a526b8f8\/cleanshot_2025-03-19_at_18.11.44_160.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08JE064BS9-f2a526b8f8\/cleanshot_2025-03-19_at_18.11.44_720.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720_w": 351,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08JE064BS9-f2a526b8f8\/cleanshot_2025-03-19_at_18.11.44_800.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_800_w": 390,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08JE064BS9-f2a526b8f8\/cleanshot_2025-03-19_at_18.11.44_960.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_960_w": 468,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08JE064BS9-f2a526b8f8\/cleanshot_2025-03-19_at_18.11.44_1024.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_1024_w": 499,
+                "thumb_1024_h": 1024,
+                "original_w": 555,
+                "original_h": 1138,
+                "thumb_tiny": "AwAwABe9EP3KYA6elO\/AflSRD9ynHapKbAhuAPIPAzxVKr1z\/qW\/CqVVHYpF6P8A1S9OnenscL70xR8gpfzqCRtx\/qT+FUquT\/6o1Uq47DRdUgIASB9aXeo7j86Ro0ZQHAOPWm+TFj7q1OghjszQsWAHPY5qvVxol8somFzUX2Zv7wqotID\/2Q==",
+                "permalink": "https:\/\/techmarketingleaders.slack.com\/files\/U017U6M2G00\/F08JE064BS9\/cleanshot_2025-03-19_at_18.11.44.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F08JE064BS9-f19b01f4c9",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U0183AS3MB6",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u5hEM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un truc que j’avais pris de Lattice c’était ça. Quand tu demandes le télchargement d’un contenu, l’accès à un webinar, etc ils te mettent une option “demande de démo”. Très smart.\n\nça répond pas 100% à ta question mais ça peut te donner une idée"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1742404360.319929",
+        "client_msg_id": "b9a73c1a-da41-4736-9d30-3b3462f0c8dd",
+        "thread_ts": "1742401738.718379",
+        "parent_user_id": "U04A6JMRWCS",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U016SBPG7K9",
+                    "U04A6JMRWCS",
+                    "U017RAZCAGZ",
+                    "U08554C4R7C"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1742405669.357829",
+        "client_msg_id": "b57b2778-231c-4f10-b00b-ec96ede0bc4a",
+        "text": "le site Contentsquare a cette problématique de multiplie CTA : Watch a quick tour, Demo, Start for Free.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742401724.379229",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TlHpd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "le site Contentsquare a cette problématique de multiplie CTA : Watch a quick tour, Demo, Start for Free."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04A6JMRWCS",
+                    "U03QPMQA31V"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1742406902.190719",
+        "client_msg_id": "1e07dcd2-07ff-4b9d-a791-a75f3e7d7c14",
+        "text": "De mémoire Lemlist propose des “group demo” quand ils ont des demandes de contact non qualifié. Tu confirmes <@U07MNBM4WLV>?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742401738.718379",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MDNSh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "De mémoire Lemlist propose des “group demo” quand ils ont des demandes de contact non qualifié. Tu confirmes "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07MNBM4WLV"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07MNBM4WLV",
+        "type": "message",
+        "ts": "1742407337.188279",
+        "edited": {
+            "user": "U07MNBM4WLV",
+            "ts": "1742407369.000000"
+        },
+        "client_msg_id": "37980064-cbf8-4146-87bc-33a69d7ce73c",
+        "text": "yep je confirme - on a changé de tool donc je vais confirmer avec les ops",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "028ce63b55be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7733128030774_028ce63b55be29945d4f_72.jpg",
+            "first_name": "Domitille",
+            "real_name": "Domitille de Saint-Exupéry",
+            "display_name": "Domitille de Saint-Exupéry (lemlist)",
+            "team": "T017AGS2KE0",
+            "name": "domitille433",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742401738.718379",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+BVlj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yep je confirme - on a changé de tool donc je vais confirmer avec les ops"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1742450313.468129",
+        "client_msg_id": "e804d854-546a-4cfb-bd77-1bd3ffe5648d",
+        "text": "Je reviens là dessus pour développer un peu ma réponse. Si tu as 3 tiers d'ICP, tu peux utiliser les infos remplies dans ton form de demo request pour décider de l'action à mener:\ntier 1 = 1:1 demo (assignée au bon sales avec instant booking via Default, Chili Piper, Revenue Hero)\ntier 2 = group demo webinar (weekly\/biweekly en fonction du volume et de l'importance de ce segment)\ntier 3 = on-demand ou juste public replay\n\nTu peux aussi grouper tier 2 et 3 dans la meme experience pour commencer et faire simple. Si GitGuardian ne sont pas concurrents, tu peux demander conseil à <https:\/\/www.linkedin.com\/in\/orian-roturier\/|Orian>, ça marche bien chez eux visiblement",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742401738.718379",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MxwE8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je reviens là dessus pour développer un peu ma réponse. Si tu as 3 tiers d'ICP, tu peux utiliser les infos remplies dans ton form de demo request pour décider de l'action à mener:\ntier 1 = 1:1 demo (assignée au bon sales avec instant booking via Default, Chili Piper, Revenue Hero)\ntier 2 = group demo webinar (weekly\/biweekly en fonction du volume et de l'importance de ce segment)\ntier 3 = on-demand ou juste public replay\n\nTu peux aussi grouper tier 2 et 3 dans la meme experience pour commencer et faire simple. Si GitGuardian ne sont pas concurrents, tu peux demander conseil à "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/orian-roturier\/",
+                                "text": "Orian"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", ça marche bien chez eux visiblement"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U08554C4R7C"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U06DYTRDLUD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1742450704.262179",
+        "client_msg_id": "a794517a-8e99-4101-b6c0-c8b39ab341fb",
+        "text": "Quelques exemples qui font ce que tu demandes ou presque <@U04A6JMRWCS>\n\n<https:\/\/www.mutinyhq.com\/>\n<https:\/\/www.chameleon.io\/>\n<https:\/\/www.arcade.software\/>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742401724.379229",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rU8MR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Quelques exemples qui font ce que tu demandes ou presque "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04A6JMRWCS"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.mutinyhq.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.chameleon.io\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.arcade.software\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

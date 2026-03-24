@@ -1,0 +1,138 @@
+[
+    {
+        "user": "U07D08K3U0K",
+        "type": "message",
+        "ts": "1738580397.039929",
+        "client_msg_id": "ba8b8236-341c-4618-bbee-e8adcd937a7a",
+        "text": "*Retour d’expérience - Implantation aux USA*\n\nHello à tous,\nNous réfléchissons actuellement à une stratégie d’implantation aux États-Unis et j’aimerais recueillir vos retours d’expérience sur le sujet. Si vous avez déjà mené un projet similaire ou si vous connaissez des ressources externes, experts ou témoignages qui pourraient nous être utiles, je suis preneuse !\nQue ce soit sur les aspects réglementaires, business development, partenariats ou encore la structuration d’équipe, tout partage sera précieux. Merci d’avance pour vos insights :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "ee04aae8ef81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-02\/7689117269088_ee04aae8ef81d255cd1f_72.png",
+            "first_name": "Tiphanie",
+            "real_name": "Tiphanie Meyer",
+            "display_name": "Tiphanie",
+            "team": "T017AGS2KE0",
+            "name": "tiphanie.meyer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738580397.039929",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1738677397.233449",
+        "reply_users": [
+            "U03P99RGMTN"
+        ],
+        "replies": [
+            {
+                "user": "U03P99RGMTN",
+                "ts": "1738677397.233449"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/nrl\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Retour d’expérience - Implantation aux USA",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nHello à tous,\nNous réfléchissons actuellement à une stratégie d’implantation aux États-Unis et j’aimerais recueillir vos retours d’expérience sur le sujet. Si vous avez déjà mené un projet similaire ou si vous connaissez des ressources externes, experts ou témoignages qui pourraient nous être utiles, je suis preneuse !\nQue ce soit sur les aspects réglementaires, business development, partenariats ou encore la structuration d’équipe, tout partage sera précieux. Merci d’avance pour vos insights "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U03P99RGMTN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1738599917.618319",
+        "client_msg_id": "1e4aaf69-a745-4279-81ae-a01f4f25d726",
+        "text": "Hey la team, qui aurait des exemples de supers UGCs qui claquent?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738599917.618319",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1738659032.386299",
+        "reply_users": [
+            "U0183AS3MB6",
+            "U04A6JMRWCS"
+        ],
+        "replies": [
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1738658796.276799"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1738658806.832169"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1738659032.386299"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5XsZz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey la team, qui aurait des exemples de supers UGCs qui claquent?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

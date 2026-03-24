@@ -1,0 +1,150 @@
+[
+    {
+        "user": "U0946E8A2US",
+        "type": "message",
+        "ts": "1770132759.679519",
+        "client_msg_id": "e9124ad5-a5bc-4690-979b-52481276be45",
+        "text": "Hello ! Oui pour vibe coder ça vu l'usage d'API externes et la complexité c'est Claude ou Cursor\n\nFranchement très cool comme projet mais ça va être impossible pour moi vu le congé pat qui arrive et tout ce qui s'ensuit :sweat_smile:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "f73f6d38e4eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-07-23\/9238905089862_f73f6d38e4eb792c8c6a_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult",
+            "team": "T017AGS2KE0",
+            "name": "thibaut.davoult",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770132759.679519",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1770151236.350419",
+        "reply_users": [
+            "U0177A5V42F",
+            "U065DFPCQMP"
+        ],
+        "replies": [
+            {
+                "user": "U0177A5V42F",
+                "ts": "1770132910.176049"
+            },
+            {
+                "user": "U065DFPCQMP",
+                "ts": "1770151236.350419"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XF4yY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello ! Oui pour vibe coder ça vu l'usage d'API externes et la complexité c'est Claude ou Cursor\n\nFranchement très cool comme projet mais ça va être impossible pour moi vu le congé pat qui arrive et tout ce qui s'ensuit "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0177A5V42F",
+        "type": "message",
+        "ts": "1770132910.176049",
+        "client_msg_id": "cdb38176-aa0d-48d1-95df-4608b7c12bb8",
+        "text": "Quelle belle nouvelle !! Félicitations. Du coup on te revoit frais et dispo dans quelques semaines :smile:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ebca9b04129",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-17\/1245815650949_7ebca9b041296679a81d_72.jpg",
+            "first_name": "Guillaume",
+            "real_name": "Guillaume Laguette",
+            "display_name": "Guillaume Laguette (echOpen)",
+            "team": "T017AGS2KE0",
+            "name": "laguette.guillaume",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770132759.679519",
+        "parent_user_id": "U0946E8A2US",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1P+AW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Quelle belle nouvelle !! Félicitations. Du coup on te revoit frais et dispo dans quelques semaines "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U065DFPCQMP",
+        "type": "message",
+        "ts": "1770151236.350419",
+        "client_msg_id": "9AA33D1D-C7F6-4FCC-BFEB-72ACA1821260",
+        "text": "Aaaawwww félicitations Thibaut! L’occasion pour moi de basculer sur les autres outils !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50040e0261e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-15\/6198553206674_50040e0261e7ba62e840_72.jpg",
+            "first_name": "Gaelle",
+            "real_name": "Gaelle Le Goff",
+            "display_name": "Gaelle Le Goff",
+            "team": "T017AGS2KE0",
+            "name": "gaelle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770132759.679519",
+        "parent_user_id": "U0946E8A2US",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0bdV5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Aaaawwww félicitations Thibaut! L’occasion pour moi de basculer sur les autres outils !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "user": "U01T6U402V8",
+        "type": "message",
+        "ts": "1736541966.250349",
+        "client_msg_id": "880d59eb-eeee-4596-b185-ed4c5bf63a27",
+        "text": "<@U06U1GG592M> Desolee de ce delai et mon silence! Gros delivery event Retail ce WE a NY et je suis dans un tunnel jusqu’au 13 Janvier.\n<@U063A8VPPG9> <@U06U1GG592M> quelles sont vos dispo a partir du 16 janvier pls?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "1a396483c2d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-13\/1958483219154_1a396483c2d9cd7cccd3_72.jpg",
+            "first_name": "Simone",
+            "real_name": "Simone Sfeir (FrenchFounders)",
+            "display_name": "Simone Sfeir",
+            "team": "T017AGS2KE0",
+            "name": "simone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1733246670.981899",
+        "parent_user_id": "U06U1GG592M",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HluPN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06U1GG592M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Desolee de ce delai et mon silence! Gros delivery event Retail ce WE a NY et je suis dans un tunnel jusqu’au 13 Janvier.\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U063A8VPPG9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06U1GG592M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " quelles sont vos dispo a partir du 16 janvier pls?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1736579400.046349",
+        "edited": {
+            "user": "U063A8VPPG9",
+            "ts": "1736579439.000000"
+        },
+        "client_msg_id": "0bd07907-655d-4d29-97c6-04ab16455d2e",
+        "text": "Hello trop cool !!!\n• 16 janvier 17h30\n• 17 janvier entre 15h30 et 17h30\n• Lundi 20 janvier entre 15h et 17h \ny a un creneau possible pour toi <@U06U1GG592M>?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1733246670.981899",
+        "parent_user_id": "U06U1GG592M",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kVR4W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello trop cool !!!\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "16 janvier 17h30"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "17 janvier entre 15h30 et 17h30"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Lundi 20 janvier entre 15h et 17h "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "y a un creneau possible pour toi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06U1GG592M"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

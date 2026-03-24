@@ -1,0 +1,346 @@
+[
+    {
+        "user": "U067GNGDATD",
+        "type": "message",
+        "ts": "1739520693.048559",
+        "edited": {
+            "user": "U067GNGDATD",
+            "ts": "1739520778.000000"
+        },
+        "client_msg_id": "7684d9f6-de32-4d6b-9833-5ba5216ef070",
+        "text": "Merci <@U01A4GMRRR9> pour ces infos.\nQuestions complémentaires:\n1. Si j'ai bien compris il serait donc possible d'obtenir un  volume de BSA \"gratuit\", car je pensais qu'il fallait systématiquement verser de l'argent pour obtenir des BSA. (on achète des actions BSA)\n2. Est-ce que tu te fais rémunérer en plus des BSA? Si oui quel montant? à l'heure?\n3. Que contient ta\/tes formules d'advisory?(des calls de 1h chaque semaine? un canal slack 24h\/24?...)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "gd73dcdb62f7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d73dcdb62f793ad670516a42032e3fa5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Diard",
+            "display_name": "Old Account \/ Do not use",
+            "team": "T017AGS2KE0",
+            "name": "adiard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679916418.064819",
+        "parent_user_id": "U0468UYMUUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U1Cvb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01A4GMRRR9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour ces infos.\nQuestions complémentaires:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Si j'ai bien compris il serait donc possible d'obtenir un  volume de BSA \"gratuit\", car je pensais qu'il fallait systématiquement verser de l'argent pour obtenir des BSA. (on achète des actions BSA)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Est-ce que tu te fais rémunérer en plus des BSA? Si oui quel montant? à l'heure?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Que contient ta\/tes formules d'advisory?(des calls de 1h chaque semaine? un canal slack 24h\/24?...)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1739525837.766019",
+        "client_msg_id": "e6cffb5f-cd2e-4156-9fa6-ef426f9a7998",
+        "text": "<@U067GNGDATD> on doit souvent quand meme payer un % (a negocier) pour pouvoir avoir nos BSA, ils ne peuvent pas etre gratuit sinon c'est requalifié en travail dissimulé. Tu dois avoir 2 contrats différents: un pour le cash, et un pour les BSA.\n<@U01A4GMRRR9> je suis hyper interessée pour voir comment tu as evoluer le volume de BSA :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679916418.064819",
+        "parent_user_id": "U0468UYMUUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YQJoc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U067GNGDATD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on doit souvent quand meme payer un % (a negocier) pour pouvoir avoir nos BSA, ils ne peuvent pas etre gratuit sinon c'est requalifié en travail dissimulé. Tu dois avoir 2 contrats différents: un pour le cash, et un pour les BSA.\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01A4GMRRR9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je suis hyper interessée pour voir comment tu as evoluer le volume de BSA "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01A4GMRRR9",
+                    "U067GNGDATD"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U03QPMQA31V",
+        "type": "message",
+        "ts": "1739530423.192069",
+        "client_msg_id": "5EB30091-2176-44E7-BAC4-485F5DEE925C",
+        "text": "Super intéressant \nMerci à tous \n\nEn effet pr ma part je bute, comme tu dis GeoffreyX sur un manque de maturité et un problème de connaissance (de mon côté comme de celui du founder :sweat_smile: ) presque envie de demander l’accompagnement d’un avocat pr structurer et standardiser le tout !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "920d362f50c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-26\/3858025441956_920d362f50c400fcafe0_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu Pouget-Abadie",
+            "display_name": "Matthieu PA (Orisha)",
+            "team": "T017AGS2KE0",
+            "name": "mpougetabadie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679916418.064819",
+        "parent_user_id": "U0468UYMUUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ROSw2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Super intéressant \nMerci à tous \n\nEn effet pr ma part je bute, comme tu dis GeoffreyX sur un manque de maturité et un problème de connaissance (de mon côté comme de celui du founder "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ) presque envie de demander "
+                            },
+                            {
+                                "type": "text",
+                                "text": "l’accompagnement"
+                            },
+                            {
+                                "type": "text",
+                                "text": " d’un avocat pr structurer et standardiser le tout !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1739542912.947559",
+        "client_msg_id": "b5d4859d-5985-4c3e-b86b-c644ab99ccd0",
+        "text": "Figures propose un modèle sommaire de % contre temps passé <https:\/\/docs.google.com\/spreadsheets\/d\/1ztgsQ7WIPFG4_uP3rHRUR-V-CFtB6rS2lsF3uOgDCsA\/edit?gid=0#gid=0>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679916418.064819",
+        "parent_user_id": "U0468UYMUUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hC6iV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Figures propose un modèle sommaire de % contre temps passé "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1ztgsQ7WIPFG4_uP3rHRUR-V-CFtB6rS2lsF3uOgDCsA\/edit?gid=0#gid=0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U067GNGDATD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1739542974.690579",
+        "client_msg_id": "9745331c-04e2-487b-ac50-f44206a5e354",
+        "text": "canon ca, merci",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679916418.064819",
+        "parent_user_id": "U0468UYMUUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RZviz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "canon ca, merci"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03QPMQA31V",
+        "type": "message",
+        "ts": "1739544288.756059",
+        "client_msg_id": "D5F2A66A-E266-4B43-A0D4-0AA81B85CA72",
+        "text": "Génial merci !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "920d362f50c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-26\/3858025441956_920d362f50c400fcafe0_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu Pouget-Abadie",
+            "display_name": "Matthieu PA (Orisha)",
+            "team": "T017AGS2KE0",
+            "name": "mpougetabadie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679916418.064819",
+        "parent_user_id": "U0468UYMUUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P\/Cr4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Génial merci !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

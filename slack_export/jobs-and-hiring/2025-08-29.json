@@ -1,0 +1,90 @@
+[
+    {
+        "user": "U017RAZCAGZ",
+        "type": "message",
+        "ts": "1756471401.495989",
+        "client_msg_id": "cdb74859-bf31-4052-b511-96104d18c921",
+        "text": "Bonjour, je recherche pour Phenix un <https:\/\/www.welcometothejungle.com\/fr\/companies\/phenix-1\/jobs\/outbound-marketing-manager_paris_PHENI_bQzprjb|Outbound Marketing Manager> basé à Paris, 3 ans d'exp environ. Preneuse de vos recos !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2e6e61c8f204",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-20\/1251040887619_2e6e61c8f20434050630_72.jpg",
+            "first_name": "Hélène",
+            "real_name": "Hélène Draoulec (Phenix)",
+            "display_name": "Hélène Draoulec (Phenix)",
+            "team": "T017AGS2KE0",
+            "name": "hdraoulec",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756471401.495989",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1756903023.117309",
+        "reply_users": [
+            "U08PLD4KPS8",
+            "U017RAZCAGZ"
+        ],
+        "replies": [
+            {
+                "user": "U08PLD4KPS8",
+                "ts": "1756733099.992189"
+            },
+            {
+                "user": "U017RAZCAGZ",
+                "ts": "1756733571.781669"
+            },
+            {
+                "user": "U08PLD4KPS8",
+                "ts": "1756903023.117309"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "image_url": "https:\/\/cdn-images.welcometothejungle.com\/hp_zW-c_bt0o-zm004HgH8YNiHv_apPgbvyn9hmQfBo\/rs:auto:1200:627:\/q:85\/czM6Ly93dHRqLXByb2R1Y3Rpb24vdXBsb2Fkcy93ZWJzaXRlX29yZ2FuaXphdGlvbi9jb3Zlcl9pbWFnZS93dHRqX2ZyL2ZyLThjMDFiYmRhLWY5YzktNDNlOS1iNGEwLTIwNTAyMmU1ZTA2MC5qcGc",
+                "image_width": 1200,
+                "image_height": 627,
+                "image_bytes": 176454,
+                "from_url": "https:\/\/www.welcometothejungle.com\/fr\/companies\/phenix-1\/jobs\/outbound-marketing-manager_paris_PHENI_bQzprjb",
+                "service_icon": "https:\/\/cdn.welcometothejungle.com\/wttj-front\/production\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.welcometothejungle.com\/fr\/companies\/phenix-1\/jobs\/outbound-marketing-manager_paris_PHENI_bQzprjb",
+                "fallback": "Outbound Marketing Manager - Phenix - CDI à Paris",
+                "text": "Phenix recrute un(e) Outbound Marketing Manager à Paris !",
+                "title": "Outbound Marketing Manager - Phenix - CDI à Paris",
+                "title_link": "https:\/\/www.welcometothejungle.com\/fr\/companies\/phenix-1\/jobs\/outbound-marketing-manager_paris_PHENI_bQzprjb",
+                "service_name": "welcometothejungle.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "evw8q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour, je recherche pour Phenix un "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.welcometothejungle.com\/fr\/companies\/phenix-1\/jobs\/outbound-marketing-manager_paris_PHENI_bQzprjb",
+                                "text": "Outbound Marketing Manager"
+                            },
+                            {
+                                "type": "text",
+                                "text": " basé à Paris, 3 ans d'exp environ. Preneuse de vos recos !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

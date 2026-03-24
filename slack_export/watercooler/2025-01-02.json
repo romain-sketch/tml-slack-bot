@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U07R7CUFM7H",
+        "type": "message",
+        "ts": "1735809752.357159",
+        "client_msg_id": "61243e14-944a-4d94-8076-7c35121fa3d9",
+        "text": "Hello, j'ai demandé ils ont trouvé. Merci",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "1eabd032cd82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-05\/8152020385456_1eabd032cd826d3f64b3_72.jpg",
+            "first_name": "Mayeul",
+            "real_name": "Mayeul",
+            "display_name": "Mayeul (Mangopay)",
+            "team": "T017AGS2KE0",
+            "name": "mayeul.wattecamps",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1733926384.515179",
+        "parent_user_id": "U06GYUPMCR5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vu\/ob",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, j'ai demandé ils ont trouvé. Merci"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U06GYUPMCR5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

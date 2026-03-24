@@ -1,0 +1,228 @@
+[
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1737990643.703649",
+        "client_msg_id": "491619c1-961e-4916-bc98-aea54d0ecd21",
+        "text": "<@U078PFP7A4B> peut etre on devrait le mettre dans <#C016XK83LAJ|general> no?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737552693.372899",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XEs8f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U078PFP7A4B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " peut etre on devrait le mettre dans "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C016XK83LAJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " no?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Chouette feed-back :heart:  \nSi vous en recevez en perso, n’hésitez pas à leur demander une review Amazon ou Fnac :writing_hand:  ",
+        "files": [
+            {
+                "id": "F08A9C3J3RC",
+                "created": 1737994946,
+                "timestamp": 1737994946,
+                "name": "IMG_8855.jpg",
+                "title": "IMG_8855",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U02N2EVMFCG",
+                "user_team": "T017AGS2KE0",
+                "editable": false,
+                "size": 50495,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F08A9C3J3RC\/img_8855.jpg?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F08A9C3J3RC\/download\/img_8855.jpg?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08A9C3J3RC-24bd17a607\/img_8855_64.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08A9C3J3RC-24bd17a607\/img_8855_80.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08A9C3J3RC-24bd17a607\/img_8855_360.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360_w": 360,
+                "thumb_360_h": 202,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08A9C3J3RC-24bd17a607\/img_8855_480.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08A9C3J3RC-24bd17a607\/img_8855_160.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08A9C3J3RC-24bd17a607\/img_8855_720.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08A9C3J3RC-24bd17a607\/img_8855_800.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08A9C3J3RC-24bd17a607\/img_8855_960.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08A9C3J3RC-24bd17a607\/img_8855_1024.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 576,
+                "original_w": 1170,
+                "original_h": 658,
+                "thumb_tiny": "AwAaADClkY6UhI7DFKMY6E0cehoASil4\/umkwfQ0AFFGD6UYoAevQcH8jR+f5GmUUAP\/AD\/I0oBwSAeBk8Go6M0AOJGODimk+5NFFAH\/2Q==",
+                "permalink": "https:\/\/techmarketingleaders.slack.com\/files\/U017U6M2G00\/F08A9C3J3RC\/img_8855.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F08A9C3J3RC-33ef297751",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U02N2EVMFCG",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s6QZh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Chouette feed-back "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart",
+                                "unicode": "2764-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  \nSi vous en recevez en perso, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "n’hésitez"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pas à leur demander une review Amazon ou Fnac "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "writing_hand",
+                                "unicode": "270d-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1737994979.451659",
+        "client_msg_id": "7932E003-4560-4EB1-9FAE-65B92AC06750",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U04SM1RGPJB",
+                    "U017H09S857",
+                    "U063A8VPPG9",
+                    "U078PFP7A4B",
+                    "U017CURDPB5",
+                    "U03P99RGMTN",
+                    "U06MLNEGNKB",
+                    "U020QK16RMJ"
+                ],
+                "count": 8
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U01A4GMRRR9",
+                    "U06MLNEGNKB",
+                    "U07R7CUFM7H",
+                    "U05H3SJKYFQ"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1737999335.615019",
+        "client_msg_id": "b1d55f95-df72-45d4-9ba0-df1f896784cc",
+        "text": "Ah oui effectivement, bonne idée !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737552693.372899",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oROH3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah oui effectivement, bonne idée !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

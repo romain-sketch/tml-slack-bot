@@ -1,0 +1,184 @@
+[
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1738312793.177779",
+        "client_msg_id": "e7bf7f98-4abd-4b41-acd4-e796b7cc066b",
+        "text": "Si c’est juste de l’enrichissement de base existante j’avoue que c’est un peu overkill… je te recommande de tester <https:\/\/enrow.io\/|Enrow>, <https:\/\/datagma.com\/|Datagma> ou <https:\/\/www.pharow.com\/|Pharow>. En revanche vu ton use case ça risque de pas avoir de supers résultats non plus (mais clay ne peut pas te sauver sur le sujet malheureusement).\n\nConcernant tes questions :\n• on l’utilise pour tous les pays (on a des clients qui ont des marchés très différents)\n• selon les use case on l’utilise en stand alone ou intégré aux outils",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738222310.432709",
+        "parent_user_id": "U086LFGGVUG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3En\/V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si c’est juste de l’enrichissement de base existante j’avoue que c’est un peu overkill… je te recommande de tester "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/enrow.io\/",
+                                "text": "Enrow"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/datagma.com\/",
+                                "text": "Datagma"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ou "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.pharow.com\/",
+                                "text": "Pharow"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". En revanche vu ton use case ça risque de pas avoir de supers résultats non plus (mais clay ne peut pas te sauver sur le sujet malheureusement).\n\nConcernant tes questions :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "on l’utilise pour tous les pays (on a des clients qui ont des marchés très différents)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "selon les use case on l’utilise en stand alone ou intégré aux outils"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U086LFGGVUG",
+        "type": "message",
+        "ts": "1738314168.403279",
+        "client_msg_id": "3482c0ef-16b8-4e2f-8985-12595c3f3aca",
+        "text": "Merci beaucoup Jordan ! et donc votre use case c'est pour des campagnes outbound principalement?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "8037084d031e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-01-03\/8241041927621_8037084d031e372f4d94_72.jpg",
+            "first_name": "Laura",
+            "real_name": "Laura Silva",
+            "display_name": "Laura Silva",
+            "team": "T017AGS2KE0",
+            "name": "laura.silva",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738222310.432709",
+        "parent_user_id": "U086LFGGVUG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nbSbh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci beaucoup Jordan ! et donc votre use case c'est pour des campagnes outbound principalement?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1738317922.612509",
+        "client_msg_id": "de6f90fb-4b22-45f6-91ac-b7c89ce0e4f8",
+        "text": "Outbound &amp; enrichissement inbound principalement.\nAvec scoring, intent, etc",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738222310.432709",
+        "parent_user_id": "U086LFGGVUG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A9Wfo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Outbound & enrichissement inbound principalement.\nAvec scoring, intent, etc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U086LFGGVUG"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

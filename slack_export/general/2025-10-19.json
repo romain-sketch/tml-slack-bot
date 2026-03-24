@@ -1,0 +1,115 @@
+[
+    {
+        "user": "U020QK16RMJ",
+        "type": "message",
+        "ts": "1760904460.637679",
+        "client_msg_id": "f28e3c7a-e341-46c5-beb8-25f1ec6b3f0d",
+        "text": "Comme l'année dernière, je suis preneur d'un échange autour de mon plan marketing et du votre. Je cherche un.e sparring partner pour le challenger sur le fond et la forme. Je sais que c'est toujours un peu inhabituel comme demande, mais j'ai adoré le faire avec <@U017RAZCAGZ> .",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "56d8a678e801",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-18\/7292097443269_56d8a678e801350db84a_72.png",
+            "first_name": "Joël",
+            "real_name": "Joël Gaudeul",
+            "display_name": "Joël (Swan)",
+            "team": "T017AGS2KE0",
+            "name": "joel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760904460.637679",
+        "reply_count": 8,
+        "reply_users_count": 7,
+        "latest_reply": "1761280676.633169",
+        "reply_users": [
+            "U069NSTHZ3Q",
+            "U02N2EVMFCG",
+            "U017RAZCAGZ",
+            "U04SM1RGPJB",
+            "U06DYTRDLUD",
+            "U020QK16RMJ",
+            "U06CZESF7QF"
+        ],
+        "replies": [
+            {
+                "user": "U069NSTHZ3Q",
+                "ts": "1760944567.734939"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1760948352.554559"
+            },
+            {
+                "user": "U017RAZCAGZ",
+                "ts": "1760952615.171059"
+            },
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1760957578.970569"
+            },
+            {
+                "user": "U06DYTRDLUD",
+                "ts": "1760967914.719449"
+            },
+            {
+                "user": "U020QK16RMJ",
+                "ts": "1761052335.760049"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1761117143.121769"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1761280676.633169"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RMOyw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Comme l'année dernière, je suis preneur d'un échange autour de mon plan marketing et du votre. Je cherche un.e sparring partner pour le challenger sur le fond et la forme. Je sais que c'est toujours un peu inhabituel comme demande, mais j'ai adoré le faire avec "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U017RAZCAGZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U069NSTHZ3Q",
+                    "U06DYTRDLUD"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U017RAZCAGZ",
+                    "U0951RDNKU6"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

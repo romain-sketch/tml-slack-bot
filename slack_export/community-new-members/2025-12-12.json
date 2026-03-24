@@ -1,0 +1,72 @@
+[
+    {
+        "user": "U03CY07UZJM",
+        "type": "message",
+        "ts": "1765533128.094809",
+        "client_msg_id": "c09c3859-485a-494b-8eb1-fa1adcc14327",
+        "text": "<@U017H09S857>, voilà son email: <mailto:xiaoyun.tu01@gmail.com|xiaoyun.tu01@gmail.com>\n\nMerci beaucoup !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "cf1b09b1a910",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-02\/6894190939717_cf1b09b1a910eb11be75_72.jpg",
+            "first_name": "Patrice",
+            "real_name": "Patrice Barbesier",
+            "display_name": "Patrice Barbesier",
+            "team": "T017AGS2KE0",
+            "name": "patrice.barbesier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1765460625.687009",
+        "parent_user_id": "U03CY07UZJM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rCgSg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U017H09S857"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", voilà son email: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:xiaoyun.tu01@gmail.com",
+                                "text": "xiaoyun.tu01@gmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nMerci beaucoup !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U017H09S857"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0A2RBDS1E3",
+        "text": "<@U0A2RBDS1E3> has joined the channel",
+        "type": "message",
+        "ts": "1765548546.326309",
+        "team": "T017AGS2KE0"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U04HP95GK55",
+        "type": "message",
+        "ts": "1756549751.492919",
+        "client_msg_id": "3664CBDC-EEC5-4B62-9DEF-95F09875A8B0",
+        "text": "Si je comprends bien si tu as l’habitude facturer 1000€, tu prends 5000€ d’equity de pre-seed à série B ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c346c82c7f22",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-06\/6302019761282_c346c82c7f22a623d69d_72.jpg",
+            "first_name": "Raphael",
+            "real_name": "Raphael Dardek",
+            "display_name": "Raphael (Kyka)",
+            "team": "T017AGS2KE0",
+            "name": "rdardek",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756462412.282319",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iNukp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si je comprends bien si tu as l’habitude facturer 1000€, tu prends 5000€ d’equity de pre-seed à série B ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

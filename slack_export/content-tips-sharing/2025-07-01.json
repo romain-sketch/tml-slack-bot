@@ -1,0 +1,94 @@
+[
+    {
+        "user": "U04L04T475K",
+        "type": "message",
+        "ts": "1751436993.917739",
+        "client_msg_id": "38e31538-b206-473d-b928-a38380dcf5ae",
+        "text": "Hello tout le monde,\nEst ce que certains ont eu des échos du bootcamp IA de Marjolaine Grondin <https:\/\/www.lebootcampia.com\/> ?\nJe fais une veille, et à part évidemment celui de Unlock M, je n'ai pas trouvé grand chose pour les métiers créas\/marketing dans un format comme celui-là (mix d'heures de vidéos de son côté \/ meetings physiques ou visio en petits groupes)\nPreneurs de vos retours !\nMerci :pray:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "992240f01962",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4685704045204_992240f019622b6b0af8_72.jpg",
+            "first_name": "Antoine",
+            "real_name": "Antoine Yahia Cherif",
+            "display_name": "Antoine Yahia Cherif",
+            "team": "T017AGS2KE0",
+            "name": "antoine.yc008",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1751436993.917739",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1752152172.168479",
+        "reply_users": [
+            "U069NSTHZ3Q",
+            "U063Q1LA69W",
+            "U065DFPCQMP"
+        ],
+        "replies": [
+            {
+                "user": "U069NSTHZ3Q",
+                "ts": "1751439975.520229"
+            },
+            {
+                "user": "U063Q1LA69W",
+                "ts": "1751440583.557969"
+            },
+            {
+                "user": "U065DFPCQMP",
+                "ts": "1752152172.168479"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "image_url": "https:\/\/cdn.prod.website-files.com\/681b49cdd691a45c7ea28cba\/681e05b854b82ef8bde622bc_Live%20(1).webp",
+                "image_width": 1352,
+                "image_height": 866,
+                "image_bytes": 51286,
+                "from_url": "https:\/\/www.lebootcampia.com\/",
+                "id": 1,
+                "original_url": "https:\/\/www.lebootcampia.com\/",
+                "fallback": "Intégrez l'IA à votre quotidien — Le Bootcamp IA de Marjolaine Grondin",
+                "text": "5 semaines pour transformer votre façon de travailler et de vivre",
+                "title": "Intégrez l'IA à votre quotidien — Le Bootcamp IA de Marjolaine Grondin",
+                "title_link": "https:\/\/www.lebootcampia.com\/",
+                "service_name": "lebootcampia.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rUic9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello tout le monde,\nEst ce que certains ont eu des échos du bootcamp IA de Marjolaine Grondin "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.lebootcampia.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ?\nJe fais une veille, et à part évidemment celui de Unlock M, je n'ai pas trouvé grand chose pour les métiers créas\/marketing dans un format comme celui-là (mix d'heures de vidéos de son côté \/ meetings physiques ou visio en petits groupes)\nPreneurs de vos retours !\nMerci "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

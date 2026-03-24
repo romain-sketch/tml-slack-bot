@@ -1,0 +1,59 @@
+[
+    {
+        "user": "U017CURDPB5",
+        "type": "message",
+        "ts": "1756364927.401639",
+        "client_msg_id": "FA43E438-66DB-4FC0-832C-538D0B262F72",
+        "text": "Hello <@U017H09S857>, Fernando Amaral de chez Rydoo. Il publie pas mal de contenu assez inspirants, experience en VC et PE,  et il est devenu CRO (signe d’un bon CMO ? :innocent: ). Je peux te mettre en relation. ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "671ad569fbc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5982967598243_671ad569fbc40977de70_72.jpg",
+            "first_name": "David",
+            "real_name": "David Remaud",
+            "display_name": "David Remaud (iBanFirst)",
+            "team": "T017AGS2KE0",
+            "name": "david.remaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756122358.256499",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dM+Tu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U017H09S857"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", Fernando Amaral de chez Rydoo. Il publie pas mal de contenu assez inspirants, experience en VC et PE,  et il est devenu CRO (signe d’un bon CMO ? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "innocent",
+                                "unicode": "1f607"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ). Je peux te mettre en relation. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

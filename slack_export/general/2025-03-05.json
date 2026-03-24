@@ -1,0 +1,350 @@
+[
+    {
+        "user": "U04R8454TA9",
+        "type": "message",
+        "ts": "1741162808.403479",
+        "client_msg_id": "23B067D7-1867-4EA0-9709-4C3FBFC63B62",
+        "text": "Séparer B2C et B2B clairement - peut être 1 édition pour chacun ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "g7e72f6056d3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7e72f6056d34f58072f9fab42a3c950b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "Maëlle",
+            "real_name": "Maëlle Gasc",
+            "display_name": "Maëlle Gasc",
+            "team": "T017AGS2KE0",
+            "name": "maelle.gasc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740767714.741899",
+        "parent_user_id": "U02N2EVMFCG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MjQyA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Séparer B2C et B2B clairement - peut être 1 édition pour chacun ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04R8454TA9",
+        "type": "message",
+        "ts": "1741171415.535489",
+        "client_msg_id": "F62C934F-2AA2-443A-903C-10F8FA3BFF3B",
+        "text": "Hello!\nJe sollicite l’aide de la communauté pour un ami en fonds aide une entreprise qui vend un hardware physique à s’implanter aux US, et recherche des recos sur 2 sujets :\n• SALES : recherche un expert \/ free-lance pour les aider à structurer la force de vente physique et améliorer l’efficacité \n• PRODUCT DEVELOPMENT: ils veulent developer un software et cherchent du conseil en product management ou un PM free-lance qui pourrait les aider \nToute piste (US mainly, surtout pour les sales) est la bienvenue. Merci :pray:  ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "g7e72f6056d3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7e72f6056d34f58072f9fab42a3c950b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "Maëlle",
+            "real_name": "Maëlle Gasc",
+            "display_name": "Maëlle Gasc",
+            "team": "T017AGS2KE0",
+            "name": "maelle.gasc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741171415.535489",
+        "reply_count": 7,
+        "reply_users_count": 4,
+        "latest_reply": "1741687185.993859",
+        "reply_users": [
+            "U0177A5V42F",
+            "U04R8454TA9",
+            "U02N2EVMFCG",
+            "U04L35Y9D08"
+        ],
+        "replies": [
+            {
+                "user": "U0177A5V42F",
+                "ts": "1741188895.658239"
+            },
+            {
+                "user": "U04R8454TA9",
+                "ts": "1741243777.567609"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1741546652.544709"
+            },
+            {
+                "user": "U04R8454TA9",
+                "ts": "1741553880.388649"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1741612574.025989"
+            },
+            {
+                "user": "U04L35Y9D08",
+                "ts": "1741686483.933959"
+            },
+            {
+                "user": "U04R8454TA9",
+                "ts": "1741687185.993859"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TBDFA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello!\nJe sollicite l’aide de la communauté pour un ami en fonds aide une entreprise qui vend un hardware physique à "
+                            },
+                            {
+                                "type": "text",
+                                "text": "s’implanter"
+                            },
+                            {
+                                "type": "text",
+                                "text": " aux US, et recherche des recos sur 2 sujets :"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "SALES : recherche un expert \/ free-lance pour les aider à structurer la force de vente physique et améliorer "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "l’efficacité"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "PRODUCT DEVELOPMENT: ils veulent developer un software et cherchent du conseil en product management ou un PM free-lance qui pourrait les aider "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Toute piste (US mainly, surtout pour les sales) est la bienvenue. Merci "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0177A5V42F",
+        "type": "message",
+        "ts": "1741188895.658239",
+        "client_msg_id": "e3304fc1-c08a-4d73-afef-60146bc484a1",
+        "text": "Hello <@U04R8454TA9> c'est de la medtech ou rien a voir ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ebca9b04129",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-17\/1245815650949_7ebca9b041296679a81d_72.jpg",
+            "first_name": "Guillaume",
+            "real_name": "Guillaume Laguette",
+            "display_name": "Guillaume Laguette (echOpen)",
+            "team": "T017AGS2KE0",
+            "name": "laguette.guillaume",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741171415.535489",
+        "parent_user_id": "U04R8454TA9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z74tr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04R8454TA9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " c'est de la medtech ou rien a voir ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04R8454TA9",
+        "type": "message",
+        "ts": "1741243777.567609",
+        "client_msg_id": "443FB717-CB42-4617-8E6A-A2CE34F7CE6A",
+        "text": "Non !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "g7e72f6056d3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7e72f6056d34f58072f9fab42a3c950b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "Maëlle",
+            "real_name": "Maëlle Gasc",
+            "display_name": "Maëlle Gasc",
+            "team": "T017AGS2KE0",
+            "name": "maelle.gasc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741171415.535489",
+        "parent_user_id": "U04R8454TA9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hit8B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Non !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U0177A5V42F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04R8454TA9",
+        "type": "message",
+        "ts": "1741243870.265499",
+        "client_msg_id": "65266F66-1B0B-480A-A632-5998FBD09905",
+        "text": "<@U02N2EVMFCG> en y repensant… peut être une v2 autour de l’AI : comment l’AI va tout changer (c’est sur que ça fera vendre !)\nCf ce post LinkedIn <https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:7302330330064048128?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7302330330064048128%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29|https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:7302330330064048128?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7302330330064048128%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "g7e72f6056d3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7e72f6056d34f58072f9fab42a3c950b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "Maëlle",
+            "real_name": "Maëlle Gasc",
+            "display_name": "Maëlle Gasc",
+            "team": "T017AGS2KE0",
+            "name": "maelle.gasc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740767714.741899",
+        "parent_user_id": "U02N2EVMFCG",
+        "attachments": [
+            {
+                "image_url": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/c45fy346jw096z9pbphyyhdz7",
+                "image_width": 1400,
+                "image_height": 800,
+                "image_bytes": 34857,
+                "from_url": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:7302330330064048128?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7302330330064048128%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:7302330330064048128?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7302330330064048128%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29",
+                "fallback": "#daversapartners #cmo #ai | Maryanne Martire | 65 comments",
+                "text": " \nThe New AI-Driven CMO: How I’m Interviewing in 2025\n\nI’ve spent my career speaking with thousands of CMOs—from hyper-growth startups to the Fortune 500. But now, the conversation has changed.\n\nI’m meeting a new breed of marketing leaders—CMOs who aren’t just experimenting with AI; they are fully integrating it into every aspect of their strategy. They aren’t waiting for AI to prove itself—they’re making it a competitive edge.\n\nAnd CEOs? Their expectations have never been higher. Every conversation with a CEO today is laser-focused on three things: growth, efficiency, and differentiation—at speed.\n\nHere&amp;#39;s the reality: AI is no longer optional. CEOs are pressing their marketing leaders to move beyond buzzwords and prove measurable business impact with AI. It’s not about the latest tools; it’s about strategic, quantifiable growth.\n\nSo, how do I separate the true AI-driven CMOs from the rest?\n\nThese are the 10 questions that matter in an AI-driven world—the ones I’m using to identify the next-generation CMOs—leaders who will set the pace for AI-powered marketing.\n\n1. How have you applied AI to directly improve revenue growth?\n(CEOs don’t care about experiments—they want proof. Show me real results.)\n\n2. What’s the most impactful AI-driven marketing initiative you’ve implemented?\n(And how did it improve conversion rates, CAC, pipeline velocity, or retention?)\n\n3. How are you leveraging AI to personalize customer experiences at scale?\n(Generic content is dead. How are you using AI for hyper-targeted messaging and predictive engagement?)\n\n4. How do you balance AI-driven automation with brand authenticity and storytelling?\n(AI can create, but it can’t connect emotionally—how are you keeping that human element?)\n\n5. AI is moving fast. What’s your process for vetting, testing, and implementing AI tools efficiently?\n(Are you iterating at the speed of AI, or are you stuck in analysis paralysis?)\n\n6. How are you using AI to optimize marketing spend and improve ROI?\n(What real cost efficiencies have you gained? Have you reduced CAC or increased LTV through AI?)\n\n7. What’s your strategy for aligning marketing, sales, product, and finance using AI insights?\n(Marketing is no longer a silo. How are you influencing business decisions beyond demand gen?)\n\n8. What AI-driven data insights have fundamentally changed how you market?\n(Not just more data—better, smarter decision-making.)\n\n9. What role should AI play in creative marketing? Where do you draw the line?\n(AI can generate, but it can’t ideate like a human—where do you see the balance?)\n\n10. What’s your vision for the future of AI in marketing?\n(The best CMOs aren’t just reacting to AI; they are shaping its role in the business.)\n \nAt the end of the day, it’s simple: the CMOs who lean in, adapt fast, and drive impact will win. Those who hesitate will watch from the sidelines. It’s not about who talks the loudest or tries the flashiest tools—it’s about delivering where it counts.\n\n#daversapartners #CMO #AI | 65 comments on LinkedIn",
+                "title": "#daversapartners #cmo #ai | Maryanne Martire | 65 comments",
+                "title_link": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:7302330330064048128?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7302330330064048128%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29",
+                "service_name": "linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/aWPw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02N2EVMFCG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " en y repensant… peut être une v2 autour de l’AI : comment l’AI va tout changer (c’est sur que ça fera vendre !)\nCf ce post LinkedIn "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:7302330330064048128?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7302330330064048128%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29",
+                                "text": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:7302330330064048128?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7302330330064048128%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

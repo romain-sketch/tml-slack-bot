@@ -1,0 +1,661 @@
+[
+    {
+        "user": "U020QK16RMJ",
+        "type": "message",
+        "ts": "1737551699.496519",
+        "client_msg_id": "d2984ba9-39ab-4f00-9abc-4527731c0570",
+        "text": "Bonjour, je cherche le n° de mobile de Romain Dillet de Techcrunch :disappointed: j'ai eu la bonne idée de le perdre. Anyone?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "56d8a678e801",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-18\/7292097443269_56d8a678e801350db84a_72.png",
+            "first_name": "Joël",
+            "real_name": "Joël Gaudeul",
+            "display_name": "Joël (Swan)",
+            "team": "T017AGS2KE0",
+            "name": "joel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737551699.496519",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1737552667.469339",
+        "reply_users": [
+            "U0177A5V42F"
+        ],
+        "replies": [
+            {
+                "user": "U0177A5V42F",
+                "ts": "1737552667.469339"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DOl1K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour, je cherche le n° de mobile de Romain Dillet de Techcrunch "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed",
+                                "unicode": "1f61e"
+                            },
+                            {
+                                "type": "text",
+                                "text": " j'ai eu la bonne idée de le perdre. Anyone?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U0177A5V42F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0177A5V42F",
+        "type": "message",
+        "ts": "1737552667.469339",
+        "client_msg_id": "5857f4c5-7097-46ca-abc5-9d64d444d882",
+        "text": "Envoyé en MP",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ebca9b04129",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-17\/1245815650949_7ebca9b041296679a81d_72.jpg",
+            "first_name": "Guillaume",
+            "real_name": "Guillaume Laguette",
+            "display_name": "Guillaume Laguette (echOpen)",
+            "team": "T017AGS2KE0",
+            "name": "laguette.guillaume",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737551699.496519",
+        "parent_user_id": "U020QK16RMJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/GbVj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Envoyé en MP"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Merci pour toutes les réponses au survey.\nYa de bonnes vibes, ça donne envie d'y être !\nÀ demain, au 54 rue de Lancry 8h30 :slightly_smiling_face:",
+        "files": [
+            {
+                "id": "F08AF6BDHTJ",
+                "created": 1737553740,
+                "timestamp": 1737553740,
+                "name": "Capture d’écran 2025-01-22 à 14.45.14.png",
+                "title": "Capture d’écran 2025-01-22 à 14.45.14.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U07MNBM4WLV",
+                "user_team": "T017AGS2KE0",
+                "editable": false,
+                "size": 213209,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F08AF6BDHTJ\/capture_d___e__cran_2025-01-22_a___14.45.14.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F08AF6BDHTJ\/download\/capture_d___e__cran_2025-01-22_a___14.45.14.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08AF6BDHTJ-5791b1b988\/capture_d___e__cran_2025-01-22_a___14.45.14_64.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08AF6BDHTJ-5791b1b988\/capture_d___e__cran_2025-01-22_a___14.45.14_80.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08AF6BDHTJ-5791b1b988\/capture_d___e__cran_2025-01-22_a___14.45.14_360.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360_w": 360,
+                "thumb_360_h": 206,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08AF6BDHTJ-5791b1b988\/capture_d___e__cran_2025-01-22_a___14.45.14_480.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_480_w": 480,
+                "thumb_480_h": 274,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08AF6BDHTJ-5791b1b988\/capture_d___e__cran_2025-01-22_a___14.45.14_160.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08AF6BDHTJ-5791b1b988\/capture_d___e__cran_2025-01-22_a___14.45.14_720.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720_w": 720,
+                "thumb_720_h": 411,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08AF6BDHTJ-5791b1b988\/capture_d___e__cran_2025-01-22_a___14.45.14_800.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_800_w": 800,
+                "thumb_800_h": 457,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08AF6BDHTJ-5791b1b988\/capture_d___e__cran_2025-01-22_a___14.45.14_960.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_960_w": 960,
+                "thumb_960_h": 548,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08AF6BDHTJ-5791b1b988\/capture_d___e__cran_2025-01-22_a___14.45.14_1024.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 585,
+                "original_w": 1348,
+                "original_h": 770,
+                "thumb_tiny": "AwAbADDRIOetAz60Ng9T0pML6\/rQA5snoaTB9TQCF6mkbax5NACj3NOzUeF9aeBigBpTJJpCFBwetSUYFAEe5T1obAxgVJgelFAEWcn7tPX6Yp1FAH\/\/2Q==",
+                "permalink": "https:\/\/techmarketingleaders.slack.com\/files\/U017U6M2G00\/F08AF6BDHTJ\/capture_d___e__cran_2025-01-22_a___14.45.14.png",
+                "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F08AF6BDHTJ-edd29a7996",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U07MNBM4WLV",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WEsUH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci pour toutes les réponses au survey.\nYa de bonnes vibes, ça donne envie d'y être !\nÀ demain, au 54 rue de Lancry 8h30 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "subtype": "thread_broadcast",
+        "root": {
+            "user": "U07MNBM4WLV",
+            "type": "message",
+            "ts": "1734705148.772419",
+            "client_msg_id": "347be840-c38c-4f2d-98dd-b4cb20d7a46b",
+            "text": "Hello à tous :wave:\n\nInvitation envoyée pour notre petit dej de rentrée TML!\n\nQuand : Jeudi 23 Janvier, 8h30-10h\nOù : 54 rue de Lancry (lemlist)\n\nAgenda  : Nos challenges Marketing de 2025 :man-lifting-weights: - J'enverrai un petit typeform aux participants pour récolter vos top 3 enjeux 2025 et on traitera ceux qui sont les plus cités ! + petit dej chill :croissant: as usual\n\nMeilleurs voeux à tous, passez de belles fêtes !\n\nOublions (pour quelques jours) la pression du budget, de la conversion du pipe et du brand awareness.\nEt rappelons-nous à quel point nos boites ont de la chance de nous avoir :stuck_out_tongue_closed_eyes:\n:kissing_heart::champagne:",
+            "team": "T017AGS2KE0",
+            "thread_ts": "1734705148.772419",
+            "reply_count": 20,
+            "reply_users_count": 15,
+            "latest_reply": "1737650331.591709",
+            "reply_users": [
+                "U06DLQ4644X",
+                "U04SM1RGPJB",
+                "U063A8VPPG9",
+                "U02CBFN48CF",
+                "U07MNBM4WLV",
+                "U016SBPG7K9",
+                "U017RAZCAGZ",
+                "U078PFP7A4B",
+                "U06GYUPMCR5",
+                "U08554C4R7C",
+                "U07R7CUFM7H",
+                "U06CZESF7QF",
+                "U07PEP71X4Y",
+                "U04A6JMRWCS",
+                "U06LENY5V6Z"
+            ],
+            "replies": [
+                {
+                    "user": "U06DLQ4644X",
+                    "ts": "1734705821.909599"
+                },
+                {
+                    "user": "U04SM1RGPJB",
+                    "ts": "1734707593.797739"
+                },
+                {
+                    "user": "U063A8VPPG9",
+                    "ts": "1734708599.005189"
+                },
+                {
+                    "user": "U02CBFN48CF",
+                    "ts": "1734712502.016319"
+                },
+                {
+                    "user": "U07MNBM4WLV",
+                    "ts": "1736947749.731409"
+                },
+                {
+                    "user": "U07MNBM4WLV",
+                    "ts": "1737553781.711309"
+                },
+                {
+                    "user": "U016SBPG7K9",
+                    "ts": "1737616575.679099"
+                },
+                {
+                    "user": "U017RAZCAGZ",
+                    "ts": "1737625756.944829"
+                },
+                {
+                    "user": "U07MNBM4WLV",
+                    "ts": "1737626121.779009"
+                },
+                {
+                    "user": "U078PFP7A4B",
+                    "ts": "1737626405.722809"
+                },
+                {
+                    "user": "U04SM1RGPJB",
+                    "ts": "1737626539.173929"
+                },
+                {
+                    "user": "U016SBPG7K9",
+                    "ts": "1737626941.416439"
+                },
+                {
+                    "user": "U06GYUPMCR5",
+                    "ts": "1737627033.287499"
+                },
+                {
+                    "user": "U04SM1RGPJB",
+                    "ts": "1737627127.146059"
+                },
+                {
+                    "user": "U08554C4R7C",
+                    "ts": "1737628265.111789"
+                },
+                {
+                    "user": "U07R7CUFM7H",
+                    "ts": "1737630335.225269"
+                },
+                {
+                    "user": "U06CZESF7QF",
+                    "ts": "1737634588.963739"
+                },
+                {
+                    "user": "U07PEP71X4Y",
+                    "ts": "1737640347.373929"
+                },
+                {
+                    "user": "U04A6JMRWCS",
+                    "ts": "1737648277.729049"
+                },
+                {
+                    "user": "U06LENY5V6Z",
+                    "ts": "1737650331.591709"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "OuETu",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Hello à tous "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "wave",
+                                    "unicode": "1f44b"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\nInvitation envoyée pour notre petit dej de rentrée TML!\n\nQuand : Jeudi 23 Janvier, 8h30-10h\nOù : 54 rue de Lancry (lemlist)\n\nAgenda  : Nos challenges Marketing de 2025 "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "man-lifting-weights",
+                                    "unicode": "1f3cb-fe0f-200d-2642-fe0f"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " - J'enverrai un petit typeform aux participants pour récolter vos top 3 enjeux 2025 et on traitera ceux qui sont les plus cités ! + petit dej chill "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "croissant",
+                                    "unicode": "1f950"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " as usual\n\nMeilleurs voeux à tous, passez de belles fêtes !\n\nOublions (pour quelques jours) la pression du budget, de la conversion du pipe et du brand awareness.\nEt rappelons-nous à quel point nos boites ont de la chance de nous avoir "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "stuck_out_tongue_closed_eyes",
+                                    "unicode": "1f61d"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "kissing_heart",
+                                    "unicode": "1f618"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "champagne",
+                                    "unicode": "1f37e"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1737553781.711309",
+        "edited": {
+            "user": "U07MNBM4WLV",
+            "ts": "1737553786.000000"
+        },
+        "client_msg_id": "faff0006-48c1-489d-8e27-0677a2302c52",
+        "thread_ts": "1734705148.772419",
+        "parent_user_id": "U07MNBM4WLV",
+        "reactions": [
+            {
+                "name": "green_heart",
+                "users": [
+                    "U078PFP7A4B",
+                    "U06DYTRDLUD",
+                    "U04SM1RGPJB",
+                    "U08554C4R7C",
+                    "U016SBPG7K9",
+                    "U06CZESF7QF",
+                    "U06GYUPMCR5",
+                    "U017H09S857"
+                ],
+                "count": 8
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U084LQF8023",
+                    "U016SBPG7K9",
+                    "U055KSYA2AH"
+                ],
+                "count": 3
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U084LQF8023"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U084LQF8023",
+        "type": "message",
+        "ts": "1737611722.555679",
+        "client_msg_id": "d5b85098-b1f7-4826-b8c8-35e0f23ae879",
+        "text": "Hello tout le monde, contretemps perso de dernière minute, je ne pourrai malheureusement pas être avec vous ce matin :cry:. Je suis vraiment désolée ! Passez un super moment et amusez-vous bien ! :tada:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a70a92c39694",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-01-20\/8306570351351_a70a92c3969457259db9_72.jpg",
+            "first_name": "Cosmina",
+            "real_name": "Cosmina Trifan",
+            "display_name": "Cosmina Trifan",
+            "team": "T017AGS2KE0",
+            "name": "cosmi.trifan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737611722.555679",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1737624829.434989",
+        "reply_users": [
+            "U016SBPG7K9",
+            "U063A8VPPG9",
+            "U056DAY3YD8",
+            "U084KTR7YKX"
+        ],
+        "replies": [
+            {
+                "user": "U016SBPG7K9",
+                "ts": "1737612908.956979"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1737616890.261999"
+            },
+            {
+                "user": "U056DAY3YD8",
+                "ts": "1737621271.664269"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1737624829.434989"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LBsDm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello tout le monde, contretemps perso de dernière minute, je ne pourrai malheureusement pas être avec vous ce matin "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cry",
+                                "unicode": "1f622"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Je suis vraiment désolée ! Passez un super moment et amusez-vous bien ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada",
+                                "unicode": "1f389"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sob",
+                "users": [
+                    "U016SBPG7K9",
+                    "U017RAZCAGZ",
+                    "U04SM1RGPJB",
+                    "U084KTR7YKX"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1737612908.956979",
+        "client_msg_id": "9C00DA0E-99EE-4535-8AC5-D46D6EB04BB8",
+        "text": "Ce n'est que partie remise !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737611722.555679",
+        "parent_user_id": "U084LQF8023",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HGLpe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ce n'est que partie remise !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "star-struck",
+                "users": [
+                    "U084LQF8023"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1737616575.679099",
+        "client_msg_id": "430AE007-8B36-43CD-B0DE-66B2A71200BB",
+        "text": "J'arrive vers 9h, petit lever à 5h pour choper le premier Rennes-&gt;Paris :grin: ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1734705148.772419",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T9AUd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'arrive vers 9h, petit lever à 5h pour choper le premier Rennes->Paris "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin",
+                                "unicode": "1f601"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U07MNBM4WLV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1737616890.261999",
+        "client_msg_id": "7e810137-9efa-4d1b-9ccf-4220e9989e8d",
+        "text": "same here :disappointed:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737611722.555679",
+        "parent_user_id": "U084LQF8023",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7MTib",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "same here "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed",
+                                "unicode": "1f61e"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

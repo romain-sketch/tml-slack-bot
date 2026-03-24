@@ -1,0 +1,62 @@
+[
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1759340386.134429",
+        "client_msg_id": "3ECD6158-6913-4B3B-9454-20921DDA2770",
+        "text": "Hello, une amie recrute chez Notion en marketing pour le bureau français en cours d ouverture ! \n\nLien de l'annonce : <https:\/\/www.linkedin.com\/jobs\/view\/4275795825|https:\/\/www.linkedin.com\/jobs\/view\/4275795825>\n",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/jobs\/view\/4275795825",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/jobs\/view\/4275795825",
+                "fallback": "Notion hiring Marketing Manager, France in Paris, Île-de-France, France | LinkedIn",
+                "text": "Posted 6:11:28 PM. About UsNotion helps you build beautiful tools for your life’s work. In today&amp;#39;s world of endless…See this and similar jobs on LinkedIn.",
+                "title": "Notion hiring Marketing Manager, France in Paris, Île-de-France, France | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/jobs\/view\/4275795825",
+                "service_name": "linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MG9P6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, une amie recrute chez Notion en marketing pour le bureau français en cours d ouverture ! \n\nLien de l'annonce : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/jobs\/view\/4275795825",
+                                "text": "https:\/\/www.linkedin.com\/jobs\/view\/4275795825"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

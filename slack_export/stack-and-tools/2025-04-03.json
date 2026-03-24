@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1743709220.701119",
+        "client_msg_id": "91CCA33E-2751-43D4-A6EF-5444BA79668D",
+        "text": "Merci! Rippletide je vais regarder ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743172930.252289",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3H9Ik",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci! Rippletide je vais regarder "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

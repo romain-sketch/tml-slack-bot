@@ -1,0 +1,245 @@
+[
+    {
+        "user": "U06U1GG592M",
+        "type": "message",
+        "ts": "1740991716.881509",
+        "client_msg_id": "3f7c5909-36ea-41b5-8547-699fa5d8606b",
+        "text": "*DISPATCH &amp; PLANIFICATION INBOUND* \nHello tout le monde !\nEn ce lundi ensoleillé, auriez-vous un feedback sur l'outil <https:\/\/www.revenuehero.io\/fr|RevenueHero> ? (Vs <https:\/\/www.chilipiper.com\/|Chili Piper>)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "84a1e781f35c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-31\/7202740482978_84a1e781f35c228ca958_72.jpg",
+            "first_name": "Carolane",
+            "real_name": "Carolane Guyon",
+            "display_name": "Carolane (Veesion)",
+            "team": "T017AGS2KE0",
+            "name": "c.guyon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/cdn.prod.website-files.com\/676a69ae31974ab96cb8990a\/676d0776c2deeb0e58d666a9_hmpg%20v1.png",
+                "image_width": 3600,
+                "image_height": 1890,
+                "image_bytes": 318539,
+                "from_url": "https:\/\/www.revenuehero.io\/fr",
+                "id": 1,
+                "original_url": "https:\/\/www.revenuehero.io\/fr",
+                "fallback": "RevenueHero - Conversion et planification des prospects entrants",
+                "text": "RevenueHero est un logiciel d'accélération du pipeline qui qualifie, achemine et planifie instantanément un plus grand nombre de réunions réservées pour vos représentants commerciaux. Voyez-le en action dès maintenant.",
+                "title": "RevenueHero - Conversion et planification des prospects entrants",
+                "title_link": "https:\/\/www.revenuehero.io\/fr",
+                "service_name": "revenuehero.io"
+            },
+            {
+                "image_url": "https:\/\/cdn.prod.website-files.com\/61c9fe00acd90d7271f7014e\/665e2abf5ea5578502f1a411_DCP%20featured.png",
+                "image_width": 2400,
+                "image_height": 1260,
+                "image_bytes": 521482,
+                "from_url": "https:\/\/www.chilipiper.com\/",
+                "id": 2,
+                "original_url": "https:\/\/www.chilipiper.com\/",
+                "fallback": "Chili Piper | Demand Conversion Platform",
+                "text": "Chili Piper helps sales teams automatically schedule appointments with leads. Instantly turn inbound leads into qualified meetings.",
+                "title": "Chili Piper | Demand Conversion Platform",
+                "title_link": "https:\/\/www.chilipiper.com\/",
+                "service_name": "chilipiper.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "35MG7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "DISPATCH & PLANIFICATION INBOUND ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nHello tout le monde !\nEn ce lundi ensoleillé, auriez-vous un feedback sur l'outil "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.revenuehero.io\/fr",
+                                "text": "RevenueHero"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ? (Vs "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.chilipiper.com\/",
+                                "text": "Chili Piper"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1740993425.723319",
+        "edited": {
+            "user": "U04A6JMRWCS",
+            "ts": "1740993446.000000"
+        },
+        "client_msg_id": "f53f0939-7d64-4524-88ee-1b59b2764963",
+        "text": "c'est quoi ton use case? Si c'est uniquement envoyer la bonne démo request au bon AE, tu fais faire des workaround sur hubspot facilement",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0FJHz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "c'est quoi ton use case? Si c'est uniquement envoyer la bonne démo request au bon AE, tu fais faire des workaround sur hubspot facilement"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06U1GG592M",
+        "type": "message",
+        "ts": "1740994490.669919",
+        "client_msg_id": "2b07c16e-f1a7-4e12-b6dc-217826c0b09a",
+        "text": "Yes alors entre autre on a :\n• Self-booking avec qualification supplémentaire : ajout de filtres pour améliorer la qualité des meetings réservés.\n• Option \"Call Me Now\" : possibilité pour le lead de choisir entre la prise de rendez-vous en autonomie ou un rappel immédiat.\n• Intégration du chat pour la génération de leads \n• Critères de dispatch selon la typologie du lead :\n    ◦ Attribution des leads les plus stratégiques aux meilleurs Sales\n    ◦ Priorisation des leads à fort potentiel pour un rappel rapide",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "84a1e781f35c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-31\/7202740482978_84a1e781f35c228ca958_72.jpg",
+            "first_name": "Carolane",
+            "real_name": "Carolane Guyon",
+            "display_name": "Carolane (Veesion)",
+            "team": "T017AGS2KE0",
+            "name": "c.guyon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rl7LG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes alors entre autre on a :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Self-booking avec qualification supplémentaire : ajout de filtres pour améliorer la qualité des meetings réservés."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Option \"Call Me Now\" : possibilité pour le lead de choisir entre la prise de rendez-vous en autonomie ou un rappel immédiat."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Intégration du chat pour la génération de leads "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Critères de dispatch selon la typologie du lead :"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Attribution des leads les plus stratégiques aux meilleurs Sales"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Priorisation des leads à fort potentiel pour un rappel rapide"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

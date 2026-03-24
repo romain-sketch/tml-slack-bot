@@ -1,0 +1,123 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U08QZ6EKE4Q",
+        "text": "<@U08QZ6EKE4Q> has joined the channel",
+        "type": "message",
+        "ts": "1745997796.741039"
+    },
+    {
+        "user": "U08M0JP81DK",
+        "type": "message",
+        "ts": "1745998296.917849",
+        "client_msg_id": "c442b398-6076-4b2c-b5e2-1ffb7d71dcf9",
+        "text": "<@U06CZESF7QF> ça date un peu, mais Criteo avait très bien réussi son expansion DACH, dis-moi si ça peut être pertinent?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "f8f282c0f1ce",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-04-07\/8720578468499_f8f282c0f1cedcfe5323_72.png",
+            "first_name": "Pierre",
+            "real_name": "Pierre Osdoit-Patrigeon",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "pierre.osdoit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745853908.011799",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XncSP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06CZESF7QF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ça date un peu, mais Criteo avait très bien réussi son expansion DACH, dis-moi si ça peut être pertinent?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1746018519.195819",
+        "client_msg_id": "bea3d87d-ec2d-4aef-a1d2-376b706e8d8e",
+        "text": "<@U06TF9YAWEM> Merci beaucoup ! Je te tiens au courant si besoin. Profite bien de tes jours off :slightly_smiling_face:\n\n<@U08M0JP81DK> Yes carrément ! Tu sais avec qui je pourrais en discuter ? Je t’envoie un DM",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745853908.011799",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uR+Wq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06TF9YAWEM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Merci beaucoup ! Je te tiens au courant si besoin. Profite bien de tes jours off "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08M0JP81DK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Yes carrément ! Tu sais avec qui je pourrais en discuter ? Je t’envoie un DM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U06TF9YAWEM"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

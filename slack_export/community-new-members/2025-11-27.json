@@ -1,0 +1,95 @@
+[
+    {
+        "user": "U09EFH6S1BQ",
+        "type": "message",
+        "ts": "1764236206.100689",
+        "edited": {
+            "user": "U09EFH6S1BQ",
+            "ts": "1764250612.000000"
+        },
+        "client_msg_id": "c4716110-d0d0-41cb-a08a-61c40172c18f",
+        "text": "Je connais bien Guillaume, CMO d'Advens je suis sûr qu'il apportera bcp à la communauté sur la partie GTM orienté services",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "ffa600162240",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-02-04\/10441989667490_ffa600162240cca72992_72.png",
+            "first_name": "Timothée",
+            "real_name": "Timothée COLLARD",
+            "display_name": "Timothée COLLARD",
+            "team": "T017AGS2KE0",
+            "name": "timothee.collard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764218179.085159",
+        "parent_user_id": "U02N2EVMFCG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kxDLz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je connais bien Guillaume, CMO d'Advens je suis sûr qu'il apportera bcp à la communauté sur la partie GTM orienté services"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02N2EVMFCG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06DYTRDLUD",
+        "type": "message",
+        "ts": "1764260335.993869",
+        "client_msg_id": "628f311b-1fa0-4aeb-b667-2cb482d4a9f7",
+        "text": "Oh j'ai bossé avec Guillaume par le passé, super profil !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901f49789864",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-17\/6483135134229_901f4978986494a521e4_72.jpg",
+            "first_name": "Flora",
+            "real_name": "Flora Wolfer",
+            "display_name": "Flora Wolfer (Payplug)",
+            "team": "T017AGS2KE0",
+            "name": "fwolfer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764218179.085159",
+        "parent_user_id": "U02N2EVMFCG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cHLsA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh j'ai bossé avec Guillaume par le passé, super profil !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,698 @@
+[
+    {
+        "user": "U059T4KRCUC",
+        "type": "message",
+        "ts": "1771323475.080379",
+        "client_msg_id": "48761254-adf0-46ec-9931-da9409afceea",
+        "text": "Hello tout le monde !\n• On envisage de prendre *HubSpot Marketing* (oui, jusqu’ici on n’avait pas encore investi dans un outil de marketing automation B2B dédié :sweat_smile:).\n• Comme tous nos contacts B2B sont déjà dans HubSpot et que c’est notre CRM, je me dis que ça ferait assez naturellement sens de partir dessus… mais avant de trancher vs *Adobe Marketo* (ou d’autres), je veux être sûre qu’on ne fait pas une erreur. \n• Donc si certain(e)s d’entre vous ont un retour d’expérience (bon ou mauvais) sur HubSpot Marketing vs Marketo, je suis hyper preneuse :pray:\n• Et si vous pouvez aussi me partager vos ordres de grandeur de pricing en DM, ce serait top.\nMerci and Happy Day :green_heart:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "57639ff481aa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-29\/5337202241186_57639ff481aa2740f127_72.png",
+            "first_name": "Isa",
+            "real_name": "Isa",
+            "display_name": "Isa",
+            "team": "T017AGS2KE0",
+            "name": "ilejeune",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1771323475.080379",
+        "reply_count": 9,
+        "reply_users_count": 7,
+        "latest_reply": "1771403314.873279",
+        "reply_users": [
+            "U0946E8A2US",
+            "U0177A5V42F",
+            "U08PEJM137X",
+            "U020QK16RMJ",
+            "U0A0QG03DLN",
+            "U0AEPPHSNQJ",
+            "U017CURDPB5"
+        ],
+        "replies": [
+            {
+                "user": "U0946E8A2US",
+                "ts": "1771325400.838559"
+            },
+            {
+                "user": "U0177A5V42F",
+                "ts": "1771326421.718799"
+            },
+            {
+                "user": "U08PEJM137X",
+                "ts": "1771329168.465459"
+            },
+            {
+                "user": "U020QK16RMJ",
+                "ts": "1771332738.940979"
+            },
+            {
+                "user": "U0A0QG03DLN",
+                "ts": "1771339133.042949"
+            },
+            {
+                "user": "U08PEJM137X",
+                "ts": "1771340881.942609"
+            },
+            {
+                "user": "U08PEJM137X",
+                "ts": "1771341181.253419"
+            },
+            {
+                "user": "U0AEPPHSNQJ",
+                "ts": "1771341914.545099"
+            },
+            {
+                "user": "U017CURDPB5",
+                "ts": "1771403314.873279"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tp4HK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello tout le monde !\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "On envisage de prendre "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "HubSpot Marketing",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " (oui, jusqu’ici on n’avait pas encore investi dans un outil de marketing automation B2B dédié "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "sweat_smile",
+                                        "unicode": "1f605"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ")."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Comme tous nos contacts B2B sont déjà dans HubSpot et que c’est notre CRM, je me dis que ça ferait assez naturellement sens de partir dessus… mais avant de trancher vs "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Adobe Marketo",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " (ou d’autres), je veux être sûre qu’on ne fait pas une erreur. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Donc si certain(e)s d’entre vous ont un retour d’expérience (bon ou mauvais) sur HubSpot Marketing vs Marketo, je suis hyper preneuse "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "pray",
+                                        "unicode": "1f64f"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Et si vous pouvez aussi me partager vos ordres de grandeur de pricing en DM, ce serait top."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci and Happy Day "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "green_heart",
+                                "unicode": "1f49a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0946E8A2US",
+        "type": "message",
+        "ts": "1771325400.838559",
+        "client_msg_id": "7BFFE401-A36F-440B-9EC3-C7AAC40ADA6B",
+        "text": "Hello <@U059T4KRCUC>, pas d'expérience avec ton setup particulier et je n'ai jamais touché à Marketo. En revanche j'ai déjà géré le côté revops\/data pour Salesforce CRM &lt;&gt; HubSpot Marketing et je pense que les learnings sont les mêmes : si tu as la possibilité de tout mettre sur 1 seul tool, c'est la meilleure solution (et ce même si le tool en question n'est pas le meilleur). \n\nPourquoi:\nLe travail à réaliser pour passer ta donnée de HS à Marketo va annuler tout bénéfice potentiel que pourrait avoir Marketo sur HS. Notamment : 1. écarts de data entre les 2 (impossible que les 2 matchent à 100%, ce qui va poser des questions côté Sales ET côté marketing)\n2. Ressources nécessaires pour mettre en place et maintenir la sync. Ex si tu changes quoi que ce soit (ex: attribution model, ou crée une nouvelle source de lead, ou une campagne marketing), tu devras le faire 2X et t'assurer que les 2 tools aient bien la même data.\n3. Facile d'avoir un expert HubSpot, facile d'avoir un expert Marketo, difficile d'avoir quelqu'un qui sait faire les 2 très bien. \n\nPerso faire l'expérience une fois m'a suffit ! Maintenant mon motto c'est: keep the stack lean",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "f73f6d38e4eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-07-23\/9238905089862_f73f6d38e4eb792c8c6a_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult",
+            "team": "T017AGS2KE0",
+            "name": "thibaut.davoult",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1771323475.080379",
+        "parent_user_id": "U059T4KRCUC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ccpTr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U059T4KRCUC"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", pas d'expérience avec ton setup particulier et je n'ai jamais touché à Marketo"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " En revanche j'ai déjà géré le côté revops\/data pour Salesforce CRM <> HubSpot Marketing et je pense que les learnings sont les mêmes : si tu as la possibilité de tout mettre sur 1 seul tool, c'est la meilleure solution (et ce même si le tool en question n'est pas le meilleur)"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\nPourquoi:\nLe travail à réaliser pour passer ta donnée de HS à Marketo va annuler tout bénéfice potentiel que pourrait avoir Marketo sur HS"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Notamment : 1. écarts de data entre les 2 (impossible que les 2 matchent à 100%, ce qui va poser des questions côté Sales ET côté marketing)\n2. Ressources nécessaires pour mettre en place et maintenir la sync"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Ex si tu changes quoi que ce soit (ex: attribution model, ou crée une nouvelle source de lead, ou une campagne marketing), tu devras le faire 2X et t'assurer que les 2 tools aient bien la même data"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n3. Facile d'avoir un expert HubSpot, facile d'avoir un expert Marketo, difficile d'avoir quelqu'un qui sait faire les 2 très bien"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\nPerso faire l'expérience une fois m'a suffit ! Maintenant mon motto c'est: keep the stack lean"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0AEPPHSNQJ",
+                    "U04SM1RGPJB"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U0177A5V42F",
+        "type": "message",
+        "ts": "1771326421.718799",
+        "client_msg_id": "408e80cf-eb17-4387-8559-cbe0feca39e0",
+        "text": "Amen et si quelqu'un pense que Marketo est meilleur qu'Hubspot ca m'interesse car pour moi il y a une galaxie d'écart.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ebca9b04129",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-17\/1245815650949_7ebca9b041296679a81d_72.jpg",
+            "first_name": "Guillaume",
+            "real_name": "Guillaume Laguette",
+            "display_name": "Guillaume Laguette (echOpen)",
+            "team": "T017AGS2KE0",
+            "name": "laguette.guillaume",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1771323475.080379",
+        "parent_user_id": "U059T4KRCUC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sq4uT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Amen et si quelqu'un pense que Marketo est meilleur qu'Hubspot ca m'interesse car pour moi il y a une galaxie d'écart."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08PEJM137X",
+        "type": "message",
+        "ts": "1771329168.465459",
+        "client_msg_id": "785fb29a-e8db-45f8-8f4d-26c3cfca60d2",
+        "text": "Hello <@U059T4KRCUC>, je dirais que ça dépend de tes cas d’usage avant tout, pour le coup je connais les deux (très bien, et oui c’est possible :slightly_smiling_face: ) on peut s’en parler plus en détails en mp si tu le souhaites.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b98ee70a24e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-24\/9792276790672_b98ee70a24e8f7089231_72.png",
+            "first_name": "Séverine",
+            "real_name": "Séverine Loeuille",
+            "display_name": "Séverine Loeuille",
+            "team": "T017AGS2KE0",
+            "name": "loeuille.severine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1771323475.080379",
+        "parent_user_id": "U059T4KRCUC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rH\/Qy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U059T4KRCUC"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", je dirais que ça dépend de tes cas d’usage avant tout, pour le coup je connais les deux (très bien, et oui c’est possible "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ) on peut s’en parler plus en détails en mp si tu le souhaites."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U020QK16RMJ",
+        "type": "message",
+        "ts": "1771332738.940979",
+        "client_msg_id": "d5da7441-7617-473e-ab13-777e869f85d9",
+        "text": "100% HubSpot, that's the way.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "56d8a678e801",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-18\/7292097443269_56d8a678e801350db84a_72.png",
+            "first_name": "Joël",
+            "real_name": "Joël Gaudeul",
+            "display_name": "Joël (Swan)",
+            "team": "T017AGS2KE0",
+            "name": "joel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1771323475.080379",
+        "parent_user_id": "U059T4KRCUC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rteoO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "100% HubSpot, that's the way."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0A0QG03DLN",
+        "type": "message",
+        "ts": "1771339133.042949",
+        "client_msg_id": "0fb0b9c6-85a2-4b58-b28f-963a23ff8f29",
+        "text": "Full Hubspot aussi, en termes de flexibilité \/ nombre de use cases \/ facilité d'adoption l'outil est top. Il y a 1 truc néanmoins dont une ex-collègue Field Marketing biberonnée à Marketo se plaignait souvent, c'est qu'Hubspot est beaucoup moins flexible pour la gestion des campagnes field :point_right: Salesforce et Marketo offrent un objet \"campagne\" qui permet de regrouper des contacts et de leur associer un certain statut (invited, declined, no show, attendee, etc.), dans *chacun* des events. C'est pas le cas avec Hubspot, on a bricolé des alternatives au niveau du contact mais ça a toujours été un peu painful à gérer",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b968d96b48d4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-12-01\/10056348127568_b968d96b48d4a3ee8664_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Courbin",
+            "display_name": "Alexandre Courbin",
+            "team": "T017AGS2KE0",
+            "name": "alexandre.courbin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1771323475.080379",
+        "parent_user_id": "U059T4KRCUC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jvshz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Full Hubspot aussi, en termes de flexibilité \/ nombre de use cases \/ facilité d'adoption l'outil est top. Il y a 1 truc néanmoins dont une ex-collègue Field Marketing biberonnée à Marketo se plaignait souvent, c'est qu'Hubspot est beaucoup moins flexible pour la gestion des campagnes field "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_right",
+                                "unicode": "1f449"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Salesforce et Marketo offrent un objet \"campagne\" qui permet de regrouper des contacts et de leur associer un certain statut (invited, declined, no show, attendee, etc.), dans "
+                            },
+                            {
+                                "type": "text",
+                                "text": "chacun",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " des events. C'est pas le cas avec Hubspot, on a bricolé des alternatives au niveau du contact mais ça a toujours été un peu painful à gérer"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08PEJM137X",
+        "type": "message",
+        "ts": "1771340881.942609",
+        "edited": {
+            "user": "U08PEJM137X",
+            "ts": "1771341251.000000"
+        },
+        "client_msg_id": "3d490f98-f4ff-42de-9da2-038099e7477c",
+        "text": "Globalement la synchro Marketo <> SFDC est la meilleure du marché (en termes de synchro MA <> CRM Vente) car historiquement Marketo a été pensé pour Sales Cloud, en particulier sur la gestion des objets.\n\nJe rejoins sur le fait que si Hubspot est utilisé en CRM vente et qu’il n’y pas de volonté de changement d’outil côté sales, il y aura moins de friction si c’est également Hubspot qui est utilisé côté marketing d’un point de vue cohérence et synchronisation des données.\n\nAprès je disais que ça dépend des use cases côté marketing car globalement Marketo va être plus avancé sur les fonctionnalités suivantes :\n• scalabilité \/ gouvernance (workspaces, rôles, droits, séparation par BU et régions, plus adapté quand multiples contributeurs)\n• lead management + avancé en BtoB (scoring multi-modèles, routing av des logiques d’attribution avancées, fait pour des cycles de vente long \/ complexe..)\n• nurturing + sophistiqué à grande échelle (souvent meilleur pour des architectures de type “industrie” av bcp de segments, messages, règles de cadence..)\n• ABM et segmentation + avancée (selon ta stack, possibilité d’intégration av des outils ABM purs)\n• standardisation globale (pensé pour l’international : templates, modèles, déploiement multi-pays)\n• requiert un owner avec une appétence tech de par son potentiel et sa complexité \nDonc pas tjrs besoin de qqch d’aussi sophistiqué que Marketo quand on veut de la simplicité, une UX  friendly et moins de complexité d’admin = Hubspot. Qui lui a été pensé pour les startups\/PME.\n\nDonc ça dépend de ton contexte\/use cases : taille de la base de donnée, nb de pays\/BU, ABM ou pas, et si il est envisagé de passer sur SFDC à court ou moyen terme.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b98ee70a24e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-24\/9792276790672_b98ee70a24e8f7089231_72.png",
+            "first_name": "Séverine",
+            "real_name": "Séverine Loeuille",
+            "display_name": "Séverine Loeuille",
+            "team": "T017AGS2KE0",
+            "name": "loeuille.severine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1771323475.080379",
+        "parent_user_id": "U059T4KRCUC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eT3XX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Globalement la synchro Marketo <> SFDC est la meilleure du marché (en termes de synchro MA <> CRM Vente) car historiquement Marketo a été pensé pour Sales Cloud, en particulier sur la gestion des objets.\n\nJe rejoins sur le fait que si Hubspot est utilisé en CRM vente et qu’il n’y pas de volonté de changement d’outil côté sales, il y aura moins de friction si c’est également Hubspot qui est utilisé côté marketing d’un point de vue cohérence et synchronisation des données.\n\nAprès je disais que ça dépend des use cases côté marketing car globalement Marketo va être plus avancé sur les fonctionnalités suivantes :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "scalabilité \/ gouvernance (workspaces, rôles, droits, séparation par BU et régions, plus adapté quand multiples contributeurs)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "lead management + avancé en BtoB (scoring multi-modèles, routing av des logiques d’attribution avancées, fait pour des cycles de vente long \/ complexe..)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "nurturing + sophistiqué à grande échelle (souvent meilleur pour des architectures de type “industrie” av bcp de segments, messages, règles de cadence..)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ABM et segmentation + avancée (selon ta stack, possibilité d’intégration av des outils ABM purs)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "standardisation globale (pensé pour l’international : templates, modèles, déploiement multi-pays)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "requiert un owner avec une appétence tech de par son potentiel et sa complexité "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nDonc pas tjrs besoin de qqch d’aussi sophistiqué que Marketo quand on veut de la simplicité, une UX  friendly et moins de complexité d’admin = Hubspot. Qui lui a été pensé pour les startups\/PME.\n\nDonc ça dépend de ton contexte\/use cases : taille de la base de donnée, nb de pays\/BU, ABM ou pas, et si il est envisagé de passer sur SFDC à court ou moyen terme."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08PEJM137X",
+        "type": "message",
+        "ts": "1771341181.253419",
+        "edited": {
+            "user": "U08PEJM137X",
+            "ts": "1771341197.000000"
+        },
+        "client_msg_id": "6306795f-c249-4f40-9280-65acf145eefc",
+        "text": "Ah oui aussi, le pricing n’est pas forcément le mm, petit détail qui a son importance :sweat_smile: pour Marketo c’est sur devis",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b98ee70a24e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-24\/9792276790672_b98ee70a24e8f7089231_72.png",
+            "first_name": "Séverine",
+            "real_name": "Séverine Loeuille",
+            "display_name": "Séverine Loeuille",
+            "team": "T017AGS2KE0",
+            "name": "loeuille.severine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1771323475.080379",
+        "parent_user_id": "U059T4KRCUC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/nrl\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah oui aussi, le pricing n’est pas forcément le mm, petit détail qui a son importance "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour Marketo c’est sur devis"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0AEPPHSNQJ",
+        "type": "message",
+        "ts": "1771341914.545099",
+        "client_msg_id": "a04cda77-59b0-4c27-bd60-214a3a72a6a3",
+        "text": "Pas d'xp sur Marketo, et je recommande vraiment HubSpot Marketing que j'utilise depuis maintenant... 10 ans (bam le coup de vieux)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2d9774d25969",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-02-12\/10485165466583_2d9774d259690ee34db9_72.png",
+            "first_name": "Bastien",
+            "real_name": "Bastien Meaux",
+            "display_name": "Bastien (DialOnce)",
+            "team": "T017AGS2KE0",
+            "name": "bastien.meaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1771323475.080379",
+        "parent_user_id": "U059T4KRCUC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XJYR\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pas d'xp sur Marketo, et je recommande vraiment HubSpot Marketing que j'utilise depuis maintenant... 10 ans (bam le coup de vieux)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

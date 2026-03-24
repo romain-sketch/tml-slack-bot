@@ -1,0 +1,461 @@
+[
+    {
+        "user": "U07MNBM4WLV",
+        "type": "message",
+        "ts": "1763128291.667259",
+        "client_msg_id": "b731554f-1bb2-497a-8a27-b10ebceeff9a",
+        "text": "Hello à tous,\n\nQuestion bonne pratique emailing users.\nComment vous faites pour éviter que vos users se fassent spamer par produit, marketing, CSM\/KAM ?\n• Est-ce que vous avez des règles d'engagements ?\n• Comment concrètement vous vous assurez que c'est suivi ?\n• Est-ce que vous avec un tool pour tout le monde pour ça (eg. tout le monde a migré sur un <http:\/\/customer.io|customer.io> ou un brevo...)\nMuchas gracias",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "028ce63b55be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7733128030774_028ce63b55be29945d4f_72.jpg",
+            "first_name": "Domitille",
+            "real_name": "Domitille de Saint-Exupéry",
+            "display_name": "Domitille de Saint-Exupéry (lemlist)",
+            "team": "T017AGS2KE0",
+            "name": "domitille433",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763128291.667259",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1763137975.050009",
+        "reply_users": [
+            "U0183AS3MB6",
+            "U0946E8A2US",
+            "U069NSTHZ3Q",
+            "U07MNBM4WLV"
+        ],
+        "replies": [
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1763129054.096979"
+            },
+            {
+                "user": "U0946E8A2US",
+                "ts": "1763132212.441899"
+            },
+            {
+                "user": "U069NSTHZ3Q",
+                "ts": "1763134423.782149"
+            },
+            {
+                "user": "U07MNBM4WLV",
+                "ts": "1763137975.050009"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K1jcs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello à tous,\n\nQuestion bonne pratique emailing users.\nComment vous faites pour éviter que vos users se fassent spamer par produit, marketing, CSM\/KAM ?\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Est-ce que vous avez des règles d'engagements ?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Comment concrètement vous vous assurez que c'est suivi ?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Est-ce que vous avec un tool pour tout le monde pour ça (eg. tout le monde a migré sur un "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "http:\/\/customer.io",
+                                        "text": "customer.io"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " ou un brevo...)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nMuchas gracias"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1763128564.816229",
+        "client_msg_id": "0dfead45-0786-4728-8815-b6717b651184",
+        "text": "nous on a un superbe calendrier d'envoi d'email",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zHE3I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nous on a un superbe calendrier d'envoi d'email"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1763128571.820409",
+        "client_msg_id": "eed5a67e-2450-4693-89f1-2ab3712d8970",
+        "text": "qui nous permet de faire semblant de faire attention",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763128571.820409",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1763131021.412459",
+        "reply_users": [
+            "U078PFP7A4B"
+        ],
+        "replies": [
+            {
+                "user": "U078PFP7A4B",
+                "ts": "1763131021.412459"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gljgp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "qui nous permet de faire semblant de faire attention"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U08QZ6EKE4Q",
+                    "U017RAZCAGZ",
+                    "U063A8VPPG9",
+                    "U06U1GG592M",
+                    "U06MHCCLQG3"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1763129054.096979",
+        "client_msg_id": "471bcdcd-8d63-4917-875a-1648ac907144",
+        "text": "tout migrer sur un <http:\/\/customer.io|customer.io>, Brevo, Braze… c’est le top selon moi.\nMais même sur un Hubspot honnêtement ça peut faire le job ! Faut juste des règles bien cadrés du type : user entre dans le workflow X si pas déjà dans un autre",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763128291.667259",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FCakW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tout migrer sur un "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/customer.io",
+                                "text": "customer.io"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", Brevo, Braze… c’est le top selon moi.\nMais même sur un Hubspot honnêtement ça peut faire le job ! Faut juste des règles bien cadrés du type : user entre dans le workflow X si pas déjà dans un autre"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1763131021.412459",
+        "client_msg_id": "c752adec-cad3-40a5-8458-0df3a80cf1b7",
+        "text": "\" faire semblant de faire attention\" :joy:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763128571.820409",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6zcyO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\" faire semblant de faire attention\" "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0946E8A2US",
+        "type": "message",
+        "ts": "1763132212.441899",
+        "client_msg_id": "F840CD7E-1F8E-44C4-BB99-0CAB20E50DB0",
+        "text": "Oui tout migrer sur un tool. CIO (et j'imagine les autres mais je ne connais pas) te permet de mettre une règle au niveau du workspace sur le delai minimum entre 2 mails pour la même personne. Si un mail auto est prévu ou un broadcast one shot envoyé pour un user qui vient de recevoir une com, il est mis en file d'attente jusqu'à ce que le délai soit atteint.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "f73f6d38e4eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-07-23\/9238905089862_f73f6d38e4eb792c8c6a_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult",
+            "team": "T017AGS2KE0",
+            "name": "thibaut.davoult",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763128291.667259",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bC+z7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui tout migrer sur un tool"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " CIO (et j'imagine les autres mais je ne connais pas) te permet de mettre une règle au niveau du workspace sur le delai minimum entre 2 mails pour la même personne"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Si un mail auto est prévu ou un broadcast one shot envoyé pour un user qui vient de recevoir une com, il est mis en file d'attente jusqu'à ce que le délai soit atteint"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U069NSTHZ3Q",
+        "type": "message",
+        "ts": "1763134423.782149",
+        "client_msg_id": "e8a22f1a-aaf8-4c93-9dd5-6b42395166d3",
+        "text": "sur HB on avait des exclusions listes oranges et rouges qui comprenaient automatiquement tous les contacts adressés dans les moins de x jours, comme ça ça les sortaient direct",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "fbbca81fca0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-30\/7816371623809_fbbca81fca0c916c8c15_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Gannau (Oodrive)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "m.gannau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763128291.667259",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OS3yu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sur HB on avait des exclusions listes oranges et rouges qui comprenaient automatiquement tous les contacts adressés dans les moins de x jours, comme ça ça les sortaient direct"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07MNBM4WLV",
+        "type": "message",
+        "ts": "1763137975.050009",
+        "client_msg_id": "4370f262-577b-40dd-9b06-a301f2eab8bd",
+        "text": "trop bien, merci la team you rock",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "028ce63b55be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7733128030774_028ce63b55be29945d4f_72.jpg",
+            "first_name": "Domitille",
+            "real_name": "Domitille de Saint-Exupéry",
+            "display_name": "Domitille de Saint-Exupéry (lemlist)",
+            "team": "T017AGS2KE0",
+            "name": "domitille433",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763128291.667259",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z3QE0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "trop bien, merci la team you rock"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

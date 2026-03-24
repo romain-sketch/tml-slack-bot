@@ -1,0 +1,953 @@
+[
+    {
+        "user": "U03QTQ36Q6T",
+        "type": "message",
+        "ts": "1770883413.830339",
+        "client_msg_id": "41887bde-6394-47f1-bc74-5226f8e3f3c9",
+        "text": "Bonjour à tous,\nEst-ce que certains d'entre vous utilise le nouveau tool de ``Amplitude AI Visibilty`` pour mesurer la perf et source de trafic des LLM \/ GEO ?\nJe démarre et je voudrai vérifier que ma configuration est ok et voir comment l'utiliser au maximum de ses capacités. Thanks!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "139166a5ef92",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3861039246596_139166a5ef92d2a6ce4b_72.jpg",
+            "first_name": "Marine",
+            "real_name": "Marine Gounot",
+            "display_name": "Marine Gounot (MONI)",
+            "team": "T017AGS2KE0",
+            "name": "marine.gounot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S0vbV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour à tous,\nEst-ce que certains d'entre vous utilise le nouveau tool de `"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Amplitude AI Visibilty",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "` pour mesurer la perf et source de trafic des LLM \/ GEO ?\nJe démarre et je voudrai vérifier que ma configuration est ok et voir comment l'utiliser au maximum de ses capacités. Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "x",
+                "users": [
+                    "U08EN5T6F4L",
+                    "U063A8VPPG9"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1770902063.513709",
+        "client_msg_id": "a942cb68-99c2-4e8f-8f31-d798dcfac5f3",
+        "text": "Yes c’est leur gros pitch du moment",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770732158.146119",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PY1p+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes c’est leur gros pitch du moment"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Coucou tout le monde :robot_face:\nJe suis à la recherche d'un outil IA pour générer les visuels de nos posts LinkedIn. Pour l'instant on est encore sur du FIGMA et c'est pas hyper efficace.\n• Ma contrainte est la suivante : on a un brand book de 200 slides et, pour l'instant, tous les outils que j'ai testés (Canva AI, Claude, Bannerbear) ne me permettent pas de charger des guidelines aussi fines et ne les respectent jamais (font, color, etc.).\n• Je me dis que c'est un cas d'usage d'IA tellement simple que je dois passer à côté d'un outil. C'est quoi votre référence pour une création de visuel LinkedIn en respectant un brand book (mix de font\/visuel\/3D illustration, etc.) ? Je vous mets des exemples d'output en PJ.\nDes idées?",
+        "files": [
+            {
+                "id": "F0AE6TDV1K9",
+                "created": 1770910155,
+                "timestamp": 1770910155,
+                "name": "Study slide-1.png",
+                "title": "Study slide-1.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U059T4KRCUC",
+                "user_team": "T017AGS2KE0",
+                "editable": false,
+                "size": 259660,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F0AE6TDV1K9\/study_slide-1.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F0AE6TDV1K9\/download\/study_slide-1.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AE6TDV1K9-1dedea228b\/study_slide-1_64.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AE6TDV1K9-1dedea228b\/study_slide-1_80.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AE6TDV1K9-1dedea228b\/study_slide-1_360.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AE6TDV1K9-1dedea228b\/study_slide-1_480.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_480_w": 480,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AE6TDV1K9-1dedea228b\/study_slide-1_160.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AE6TDV1K9-1dedea228b\/study_slide-1_720.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720_w": 720,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AE6TDV1K9-1dedea228b\/study_slide-1_800.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_800_w": 800,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AE6TDV1K9-1dedea228b\/study_slide-1_960.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_960_w": 960,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AE6TDV1K9-1dedea228b\/study_slide-1_1024.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 1024,
+                "original_w": 1080,
+                "original_h": 1080,
+                "thumb_tiny": "AwAwADDMGO9Bxk46UqIznCKScZ4pKACilKlTggj60lABRRRQA+J9hPGcjFG4ZLbM88k+4\/8A101GKMGHUHNAIwRgHPf0oCxI0wJYmMZbP5k5\/SkLkphlzgYz+v8AU\/p6UzPGMDPrSUWFYKKt21qpG+dWKkcKuAee\/wDn+XVt3EIwrIwZG+72oGVqKKKACrFpbiadVbOOp47VXqaFXYMyn7ox+dAGrJ5UuWUHj5QQcZFZl5IGl2L91OBSrdP5XljA4+93xVY9aAP\/2Q==",
+                "permalink": "https:\/\/techmarketingleaders.slack.com\/files\/U017U6M2G00\/F0AE6TDV1K9\/study_slide-1.png",
+                "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F0AE6TDV1K9-f67b9a5141",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F0AENB5BL8J",
+                "created": 1770910160,
+                "timestamp": 1770910160,
+                "name": "Study slide-10.png",
+                "title": "Study slide-10.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U059T4KRCUC",
+                "user_team": "T017AGS2KE0",
+                "editable": false,
+                "size": 60112,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F0AENB5BL8J\/study_slide-10.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F0AENB5BL8J\/download\/study_slide-10.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AENB5BL8J-d72b2432ae\/study_slide-10_64.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AENB5BL8J-d72b2432ae\/study_slide-10_80.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AENB5BL8J-d72b2432ae\/study_slide-10_360.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AENB5BL8J-d72b2432ae\/study_slide-10_480.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_480_w": 480,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AENB5BL8J-d72b2432ae\/study_slide-10_160.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AENB5BL8J-d72b2432ae\/study_slide-10_720.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720_w": 720,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AENB5BL8J-d72b2432ae\/study_slide-10_800.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_800_w": 800,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AENB5BL8J-d72b2432ae\/study_slide-10_960.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_960_w": 960,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AENB5BL8J-d72b2432ae\/study_slide-10_1024.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 1024,
+                "original_w": 1080,
+                "original_h": 1080,
+                "thumb_tiny": "AwAwADDMGO9Bxk46VJAMydGOPRA\/6GpDFkZWOUJuG3MYOQcd+PyoAr0VMwZQ\/mh4ywwAIwAf5Y7UrSRiPCu7MCMBoxjpj1PtQBBRT8RfN8z\/AOydo5+vNMoAcjlGyP5kd80vmkFiqhScdCeMfjTKKAJDLkHcgJPOST19etMLDaBtAPrzzV4WaGNeZCDzgEcZ71HcWixqmwnLMF5NLmRPMiqSD0UDntSVdW2lHB8st6lmzjpj6dqqzQtC4ViCSM8UXQ7pjVxuG4kD1AzSsFABVic56gD+tT2ESTTFZFyAuevuKsXNpFFaMwUbxjkE+v1pjJ1YLGme4449qiuSCISDkGRamj\/1a\/QVFc\/8sf8AroKyW5ityRpFQ4YkHGeh6VR1D\/Xr\/u\/1NaNZ2of69f8Ad\/qacdxw3P\/Z",
+                "permalink": "https:\/\/techmarketingleaders.slack.com\/files\/U017U6M2G00\/F0AENB5BL8J\/study_slide-10.png",
+                "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F0AENB5BL8J-b2f2838d36",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F0AF18RFWTB",
+                "created": 1770910163,
+                "timestamp": 1770910163,
+                "name": "Study slide-9.png",
+                "title": "Study slide-9.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U059T4KRCUC",
+                "user_team": "T017AGS2KE0",
+                "editable": false,
+                "size": 158498,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F0AF18RFWTB\/study_slide-9.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F0AF18RFWTB\/download\/study_slide-9.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AF18RFWTB-9bd2b84430\/study_slide-9_64.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AF18RFWTB-9bd2b84430\/study_slide-9_80.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AF18RFWTB-9bd2b84430\/study_slide-9_360.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AF18RFWTB-9bd2b84430\/study_slide-9_480.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_480_w": 480,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AF18RFWTB-9bd2b84430\/study_slide-9_160.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AF18RFWTB-9bd2b84430\/study_slide-9_720.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720_w": 720,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AF18RFWTB-9bd2b84430\/study_slide-9_800.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_800_w": 800,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AF18RFWTB-9bd2b84430\/study_slide-9_960.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_960_w": 960,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AF18RFWTB-9bd2b84430\/study_slide-9_1024.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 1024,
+                "original_w": 1080,
+                "original_h": 1080,
+                "thumb_tiny": "AwAwADDMGO9Bxk46UqEBvmOB3IGf0qQSALjccHBx5YxkDj+tAEVFSExhiAWKkf3ADnt60IYh8rlypHJCjIP9R+VAEkhMSG3U55+Y+\/8AkVMkbW9nMzDDNgY9v8mqwl2Thxl8HOWGCamubwSxeWikA9c0ARW1rJcsRHjA6knpUsunTxRlzsYDk4PQVa0o7raRFbDBs9OgP\/6jV6Q7Udnw0YUkrigDFt7Ga4Quu1V7Fu9FxYzW6B22svcr2rR0\/c1lHskAA3BhjJznil1I4spMkYOAB75oAz4tOnljDjYoPIyeoqK5tZLZgJMYPQg9a3YiGhVo+AygqCPu8VR1Y7bZEZssXJHHbn+WRQBmxsyZZJCh6cEgn8qeZJJEYPcEjHRixzUNFADklePOx2XP904oeSSTHmOzY6bjmm0UASpNIqYWZkA6LuNMd2kILszHGMsc02igD\/\/Z",
+                "permalink": "https:\/\/techmarketingleaders.slack.com\/files\/U017U6M2G00\/F0AF18RFWTB\/study_slide-9.png",
+                "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F0AF18RFWTB-d84a7688b5",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F0AEFV2PEUT",
+                "created": 1770910166,
+                "timestamp": 1770910166,
+                "name": "Study slide-8.png",
+                "title": "Study slide-8.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U059T4KRCUC",
+                "user_team": "T017AGS2KE0",
+                "editable": false,
+                "size": 61601,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F0AEFV2PEUT\/study_slide-8.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F0AEFV2PEUT\/download\/study_slide-8.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AEFV2PEUT-af3ae6188d\/study_slide-8_64.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AEFV2PEUT-af3ae6188d\/study_slide-8_80.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AEFV2PEUT-af3ae6188d\/study_slide-8_360.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AEFV2PEUT-af3ae6188d\/study_slide-8_480.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_480_w": 480,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AEFV2PEUT-af3ae6188d\/study_slide-8_160.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AEFV2PEUT-af3ae6188d\/study_slide-8_720.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720_w": 720,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AEFV2PEUT-af3ae6188d\/study_slide-8_800.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_800_w": 800,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AEFV2PEUT-af3ae6188d\/study_slide-8_960.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_960_w": 960,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AEFV2PEUT-af3ae6188d\/study_slide-8_1024.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 1024,
+                "original_w": 1080,
+                "original_h": 1080,
+                "thumb_tiny": "AwAwADDMGO9Bxk46U+EEyDAJx6Ju\/Q1MrkhfNMoBwRsQA5HTnvxmgCtRVhF8sjIcHA4MIPf3P60x\/L+VQ74HXMYB6\/XmgCKinkRZOHc8cZUdfzplAADg5HBqdIXIyXK57VHAMyjPbmpJ5GD7VJGKAJJrSUDIcyAc471VZixyxJPqauWMztIyMxYYzzUNwi\/apBuVB15zUrexKbvZkFFWo3zvIeNPMByMnHftz+H+OaqkYJAIPuO9UUOicJIrEZA6itCSCK5UMjYIGMj\/AArNpVYqcqSD6ik0Jq5oxxR2aF2bJPGcfyqhJKzys+SC3p6elNZixyxJPqaShISVtR3mybs+Y2fXNN60UUyj\/9k=",
+                "permalink": "https:\/\/techmarketingleaders.slack.com\/files\/U017U6M2G00\/F0AEFV2PEUT\/study_slide-8.png",
+                "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F0AEFV2PEUT-4e34c5e59f",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F0AENB73DDG",
+                "created": 1770910169,
+                "timestamp": 1770910169,
+                "name": "Study slide-7.png",
+                "title": "Study slide-7.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U059T4KRCUC",
+                "user_team": "T017AGS2KE0",
+                "editable": false,
+                "size": 405223,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F0AENB73DDG\/study_slide-7.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F0AENB73DDG\/download\/study_slide-7.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AENB73DDG-f439559899\/study_slide-7_64.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AENB73DDG-f439559899\/study_slide-7_80.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AENB73DDG-f439559899\/study_slide-7_360.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AENB73DDG-f439559899\/study_slide-7_480.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_480_w": 480,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AENB73DDG-f439559899\/study_slide-7_160.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AENB73DDG-f439559899\/study_slide-7_720.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720_w": 720,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AENB73DDG-f439559899\/study_slide-7_800.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_800_w": 800,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AENB73DDG-f439559899\/study_slide-7_960.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_960_w": 960,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AENB73DDG-f439559899\/study_slide-7_1024.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 1024,
+                "original_w": 1080,
+                "original_h": 1080,
+                "thumb_tiny": "AwAwADDMGO9Bxk46VJBneSu7ODjau7rx\/Wpvnx5Y8zj5QBCAecZz78fpQBVoqZo3CIVWQ\/KScx449c9+vWgxfMw2SDAGfk5HTP0\/zmgCGipZl2ZXa4HGN6YPT\/P+RUVACqzIwZWKkdwcU8zzNjMrnHqxpqAM2CGOc4C9c9v1q3NIXZPldymch04zxnue2M\/n1OaAKyNM5EaO5yCAN3GKsLb3PDGUqf8AeOaggYLcxkdMjORj61q0m7EybRnXNu6LvMjSe5HSq1al0CbeVRjK4yPx\/wDrVl0IavbUVTtYEjIBzilDAI67eW6Hjj9P8KbRTGKWJbPQ+wxWim67DGPHzfeB42njr6jg44rNpySOn3HZc+hxQBqC3igX\/SJVPHT6fz6\/54qneyW7lRApyOC3qKqkkkknJPUmigD\/2Q==",
+                "permalink": "https:\/\/techmarketingleaders.slack.com\/files\/U017U6M2G00\/F0AENB73DDG\/study_slide-7.png",
+                "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F0AENB73DDG-dbaaaf341c",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F0AE6TJGA07",
+                "created": 1770910172,
+                "timestamp": 1770910172,
+                "name": "Study slide-6.png",
+                "title": "Study slide-6.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U059T4KRCUC",
+                "user_team": "T017AGS2KE0",
+                "editable": false,
+                "size": 58969,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F0AE6TJGA07\/study_slide-6.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F0AE6TJGA07\/download\/study_slide-6.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AE6TJGA07-d0ea6ef8d5\/study_slide-6_64.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AE6TJGA07-d0ea6ef8d5\/study_slide-6_80.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AE6TJGA07-d0ea6ef8d5\/study_slide-6_360.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AE6TJGA07-d0ea6ef8d5\/study_slide-6_480.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_480_w": 480,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AE6TJGA07-d0ea6ef8d5\/study_slide-6_160.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AE6TJGA07-d0ea6ef8d5\/study_slide-6_720.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720_w": 720,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AE6TJGA07-d0ea6ef8d5\/study_slide-6_800.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_800_w": 800,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AE6TJGA07-d0ea6ef8d5\/study_slide-6_960.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_960_w": 960,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AE6TJGA07-d0ea6ef8d5\/study_slide-6_1024.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 1024,
+                "original_w": 1080,
+                "original_h": 1080,
+                "thumb_tiny": "AwAwADDMGO9Bxk46U6I4fIGSPYHHrwfaphHJISWWdgcZ+XOSOP8AGgCvRU+yTKsUfrjJiHUnke9I+9ixCuTgA7kB6Dnn2\/8A10AQ0VM\/lKpRJC3P3tg54\/Mc1CcZOCSO2aAHxSeU+7BJHTDEf544\/GlaQs+VyCOQS3I\/H68\/Wo61\/Ji\/55p\/3yKTdiXKxmrOy9HkH0fH+eOKa0rsxO9z16tk+n8qJgBM4AwAxplMoerIFIMe4kdS3T\/PFMoooAK1\/Oi\/56J\/30KyKessigBXIAORg9Ov+JpNXJcblyGG2lMryz7G3kDDgZFNntrfzo1juBh87mZgcVVSV4wwRsBhgjGQaQyMRjC9MfdFMotSWcKxswvI2IBIAxz+tU6cZGMpkOCxOTlQR+VNoA\/\/2Q==",
+                "permalink": "https:\/\/techmarketingleaders.slack.com\/files\/U017U6M2G00\/F0AE6TJGA07\/study_slide-6.png",
+                "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F0AE6TJGA07-e20a959dc4",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F0AEFV4C6LB",
+                "created": 1770910175,
+                "timestamp": 1770910175,
+                "name": "Study slide-5.png",
+                "title": "Study slide-5.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U059T4KRCUC",
+                "user_team": "T017AGS2KE0",
+                "editable": false,
+                "size": 65882,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F0AEFV4C6LB\/study_slide-5.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F0AEFV4C6LB\/download\/study_slide-5.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AEFV4C6LB-4b0fb831e3\/study_slide-5_64.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AEFV4C6LB-4b0fb831e3\/study_slide-5_80.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AEFV4C6LB-4b0fb831e3\/study_slide-5_360.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AEFV4C6LB-4b0fb831e3\/study_slide-5_480.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_480_w": 480,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AEFV4C6LB-4b0fb831e3\/study_slide-5_160.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AEFV4C6LB-4b0fb831e3\/study_slide-5_720.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720_w": 720,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AEFV4C6LB-4b0fb831e3\/study_slide-5_800.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_800_w": 800,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AEFV4C6LB-4b0fb831e3\/study_slide-5_960.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_960_w": 960,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AEFV4C6LB-4b0fb831e3\/study_slide-5_1024.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 1024,
+                "original_w": 1080,
+                "original_h": 1080,
+                "thumb_tiny": "AwAwADDMGO9Bxk46VJDncVG7DDDbV3H8vril8ogEsJR3zs9Ovft\/nFAEVFSqyBcFiP8AtmD\/AJ6n8h+AkoWMDJyThhtByuc\/z\/p6UARUU7cQCAevXikdi7lmOWJyaAFQlT8r7Pfn60F3JyWYnkZz69f50i9emeDSUAFPaPaM70PPY\/T\/ABpgBYgAEk8ACpNjmPAhPy8lwD0569v\/ANVAEdBGAORzQOvTPtSt0XjHH580AC7Sw3khfUDJpD7dKVHaNw6HDDoaSgAGMjJIHfFPxFtPzvn02j\/GmU9ppHUqzZDNuIx39aAGUpxgYz05zSUEkgA9uBQB\/9k=",
+                "permalink": "https:\/\/techmarketingleaders.slack.com\/files\/U017U6M2G00\/F0AEFV4C6LB\/study_slide-5.png",
+                "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F0AEFV4C6LB-b56008f60f",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F0AEL9ED6CE",
+                "created": 1770910179,
+                "timestamp": 1770910179,
+                "name": "Study slide-4.png",
+                "title": "Study slide-4.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U059T4KRCUC",
+                "user_team": "T017AGS2KE0",
+                "editable": false,
+                "size": 58648,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F0AEL9ED6CE\/study_slide-4.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F0AEL9ED6CE\/download\/study_slide-4.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AEL9ED6CE-b475237ea8\/study_slide-4_64.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AEL9ED6CE-b475237ea8\/study_slide-4_80.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AEL9ED6CE-b475237ea8\/study_slide-4_360.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AEL9ED6CE-b475237ea8\/study_slide-4_480.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_480_w": 480,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AEL9ED6CE-b475237ea8\/study_slide-4_160.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AEL9ED6CE-b475237ea8\/study_slide-4_720.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720_w": 720,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AEL9ED6CE-b475237ea8\/study_slide-4_800.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_800_w": 800,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AEL9ED6CE-b475237ea8\/study_slide-4_960.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_960_w": 960,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AEL9ED6CE-b475237ea8\/study_slide-4_1024.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 1024,
+                "original_w": 1080,
+                "original_h": 1080,
+                "thumb_tiny": "AwAwADDMGO9Bxk46UqYDfMSB3IGf0qbenkn5yGbJZdgxnnH06\/h+VAEFFSh1RcCViGX5hszjnnqfbr9Kcjw5O9pMbtwCqMdfT6flzQBBRTzJtICHcqkkblHfrxzTKAJra1kuWIjxgdST0qWXTp4oy52MBycHoKtaUxNtIiMA4bPIz\/noauyHYsjOd0YUkrigDDhtZJl3LgD1Peia1khXc2CPUdqt2uWs1COFPOTjOOadenFs+SOcYH41F3cz5nexXi06eWMONig8jJ6iorm1ktmAkxg9CD1rch5VXViI2UbUwOKpaqStrGjsC5fPAxxz\/iKs0M2NmTLJIUPTgkE\/lTzJJIjB7gkY6MWOahooAfGXBOx9nr82KWbPG6YSfQk4\/Oo6KAJFnlRQqSuqjsGNEpZtrPJvbHdsmo6KAP\/Z",
+                "permalink": "https:\/\/techmarketingleaders.slack.com\/files\/U017U6M2G00\/F0AEL9ED6CE\/study_slide-4.png",
+                "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F0AEL9ED6CE-85947d480e",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F0AF18V5HMX",
+                "created": 1770910182,
+                "timestamp": 1770910182,
+                "name": "Study slide-3.png",
+                "title": "Study slide-3.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U059T4KRCUC",
+                "user_team": "T017AGS2KE0",
+                "editable": false,
+                "size": 263457,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F0AF18V5HMX\/study_slide-3.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F0AF18V5HMX\/download\/study_slide-3.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AF18V5HMX-3fdb5a83fc\/study_slide-3_64.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AF18V5HMX-3fdb5a83fc\/study_slide-3_80.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AF18V5HMX-3fdb5a83fc\/study_slide-3_360.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AF18V5HMX-3fdb5a83fc\/study_slide-3_480.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_480_w": 480,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AF18V5HMX-3fdb5a83fc\/study_slide-3_160.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AF18V5HMX-3fdb5a83fc\/study_slide-3_720.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720_w": 720,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AF18V5HMX-3fdb5a83fc\/study_slide-3_800.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_800_w": 800,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AF18V5HMX-3fdb5a83fc\/study_slide-3_960.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_960_w": 960,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AF18V5HMX-3fdb5a83fc\/study_slide-3_1024.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 1024,
+                "original_w": 1080,
+                "original_h": 1080,
+                "thumb_tiny": "AwAwADDMGO9Bxk46UYJzgdOtFABRRRQAUUUUASQqz71VGfK8hevUU9w77QYCOT0Xk84\/nx+lNt5HjdjGVyVKndjGD9f8\/hUizXAC4dML0GV4yQf54+ntQFhkodU+eApnjcVxzx\/gfzqGpZXlK\/vGUhjngg9z6fU1FQAUUU7bnoRn0oAECtnJIOMj\/OacETncx44OAD+XPPeo6KAJiIwoLcbv7oyR\/wCPfhz2p1siS3EUYAOcFiRjpkkdar1o6PHl5JDngbR6f56UAabIr\/eUH6iqlzaQAK2NpGAMcf5NXaoajJtXAxxz\/n9KAP\/Z",
+                "permalink": "https:\/\/techmarketingleaders.slack.com\/files\/U017U6M2G00\/F0AF18V5HMX\/study_slide-3.png",
+                "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F0AF18V5HMX-531b1a8501",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F0AENBBMUCS",
+                "created": 1770910185,
+                "timestamp": 1770910185,
+                "name": "Study slide-2.png",
+                "title": "Study slide-2.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U059T4KRCUC",
+                "user_team": "T017AGS2KE0",
+                "editable": false,
+                "size": 273769,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F0AENBBMUCS\/study_slide-2.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F0AENBBMUCS\/download\/study_slide-2.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AENBBMUCS-ba92c748f6\/study_slide-2_64.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AENBBMUCS-ba92c748f6\/study_slide-2_80.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AENBBMUCS-ba92c748f6\/study_slide-2_360.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AENBBMUCS-ba92c748f6\/study_slide-2_480.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_480_w": 480,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AENBBMUCS-ba92c748f6\/study_slide-2_160.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AENBBMUCS-ba92c748f6\/study_slide-2_720.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720_w": 720,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AENBBMUCS-ba92c748f6\/study_slide-2_800.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_800_w": 800,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AENBBMUCS-ba92c748f6\/study_slide-2_960.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_960_w": 960,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0AENBBMUCS-ba92c748f6\/study_slide-2_1024.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 1024,
+                "original_w": 1080,
+                "original_h": 1080,
+                "thumb_tiny": "AwAwADDMGO9Bxk46UoUtnAJwMnFIAT0BPagAoopdrEZ2nH0\/z6GgBKKMHGccUUAPi3ZIUA8HIPcDk\/yqceeJcCNQ3HGf9rH8+PpUERYE7CoJGDnHQ8d6k3zMhYtGRjnJXJAOenXr+dArEbOwBQjGOCMdP8\/zpxnYnOB0xj8f8j6cUjI7ncWTJGfvqP68fSmFSuM4554OaLBYWSRpCSe5zTaKdtz0Iz6UDBQpDEkjAyPf9adsQEhmPA5wAfTpzz\/n8I6KAJmSNR82B\/u4bGf+Be2Pp17Utsiy3EcYUEEgknPOOT\/hUFaOjx5eSQ54G0en+elAGmyK\/wB5QfqKqXNpAArY2kYAxx\/k1dqhqMm1cDHHP+f0oA\/\/2Q==",
+                "permalink": "https:\/\/techmarketingleaders.slack.com\/files\/U017U6M2G00\/F0AENBBMUCS\/study_slide-2.png",
+                "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F0AENBBMUCS-744ca0cbd9",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U059T4KRCUC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vGjnM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Coucou tout le monde "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "robot_face",
+                                "unicode": "1f916"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nJe suis à la recherche d'un outil IA pour générer les visuels de nos posts LinkedIn. Pour l'instant on est encore sur du FIGMA et c'est pas hyper efficace.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Ma contrainte est la suivante : on a un brand book de 200 slides et, pour l'instant, tous les outils que j'ai testés (Canva AI, Claude, Bannerbear) ne me permettent pas de charger des guidelines aussi fines et ne les respectent jamais (font, color, etc.)."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Je me dis que c'est un cas d'usage d'IA tellement simple que je dois passer à côté d'un outil. C'est quoi votre référence pour une création de visuel LinkedIn en respectant un brand book (mix de font\/visuel\/3D illustration, etc.) ? Je vous mets des exemples d'output en PJ."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Des idées?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1770910194.911679",
+        "client_msg_id": "da35dd72-c364-452f-8a2f-6d689063fe57",
+        "thread_ts": "1770910194.911679",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1771285706.938319",
+        "reply_users": [
+            "U0183AS3MB6",
+            "U059T4KRCUC",
+            "U03P99RGMTN",
+            "U06MHCCLQG3"
+        ],
+        "replies": [
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1770917455.814189"
+            },
+            {
+                "user": "U059T4KRCUC",
+                "ts": "1770927915.289399"
+            },
+            {
+                "user": "U03P99RGMTN",
+                "ts": "1770969188.492549"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1770970635.494869"
+            },
+            {
+                "user": "U06MHCCLQG3",
+                "ts": "1771285706.938319"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U092U6UDLMN",
+                    "U0A0QG03DLN"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1770917455.814189",
+        "client_msg_id": "757c4338-7887-4ee3-8826-c2001194cefa",
+        "text": "<https:\/\/www.pletor.ai\/|Pletor> all the way.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770910194.911679",
+        "parent_user_id": "U059T4KRCUC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dLgaL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.pletor.ai\/",
+                                "text": "Pletor"
+                            },
+                            {
+                                "type": "text",
+                                "text": " all the way."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U059T4KRCUC",
+                    "U03P99RGMTN"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U065DFPCQMP",
+                    "U063A8VPPG9"
+                ],
+                "count": 2
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03P99RGMTN",
+                    "U06LENY5V6Z"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0AEPPHSNQJ",
+        "text": "<@U0AEPPHSNQJ> has joined the channel",
+        "type": "message",
+        "ts": "1770926699.358279"
+    },
+    {
+        "user": "U059T4KRCUC",
+        "type": "message",
+        "ts": "1770927915.289399",
+        "client_msg_id": "37905709-f581-47a0-95ce-2900efbbf352",
+        "text": "merciiii",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "57639ff481aa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-29\/5337202241186_57639ff481aa2740f127_72.png",
+            "first_name": "Isa",
+            "real_name": "Isa",
+            "display_name": "Isa",
+            "team": "T017AGS2KE0",
+            "name": "ilejeune",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770910194.911679",
+        "parent_user_id": "U059T4KRCUC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7r9x5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "merciiii"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0AF2M53E81",
+        "text": "<@U0AF2M53E81> has joined the channel",
+        "type": "message",
+        "ts": "1770932865.857049"
+    },
+    {
+        "user": "U03P99RGMTN",
+        "type": "message",
+        "ts": "1770969188.492549",
+        "client_msg_id": "DC8FAA62-5374-4329-9B54-83F8A5F9F435",
+        "text": "Et pour faire la même sur des slides avec un template ça marche ? Je dois être un peu quichasse mais pour moi Gamma, beautiful AI font pas bien le job… qui a une recette magique ?:mage: on doit  mettre à jour 20 decks pour un changement de logo et je ne veux pas perdre la santé mentale de ma team dessus :zany_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2f8b530bfffa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-28\/7656384027105_2f8b530bfffa39d455d3_72.png",
+            "first_name": "Julie",
+            "real_name": "Julie Asselin (365Talents)",
+            "display_name": "Julie Asselin (365Talents)",
+            "team": "T017AGS2KE0",
+            "name": "julie.asselin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770910194.911679",
+        "parent_user_id": "U059T4KRCUC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uLlDx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et pour faire la même sur des slides avec un template ça marche ? Je dois être un peu quichasse mais pour moi Gamma, beautiful AI font pas bien le job"
+                            },
+                            {
+                                "type": "text",
+                                "text": "…"
+                            },
+                            {
+                                "type": "text",
+                                "text": " qui a une recette magique ?"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "mage",
+                                "unicode": "1f9d9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on doit  mettre à jour 20 decks pour un changement de logo et je ne veux pas perdre la santé mentale de ma team dessus "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "zany_face",
+                                "unicode": "1f92a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U059T4KRCUC",
+                    "U07R7CUFM7H"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

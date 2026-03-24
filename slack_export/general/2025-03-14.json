@@ -1,0 +1,186 @@
+[
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1741940484.974839",
+        "client_msg_id": "7229994d-a076-42f8-bc5f-33bc1dfbf792",
+        "text": "merci!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741855651.439999",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i8Dcy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "merci!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06E3PY5LAY",
+        "type": "message",
+        "ts": "1741967400.786129",
+        "edited": {
+            "user": "U06E3PY5LAY",
+            "ts": "1741967425.000000"
+        },
+        "client_msg_id": "a66d6dc4-4e5a-4e5b-94af-69f5f86be86d",
+        "text": "Bonjour à tous - Je m'adresse à la communauté pour savoir si certains sont intéressés à être des bêta-testeurs gratuits pour Kaizenn, une entreprise fondée par Arnaud Weiss, sa précédente société a été acquise par LumApps. Merci !\nVoici le pitch:\n*Kaizenn* delivers *ultra-qualified leads* to GTM teams: professionals in your ICP who show strong buying signals, such as\n• engaging with a competitor’s sales reps on LinkedIn (suggesting an active RFP)\n• posting a negative review on G2 (open to replacement).\nWe're the anti AI-SDR, relevant for high ACV companies that cannot afford the reputational risk of a spammy approach. Interested to be a free beta user? Book a meeting in agenda of Arnaud <https:\/\/calendar.app.google\/G4Zmj7RMtYqHgnAW8>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e6f18bbbcc15",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-16\/6475144975749_e6f18bbbcc1579d4df98_72.png",
+            "first_name": "Elizabeth",
+            "real_name": "Elizabeth Coleon",
+            "display_name": "Elizabeth Coleon",
+            "team": "T017AGS2KE0",
+            "name": "eorzano",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741967400.786129",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1745930613.629339",
+        "reply_users": [
+            "U07BLPPL3C1",
+            "U06E3PY5LAY"
+        ],
+        "replies": [
+            {
+                "user": "U07BLPPL3C1",
+                "ts": "1745402349.669669"
+            },
+            {
+                "user": "U06E3PY5LAY",
+                "ts": "1745930613.629339"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3NBkF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour à tous - Je m'adresse à la communauté pour savoir si certains sont intéressés à être des bêta-testeurs gratuits pour Kaizenn, une entreprise fondée par Arnaud Weiss, sa précédente société a été acquise par LumApps. Merci !\nVoici le pitch:\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Kaizenn",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " delivers "
+                            },
+                            {
+                                "type": "text",
+                                "text": "ultra-qualified leads",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " to GTM teams: professionals in your ICP who show strong buying signals, such as\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "engaging with a competitor’s sales reps on LinkedIn (suggesting an active RFP)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "posting a negative review on G2 (open to replacement)."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We're the anti AI-SDR, relevant for high ACV companies that cannot afford the reputational risk of a spammy approach. Interested to be a free beta user? Book a meeting in agenda of Arnaud "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/calendar.app.google\/G4Zmj7RMtYqHgnAW8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U04A6JMRWCS",
+                    "U01T6U402V8",
+                    "U084KTR7YKX",
+                    "U03P99RGMTN",
+                    "U065DFPCQMP"
+                ],
+                "count": 5
+            },
+            {
+                "name": "wave",
+                "users": [
+                    "U084KTR7YKX",
+                    "U03P99RGMTN"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,131 @@
+[
+    {
+        "user": "U0951RDNKU6",
+        "type": "message",
+        "ts": "1767615302.004289",
+        "client_msg_id": "6b80233e-aa61-46a3-be1c-6d230b47e284",
+        "text": "<@U06TF9YAWEM> ça m'intéresse ton contact camion :articulated_lorry: tu pourrais me le \"prêter\" stp ? :slightly_smiling_face: merciiii",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "85dcd88ccf2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-06\/9660924995297_85dcd88ccf2fa3d8be38_72.jpg",
+            "first_name": "Marion",
+            "real_name": "Marion de Robillard",
+            "display_name": "Marion de Robillard",
+            "team": "T017AGS2KE0",
+            "name": "marionderobillard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1765542092.304799",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uWmH4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06TF9YAWEM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ça m'intéresse ton contact camion "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "articulated_lorry",
+                                "unicode": "1f69b"
+                            },
+                            {
+                                "type": "text",
+                                "text": " tu pourrais me le \"prêter\" stp ? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " merciiii"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U06TF9YAWEM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06TF9YAWEM",
+        "type": "message",
+        "ts": "1767624912.933699",
+        "client_msg_id": "D257EBDD-D517-4765-9346-A2EC6C0BC934",
+        "text": "Et voici : Riad : <tel:+33658041119|+33 6 58 04 11 19> - adverco",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "bd18243d01f9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-04-13\/8768953549904_bd18243d01f97fe02075_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Lhermitte",
+            "display_name": "Marie Lhermitte (Lucca)",
+            "team": "T017AGS2KE0",
+            "name": "marie.lhermitte78",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1765542092.304799",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XCo\/v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et voici : Riad : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:+33658041119",
+                                "text": "+33 6 58 04 11 19"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - adverco"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart_hands",
+                "users": [
+                    "U0951RDNKU6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

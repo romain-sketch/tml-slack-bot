@@ -1,0 +1,120 @@
+[
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1760608234.832229",
+        "client_msg_id": "cfb77cc6-b3fe-4bbe-a67b-2ddcc469a9f8",
+        "text": "<@U017CURDPB5> intéressée de voir les insights real time car ça fait \"feature wahou\" mais y'a des limites\n• c'est pas quali (le temps réel vs l'async de quelques minutes post call\/meeting)\n• ça perturbe les sales pendant les calls plus que ça ne les aide en vrai donc pas d'adoption. Souvent les fonctionnalités ask anything \/assitant IA aident si besoin d'une info en temps réel mais je rate peut-être des use cases (ex : oubli d'une question de qualif, etc...)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759735293.769739",
+        "parent_user_id": "U09BVQYR1GA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "39ELa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U017CURDPB5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " intéressée de voir les insights real time car ça fait \"feature wahou\" mais y'a des limites\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "c'est pas quali (le temps réel vs l'async de quelques minutes post call\/meeting)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ça perturbe les sales pendant les calls plus que ça ne les aide en vrai donc pas d'adoption. Souvent les fonctionnalités ask anything \/assitant IA aident si besoin d'une info en temps réel mais je rate peut-être des use cases (ex : oubli d'une question de qualif, etc...)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017CURDPB5",
+        "type": "message",
+        "ts": "1760610213.772969",
+        "client_msg_id": "04fd5c43-5fea-4ae1-94e5-a7a7a298346a",
+        "text": "merci pour ton retour <@U084KTR7YKX>, j'ai eu le meme retour que toi sur Cluely par la bande. On va rester sur Modjo",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "671ad569fbc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5982967598243_671ad569fbc40977de70_72.jpg",
+            "first_name": "David",
+            "real_name": "David Remaud",
+            "display_name": "David Remaud (iBanFirst)",
+            "team": "T017AGS2KE0",
+            "name": "david.remaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759735293.769739",
+        "parent_user_id": "U09BVQYR1GA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "61NSv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "merci pour ton retour "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U084KTR7YKX"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", j'ai eu le meme retour que toi sur Cluely par la bande. On va rester sur Modjo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

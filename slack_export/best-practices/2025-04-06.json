@@ -1,0 +1,71 @@
+[
+    {
+        "user": "U017CURDPB5",
+        "type": "message",
+        "ts": "1744004384.543519",
+        "client_msg_id": "12E24210-3B5A-47FD-B51E-7127D26C3906",
+        "text": "Ça peut être aussi une technique classique de hacher. Une fois connectée à des dizaines d’employés « Gabrielle » enverra un msg urgent où elle explique avoir besoin d’un mot de passe pour aider un client \/ le CEO \/ etc. Ça marche bien dans les boîtes avec plein de bureaux ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "671ad569fbc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5982967598243_671ad569fbc40977de70_72.jpg",
+            "first_name": "David",
+            "real_name": "David Remaud",
+            "display_name": "David Remaud (iBanFirst)",
+            "team": "T017AGS2KE0",
+            "name": "david.remaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744004384.543519",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1744010511.418929",
+        "reply_users": [
+            "U03P99RGMTN"
+        ],
+        "replies": [
+            {
+                "user": "U03P99RGMTN",
+                "ts": "1744010511.418929"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cazBu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ça peut être aussi une technique classique de hacher. Une fois connectée à des dizaines d’employés « Gabrielle » enverra un msg urgent où elle explique avoir besoin d’un mot de passe pour aider un client \/ le CEO \/ etc. Ça marche bien dans les boîtes avec plein de bureaux "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "disguised_face",
+                "users": [
+                    "U03P99RGMTN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "cold_sweat",
+                "users": [
+                    "U03P99RGMTN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1738051529.206439",
+        "client_msg_id": "9e3de991-6363-43e4-9dc6-4ab60fee288a",
+        "text": "Sorry, je ne pourrai pas... c'est le jour de mes 40 ans (alors oui bien sûr j'aurais adoré les fêter avec vous et la BPI mais mon mari a déjà booké la soirée)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737999673.412419",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IfVGB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry, je ne pourrai pas... c'est le jour de mes 40 ans (alors oui bien sûr j'aurais adoré les fêter avec vous et la BPI mais mon mari a déjà booké la soirée)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "broken_heart",
+                "users": [
+                    "U04SM1RGPJB",
+                    "U063A8VPPG9",
+                    "U078PFP7A4B"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "text": "Hello, j'ai schedulé un post avec le compte Linkedin de TML jeudi, le lendemain de la soirée, avec les 2 événements à venir. Je ne serai pas à BPI, je vous souhaite un super événement",
+        "files": [
+            {
+                "id": "F08APQF802Y",
+                "created": 1738070871,
+                "timestamp": 1738070871,
+                "name": "Social assets for #TheBook_BpiFrance & France Digitale.pdf",
+                "title": "Social assets for #TheBook_BpiFrance &amp; France Digitale.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U02N2EVMFCG",
+                "user_team": "T017AGS2KE0",
+                "editable": false,
+                "size": 1342842,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F08APQF802Y\/social_assets_for__thebook_bpifrance___france_digitale.pdf?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F08APQF802Y\/download\/social_assets_for__thebook_bpifrance___france_digitale.pdf?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08APQF802Y-d3b23b9d8a\/social_assets_for__thebook_bpifrance___france_digitale_thumb_pdf.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_pdf_w": 1100,
+                "thumb_pdf_h": 619,
+                "permalink": "https:\/\/techmarketingleaders.slack.com\/files\/U017U6M2G00\/F08APQF802Y\/social_assets_for__thebook_bpifrance___france_digitale.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F08APQF802Y-2056b57b35",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U02N2EVMFCG",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9U4Zq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, j'ai schedulé un post avec le compte Linkedin de TML jeudi, le lendemain de la soirée, avec les 2 événements à venir. Je ne serai pas à BPI, je vous souhaite un super événement"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1738070895.557599",
+        "client_msg_id": "3e475763-685e-48c2-a70b-a07b1574ca06",
+        "thread_ts": "1737999673.412419",
+        "parent_user_id": "U078PFP7A4B"
+    },
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1738070951.599919",
+        "client_msg_id": "e0981f6f-0c6c-4068-b346-dfd8a1634fa8",
+        "text": "Merci Yannig !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737999673.412419",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6+QlI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci Yannig !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

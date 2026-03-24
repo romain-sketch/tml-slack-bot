@@ -1,0 +1,218 @@
+[
+    {
+        "user": "U06EN9X790C",
+        "type": "message",
+        "ts": "1741951895.893039",
+        "client_msg_id": "9CECAA0C-762F-4DFF-9DAD-264A0B586296",
+        "text": "Hello à tous :wave: \nQuel outil d’AB test utilisez-vous et avez vous un REX? \nAussi, conseillez-vous un autre outil qui fait la même chose que hotjar ? \nMerciii :pray: ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "bea7f170501a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-20\/6503634777459_bea7f170501a9dc7d1c3_72.jpg",
+            "first_name": "Chiraz",
+            "real_name": "Chiraz Hassen",
+            "display_name": "Chiraz",
+            "team": "T017AGS2KE0",
+            "name": "chiraz.hassen558",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741951895.893039",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1741957579.809659",
+        "reply_users": [
+            "U025AMSNGF8"
+        ],
+        "replies": [
+            {
+                "user": "U025AMSNGF8",
+                "ts": "1741955885.206029"
+            },
+            {
+                "user": "U025AMSNGF8",
+                "ts": "1741957579.809659"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uBzN4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello à tous "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nQuel outil d’AB test utilisez-vous et avez vous un REX? \nAussi, conseillez-vous un autre outil qui fait la même chose que hotjar ? \nMerciii "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U025AMSNGF8",
+        "type": "message",
+        "ts": "1741955885.206029",
+        "client_msg_id": "1da82c04-a81c-4cdd-85a8-8e4ab024badd",
+        "text": "Hello <@U06EN9X790C> depuis l’arrêt de Google Optimize nous sommes chez VWO pour nos AB tests, et sur Microsoft Clarity à la place d’Hotjar. Nous sommes satisfaits des deux outils.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b5f2d16c46f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-18\/6070004520657_b5f2d16c46f6b166931e_72.png",
+            "first_name": "Eliott",
+            "real_name": "Eliott Guerin",
+            "display_name": "Eliott Guerin (Skello)",
+            "team": "T017AGS2KE0",
+            "name": "eliott",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741951895.893039",
+        "parent_user_id": "U06EN9X790C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8rfmk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06EN9X790C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " depuis l’arrêt de Google Optimize nous sommes chez VWO pour nos AB tests, et sur Microsoft Clarity à la place d’Hotjar. Nous sommes satisfaits des deux outils."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U06EN9X790C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U025AMSNGF8",
+        "type": "message",
+        "ts": "1741957579.809659",
+        "client_msg_id": "022c8546-159e-4ffe-be39-12ea11107448",
+        "text": "Retour + poussé sur VWO : on est en Free plan pour l’instant (50K\/users par mois)\n• Free plan très généreux\n• Plus puissant que Optimize mais plus complexe à gérer\n• Devient vite cher une fois qu’on dépasse les 50K users\/monthly gratuit par mois",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b5f2d16c46f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-18\/6070004520657_b5f2d16c46f6b166931e_72.png",
+            "first_name": "Eliott",
+            "real_name": "Eliott Guerin",
+            "display_name": "Eliott Guerin (Skello)",
+            "team": "T017AGS2KE0",
+            "name": "eliott",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741951895.893039",
+        "parent_user_id": "U06EN9X790C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yXgGY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Retour + poussé sur VWO : on est en Free plan pour l’instant (50K\/users par mois)\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Free plan très généreux"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Plus puissant que Optimize mais plus complexe à gérer"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Devient vite cher une fois qu’on dépasse les 50K users\/monthly gratuit par mois"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U06EN9X790C"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,131 @@
+[
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1766478521.994649",
+        "client_msg_id": "d79f0651-6b38-4426-a120-34ae699c8d34",
+        "text": "Non Elie est toujours là mais ils cherchent un profil plus senior effectivement !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1766419204.476439",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xs99S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Non Elie est toujours là mais ils cherchent un profil plus senior effectivement !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06U1GG592M",
+        "type": "message",
+        "ts": "1766488881.401679",
+        "client_msg_id": "9298e662-1d9d-4298-8415-311d47b72ea7",
+        "text": "Hello :wave:\nEst-ce que vous auriez à recommander un *bon freelance en montage vidéo*, à l’aise avec le *recycling de rush vidéo* pour produire de *nouveaux assets Meta* ?\nObjectif : retravailler de l’existant (hooks, cuts, formats, déclinaisons) pour gagner en volume et en vitesse de test, plutôt que repartir de zéro à chaque fois.\nSi vous avez des noms \/ contacts, je suis preneuse :pray:\nMerci d’avance !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "84a1e781f35c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-31\/7202740482978_84a1e781f35c228ca958_72.jpg",
+            "first_name": "Carolane",
+            "real_name": "Carolane Guyon",
+            "display_name": "Carolane (Veesion)",
+            "team": "T017AGS2KE0",
+            "name": "c.guyon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mAAYI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nEst-ce que vous auriez à recommander un "
+                            },
+                            {
+                                "type": "text",
+                                "text": "bon freelance en montage vidéo",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", à l’aise avec le "
+                            },
+                            {
+                                "type": "text",
+                                "text": "recycling de rush vidéo",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour produire de "
+                            },
+                            {
+                                "type": "text",
+                                "text": "nouveaux assets Meta ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "?\nObjectif : retravailler de l’existant (hooks, cuts, formats, déclinaisons) pour gagner en volume et en vitesse de test, plutôt que repartir de zéro à chaque fois.\nSi vous avez des noms \/ contacts, je suis preneuse "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nMerci d’avance !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

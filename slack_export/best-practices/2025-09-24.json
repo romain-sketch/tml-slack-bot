@@ -1,0 +1,63 @@
+[
+    {
+        "user": "U069NSTHZ3Q",
+        "type": "message",
+        "ts": "1758708512.031969",
+        "client_msg_id": "91748b3e-613a-46f0-a9f3-ded393cc305c",
+        "text": "<@U08SA22HS0J> <@U08HF5YQM6G> pour info on a donc arrêté Zeliq, le POC n'ayant pas donné satisfaction. On teste Lemlist  :slightly_smiling_face: mais c'est  bien aussi pour la partie enrichissement?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "fbbca81fca0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-30\/7816371623809_fbbca81fca0c916c8c15_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Gannau (Oodrive)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "m.gannau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756742190.984759",
+        "parent_user_id": "U08HF5YQM6G",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7ppBN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U08SA22HS0J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08HF5YQM6G"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour info on a donc arrêté Zeliq, le POC n'ayant pas donné satisfaction. On teste Lemlist  "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " mais c'est  bien aussi pour la partie enrichissement?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

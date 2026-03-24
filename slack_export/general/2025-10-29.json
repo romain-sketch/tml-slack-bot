@@ -1,0 +1,783 @@
+[
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1761749426.209639",
+        "client_msg_id": "fbcf8fcf-fef7-4163-81c2-b6f82711b6e5",
+        "text": "*Hello à tous,*\nOn réfléchit à organiser un événement en commun avec les autres communautés de marketers : UnlockM, Futur Proche et Bulldozer.\nDe belles synergies en perspective — et, soyons honnêtes, un peu de consanguinité :smile:\n\nOn avance sur le concept, l’agenda, etc. Plus d'infos à venir rapidement via <@U02N2EVMFCG> je pense.\n\nAvec <@U063A8VPPG9>, nous regardons pour le prêt d’un lieu :\n• *Format conférence + Cocktail*\n• *Prévue en janvier*, \n• *150 à 200 personnes*.\n:point_right: Est-ce que quelqu’un aurait la possibilité d’accueillir une audience de cette taille… et idéalement gratuitement ?\nMerci !!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761749426.209639",
+        "reply_count": 23,
+        "reply_users_count": 9,
+        "latest_reply": "1762603680.977539",
+        "reply_users": [
+            "U07MNBM4WLV",
+            "U063A8VPPG9",
+            "U01A4GMRRR9",
+            "U02N2EVMFCG",
+            "U0951RDNKU6",
+            "U06CZESF7QF",
+            "U0183AS3MB6",
+            "U04SM1RGPJB",
+            "U080K705ESH"
+        ],
+        "replies": [
+            {
+                "user": "U07MNBM4WLV",
+                "ts": "1761749934.306129"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1761750774.162649"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1761750801.380519"
+            },
+            {
+                "user": "U01A4GMRRR9",
+                "ts": "1761750848.889269"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1761752070.812319"
+            },
+            {
+                "user": "U0951RDNKU6",
+                "ts": "1761757367.119489"
+            },
+            {
+                "user": "U0951RDNKU6",
+                "ts": "1761757396.538939"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1761757650.058789"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1761758258.314419"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1761761645.257999"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1761903178.460479"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1761903687.270729"
+            },
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1761903872.021259"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1761922125.905799"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1762159643.749309"
+            },
+            {
+                "user": "U080K705ESH",
+                "ts": "1762434655.214769"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1762435426.777479"
+            },
+            {
+                "user": "U01A4GMRRR9",
+                "ts": "1762435509.213629"
+            },
+            {
+                "user": "U080K705ESH",
+                "ts": "1762437594.739079"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1762447946.887199"
+            },
+            {
+                "user": "U01A4GMRRR9",
+                "ts": "1762447999.279929"
+            },
+            {
+                "user": "U0951RDNKU6",
+                "ts": "1762533545.315459"
+            },
+            {
+                "user": "U01A4GMRRR9",
+                "ts": "1762603680.977539"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mo+Ln",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello à tous,",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nOn réfléchit à organiser un événement en commun avec les autres communautés de marketers : UnlockM, Futur Proche et Bulldozer.\nDe belles synergies en perspective — et, soyons honnêtes, un peu de consanguinité "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nOn avance sur le concept, l’agenda, etc. Plus d'infos à venir rapidement via "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02N2EVMFCG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je pense.\n\nAvec "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U063A8VPPG9"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", nous regardons pour le prêt d’un lieu :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Format conférence + Cocktail",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Prévue en janvier",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "150 à 200 personnes",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "point_right",
+                                "unicode": "1f449"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Est-ce que quelqu’un aurait la possibilité d’accueillir une audience de cette taille… et idéalement gratuitement ?\nMerci !!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U056DAY3YD8",
+                    "U07MNBM4WLV",
+                    "U078PFP7A4B",
+                    "U063A8VPPG9",
+                    "U09JE6QUZDZ",
+                    "U069NSTHZ3Q",
+                    "U06EN9X790C",
+                    "U03QPMQA31V",
+                    "U09EFH6S1BQ",
+                    "U07D08K3U0K",
+                    "U08M0JP81DK",
+                    "U08EN5T6F4L",
+                    "U092PH1F2CA",
+                    "U08QZ6EKE4Q",
+                    "U017H09S857",
+                    "U092U6UDLMN",
+                    "U08EN5GRYCC",
+                    "U08HF5YQM6G",
+                    "U06V83JDFLY"
+                ],
+                "count": 19
+            },
+            {
+                "name": "musical_keyboard",
+                "users": [
+                    "U02N2EVMFCG",
+                    "U01A4GMRRR9"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U07MNBM4WLV",
+        "type": "message",
+        "ts": "1761749934.306129",
+        "client_msg_id": "5b5a67ce-c394-40ab-afba-42145e97cbc3",
+        "text": "\"un peu de consanguinité\" MDR",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "028ce63b55be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7733128030774_028ce63b55be29945d4f_72.jpg",
+            "first_name": "Domitille",
+            "real_name": "Domitille de Saint-Exupéry",
+            "display_name": "Domitille de Saint-Exupéry (lemlist)",
+            "team": "T017AGS2KE0",
+            "name": "domitille433",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761749426.209639",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "05L3f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"un peu de consanguinité\" MDR"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1761750774.162649",
+        "client_msg_id": "C6C291E3-C4FF-403E-9DED-3C8BDA473E25",
+        "text": "<@U080K705ESH> chez partoo? \n<@U04SM1RGPJB>  agora?\n<@U0951RDNKU6>  Payfit? \n:) ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761749426.209639",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tiJTo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U080K705ESH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " chez partoo? \n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04SM1RGPJB"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  agora?\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0951RDNKU6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  Payfit? \n:) "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1761750801.380519",
+        "client_msg_id": "0BA40D29-CCAC-4F60-BE57-D2350436A431",
+        "text": "<@U0183AS3MB6> dans la salle de conférence de CA ? ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761749426.209639",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GvcOS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0183AS3MB6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " dans la salle de conférence de CA ? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1761750848.889269",
+        "client_msg_id": "778c686e-b6d6-4528-b821-d31c8a70f118",
+        "text": "<@U07MNBM4WLV> je viens du Nord de la France, j'assume ce genre de blague :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761749426.209639",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bEQBx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U07MNBM4WLV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je viens du Nord de la France, j'assume ce genre de blague "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U063A8VPPG9",
+                    "U055KSYA2AH",
+                    "U03CY07UZJM",
+                    "U07MNBM4WLV",
+                    "U06CZESF7QF",
+                    "U03QPMQA31V",
+                    "U06M6E5M524",
+                    "U07D08K3U0K",
+                    "U020QK16RMJ",
+                    "U08QZ6EKE4Q",
+                    "U08HF5YQM6G"
+                ],
+                "count": 11
+            },
+            {
+                "name": "smiling_imp",
+                "users": [
+                    "U02N2EVMFCG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1761752070.812319",
+        "client_msg_id": "5a504eed-88a5-405a-88e7-6ca57c240d66",
+        "text": "Quelques pistes &amp; concepts ici : <https:\/\/www.notion.so\/hirondo\/Propositions-de-noms-inspi-D-A-299d2e20ba2f80b0bd4bd279cf3da1d9?source=copy_link>, je vous laisse regarder et commenter pour un retour consolidé d'ici fin de semaine",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761749426.209639",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tBq\/f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Quelques pistes & concepts ici : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/hirondo\/Propositions-de-noms-inspi-D-A-299d2e20ba2f80b0bd4bd279cf3da1d9?source=copy_link"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", je vous laisse regarder et commenter pour un retour consolidé d'ici fin de semaine"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0951RDNKU6",
+        "type": "message",
+        "ts": "1761757367.119489",
+        "client_msg_id": "227ac4d5-9bfe-447c-82bf-0115a0d3f5a8",
+        "text": "Chez PF, on a déménagé dans un WeWork malheureusement, plus de grande salle stylée à vous prop :disappointed:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "85dcd88ccf2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-06\/9660924995297_85dcd88ccf2fa3d8be38_72.jpg",
+            "first_name": "Marion",
+            "real_name": "Marion de Robillard",
+            "display_name": "Marion de Robillard",
+            "team": "T017AGS2KE0",
+            "name": "marionderobillard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761749426.209639",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1eYW6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Chez PF, on a déménagé dans un WeWork malheureusement, plus de grande salle stylée à vous prop "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed",
+                                "unicode": "1f61e"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0951RDNKU6",
+        "type": "message",
+        "ts": "1761757396.538939",
+        "client_msg_id": "61813196-18d9-4297-9c5b-a4f7565ec89f",
+        "text": "les locaux de Qonto sont stylés en revanche :joy:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "85dcd88ccf2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-06\/9660924995297_85dcd88ccf2fa3d8be38_72.jpg",
+            "first_name": "Marion",
+            "real_name": "Marion de Robillard",
+            "display_name": "Marion de Robillard",
+            "team": "T017AGS2KE0",
+            "name": "marionderobillard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761749426.209639",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XP6ZO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "les locaux de Qonto sont stylés en revanche "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1761757650.058789",
+        "edited": {
+            "user": "U06CZESF7QF",
+            "ts": "1761757809.000000"
+        },
+        "client_msg_id": "adde3e39-377a-488d-b5ed-f4c287e733c0",
+        "text": "Brevo a des nouveaux locaux sympa aussi mais peut être trop petit pour 200 personnes\n\nVillage by CA c’est une bonne option je pense effectivement !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761749426.209639",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nu9To",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Brevo a des nouveaux locaux sympa aussi mais peut être trop petit pour 200 personnes\n\nVillage by CA c’est une bonne option je pense effectivement !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1761758258.314419",
+        "client_msg_id": "2200e1d1-a16f-4445-93f9-8fe65ca31d17",
+        "text": "Je suis dans le train retour de l’event <https:\/\/www.spotlightconf.com\/|Spotlight> organisé par Semrush à Amsterdam. Ca manque clairement d’un event Marketing “sympa” comme ça en France. C’est un event plus gros et plus orienté lead gen classique mais il faudrait aussi organiser ça :smile:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761749426.209639",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GgH4f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je suis dans le train retour de l’event "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.spotlightconf.com\/",
+                                "text": "Spotlight"
+                            },
+                            {
+                                "type": "text",
+                                "text": " organisé par Semrush à Amsterdam. Ca manque clairement d’un event Marketing “sympa” comme ça en France. C’est un event plus gros et plus orienté lead gen classique mais il faudrait aussi organiser ça "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1761761645.257999",
+        "client_msg_id": "86AAB29C-E6F9-443D-850E-89367AC5300E",
+        "text": "<@U0951RDNKU6> tu crois tu peux nous intro?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761749426.209639",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pio8+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0951RDNKU6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " tu crois tu peux nous intro?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

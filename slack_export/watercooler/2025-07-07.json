@@ -1,0 +1,120 @@
+[
+    {
+        "user": "U065DFPCQMP",
+        "type": "message",
+        "ts": "1751901822.272029",
+        "client_msg_id": "7573846C-DA7A-4915-A414-C72F61CF562F",
+        "text": "Je partage rarement ce genre de sketch mais j’avoue que celui ci coche tellement de cases que je ne résiste pas \n<https:\/\/www.instagram.com\/reel\/DLxUkt4NMEc\/?igsh=MWN2NmZ6YmNtOXZxbw==|https:\/\/www.instagram.com\/reel\/DLxUkt4NMEc\/?igsh=MWN2NmZ6YmNtOXZxbw==>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50040e0261e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-15\/6198553206674_50040e0261e7ba62e840_72.jpg",
+            "first_name": "Gaelle",
+            "real_name": "Gaelle Le Goff",
+            "display_name": "Gaelle Le Goff",
+            "team": "T017AGS2KE0",
+            "name": "gaelle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1751901822.272029",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1751906603.733869",
+        "reply_users": [
+            "U06DYTRDLUD"
+        ],
+        "replies": [
+            {
+                "user": "U06DYTRDLUD",
+                "ts": "1751906603.733869"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N10L+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je partage rarement ce genre de sketch mais j’avoue que celui ci coche tellement de cases que je ne résiste pas \n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.instagram.com\/reel\/DLxUkt4NMEc\/?igsh=MWN2NmZ6YmNtOXZxbw==",
+                                "text": "https:\/\/www.instagram.com\/reel\/DLxUkt4NMEc\/?igsh=MWN2NmZ6YmNtOXZxbw=="
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U078PFP7A4B",
+                    "U06DYTRDLUD",
+                    "U08EN5GRYCC",
+                    "U069NSTHZ3Q",
+                    "U04CW99BP3Q",
+                    "U06LENY5V6Z",
+                    "U059T4KRCUC"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "user": "U06DYTRDLUD",
+        "type": "message",
+        "ts": "1751906603.733869",
+        "client_msg_id": "a1731d6e-fce4-4fb5-b657-6aa593714917",
+        "text": "En plein centre :laughing:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901f49789864",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-17\/6483135134229_901f4978986494a521e4_72.jpg",
+            "first_name": "Flora",
+            "real_name": "Flora Wolfer",
+            "display_name": "Flora Wolfer (Payplug)",
+            "team": "T017AGS2KE0",
+            "name": "fwolfer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1751901822.272029",
+        "parent_user_id": "U065DFPCQMP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UC+qG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En plein centre "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing",
+                                "unicode": "1f606"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

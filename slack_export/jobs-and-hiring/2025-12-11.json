@@ -1,0 +1,1112 @@
+[
+    {
+        "user": "U065DFPCQMP",
+        "type": "message",
+        "ts": "1765461298.729939",
+        "client_msg_id": "3B708C8E-511A-440C-9ABC-DB7D32C5E361",
+        "text": "Salut ! Le programme de cette fin d’aprem est maintenu ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50040e0261e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-15\/6198553206674_50040e0261e7ba62e840_72.jpg",
+            "first_name": "Gaelle",
+            "real_name": "Gaelle Le Goff",
+            "display_name": "Gaelle Le Goff",
+            "team": "T017AGS2KE0",
+            "name": "gaelle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764077032.180629",
+        "parent_user_id": "U08HF5YQM6G",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8dpsC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salut ! Le programme de cette fin "
+                            },
+                            {
+                                "type": "text",
+                                "text": "d’aprem"
+                            },
+                            {
+                                "type": "text",
+                                "text": " est maintenu ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1765461587.258089",
+        "client_msg_id": "f4c01d99-6025-4b0b-8088-a3bf28e3111d",
+        "text": "yes ! RDV au bar à 18h pour Emmanuelle et moi, se joint qui veut, on a booké une table de 12 :)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764077032.180629",
+        "parent_user_id": "U08HF5YQM6G",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tV\/Rw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes ! RDV au bar à 18h pour Emmanuelle et moi, se joint qui veut, on a booké une table de 12 :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U06GYUPMCR5",
+                    "U04L04T475K",
+                    "U078PFP7A4B",
+                    "U063A8VPPG9",
+                    "U08HF5YQM6G"
+                ],
+                "count": 5
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U065DFPCQMP",
+                    "U04A6JMRWCS",
+                    "U063A8VPPG9",
+                    "U08HF5YQM6G"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U03P99RGMTN",
+        "type": "message",
+        "ts": "1765461675.813089",
+        "client_msg_id": "0B14E311-A13B-4AA7-9BC0-0CD592990F98",
+        "text": ":sob::sob: je suis coincée à Francfort, je vais pas pouvoir être avec vous ce soir :confounded:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2f8b530bfffa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-28\/7656384027105_2f8b530bfffa39d455d3_72.png",
+            "first_name": "Julie",
+            "real_name": "Julie Asselin (365Talents)",
+            "display_name": "Julie Asselin (365Talents)",
+            "team": "T017AGS2KE0",
+            "name": "julie.asselin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764077032.180629",
+        "parent_user_id": "U08HF5YQM6G",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hfzK8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je suis coincée à Francfort, je vais pas pouvoir être avec vous ce soir "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confounded",
+                                "unicode": "1f616"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1765461705.583299",
+        "client_msg_id": "7bdf9bcc-7672-4f86-b5ac-9524c36467ca",
+        "text": "Je serai là à 18h pétantes également ! C'est pas un rendez-vous auquel on arrive en retard :joy:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764077032.180629",
+        "parent_user_id": "U08HF5YQM6G",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yPNFl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je serai là à 18h pétantes également ! C'est pas un rendez-vous auquel on arrive en retard "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "grimacing",
+                "users": [
+                    "U065DFPCQMP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U063A8VPPG9",
+                    "U04SM1RGPJB"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1765461741.729879",
+        "client_msg_id": "d8dd2218-338c-4b55-ae0a-702a9e7acb96",
+        "text": "Je vous ferai également l'honneur de ma présence",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764077032.180629",
+        "parent_user_id": "U08HF5YQM6G",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ibPIW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je vous ferai également l'honneur de ma présence"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart_hands",
+                "users": [
+                    "U078PFP7A4B",
+                    "U063A8VPPG9",
+                    "U04SM1RGPJB"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06GYUPMCR5",
+        "type": "message",
+        "ts": "1765461779.484679",
+        "client_msg_id": "7FB4833B-04D4-47ED-8CB6-CE6DF563237E",
+        "text": "Je vais venir aussi.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7605196cd68d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-31\/7196035108950_7605196cd68d96ff55b6_72.png",
+            "first_name": "Céline",
+            "real_name": "Céline COROUGE",
+            "display_name": "Céline COROUGE",
+            "team": "T017AGS2KE0",
+            "name": "cecorouge",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764077032.180629",
+        "parent_user_id": "U08HF5YQM6G",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "56i33",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je vais venir aussi."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart_hands",
+                "users": [
+                    "U063A8VPPG9",
+                    "U078PFP7A4B",
+                    "U04SM1RGPJB"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1765461961.247089",
+        "edited": {
+            "user": "U063A8VPPG9",
+            "ts": "1765461970.000000"
+        },
+        "client_msg_id": "8a14d1dc-6bae-4c56-b2b6-96a977084ccb",
+        "text": "trop hate ahahah !!!! J'espère qu'ils ont du champagne !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764077032.180629",
+        "parent_user_id": "U08HF5YQM6G",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DBxQW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "trop hate ahahah !!!! J'espère qu'ils ont du champagne !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "champagne",
+                "users": [
+                    "U08HF5YQM6G",
+                    "U078PFP7A4B",
+                    "U04SM1RGPJB"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1765467272.633019",
+        "client_msg_id": "de495068-9e91-4f56-bf4e-64a5aac2aa1a",
+        "text": "vous gourrez pas d'addresse : <https:\/\/www.tripadvisor.fr\/Restaurant_Review-g187147-d1899096-Reviews-Le_Huitieme_Arrt-Paris_Ile_de_France.html>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764077032.180629",
+        "parent_user_id": "U08HF5YQM6G",
+        "attachments": [
+            {
+                "image_url": "https:\/\/media-cdn.tripadvisor.com\/media\/photo-w\/2e\/92\/aa\/7c\/caption.jpg",
+                "image_width": 1024,
+                "image_height": 1365,
+                "image_bytes": 346536,
+                "from_url": "https:\/\/www.tripadvisor.fr\/Restaurant_Review-g187147-d1899096-Reviews-Le_Huitieme_Arrt-Paris_Ile_de_France.html",
+                "service_icon": "https:\/\/static.tacdn.com\/assets\/s\/12951248.png",
+                "id": 1,
+                "original_url": "https:\/\/www.tripadvisor.fr\/Restaurant_Review-g187147-d1899096-Reviews-Le_Huitieme_Arrt-Paris_Ile_de_France.html",
+                "fallback": "Tripadvisor: LE HUITIEME ARRT, Paris - Quartier de l'Europe - Menu, Prix, Restaurant Avis &amp; Réservations - Tripadvisor",
+                "text": "Réserver une table Le Huitieme Arrt, Paris sur Tripadvisor : consultez 70 avis sur Le Huitieme Arrt, noté 4.1 sur 5 sur Tripadvisor et classé #4 441 sur 16 246 restaurants à Paris.",
+                "title": "LE HUITIEME ARRT, Paris - Quartier de l'Europe - Menu, Prix, Restaurant Avis &amp; Réservations - Tripadvisor",
+                "title_link": "https:\/\/www.tripadvisor.fr\/Restaurant_Review-g187147-d1899096-Reviews-Le_Huitieme_Arrt-Paris_Ile_de_France.html",
+                "service_name": "Tripadvisor"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ncuHb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "vous gourrez pas d'addresse : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.tripadvisor.fr\/Restaurant_Review-g187147-d1899096-Reviews-Le_Huitieme_Arrt-Paris_Ile_de_France.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08HF5YQM6G",
+        "type": "message",
+        "ts": "1765467336.989999",
+        "client_msg_id": "B51A3F1F-708C-49CD-8BCE-3C2D293966DD",
+        "text": "vous gourrez pas d'employeur non plus (alleeez je fais monter l'ambiance :smirk:)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "dc5afdcdc051",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-28\/10418814050592_dc5afdcdc0516abb4cac_72.jpg",
+            "first_name": "Roy",
+            "real_name": "Roy Brockmann",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "roy.brockmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764077032.180629",
+        "parent_user_id": "U08HF5YQM6G",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A21fg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "vous gourrez pas d'employeur non plus (alleeez je fais monter l'ambiance "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smirk",
+                                "unicode": "1f60f"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U03P99RGMTN",
+                    "U078PFP7A4B",
+                    "U04SM1RGPJB",
+                    "U0183AS3MB6",
+                    "U063A8VPPG9",
+                    "U06CZESF7QF"
+                ],
+                "count": 6
+            },
+            {
+                "name": "grimacing",
+                "users": [
+                    "U065DFPCQMP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06MLNEGNKB",
+        "type": "message",
+        "ts": "1765473261.477159",
+        "client_msg_id": "c4f337c5-d951-473b-b6b2-e31a16054e6a",
+        "text": "J'arrive",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9484de19a0b4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-25\/7476258473346_9484de19a0b48472edf8_72.jpg",
+            "first_name": "Priscilla",
+            "real_name": "Priscilla (Memo Bank)",
+            "display_name": "Priscilla (Memo Bank)",
+            "team": "T017AGS2KE0",
+            "name": "priscilla.cavrois",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764077032.180629",
+        "parent_user_id": "U08HF5YQM6G",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wdhut",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'arrive"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Oublie ce soir ",
+        "files": [
+            {
+                "id": "F0A3WSR7U4Q",
+                "created": 1765482251,
+                "timestamp": 1765482251,
+                "name": "IMG_3960.jpg",
+                "title": "IMG_3960",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U065DFPCQMP",
+                "user_team": "T017AGS2KE0",
+                "editable": false,
+                "size": 1402692,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "subtype": "slack_image",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F0A3WSR7U4Q\/img_3960.jpg?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F0A3WSR7U4Q\/download\/img_3960.jpg?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A3WSR7U4Q-1f055136bc\/img_3960_64.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A3WSR7U4Q-1f055136bc\/img_3960_80.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A3WSR7U4Q-1f055136bc\/img_3960_360.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A3WSR7U4Q-1f055136bc\/img_3960_480.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A3WSR7U4Q-1f055136bc\/img_3960_160.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A3WSR7U4Q-1f055136bc\/img_3960_720.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A3WSR7U4Q-1f055136bc\/img_3960_800.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A3WSR7U4Q-1f055136bc\/img_3960_960.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A3WSR7U4Q-1f055136bc\/img_3960_1024.jpg?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACSOM8ZBA6H8aUOCfurnOByajxu7YHbilGAOOlNICdt0ahecc0pyJXx6kj6g1EGbG0E49DSySsw5UUWYDyQDh8qfYUm5P7z\/APfP\/wBenQuNmTKie3+TT9y\/8\/Cfp\/jSHYqnoaXarEAH5jnOcAUkilSykj6imnscVa2EStE6cspwR1HNRsRnFOVmH3SRn0NIV5znpQBLDN5aYCA5561J9qP\/ADzH5mqm487elG9\/alZBdiufnNNU5UUh3MzYGT1+lOEZ28cgDselCAVTg+p7UrM3ZT+FKBgdKPLUkEgevSqEMwo42mj5fQ0FN5zuA9Bmjyh\/f\/8AHh\/hU3HY\/9k=",
+                "permalink": "https:\/\/techmarketingleaders.slack.com\/files\/U017U6M2G00\/F0A3WSR7U4Q\/img_3960.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F0A3WSR7U4Q-b1996e29e2",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U065DFPCQMP",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qbcpO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oublie ce soir "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1765482259.806419",
+        "client_msg_id": "B97ED4AC-F893-4A84-BC87-2F20EC07C0C2",
+        "thread_ts": "1764077032.180629",
+        "parent_user_id": "U08HF5YQM6G",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06GYUPMCR5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U065DFPCQMP",
+        "type": "message",
+        "ts": "1765482268.544449",
+        "client_msg_id": "54418640-0EB4-4B57-83CA-0F4189AF9F74",
+        "text": "Je le récupère ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50040e0261e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-15\/6198553206674_50040e0261e7ba62e840_72.jpg",
+            "first_name": "Gaelle",
+            "real_name": "Gaelle Le Goff",
+            "display_name": "Gaelle Le Goff",
+            "team": "T017AGS2KE0",
+            "name": "gaelle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764077032.180629",
+        "parent_user_id": "U08HF5YQM6G",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yKIWh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je le récupère "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1765484593.264789",
+        "client_msg_id": "59198809-59E2-453F-838F-DCEB7541A9D4",
+        "text": "C était trop bien de vous voir tous :heart_hands::heart_hands::heart_hands:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764077032.180629",
+        "parent_user_id": "U08HF5YQM6G",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O\/kXK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C était trop bien de vous voir tous "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_hands",
+                                "unicode": "1faf6"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_hands",
+                                "unicode": "1faf6"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_hands",
+                                "unicode": "1faf6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1765484616.860029",
+        "client_msg_id": "3dedb171-f502-47c2-bc61-8e3323ce272a",
+        "text": "C'était trop chouette, a refaire !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764077032.180629",
+        "parent_user_id": "U08HF5YQM6G",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rCRh3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'était trop chouette, a refaire !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U063A8VPPG9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U08HF5YQM6G",
+        "type": "message",
+        "ts": "1765484754.091909",
+        "client_msg_id": "765D2DD5-9BD2-4629-A684-8595E5DD690B",
+        "text": "Merci d'être venus à notre divorce party :heart_hands:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "dc5afdcdc051",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-28\/10418814050592_dc5afdcdc0516abb4cac_72.jpg",
+            "first_name": "Roy",
+            "real_name": "Roy Brockmann",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "roy.brockmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764077032.180629",
+        "parent_user_id": "U08HF5YQM6G",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Mw1t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci d'être venus à notre divorce party "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_hands",
+                                "unicode": "1faf6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08HF5YQM6G",
+        "type": "message",
+        "ts": "1765484827.271459",
+        "client_msg_id": "9C1F4920-6682-45BE-A314-68551F7CEE84",
+        "text": "On peut se réunir pour chaque EVC (enterrement de vie de CMO)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "dc5afdcdc051",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-28\/10418814050592_dc5afdcdc0516abb4cac_72.jpg",
+            "first_name": "Roy",
+            "real_name": "Roy Brockmann",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "roy.brockmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764077032.180629",
+        "parent_user_id": "U08HF5YQM6G",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dcz33",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On peut se réunir pour chaque EVC (enterrement de vie de CMO)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U063A8VPPG9",
+                    "U078PFP7A4B",
+                    "U03P99RGMTN",
+                    "U06CZESF7QF",
+                    "U06DYTRDLUD",
+                    "U07MNBM4WLV"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1765485303.474819",
+        "edited": {
+            "user": "U063A8VPPG9",
+            "ts": "1765485312.000000"
+        },
+        "client_msg_id": "FDE53D4B-48C9-4226-A703-B21FB86B519D",
+        "text": "Faut déposer le nom :joy:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764077032.180629",
+        "parent_user_id": "U08HF5YQM6G",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TqrUL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Faut déposer le nom "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08HF5YQM6G",
+        "type": "message",
+        "ts": "1765485355.636629",
+        "client_msg_id": "C1907471-A7D4-4FA5-B2DA-B1B83814A5A1",
+        "text": "<@U04A6JMRWCS> fonce c'est un super invest",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "dc5afdcdc051",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-28\/10418814050592_dc5afdcdc0516abb4cac_72.jpg",
+            "first_name": "Roy",
+            "real_name": "Roy Brockmann",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "roy.brockmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764077032.180629",
+        "parent_user_id": "U08HF5YQM6G",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vm556",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04A6JMRWCS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " fonce c'est un super invest"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U04SM1RGPJB",
+                    "U078PFP7A4B",
+                    "U063A8VPPG9",
+                    "U03P99RGMTN"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1765485917.444639",
+        "client_msg_id": "FDE08424-8B62-4F3E-AEAE-84F7C7CCFC65",
+        "text": "Merci d’avoir organisé ça , c'était trop cool de vous voir et de bitcher :heart_hands:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764077032.180629",
+        "parent_user_id": "U08HF5YQM6G",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RYXNt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci d"
+                            },
+                            {
+                                "type": "text",
+                                "text": "’avoir "
+                            },
+                            {
+                                "type": "text",
+                                "text": "organisé ça , c'était trop cool de vous voir et de bitcher "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_hands",
+                                "unicode": "1faf6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart_hands",
+                "users": [
+                    "U04SM1RGPJB",
+                    "U063A8VPPG9"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U04L04T475K",
+        "type": "message",
+        "ts": "1765525154.881709",
+        "client_msg_id": "d73baab5-1c92-4fea-8659-208fba75494b",
+        "text": "Merci d'avoir organisé ça, ça valait les 800km en train",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "992240f01962",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4685704045204_992240f019622b6b0af8_72.jpg",
+            "first_name": "Antoine",
+            "real_name": "Antoine Yahia Cherif",
+            "display_name": "Antoine Yahia Cherif",
+            "team": "T017AGS2KE0",
+            "name": "antoine.yc008",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764077032.180629",
+        "parent_user_id": "U08HF5YQM6G",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EmzjH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci d'avoir organisé ça, ça valait les 800km en train"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U063A8VPPG9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

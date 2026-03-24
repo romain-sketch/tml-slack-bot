@@ -1,0 +1,107 @@
+[
+    {
+        "user": "U06DYTRDLUD",
+        "type": "message",
+        "ts": "1771236698.302699",
+        "client_msg_id": "d05a49df-5293-43e2-b40c-ddf30a9bf2d0",
+        "text": "Bien d'accord, les profils content smart \/ data minded vont faire la différence face à l'uniformisation sauce IA :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901f49789864",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-17\/6483135134229_901f4978986494a521e4_72.jpg",
+            "first_name": "Flora",
+            "real_name": "Flora Wolfer",
+            "display_name": "Flora Wolfer (Payplug)",
+            "team": "T017AGS2KE0",
+            "name": "fwolfer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770995678.191189",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qvXix",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bien d'accord, les profils content smart \/ data minded vont faire la différence face à l'uniformisation sauce IA "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U06CZESF7QF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U017RAZCAGZ",
+        "type": "message",
+        "ts": "1771251749.007699",
+        "edited": {
+            "user": "U017RAZCAGZ",
+            "ts": "1771251854.000000"
+        },
+        "client_msg_id": "e95b73c4-bcd0-4c58-a540-5011a331fea0",
+        "text": "Hello ! Pure Player B2C (CA >500M), recherche son CMO pour gérer une équipe de 30 personnes, avec des enjeux de rétention (pas de problème d'acquisition selon la chasseuse :face_with_spiral_eyes:) et très orienté chiffres, data, ROI... Me contacter en MP si intéressé.e !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2e6e61c8f204",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-20\/1251040887619_2e6e61c8f20434050630_72.jpg",
+            "first_name": "Hélène",
+            "real_name": "Hélène Draoulec (Phenix)",
+            "display_name": "Hélène Draoulec (Phenix)",
+            "team": "T017AGS2KE0",
+            "name": "hdraoulec",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yl2KK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello ! Pure Player B2C (CA >500M), recherche son CMO pour gérer une équipe de 30 personnes, avec des enjeux de rétention (pas de problème d'acquisition selon la chasseuse "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_with_spiral_eyes",
+                                "unicode": "1f635-200d-1f4ab"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") et très orienté chiffres, data, ROI... Me contacter en MP si intéressé.e !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

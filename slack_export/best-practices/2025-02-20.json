@@ -1,0 +1,303 @@
+[
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1740058617.108649",
+        "edited": {
+            "user": "U084KTR7YKX",
+            "ts": "1740058840.000000"
+        },
+        "client_msg_id": "3f5abadc-f252-4fa5-824c-2ced260059f3",
+        "text": "J'ai une amie Flora COO chez Mozza - un product studio qui cherche un free growth\/marketing manager\nsur un sujet plutôt opérationnel de faire grandir la base abonnée à leur newsletter + faire convertir les lecteurs en clients & idem sur le podcast qu'ils ont lancé. Actuellement 5 ou 6k lecteurs\nSi on prend de la hauteur c'est comment leverager davantage leurs assets existants : newsletter et podcast :slightly_smiling_face:\n\nsi vous pensez à des frees qui feraient l'affaire, je suis preneuse ! merci",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740058617.108649",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1740070383.894279",
+        "reply_users": [
+            "U056DAY3YD8",
+            "U016SBPG7K9",
+            "U084KTR7YKX"
+        ],
+        "replies": [
+            {
+                "user": "U056DAY3YD8",
+                "ts": "1740065279.680239"
+            },
+            {
+                "user": "U016SBPG7K9",
+                "ts": "1740069312.031189"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1740070373.575659"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1740070383.894279"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7DXmC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai une amie Flora COO chez Mozza - un product studio qui cherche un free growth\/marketing manager\nsur un sujet plutôt opérationnel de faire grandir la base abonnée à leur newsletter + faire convertir les lecteurs en clients & idem sur le podcast qu'ils ont lancé. Actuellement 5 ou 6k lecteurs\nSi on prend de la hauteur c'est comment leverager davantage leurs assets existants : newsletter et podcast "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nsi vous pensez à des frees qui feraient l'affaire, je suis preneuse ! merci"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U056DAY3YD8",
+        "type": "message",
+        "ts": "1740065279.680239",
+        "client_msg_id": "97B9B993-4FF4-4387-912B-9079E45EA0FB",
+        "text": "Hello Gwenn ! Elle peut contacter Romain Tanneau de ma part, j’ai bossé avec lui pendant 5 ans sur les sujets dont tu parles :slightly_smiling_face: \n\nSon mail : <mailto:hello@romaintanneau.com|hello@romaintanneau.com>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "1497d32a4908",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-16\/6043403579731_1497d32a4908ee3b80b5_72.png",
+            "first_name": "Alexis",
+            "real_name": "Alexis Chevallier",
+            "display_name": "Alexis Chevallier (Part-Time CMO)",
+            "team": "T017AGS2KE0",
+            "name": "alexchvllr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740058617.108649",
+        "parent_user_id": "U084KTR7YKX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "biugm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Gwenn ! Elle peut contacter Romain Tanneau de ma part, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "j’ai"
+                            },
+                            {
+                                "type": "text",
+                                "text": " bossé avec lui pendant 5 ans sur les sujets dont tu parles "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\nSon mail : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:hello@romaintanneau.com",
+                                "text": "hello@romaintanneau.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U084KTR7YKX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1740069312.031189",
+        "client_msg_id": "9048356a-ed54-45d1-a0e7-2e03bf4712b4",
+        "text": "J'ai validé avec <https:\/\/www.linkedin.com\/in\/barbaraguet\/> que c'est le genre de mission qu'elle prend, elle serait intéressée par une mise en contact :)\n\nC'est une ex-Livestorm passée freelance qui fait du très bon taf notamment sur tout ce qui est nurturing. Je recommande chaudement.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740058617.108649",
+        "parent_user_id": "U084KTR7YKX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QhsEc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai validé avec "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/barbaraguet\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " que c'est le genre de mission qu'elle prend, elle serait intéressée par une mise en contact :)\n\nC'est une ex-Livestorm passée freelance qui fait du très bon taf notamment sur tout ce qui est nurturing. Je recommande chaudement."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U084KTR7YKX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1740070373.575659",
+        "client_msg_id": "d824d499-a083-4139-8732-28621be08237",
+        "text": ":+1:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740058617.108649",
+        "parent_user_id": "U084KTR7YKX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "truZ7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "thumbsup",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1740070383.894279",
+        "client_msg_id": "6b115221-6154-466f-abd4-671b1a6f7ae8",
+        "text": "merci <@U056DAY3YD8> et <@U016SBPG7K9>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740058617.108649",
+        "parent_user_id": "U084KTR7YKX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O\/oFp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U056DAY3YD8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U016SBPG7K9"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,154 @@
+[
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1747811065.150899",
+        "client_msg_id": "2931f1bc-749a-4490-a2b7-0257487a01d5",
+        "text": "hello je peux faire une intro pour <https:\/\/jobs.oss.ventures\/marketing-manager\/en> si qqn est intéressé !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/cdn.homerun.co\/68443\/474aab2a-5fb0-4359-9fd5-5e9288d6849d.jpeg",
+                "image_width": 2000,
+                "image_height": 1333,
+                "image_bytes": 428699,
+                "from_url": "https:\/\/jobs.oss.ventures\/marketing-manager\/en",
+                "service_icon": "https:\/\/jobs.oss.ventures\/favicon.ico?v=1747384644",
+                "id": 1,
+                "original_url": "https:\/\/jobs.oss.ventures\/marketing-manager\/en",
+                "fallback": "OSS Ventures: Head of Marketing - OSS Ventures",
+                "text": "At OSS Ventures we're looking for a Head of Marketing to join our team.",
+                "title": "Head of Marketing - OSS Ventures",
+                "title_link": "https:\/\/jobs.oss.ventures\/marketing-manager\/en",
+                "service_name": "OSS Ventures"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GesN4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello je peux faire une intro pour "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/jobs.oss.ventures\/marketing-manager\/en"
+                            },
+                            {
+                                "type": "text",
+                                "text": " si qqn est intéressé !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1747811247.626589",
+        "client_msg_id": "884b7a38-6212-43c2-92d0-578786582108",
+        "text": "normalement j'ai partagé les profils de tous ceux qui avaient demandé avec la recruteuse (ici ou en mp)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1746177232.652939",
+        "parent_user_id": "U04SM1RGPJB",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "My7G4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "normalement j'ai partagé les profils de tous ceux qui avaient demandé avec la recruteuse (ici ou en mp)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08PLD4KPS8",
+        "type": "message",
+        "ts": "1747851786.055469",
+        "client_msg_id": "af8408ca-e209-41a9-8e50-7fe42cfa7e32",
+        "text": "Hello,\nMa fille serait peut-être intéressée, est-ce que tu as une description de poste ou autre?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ed1e5a6e17a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-15\/8903493241218_7ed1e5a6e17a9b117971_72.jpg",
+            "first_name": "Ségolène",
+            "real_name": "Ségolène Finet",
+            "display_name": "Ségolène Finet",
+            "team": "T017AGS2KE0",
+            "name": "finetsegolene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1747413769.153619",
+        "parent_user_id": "U0859A8P14K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "31WHp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello,\nMa fille serait peut-être intéressée, est-ce que tu as une description de poste ou autre?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U0859A8P14K"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

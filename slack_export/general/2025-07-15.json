@@ -1,0 +1,54 @@
+[
+    {
+        "user": "U069NSTHZ3Q",
+        "type": "message",
+        "ts": "1752572190.848629",
+        "client_msg_id": "a59a2104-6888-40ff-acee-cb314a07d578",
+        "text": "Hello, quelqu'un a déjà utilisé initia (publithings) qui fait des newsletter pour réactiver les contacts froids de la base avec un nom de domaine tiers?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "fbbca81fca0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-30\/7816371623809_fbbca81fca0c916c8c15_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Gannau (Oodrive)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "m.gannau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EvLUZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, quelqu'un a déjà utilisé initia (publithings) qui fait des newsletter pour réactiver les contacts froids de la base avec un nom de domaine tiers?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "x",
+                "users": [
+                    "U054GRSQCTX",
+                    "U08QZ6EKE4Q",
+                    "U03P99RGMTN",
+                    "U06DYTRDLUD",
+                    "U04L35Y9D08",
+                    "U063A8VPPG9"
+                ],
+                "count": 6
+            }
+        ]
+    }
+]

@@ -1,0 +1,91 @@
+[
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1749537992.370769",
+        "client_msg_id": "e418bce8-ec3a-4b9b-ad90-b3a0ae013c46",
+        "text": "Hello <!here>\nAvec la validation de la chef <@U017H09S857> je vous partage à tous notre nouveauté UnlockM avec <@U063Q1LA69W> !!!\nOn lance l'offre TEAM si vous voulez souscrire avec nos n-1 ! Avec le lancement de la formation AI x Marketing + des modules plus opérationnels, ca prend tout son sens.\nSi vous voulez plus d'infos, n'hésitez pas à me contacter en direct.\nMerciiiiiii",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i7ngV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nAvec la validation de la chef "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U017H09S857"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je vous partage à tous notre nouveauté UnlockM avec "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U063Q1LA69W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " !!!\nOn lance l'offre TEAM si vous voulez souscrire avec nos n-1 ! Avec le lancement de la formation AI x Marketing + des modules plus opérationnels, ca prend tout son sens.\nSi vous voulez plus d'infos, n'hésitez pas à me contacter en direct.\nMerciiiiiii"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U063Q1LA69W",
+                    "U02N2EVMFCG",
+                    "U06DYTRDLUD",
+                    "U07D08K3U0K",
+                    "U03P99RGMTN",
+                    "U03QPMQA31V",
+                    "U08554C4R7C",
+                    "U017CURDPB5",
+                    "U0859A8P14K",
+                    "U067VEJFT5F",
+                    "U06LTCV0DE2",
+                    "U04HP95GK55",
+                    "U08EN5GRYCC",
+                    "U017H09S857",
+                    "U08M0JP81DK",
+                    "U0177A5V42F",
+                    "U08PLD4KPS8",
+                    "U08HF5YQM6G",
+                    "U016SBPG7K9"
+                ],
+                "count": 19
+            }
+        ]
+    }
+]

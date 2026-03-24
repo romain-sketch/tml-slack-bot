@@ -1,0 +1,114 @@
+[
+    {
+        "user": "U0A2RBDS1E3",
+        "type": "message",
+        "ts": "1768996563.310269",
+        "client_msg_id": "96c9f383-a80f-4c52-b3b1-d15f28b7cba8",
+        "text": "Bonjour, je ne sais pas si c'est le bon canal pour poster la questions, mais j'aimerais savoir si vous avez deja travaille avec Hey Digital ou Datashake? C'est 2 agencies qui propose des multi-services sur Google Ads, Meta Ads et la creation visuelle\/video. Leur service crea m'interesse bien. J'aimerais aussi savoir si vous utilisez plutot des designers internes, freelance ou agency pour scaler la crea pour Meta Ads? On a un budget et target assez costaud cette annee, et je cherche la facon la plus efficace pour scaler. Merci beaucoup!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "973340b53610",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-12-12\/10138613253424_973340b53610636f057b_72.jpg",
+            "first_name": "Xiao",
+            "real_name": "Xiao",
+            "display_name": "Xiao",
+            "team": "T017AGS2KE0",
+            "name": "xiaoyun.tu01",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1768996563.310269",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1769089934.874509",
+        "reply_users": [
+            "U0177A5V42F",
+            "U0A2RBDS1E3",
+            "U069NSTHZ3Q"
+        ],
+        "replies": [
+            {
+                "user": "U0177A5V42F",
+                "ts": "1769004406.898679"
+            },
+            {
+                "user": "U0A2RBDS1E3",
+                "ts": "1769075180.142919"
+            },
+            {
+                "user": "U069NSTHZ3Q",
+                "ts": "1769079376.332199"
+            },
+            {
+                "user": "U0A2RBDS1E3",
+                "ts": "1769089934.874509"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AA+OO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour, je ne sais pas si c'est le bon canal pour poster la questions, mais j'aimerais savoir si vous avez deja travaille avec Hey Digital ou Datashake? C'est 2 agencies qui propose des multi-services sur Google Ads, Meta Ads et la creation visuelle\/video. Leur service crea m'interesse bien. J'aimerais aussi savoir si vous utilisez plutot des designers internes, freelance ou agency pour scaler la crea pour Meta Ads? On a un budget et target assez costaud cette annee, et je cherche la facon la plus efficace pour scaler. Merci beaucoup!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0177A5V42F",
+        "type": "message",
+        "ts": "1769004406.898679",
+        "client_msg_id": "cac2ea4f-7c0c-465c-9b4f-12cec843a70b",
+        "text": "Hello, yes pour Datashake de mon coté mais je challenge l'interet du service créa avec l'arrivée d'outils comme Plétor.\nA ta dispo :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ebca9b04129",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-17\/1245815650949_7ebca9b041296679a81d_72.jpg",
+            "first_name": "Guillaume",
+            "real_name": "Guillaume Laguette",
+            "display_name": "Guillaume Laguette (echOpen)",
+            "team": "T017AGS2KE0",
+            "name": "laguette.guillaume",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1768996563.310269",
+        "parent_user_id": "U0A2RBDS1E3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+63OK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, yes pour Datashake de mon coté mais je challenge l'interet du service créa avec l'arrivée d'outils comme Plétor.\nA ta dispo "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "user": "U08M0JP81DK",
+        "type": "message",
+        "ts": "1761812720.803379",
+        "client_msg_id": "a834b5d8-3ee1-40d8-b117-f5541656f2da",
+        "text": "Merci <@U07MNBM4WLV>! Tu sais si leur solution intègre la brique publication des posts “on behalf of”? (ils mentionnent “avant de publier” sur leur site, j’imagine qu’on reste sur du Buffer ou équivalent pour cet aspect-là)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "f8f282c0f1ce",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-04-07\/8720578468499_f8f282c0f1cedcfe5323_72.png",
+            "first_name": "Pierre",
+            "real_name": "Pierre Osdoit-Patrigeon",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "pierre.osdoit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761749908.853649",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xfcHd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07MNBM4WLV"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! Tu sais si leur solution intègre la brique publication des posts “on behalf of”? (ils mentionnent “avant de publier” sur leur site, j’imagine qu’on reste sur du Buffer ou équivalent pour cet aspect-là)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "woman-shrugging",
+                "users": [
+                    "U07MNBM4WLV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U08M0JP81DK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

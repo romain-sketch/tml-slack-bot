@@ -1,0 +1,58 @@
+[
+    {
+        "user": "U09BVQYR1GA",
+        "type": "message",
+        "ts": "1764135186.704909",
+        "client_msg_id": "69fa9333-8263-4ec7-bf2c-8d791611857c",
+        "text": "merci à vous deux ! <@U0183AS3MB6> oui c'est exactement ce qu'on fait.\n\n<@U0177A5V42F> c'est ce que j'ai recommandé et je fais le coaching sales et on a fini pour embaucher un autre profil aussi.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0ee28ebc77d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-09-09\/9480262349955_0ee28ebc77d7f64eb0e1_72.png",
+            "first_name": "Tania",
+            "real_name": "Tania",
+            "display_name": "Tania",
+            "team": "T017AGS2KE0",
+            "name": "tsaezgrowth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763101885.392179",
+        "parent_user_id": "U09BVQYR1GA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qyqbB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "merci à vous deux ! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0183AS3MB6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " oui c'est exactement ce qu'on fait.\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0177A5V42F"
+                            },
+                            {
+                                "type": "text",
+                                "text": " c'est ce que j'ai recommandé et je fais le coaching sales et on a fini pour embaucher un autre profil aussi."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

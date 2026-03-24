@@ -1,0 +1,75 @@
+[
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1763488010.733179",
+        "client_msg_id": "1560fe0e-350e-4d39-b2de-29edba6af4e6",
+        "text": "OK ! Je ne connais personne dans le _learning_ \/ _gaming_ pour le coup, mais _fintech._ On peut faire une session sur le mobile en décembre si ti veux",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763044686.146079",
+        "parent_user_id": "U03QPMQA31V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IYmZu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "OK ! Je ne connais personne dans le "
+                            },
+                            {
+                                "type": "text",
+                                "text": "learning",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " \/ "
+                            },
+                            {
+                                "type": "text",
+                                "text": "gaming",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour le coup, mais "
+                            },
+                            {
+                                "type": "text",
+                                "text": "fintech.",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " On peut faire une session sur le mobile en décembre si ti veux"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U088J9RFEH2",
+        "text": "<@U088J9RFEH2> has joined the channel",
+        "type": "message",
+        "ts": "1736843838.123189"
+    },
+    {
+        "user": "U020QK16RMJ",
+        "type": "message",
+        "ts": "1736858619.584249",
+        "client_msg_id": "827d764f-e5b3-4855-80bc-c295ed60ddd1",
+        "text": "Peut être dispo.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "56d8a678e801",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-18\/7292097443269_56d8a678e801350db84a_72.png",
+            "first_name": "Joël",
+            "real_name": "Joël Gaudeul",
+            "display_name": "Joël (Swan)",
+            "team": "T017AGS2KE0",
+            "name": "joel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736530461.901569",
+        "parent_user_id": "U02N2EVMFCG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RkEu+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Peut être dispo."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

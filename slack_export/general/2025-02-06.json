@@ -1,0 +1,94 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U08C1HZNT8S",
+        "text": "<@U08C1HZNT8S> has joined the channel",
+        "type": "message",
+        "ts": "1738830933.323679"
+    },
+    {
+        "user": "U020QK16RMJ",
+        "type": "message",
+        "ts": "1738842358.726849",
+        "client_msg_id": "27ea673b-a962-42a4-a327-d929d32d3d42",
+        "text": "On bosse avec une freelance \nCécile Lipovetzky\n\nConseil en Communication et Relations Médias\n\nMobile : +33 (0)6.09.84.01.08.\n\n<mailto:lipovetzky.cecile@gmail.com|lipovetzky.cecile@gmail.com>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "56d8a678e801",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-18\/7292097443269_56d8a678e801350db84a_72.png",
+            "first_name": "Joël",
+            "real_name": "Joël Gaudeul",
+            "display_name": "Joël (Swan)",
+            "team": "T017AGS2KE0",
+            "name": "joel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730193920.148109",
+        "parent_user_id": "U020QK16RMJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RghHM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On bosse avec une freelance \nCécile Lipovetzky\n\nConseil en Communication et Relations Médias\n\nMobile : +33 (0)6.09.84.01.08.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:lipovetzky.cecile@gmail.com",
+                                "text": "lipovetzky.cecile@gmail.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U020QK16RMJ",
+        "type": "message",
+        "ts": "1738842404.847079",
+        "client_msg_id": "cb4e29a6-24f6-454a-975e-1795e8890dd1",
+        "text": "Recommandée par Erika qui ne pouvait pas bosser avec nous car memo bank est son client aussi",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "56d8a678e801",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-18\/7292097443269_56d8a678e801350db84a_72.png",
+            "first_name": "Joël",
+            "real_name": "Joël Gaudeul",
+            "display_name": "Joël (Swan)",
+            "team": "T017AGS2KE0",
+            "name": "joel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1730193920.148109",
+        "parent_user_id": "U020QK16RMJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D0Oh2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Recommandée par Erika qui ne pouvait pas bosser avec nous car memo bank est son client aussi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

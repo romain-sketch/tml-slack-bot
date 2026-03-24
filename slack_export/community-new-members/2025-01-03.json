@@ -1,0 +1,326 @@
+[
+    {
+        "user": "U086LFGGVUG",
+        "type": "message",
+        "ts": "1735897742.337439",
+        "client_msg_id": "672f2031-78db-4ec8-8ba2-816b539b6cb5",
+        "text": "Hello à tous, merci pour l'ajout dans ce Slack, je suis ravie d'en faire partie.\nJ'en profite pour vous souhaiter à tous une année 2025 pétillante !\nAu plaisir de vous rencontrer ... à la soirée de lancement du livre, qui tombe à point nommé :blush:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "8037084d031e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-01-03\/8241041927621_8037084d031e372f4d94_72.jpg",
+            "first_name": "Laura",
+            "real_name": "Laura Silva",
+            "display_name": "Laura Silva",
+            "team": "T017AGS2KE0",
+            "name": "laura.silva",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1735897742.337439",
+        "reply_count": 6,
+        "reply_users_count": 6,
+        "latest_reply": "1736232139.936959",
+        "reply_users": [
+            "U017H09S857",
+            "U01A4GMRRR9",
+            "U08300D2NJY",
+            "U0183AS3MB6",
+            "U0177A5V42F",
+            "U032T5N7UTY"
+        ],
+        "replies": [
+            {
+                "user": "U017H09S857",
+                "ts": "1735901962.078319"
+            },
+            {
+                "user": "U01A4GMRRR9",
+                "ts": "1735903864.576979"
+            },
+            {
+                "user": "U08300D2NJY",
+                "ts": "1735903955.498009"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1735912648.745909"
+            },
+            {
+                "user": "U0177A5V42F",
+                "ts": "1736158006.109739"
+            },
+            {
+                "user": "U032T5N7UTY",
+                "ts": "1736232139.936959"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZN52G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello à tous, merci pour l'ajout dans ce Slack, je suis ravie d'en faire partie.\nJ'en profite pour vous souhaiter à tous une année 2025 pétillante !\nAu plaisir de vous rencontrer ... à la soirée de lancement du livre, qui tombe à point nommé "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U017RAZCAGZ",
+                    "U06M6E5M524",
+                    "U078PFP7A4B",
+                    "U017CURDPB5",
+                    "U07D08K3U0K",
+                    "U06LENY5V6Z",
+                    "U056DAY3YD8",
+                    "U02CBFN48CF",
+                    "U07LN85V6TG",
+                    "U032T5N7UTY",
+                    "U07MNBM4WLV",
+                    "U0177A5V42F"
+                ],
+                "count": 12
+            }
+        ]
+    },
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1735901962.078319",
+        "client_msg_id": "5e636ac8-7d58-489a-b07a-79ebc3802313",
+        "text": "Welcome Laura! et très bonne année à toi!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1735897742.337439",
+        "parent_user_id": "U086LFGGVUG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cUEtS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome Laura! et très bonne année à toi!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U086LFGGVUG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1735903864.576979",
+        "client_msg_id": "fe507517-a3c7-43b5-b37c-5f7144866c69",
+        "text": "Bienvenue <@U086LFGGVUG>!!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1735897742.337439",
+        "parent_user_id": "U086LFGGVUG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a8idU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bienvenue "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U086LFGGVUG"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U086LFGGVUG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U08300D2NJY",
+        "type": "message",
+        "ts": "1735903955.498009",
+        "client_msg_id": "9b19e5b1-aebe-42c2-9263-076a65af5069",
+        "text": "bienvenue <@U086LFGGVUG> et belle année également !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "06ec2fecf14f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-29\/8102732354515_06ec2fecf14fc6511a05_72.jpg",
+            "first_name": "Keyvan",
+            "real_name": "Keyvan",
+            "display_name": "Keyvan",
+            "team": "T017AGS2KE0",
+            "name": "keyvan.hamidzadeh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1735897742.337439",
+        "parent_user_id": "U086LFGGVUG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hxIX7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "bienvenue "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U086LFGGVUG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et belle année également !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U086LFGGVUG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1735912648.745909",
+        "client_msg_id": "919edf07-afba-4891-a838-8c04f6310187",
+        "text": "Bienvenue Laura :slightly_smiling_face: Bonne année !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1735897742.337439",
+        "parent_user_id": "U086LFGGVUG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f7zt8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bienvenue Laura "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Bonne année !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U086LFGGVUG"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

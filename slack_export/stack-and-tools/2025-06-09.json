@@ -1,0 +1,107 @@
+[
+    {
+        "user": "U06UK9NGTB4",
+        "type": "message",
+        "ts": "1749457801.989579",
+        "client_msg_id": "2e2e995a-fa64-4a58-a86d-582e58e4466a",
+        "text": "Je crois que MailerLite fait le taff (<https:\/\/www.mailerlite.com\/>)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0de90fd94651",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-12-08\/10074067873414_0de90fd94651dd81ffed_72.png",
+            "first_name": "François",
+            "real_name": "François Castro-Lara",
+            "display_name": "François Castro-Lara (Mayday)",
+            "team": "T017AGS2KE0",
+            "name": "francois",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749391131.825779",
+        "parent_user_id": "U08SA22HS0J",
+        "attachments": [
+            {
+                "image_url": "https:\/\/www.mailerlite.com\/img\/containers\/assets\/SEO\/homepage-meta.jpg\/a271969696ccb718c1a26ea27c86ef53.jpg",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 69520,
+                "from_url": "https:\/\/www.mailerlite.com\/",
+                "service_icon": "https:\/\/www.mailerlite.com\/site\/themes\/new\/img\/favicons\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.mailerlite.com\/",
+                "fallback": "Create Email Marketing Your Audience Will Love - MailerLite",
+                "text": "Digital marketing tools to grow your audience faster and drive revenue smarter. Backed by 24\/7 award-winning support. Check it out now!",
+                "title": "Create Email Marketing Your Audience Will Love - MailerLite",
+                "title_link": "https:\/\/www.mailerlite.com\/",
+                "service_name": "mailerlite.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8hcr3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je crois que MailerLite fait le taff ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.mailerlite.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08SA22HS0J",
+        "type": "message",
+        "ts": "1749470165.668629",
+        "client_msg_id": "b5176e30-2061-413d-8916-65ec92a9a1cf",
+        "text": "Canon! Merci François",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "266d9356f19e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-07\/10243863201635_266d9356f19e63bc9267_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu BONENFANT (SecLab)",
+            "display_name": "Matthieu BONENFANT (SecLab)",
+            "team": "T017AGS2KE0",
+            "name": "matthieu.bonenfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749391131.825779",
+        "parent_user_id": "U08SA22HS0J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ww6+Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Canon! Merci François"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

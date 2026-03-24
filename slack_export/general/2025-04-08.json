@@ -1,0 +1,153 @@
+[
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1744181075.919149",
+        "client_msg_id": "73d0018b-1ce5-491f-b7a8-6db4e1751ca8",
+        "text": "Helloooo la dream team\nNotre livre avec <@U063Q1LA69W> sort aujourd'hui, et on fait une soirée pour le lancement le jeudi 15 mai à 18h dans les bureau de BPI (Bd haussman). Si ca vous chauffe de venir :heart_hands:\ny aura des supers guest comme <@U04SM1RGPJB> :slightly_smiling_face: et d'autres contributeurs du livre\nInscription obligatoire ici : <https:\/\/lu.ma\/gjn9h8ur>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1744181075.919149",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1744580894.629479",
+        "reply_users": [
+            "U017H09S857",
+            "U063A8VPPG9",
+            "U07MNBM4WLV",
+            "U06TF9YAWEM"
+        ],
+        "replies": [
+            {
+                "user": "U017H09S857",
+                "ts": "1744183890.107039"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1744184236.089149"
+            },
+            {
+                "user": "U07MNBM4WLV",
+                "ts": "1744184682.953699"
+            },
+            {
+                "user": "U06TF9YAWEM",
+                "ts": "1744540538.424239"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1744580894.629479"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "image_url": "https:\/\/social-images.lu.ma\/cdn-cgi\/image\/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=419\/api\/event-one?calendar_avatar=https%3A%2F%2Fcdn.lu.ma%2Favatars-default%2Fcommunity_avatar_9.png&calendar_name&color0=%23131315&color1=%23414157&color2=%23949695&color3=%23efeeed&host_avatar=https%3A%2F%2Fimages.lumacdn.com%2Favatars%2Fbh%2F9f1f244f-617d-44d8-8840-8024060fc3b7.png&host_name=Jolhane%20Leite&img=https%3A%2F%2Fimages.lumacdn.com%2Fevent-covers%2Fjb%2Ff8cd5c86-0ba1-4bef-b0e9-c08e5065e29c.png&name=Lancement%20du%20livre%20-%20Le%20parfait%20onboarding%20du%20responsable%20marketing",
+                "image_width": 800,
+                "image_height": 419,
+                "image_bytes": 30450,
+                "from_url": "https:\/\/lu.ma\/gjn9h8ur",
+                "service_icon": "https:\/\/lu.ma\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/lu.ma\/gjn9h8ur",
+                "fallback": "Lancement du livre - Le parfait onboarding du responsable marketing · Luma",
+                "text": "Bien démarrer sa prise de poste marketing, ça ne s’improvise pas.\n:date: Le 15 mai, on célèbre la sortie officielle du livre “Le parfait onboarding du responsable…",
+                "title": "Lancement du livre - Le parfait onboarding du responsable marketing · Luma",
+                "title_link": "https:\/\/lu.ma\/gjn9h8ur",
+                "service_name": "lu.ma"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CwD6Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Helloooo la dream team\nNotre livre avec "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U063Q1LA69W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sort aujourd'hui, et on fait une soirée pour le lancement le jeudi 15 mai à 18h dans les bureau de BPI (Bd haussman). Si ca vous chauffe de venir "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_hands",
+                                "unicode": "1faf6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\ny aura des supers guest comme "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04SM1RGPJB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et d'autres contributeurs du livre\nInscription obligatoire ici : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/lu.ma\/gjn9h8ur"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U04SM1RGPJB",
+                    "U02N2EVMFCG",
+                    "U078PFP7A4B",
+                    "U017H09S857",
+                    "U07MNBM4WLV",
+                    "U042GV737MX",
+                    "U0183AS3MB6",
+                    "U069NSTHZ3Q",
+                    "U054GRSQCTX",
+                    "U08M0JP81DK",
+                    "U08HF5YQM6G",
+                    "U017CURDPB5",
+                    "U07PEP71X4Y",
+                    "U03P99RGMTN",
+                    "U06DYTRDLUD",
+                    "U06TF9YAWEM"
+                ],
+                "count": 16
+            }
+        ]
+    }
+]

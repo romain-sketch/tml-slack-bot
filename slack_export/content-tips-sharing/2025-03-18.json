@@ -1,0 +1,62 @@
+[
+    {
+        "user": "U04L04T475K",
+        "type": "message",
+        "ts": "1742283968.388759",
+        "client_msg_id": "cb73e2d3-f35e-41b9-8540-3dbbd1ab6dc3",
+        "text": "le pire c'est que s'il y avait vraiment un championnat du monde, Arnaud Courtel participerait vraiment\n<@U02N2EVMFCG>\nsi j'étais Notion je l'organiserais en tout cas :smirk:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "992240f01962",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4685704045204_992240f019622b6b0af8_72.jpg",
+            "first_name": "Antoine",
+            "real_name": "Antoine Yahia Cherif",
+            "display_name": "Antoine Yahia Cherif",
+            "team": "T017AGS2KE0",
+            "name": "antoine.yc008",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741795353.717069",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EEC3H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "le pire c'est que s'il y avait vraiment un championnat du monde, Arnaud Courtel participerait vraiment\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02N2EVMFCG"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nsi j'étais Notion je l'organiserais en tout cas "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smirk",
+                                "unicode": "1f60f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U08JCBMPU4C",
+        "text": "<@U08JCBMPU4C> has joined the channel",
+        "type": "message",
+        "ts": "1742312150.010019"
+    }
+]

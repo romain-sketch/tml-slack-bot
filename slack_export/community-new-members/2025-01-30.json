@@ -1,0 +1,95 @@
+[
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1738228210.810289",
+        "client_msg_id": "f3edfe42-9f42-4593-adb5-d4b565952804",
+        "text": "Hello à toutes et à tous, Séverine de IMPACT PLUS souhaite rejoindre la communauté, elle est top-marketers chez eux. Ils mesurent l'impact carbone (et autres gaz à effet de serre) des campagnes média <https:\/\/www.linkedin.com\/in\/severineloeuille?originalSubdomain=fr>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738228210.810289",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1743504235.350499",
+        "reply_users": [
+            "U02N2EVMFCG",
+            "U017H09S857",
+            "U02MZTE8GCF"
+        ],
+        "replies": [
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1738402822.831229"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1738790921.174369"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1738830498.484369"
+            },
+            {
+                "user": "U02MZTE8GCF",
+                "ts": "1743504235.350499"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/severineloeuille?originalSubdomain=fr",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/severineloeuille?originalSubdomain=fr",
+                "fallback": "Séverine Loeuille - France | Professional Profile | LinkedIn",
+                "text": "Location: France · 500+ connections on LinkedIn. View Séverine Loeuille’s profile on LinkedIn, a professional community of 1 billion members.",
+                "title": "Séverine Loeuille - France | Professional Profile | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/severineloeuille?originalSubdomain=fr",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "URrzA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello à toutes et à tous, Séverine de IMPACT PLUS souhaite rejoindre la communauté, elle est top-marketers chez eux. Ils mesurent l'impact carbone (et autres gaz à effet de serre) des campagnes média "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/severineloeuille?originalSubdomain=fr"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06LENY5V6Z"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

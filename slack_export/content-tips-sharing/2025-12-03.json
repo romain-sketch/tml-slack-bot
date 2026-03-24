@@ -1,0 +1,476 @@
+[
+    {
+        "user": "U056DAY3YD8",
+        "type": "message",
+        "ts": "1764779817.858629",
+        "client_msg_id": "200AA9D0-411A-4A25-91C7-CB4FAF6B95E7",
+        "text": "Excellent la collab avec Galansire <@U032T5N7UTY> !! \n<https:\/\/www.instagram.com\/reel\/DRzt2fPDPTC\/?igsh=MTRleWpsYWFpY2cycw==|https:\/\/www.instagram.com\/reel\/DRzt2fPDPTC\/?igsh=MTRleWpsYWFpY2cycw==>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "1497d32a4908",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-16\/6043403579731_1497d32a4908ee3b80b5_72.png",
+            "first_name": "Alexis",
+            "real_name": "Alexis Chevallier",
+            "display_name": "Alexis Chevallier (Part-Time CMO)",
+            "team": "T017AGS2KE0",
+            "name": "alexchvllr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764779817.858629",
+        "reply_count": 8,
+        "reply_users_count": 6,
+        "latest_reply": "1764930261.062949",
+        "reply_users": [
+            "U06CZESF7QF",
+            "U032T5N7UTY",
+            "U063A8VPPG9",
+            "U02N2EVMFCG",
+            "U04L04T475K",
+            "U0951RDNKU6"
+        ],
+        "replies": [
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1764780558.277399"
+            },
+            {
+                "user": "U032T5N7UTY",
+                "ts": "1764781779.601599"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1764783608.411889"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1764831406.996869"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1764832437.921599"
+            },
+            {
+                "user": "U04L04T475K",
+                "ts": "1764833565.354599"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1764853160.948189"
+            },
+            {
+                "user": "U0951RDNKU6",
+                "ts": "1764930261.062949"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b2bYI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Excellent la collab avec Galansire "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U032T5N7UTY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " !! "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.instagram.com\/reel\/DRzt2fPDPTC\/?igsh=MTRleWpsYWFpY2cycw==",
+                                "text": "https:\/\/www.instagram.com\/reel\/DRzt2fPDPTC\/?igsh=MTRleWpsYWFpY2cycw=="
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "green_heart",
+                "users": [
+                    "U032T5N7UTY",
+                    "U063A8VPPG9",
+                    "U084KTR7YKX",
+                    "U0951RDNKU6"
+                ],
+                "count": 4
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U06CZESF7QF",
+                    "U06DYTRDLUD",
+                    "U0951RDNKU6",
+                    "U08300D2NJY"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1764780558.277399",
+        "client_msg_id": "fa94bb6f-7410-46ed-9e04-b68fff2c71e1",
+        "text": "Trop bien ! Ca vaut combien par curiosité <@U032T5N7UTY>? Pas de soucis si tu peux pas en parler :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764779817.858629",
+        "parent_user_id": "U056DAY3YD8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zrwwD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Trop bien ! Ca vaut combien par curiosité "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U032T5N7UTY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "? Pas de soucis si tu peux pas en parler "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U032T5N7UTY",
+        "type": "message",
+        "ts": "1764781779.601599",
+        "client_msg_id": "9adad925-1044-461e-8298-bf727586222b",
+        "text": "Merci <@U06CZESF7QF>. Je ne partagerai pas le montant de la collab par respect pour Galansire qui ne veut peut-être pas que ca se sache.\n\nJe peux, en revanche partager que nous menons une stratégie d'influence intensive depuis plus de deux ans.\nMicro-influence (budgets oscillant entre 500 € et 2 000 €) + macro-influence, avec des partenaires comme Galansire (+5 000 €).\nL'impact sur notre notoriété est considérable. Nous le mesurons avec une question posée au signup, où nous interrogeons notre audience sur les dispositifs qui l'ont influencée. Comme nous avons la chance d'avoir un volume quotidiens de signup important on a de résultats analysables.\nPar ailleurs, en 2025, on va cumuler un volume de reach approchant le 1M\/mois.\nCa occupe une place vraiment croissante dans notre mix média, sur l'objectif de noto de marque.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "026d818af51e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-14\/3105470112116_026d818af51e6af78591_72.png",
+            "first_name": "Maxime",
+            "real_name": "Maxime Baumard",
+            "display_name": "Maxime Baumard (Pennylane)",
+            "team": "T017AGS2KE0",
+            "name": "maxime.baumard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764779817.858629",
+        "parent_user_id": "U056DAY3YD8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PBl8U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06CZESF7QF"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Je ne partagerai pas le montant de la collab par respect pour Galansire qui ne veut peut-être pas que ca se sache.\n\nJe peux, en revanche partager que nous menons une stratégie d'influence intensive depuis plus de deux ans.\nMicro-influence (budgets oscillant entre 500 € et 2 000 €) + macro-influence, avec des partenaires comme Galansire (+5 000 €).\nL'impact sur notre notoriété est considérable. Nous le mesurons avec une question posée au signup, où nous interrogeons notre audience sur les dispositifs qui l'ont influencée. Comme nous avons la chance d'avoir un volume quotidiens de signup important on a de résultats analysables.\nPar ailleurs, en 2025, on va cumuler un volume de reach approchant le 1M\/mois.\nCa occupe une place vraiment croissante dans notre mix média, sur l'objectif de noto de marque."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "open_mouth",
+                "users": [
+                    "U056DAY3YD8",
+                    "U03P99RGMTN",
+                    "U06TF9YAWEM"
+                ],
+                "count": 3
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U056DAY3YD8",
+                    "U063A8VPPG9",
+                    "U078PFP7A4B",
+                    "U03QPMQA31V",
+                    "U02N2EVMFCG",
+                    "U07D08K3U0K",
+                    "U06CZESF7QF",
+                    "U084KTR7YKX",
+                    "U03P99RGMTN",
+                    "U06TF9YAWEM",
+                    "U07PEP71X4Y"
+                ],
+                "count": 11
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1764783608.411889",
+        "client_msg_id": "070A8EDE-2BA8-4CE5-8169-3439AD8B8832",
+        "text": "Trop stylé bravo <@U032T5N7UTY> ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764779817.858629",
+        "parent_user_id": "U056DAY3YD8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wivO+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Trop stylé bravo "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U032T5N7UTY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1764831406.996869",
+        "client_msg_id": "354e3dd7-0593-4472-ace5-e3db3d5c02ae",
+        "text": "Bravo ! <@U04L04T475K> <@U063A8VPPG9> chez Payfit vous avez aussi eu des bons retours comme ça ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764779817.858629",
+        "parent_user_id": "U056DAY3YD8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NZnVg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bravo ! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04L04T475K"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U063A8VPPG9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " chez Payfit vous avez aussi eu des bons retours comme ça ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1764832437.921599",
+        "client_msg_id": "a3920925-6a0d-4780-95ae-f69cbe09b651",
+        "text": "<@U0951RDNKU6> je te laisse y repondre :wink:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764779817.858629",
+        "parent_user_id": "U056DAY3YD8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "85RkD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0951RDNKU6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je te laisse y repondre "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04L04T475K",
+        "type": "message",
+        "ts": "1764833565.354599",
+        "client_msg_id": "260CA02A-0499-4904-931E-590F9DBDD5BB",
+        "text": "C’est la première fois que Galansire faisait une collab’ avec un SaaS comme nous donc sa communauté l’a plutôt bien reçu et les retours étaient excellents. \nC’est aussi la première fois que PayFit faisait une collab avec un influencer caricatural \/ 2nd degrés - c’est bon pour l’équity de la marque, pour la noto, et pour sortir des sentiers battus avec un TOV bcp moins sérieux et corpo que d’habitude. De notre côté, on a fait 2x réels avec lui, je ne peux vous parler que du 1er : le reach et les impressions étaient très bonnes, on a eu un relai LK de Firmin qui a bien fonctionné aussi. J’ai l’impression que le 1er fonctionne toujours mieux, l’effet surprise retombe un peu quand tu en as fait deux. Enfin je ne sais pas si on a closé grace à ça - Marion saura mieux ! ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "992240f01962",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4685704045204_992240f019622b6b0af8_72.jpg",
+            "first_name": "Antoine",
+            "real_name": "Antoine Yahia Cherif",
+            "display_name": "Antoine Yahia Cherif",
+            "team": "T017AGS2KE0",
+            "name": "antoine.yc008",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764779817.858629",
+        "parent_user_id": "U056DAY3YD8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ebX4c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C’est la première fois que Galansire faisait une collab’ avec un SaaS comme nous donc sa communauté l’a plutôt bien reçu et les retours étaient excellents. \nC’est aussi la première fois que PayFit faisait une collab avec un influencer caricatural \/ 2nd degrés - c’est bon pour l’équity de la marque, pour la noto, et pour sortir des sentiers battus avec un TOV bcp moins sérieux et corpo que d’habitude. De notre côté, on a fait 2x réels avec lui, je ne peux vous parler que du 1er : "
+                            },
+                            {
+                                "type": "text",
+                                "text": "le reach et les impressions étaient très bonnes, on a eu un relai LK de Firmin qui a bien fonctionné aussi. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "J’ai"
+                            },
+                            {
+                                "type": "text",
+                                "text": " l’impression que le 1er fonctionne toujours mieux, l’effet surprise retombe un peu quand tu en as fait deux. Enfin je ne sais pas si on a closé grace à ça - Marion saura mieux ! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U032T5N7UTY",
+                    "U063A8VPPG9",
+                    "U06CZESF7QF",
+                    "U02N2EVMFCG",
+                    "U084KTR7YKX",
+                    "U03P99RGMTN",
+                    "U0951RDNKU6"
+                ],
+                "count": 7
+            }
+        ]
+    }
+]

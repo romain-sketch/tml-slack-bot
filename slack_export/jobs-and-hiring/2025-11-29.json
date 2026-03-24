@@ -1,0 +1,50 @@
+[
+    {
+        "user": "U06TF9YAWEM",
+        "type": "message",
+        "ts": "1764411647.076069",
+        "client_msg_id": "B443C868-0193-42B4-86EB-5E47E1BE41DB",
+        "text": "Je te confirme <@U0946E8A2US> que les profils en France sont ok aussi ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "bd18243d01f9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-04-13\/8768953549904_bd18243d01f97fe02075_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Lhermitte",
+            "display_name": "Marie Lhermitte (Lucca)",
+            "team": "T017AGS2KE0",
+            "name": "marie.lhermitte78",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764351525.648979",
+        "parent_user_id": "U06TF9YAWEM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "caaWK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je te confirme "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0946E8A2US"
+                            },
+                            {
+                                "type": "text",
+                                "text": " que les profils en France sont ok aussi "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,355 @@
+[
+    {
+        "user": "U06U1GG592M",
+        "type": "message",
+        "ts": "1760001035.372819",
+        "client_msg_id": "a22672da-5ec4-4d90-bac7-45f6977980a5",
+        "text": "Hello tout le monde :wave:\nEst-ce que vous connaissez une *bonne agence de production UGC à l’international* ?\nOn en a testé plusieurs jusqu’à présent, mais la *gestion de projet reste compliquée* :sweat_smile:\nMerci d’avance pour vos recos !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "84a1e781f35c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-31\/7202740482978_84a1e781f35c228ca958_72.jpg",
+            "first_name": "Carolane",
+            "real_name": "Carolane Guyon",
+            "display_name": "Carolane (Veesion)",
+            "team": "T017AGS2KE0",
+            "name": "c.guyon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760001035.372819",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1760013177.278329",
+        "reply_users": [
+            "U07MNBM4WLV",
+            "U06U1GG592M"
+        ],
+        "replies": [
+            {
+                "user": "U07MNBM4WLV",
+                "ts": "1760002437.358219"
+            },
+            {
+                "user": "U06U1GG592M",
+                "ts": "1760013177.278329"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MW033",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello tout le monde "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nEst-ce que vous connaissez une "
+                            },
+                            {
+                                "type": "text",
+                                "text": "bonne agence de production UGC à l’international",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ?\nOn en a testé plusieurs jusqu’à présent, mais la "
+                            },
+                            {
+                                "type": "text",
+                                "text": "gestion de projet reste compliquée",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nMerci d’avance pour vos recos !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "x",
+                "users": [
+                    "U07MNBM4WLV",
+                    "U06DYTRDLUD"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U07MNBM4WLV",
+        "type": "message",
+        "ts": "1760002437.358219",
+        "client_msg_id": "7ee2f927-bc85-4015-8109-4ffb46642219",
+        "text": "On internalise aussi pour ses raisons la gestion de projet :smile:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "028ce63b55be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-17\/7733128030774_028ce63b55be29945d4f_72.jpg",
+            "first_name": "Domitille",
+            "real_name": "Domitille de Saint-Exupéry",
+            "display_name": "Domitille de Saint-Exupéry (lemlist)",
+            "team": "T017AGS2KE0",
+            "name": "domitille433",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760001035.372819",
+        "parent_user_id": "U06U1GG592M",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GnhJp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On internalise aussi pour ses raisons la gestion de projet "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sweat_smile",
+                "users": [
+                    "U06U1GG592M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06U1GG592M",
+        "type": "message",
+        "ts": "1760013177.278329",
+        "client_msg_id": "9bd635f5-4d57-4ee8-bb8f-50960168703a",
+        "text": "Ouai ok...",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "84a1e781f35c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-31\/7202740482978_84a1e781f35c228ca958_72.jpg",
+            "first_name": "Carolane",
+            "real_name": "Carolane Guyon",
+            "display_name": "Carolane (Veesion)",
+            "team": "T017AGS2KE0",
+            "name": "c.guyon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760001035.372819",
+        "parent_user_id": "U06U1GG592M",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8z2Rj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ouai ok..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0946E8A2US",
+        "type": "message",
+        "ts": "1760024643.125009",
+        "edited": {
+            "user": "U0946E8A2US",
+            "ts": "1760024902.000000"
+        },
+        "client_msg_id": "c186c584-82a1-42b4-8fe5-90bc57ca7c06",
+        "text": "Salut, je re-poste ici pour les personnes qui ne seraient pas sur <#C051WKLDD5Z|parttimecmo> et qui n'auraient pas vu <https:\/\/techmarketingleaders.slack.com\/archives\/C051WKLDD5Z\/p1757492463739209|le message de Gwenn> :\nAssoConnect (que j'accompagne maintenant en part time) cherche son\/sa Head of Marketing (<https:\/\/www.welcometothejungle.com\/fr\/companies\/assoconnect\/jobs\/head-of-marketing_paris|job offer>).\nGros sujets:\n• PLG multi produit donc acquisition inbound++\n• Internationalisation en cours\n• Continuer à structurer l'équipe et à les amener vers + de delivery et perf :slightly_smiling_face:\nHésitez pas si vous avez des questions !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "f73f6d38e4eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-07-23\/9238905089862_f73f6d38e4eb792c8c6a_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult",
+            "team": "T017AGS2KE0",
+            "name": "thibaut.davoult",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/cdn-images.welcometothejungle.com\/6L1Dd3WDVFwCU9r0qit7Va68lJp1f-4wxreEW1NXF_Y\/rs:auto:1200:627:\/q:85\/czM6Ly93dHRqLXByb2R1Y3Rpb24vdXBsb2Fkcy93ZWJzaXRlX29yZ2FuaXphdGlvbi9jb3Zlcl9pbWFnZS93dHRqX2ZyL2ZyLWFkYzg2ZWYyLWM3YzgtNGE2Yi1iZDVmLWQxY2QwYjc0OTg3Ni5qcGc",
+                "image_width": 1200,
+                "image_height": 627,
+                "image_bytes": 193413,
+                "from_url": "https:\/\/www.welcometothejungle.com\/fr\/companies\/assoconnect\/jobs\/head-of-marketing_paris",
+                "service_icon": "https:\/\/cdn.welcometothejungle.com\/wttj-front\/production\/favicon.png",
+                "id": 2,
+                "original_url": "https:\/\/www.welcometothejungle.com\/fr\/companies\/assoconnect\/jobs\/head-of-marketing_paris",
+                "fallback": "Head of Marketing - AssoConnect - CDI",
+                "text": "AssoConnect recrute un(e) Head of Marketing !",
+                "title": "Head of Marketing - AssoConnect - CDI",
+                "title_link": "https:\/\/www.welcometothejungle.com\/fr\/companies\/assoconnect\/jobs\/head-of-marketing_paris",
+                "service_name": "welcometothejungle.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cVxte",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salut, je re-poste ici pour les personnes qui ne seraient pas sur "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C051WKLDD5Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et qui n'auraient pas vu "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/techmarketingleaders.slack.com\/archives\/C051WKLDD5Z\/p1757492463739209",
+                                "text": "le message de Gwenn"
+                            },
+                            {
+                                "type": "text",
+                                "text": " :\nAssoConnect (que j'accompagne maintenant en part time) cherche son\/sa Head of Marketing ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.welcometothejungle.com\/fr\/companies\/assoconnect\/jobs\/head-of-marketing_paris",
+                                "text": "job offer"
+                            },
+                            {
+                                "type": "text",
+                                "text": ").\nGros sujets:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "PLG multi produit donc acquisition inbound++"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Internationalisation en cours"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Continuer à structurer l'équipe et à les amener vers + de delivery et perf "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "slightly_smiling_face",
+                                        "unicode": "1f642"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nHésitez pas si vous avez des questions !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U02N2EVMFCG"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U084KTR7YKX",
+                    "U063A8VPPG9"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

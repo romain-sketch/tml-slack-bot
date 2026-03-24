@@ -1,0 +1,270 @@
+[
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1750320563.656179",
+        "client_msg_id": "45e7dbac-ffdd-48a4-8d5c-333f2e1385ab",
+        "text": "YES!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750230228.925419",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YVGG+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "YES!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U092U6UDLMN",
+        "text": "<@U092U6UDLMN> has joined the channel",
+        "type": "message",
+        "ts": "1750322159.984899",
+        "team": "T017AGS2KE0"
+    },
+    {
+        "user": "U092U6UDLMN",
+        "type": "message",
+        "ts": "1750323780.127129",
+        "client_msg_id": "c3b5e6a6-4eed-4a60-8f3c-994c4e9c543c",
+        "text": "Hello :wave:,\nMerci beaucoup pour votre invitation à rejoindre ce groupe ! Je suis ravi de pouvoir prendre part aux discussions et échanger avec vous tous.\nQui je suis en quelques mots : j’ai une quinzaine d’années d’expérience en Marketing, toujours en B2B Grands Comptes et dans la Tech (opérateur télécom, cybersécurité, fintech, et aujourd’hui IA chez DialOnce). Mes domaines de compétences, même si j’ai encore bcp à apprendre :wink:, sont le SEO \/ Content, le Marketing Automation (vive HubSpot) et les Ops.\nAu plaisir de vous rencontrer ici ou autour d’un café virtuel !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e910bc968404",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-19\/9072876473829_e910bc968404c2c0b5d1_72.png",
+            "first_name": "Bastien",
+            "real_name": "Bastien Meaux (DialOnce)",
+            "display_name": "Bastien Meaux",
+            "team": "T017AGS2KE0",
+            "name": "bmeaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750323780.127129",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1750423454.188979",
+        "reply_users": [
+            "U069NSTHZ3Q",
+            "U092U6UDLMN",
+            "U08SA22HS0J"
+        ],
+        "replies": [
+            {
+                "user": "U069NSTHZ3Q",
+                "ts": "1750350349.760119"
+            },
+            {
+                "user": "U092U6UDLMN",
+                "ts": "1750411430.034309"
+            },
+            {
+                "user": "U069NSTHZ3Q",
+                "ts": "1750414505.318399"
+            },
+            {
+                "user": "U08SA22HS0J",
+                "ts": "1750421329.296029"
+            },
+            {
+                "user": "U069NSTHZ3Q",
+                "ts": "1750423454.188979"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2de7h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\nMerci beaucoup pour votre invitation à rejoindre ce groupe ! Je suis ravi de pouvoir prendre part aux discussions et échanger avec vous tous.\nQui je suis en quelques mots : j’ai une quinzaine d’années d’expérience en Marketing, toujours en B2B Grands Comptes et dans la Tech (opérateur télécom, cybersécurité, fintech, et aujourd’hui IA chez DialOnce). Mes domaines de compétences, même si j’ai encore bcp à apprendre "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", sont le SEO \/ Content, le Marketing Automation (vive HubSpot) et les Ops.\nAu plaisir de vous rencontrer ici ou autour d’un café virtuel !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U08HF5YQM6G",
+                    "U017H09S857",
+                    "U056DAY3YD8",
+                    "U06TF9YAWEM",
+                    "U03CY07UZJM",
+                    "U054GRSQCTX",
+                    "U078PFP7A4B",
+                    "U067VEJFT5F",
+                    "U02N2EVMFCG",
+                    "U063Q1LA69W",
+                    "U0177A5V42F",
+                    "U06UK9NGTB4",
+                    "U04SM1RGPJB",
+                    "U08QZ6EKE4Q",
+                    "U01A4GMRRR9",
+                    "U08EN5GRYCC",
+                    "U017CURDPB5",
+                    "U06MLNEGNKB",
+                    "U0183AS3MB6",
+                    "U017RAZCAGZ",
+                    "U07D08K3U0K",
+                    "U069NSTHZ3Q",
+                    "U063A8VPPG9",
+                    "U0859A8P14K",
+                    "U03P99RGMTN",
+                    "U04L35Y9D08",
+                    "U06LENY5V6Z",
+                    "U08M0JP81DK",
+                    "U08554C4R7C",
+                    "U07PEP71X4Y"
+                ],
+                "count": 30
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1750323909.556219",
+        "client_msg_id": "DE67B5A6-9203-41E0-9580-2757795F9DB8",
+        "text": "<@U017H09S857> c est quoi le process?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750230228.925419",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kvAEq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U017H09S857"
+                            },
+                            {
+                                "type": "text",
+                                "text": " c est quoi le process?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U069NSTHZ3Q",
+        "type": "message",
+        "ts": "1750350349.760119",
+        "client_msg_id": "21e2c48c-d73e-46a0-ab03-69fa4e2811fd",
+        "text": "Bienvenue Bastien ! j'ai déjà une question pour toi :wink: On cherche désespérément un bon rédacteur dans la cyber\/tech pointu (dans ma société Oodrive, on est sur des sujets de cloud souverain, secnumcloud...). Si tu as des contacts je suis preneuse!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "fbbca81fca0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-30\/7816371623809_fbbca81fca0c916c8c15_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Gannau (Oodrive)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "m.gannau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1750323780.127129",
+        "parent_user_id": "U092U6UDLMN",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EjHD4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bienvenue Bastien ! j'ai déjà une question pour toi "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            },
+                            {
+                                "type": "text",
+                                "text": " On cherche désespérément un bon rédacteur dans la cyber\/tech pointu (dans ma société Oodrive, on est sur des sujets de cloud souverain, secnumcloud...). Si tu as des contacts je suis preneuse!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

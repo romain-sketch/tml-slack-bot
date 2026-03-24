@@ -1,0 +1,166 @@
+[
+    {
+        "user": "U06UK9NGTB4",
+        "type": "message",
+        "ts": "1746172104.959889",
+        "edited": {
+            "user": "U06UK9NGTB4",
+            "ts": "1746172524.000000"
+        },
+        "client_msg_id": "0c8cc76d-64f4-421f-818e-8123612f7432",
+        "text": "Hello à tous,\n\nJe voulais vous proposer d'ajouter <https:\/\/www.linkedin.com\/in\/matthieubonenfant\/|Matthieu Bonenfant> :\n• il a une belle carrière avec un profil complet : d'abord ingénieur dans la sécu, puis PM pour finir CMO\n• Il a été CMO de <https:\/\/www.stormshield.com\/fr\/|Stormshield>, une belle réussite française dans la cybersécurité (rachetée par Airbus)\n• Il est aujourd'hui CMO de <https:\/\/www.woopit.fr|Woop>, plateforme SaaS spécialisée dans la livraison et l'optimisation du dernier kilomètre\nJ'ai déjà travaillé avec lui pour le passé, je pense qu'il peut matcher mais à vous de me dire maintenant :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0de90fd94651",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-12-08\/10074067873414_0de90fd94651dd81ffed_72.png",
+            "first_name": "François",
+            "real_name": "François Castro-Lara",
+            "display_name": "François Castro-Lara (Mayday)",
+            "team": "T017AGS2KE0",
+            "name": "francois",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1746172104.959889",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1747210662.709099",
+        "reply_users": [
+            "U06UK9NGTB4",
+            "U017H09S857",
+            "U08SA22HS0J"
+        ],
+        "replies": [
+            {
+                "user": "U06UK9NGTB4",
+                "ts": "1747129241.652439"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1747143966.215309"
+            },
+            {
+                "user": "U08SA22HS0J",
+                "ts": "1747210662.709099"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1tROy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello à tous,\n\nJe voulais vous proposer d'ajouter "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/matthieubonenfant\/",
+                                "text": "Matthieu Bonenfant"
+                            },
+                            {
+                                "type": "text",
+                                "text": " :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "il a une belle carrière avec un profil complet : d'abord ingénieur dans la sécu, puis PM pour finir CMO"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Il a été CMO de "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.stormshield.com\/fr\/",
+                                        "text": "Stormshield"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", une belle réussite française dans la cybersécurité (rachetée par Airbus)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Il est aujourd'hui CMO de "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.woopit.fr",
+                                        "text": "Woop"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", plateforme SaaS spécialisée dans la livraison et l'optimisation du dernier kilomètre"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nJ'ai déjà travaillé avec lui pour le passé, je pense qu'il peut matcher mais à vous de me dire maintenant "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U0177A5V42F",
+                    "U0183AS3MB6",
+                    "U01A4GMRRR9",
+                    "U02N2EVMFCG",
+                    "U063A8VPPG9",
+                    "U04SM1RGPJB",
+                    "U017RAZCAGZ",
+                    "U08M0JP81DK",
+                    "U06DYTRDLUD",
+                    "U07MNBM4WLV",
+                    "U067GNGDATD",
+                    "U080K705ESH",
+                    "U06TF9YAWEM"
+                ],
+                "count": 13
+            }
+        ]
+    }
+]

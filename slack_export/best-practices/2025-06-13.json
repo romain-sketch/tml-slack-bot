@@ -1,0 +1,300 @@
+[
+    {
+        "user": "U067VEJFT5F",
+        "type": "message",
+        "ts": "1749804130.704229",
+        "client_msg_id": "cd1b8517-87bb-40e1-8778-7e25b1dd5778",
+        "text": "<@U08V1NE4BUJ> et <@U016QJZLRN3> avec grand plaisir ; quand vous voulez, j'ai peu de contraintes !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9fcbd8d4bd09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-05\/6296382564371_9fcbd8d4bd095d25ab4c_72.jpg",
+            "first_name": "Amandine",
+            "real_name": "Amandine Moreau",
+            "display_name": "Amandine Moreau",
+            "team": "T017AGS2KE0",
+            "name": "a.gremont.pro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749719720.417789",
+        "parent_user_id": "U016QJZLRN3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GhTp4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U08V1NE4BUJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U016QJZLRN3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " avec grand plaisir ; quand vous voulez, j'ai peu de contraintes !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08V1NE4BUJ",
+        "type": "message",
+        "ts": "1749804395.404499",
+        "client_msg_id": "51771ba9-2621-4d32-b3a1-b2232e49f3cd",
+        "text": "Lundi 17h ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "3654a4fc5d4e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-02\/8999698350033_3654a4fc5d4e25a0a92c_72.jpg",
+            "first_name": "Alan",
+            "real_name": "Alan Huet (Fundora)",
+            "display_name": "Alan HUET",
+            "team": "T017AGS2KE0",
+            "name": "alan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749719720.417789",
+        "parent_user_id": "U016QJZLRN3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w8goK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lundi 17h ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U067VEJFT5F",
+        "type": "message",
+        "ts": "1749805166.953559",
+        "client_msg_id": "a4f8ed72-9914-4eb8-a718-08544c6b893b",
+        "text": "<@U016QJZLRN3> good pour toi ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9fcbd8d4bd09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-05\/6296382564371_9fcbd8d4bd095d25ab4c_72.jpg",
+            "first_name": "Amandine",
+            "real_name": "Amandine Moreau",
+            "display_name": "Amandine Moreau",
+            "team": "T017AGS2KE0",
+            "name": "a.gremont.pro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749719720.417789",
+        "parent_user_id": "U016QJZLRN3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sDyv5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U016QJZLRN3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " good pour toi ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U016QJZLRN3",
+        "type": "message",
+        "ts": "1749806783.718379",
+        "client_msg_id": "C03B711D-3218-4DCE-B71B-106CC69F07ED",
+        "text": "Parfait !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "8f96b26362da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-09\/4613327625731_8f96b26362dac7316985_72.jpg",
+            "first_name": "Célia",
+            "real_name": "Célia Poncelin",
+            "display_name": "Célia Poncelin",
+            "team": "T017AGS2KE0",
+            "name": "celia.poncelin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749719720.417789",
+        "parent_user_id": "U016QJZLRN3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FwDLk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "P"
+                            },
+                            {
+                                "type": "text",
+                                "text": "arfait !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U016QJZLRN3",
+        "type": "message",
+        "ts": "1749806834.567059",
+        "client_msg_id": "1E8CF45D-441B-4F75-9398-54997D5A1EF7",
+        "text": "Partage bonnes pratiques IA\nlundi 16 juin · 17:00 – 17:30\nInformations de connexion Google Meet\nLien de l'appel vidéo : <https:\/\/meet.google.com\/atk-rqqn-vai|https:\/\/meet.google.com\/atk-rqqn-vai>\nOu composez le : <tel:+33187402775Code:446271101|+33 1 87 40 27 75 Code : 446271101>\nPlus de numéros de téléphone : <https:\/\/tel.meet\/atk-rqqn-vai?pin=6643891515326|https:\/\/tel.meet\/atk-rqqn-vai?pin=6643891515326>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "8f96b26362da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-09\/4613327625731_8f96b26362dac7316985_72.jpg",
+            "first_name": "Célia",
+            "real_name": "Célia Poncelin",
+            "display_name": "Célia Poncelin",
+            "team": "T017AGS2KE0",
+            "name": "celia.poncelin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749719720.417789",
+        "parent_user_id": "U016QJZLRN3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ysAjd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Partage bonnes pratiques IA\nlundi 16 juin · 17:00 – 17:30\nInformations de connexion Google Meet\nLien de l'appel vidéo : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/meet.google.com\/atk-rqqn-vai",
+                                "text": "https:\/\/meet.google.com\/atk-rqqn-vai"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nOu composez le : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:+33187402775Code:446271101",
+                                "text": "+33 1 87 40 27 75 Code : 446271101"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPlus de numéros de téléphone : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/tel.meet\/atk-rqqn-vai?pin=6643891515326",
+                                "text": "https:\/\/tel.meet\/atk-rqqn-vai?pin=6643891515326"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U08M0JP81DK",
+                    "U067VEJFT5F"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U08V1NE4BUJ",
+        "type": "message",
+        "ts": "1749806857.175759",
+        "client_msg_id": "2789e40f-83e4-4154-936a-fced3eb362fa",
+        "text": "<mailto:alan@fundora.fr|alan@fundora.fr> please",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "3654a4fc5d4e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-02\/8999698350033_3654a4fc5d4e25a0a92c_72.jpg",
+            "first_name": "Alan",
+            "real_name": "Alan Huet (Fundora)",
+            "display_name": "Alan HUET",
+            "team": "T017AGS2KE0",
+            "name": "alan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749719720.417789",
+        "parent_user_id": "U016QJZLRN3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pyctR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:alan@fundora.fr",
+                                "text": "alan@fundora.fr"
+                            },
+                            {
+                                "type": "text",
+                                "text": " please"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,147 @@
+[
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1742839550.122529",
+        "client_msg_id": "96b9b892-a706-4c17-9a41-3545c8095f2a",
+        "text": "Welcome <@U08K178SPUM> :point_up_2:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D1I6J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08K178SPUM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_up_2",
+                                "unicode": "1f446"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U042GV737MX",
+                    "U08K178SPUM"
+                ],
+                "count": 2
+            },
+            {
+                "name": "wave",
+                "users": [
+                    "U08EN5T6F4L",
+                    "U08C1HZNT8S",
+                    "U065DFPCQMP"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U08K178SPUM",
+        "text": "<@U08K178SPUM> has joined the channel",
+        "type": "message",
+        "ts": "1742848700.028019",
+        "team": "T017AGS2KE0"
+    },
+    {
+        "user": "U08K178SPUM",
+        "type": "message",
+        "ts": "1742850262.825879",
+        "client_msg_id": "c7183225-1b8e-41a0-a4ec-debaadc1eaa8",
+        "text": "Merci à tous pour l'accueil !\nHâte de découvrir cette communauté et de participer aux échanges :heart_hands:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b87525ce75fb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-24\/8643579022390_b87525ce75fbf6050086_72.jpg",
+            "first_name": "Carole",
+            "real_name": "Carole",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "carole.fouquet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dc1P7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci à tous pour l'accueil !\nHâte de découvrir cette communauté et de participer aux échanges "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_hands",
+                                "unicode": "1faf6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U01A4GMRRR9",
+                    "U04SM1RGPJB",
+                    "U067GNGDATD",
+                    "U06CZESF7QF",
+                    "U08EN5T6F4L",
+                    "U069NSTHZ3Q",
+                    "U0177A5V42F",
+                    "U017CURDPB5",
+                    "U06M6E5M524",
+                    "U06DYTRDLUD",
+                    "U07D08K3U0K",
+                    "U06ETLB8QDP",
+                    "U08554C4R7C",
+                    "U08HF5YQM6G",
+                    "U017RBREWC9",
+                    "U059T4KRCUC"
+                ],
+                "count": 16
+            }
+        ]
+    }
+]

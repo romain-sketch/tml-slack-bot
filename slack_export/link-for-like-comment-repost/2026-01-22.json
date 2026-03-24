@@ -1,0 +1,304 @@
+[
+    {
+        "user": "U08SA22HS0J",
+        "type": "message",
+        "ts": "1769105411.689819",
+        "client_msg_id": "2b63f5e8-1a11-4d59-a4cc-72171d09f7ff",
+        "text": "Merci David !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "266d9356f19e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-07\/10243863201635_266d9356f19e63bc9267_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu BONENFANT (SecLab)",
+            "display_name": "Matthieu BONENFANT (SecLab)",
+            "team": "T017AGS2KE0",
+            "name": "matthieu.bonenfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1768976815.152349",
+        "parent_user_id": "U08SA22HS0J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lM+nA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci David !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07PEP71X4Y",
+        "type": "message",
+        "ts": "1769118423.922099",
+        "client_msg_id": "359c965c-ea12-4cfd-b9f1-8ce6d2ec12de",
+        "text": "C'était énorme ! Mes photos à toutes fins utiles ;) <https:\/\/photos.app.goo.gl\/osrX2rGHWLUTwcNQ8|https:\/\/photos.app.goo.gl\/osrX2rGHWLUTwcNQ8>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "03ee4bf9d742",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-26\/7782829511830_03ee4bf9d74231490efd_72.png",
+            "first_name": "Elena",
+            "real_name": "Elena Souiller-Fedorenkova",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "elenafed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769118423.922099",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1769152616.976459",
+        "reply_users": [
+            "U08SA22HS0J"
+        ],
+        "replies": [
+            {
+                "user": "U08SA22HS0J",
+                "ts": "1769152616.976459"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "image_url": "https:\/\/lh3.googleusercontent.com\/pw\/AP1GczN-RsA_jGnTs5T7FDGn9kYtZhzTh5g6XzSs5x3Fjl4pnPJHRbpjL40DVagE4LoN2tFBwUy1_CL8dvnTEl_O7OUJK0gMGmZb8896mVKRoZuDQevy08Aw",
+                "image_width": 512,
+                "image_height": 288,
+                "image_bytes": 83883,
+                "from_url": "https:\/\/photos.app.goo.gl\/osrX2rGHWLUTwcNQ8",
+                "service_icon": "http:\/\/www.gstatic.com\/social\/photosui\/images\/logo\/2025\/1x\/photos_512dp.png",
+                "id": 1,
+                "original_url": "https:\/\/photos.app.goo.gl\/osrX2rGHWLUTwcNQ8",
+                "fallback": "Google Photos: The network effect · Thursday, Jan 22 :camera_with_flash:",
+                "text": "Shared album · Tap to view!",
+                "title": "The network effect · Thursday, Jan 22 :camera_with_flash:",
+                "title_link": "https:\/\/photos.app.goo.gl\/osrX2rGHWLUTwcNQ8",
+                "service_name": "Google Photos"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DsoLy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'était énorme ! Mes photos à toutes fins utiles ;) "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/photos.app.goo.gl\/osrX2rGHWLUTwcNQ8",
+                                "text": "https:\/\/photos.app.goo.gl\/osrX2rGHWLUTwcNQ8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U017H09S857",
+                    "U06DYTRDLUD",
+                    "U09BVQYR1GA",
+                    "U08SA22HS0J",
+                    "U06CZESF7QF",
+                    "U03QPMQA31V",
+                    "U0A0QG03DLN",
+                    "U06LENY5V6Z",
+                    "U069NSTHZ3Q"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "user": "U08SA22HS0J",
+        "type": "message",
+        "ts": "1769152616.976459",
+        "client_msg_id": "4ca9ec3f-8195-49d4-94d6-76d5443abac8",
+        "text": "Ah bien <@U07PEP71X4Y>! Elles sont top.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "266d9356f19e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-07\/10243863201635_266d9356f19e63bc9267_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu BONENFANT (SecLab)",
+            "display_name": "Matthieu BONENFANT (SecLab)",
+            "team": "T017AGS2KE0",
+            "name": "matthieu.bonenfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1769118423.922099",
+        "parent_user_id": "U07PEP71X4Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/rF5t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah bien "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07PEP71X4Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! Elles sont top."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1769154487.320259",
+        "client_msg_id": "674dbc81-3b85-4bd9-a76c-84d842de8d33",
+        "text": "<https:\/\/www.linkedin.com\/posts\/aureliemezbourianfliedel_les-6-communaut%C3%A9s-marketing-de-france-rassembl%C3%A9es-activity-7420371393608978433-OZ70?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAAIqAkMBurDFZBUqOIcDrXb0l2F90-N-3Vk|https:\/\/www.linkedin.com\/posts\/aureliemezbourianfliedel_les-6-communaut%C3%A9s-market[…]m=member_desktop&amp;rcm=ACoAAAIqAkMBurDFZBUqOIcDrXb0l2F90-N-3Vk>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/posts\/aureliemezbourianfliedel_les-6-communaut%C3%A9s-marketing-de-france-rassembl%C3%A9es-activity-7420371393608978433-OZ70?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAIqAkMBurDFZBUqOIcDrXb0l2F90-N-3Vk",
+                "image_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/D4E22AQHlxz5jsFMLLg\/feedshare-shrink_800\/B4EZvp0cjyIIAg-\/0\/1769154399358?e=2147483647&v=beta&t=uO5uRaMd52cVE8eYjOQbKLLpoUqo3DrKdt8VqmPHPFo",
+                "image_width": 800,
+                "image_height": 450,
+                "image_bytes": 79535,
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/posts\/aureliemezbourianfliedel_les-6-communaut%C3%A9s-marketing-de-france-rassembl%C3%A9es-activity-7420371393608978433-OZ70?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAAIqAkMBurDFZBUqOIcDrXb0l2F90-N-3Vk",
+                "fallback": "Les 6 communautés marketing de France, rassemblées le temps d&amp;#39;une soirée. On l&amp;#39;a fait. Et c&amp;#39;était fou.  Bulldozer futur proche Hirondo UnlockM Le café du market&amp;#39; TechMarketingLeaders  Un grand merci… | Aurelie Mezbourian Fliedel",
+                "text": "Les 6 communautés marketing de France, rassemblées le temps d'une soirée. On l'a fait. Et c'était fou. \nBulldozer futur proche Hirondo UnlockM Le café du market' TechMarketingLeaders\n\nUn grand merci aux participants des premiers The Network Effect Awards :trophy: qui récompensent les meilleures applications de l'IA au marketing. \n\nTous les cas d’usage présentés étaient pertinents, riches, inspirants.  \n:raised_hands: Bravo aux gagnants : Victor Barnouin, Eléna Vouge Michel, Esther Daga avec\n- Orchestrer et suivre la perf de +1000 créas Meta sur 10 pays avec un outil 100% vibecodé\n- Intégrer l'IA dans la conception produit via des fiches recette \n- Transformer le sales enablement et changer complètement de dimension\n\nVous m'avez bluffée !\n\nCe qui m'inspire dans ces projets : l'IA appliquée, avec un impact direct sur le business. Du concret. \n\nC'est ça notre leitmotiv : du concret, des échanges, du partage. C'est là que la magie se crée :green_heart: \n\nEmmanuelle Benoliel Dominique Trémouille :male-astronaut::skin-tone-2: Jordan Chenevier-Truchet Yannig Roth Mathilde Avenati :mirror_ball: Axel Kaletka :coffee: Geoffrey Vion Jolhane Leite",
+                "title": "Les 6 communautés marketing de France, rassemblées le temps d&amp;#39;une soirée. On l&amp;#39;a fait. Et c&amp;#39;était fou.  Bulldozer futur proche Hirondo UnlockM Le café du market&amp;#39; TechMarketingLeaders  Un grand merci… | Aurelie Mezbourian Fliedel",
+                "title_link": "https:\/\/www.linkedin.com\/posts\/aureliemezbourianfliedel_les-6-communaut%C3%A9s-marketing-de-france-rassembl%C3%A9es-activity-7420371393608978433-OZ70?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAIqAkMBurDFZBUqOIcDrXb0l2F90-N-3Vk",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kigTj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/posts\/aureliemezbourianfliedel_les-6-communaut%C3%A9s-marketing-de-france-rassembl%C3%A9es-activity-7420371393608978433-OZ70?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAIqAkMBurDFZBUqOIcDrXb0l2F90-N-3Vk",
+                                "text": "https:\/\/www.linkedin.com\/posts\/aureliemezbourianfliedel_les-6-communaut%C3%A9s-market[…]m=member_desktop&rcm=ACoAAAIqAkMBurDFZBUqOIcDrXb0l2F90-N-3Vk"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U063A8VPPG9",
+                    "U08PLD4KPS8"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1769154659.900669",
+        "client_msg_id": "582d7681-9b63-42d4-9749-21ed65af7ac5",
+        "text": "<https:\/\/www.linkedin.com\/posts\/emmanuellekleinmann_hier-soir-on-%C3%A9tait-160-et-pourtant-jai-activity-7420364650581655552-QI_G?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAALZhuYBV0keAAvNbAK1ydNmCj5Yae1724c|https:\/\/www.linkedin.com\/posts\/emmanuellekleinmann_hier-soir-on-%C3%A9tait-160-et-pou[…]m=member_desktop&amp;rcm=ACoAAALZhuYBV0keAAvNbAK1ydNmCj5Yae1724c>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/posts\/emmanuellekleinmann_hier-soir-on-%C3%A9tait-160-et-pourtant-jai-activity-7420364650581655552-QI_G?utm_source=share&utm_medium=member_desktop&rcm=ACoAAALZhuYBV0keAAvNbAK1ydNmCj5Yae1724c",
+                "image_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/D4E22AQH7jq-XvNYYow\/feedshare-shrink_2048_1536\/B4EZvpuU47KsAk-\/0\/1769152794636?e=2147483647&v=beta&t=wxqyWyCOJ2gan8C7eEKNxrulMG1r3eTXShWiCaXVgG8",
+                "image_width": 1152,
+                "image_height": 1536,
+                "image_bytes": 392597,
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/posts\/emmanuellekleinmann_hier-soir-on-%C3%A9tait-160-et-pourtant-jai-activity-7420364650581655552-QI_G?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAALZhuYBV0keAAvNbAK1ydNmCj5Yae1724c",
+                "fallback": "Hier soir, on était 160. Et pourtant, j’ai eu l’impression d’un cercle intime.  6 communautés. Des fous rires, des verres levés, des débats serrés, des chaises ramassées. Et surtout : une énergie… | Emmanuelle Benoliel",
+                "text": "Hier soir, on était 160.\nEt pourtant, j’ai eu l’impression d’un cercle intime.\n\n6 communautés.\nDes fous rires, des verres levés, des débats serrés, des chaises ramassées.\nEt surtout : une énergie rare.\n\nOn a parlé d’IA (beaucoup).\nDes 7 cas d’usage présentés pendant les Awards — concrets, scalables, inspirants.\nMention spéciale à Victor Barnouin, qui redéfinit la gestion des comptes Meta.\nC’est ça, l’IA qu’on aime : pas du gadget. Du levier.\n\nEt puis cette table ronde.\nPas de consensus.\nMais des convictions.\nFaut-il “augmenter les gens” ? Ou “réduire les effectifs” ?\nJe crois qu’on est venus pour se faire challenger. Pas caresser.\n\nHier, j’ai compris un truc :\nCe n’est pas juste du marketing qu’on construit.\nC’est un écosystème.\nUne façon de faire. Une vision commune.\n\nMerci à tous.\nHâte de la saison 2 \"The Network Effect\".\n\nDominique Trémouille :male-astronaut::skin-tone-2: Mathilde Avenati :mirror_ball: Jordan Chenevier-Truchet Jolhane Leite Geoffrey Vion Aurelie Mezbourian Fliedel Axel Kaletka :coffee: Yannig Roth Merci d'être vous :heart_hands:",
+                "title": "Hier soir, on était 160. Et pourtant, j’ai eu l’impression d’un cercle intime.  6 communautés. Des fous rires, des verres levés, des débats serrés, des chaises ramassées. Et surtout : une énergie… | Emmanuelle Benoliel",
+                "title_link": "https:\/\/www.linkedin.com\/posts\/emmanuellekleinmann_hier-soir-on-%C3%A9tait-160-et-pourtant-jai-activity-7420364650581655552-QI_G?utm_source=share&utm_medium=member_desktop&rcm=ACoAAALZhuYBV0keAAvNbAK1ydNmCj5Yae1724c",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mAyG4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/posts\/emmanuellekleinmann_hier-soir-on-%C3%A9tait-160-et-pourtant-jai-activity-7420364650581655552-QI_G?utm_source=share&utm_medium=member_desktop&rcm=ACoAAALZhuYBV0keAAvNbAK1ydNmCj5Yae1724c",
+                                "text": "https:\/\/www.linkedin.com\/posts\/emmanuellekleinmann_hier-soir-on-%C3%A9tait-160-et-pou[…]m=member_desktop&rcm=ACoAAALZhuYBV0keAAvNbAK1ydNmCj5Yae1724c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

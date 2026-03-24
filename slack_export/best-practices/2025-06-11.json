@@ -1,0 +1,614 @@
+[
+    {
+        "user": "U0177A5V42F",
+        "type": "message",
+        "ts": "1749628017.778629",
+        "client_msg_id": "afa8db87-ac4e-4cd0-bfc9-e4d9b01b861d",
+        "text": "Hello à tous, pour notre workshop de demain à 9h en visio.\nJe vous propose l'orga suivante :\n• 40min sur la création et l'animation d'une communauté sous la forme de 3 retex (<@U065DFPCQMP>, <@U063Q1LA69W>, <@U042GV737MX>) ok pour vous ?\n• 10min sur les objectifs\/résultats dans le plan marketing\n• 10min sur le tooling \nDe mon coté en tant que novice je cherche principalement à etre efficace et identifier les premières étapes clés pour assurer le succès.\nPour les autres participants je vous propose de poser vos questions ou vos objectifs pour ce workshop dans le thread.\nA demain !\nPour ceux qui ne peuvent pas etre là on va enregistrer la session :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ebca9b04129",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-17\/1245815650949_7ebca9b041296679a81d_72.jpg",
+            "first_name": "Guillaume",
+            "real_name": "Guillaume Laguette",
+            "display_name": "Guillaume Laguette (echOpen)",
+            "team": "T017AGS2KE0",
+            "name": "laguette.guillaume",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1747393482.895389",
+        "parent_user_id": "U0177A5V42F",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qR5Op",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello à tous, pour notre workshop de demain à 9h en visio.\nJe vous propose l'orga suivante :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "40min sur la création et l'animation d'une communauté sous la forme de 3 retex ("
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U065DFPCQMP"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U063Q1LA69W"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U042GV737MX"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ") ok pour vous ?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "10min sur les objectifs\/résultats dans le plan marketing"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "10min sur le tooling "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "De mon coté en tant que novice je cherche principalement à etre efficace et identifier les premières étapes clés pour assurer le succès.\nPour les autres participants je vous propose de poser vos questions ou vos objectifs pour ce workshop dans le thread.\nA demain !\nPour ceux qui ne peuvent pas etre là on va enregistrer la session "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U084KTR7YKX"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U084KTR7YKX",
+                    "U03P99RGMTN"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U08PLD4KPS8",
+        "type": "message",
+        "ts": "1749629110.630759",
+        "client_msg_id": "6b8560b6-f574-4567-89e0-11c4f8aaed09",
+        "text": "Hello,\nMon expérience rejoint bcp les commentaires d'Elizabeth - Faire vivre plusieurs marques (notamment post acquisition mais pas que) est un projet ultra couteux, surtout si tu dois les faire vivre au niveau Européen.  Il y a une telle cacophonie ambiante qu'il faut vraiment focaliser tous ses investissements sur un message \/ une marque pour pouvoir émerger, à moins d'avoir des moyens gigantesques (type Salesforce ou Google).  J'avais fait une analyse de ce type pour Malt après rachat Comatch (qui était très bien positionné en Allemagne) avec l'agence berlinoise Koto (très costauds sur ces sujet), et on avait conclu que sur le moyen et long terme, la seule stratégie avec un ROI correct était de tout rattacher à la même marque. Le compromis étant d'avoir Malt comme plateforme centrale et Malt Strategy (pour remplacer Comatch).  Donc deux noms, mais ancrés sur la même marque.  Dispo pour en parler si tu veux - c'est un sujet de bataille dans bcp de boîtes tech car (notamment en France) les CEOs sous-estiment le coût du branding.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ed1e5a6e17a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-15\/8903493241218_7ed1e5a6e17a9b117971_72.jpg",
+            "first_name": "Ségolène",
+            "real_name": "Ségolène Finet",
+            "display_name": "Ségolène Finet",
+            "team": "T017AGS2KE0",
+            "name": "finetsegolene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748283533.585129",
+        "parent_user_id": "U06DYTRDLUD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mKhbU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello,\nMon expérience rejoint bcp les commentaires d'Elizabeth - Faire vivre plusieurs marques (notamment post acquisition mais pas que) est un projet ultra couteux, surtout si tu dois les faire vivre au niveau Européen.  Il y a une telle cacophonie ambiante qu'il faut vraiment focaliser tous ses investissements sur un message \/ une marque pour pouvoir émerger, à moins d'avoir des moyens gigantesques (type Salesforce ou Google).  J'avais fait une analyse de ce type pour Malt après rachat Comatch (qui était très bien positionné en Allemagne) avec l'agence berlinoise Koto (très costauds sur ces sujet), et on avait conclu que sur le moyen et long terme, la seule stratégie avec un ROI correct était de tout rattacher à la même marque. Le compromis étant d'avoir Malt comme plateforme centrale et Malt Strategy (pour remplacer Comatch).  Donc deux noms, mais ancrés sur la même marque.  Dispo pour en parler si tu veux - c'est un sujet de bataille dans bcp de boîtes tech car (notamment en France) les CEOs sous-estiment le coût du branding."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U067VEJFT5F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U08PLD4KPS8",
+        "type": "message",
+        "ts": "1749630277.280479",
+        "edited": {
+            "user": "U08PLD4KPS8",
+            "ts": "1749630328.000000"
+        },
+        "client_msg_id": "8330b130-af22-44d3-9206-f6704a015e4d",
+        "text": "Mes retours sur le sujet:\n• Au moment de la signature, quasi impossible d'avoir des retombées presse - mieux vaut faire une mini annonce social media genre \"Merci à Carrefour pour leur confiance\" qu'un CP.  Et cela n'empêche pas un CP sur les résultats du projets ensuite. \n• Mettre ce type de mini annonce social media dans le contrat peut être utile - mais dans la réalité, même en le faisant, je me suis  toujours retrouvée à devoir redemander l'autorisation et convaincre le sales sur le compte de nous laisser communiquer. \n• C'est au moment d'un déploiement réussi (voir idéalement retours chiffrés) qu'un CP peut fonctionner, d'accord avec <@U08SA22HS0J> et <@U01A4GMRRR9>. \n• En revanche, plus la marque du client est belle (gros B2C, CAC40 notamment), plus c'est difficile d'avoir l'accord de leur comm corporate. Souvent le directeur de projet du client approuve la communication, et se fait rattraper par la patrouille\/ par la\/le dircom. Dans le cas de Livestorm l'avantage c'est que le projet doit probablement être porté par le CMO donc tu as moins ce risque ;-).\n• Autre conseil: si très gros client stratégique en communication, essaie de monter sur le projet dès le closing en t'incrustant lors des réunions de lancement ou autre -- si tu bâtis une relation directe avec le client, tu seras moins dépendant des sales pour obtenir l'autorisation de communiquer -- et aussi tu pourras capter du bon contenu sur leur enjeux et évaluer  si le client est un bon communiquant et veut de la lumière (donc sera bon en interview si intérêt de la presse.)\n• Donc il faut  anticiper en demander à l'équipe projet du client (même si haut placée) de mettre leur direction de la communication dans la boucle avant de cramer de l'énergie sur un CP (mais pour Livestorm probablement moins un risque )  \n• De manière générale, les clients de taille moyenne (plus que les très gros comptes) sont bien plus jouables en comm externe. \n• Le pire c'est les comptes secteur public ou para public.  J'ai bossé 12 mois sur un CP sur un projet chez SNCF (à chaque grève, tout s'arrêtait!) \n• Dernier conseil: parfois, ce qui fonctionne le mieux, c'est pas un CP, c'est une exclu avec un journaliste de la presse spécialisée que tu connais et que tu contactes en direct en mode \"Tel beau compte\/beau profil finit son projet et serait partant de faire un retour d'expérience, est-ce que cela vous intéresse?\" Gros bonus si belle marque et boîte qui communique peu avec les presta\/vendeurs.  ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ed1e5a6e17a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-15\/8903493241218_7ed1e5a6e17a9b117971_72.jpg",
+            "first_name": "Ségolène",
+            "real_name": "Ségolène Finet",
+            "display_name": "Ségolène Finet",
+            "team": "T017AGS2KE0",
+            "name": "finetsegolene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749200598.377299",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nEmrJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mes retours sur le sujet:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Au moment de la signature, quasi impossible d'avoir des retombées presse - mieux vaut faire une mini annonce social media genre \"Merci à Carrefour pour leur confiance\" qu'un CP.  Et cela n'empêche pas un CP sur les résultats du projets ensuite. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Mettre ce type de mini annonce social media dans le contrat peut être utile - mais dans la réalité, même en le faisant, je me suis  toujours retrouvée à devoir redemander l'autorisation et convaincre le sales sur le compte de nous laisser communiquer. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "C'est au moment d'un déploiement réussi (voir idéalement retours chiffrés) qu'un CP peut fonctionner, d'accord avec "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U08SA22HS0J"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " et "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U01A4GMRRR9"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ". "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "En revanche, plus la marque du client est belle (gros B2C, CAC40 notamment), plus c'est difficile d'avoir l'accord de leur comm corporate. Souvent le directeur de projet du client approuve la communication, et se fait rattraper par la patrouille\/ par la\/le dircom. Dans le cas de Livestorm l'avantage c'est que le projet doit probablement être porté par le CMO donc tu as moins ce risque ;-)."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Autre conseil: si très gros client stratégique en communication, essaie de monter sur le projet dès le closing en t'incrustant lors des réunions de lancement ou autre -- si tu bâtis une relation directe avec le client, tu seras moins dépendant des sales pour obtenir l'autorisation de communiquer -- et aussi tu pourras capter du bon contenu sur leur enjeux et évaluer  si le client est un bon communiquant et veut de la lumière (donc sera bon en interview si intérêt de la presse.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Donc il faut  anticiper en demander à l'équipe projet du client (même si haut placée) de mettre leur direction de la communication dans la boucle avant de cramer de l'énergie sur un CP (mais pour Livestorm probablement moins un risque )  "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "De manière générale, les clients de taille moyenne (plus que les très gros comptes) sont bien plus jouables en comm externe. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Le pire c'est les comptes secteur public ou para public.  J'ai bossé 12 mois sur un CP sur un projet chez SNCF (à chaque grève, tout s'arrêtait!) "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Dernier conseil: parfois, ce qui fonctionne le mieux, c'est pas un CP, c'est une exclu avec un journaliste de la presse spécialisée que tu connais et que tu contactes en direct en mode \"Tel beau compte\/beau profil finit son projet et serait partant de faire un retour d'expérience, est-ce que cela vous intéresse?\" Gros bonus si belle marque et boîte qui communique peu avec les presta\/vendeurs.  "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U017RBREWC9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1749632619.798559",
+        "client_msg_id": "ae4b007c-e394-402e-b37c-de4154d51177",
+        "text": "Wow, merci beaucoup pour ces réponses (super détaillée et actionnable <@U08PLD4KPS8> :pray:).\n\nA chaque fois que je creuse un sujet customer marketing, je me rends compte à quel point c'est une zone d'ombre pour Livestorm. Il y a plein de choses à faire !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749200598.377299",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5my32",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wow, merci beaucoup pour ces réponses (super détaillée et actionnable "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08PLD4KPS8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": ").\n\nA chaque fois que je creuse un sujet customer marketing, je me rends compte à quel point c'est une zone d'ombre pour Livestorm. Il y a plein de choses à faire !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08SA22HS0J",
+        "type": "message",
+        "ts": "1749635123.285279",
+        "client_msg_id": "441b406d-e3f9-4d53-8b3f-4c2e9f9718ec",
+        "text": "Masterclass de <@U08PLD4KPS8>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "266d9356f19e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-07\/10243863201635_266d9356f19e63bc9267_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu BONENFANT (SecLab)",
+            "display_name": "Matthieu BONENFANT (SecLab)",
+            "team": "T017AGS2KE0",
+            "name": "matthieu.bonenfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749200598.377299",
+        "parent_user_id": "U016SBPG7K9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+R7Qc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Masterclass de "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08PLD4KPS8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1749644656.276499",
+        "client_msg_id": "4fd12b45-95fa-4d17-a645-b49e0cc8097f",
+        "text": "top ! je pourrai faire \"que\" la première demi-heure\npreneuse si vous enregistrez la suite (avec Claap par ex ^^)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1747393482.895389",
+        "parent_user_id": "U0177A5V42F",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2XZE2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "top ! je pourrai faire \"que\" la première demi-heure\npreneuse si vous enregistrez la suite (avec Claap par ex ^^)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U065DFPCQMP",
+        "type": "message",
+        "ts": "1749646656.568949",
+        "client_msg_id": "5ab2c79d-2066-4294-b3bc-c053598e5d05",
+        "text": "OK pour moi",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50040e0261e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-15\/6198553206674_50040e0261e7ba62e840_72.jpg",
+            "first_name": "Gaelle",
+            "real_name": "Gaelle Le Goff",
+            "display_name": "Gaelle Le Goff",
+            "team": "T017AGS2KE0",
+            "name": "gaelle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1747393482.895389",
+        "parent_user_id": "U0177A5V42F",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "06pTf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "OK pour moi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U0177A5V42F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U042GV737MX",
+        "type": "message",
+        "ts": "1749662049.744349",
+        "client_msg_id": "26b6e455-df6b-4ad2-9199-34254e577420",
+        "text": "Dsl je ne suis malheureusement pas dispo cette semaine !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "477225f2b12e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4077716786404_477225f2b12eccc47dc4_72.png",
+            "first_name": "Claire",
+            "real_name": "Claire Chauvallon",
+            "display_name": "Claire Chauvallon",
+            "team": "T017AGS2KE0",
+            "name": "chauvallon.claire",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1747393482.895389",
+        "parent_user_id": "U0177A5V42F",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3MTyq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dsl je ne suis malheureusement pas dispo cette semaine !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063Q1LA69W",
+        "type": "message",
+        "ts": "1749664333.756419",
+        "client_msg_id": "e3b1d7be-0745-411e-a358-ec58561fc068",
+        "text": "Yes go pour moi :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "92164dc1a505",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-29\/6530542210935_92164dc1a50580eb3d38_72.jpg",
+            "first_name": "Jolhane",
+            "real_name": "Jolhane Leite",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "jolhaneleite",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1747393482.895389",
+        "parent_user_id": "U0177A5V42F",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+l16t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes go pour moi "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

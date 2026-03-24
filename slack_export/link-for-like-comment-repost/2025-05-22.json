@@ -1,0 +1,581 @@
+[
+    {
+        "user": "U06MLNEGNKB",
+        "type": "message",
+        "ts": "1747897637.710839",
+        "client_msg_id": "173bc75f-e11e-4717-9fed-238965299786",
+        "text": "Bravo, quelle classe !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9484de19a0b4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-25\/7476258473346_9484de19a0b48472edf8_72.jpg",
+            "first_name": "Priscilla",
+            "real_name": "Priscilla (Memo Bank)",
+            "display_name": "Priscilla (Memo Bank)",
+            "team": "T017AGS2KE0",
+            "name": "priscilla.cavrois",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1747895700.577149",
+        "parent_user_id": "U0183AS3MB6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "werPl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bravo, quelle classe !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1747898519.072469",
+        "client_msg_id": "8696b75d-f064-43c1-b1f5-aa8110b7cc0d",
+        "text": "<https:\/\/www.linkedin.com\/posts\/eernoult_lallemagne-on-sest-cass%C3%A9-les-dents-activity-7330483692278091777-efgb\/?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAACgR0AB6SQZY5-F9k_waRhMjGlUlk-ZV9I|https:\/\/www.linkedin.com\/posts\/eernoult_lallemagne-on-sest-cass%C3%A9-les-dents-activ[…]m=member_desktop&amp;rcm=ACoAAACgR0AB6SQZY5-F9k_waRhMjGlUlk-ZV9I>\n\nOn organise notre event sur l’*Expansion en Allemagne* :de: le *17 Juin* avec Brevo + Wyngs (et chez Brevo)\n\nOn a une line-up de speakers au top (<@U04SM1RGPJB> :blue_heart: ) qui vont donner leurs conseils \/ échecs pour réussir dans ce pays connu pour être difficile ^^\n\nSi l’Allemagne est sur votre roadmap 2025 (ou pour bientôt), venez ca va être top\n\nUn immense merci à tous ceux que j’ai contacté ici et qui m’ont aidé à trouver des speakers :sweat_smile:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1747898519.072469",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1747899382.593139",
+        "reply_users": [
+            "U04SM1RGPJB"
+        ],
+        "replies": [
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1747899382.593139"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/posts\/eernoult_lallemagne-on-sest-cass%C3%A9-les-dents-activity-7330483692278091777-efgb\/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAACgR0AB6SQZY5-F9k_waRhMjGlUlk-ZV9I",
+                "image_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/D4E22AQGINHwgE7Ce2g\/feedshare-shrink_2048_1536\/B4EZbpObWWGUBE-\/0\/1747669596168?e=2147483647&v=beta&t=TvS8BVUGhX7f9wjbutgj_3-STU3DqzoijE68X-eo4Cw",
+                "image_width": 1119,
+                "image_height": 586,
+                "image_bytes": 60773,
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/posts\/eernoult_lallemagne-on-sest-cass%C3%A9-les-dents-activity-7330483692278091777-efgb\/?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAACgR0AB6SQZY5-F9k_waRhMjGlUlk-ZV9I",
+                "fallback": "&amp;quot;L’Allemagne ? On s’est cassé les dents.&amp;quot; &amp;quot;C’est un gros marché pour nous,… | Eugene Ernoult | 17 commentaires",
+                "text": "&amp;quot;L’Allemagne ? On s’est cassé les dents.&amp;quot;\n&amp;quot;C’est un gros marché pour nous, mais franchement... c’est difficile.&amp;quot;\n\n:point_right: Autant dire que l’Allemagne, c’est pas un sujet facile pour beaucoup de CMO français·es !\n\nEt c’est pas évident de trouver des entreprises tricolores qui ont vraiment percé là-bas.\n\nMais on a réussi à rassembler quelques pépites, et ils sont tellement sympas qu&amp;#39;ils sont ok pour venir en parler !\n\n:microphone: Le 17 juin, on lance la première édition de 𝗡𝗲𝘅𝘁 𝗠𝗮𝗿𝗸𝗲𝘁 𝗟𝗶𝘃𝗲, notre événement dédié à l&amp;#39;expansion internationale avec des speakers de folie :\n- Caroline Tailleferd - Guibert (Deepki)\n- Benjamin Romberg (Qonto)\n- Armand Thiberge (Brevo)\n- Anaïs Barut (Damae Medical)\n- Eve-Anne COLLOMB (Zenchef)\n- Selma Chauvin (Agorapulse)\n\n:bulb: Au programme :\n  • comment se préparer à aller en Allemagne\n  • des retours concrets sur les actions à mettre en place lors de la première année\n  • et comment instaurer de la confiance (tellement important, encore plus en Allemagne)\n\nque du concret et des retours d&amp;#39;expérience terrain !\n\nMerci à nos deux partenaires : Brevo et <http:\/\/Wyngs.co|Wyngs.co> - :fr: + :de: :flag-at::flag-ch:\n\n:round_pushpin: Brevo, Paris 17e\n:date: Mardi 17 juin – 17h\n:cocktail: Talks + Networking\n:admission_tickets: C&amp;#39;est gratuit, mais les places sont très limitées ! Inscrivez-vous vite → <https:\/\/lnkd.in\/eHQJfbNR>\n\nHâte de vous y voir ! | 17 commentaires sur LinkedIn",
+                "title": "&amp;quot;L’Allemagne ? On s’est cassé les dents.&amp;quot; &amp;quot;C’est un gros marché pour nous,… | Eugene Ernoult | 17 commentaires",
+                "title_link": "https:\/\/www.linkedin.com\/posts\/eernoult_lallemagne-on-sest-cass%C3%A9-les-dents-activity-7330483692278091777-efgb\/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAACgR0AB6SQZY5-F9k_waRhMjGlUlk-ZV9I",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+cFgw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/posts\/eernoult_lallemagne-on-sest-cass%C3%A9-les-dents-activity-7330483692278091777-efgb\/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAACgR0AB6SQZY5-F9k_waRhMjGlUlk-ZV9I",
+                                "text": "https:\/\/www.linkedin.com\/posts\/eernoult_lallemagne-on-sest-cass%C3%A9-les-dents-activ[…]m=member_desktop&rcm=ACoAAACgR0AB6SQZY5-F9k_waRhMjGlUlk-ZV9I"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nOn organise notre event sur l’"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Expansion en Allemagne",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "de",
+                                "unicode": "1f1e9-1f1ea"
+                            },
+                            {
+                                "type": "text",
+                                "text": " le "
+                            },
+                            {
+                                "type": "text",
+                                "text": "17 Juin",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " avec Brevo + Wyngs (et chez Brevo)\n\nOn a une line-up de speakers au top ("
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04SM1RGPJB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blue_heart",
+                                "unicode": "1f499"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ) qui vont donner leurs conseils \/ échecs pour réussir dans ce pays connu pour être difficile ^^\n\nSi l’Allemagne est sur votre roadmap 2025 (ou pour bientôt), venez ca va être top\n\nUn immense merci à tous ceux que j’ai contacté ici et qui m’ont aidé à trouver des speakers "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U08M0JP81DK",
+                    "U04SM1RGPJB",
+                    "U063A8VPPG9",
+                    "U06TF9YAWEM",
+                    "U08554C4R7C",
+                    "U084KTR7YKX",
+                    "U0183AS3MB6"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1747899382.593139",
+        "client_msg_id": "14beb0a1-6fd5-42ad-9364-f450297ce0a3",
+        "text": "l'Allemagne est tjs le premier pays auquel pensent les start ups fr pour l'international (même si maintenant de + en + on vise les US). Et se faire les dents sur l'Allemagne, c'est... courageux :smile:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1747898519.072469",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mHrUD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "l'Allemagne est tjs le premier pays auquel pensent les start ups fr pour l'international (même si maintenant de + en + on vise les US). Et se faire les dents sur l'Allemagne, c'est... courageux "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sweat_smile",
+                "users": [
+                    "U06CZESF7QF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1747908003.772429",
+        "client_msg_id": "e07cbf5c-1f2f-4ae5-ba57-f9df3601d715",
+        "text": "si ça intéresse vos équipes Growth &amp; Sales (je pense que ça marche pour les \"petites\" équipes)\n<https:\/\/www.linkedin.com\/posts\/robin-bonduelle-6812a626_sales-saas-vibecoding-activity-7331232035799203840-rB8a?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAAVhzkEBs9W8RezqINoBdeZNNkip7MF722Y|https:\/\/www.linkedin.com\/posts\/robin-bonduelle-6812a626_sales-saas-vibecoding-activit[…]m=member_desktop&amp;rcm=ACoAAAVhzkEBs9W8RezqINoBdeZNNkip7MF722Y>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1747908003.772429",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1747931527.794859",
+        "reply_users": [
+            "U016SBPG7K9",
+            "U084KTR7YKX"
+        ],
+        "replies": [
+            {
+                "user": "U016SBPG7K9",
+                "ts": "1747928410.426289"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1747931527.794859"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/posts\/robin-bonduelle-6812a626_sales-saas-vibecoding-activity-7331232035799203840-rB8a?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAVhzkEBs9W8RezqINoBdeZNNkip7MF722Y",
+                "image_url": "https:\/\/dms.licdn.com\/playlist\/vid\/v2\/D4D05AQEDMo146wY-eQ\/thumbnail-with-play-button-overlay-high\/B4DZb3Ec.lGgDg-\/0\/1747901887428?e=2147483647&v=beta&t=NIrmUDdKlkl-BvzirafKQbJMj-BqmJExlZ0Tn_sgaf4",
+                "image_width": 1272,
+                "image_height": 720,
+                "image_bytes": 83345,
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/posts\/robin-bonduelle-6812a626_sales-saas-vibecoding-activity-7331232035799203840-rB8a?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAAVhzkEBs9W8RezqINoBdeZNNkip7MF722Y",
+                "fallback": "#sales #saas #vibecoding #ai | Robin Bonduelle | 13 commentaires",
+                "text": "Jusqu’ici, j’avais du mal à comprendre la hype autour du vibe coding.\nPuis j&amp;#39;ai décidé de le tester pour un vrai pain de notre équipe sales… et là, la claque.\n\nEn 48 h, j&amp;#39;ai construit avec Lovable + Supabase + Cursor une interface maison qui :\n\n:arrow_right: Aspire automatiquement des leads depuis 6 sources LinkedIn, chaque matin.\n\n:arrow_right: Enrichit le profil (news, géo, CRM history, etc.) grâce à Openperplex (bien mieux côté API que Perplexity largement surcoté).\n\n:arrow_right: Donne une interface pour avoir le meilleur des deux mondes entre automatisation et check manuel, avec une intégration avancée Lemlist.\n\nRésultat ?\n100+ nouveaux leads qualifiés tous les matins, et un outil simple pour les commerciaux afin de gérer leurs leads en autonomie, avec un pré-sourcing et enrichissement efficace.\n\nTemps de préparation divisé par 10 (de 5-10 min à &lt;1 min par contact).\n\nBref pour Claap, cet exemple a résolu le dilemme entre mass automation (peu d’impact) et one-by-one artisanal (pas scalable).\n\nLe meilleur : en quelques secondes je peux ajouter une fonctionnalité (la dernière en date, la liaison CRM). Bref, le produit colle à notre workflow, pas l’inverse - et on ne paye pas le montant astronomique de certaines plateformes.\n\n:point_right: Preneur d&amp;#39;avoir vos use cases, histoire d&amp;#39;avoir un aperçu de ce qui est vraiment utilisé en vibe coding au-delà de la fame.\n\nCommentez VIBE et ajoutez moi et je partage le walkthrough complet.\n#Sales #SaaS #VibeCoding #AI | 13 commentaires sur LinkedIn",
+                "title": "#sales #saas #vibecoding #ai | Robin Bonduelle | 13 commentaires",
+                "title_link": "https:\/\/www.linkedin.com\/posts\/robin-bonduelle-6812a626_sales-saas-vibecoding-activity-7331232035799203840-rB8a?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAVhzkEBs9W8RezqINoBdeZNNkip7MF722Y",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gXd+b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si ça intéresse vos équipes Growth & Sales (je pense que ça marche pour les \"petites\" équipes)\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/posts\/robin-bonduelle-6812a626_sales-saas-vibecoding-activity-7331232035799203840-rB8a?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAVhzkEBs9W8RezqINoBdeZNNkip7MF722Y",
+                                "text": "https:\/\/www.linkedin.com\/posts\/robin-bonduelle-6812a626_sales-saas-vibecoding-activit[…]m=member_desktop&rcm=ACoAAAVhzkEBs9W8RezqINoBdeZNNkip7MF722Y"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U0183AS3MB6",
+                    "U06TF9YAWEM",
+                    "U067GNGDATD",
+                    "U06DYTRDLUD"
+                ],
+                "count": 4
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U016SBPG7K9",
+                    "U06TF9YAWEM"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1747909623.009259",
+        "client_msg_id": "6da8d442-7331-4ad7-b27f-af05859cf8e3",
+        "text": "énorme",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1747895700.577149",
+        "parent_user_id": "U0183AS3MB6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J3Qju",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "énorme"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1747909638.547589",
+        "client_msg_id": "81686802-f494-4396-ac17-8f72230c78cd",
+        "text": "prochaine step Hollywood blvd",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1747895700.577149",
+        "parent_user_id": "U0183AS3MB6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0cGXh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "prochaine step Hollywood blvd"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1747915618.060879",
+        "client_msg_id": "cac5976e-fb09-41ec-8f86-487f8c3a2293",
+        "text": "ahahah I wish :smile:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1747895700.577149",
+        "parent_user_id": "U0183AS3MB6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c1CUR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ahahah I wish "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U08SX6ZDADD",
+        "text": "<@U08SX6ZDADD> has joined the channel",
+        "type": "message",
+        "ts": "1747918116.672039"
+    },
+    {
+        "user": "U016SBPG7K9",
+        "type": "message",
+        "ts": "1747928410.426289",
+        "client_msg_id": "453B5126-3488-489B-AAC4-BDCA0D7ACF25",
+        "text": "Franchement c'est incroyable et je trouve ultra poussé niveau fonctionnalités et design pour une app 100% vibe codée. Le use case est top aussi, on a également ce besoin de valider ou non des leads et de préférence faire ça hors CRM comme ici. La next step ce serait d'avoir l'IA faire ce tri automatiquement, puis prendre l'action suivante aussi automatiquement.\n\nJe partage direct à mon Head of Growth :)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0025e3d73793",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4512904522181_0025e3d73793b80bbc79_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult (Compte inactif)",
+            "team": "T017AGS2KE0",
+            "name": "thibaut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1747908003.772429",
+        "parent_user_id": "U084KTR7YKX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3zx3G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Franchement c'est incroyable et je trouve ultra poussé niveau fonctionnalités et design pour une app 100% vibe codée"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Le use case est top aussi, on a également ce besoin de valider ou non des leads et de préférence faire ça hors CRM comme ici. La next step ce serait d'avoir l'IA faire ce tri automatiquement, puis prendre l'action suivante aussi automatiquement"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nJe partage direct à mon Head of Growth :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U084KTR7YKX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1747931527.794859",
+        "client_msg_id": "66762983-9997-4a83-995e-2bb307ce3dd3",
+        "text": "Merci pour vos retours :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1747908003.772429",
+        "parent_user_id": "U084KTR7YKX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8VeKr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci pour vos retours "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

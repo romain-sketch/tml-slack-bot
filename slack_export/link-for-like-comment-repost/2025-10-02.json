@@ -1,0 +1,374 @@
+[
+    {
+        "user": "U06DYTRDLUD",
+        "type": "message",
+        "ts": "1759394411.858259",
+        "client_msg_id": "9f0edc4c-6766-4fe4-a3e2-f83c3d075a04",
+        "text": "Great news, bravo !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901f49789864",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-17\/6483135134229_901f4978986494a521e4_72.jpg",
+            "first_name": "Flora",
+            "real_name": "Flora Wolfer",
+            "display_name": "Flora Wolfer (Payplug)",
+            "team": "T017AGS2KE0",
+            "name": "fwolfer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759312452.132459",
+        "parent_user_id": "U0182J18ULQ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VIKVM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great news, bravo !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U065DFPCQMP",
+        "type": "message",
+        "ts": "1759405132.518009",
+        "client_msg_id": "4cf2a9c5-3fd7-4611-9143-9d5944ddf4dc",
+        "text": "Hello à tous, I'm selected as 1 of the 60 candidates of the buildathlon d'Elena Verna \/ Lovable qui commence lundi et en train de monter une team &gt; N'hésitez pas à partager !\n\n<https:\/\/www.linkedin.com\/posts\/gaellelegoff_shebuilds-lovable-womenintech-activity-7379479294684856320-1Wlz?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAAA-VNQB56B9aUs0myFt7waoHI9NN0VIEMw|https:\/\/www.linkedin.com\/posts\/gaellelegoff_shebuilds-lovable-womenintech-activity-73[…]m=member_desktop&amp;rcm=ACoAAAA-VNQB56B9aUs0myFt7waoHI9NN0VIEMw>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50040e0261e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-15\/6198553206674_50040e0261e7ba62e840_72.jpg",
+            "first_name": "Gaelle",
+            "real_name": "Gaelle Le Goff",
+            "display_name": "Gaelle Le Goff",
+            "team": "T017AGS2KE0",
+            "name": "gaelle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759405132.518009",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1759506264.169899",
+        "reply_users": [
+            "U06CZESF7QF",
+            "U065DFPCQMP"
+        ],
+        "replies": [
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1759414111.291299"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1759414116.357259"
+            },
+            {
+                "user": "U065DFPCQMP",
+                "ts": "1759424823.455269"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1759492362.999149"
+            },
+            {
+                "user": "U065DFPCQMP",
+                "ts": "1759506264.169899"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/posts\/gaellelegoff_shebuilds-lovable-womenintech-activity-7379479294684856320-1Wlz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAA-VNQB56B9aUs0myFt7waoHI9NN0VIEMw",
+                "image_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/D4E22AQGIEiqIJHp-jA\/feedshare-shrink_1280\/B4EZmktT6VHoAs-\/0\/1759404966346?e=2147483647&v=beta&t=rgW94FVzN4r90-X4Y5dCj8EEpUJEOEQktUgYsWPjUvk",
+                "image_width": 735,
+                "image_height": 1600,
+                "image_bytes": 109614,
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/posts\/gaellelegoff_shebuilds-lovable-womenintech-activity-7379479294684856320-1Wlz?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAAA-VNQB56B9aUs0myFt7waoHI9NN0VIEMw",
+                "fallback": "#shebuilds #lovable #womenintech #ai #innovation #vibecoding | Gaëlle Le Goff",
+                "text": "Beyond excited to share that I’ve been selected as one of the 60 women worldwide to join SheBuilds on Lovable, led by Elena Verna\n\n7,000 likes on the original post.\n900 comments.\n3,000 applicants.\n60 slots.\n\nLet's be honest, I wasn't that confident.\n\nBut, I AM IN!\n\nIn just 48 hours, I'll be building Prism: the first governance layer for AI assistants. A project in the \"Something Else\" category.\nHere's what I'm most excited about: I chose to tackle a technical, infrastructure-level problem. Because women in tech can (and should) build across every category, including the hardest, most technical, category-defining products.\n\nNow assembling a team → mostly looking for design and back-end\/front-end skills. \nInterested? DM me!\n\nFollow along as we share the journey, lessons, and soon a working demo!\n\n#SheBuilds #Lovable #WomenInTech #AI #Innovation #VibeCoding",
+                "title": "#shebuilds #lovable #womenintech #ai #innovation #vibecoding | Gaëlle Le Goff",
+                "title_link": "https:\/\/www.linkedin.com\/posts\/gaellelegoff_shebuilds-lovable-womenintech-activity-7379479294684856320-1Wlz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAA-VNQB56B9aUs0myFt7waoHI9NN0VIEMw",
+                "service_name": "linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1wQGC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello à tous, I'm selected as 1 of the 60 candidates of the buildathlon d'Elena Verna \/ Lovable qui commence lundi et en train de monter une team > N'hésitez pas à partager !\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/posts\/gaellelegoff_shebuilds-lovable-womenintech-activity-7379479294684856320-1Wlz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAA-VNQB56B9aUs0myFt7waoHI9NN0VIEMw",
+                                "text": "https:\/\/www.linkedin.com\/posts\/gaellelegoff_shebuilds-lovable-womenintech-activity-73[…]m=member_desktop&rcm=ACoAAAA-VNQB56B9aUs0myFt7waoHI9NN0VIEMw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01MVJPEEH3",
+                    "U063A8VPPG9",
+                    "U06CZESF7QF",
+                    "U02N2EVMFCG",
+                    "U0177A5V42F",
+                    "U06DYTRDLUD",
+                    "U06EN9X790C",
+                    "U017H09S857",
+                    "U0859A8P14K"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "user": "U0859A8P14K",
+        "type": "message",
+        "ts": "1759411783.503659",
+        "client_msg_id": "6E816C6A-2AF3-4D06-B9A1-882EE2F82FFC",
+        "text": "Bonjour à tous ! Parce que vous êtes sûrement aussi passés par là (il arrive quand ce nouveau site web\/rebranding ?? ) mais que le jour j on oublie toutes les frustrations :melting_face:\nN’hésitez pas à mettre un petit like ou commentaire ! Merci à tous et toutes !\n\n<https:\/\/www.linkedin.com\/posts\/activity-7379472462377426944-WQgp?utm_source=share&amp;utm_medium=member_ios&amp;rcm=ACoAAAPCIIwBS9tgSS4OC0fJfGNQf59FHpW4xGY|https:\/\/www.linkedin.com\/posts\/activity-7379472462377426944-WQgp?utm_source=share&amp;utm_medium=member_ios&amp;rcm=ACoAAAPCIIwBS9tgSS4OC0fJfGNQf59FHpW4xGY>\n",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "de9373c86530",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8178910826725_de9373c86530dc48c9e8_72.png",
+            "first_name": "Alexandra",
+            "real_name": "Alexandra Lougovoy",
+            "display_name": "Alexandra Lougovoy (Eudonet)",
+            "team": "T017AGS2KE0",
+            "name": "a.lougovoy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/posts\/activity-7379472462377426944-WQgp?utm_source=share&utm_medium=member_ios&rcm=ACoAAAPCIIwBS9tgSS4OC0fJfGNQf59FHpW4xGY",
+                "image_url": "https:\/\/dms.licdn.com\/playlist\/vid\/v2\/D4E05AQGCYOU7GBsXUg\/thumbnail-with-play-button-overlay-high\/B4EZmkiX1MIwDc-\/0\/1759402119010?e=2147483647&v=beta&t=biz8ug7fOKneszPyFvZpKB9yKSyJ-tmX6RlzkYuDOHs",
+                "image_width": 1280,
+                "image_height": 720,
+                "image_bytes": 24732,
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/posts\/activity-7379472462377426944-WQgp?utm_source=share&amp;utm_medium=member_ios&amp;rcm=ACoAAAPCIIwBS9tgSS4OC0fJfGNQf59FHpW4xGY",
+                "fallback": "#rebranding #repositioning | Alexandra Lougovoy",
+                "text": ":earth_africa: Today, we unveil our new identity, new voice, and new website!\n\nThis #rebranding and #repositioning project has been as thrilling as it was complex — and I couldn’t be prouder of what our team has achieved:\n\n:sparkles: Merged 4 solutions and 6 verticals into a single, cohesive product offering\n:sparkles: Unified 11 siloed websites across 6 countries into one digital, global home\n:sparkles: Crafted a clear value proposition and bold tagline that capture our noble mission\n:sparkles: Introduced a beautiful new logo and brand identity, symbolizing the alliance of technology and customer-centricity\n\n“Amplify your impact” — more than a tagline, it marks the beginning of an exciting new chapter at Eudonet.\n\n:bulb: A big thank you and congratulations to the incredible team and our partners who made this milestone possible!\n\nRenaud Sibel Willy Bellony :bulb: Ophélie LE GRAND Sarah Kasmi Calin Frant Maxine Hospel Vladimir COET Nathan Michaux Mélyne F. Inès Coyras Camille Dechartres Sylvain You Samantha Brunel Ferdinand Blanchard Laurent Malpeli Marc THEVENIN Franck Amiot Hortense DESVILLES Luc Xavier Trimouille Michaël Novic Guido van Osch Hermann Ano",
+                "title": "#rebranding #repositioning | Alexandra Lougovoy",
+                "title_link": "https:\/\/www.linkedin.com\/posts\/activity-7379472462377426944-WQgp?utm_source=share&utm_medium=member_ios&rcm=ACoAAAPCIIwBS9tgSS4OC0fJfGNQf59FHpW4xGY",
+                "service_name": "linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K85j2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour à tous ! Parce que vous êtes sûrement aussi passés par là (il arrive quand ce nouveau site web\/rebranding ?? ) mais que le jour j on oublie toutes les frustrations "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "melting_face",
+                                "unicode": "1fae0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "N’hésitez"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pas à mettre un petit like ou commentaire ! Merci à tous et toutes !\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/posts\/activity-7379472462377426944-WQgp?utm_source=share&utm_medium=member_ios&rcm=ACoAAAPCIIwBS9tgSS4OC0fJfGNQf59FHpW4xGY",
+                                "text": "https:\/\/www.linkedin.com\/posts\/activity-7379472462377426944-WQgp?utm_source=share&utm_medium=member_ios&rcm=ACoAAAPCIIwBS9tgSS4OC0fJfGNQf59FHpW4xGY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01MVJPEEH3",
+                    "U06E3PY5LAY",
+                    "U06EN9X790C",
+                    "U017RAZCAGZ",
+                    "U03P99RGMTN"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1759414111.291299",
+        "client_msg_id": "f3a94f1a-6cf8-4033-86dd-0cf17cc123c3",
+        "text": "Une personne de mon équipe a été sélectionnée aussi !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759405132.518009",
+        "parent_user_id": "U065DFPCQMP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RmGOZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Une personne de mon équipe a été sélectionnée aussi !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1759414116.357259",
+        "client_msg_id": "0961da00-c6ec-48b6-8cdb-c66cd1c95c82",
+        "text": "Que la meilleure gagne :smile:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759405132.518009",
+        "parent_user_id": "U065DFPCQMP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Me98K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Que la meilleure gagne "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U065DFPCQMP",
+        "type": "message",
+        "ts": "1759424823.455269",
+        "client_msg_id": "907486F0-B78F-486B-9793-D589FB9BA942",
+        "text": "Ah Nice! Dans quelle catégorie à t elle candidaté?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "50040e0261e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-15\/6198553206674_50040e0261e7ba62e840_72.jpg",
+            "first_name": "Gaelle",
+            "real_name": "Gaelle Le Goff",
+            "display_name": "Gaelle Le Goff",
+            "team": "T017AGS2KE0",
+            "name": "gaelle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759405132.518009",
+        "parent_user_id": "U065DFPCQMP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IyIgI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah Nice! Dans quelle catégorie à t elle candidaté?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

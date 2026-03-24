@@ -1,0 +1,57 @@
+[
+    {
+        "user": "U069NSTHZ3Q",
+        "type": "message",
+        "ts": "1752833678.470999",
+        "client_msg_id": "be0a1298-c53f-42fc-83bb-5a466b513b2a",
+        "text": "Hello tout le monde, je suis à la recherche d'un product  marketing manager expérimenté pour rejoindre mon équipe, connaissance saas B2B et idéalement du monde de la cyber : <https:\/\/www.linkedin.com\/jobs\/view\/4268626842>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "fbbca81fca0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-30\/7816371623809_fbbca81fca0c916c8c15_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Gannau (Oodrive)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "m.gannau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/jobs\/view\/4268626842",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/jobs\/view\/4268626842",
+                "fallback": "Oodrive hiring Product Marketing Manager in Paris, Île-de-France, France | LinkedIn",
+                "text": "Posted 5:37:45 PM. Oodrive est la première suite collaborative européenne de confiance. Plus d’un million de personnes…See this and similar jobs on LinkedIn.",
+                "title": "Oodrive hiring Product Marketing Manager in Paris, Île-de-France, France | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/jobs\/view\/4268626842",
+                "service_name": "linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "53o8l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello tout le monde, je suis à la recherche d'un product  marketing manager expérimenté pour rejoindre mon équipe, connaissance saas B2B et idéalement du monde de la cyber : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/jobs\/view\/4268626842"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

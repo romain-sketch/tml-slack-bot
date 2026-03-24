@@ -1,0 +1,98 @@
+[
+    {
+        "user": "U067GNGDATD",
+        "type": "message",
+        "ts": "1742629630.420629",
+        "client_msg_id": "7a979c96-ee15-4d8d-8278-3fc4b894154e",
+        "text": "Hello <@U069NSTHZ3Q>, Chez PeopleSpheres nous avons lancé une academy avec un parcours certifiant pour nos clients afin qu'ils montent en compétences sur notre solution et obtiennent à chaque fois un certificat qu'ils partagent fièrement sur leur Linkedin. (Cela drastiquement réduit nos tickets au support pour toutes les questions basiques, car l'accès au support n'est maintenant accessible que pour les personnes certifiés chez le client, qui devient le referent interne chez lui)\nCela est géré conjointement entre le Delivery qui crée les contenus et le Marketing qui les rends plus sexy et qui market les formations et a créé la structure. (certification path)\nCela n'est accessible que pour nos clients &amp; partenaires (généralement les admin) donc via un login. (nous utilisons la solution Rise-up pour l'hébergement et ProCertif pour la délivrance des certificats qui sont facilement partageables sur Linkedin.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "gd73dcdb62f7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d73dcdb62f793ad670516a42032e3fa5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Diard",
+            "display_name": "Old Account \/ Do not use",
+            "team": "T017AGS2KE0",
+            "name": "adiard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742553143.389939",
+        "parent_user_id": "U069NSTHZ3Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y2h45",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U069NSTHZ3Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", Chez PeopleSpheres nous avons lancé une academy avec un parcours certifiant pour nos clients afin qu'ils montent en compétences sur notre solution et obtiennent à chaque fois un certificat qu'ils partagent fièrement sur leur Linkedin. (Cela drastiquement réduit nos tickets au support pour toutes les questions basiques, car l'accès au support n'est maintenant accessible que pour les personnes certifiés chez le client, qui devient le referent interne chez lui)\nCela est géré conjointement entre le Delivery qui crée les contenus et le Marketing qui les rends plus sexy et qui market les formations et a créé la structure. (certification path)\nCela n'est accessible que pour nos clients & partenaires (généralement les admin) donc via un login. (nous utilisons la solution Rise-up pour l'hébergement et ProCertif pour la délivrance des certificats qui sont facilement partageables sur Linkedin."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U069NSTHZ3Q",
+        "type": "message",
+        "ts": "1742636616.116219",
+        "client_msg_id": "dd5b6445-bd39-46f7-b87f-21c2d4135fa5",
+        "text": "Merci <@U067GNGDATD> pour toutes ces détails!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "fbbca81fca0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-30\/7816371623809_fbbca81fca0c916c8c15_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Gannau (Oodrive)",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "m.gannau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1742553143.389939",
+        "parent_user_id": "U069NSTHZ3Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2xjt+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U067GNGDATD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour toutes ces détails!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

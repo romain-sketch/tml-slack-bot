@@ -1,0 +1,415 @@
+[
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1756823525.849839",
+        "client_msg_id": "5deb6978-ebc6-476d-bd74-fdc641b33fc3",
+        "text": "Hello à tous !\n\nJe voulais partager un retour d’expérience : on utilise *<https:\/\/www.diffly.co\/|Diffly>* pour mener des interviews de _win\/loss_ sur notre new business depuis 1 an. Comme c’est une personne externe qui conduit les entretiens, les prospects sont beaucoup plus honnêtes, et ça nous donne des feedbacks hyper précieux.\n\nOn prévoit aussi de les utiliser prochainement pour des retours clients, et franchement je ne peux que les recommander : super adaptables, hyper réactifs, bref expérience top jusqu’ici.\n\nPromis, je n’ai aucune action chez eux :sweat_smile:. Si vous voulez tester, dites que vous venez de ma part, ils vous feront 15% de remise (parce qu'on est leur client pref', mais ça reste entre nous haha)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756823525.849839",
+        "reply_count": 12,
+        "reply_users_count": 5,
+        "latest_reply": "1760109529.179039",
+        "reply_users": [
+            "U0183AS3MB6",
+            "U078PFP7A4B",
+            "U03P99RGMTN",
+            "U07MNBM4WLV",
+            "U08EN5T6F4L"
+        ],
+        "replies": [
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1756827783.396019"
+            },
+            {
+                "user": "U078PFP7A4B",
+                "ts": "1756828224.591749"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1756831769.296519"
+            },
+            {
+                "user": "U078PFP7A4B",
+                "ts": "1756833441.132189"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1756833652.563999"
+            },
+            {
+                "user": "U03P99RGMTN",
+                "ts": "1756970896.913709"
+            },
+            {
+                "user": "U07MNBM4WLV",
+                "ts": "1757504344.677219"
+            },
+            {
+                "user": "U078PFP7A4B",
+                "ts": "1757507075.513249"
+            },
+            {
+                "user": "U07MNBM4WLV",
+                "ts": "1757512656.927329"
+            },
+            {
+                "user": "U08EN5T6F4L",
+                "ts": "1760108287.900949"
+            },
+            {
+                "user": "U078PFP7A4B",
+                "ts": "1760108616.629639"
+            },
+            {
+                "user": "U03P99RGMTN",
+                "ts": "1760109529.179039"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SNKvj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello à tous !\n\nJe voulais partager un retour d’expérience : on utilise "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.diffly.co\/",
+                                "text": "Diffly",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour mener des interviews de "
+                            },
+                            {
+                                "type": "text",
+                                "text": "win\/loss",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " sur notre new business depuis 1 an. Comme c’est une personne externe qui conduit les entretiens, les prospects sont beaucoup plus honnêtes, et ça nous donne des feedbacks hyper précieux.\n\nOn prévoit aussi de les utiliser prochainement pour des retours clients, et franchement je ne peux que les recommander : super adaptables, hyper réactifs, bref expérience top jusqu’ici.\n\nPromis, je n’ai aucune action chez eux "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Si vous voulez tester, dites que vous venez de ma part, ils vous feront 15% de remise (parce qu'on est leur client pref', mais ça reste entre nous haha)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "the_horns",
+                "users": [
+                    "U03CY07UZJM",
+                    "U07PEP71X4Y",
+                    "U09BVQYR1GA"
+                ],
+                "count": 3
+            },
+            {
+                "name": "bulb",
+                "users": [
+                    "U06CZESF7QF",
+                    "U02N2EVMFCG",
+                    "U065DFPCQMP",
+                    "U07BLPPL3C1",
+                    "U08554C4R7C"
+                ],
+                "count": 5
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U069NSTHZ3Q",
+                    "U08PLD4KPS8",
+                    "U03P99RGMTN",
+                    "U092PH1F2CA",
+                    "U09BVQYR1GA"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1756827783.396019",
+        "client_msg_id": "5bd7dafb-7d80-4ca3-afac-843a38c6cf55",
+        "text": "Intéressant merci :slightly_smiling_face: par curiosité vous payez combien?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756823525.849839",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sEEIv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Intéressant merci "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " par curiosité vous payez combien?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1756828224.591749",
+        "edited": {
+            "user": "U078PFP7A4B",
+            "ts": "1756833540.000000"
+        },
+        "client_msg_id": "CD15120C-7322-4ACB-ADBB-2BD5016C07EB",
+        "text": "On paye 5000 euros par an pour 20 interviews (et surveys illimités)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756823525.849839",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PPzkJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On paye 5000 euros par an pour 20 interviews (et surveys illimités)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1756831769.296519",
+        "client_msg_id": "d09db82b-23ae-4422-84cd-29c613250c6d",
+        "text": "Ha ouais pas donné… et l’impact sur le biz vous le voyez ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756823525.849839",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fh+zj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ha ouais pas donné… et l’impact sur le biz vous le voyez ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U078PFP7A4B",
+        "type": "message",
+        "ts": "1756833441.132189",
+        "edited": {
+            "user": "U078PFP7A4B",
+            "ts": "1756833495.000000"
+        },
+        "client_msg_id": "36b28450-306b-4455-95eb-58e74951844a",
+        "text": "On passe par eux car on n'a ni le temps ni les moyens humains pour faire ce genre de calls.\nJ'ai oublié de préciser on a 20 interviews, mais en plus de ça on a droit à des \"surveys\" illimités.\n\nL'interview c'est une étude quali, avec feedback complet sur pourquoi ça l'a fait ou non (perception, axes d'amélioration, points positifs, points négatifs, etc.) avec un script écrit ensemble avec Diffly.\n\nLes surveys c'est une étude quanti.\n\nOn y voit une valeur principale : on a du feedback qu'on avait jamais eu avant, parce que quand tu parles à des gens en tant qu'entreprise ils sont beaucoup moins bavards et honnêtes. Donc ça nous permet de réajuster certains éléments de notre strat et d'avoir des billes sur les concurrents aussi.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a4aec459c6d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-06\/8845105414198_a4aec459c6d84a8a14c4_72.jpg",
+            "first_name": "Mégane",
+            "real_name": "Mégane Gateau (Figures)",
+            "display_name": "Mégane Gateau (Figures)",
+            "team": "T017AGS2KE0",
+            "name": "megane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756823525.849839",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AMkxy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On passe par eux car on n'a ni le temps ni les moyens humains pour faire ce genre de calls.\nJ'ai oublié de préciser on a 20 interviews, mais en plus de ça on a droit à des \"surveys\" illimités.\n\nL'interview c'est une étude quali, avec feedback complet sur pourquoi ça l'a fait ou non (perception, axes d'amélioration, points positifs, points négatifs, etc.) avec un script écrit ensemble avec Diffly.\n\nLes surveys c'est une étude quanti.\n\nOn y voit une valeur principale : on a du feedback qu'on avait jamais eu avant, parce que quand tu parles à des gens en tant qu'entreprise ils sont beaucoup moins bavards et honnêtes. Donc ça nous permet de réajuster certains éléments de notre strat et d'avoir des billes sur les concurrents aussi."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U0183AS3MB6"
+                ],
+                "count": 1
+            },
+            {
+                "name": "bulb",
+                "users": [
+                    "U06CZESF7QF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1756833652.563999",
+        "client_msg_id": "a0296d20-2502-4d71-b31a-a1005ea8f39d",
+        "text": "Merci pour ton retour :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756823525.849839",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qlhhR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci pour ton retour "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "hugging_face",
+                "users": [
+                    "U078PFP7A4B"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

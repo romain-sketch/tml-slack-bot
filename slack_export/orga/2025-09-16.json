@@ -1,0 +1,77 @@
+[
+    {
+        "user": "U04CW99BP3Q",
+        "type": "message",
+        "ts": "1758007805.042899",
+        "client_msg_id": "e290c9a0-da13-4935-8adf-b8dd71b380e4",
+        "text": "hello, orga similaire chez nous mais à plus petite échelle :\n• une équipe brand &amp; comms centrale qui gère content, social et RP + coordination globale \n• des personnes au niveau local pour les marchés suffisemment gros qui justifient un travail fil rouge, ça fait une vraie différence sur la partie RP et comm. C’est parfois une personne marketing généraliste qui pilote la comm, les partenariats, les activations locales, social media etc. \n• pour les autres marchés, on gère uniquement sous forme de campagne depuis Paris avec des relais en freelance ou agence locale quand c’est nécessaire. On évite d’avoir des pages social locales à moins d’avoir des ressources dédiées , on traduit et adapte les comms en central pour le reste et ça part depuis Paris",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7e1f9e2f5ffb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-11-30\/4445095862754_7e1f9e2f5ffb646f7b24_72.jpg",
+            "first_name": "Marie",
+            "real_name": "Marie Reboul",
+            "display_name": "Marie Reboul",
+            "team": "T017AGS2KE0",
+            "name": "marie.reboul",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757954828.876239",
+        "parent_user_id": "U05H3SJKYFQ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kcK2h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello, orga similaire chez nous mais à plus petite échelle :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "une équipe brand & comms centrale qui gère content, social et RP + coordination globale "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "des personnes au niveau local pour les marchés suffisemment gros qui justifient un travail fil rouge, ça fait une vraie différence sur la partie RP et comm. C’est parfois une personne marketing généraliste qui pilote la comm, les partenariats, les activations locales, social media etc. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "pour les autres marchés, on gère uniquement sous forme de campagne depuis Paris avec des relais en freelance ou agence locale quand c’est nécessaire. On évite d’avoir des pages social locales à moins d’avoir des ressources dédiées , on traduit et adapte les comms en central pour le reste et ça part depuis Paris"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,632 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U08HF5YQM6G",
+        "text": "<@U08HF5YQM6G> has joined the channel",
+        "type": "message",
+        "ts": "1741766607.109199"
+    },
+    {
+        "user": "U02CBFN48CF",
+        "type": "message",
+        "ts": "1741793459.989859",
+        "edited": {
+            "user": "U02CBFN48CF",
+            "ts": "1741793481.000000"
+        },
+        "client_msg_id": "ce562992-b1ba-443a-a8bc-e6a1d666ba54",
+        "text": "Hello, je suis à la recherche d'un presta vidéo pour faire :\n• de la captation vidéo\/son d'une table ronde avec 2 intervenants (1 ou 2 plans, set up simple, inspi \"podcast filmé\") pour mi avril\n• + en bonus un travail de montage vidéo > livrables : vidéo youtube longue + quelques highlights en version shorts (qu'on pourra faire nous-mêmes en interne si besoin)\nAvez-vous des recos à me faire ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2b617c4484e3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-17\/3122469005251_2b617c4484e3a8e2151c_72.jpg",
+            "first_name": "Morgane",
+            "real_name": "Morgane Mouly",
+            "display_name": "Morgane Mouly (United Heroes)",
+            "team": "T017AGS2KE0",
+            "name": "morgane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741793459.989859",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1743105949.152829",
+        "reply_users": [
+            "U063A8VPPG9",
+            "U02CBFN48CF",
+            "U02N2EVMFCG",
+            "U0859A8P14K"
+        ],
+        "replies": [
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1741794226.064149"
+            },
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1741794231.235389"
+            },
+            {
+                "user": "U02CBFN48CF",
+                "ts": "1741794788.538089"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1741813211.709109"
+            },
+            {
+                "user": "U0859A8P14K",
+                "ts": "1743105949.152829"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X\/7Ku",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, je suis à la recherche d'un presta vidéo pour faire :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "de la captation vidéo\/son d'une table ronde avec 2 intervenants (1 ou 2 plans, set up simple, inspi \"podcast filmé\") pour mi avril"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "+ en bonus un travail de montage vidéo > livrables : vidéo youtube longue + quelques highlights en version shorts (qu'on pourra faire nous-mêmes en interne si besoin)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nAvez-vous des recos à me faire ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1741794226.064149",
+        "client_msg_id": "acade5d0-b20e-49fe-ac49-5a159bbd412c",
+        "text": "Flomodia ils sont tops",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741793459.989859",
+        "parent_user_id": "U02CBFN48CF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IQ8Y+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Flomodia ils sont tops"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U06CZESF7QF",
+                    "U0183AS3MB6",
+                    "U03QPMQA31V"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1741794231.235389",
+        "client_msg_id": "bb8a30f5-f4bd-4720-924f-c77d88ff1d1a",
+        "text": "ou Etty :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741793459.989859",
+        "parent_user_id": "U02CBFN48CF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nTZsm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ou Etty "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02CBFN48CF",
+        "type": "message",
+        "ts": "1741794788.538089",
+        "client_msg_id": "cc4a4884-85c0-4bcd-869d-f3cc558f3845",
+        "text": "Merci !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2b617c4484e3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-17\/3122469005251_2b617c4484e3a8e2151c_72.jpg",
+            "first_name": "Morgane",
+            "real_name": "Morgane Mouly",
+            "display_name": "Morgane Mouly (United Heroes)",
+            "team": "T017AGS2KE0",
+            "name": "morgane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741793459.989859",
+        "parent_user_id": "U02CBFN48CF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CHpyc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1741795353.717069",
+        "client_msg_id": "a0d7a064-f61c-4a5b-a786-5dd3f6f2b4f9",
+        "text": "Hello,\n\nOn cherche un consultant Notion pour une mission rapide pour nous aider à améliorer nos process. Principalement pour mieux connecter toutes nos bases de données Notion type Marketing requests \/ projects \/ roadmaps (sans créer une usine à gaz idéalement of course) et améliorer les process \/ automation en place.\n\nDes recos ?\n\nOn m’a parlé de Kreacity (via Contournement). Qqun a bossé avec eux (lui ?)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741795353.717069",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1743753281.987229",
+        "reply_users": [
+            "U063Q1LA69W",
+            "U02N2EVMFCG",
+            "U04L04T475K",
+            "U06CZESF7QF"
+        ],
+        "replies": [
+            {
+                "user": "U063Q1LA69W",
+                "ts": "1741799828.450609"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1741813272.360169"
+            },
+            {
+                "user": "U04L04T475K",
+                "ts": "1742283968.388759"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1743608859.499639"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1743753281.987229"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AchNq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello,\n\nOn cherche un consultant Notion pour une mission rapide pour nous aider à améliorer nos process. Principalement pour mieux connecter toutes nos bases de données Notion type Marketing requests \/ projects \/ roadmaps (sans créer une usine à gaz idéalement of course) et améliorer les process \/ automation en place.\n\nDes recos ?\n\nOn m’a parlé de Kreacity (via Contournement). Qqun a bossé avec eux (lui ?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U063Q1LA69W",
+        "type": "message",
+        "ts": "1741799828.450609",
+        "client_msg_id": "4ed7cd61-1b82-4233-ab5b-671515320afb",
+        "text": "<@U02N2EVMFCG> ? :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "92164dc1a505",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-29\/6530542210935_92164dc1a50580eb3d38_72.jpg",
+            "first_name": "Jolhane",
+            "real_name": "Jolhane Leite",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "jolhaneleite",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741795353.717069",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EDqXP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02N2EVMFCG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1741813211.709109",
+        "client_msg_id": "09a23dce-5101-4b79-8483-ec08e65fb322",
+        "text": "Sinon <https:\/\/www.linkedin.com\/company\/sarani-studio\/?originalSubdomain=fr|Sarani> ou <https:\/\/www.linkedin.com\/in\/francis-quesada-marsili\/?originalSubdomain=fr|Francis>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741793459.989859",
+        "parent_user_id": "U02CBFN48CF",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/company\/sarani-studio\/?originalSubdomain=fr",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "thumb_url": "https:\/\/static.licdn.com\/scds\/common\/u\/images\/email\/artdeco\/logos\/96\/linkedin-bug-color.png",
+                "thumb_width": 96,
+                "thumb_height": 96,
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/company\/sarani-studio\/?originalSubdomain=fr",
+                "fallback": "Sarani | LinkedIn",
+                "text": "Sarani | 1,001 followers on LinkedIn. We are Sarani, an international creative agency empowering brands globally. Ultra-reactive and unlimited revisions. | We envision a world where every dream could take form, every brand could tell its story, and every entrepreneur could paint their vision.\n\nAll without the traditional barriers of high costs, slow turnaround times, and rigid processes.\n\nWe want to reshape the narrative of design and marketing.",
+                "title": "Sarani | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/company\/sarani-studio\/?originalSubdomain=fr",
+                "service_name": "linkedin.com"
+            },
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/francis-quesada-marsili\/?originalSubdomain=fr",
+                "thumb_url": "https:\/\/static.licdn.com\/scds\/common\/u\/images\/email\/artdeco\/logos\/96\/linkedin-bug-color.png",
+                "thumb_width": 96,
+                "thumb_height": 96,
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 2,
+                "original_url": "https:\/\/www.linkedin.com\/in\/francis-quesada-marsili\/?originalSubdomain=fr",
+                "fallback": "Francis Quesada-Marsili :rock: - Studio Caillou | LinkedIn",
+                "text": "Expérience : Studio Caillou · Formation : New 3dge · Lieu : Paris et périphérie · 500 relations ou plus sur LinkedIn. Consultez le profil de Francis Quesada-Marsili :rock: sur LinkedIn, une communauté professionnelle d’un milliard de membres.",
+                "title": "Francis Quesada-Marsili :rock: - Studio Caillou | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/francis-quesada-marsili\/?originalSubdomain=fr",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zdNCj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sinon "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/company\/sarani-studio\/?originalSubdomain=fr",
+                                "text": "Sarani"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ou "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/francis-quesada-marsili\/?originalSubdomain=fr",
+                                "text": "Francis"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U02CBFN48CF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1741813272.360169",
+        "client_msg_id": "be2418bb-7f69-489c-8798-717d4ba3c10c",
+        "text": "Ah oui j'ai un <https:\/\/www.linkedin.com\/in\/arnaud-courtel?originalSubdomain=fr|champion du monde> Notion à la maison ! Il va adorer ce type de projet",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741795353.717069",
+        "parent_user_id": "U06CZESF7QF",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/arnaud-courtel?originalSubdomain=fr",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "thumb_url": "https:\/\/static.licdn.com\/scds\/common\/u\/images\/email\/artdeco\/logos\/96\/linkedin-bug-color.png",
+                "thumb_width": 96,
+                "thumb_height": 96,
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/arnaud-courtel?originalSubdomain=fr",
+                "fallback": "Arnaud Courtel - Hirondo | LinkedIn",
+                "text": "&amp;quot;Action begets its own courage, its own energy. Increased self-confidence that cannot be… · Hirondo · EEMI · Paris · Plus de 500 relations sur LinkedIn. Consultez le profil de Arnaud Courtel sur LinkedIn, une communauté professionnelle d’un milliard de membres.",
+                "title": "Arnaud Courtel - Hirondo | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/arnaud-courtel?originalSubdomain=fr",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+8hqr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah oui j'ai un "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/arnaud-courtel?originalSubdomain=fr",
+                                "text": "champion du monde"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Notion à la maison ! Il va adorer ce type de projet"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1741848480.177579",
+        "client_msg_id": "CB141B3A-79A6-49C4-A36E-6B538DFCFC7A",
+        "text": "Oui j’ai LC qui fait ça actuellement chez Payplug avec <@U06DYTRDLUD> et <@U04L04T475K>, et qui a fait ça chez Apiday aussi <https:\/\/www.linkedin.com\/in\/l-ct?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=ios_app|https:\/\/www.linkedin.com\/in\/l-ct?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=ios_app>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1741243496.755989",
+        "parent_user_id": "U04TU0UA2R1",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/l-ct?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+                "thumb_url": "https:\/\/static.licdn.com\/scds\/common\/u\/images\/email\/artdeco\/logos\/96\/linkedin-bug-color.png",
+                "thumb_width": 96,
+                "thumb_height": 96,
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/l-ct?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=ios_app",
+                "fallback": "Louis-Christophe T. - Hirondo | LinkedIn",
+                "text": "Expérience : Hirondo · Formation : HETIC · Lieu : Montreuil · 451 relations sur LinkedIn. Consultez le profil de Louis-Christophe T. sur LinkedIn, une communauté professionnelle d’un milliard de membres.",
+                "title": "Louis-Christophe T. - Hirondo | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/l-ct?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UIGfy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui j’ai "
+                            },
+                            {
+                                "type": "text",
+                                "text": "LC qui fait ça actuellement chez Payplug avec "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06DYTRDLUD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04L04T475K"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", et qui a fait ça chez Apiday aussi "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/l-ct?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+                                "text": "https:\/\/www.linkedin.com\/in\/l-ct?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U06DYTRDLUD"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U04TU0UA2R1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

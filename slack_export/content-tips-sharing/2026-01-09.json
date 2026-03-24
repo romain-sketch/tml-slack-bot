@@ -1,0 +1,198 @@
+[
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1767947929.985769",
+        "client_msg_id": "8bd33a12-9b6d-42ad-9e49-996fa5a2eb57",
+        "text": "allez j'ai postulé, j'espère que <@U01A4GMRRR9> va me faire gagner",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1767807581.583969",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zCuDT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "allez j'ai postulé, j'espère que "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01A4GMRRR9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " va me faire gagner"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "je peux candidater ? je ne me sentais pas de taille sur mes use cases mais je tiens un truc",
+        "files": [
+            {
+                "id": "F0A8K9PLB16",
+                "created": 1767947950,
+                "timestamp": 1767947950,
+                "name": "Capture d’écran 2026-01-09 à 09.39.05.png",
+                "title": "Capture d’écran 2026-01-09 à 09.39.05.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U084KTR7YKX",
+                "user_team": "T017AGS2KE0",
+                "editable": false,
+                "size": 143141,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F0A8K9PLB16\/capture_d___e__cran_2026-01-09_a___09.39.05.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F0A8K9PLB16\/download\/capture_d___e__cran_2026-01-09_a___09.39.05.png?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A8K9PLB16-17c11fa23a\/capture_d___e__cran_2026-01-09_a___09.39.05_64.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A8K9PLB16-17c11fa23a\/capture_d___e__cran_2026-01-09_a___09.39.05_80.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A8K9PLB16-17c11fa23a\/capture_d___e__cran_2026-01-09_a___09.39.05_360.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_360_w": 360,
+                "thumb_360_h": 166,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A8K9PLB16-17c11fa23a\/capture_d___e__cran_2026-01-09_a___09.39.05_480.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_480_w": 480,
+                "thumb_480_h": 221,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A8K9PLB16-17c11fa23a\/capture_d___e__cran_2026-01-09_a___09.39.05_160.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A8K9PLB16-17c11fa23a\/capture_d___e__cran_2026-01-09_a___09.39.05_720.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_720_w": 720,
+                "thumb_720_h": 332,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A8K9PLB16-17c11fa23a\/capture_d___e__cran_2026-01-09_a___09.39.05_800.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_800_w": 800,
+                "thumb_800_h": 369,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A8K9PLB16-17c11fa23a\/capture_d___e__cran_2026-01-09_a___09.39.05_960.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_960_w": 960,
+                "thumb_960_h": 443,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F0A8K9PLB16-17c11fa23a\/capture_d___e__cran_2026-01-09_a___09.39.05_1024.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 472,
+                "original_w": 1770,
+                "original_h": 816,
+                "thumb_tiny": "AwAXADDSzz0P1pCxH8DHr6f49\/8A9dKQSQQxGOwxzQFIABcnHc45oAASc\/KRj6c0tIyk9GK\/TFCggYLE+5oACobOc8+hxQqhRgZ\/Ek0hUk53sOenH+H+c0oBGcsTk9+1AAVBxnscijaMEHlT2xxS0UANRCvWRm+oH9BQUYuCJGA\/ujGP5U6igBmxtpHmvn1wP8KeBgAEk+570UUAf\/\/Z",
+                "permalink": "https:\/\/techmarketingleaders.slack.com\/files\/U017U6M2G00\/F0A8K9PLB16\/capture_d___e__cran_2026-01-09_a___09.39.05.png",
+                "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F0A8K9PLB16-4e54bbc8f8",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U084KTR7YKX",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LXa8D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je peux candidater ? je ne me sentais pas de taille sur mes use cases mais je tiens un truc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1767947965.350469",
+        "edited": {
+            "user": "U084KTR7YKX",
+            "ts": "1767948028.000000"
+        },
+        "client_msg_id": "571c90ae-9e10-414e-9809-8d0ae89a5347",
+        "thread_ts": "1767807581.583969",
+        "parent_user_id": "U04A6JMRWCS",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U04SM1RGPJB",
+                    "U0A0QG03DLN",
+                    "U063A8VPPG9"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1767948211.444879",
+        "client_msg_id": "28b531aa-5f28-4ae7-aa81-2b1281b80d1b",
+        "text": "attends tu te sers de chatgpt pour comprendre le sens des mots? Mais c'est une use case de zinzin ça!!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1767807581.583969",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bMjou",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "attends tu te sers de chatgpt pour comprendre le sens des mots? Mais c'est une use case de zinzin ça!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "disguised_face",
+                "users": [
+                    "U084KTR7YKX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

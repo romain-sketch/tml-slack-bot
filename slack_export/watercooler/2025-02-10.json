@@ -1,0 +1,126 @@
+[
+    {
+        "user": "U063Q1LA69W",
+        "type": "message",
+        "ts": "1739180357.478239",
+        "client_msg_id": "bb9a63bb-51c6-461f-a860-42a3dbc60921",
+        "text": "Bravo et bcp de succès dans tes nouveaux projets ! Ça va être très stylé :slightly_smiling_face:\n\nEgalement à dispo si tu veux échanger sur le volet part-time. Je pense avoir commis toutes les erreurs possibles ces 3 dernières années :face_with_rolling_eyes:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "92164dc1a505",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-29\/6530542210935_92164dc1a50580eb3d38_72.jpg",
+            "first_name": "Jolhane",
+            "real_name": "Jolhane Leite",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "jolhaneleite",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1738946854.784329",
+        "parent_user_id": "U084LQF8023",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CG7z0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bravo et bcp de succès dans tes nouveaux projets ! Ça va être très stylé "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nEgalement à dispo si tu veux échanger sur le volet part-time. Je pense avoir commis toutes les erreurs possibles ces 3 dernières années "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_with_rolling_eyes",
+                                "unicode": "1f644"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U084LQF8023"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "Petite offre sympa pour ceux qui ont un CE. Une app pour apprendre à jouer de la guitare (montée par un prof qui une méthodologie prouvée avec un bon marketing communautaire). Si vous êtes intéressés vous pouvez me contacter en mp. \n\n",
+        "files": [
+            {
+                "id": "F08CEC89BBQ",
+                "created": 1739206116,
+                "timestamp": 1739206116,
+                "name": "Plaquette + Bon de commande (Présentation).pdf",
+                "title": "Plaquette + Bon de commande (Présentation)",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U017CURDPB5",
+                "user_team": "T017AGS2KE0",
+                "editable": false,
+                "size": 7555324,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F08CEC89BBQ\/plaquette___bon_de_commande__pre__sentation_.pdf?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T017AGS2KE0-F08CEC89BBQ\/download\/plaquette___bon_de_commande__pre__sentation_.pdf?token=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T017AGS2KE0-F08CEC89BBQ-5cbf9ef172\/plaquette___bon_de_commande__pre__sentation__thumb_pdf.png?t=xoxe-1248570087476-10545828532324-10555103321409-3b1bc5e54174a0fa4d18635dec449e93",
+                "thumb_pdf_w": 2200,
+                "thumb_pdf_h": 1238,
+                "permalink": "https:\/\/techmarketingleaders.slack.com\/files\/U017U6M2G00\/F08CEC89BBQ\/plaquette___bon_de_commande__pre__sentation_.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T017AGS2KE0-F08CEC89BBQ-32c4a2937a",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U017CURDPB5",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MDfYI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Petite offre sympa pour ceux qui ont un CE. Une app pour apprendre à jouer de la guitare (montée par un prof qui une méthodologie prouvée avec un bon marketing communautaire). Si vous êtes intéressés vous pouvez me contacter en mp. \n\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1739206128.724249",
+        "client_msg_id": "1EE6BF35-51FD-4107-9ED1-59A5A546F669"
+    }
+]

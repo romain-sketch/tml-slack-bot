@@ -1,0 +1,59 @@
+[
+    {
+        "user": "U08EN5GRYCC",
+        "type": "message",
+        "ts": "1763984622.327269",
+        "client_msg_id": "c4dfff8e-f15d-41a5-8ff5-6e53daaf1888",
+        "text": "Bravo <@U06M6E5M524> pour ton nouveau poste!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "3944e9004e51",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-23\/8520970014112_3944e9004e5166d3f29d_72.png",
+            "first_name": "Armelle",
+            "real_name": "Armelle Jaclot",
+            "display_name": "Armelle Jaclot",
+            "team": "T017AGS2KE0",
+            "name": "armelle.jaclot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763629400.294769",
+        "parent_user_id": "U06M6E5M524",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7EAmb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bravo "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06M6E5M524"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour ton nouveau poste!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U06M6E5M524"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

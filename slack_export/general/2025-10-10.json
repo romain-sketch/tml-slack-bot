@@ -1,0 +1,850 @@
+[
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1760090262.100819",
+        "client_msg_id": "0e2d0746-f23e-4d32-94fb-01ced5eb0195",
+        "text": "<!here> Hello !\nÀ l’occasion de ses 30 ans, _Marketing Magazine_ met à l’honneur 30 directeurs et directrices marketing de toutes générations.\nIl semblerait que je fasse partie des rares représentants de la Tech parmi eux :smile:\nAprès avoir partagé notre vision <https:\/\/www.e-marketing.fr\/marques-1296\/strategie-de-marque-2250\/vision-marketing-geoffrey-vion-vp-marketing-chez-contentsquare-164056|en vidéo> (où je vante les mérites des échanges entre pairs et des communautés :wave:), un vote est en cours.\nSi vous avez 10 secondes à perdre, ça se passe ici :point_right: <https:\/\/fr.surveymonkey.com\/r\/30ANSMARKETING>\nMerci !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760090262.100819",
+        "reply_count": 6,
+        "reply_users_count": 6,
+        "latest_reply": "1760369330.561509",
+        "reply_users": [
+            "U03CY07UZJM",
+            "U017H09S857",
+            "U0183AS3MB6",
+            "U06CZESF7QF",
+            "U08PLD4KPS8",
+            "U092PH1F2CA"
+        ],
+        "replies": [
+            {
+                "user": "U03CY07UZJM",
+                "ts": "1760097531.234009"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1760097717.859389"
+            },
+            {
+                "user": "U0183AS3MB6",
+                "ts": "1760098767.751709"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1760101982.413399"
+            },
+            {
+                "user": "U08PLD4KPS8",
+                "ts": "1760102980.421299"
+            },
+            {
+                "user": "U092PH1F2CA",
+                "ts": "1760369330.561509"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GkPw5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hello !\nÀ l’occasion de ses 30 ans, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Marketing Magazine",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " met à l’honneur 30 directeurs et directrices marketing de toutes générations.\nIl semblerait que je fasse partie des rares représentants de la Tech parmi eux "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nAprès avoir partagé notre vision "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.e-marketing.fr\/marques-1296\/strategie-de-marque-2250\/vision-marketing-geoffrey-vion-vp-marketing-chez-contentsquare-164056",
+                                "text": "en vidéo"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (où je vante les mérites des échanges entre pairs et des communautés "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "), un vote est en cours.\nSi vous avez 10 secondes à perdre, ça se passe ici "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_right",
+                                "unicode": "1f449"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fr.surveymonkey.com\/r\/30ANSMARKETING"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nMerci !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U063A8VPPG9",
+                    "U055KSYA2AH",
+                    "U0183AS3MB6",
+                    "U02N2EVMFCG",
+                    "U03CY07UZJM",
+                    "U017H09S857",
+                    "U08EN5GRYCC",
+                    "U04SM1RGPJB",
+                    "U07D08K3U0K",
+                    "U0177A5V42F",
+                    "U08PLD4KPS8",
+                    "U06TF9YAWEM",
+                    "U08EN5T6F4L",
+                    "U08SA22HS0J",
+                    "U06M6E5M524",
+                    "U054GRSQCTX",
+                    "U06DYTRDLUD",
+                    "U03P99RGMTN",
+                    "U04L35Y9D08",
+                    "U092PH1F2CA"
+                ],
+                "count": 20
+            },
+            {
+                "name": "the_horns",
+                "users": [
+                    "U03CY07UZJM",
+                    "U017H09S857",
+                    "U06TF9YAWEM",
+                    "U03P99RGMTN",
+                    "U08SA22HS0J",
+                    "U01A4GMRRR9",
+                    "U08QZ6EKE4Q"
+                ],
+                "count": 7
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U07BLPPL3C1",
+                    "U08QZ6EKE4Q",
+                    "U0859A8P14K"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1760090293.108129",
+        "client_msg_id": "ce53ad46-0459-46e7-b26e-43e35514fcd1",
+        "text": "quelle crédibilité donner à un classement qui ne me mentionne pas?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760090293.108129",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1760343002.046609",
+        "reply_users": [
+            "U063A8VPPG9",
+            "U084KTR7YKX"
+        ],
+        "replies": [
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1760090872.252189"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1760343002.046609"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xQLAj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "quelle crédibilité donner à un classement qui ne me mentionne pas?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U03CY07UZJM",
+                    "U017H09S857",
+                    "U063Q1LA69W",
+                    "U03QPMQA31V",
+                    "U06MLNEGNKB",
+                    "U078PFP7A4B",
+                    "U063A8VPPG9",
+                    "U0183AS3MB6",
+                    "U07D08K3U0K",
+                    "U06CZESF7QF",
+                    "U06M6E5M524",
+                    "U025AMSNGF8",
+                    "U017RAZCAGZ",
+                    "U06DYTRDLUD",
+                    "U03P99RGMTN",
+                    "U0951RDNKU6",
+                    "U065DFPCQMP"
+                ],
+                "count": 17
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U084LQF8023"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1760090719.255739",
+        "client_msg_id": "93223a43-4900-461a-8b29-58803f034a26",
+        "text": "Exactement ce que je leur ai dit. C'est pour ca que je ne souris pas une seconde sur la vidéo !!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OMixk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exactement ce que je leur ai dit. C'est pour ca que je ne souris pas une seconde sur la vidéo !!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U06DYTRDLUD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1760090872.252189",
+        "client_msg_id": "892566D2-A7BF-439E-B415-7035A6183754",
+        "text": "Ahahahhaah ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760090293.108129",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "18EJo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ahahahhaah "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1760096421.367419",
+        "client_msg_id": "9d1e5be1-0ba5-44a6-ac80-693af43243f7",
+        "text": "J'adore le fait qu'on ait un chan gossip maintenant :smiling_face_with_3_hearts:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759906364.386309",
+        "parent_user_id": "U092U6UDLMN",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DzTe4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'adore le fait qu'on ait un chan gossip maintenant "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_3_hearts",
+                                "unicode": "1f970"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sweat_smile",
+                "users": [
+                    "U017H09S857",
+                    "U04A6JMRWCS",
+                    "U08PLD4KPS8",
+                    "U08SA22HS0J"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U03CY07UZJM",
+        "type": "message",
+        "ts": "1760097531.234009",
+        "client_msg_id": "006b0ebe-8b8b-4549-b5a9-fed99f06bebd",
+        "text": "J'ai voté. Maintenant j'attends ma mallette de cash comme convenu",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "cf1b09b1a910",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-02\/6894190939717_cf1b09b1a910eb11be75_72.jpg",
+            "first_name": "Patrice",
+            "real_name": "Patrice Barbesier",
+            "display_name": "Patrice Barbesier",
+            "team": "T017AGS2KE0",
+            "name": "patrice.barbesier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760090262.100819",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zy\/nQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai voté. Maintenant j'attends ma mallette de cash comme convenu"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U01A4GMRRR9",
+                    "U063A8VPPG9",
+                    "U06CZESF7QF",
+                    "U03P99RGMTN",
+                    "U06M6E5M524",
+                    "U06DYTRDLUD"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "user": "U017CURDPB5",
+        "type": "message",
+        "ts": "1760097590.990119",
+        "client_msg_id": "ec675f25-901a-4d0d-a1f3-8b2ce2b60d5c",
+        "text": "a voté ! On va demontrer la force de la communauté :wink:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "671ad569fbc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5982967598243_671ad569fbc40977de70_72.jpg",
+            "first_name": "David",
+            "real_name": "David Remaud",
+            "display_name": "David Remaud (iBanFirst)",
+            "team": "T017AGS2KE0",
+            "name": "david.remaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ohlso",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "a voté ! On va demontrer la force de la communauté "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02N2EVMFCG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1760097717.859389",
+        "client_msg_id": "057d13bb-dc0a-49e9-ad16-afbaf2ce926d",
+        "text": "A voté!!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760090262.100819",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J8ydN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A voté!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01A4GMRRR9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0183AS3MB6",
+        "type": "message",
+        "ts": "1760098767.751709",
+        "client_msg_id": "30535002-dce8-47ef-b833-f5c36eb4ab44",
+        "text": "A voté !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4fc14fb7192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-24\/8523209284336_b4fc14fb71925e825c00_72.png",
+            "first_name": "Jordan",
+            "real_name": "Jordan Chenevier-Truchet",
+            "display_name": "Jordan",
+            "team": "T017AGS2KE0",
+            "name": "jordan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760090262.100819",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mNJUy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A voté !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1760101982.413399",
+        "client_msg_id": "9b53e7d4-c665-4444-b8b3-558f48d96b6d",
+        "text": "A voté :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760090262.100819",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6+TRk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A voté "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08PLD4KPS8",
+        "type": "message",
+        "ts": "1760102980.421299",
+        "client_msg_id": "B5F1F359-9462-4A51-BB75-698115C4AF17",
+        "text": "A voté!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ed1e5a6e17a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-05-15\/8903493241218_7ed1e5a6e17a9b117971_72.jpg",
+            "first_name": "Ségolène",
+            "real_name": "Ségolène Finet",
+            "display_name": "Ségolène Finet",
+            "team": "T017AGS2KE0",
+            "name": "finetsegolene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760090262.100819",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TMd6Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A voté!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0951RDNKU6",
+        "type": "message",
+        "ts": "1760115589.119679",
+        "client_msg_id": "40b87acf-537d-4bf5-a7c2-dd9dfe66ac47",
+        "text": "Vous pouvez aussi voter pour moi ah ah mais je sens que <@U01A4GMRRR9> va récupérer tous vos votes car je suis encore une newbie ici :wink:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "85dcd88ccf2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-06\/9660924995297_85dcd88ccf2fa3d8be38_72.jpg",
+            "first_name": "Marion",
+            "real_name": "Marion de Robillard",
+            "display_name": "Marion de Robillard",
+            "team": "T017AGS2KE0",
+            "name": "marionderobillard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760115589.119679",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1760532047.281829",
+        "reply_users": [
+            "U017H09S857",
+            "U06DYTRDLUD",
+            "U04L04T475K"
+        ],
+        "replies": [
+            {
+                "user": "U017H09S857",
+                "ts": "1760116127.611979"
+            },
+            {
+                "user": "U06DYTRDLUD",
+                "ts": "1760343256.443089"
+            },
+            {
+                "user": "U04L04T475K",
+                "ts": "1760532047.281829"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fhVRm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Vous pouvez aussi voter pour moi ah ah mais je sens que "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01A4GMRRR9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " va récupérer tous vos votes car je suis encore une newbie ici "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U017H09S857",
+                    "U01A4GMRRR9",
+                    "U0183AS3MB6",
+                    "U08PLD4KPS8",
+                    "U06EN9X790C",
+                    "U063A8VPPG9",
+                    "U02N2EVMFCG",
+                    "U03CY07UZJM",
+                    "U017CURDPB5",
+                    "U07D08K3U0K",
+                    "U06CZESF7QF",
+                    "U06DYTRDLUD",
+                    "U03P99RGMTN",
+                    "U07BLPPL3C1",
+                    "U08QZ6EKE4Q",
+                    "U0859A8P14K"
+                ],
+                "count": 16
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U04L35Y9D08"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1760116127.611979",
+        "client_msg_id": "d0823f63-c5f9-45de-babe-ecc59bf75f20",
+        "text": "oooooh trop bien Marion, bravo !!\nbon en effet désolée j'ai déjà donné ma voix!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760115589.119679",
+        "parent_user_id": "U0951RDNKU6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g5BX9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oooooh trop bien Marion, bravo !!\nbon en effet désolée j'ai déjà donné ma voix!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

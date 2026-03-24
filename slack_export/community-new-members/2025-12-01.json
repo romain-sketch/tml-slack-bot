@@ -1,0 +1,682 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U0A0QG03DLN",
+        "text": "<@U0A0QG03DLN> has joined the channel",
+        "type": "message",
+        "ts": "1764606709.722609",
+        "team": "T017AGS2KE0"
+    },
+    {
+        "user": "U0A0QG03DLN",
+        "type": "message",
+        "ts": "1764609552.773719",
+        "client_msg_id": "c9182049-9b09-43ef-8519-aed4bee5ed17",
+        "text": "Bonjour à tous, ravi de vous rejoindre et merci pour l'ajout, beaucoup de visages connus ici ! Merci <@U04SM1RGPJB> et <@U0183AS3MB6> pour l'invitation :blush:\n\nCa fait une dizaine d'années que je travaille dans le marketing, en boîtes early stage d'abord, en scale-up pendant 3 ans chez *Malt* avec <@U08PLD4KPS8> et <@U05H3SJKYFQ> , puis en agence chez *Eskimoz* que j'ai rejoint en début d'année comme CMO group sur 5 pays. L'expérience s'est achevée plus tôt que prévu et j'ai quitté l'aventure il y a quelques jours, tout en continuant de les accompagner en part-time. Je profite de ce break pour faire des missions en freelance, tout en gardant un oeil sur les offres en CDI.\n\nJ'ai aussi quelques dossiers concernant les boîtes redflag et les sujets de période d'essai, donc je viendrai très clairement à l'apéro ragots de la semaine prochaine :smiling_imp:  <https:\/\/www.linkedin.com\/in\/alexandrecourbin\/|See you on Linkedin>, bonne soirée !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b968d96b48d4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-12-01\/10056348127568_b968d96b48d4a3ee8664_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Courbin",
+            "display_name": "Alexandre Courbin",
+            "team": "T017AGS2KE0",
+            "name": "alexandre.courbin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764609552.773719",
+        "reply_count": 16,
+        "reply_users_count": 15,
+        "latest_reply": "1765214178.333019",
+        "reply_users": [
+            "U063A8VPPG9",
+            "U04SM1RGPJB",
+            "U08HF5YQM6G",
+            "U017H09S857",
+            "U02N2EVMFCG",
+            "U05H3SJKYFQ",
+            "U01A4GMRRR9",
+            "U0A0QG03DLN",
+            "U0859A8P14K",
+            "U092PH1F2CA",
+            "U017CURDPB5",
+            "U0177A5V42F",
+            "U08PLD4KPS8",
+            "U065DFPCQMP",
+            "U078PFP7A4B"
+        ],
+        "replies": [
+            {
+                "user": "U063A8VPPG9",
+                "ts": "1764610138.237559"
+            },
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1764610472.217349"
+            },
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1764610490.800889"
+            },
+            {
+                "user": "U08HF5YQM6G",
+                "ts": "1764611734.342749"
+            },
+            {
+                "user": "U017H09S857",
+                "ts": "1764618385.665189"
+            },
+            {
+                "user": "U02N2EVMFCG",
+                "ts": "1764621228.253109"
+            },
+            {
+                "user": "U05H3SJKYFQ",
+                "ts": "1764621897.916649"
+            },
+            {
+                "user": "U01A4GMRRR9",
+                "ts": "1764661010.855059"
+            },
+            {
+                "user": "U0A0QG03DLN",
+                "ts": "1764666939.234139"
+            },
+            {
+                "user": "U0859A8P14K",
+                "ts": "1764668225.158049"
+            },
+            {
+                "user": "U092PH1F2CA",
+                "ts": "1764668866.618809"
+            },
+            {
+                "user": "U017CURDPB5",
+                "ts": "1764678552.035839"
+            },
+            {
+                "user": "U0177A5V42F",
+                "ts": "1764690996.369119"
+            },
+            {
+                "user": "U08PLD4KPS8",
+                "ts": "1764695680.340189"
+            },
+            {
+                "user": "U065DFPCQMP",
+                "ts": "1764700710.046439"
+            },
+            {
+                "user": "U078PFP7A4B",
+                "ts": "1765214178.333019"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uPI7o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour à tous, ravi de vous rejoindre et merci pour l'ajout, beaucoup de visages connus ici ! Merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04SM1RGPJB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0183AS3MB6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour l'invitation "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nCa fait une dizaine d'années que je travaille dans le marketing, en boîtes early stage d'abord, en scale-up pendant 3 ans chez "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Malt",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " avec "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08PLD4KPS8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05H3SJKYFQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , puis en agence chez "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Eskimoz",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " que j'ai rejoint en début d'année comme CMO group sur 5 pays. L'expérience s'est achevée plus tôt que prévu et j'ai quitté l'aventure il y a quelques jours, tout en continuant de les accompagner en part-time. Je profite de ce break pour faire des missions en freelance, tout en gardant un oeil sur les offres en CDI.\n\nJ'ai aussi quelques dossiers concernant les boîtes redflag et les sujets de période d'essai, donc je viendrai très clairement à l'apéro ragots de la semaine prochaine "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_imp",
+                                "unicode": "1f608"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/alexandrecourbin\/",
+                                "text": "See you on Linkedin"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", bonne soirée !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U078PFP7A4B",
+                    "U056DAY3YD8",
+                    "U063A8VPPG9",
+                    "U04SM1RGPJB",
+                    "U06CZESF7QF",
+                    "U06MLNEGNKB",
+                    "U08HF5YQM6G",
+                    "U03QPMQA31V",
+                    "U06DYTRDLUD",
+                    "U017H09S857",
+                    "U05H3SJKYFQ",
+                    "U07D08K3U0K",
+                    "U09EFH6S1BQ",
+                    "U06TF9YAWEM",
+                    "U069NSTHZ3Q",
+                    "U03P99RGMTN",
+                    "U092PH1F2CA",
+                    "U08EN5GRYCC",
+                    "U08PLD4KPS8",
+                    "U03CY07UZJM",
+                    "U017CURDPB5",
+                    "U063Q1LA69W",
+                    "U0177A5V42F",
+                    "U08M0JP81DK",
+                    "U084KTR7YKX",
+                    "U06LENY5V6Z"
+                ],
+                "count": 26
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02N2EVMFCG",
+                    "U06TF9YAWEM",
+                    "U0859A8P14K",
+                    "U065DFPCQMP"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U063A8VPPG9",
+        "type": "message",
+        "ts": "1764610138.237559",
+        "client_msg_id": "FBFA067D-34B5-4E1A-AB88-54A289FFC478",
+        "text": "Hâte de cet apéro ahahah",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e5404dc606a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6122662658832_e5404dc606a4eb01b702_72.jpg",
+            "first_name": "Emmanuelle",
+            "real_name": "Emmanuelle Benoliel",
+            "display_name": "Emmanuelle Benoliel",
+            "team": "T017AGS2KE0",
+            "name": "emmanuelle.kleinmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764609552.773719",
+        "parent_user_id": "U0A0QG03DLN",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V4M\/W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hâte de cet apéro ahahah"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "angel",
+                "users": [
+                    "U0A0QG03DLN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1764610472.217349",
+        "client_msg_id": "1c0663cf-6a82-4311-acf3-cb59c5b629ec",
+        "text": "Tu m'étonnes !!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764609552.773719",
+        "parent_user_id": "U0A0QG03DLN",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cVU8k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tu m'étonnes !!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1764610490.800889",
+        "client_msg_id": "e192655c-c5fd-4684-a18f-3f6a9f47eec6",
+        "text": "Enfin welcome ici :smiling_face_with_3_hearts:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764609552.773719",
+        "parent_user_id": "U0A0QG03DLN",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w4PPV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Enfin welcome ici "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_3_hearts",
+                                "unicode": "1f970"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U0A0QG03DLN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U08HF5YQM6G",
+        "type": "message",
+        "ts": "1764611734.342749",
+        "client_msg_id": "D9ED5CDF-7B22-4DE9-AB3B-D805687895DB",
+        "text": "C'est le black friday des boîtes à éviter :face_with_open_eyes_and_hand_over_mouth:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "dc5afdcdc051",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-28\/10418814050592_dc5afdcdc0516abb4cac_72.jpg",
+            "first_name": "Roy",
+            "real_name": "Roy Brockmann",
+            "display_name": "",
+            "team": "T017AGS2KE0",
+            "name": "roy.brockmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764609552.773719",
+        "parent_user_id": "U0A0QG03DLN",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jWDpV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est le black friday des boîtes à éviter "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_with_open_eyes_and_hand_over_mouth",
+                                "unicode": "1fae2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "laughing",
+                "users": [
+                    "U06DYTRDLUD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U017H09S857",
+        "type": "message",
+        "ts": "1764618385.665189",
+        "client_msg_id": "51482A9E-517A-4AF2-B889-FBBDD8A48050",
+        "text": "Welcome Alexandre !!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "43f56c77b58d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-15\/1248887815396_43f56c77b58d8dcd04fb_72.jpg",
+            "first_name": "Aurelie",
+            "real_name": "Aurelie Fliedel",
+            "display_name": "Aurelie Fliedel (Alan)",
+            "team": "T017AGS2KE0",
+            "name": "aurelie.fliedel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764609552.773719",
+        "parent_user_id": "U0A0QG03DLN",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "36xc\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome Alexandre !!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U0A0QG03DLN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1764621228.253109",
+        "client_msg_id": "4cd0440c-906b-454b-a407-8f5f3e66e39d",
+        "text": "Welcome ! Tu pourras aussi retrouver des discussions intéressantes dans <#C04U8KY4D2A|advisory> et <#C051WKLDD5Z|parttimecmo>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764609552.773719",
+        "parent_user_id": "U0A0QG03DLN",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZkOFZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome ! Tu pourras aussi retrouver des discussions intéressantes dans "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C04U8KY4D2A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C051WKLDD5Z"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U0A0QG03DLN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U0A0QG03DLN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05H3SJKYFQ",
+        "type": "message",
+        "ts": "1764621897.916649",
+        "client_msg_id": "9ea9db0a-0e55-4e39-ba8c-edb64b395cce",
+        "text": "Welcome ;)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "0931617f5e75",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-04\/5842709801061_0931617f5e75eee9f27b_72.jpg",
+            "first_name": "Raphaëlle",
+            "real_name": "Raphaëlle Béguinel - Malt",
+            "display_name": "Raphaëlle Béguinel - Malt",
+            "team": "T017AGS2KE0",
+            "name": "rbeguinel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764609552.773719",
+        "parent_user_id": "U0A0QG03DLN",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iBn6n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome ;)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U0A0QG03DLN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1764661010.855059",
+        "client_msg_id": "BE62C959-489E-42CC-A992-02C3DA6160E1",
+        "text": "Welcome <@U0A0QG03DLN> !!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1764609552.773719",
+        "parent_user_id": "U0A0QG03DLN",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6EL6t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0A0QG03DLN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " !!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U0A0QG03DLN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

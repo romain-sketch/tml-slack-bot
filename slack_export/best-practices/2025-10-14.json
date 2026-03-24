@@ -1,0 +1,238 @@
+[
+    {
+        "user": "U07BLPPL3C1",
+        "type": "message",
+        "ts": "1760435071.611599",
+        "client_msg_id": "3180f3e9-30c2-4095-805f-7a2b410144c3",
+        "text": "J'aimerais aussi participer :)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a188c365467d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-16\/7728349993798_a188c365467d3e63d25d_72.jpg",
+            "first_name": "Esther",
+            "real_name": "Esther Daga",
+            "display_name": "Esther Daga (Powell)",
+            "team": "T017AGS2KE0",
+            "name": "estherdaga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759909660.136279",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3tKgZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'aimerais aussi participer :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01A4GMRRR9",
+        "type": "message",
+        "ts": "1760437223.562579",
+        "client_msg_id": "d2272699-0d66-470b-a785-fdaf9714a311",
+        "text": "Hello, Connaissez vous svp une solution d'envoi de sms (type relance invité à un event) qui fonctionne en Italie ? Merci !!!",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "a87a0d93c081",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-04\/7674150160773_a87a0d93c081b71a9939_72.png",
+            "first_name": "Geoffrey",
+            "real_name": "Geoffrey Vion",
+            "display_name": "Geoffrey Vion (Contentsquare)",
+            "team": "T017AGS2KE0",
+            "name": "geoffreyvion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760437223.562579",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1760520702.713319",
+        "reply_users": [
+            "U03P99RGMTN",
+            "U08300D2NJY",
+            "U01A4GMRRR9"
+        ],
+        "replies": [
+            {
+                "user": "U03P99RGMTN",
+                "ts": "1760516334.739929"
+            },
+            {
+                "user": "U08300D2NJY",
+                "ts": "1760520576.389279"
+            },
+            {
+                "user": "U01A4GMRRR9",
+                "ts": "1760520702.713319"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E631R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, Connaissez vous svp une solution d'envoi de sms (type relance invité à un event) qui fonctionne en Italie ? Merci !!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "x",
+                "users": [
+                    "U03P99RGMTN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U042GV737MX",
+        "type": "message",
+        "ts": "1760465569.153269",
+        "client_msg_id": "7e05de69-5206-4d5b-8c53-5dde7ec78f0b",
+        "text": "Je me pose des questions sur l'orga de mon équipe, est-ce que vous pourriez me partager votre orga ? :slightly_smiling_face: Merci beaucoup",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "477225f2b12e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4077716786404_477225f2b12eccc47dc4_72.png",
+            "first_name": "Claire",
+            "real_name": "Claire Chauvallon",
+            "display_name": "Claire Chauvallon",
+            "team": "T017AGS2KE0",
+            "name": "chauvallon.claire",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760465569.153269",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1760558389.641689",
+        "reply_users": [
+            "U06MHCCLQG3",
+            "U042GV737MX",
+            "U09JE6QUZDZ"
+        ],
+        "replies": [
+            {
+                "user": "U06MHCCLQG3",
+                "ts": "1760522492.744159"
+            },
+            {
+                "user": "U042GV737MX",
+                "ts": "1760528344.586899"
+            },
+            {
+                "user": "U09JE6QUZDZ",
+                "ts": "1760530907.421209"
+            },
+            {
+                "user": "U06MHCCLQG3",
+                "ts": "1760535702.735919"
+            },
+            {
+                "user": "U06MHCCLQG3",
+                "ts": "1760535728.493209"
+            },
+            {
+                "user": "U042GV737MX",
+                "ts": "1760558389.641689"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VcvFa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je me pose des questions sur l'orga de mon équipe, est-ce que vous pourriez me partager votre orga ? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Merci beaucoup"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U09EFH6S1BQ",
+        "type": "message",
+        "ts": "1760510580.438099",
+        "client_msg_id": "297022BD-E647-469A-9E5F-B90F5D6D0848",
+        "text": "Intéressé aussi !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "ffa600162240",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-02-04\/10441989667490_ffa600162240cca72992_72.png",
+            "first_name": "Timothée",
+            "real_name": "Timothée COLLARD",
+            "display_name": "Timothée COLLARD",
+            "team": "T017AGS2KE0",
+            "name": "timothee.collard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759909660.136279",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tpiWi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Intéressé aussi !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

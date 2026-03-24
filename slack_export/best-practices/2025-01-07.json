@@ -1,0 +1,76 @@
+[
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1736239579.480309",
+        "client_msg_id": "c66fd552-059b-4b04-8c03-e555f9346798",
+        "text": "Je rajoute 2 trucs qui m'ont frappé dans mon xp MTA:\n• dans le MTA, c'est une personne humaine et biaisée qui va définir les coefficients d'impact de chaque touchpoint.  donc qu'in fine, tu ne te retrouveras qu'avec une autre façon biaisée de définir la contribution de chaque équipe\n• Mktg perdra toujours avec ce système car comme le disait <@U017CURDPB5> , ca ne trackera pas plus tout l'effort brand\/awareness que tu développes",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1736164283.391929",
+        "parent_user_id": "U017RAZCAGZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uuEW2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je rajoute 2 trucs qui m'ont frappé dans mon xp MTA:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "dans le MTA, c'est une personne humaine et biaisée qui va définir les coefficients d'impact de chaque touchpoint.  donc qu'in fine, tu ne te retrouveras qu'avec une autre façon biaisée de définir la contribution de chaque équipe"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Mktg perdra toujours avec ce système car comme le disait "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U017CURDPB5"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " , ca ne trackera pas plus tout l'effort brand\/awareness que tu développes"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

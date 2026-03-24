@@ -1,0 +1,802 @@
+[
+    {
+        "user": "U08SA22HS0J",
+        "type": "message",
+        "ts": "1770717210.352429",
+        "client_msg_id": "07f25da3-b403-44e0-9518-cfab866760aa",
+        "text": "Merci Elodie",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "266d9356f19e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-07\/10243863201635_266d9356f19e63bc9267_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu BONENFANT (SecLab)",
+            "display_name": "Matthieu BONENFANT (SecLab)",
+            "team": "T017AGS2KE0",
+            "name": "matthieu.bonenfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770421422.786249",
+        "parent_user_id": "U08SA22HS0J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TgFeV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci Elodie"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U09JE6QUZDZ",
+        "type": "message",
+        "ts": "1770719925.177399",
+        "client_msg_id": "4e4209e4-d489-4d5a-8811-8ec0a19e8c42",
+        "text": "De mémoire, mon ancienne boîte est passée sur AT Internet (<http:\/\/Piano.io|Piano.io>) pour remplacer GA4 dans tous ses pays (31 au total).",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7d0f46079dd0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-10\/9686164664817_7d0f46079dd063043221_72.jpg",
+            "first_name": "Elodie",
+            "real_name": "Elodie Gaussares",
+            "display_name": "Elodie Gaussares",
+            "team": "T017AGS2KE0",
+            "name": "egaussares",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770421422.786249",
+        "parent_user_id": "U08SA22HS0J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R+i\/0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "De mémoire, mon ancienne boîte est passée sur AT Internet ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Piano.io",
+                                "text": "Piano.io"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") pour remplacer GA4 dans tous ses pays (31 au total)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1770720331.934169",
+        "client_msg_id": "5edbf139-72ae-4809-949e-04fbce5843be",
+        "text": "G2 nous la fait à l’envers et annonce +70 % d’augmentation au renouvellement de notre plan classique (sans Buyer Intent) :astonished:\n\nEst-ce qqun a aussi eu ce genre de hausse ?\n\nSachant qu’ils viennent de racheter plusieurs concurrents, dont Capterra…",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770720331.934169",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1770732824.691329",
+        "reply_users": [
+            "U03P99RGMTN",
+            "U06CZESF7QF",
+            "U08EN5T6F4L"
+        ],
+        "replies": [
+            {
+                "user": "U03P99RGMTN",
+                "ts": "1770722369.829129"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1770729584.119099"
+            },
+            {
+                "user": "U08EN5T6F4L",
+                "ts": "1770732797.163579"
+            },
+            {
+                "user": "U08EN5T6F4L",
+                "ts": "1770732824.691329"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Pmnb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "G2 nous la fait à l’envers et annonce +70 % d’augmentation au renouvellement de notre plan classique (sans Buyer Intent) "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "astonished",
+                                "unicode": "1f632"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nEst-ce qqun a aussi eu ce genre de hausse ?\n\nSachant qu’ils viennent de racheter plusieurs concurrents, dont Capterra…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "confounded",
+                "users": [
+                    "U03P99RGMTN",
+                    "U084KTR7YKX"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U03P99RGMTN",
+        "type": "message",
+        "ts": "1770722369.829129",
+        "client_msg_id": "7a93a585-74c0-47bb-ac5d-22fb3193b50c",
+        "text": "j’ai mon renouvellement en septembre mais je me félicite d’avoir locker un 2 year contract la dernière fois alors.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2f8b530bfffa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-28\/7656384027105_2f8b530bfffa39d455d3_72.png",
+            "first_name": "Julie",
+            "real_name": "Julie Asselin (365Talents)",
+            "display_name": "Julie Asselin (365Talents)",
+            "team": "T017AGS2KE0",
+            "name": "julie.asselin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770720331.934169",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yI1Tj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "j’ai mon renouvellement en septembre mais je me félicite d’avoir locker un 2 year contract la dernière fois alors."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1770729584.119099",
+        "client_msg_id": "355f35b7-a87b-465d-9ab2-a509229b7d3c",
+        "text": "Ouais ils nous poussent le multi year a fond pour avoir un discount et locker le prix",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770720331.934169",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nNJRO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ouais ils nous poussent le multi year a fond pour avoir un discount et locker le prix"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1770732152.351719",
+        "client_msg_id": "7ceb5007-9387-47cc-8599-841a2d8da5ab",
+        "text": "je suis pas certain que ca vaille la peine de payer pour G2",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770732152.351719",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1771285553.494269",
+        "reply_users": [
+            "U06MHCCLQG3"
+        ],
+        "replies": [
+            {
+                "user": "U06MHCCLQG3",
+                "ts": "1771285553.494269"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+mW40",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je suis pas certain que ca vaille la peine de payer pour G2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06MHCCLQG3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04A6JMRWCS",
+        "type": "message",
+        "ts": "1770732158.146119",
+        "client_msg_id": "4aebf7cb-7412-4004-b327-77c92cff074d",
+        "text": "tu as quoi en plus de la version gratos?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "86ca26c3ee5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6479867685072_86ca26c3ee5a2b719e77_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain Doutriaux",
+            "display_name": "Romain Doutriaux",
+            "team": "T017AGS2KE0",
+            "name": "rdoutriaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770732158.146119",
+        "reply_count": 8,
+        "reply_users_count": 5,
+        "latest_reply": "1770902063.513709",
+        "reply_users": [
+            "U084KTR7YKX",
+            "U0946E8A2US",
+            "U06CZESF7QF",
+            "U03P99RGMTN",
+            "U04A6JMRWCS"
+        ],
+        "replies": [
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1770735050.799899"
+            },
+            {
+                "user": "U084KTR7YKX",
+                "ts": "1770735067.847579"
+            },
+            {
+                "user": "U0946E8A2US",
+                "ts": "1770740344.743529"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1770741818.003009"
+            },
+            {
+                "user": "U03P99RGMTN",
+                "ts": "1770796252.853639"
+            },
+            {
+                "user": "U03P99RGMTN",
+                "ts": "1770796306.306589"
+            },
+            {
+                "user": "U04A6JMRWCS",
+                "ts": "1770799089.092549"
+            },
+            {
+                "user": "U06CZESF7QF",
+                "ts": "1770902063.513709"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Op3k7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tu as quoi en plus de la version gratos?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08EN5T6F4L",
+        "type": "message",
+        "ts": "1770732797.163579",
+        "client_msg_id": "c308208e-d448-4d17-a3f5-73b0b40e941f",
+        "text": "je pense que ces business ont dû prendre cher avec l'essor des LLM",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "731ca28d6808",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-18\/8615871359542_731ca28d68086f39666f_72.png",
+            "first_name": "Sidney",
+            "real_name": "Sidney Ouarzazi",
+            "display_name": "Sidney Ouarzazi (Sellsy)",
+            "team": "T017AGS2KE0",
+            "name": "sidney.o",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770720331.934169",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J0da3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je pense que ces business ont dû prendre cher avec l'essor des LLM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08EN5T6F4L",
+        "type": "message",
+        "ts": "1770732824.691329",
+        "client_msg_id": "0204a123-cfa5-4077-a80d-c408fc279815",
+        "text": "je viens d'apprendre que Appvizer rentre en liquidation judiciaire...",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "731ca28d6808",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-18\/8615871359542_731ca28d68086f39666f_72.png",
+            "first_name": "Sidney",
+            "real_name": "Sidney Ouarzazi",
+            "display_name": "Sidney Ouarzazi (Sellsy)",
+            "team": "T017AGS2KE0",
+            "name": "sidney.o",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770720331.934169",
+        "parent_user_id": "U06CZESF7QF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xwj6X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je viens d'apprendre que Appvizer rentre en liquidation judiciaire..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U084KTR7YKX",
+                    "U03P99RGMTN"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1770735050.799899",
+        "client_msg_id": "80681bac-a7a5-470d-bee7-959aff9561d6",
+        "text": "je crois que tu peux avoir des badges et faire qu'il n'y ait pas de pub d'autres concurrents sur ta page",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770732158.146119",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/PATg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je crois que tu peux avoir des badges et faire qu'il n'y ait pas de pub d'autres concurrents sur ta page"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U084KTR7YKX",
+        "type": "message",
+        "ts": "1770735067.847579",
+        "client_msg_id": "df2b1e76-e997-4905-a2b0-c295c4d9c8e9",
+        "text": "en gros c'est un modèle pour protéger ta marque (un peu de vautour ^^)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "901db9478b07",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8175040058710_901db9478b070b128561_72.jpg",
+            "first_name": "Gwenn",
+            "real_name": "Gwenn Charlot (Part-Time CMO)",
+            "display_name": "Gwenn Charlot",
+            "team": "T017AGS2KE0",
+            "name": "gwenn.charlot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770732158.146119",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "inRNq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "en gros c'est un modèle pour protéger ta marque (un peu de vautour ^^)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "broken_heart",
+                "users": [
+                    "U04A6JMRWCS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0946E8A2US",
+        "type": "message",
+        "ts": "1770740344.743529",
+        "client_msg_id": "e1b44a90-d4ef-4cfe-ab3c-6a9fe475b145",
+        "text": "Exactement ça, avec aussi quelques features en plus sur ta page pour l'esthétique et la lead gen:\n• bannière custom\n• CTAs custom\n• Videos\nEt en payant, G2 aide à générer des reviews via campagnes d'email.\nAussi c'est eux qui gèrent la partie reward $ pour générer des reviews. C'est totalement gérable soi même mais il faut prendre un peu de temps pour le setup quoi (et utiliser un SaaS pour le faire)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "f73f6d38e4eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-07-23\/9238905089862_f73f6d38e4eb792c8c6a_72.jpg",
+            "first_name": "Thibaut",
+            "real_name": "Thibaut Davoult",
+            "display_name": "Thibaut Davoult",
+            "team": "T017AGS2KE0",
+            "name": "thibaut.davoult",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770732158.146119",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MmY53",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exactement ça, avec aussi quelques features en plus sur ta page pour l'esthétique et la lead gen:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "bannière custom"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "CTAs custom"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Videos"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nEt en payant, G2 aide à générer des reviews via campagnes d'email.\nAussi c'est eux qui gèrent la partie reward $ pour générer des reviews. C'est totalement gérable soi même mais il faut prendre un peu de temps pour le setup quoi (et utiliser un SaaS pour le faire)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06CZESF7QF",
+        "type": "message",
+        "ts": "1770741818.003009",
+        "client_msg_id": "1018af6f-543f-40e7-b633-6cef32e20764",
+        "text": "Yes c’est surtout pour pouvoir proposer des gift card que c’est pratique. Ca aide beaucoup notre team support à en générer + les badges + pas de pub",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "66361b775d84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-03-05\/8553860575762_66361b775d84e9bcf1a5_72.png",
+            "first_name": "Eugène",
+            "real_name": "Eugène Ernoult",
+            "display_name": "Eugène - Weglot",
+            "team": "T017AGS2KE0",
+            "name": "eugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770732158.146119",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oTZ\/w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes c’est surtout pour pouvoir proposer des gift card que c’est pratique. Ca aide beaucoup notre team support à en générer + les badges + pas de pub"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U084KTR7YKX",
+                    "U03P99RGMTN"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U03P99RGMTN",
+        "type": "message",
+        "ts": "1770796252.853639",
+        "client_msg_id": "07422533-ef3e-4c04-8d1a-093f47920f8d",
+        "text": "perso j’ai la partie Intent qui est bougrement intéressante pour aller ensuite cibler les comptes qui ont été voir tes concurrents. ça nous permet d’être identifié à l’international comme ça ( et j’ai eu 2 deals enterprise signés grace à G2 sur les US)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2f8b530bfffa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-28\/7656384027105_2f8b530bfffa39d455d3_72.png",
+            "first_name": "Julie",
+            "real_name": "Julie Asselin (365Talents)",
+            "display_name": "Julie Asselin (365Talents)",
+            "team": "T017AGS2KE0",
+            "name": "julie.asselin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770732158.146119",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tMe+T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "perso j’ai la partie Intent qui est bougrement intéressante pour aller ensuite cibler les comptes qui ont été voir tes concurrents. ça nous permet d’être identifié à l’international comme ça ( et j’ai eu 2 deals enterprise signés grace à G2 sur les US)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03P99RGMTN",
+        "type": "message",
+        "ts": "1770796306.306589",
+        "client_msg_id": "8352c233-14fe-41bc-abd2-b94b53a9b9df",
+        "text": "mais en effet Romain, ça va vite avoir du mal a survivre avec les recos LLM.\nMais les recos LLM, elles utilisent les datas du web et donc G2 pour donner leur recos non? :wink:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2f8b530bfffa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-28\/7656384027105_2f8b530bfffa39d455d3_72.png",
+            "first_name": "Julie",
+            "real_name": "Julie Asselin (365Talents)",
+            "display_name": "Julie Asselin (365Talents)",
+            "team": "T017AGS2KE0",
+            "name": "julie.asselin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1770732158.146119",
+        "parent_user_id": "U04A6JMRWCS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KqEx+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mais en effet Romain, ça va vite avoir du mal a survivre avec les recos LLM.\nMais les recos LLM, elles utilisent les datas du web et donc G2 pour donner leur recos non? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

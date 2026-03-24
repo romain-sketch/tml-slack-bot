@@ -1,0 +1,400 @@
+[
+    {
+        "user": "U017RAZCAGZ",
+        "type": "message",
+        "ts": "1748005366.540949",
+        "client_msg_id": "067305ec-b69d-448a-a2a1-2accc15986b2",
+        "text": "Bonjour, je suis à la recherche d'un freelance pour auditer notre CRM B2C Intercom. Avez-vous des suggestions ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2e6e61c8f204",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-20\/1251040887619_2e6e61c8f20434050630_72.jpg",
+            "first_name": "Hélène",
+            "real_name": "Hélène Draoulec (Phenix)",
+            "display_name": "Hélène Draoulec (Phenix)",
+            "team": "T017AGS2KE0",
+            "name": "hdraoulec",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748005366.540949",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1748010934.629829",
+        "reply_users": [
+            "U017RBREWC9",
+            "U017RAZCAGZ",
+            "U04L35Y9D08"
+        ],
+        "replies": [
+            {
+                "user": "U017RBREWC9",
+                "ts": "1748007773.331759"
+            },
+            {
+                "user": "U017RAZCAGZ",
+                "ts": "1748010229.268349"
+            },
+            {
+                "user": "U04L35Y9D08",
+                "ts": "1748010402.485939"
+            },
+            {
+                "user": "U017RAZCAGZ",
+                "ts": "1748010473.510799"
+            },
+            {
+                "user": "U017RAZCAGZ",
+                "ts": "1748010888.202209"
+            },
+            {
+                "user": "U04L35Y9D08",
+                "ts": "1748010934.629829"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pjr6H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour, je suis à la recherche d'un freelance pour auditer notre CRM B2C Intercom. Avez-vous des suggestions ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017RBREWC9",
+        "type": "message",
+        "ts": "1748007773.331759",
+        "client_msg_id": "e420d922-2fd5-409c-b4e4-f2e350ddfc5e",
+        "text": "Hello Hélène,\nJe connais bien <https:\/\/www.linkedin.com\/in\/egolaurence\/details\/experience\/|Laurence Ego>, 15 d’expérience en CRM B2C dans différents types d’organisation (Orange, Fnac, Sephora côté grands groupes, mais Manomano, Qare, Zéfir). Dis-moi si tu veux une mise en relation ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e7fed2c3531e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-04\/9013749604145_e7fed2c3531e67bdbec9_72.png",
+            "first_name": "",
+            "real_name": "Clotilde Rousseau",
+            "display_name": "Clotilde Rousseau (Batch)",
+            "team": "T017AGS2KE0",
+            "name": "rousseau.clotilde",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748005366.540949",
+        "parent_user_id": "U017RAZCAGZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D\/DaS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Hélène,\nJe connais bien "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/egolaurence\/details\/experience\/",
+                                "text": "Laurence Ego"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", 15 d’expérience en CRM B2C dans différents types d’organisation (Orange, Fnac, Sephora côté grands groupes, mais Manomano, Qare, Zéfir). Dis-moi si tu veux une mise en relation ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U017RAZCAGZ",
+        "type": "message",
+        "ts": "1748010229.268349",
+        "client_msg_id": "2c163e38-1da6-4a10-aa17-e744cdd48231",
+        "text": "yes je prends !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2e6e61c8f204",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-20\/1251040887619_2e6e61c8f20434050630_72.jpg",
+            "first_name": "Hélène",
+            "real_name": "Hélène Draoulec (Phenix)",
+            "display_name": "Hélène Draoulec (Phenix)",
+            "team": "T017AGS2KE0",
+            "name": "hdraoulec",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748005366.540949",
+        "parent_user_id": "U017RAZCAGZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ky5BL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes je prends !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04L35Y9D08",
+        "type": "message",
+        "ts": "1748010402.485939",
+        "client_msg_id": "1eea751f-fcb8-4e68-8489-3401834ba269",
+        "text": "Hello Hélène,\nJ’ai un très bon contact - mais 100% anglais.\nEst-ce que ça t’intéresse que je lui demande s’il a des dispos ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "568f5815adda",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4705573084496_568f5815addab51accfb_72.jpg",
+            "first_name": "Paul",
+            "real_name": "Paul LEMONNIER",
+            "display_name": "Paul",
+            "team": "T017AGS2KE0",
+            "name": "paul.lemonnier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748005366.540949",
+        "parent_user_id": "U017RAZCAGZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nSeCC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Hélène,\nJ’ai un très bon contact - mais 100% anglais.\nEst-ce que ça t’intéresse que je lui demande s’il a des dispos ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U017RAZCAGZ",
+        "thread_ts": "1748005366.540949",
+        "root": {
+            "user": "U017RAZCAGZ",
+            "type": "message",
+            "ts": "1748005366.540949",
+            "client_msg_id": "067305ec-b69d-448a-a2a1-2accc15986b2",
+            "text": "Bonjour, je suis à la recherche d'un freelance pour auditer notre CRM B2C Intercom. Avez-vous des suggestions ?",
+            "team": "T017AGS2KE0",
+            "thread_ts": "1748005366.540949",
+            "reply_count": 6,
+            "reply_users_count": 3,
+            "latest_reply": "1748010934.629829",
+            "reply_users": [
+                "U017RBREWC9",
+                "U017RAZCAGZ",
+                "U04L35Y9D08"
+            ],
+            "replies": [
+                {
+                    "user": "U017RBREWC9",
+                    "ts": "1748007773.331759"
+                },
+                {
+                    "user": "U017RAZCAGZ",
+                    "ts": "1748010229.268349"
+                },
+                {
+                    "user": "U04L35Y9D08",
+                    "ts": "1748010402.485939"
+                },
+                {
+                    "user": "U017RAZCAGZ",
+                    "ts": "1748010473.510799"
+                },
+                {
+                    "user": "U017RAZCAGZ",
+                    "ts": "1748010888.202209"
+                },
+                {
+                    "user": "U04L35Y9D08",
+                    "ts": "1748010934.629829"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "pjr6H",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Bonjour, je suis à la recherche d'un freelance pour auditer notre CRM B2C Intercom. Avez-vous des suggestions ?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1748010473.510799",
+        "client_msg_id": "056cbaf8-8e86-445f-8eea-40a0f37aeeb8",
+        "text": "<@U017RBREWC9> mon équipe est déjà en contact avec Laurence apparemment !",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HaLvb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U017RBREWC9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " mon équipe est déjà en contact avec Laurence apparemment !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U017RBREWC9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U017RAZCAGZ",
+        "type": "message",
+        "ts": "1748010888.202209",
+        "client_msg_id": "d1734c53-228b-4d6f-b6e8-e815c6ceff3b",
+        "text": "<@U04L35Y9D08> merci pour la proposition, mais on recherche quelqu'un qui a une bonne connaissance du marché FR",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "2e6e61c8f204",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-20\/1251040887619_2e6e61c8f20434050630_72.jpg",
+            "first_name": "Hélène",
+            "real_name": "Hélène Draoulec (Phenix)",
+            "display_name": "Hélène Draoulec (Phenix)",
+            "team": "T017AGS2KE0",
+            "name": "hdraoulec",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748005366.540949",
+        "parent_user_id": "U017RAZCAGZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yDkhB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04L35Y9D08"
+                            },
+                            {
+                                "type": "text",
+                                "text": " merci pour la proposition, mais on recherche quelqu'un qui a une bonne connaissance du marché FR"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04L35Y9D08"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04L35Y9D08",
+        "type": "message",
+        "ts": "1748010934.629829",
+        "client_msg_id": "a83b9299-047f-42d2-be7d-f034471c507b",
+        "text": "C’est noté !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "568f5815adda",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4705573084496_568f5815addab51accfb_72.jpg",
+            "first_name": "Paul",
+            "real_name": "Paul LEMONNIER",
+            "display_name": "Paul",
+            "team": "T017AGS2KE0",
+            "name": "paul.lemonnier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1748005366.540949",
+        "parent_user_id": "U017RAZCAGZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bTzsk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C’est noté !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

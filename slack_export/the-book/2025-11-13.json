@@ -1,0 +1,63 @@
+[
+    {
+        "user": "U08SA22HS0J",
+        "type": "message",
+        "ts": "1763069445.050299",
+        "client_msg_id": "181d6b66-2e0c-4129-8d52-5b1bbb168053",
+        "text": "Honte à moi.. je n'avais même pas mis d'avis sur Amazon alors que j'avais adoré le livre (il n'a pas fait long feu). Mon erreur est réparée :wink:. Encore bravo pour cet ouvrage que tout marketeux tech devrait avoir dans sa bibliothèque.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "266d9356f19e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-01-07\/10243863201635_266d9356f19e63bc9267_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu BONENFANT (SecLab)",
+            "display_name": "Matthieu BONENFANT (SecLab)",
+            "team": "T017AGS2KE0",
+            "name": "matthieu.bonenfant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762519100.670929",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U3q4e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Honte à moi.. je n'avais même pas mis d'avis sur Amazon alors que j'avais adoré le livre (il n'a pas fait long feu). Mon erreur est réparée "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Encore bravo pour cet ouvrage que tout marketeux tech devrait avoir dans sa bibliothèque."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "green_heart",
+                "users": [
+                    "U017H09S857",
+                    "U02N2EVMFCG",
+                    "U0183AS3MB6",
+                    "U06LENY5V6Z"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

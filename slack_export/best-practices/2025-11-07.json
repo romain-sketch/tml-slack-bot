@@ -1,0 +1,483 @@
+[
+    {
+        "user": "U07D08K3U0K",
+        "type": "message",
+        "ts": "1762506234.501789",
+        "client_msg_id": "e995ed77-c9c1-40bc-a8a5-7d3c8c63b599",
+        "text": "Hello ! Preneuse également merci <@U02N2EVMFCG> :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "ee04aae8ef81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-02\/7689117269088_ee04aae8ef81d255cd1f_72.png",
+            "first_name": "Tiphanie",
+            "real_name": "Tiphanie Meyer",
+            "display_name": "Tiphanie",
+            "team": "T017AGS2KE0",
+            "name": "tiphanie.meyer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762348660.279719",
+        "parent_user_id": "U065DFPCQMP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qSx0D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello ! Preneuse également merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02N2EVMFCG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03CY07UZJM",
+        "type": "message",
+        "ts": "1762512784.364469",
+        "edited": {
+            "user": "U03CY07UZJM",
+            "ts": "1762513831.000000"
+        },
+        "client_msg_id": "0cbad977-b148-4430-866b-4602fc8113d6",
+        "text": "*Taux d'ouverture Hubspot dégueulasse*\nOn mesure année après année la chute drastique de nos taux d'ouverture sur des emails one shot à 10 000 personnes (multi pays européens).\n-> 2023, 15% en moyenne, 2024 10% et 2025 5%.\n\nTaux de delivry officiel 100%, mais quand des contacts nous répondent, on voit \"spam ou bulk\" dans l'objet de l'email.\n• Alors que notre spam score est excellent. \n• Enrichissement plusieurs fois par an\n• Liste de contacts non engagés mis dans un frigo\nAprès, on est sur un cible Enterprise cabinets de conseil. Donc ils ont dû s'équiper depuis en pare-feu de l'espace. Donc on se dit qu'une très grande partie de nos emails doivent tomber dans les spams, d'où le taux d'ouverture dégueulasse.\n\nEst-ce qu'on a chié dans la colle quelque part ? Est-ce un problème spécifique Hubspot ? Des conseils ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "cf1b09b1a910",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-02\/6894190939717_cf1b09b1a910eb11be75_72.jpg",
+            "first_name": "Patrice",
+            "real_name": "Patrice Barbesier",
+            "display_name": "Patrice Barbesier",
+            "team": "T017AGS2KE0",
+            "name": "patrice.barbesier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762512784.364469",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1762525002.380779",
+        "reply_users": [
+            "U08PEJM137X",
+            "U092U6UDLMN",
+            "U03CY07UZJM",
+            "U04SM1RGPJB"
+        ],
+        "replies": [
+            {
+                "user": "U08PEJM137X",
+                "ts": "1762513603.696969"
+            },
+            {
+                "user": "U092U6UDLMN",
+                "ts": "1762514004.508199"
+            },
+            {
+                "user": "U03CY07UZJM",
+                "ts": "1762518143.822849"
+            },
+            {
+                "user": "U03CY07UZJM",
+                "ts": "1762518168.844349"
+            },
+            {
+                "user": "U04SM1RGPJB",
+                "ts": "1762525002.380779"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "feN0P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Taux d'ouverture Hubspot dégueulasse",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nOn mesure année après année la chute drastique de nos taux d'ouverture sur des emails one shot à 10 000 personnes (multi pays européens).\n-> 2023, 15% en moyenne, 2024 10% et 2025 5%.\n\nTaux de delivry officiel 100%, mais quand des contacts nous répondent, on voit \"spam ou bulk\" dans l'objet de l'email.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Alors que notre spam score est excellent. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Enrichissement plusieurs fois par an"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Liste de contacts non engagés mis dans un frigo"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nAprès, on est sur un cible Enterprise cabinets de conseil. Donc ils ont dû s'équiper depuis en pare-feu de l'espace. Donc on se dit qu'une très grande partie de nos emails doivent tomber dans les spams, d'où le taux d'ouverture dégueulasse.\n\nEst-ce qu'on a chié dans la colle quelque part ? Est-ce un problème spécifique Hubspot ? Des conseils ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "cold_sweat",
+                "users": [
+                    "U03P99RGMTN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U08PEJM137X",
+        "type": "message",
+        "ts": "1762513603.696969",
+        "client_msg_id": "9506021d-892d-44db-8962-b0957184795c",
+        "text": "Il peut y avoir plusieurs raisons à cela - je te réponds en MP :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b98ee70a24e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-24\/9792276790672_b98ee70a24e8f7089231_72.png",
+            "first_name": "Séverine",
+            "real_name": "Séverine Loeuille",
+            "display_name": "Séverine Loeuille",
+            "team": "T017AGS2KE0",
+            "name": "loeuille.severine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762512784.364469",
+        "parent_user_id": "U03CY07UZJM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "csp+g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Il peut y avoir plusieurs raisons à cela - je te réponds en MP "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U092U6UDLMN",
+        "type": "message",
+        "ts": "1762514004.508199",
+        "client_msg_id": "39e174a0-fd8f-4387-a173-be7d5dc7e303",
+        "text": "Nous recevons tous au moins une bonne dizaines d'emails de prospection par jour, sans compter les appels téléphoniques. Il y a peut-être une sorte de saturation... Est-ce que vous envoyez aux contacts unengaged ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "e910bc968404",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-19\/9072876473829_e910bc968404c2c0b5d1_72.png",
+            "first_name": "Bastien",
+            "real_name": "Bastien Meaux (DialOnce)",
+            "display_name": "Bastien Meaux",
+            "team": "T017AGS2KE0",
+            "name": "bmeaux",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762512784.364469",
+        "parent_user_id": "U03CY07UZJM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6JM7t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nous recevons tous au moins une bonne dizaines d'emails de prospection par jour, sans compter les appels téléphoniques. Il y a peut-être une sorte de saturation... Est-ce que vous envoyez aux contacts unengaged ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03CY07UZJM",
+        "type": "message",
+        "ts": "1762518143.822849",
+        "client_msg_id": "52ab6831-c21c-4ed6-b7d9-4cbd05c6a62d",
+        "text": "merci Séverine !",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "cf1b09b1a910",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-02\/6894190939717_cf1b09b1a910eb11be75_72.jpg",
+            "first_name": "Patrice",
+            "real_name": "Patrice Barbesier",
+            "display_name": "Patrice Barbesier",
+            "team": "T017AGS2KE0",
+            "name": "patrice.barbesier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762512784.364469",
+        "parent_user_id": "U03CY07UZJM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yt3k8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "merci Séverine !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03CY07UZJM",
+        "type": "message",
+        "ts": "1762518168.844349",
+        "client_msg_id": "0bb0b466-a9a8-4b7f-8daf-5a75ff467e1e",
+        "text": "non Bastien, ce sont des contacts dans notre nurturing \/ email vérifié \/ contacts engagés uniquement",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "cf1b09b1a910",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-02\/6894190939717_cf1b09b1a910eb11be75_72.jpg",
+            "first_name": "Patrice",
+            "real_name": "Patrice Barbesier",
+            "display_name": "Patrice Barbesier",
+            "team": "T017AGS2KE0",
+            "name": "patrice.barbesier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762512784.364469",
+        "parent_user_id": "U03CY07UZJM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xPF1i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "non Bastien, ce sont des contacts dans notre nurturing \/ email vérifié \/ contacts engagés uniquement"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04SM1RGPJB",
+        "type": "message",
+        "ts": "1762525002.380779",
+        "client_msg_id": "16ead24a-7541-44b7-9b25-02a6d8170816",
+        "text": "On fait de moins en moins de mass mailing au profit des sequences plus précises. 3 à 5 adresses qui tournent côté growth pour un max de 500 emails\/jour, c'est une bonne base :slightly_smiling_face:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "c3b2da8e5d6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-20\/7300276948086_c3b2da8e5d6ec6eca38d_72.webp",
+            "first_name": "Selma",
+            "real_name": "Selma Chauvin",
+            "display_name": "Selma Chauvin",
+            "team": "T017AGS2KE0",
+            "name": "selma.chauvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762512784.364469",
+        "parent_user_id": "U03CY07UZJM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pGRjd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On fait de moins en moins de mass mailing au profit des sequences plus précises. 3 à 5 adresses qui tournent côté growth pour un max de 500 emails\/jour, c'est une bonne base "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CY07UZJM",
+                    "U03P99RGMTN",
+                    "U07BLPPL3C1"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06EN9X790C",
+        "type": "message",
+        "ts": "1762586368.015149",
+        "client_msg_id": "42E7B542-727C-40A1-9528-1AD8C0B475B8",
+        "text": "Hello à tous! \n\nSujet: alignement Pay plan SDR\/BDR &amp; Sales ! \n\nPour des SDR\/BDR qui prennent des rdv pour les sales terrain (et qui sont chez moi au marketing), les sales veulent que les commissions soient orientées ventes et moins nombre de rdv pris. Je comprends l’objectif, mais la philosophie me gêne car la mission première des SDR\/BDR est la prise de rdv. \nLa solution est sûrement un mix. \nQuelles sont vos bonnes pratiques sur le sujet ? Bonus réparti 50% sur rdv et 50% sur closed deal? Autre répartition ?\nAny tips? :pray:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "bea7f170501a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-20\/6503634777459_bea7f170501a9dc7d1c3_72.jpg",
+            "first_name": "Chiraz",
+            "real_name": "Chiraz Hassen",
+            "display_name": "Chiraz",
+            "team": "T017AGS2KE0",
+            "name": "chiraz.hassen558",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762586368.015149",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1762956017.788519",
+        "reply_users": [
+            "U09EFH6S1BQ",
+            "U04L35Y9D08"
+        ],
+        "replies": [
+            {
+                "user": "U09EFH6S1BQ",
+                "ts": "1762787664.968689"
+            },
+            {
+                "user": "U04L35Y9D08",
+                "ts": "1762956017.788519"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uphgc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello à tous! \n\nSujet: alignement Pay plan SDR\/BDR & Sales ! \n\nPour des SDR\/BDR qui prennent des rdv pour les sales terrain (et qui sont chez moi au marketing), les sales veulent que les commissions soient orientées ventes et moins nombre de rdv pris. Je comprends "
+                            },
+                            {
+                                "type": "text",
+                                "text": "l’objectif"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", mais la philosophie me gêne car la mission première des SDR\/BDR est la prise de rdv. \nLa solution est sûrement un mix. \nQuelles sont vos bonnes pratiques sur le sujet ? Bonus réparti 50% sur rdv et 50% sur closed deal? Autre répartition ?\nAny tips? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

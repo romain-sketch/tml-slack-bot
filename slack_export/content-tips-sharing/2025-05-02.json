@@ -1,0 +1,200 @@
+[
+    {
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "type": "message",
+        "ts": "1746171784.314919",
+        "thread_ts": "1746171784.314919",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1746173120.807309",
+        "reply_users": [
+            "U020QK16RMJ"
+        ],
+        "replies": [
+            {
+                "user": "U020QK16RMJ",
+                "ts": "1746173120.807309"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "user": "U020QK16RMJ",
+        "type": "message",
+        "ts": "1746173120.807309",
+        "client_msg_id": "4d002867-4a52-4c46-ad85-16a25f4bea17",
+        "text": "Salut, normalement c'est la raison pour laquelle tu as la feature \"Target Account\" qui correspond mieux à ces enjeux ABM d'account mapping et de suivi des activités par compte.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "56d8a678e801",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-18\/7292097443269_56d8a678e801350db84a_72.png",
+            "first_name": "Joël",
+            "real_name": "Joël Gaudeul",
+            "display_name": "Joël (Swan)",
+            "team": "T017AGS2KE0",
+            "name": "joel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1746171784.314919",
+        "parent_user_id": "USLACKBOT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LXcAV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salut, normalement c'est la raison pour laquelle tu as la feature \"Target Account\" qui correspond mieux à ces enjeux ABM d'account mapping et de suivi des activités par compte."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06UK9NGTB4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0859A8P14K",
+        "type": "message",
+        "ts": "1746187262.084889",
+        "client_msg_id": "6CB227A2-69AF-47F0-93B1-DC40F22FC0A4",
+        "text": "Pardon Tiphanie j’arrive un peu tard mais Maison du Danemark sur les Champs très chouette option! ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "de9373c86530",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8178910826725_de9373c86530dc48c9e8_72.png",
+            "first_name": "Alexandra",
+            "real_name": "Alexandra Lougovoy",
+            "display_name": "Alexandra Lougovoy (Eudonet)",
+            "team": "T017AGS2KE0",
+            "name": "a.lougovoy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1745508041.891059",
+        "parent_user_id": "U07D08K3U0K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FBUTK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pardon Tiphanie "
+                            },
+                            {
+                                "type": "text",
+                                "text": "j’arrive"
+                            },
+                            {
+                                "type": "text",
+                                "text": " un peu tard mais Maison du Danemark sur les Champs très chouette option! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0859A8P14K",
+        "type": "message",
+        "ts": "1746187815.592099",
+        "client_msg_id": "A44D89C8-8CB7-479C-9871-F742DF49D545",
+        "text": "Bonjour <@U07MNBM4WLV> je peux te recommander Assmahane Baghri (Linked In\/ Arts Brillants ) qui est bilingue est qui est free-lance content \/ coms \/ évents . Elle a bossé de nombreuses années chez Prestashop et je pense qu’elle pourrait t’aider dans cet effort de « transcréation «  (elle a l’esprit fun) :-) ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "de9373c86530",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8178910826725_de9373c86530dc48c9e8_72.png",
+            "first_name": "Alexandra",
+            "real_name": "Alexandra Lougovoy",
+            "display_name": "Alexandra Lougovoy (Eudonet)",
+            "team": "T017AGS2KE0",
+            "name": "a.lougovoy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1746003418.347249",
+        "parent_user_id": "U07MNBM4WLV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7riO9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07MNBM4WLV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "je peux te recommander Assmahane Baghri (Linked In\/ Arts Brillants ) qui est bilingue est qui est free-lance content \/ coms \/ évents . Elle a bossé de nombreuses années chez Prestashop et je pense qu’elle pourrait "
+                            },
+                            {
+                                "type": "text",
+                                "text": "t’aider"
+                            },
+                            {
+                                "type": "text",
+                                "text": " dans cet effort de « transcréation «  (elle a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "l’esprit"
+                            },
+                            {
+                                "type": "text",
+                                "text": " fun) :-) "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U07MNBM4WLV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

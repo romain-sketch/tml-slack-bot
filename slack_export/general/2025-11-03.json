@@ -1,0 +1,62 @@
+[
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1762159643.749309",
+        "client_msg_id": "bf0372dc-76df-40ea-bf8e-313d7a6995db",
+        "text": "S'il y en a que ça intéresse, voici les <https:\/\/www.notion.so\/hirondo\/Propositions-de-noms-inspi-D-A-299d2e20ba2f80b0bd4bd279cf3da1d9?source=copy_link|pistes> de noms et de _brand_.",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761749426.209639",
+        "parent_user_id": "U01A4GMRRR9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LdvTd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "S'il y en a que ça intéresse, voici les "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/hirondo\/Propositions-de-noms-inspi-D-A-299d2e20ba2f80b0bd4bd279cf3da1d9?source=copy_link",
+                                "text": "pistes"
+                            },
+                            {
+                                "type": "text",
+                                "text": " de noms et de "
+                            },
+                            {
+                                "type": "text",
+                                "text": "brand",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

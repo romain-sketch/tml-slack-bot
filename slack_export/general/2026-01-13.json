@@ -1,0 +1,146 @@
+[
+    {
+        "user": "U059T4KRCUC",
+        "type": "message",
+        "ts": "1768308331.033129",
+        "client_msg_id": "b0799289-1570-4021-aed6-8cd7f2e90bb4",
+        "text": "Hi everyone et très bonne année :wave:\nJ’ouvre un nouveau channel *<#C0A8HU9LTBN|b2c>* pour créer un espace dédié aux sujets spécifiquement B2C, avec leurs dynamiques et contraintes propres, qui ne recoupent pas toujours celles du B2B.\n Je n’ai pas toujours en tête qui travaille exclusivement sur du B2C ou du B2B2C, et ce channel permettra de se retrouver et d’échanger plus facilement.\nOn y discutera notamment de :\n• brand building en B2C\n• social media, créateurs et UGC avec des enjeux propres au consumer\n• dynamiques des app stores (ASO, featuring, notes, avis, conversion)\n• user growth, activation, rétention et lifecycle dans des environnements à fort volume\nSi vous travaillez sur des produits consumer (apps, marketplaces, e-commerce, consumer tech) ou si vous êtes simplement curieux des approches B2C, n’hésitez pas à rejoindre le channel :sparkles:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "57639ff481aa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-29\/5337202241186_57639ff481aa2740f127_72.png",
+            "first_name": "Isa",
+            "real_name": "Isa",
+            "display_name": "Isa",
+            "team": "T017AGS2KE0",
+            "name": "ilejeune",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S7O5I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone et très bonne année "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nJ’ouvre un nouveau channel "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0A8HU9LTBN",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour créer un espace dédié aux sujets spécifiquement B2C, avec leurs dynamiques et contraintes propres, qui ne recoupent pas toujours celles du B2B.\n Je n’ai pas toujours en tête qui travaille exclusivement sur du B2C ou du B2B2C, et ce channel permettra de se retrouver et d’échanger plus facilement.\nOn y discutera notamment de :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "brand building en B2C"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "social media, créateurs et UGC avec des enjeux propres au consumer"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "dynamiques des app stores (ASO, featuring, notes, avis, conversion)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "user growth, activation, rétention et lifecycle dans des environnements à fort volume"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si vous travaillez sur des produits consumer (apps, marketplaces, e-commerce, consumer tech) ou si vous êtes simplement curieux des approches B2C, n’hésitez pas à rejoindre le channel "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U078PFP7A4B",
+                    "U03QTQ36Q6T",
+                    "U03QPMQA31V",
+                    "U04R8454TA9",
+                    "U054GRSQCTX"
+                ],
+                "count": 5
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02N2EVMFCG",
+                    "U063A8VPPG9",
+                    "U03P99RGMTN",
+                    "U08PLD4KPS8",
+                    "U04R8454TA9",
+                    "U054GRSQCTX",
+                    "U06M6E5M524",
+                    "U080MUKK9BQ",
+                    "U07D08K3U0K"
+                ],
+                "count": 9
+            }
+        ]
+    }
+]

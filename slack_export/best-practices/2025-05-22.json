@@ -1,0 +1,49 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U08SX6ZDADD",
+        "text": "<@U08SX6ZDADD> has joined the channel",
+        "type": "message",
+        "ts": "1747918116.621069"
+    },
+    {
+        "user": "U0859A8P14K",
+        "type": "message",
+        "ts": "1747943439.007959",
+        "client_msg_id": "96D27196-7BD1-48D0-BB57-4F7AE39687B7",
+        "text": "Hello ! Si vous avez de bonnes pratiques ou références pour y améliorer vos référencements je suis preneuse ! ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "de9373c86530",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-16\/8178910826725_de9373c86530dc48c9e8_72.png",
+            "first_name": "Alexandra",
+            "real_name": "Alexandra Lougovoy",
+            "display_name": "Alexandra Lougovoy (Eudonet)",
+            "team": "T017AGS2KE0",
+            "name": "a.lougovoy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1747234891.964259",
+        "parent_user_id": "U078PFP7A4B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mTcZP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello ! Si vous avez de bonnes pratiques ou références pour y améliorer vos référencements je suis preneuse ! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

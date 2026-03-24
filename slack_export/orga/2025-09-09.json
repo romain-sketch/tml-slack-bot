@@ -1,0 +1,85 @@
+[
+    {
+        "user": "U0951RDNKU6",
+        "type": "message",
+        "ts": "1757413569.156349",
+        "client_msg_id": "f37194e6-1b82-4911-a232-b3ed0cc85ddc",
+        "text": "Hello <@U07D08K3U0K>\nLate feedback. Tout dépend de ce que tu mets derrière CRO mais je peux te donner 2 exemples de boîtes:\n• Qonto - product led et peu de sales \/ pas d'outbound - pas de CMO mais 1 CRO au COMEX qui gère en direct les Country Managers (mkg local + partnerships + field sales) et des Directors sur chaque fonctions globales (Acquisition, Brand &amp; Comms, Product Marketing, Inbound Sales, global partnerships, Rev Ops etc). \n• Payfit - CMO et Chief Sales Officer au Comex. Une boite super sales driven. 2 scopes bien distincts qui contribuent à parts quasi égales à la topline. ",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "85dcd88ccf2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-06\/9660924995297_85dcd88ccf2fa3d8be38_72.jpg",
+            "first_name": "Marion",
+            "real_name": "Marion de Robillard",
+            "display_name": "Marion de Robillard",
+            "team": "T017AGS2KE0",
+            "name": "marionderobillard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1755001302.841059",
+        "parent_user_id": "U07D08K3U0K",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HeCrs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07D08K3U0K"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nLate feedback. Tout dépend de ce que tu mets derrière CRO mais je peux te donner 2 exemples de boîtes:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Qonto - product led et peu de sales \/ pas d'outbound - pas de CMO mais 1 CRO au COMEX qui gère en direct les Country Managers (mkg local + partnerships + field sales) et des Directors sur chaque fonctions globales (Acquisition, Brand & Comms, Product Marketing, Inbound Sales, global partnerships, Rev Ops etc). "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Payfit - CMO et Chief Sales Officer au Comex. Une boite super sales driven. 2 scopes bien distincts qui contribuent à parts quasi égales à la topline. "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "blue_heart",
+                "users": [
+                    "U07D08K3U0K"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

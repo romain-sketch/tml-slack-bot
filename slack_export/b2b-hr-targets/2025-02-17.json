@@ -1,0 +1,118 @@
+[
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1739790877.879089",
+        "client_msg_id": "f6d218b3-ff37-4f3f-aa08-3ab0dd98b4be",
+        "text": "Hello ! Je me permets de revenir ici, déjà pour vous remercier pour vos retours :slightly_smiling_face: Est-ce que vous avez des contacts à la rédaction de RH Matin, Focus RH et myRHLine ? Et les coordonnées de Pierre &amp; Jeremy ?",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739511329.043329",
+        "parent_user_id": "U02N2EVMFCG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0\/9Yw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello ! Je me permets de revenir ici, déjà pour vous remercier pour vos retours "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Est-ce que vous avez des contacts à la rédaction de RH Matin, Focus RH et myRHLine ? Et les coordonnées de Pierre & Jeremy ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07LN85V6TG",
+        "type": "message",
+        "ts": "1739803814.265279",
+        "client_msg_id": "AB2C43F3-6242-4249-8B69-1F4D2646E725",
+        "text": "<mailto:pierre.monclos@gmail.com|pierre.monclos@gmail.com>\n<mailto:jeremy.lamri@tomorrowtheory.com|jeremy.lamri@tomorrowtheory.com>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "32409790ca44",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-11\/7707593936998_32409790ca44083a383f_72.png",
+            "first_name": "Leslie",
+            "real_name": "Leslie Tedgui",
+            "display_name": "Leslie Tedgui (CoachHub)",
+            "team": "T017AGS2KE0",
+            "name": "leslie.tedgui110",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1739511329.043329",
+        "parent_user_id": "U02N2EVMFCG",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HODNg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:pierre.monclos@gmail.com",
+                                "text": "pierre.monclos@gmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:jeremy.lamri@tomorrowtheory.com",
+                                "text": "jeremy.lamri@tomorrowtheory.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02N2EVMFCG",
+                    "U03P99RGMTN"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heart_hands",
+                "users": [
+                    "U02N2EVMFCG"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

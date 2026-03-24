@@ -1,0 +1,186 @@
+[
+    {
+        "user": "U06U1GG592M",
+        "type": "message",
+        "ts": "1758272155.987759",
+        "client_msg_id": "326c5e4d-302b-4adc-b86e-6755235cd803",
+        "text": ":bulb:*Recherche freelance Brand Designer (Meta Ads)*\nHello à tous !\nJe viens tout juste de revenir de mon congé maternité :breast-feeding: et me voilà déjà dans les starting blocks pour dénicher des talents :sparkles:\n:point_right: Je cherche un *freelance Brand Designer* pour rejoindre Veesion en support sur Q4.\n:dart: *Objectif :* booster la production d’assets Paid, en particulier pour Meta (ads statiques, vidéos courtes, déclinaisons créatives).\nNous avons besoin de quelqu’un qui sache :\n• itérer vite et tester de nouvelles créas,\n• renouveler en continu nos assets pour éviter la fatigue,\n• maîtriser les codes SMB \/ SaaS B2B international.\nSi vous avez un contact dispo rapidement, je suis preneuse :pray:",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "84a1e781f35c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-31\/7202740482978_84a1e781f35c228ca958_72.jpg",
+            "first_name": "Carolane",
+            "real_name": "Carolane Guyon",
+            "display_name": "Carolane (Veesion)",
+            "team": "T017AGS2KE0",
+            "name": "c.guyon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1758272155.987759",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1758521993.513479",
+        "reply_users": [
+            "U055KSYA2AH"
+        ],
+        "replies": [
+            {
+                "user": "U055KSYA2AH",
+                "ts": "1758521993.513479"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yOZsc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "bulb",
+                                "unicode": "1f4a1",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Recherche freelance Brand Designer (Meta Ads)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nHello à tous !\nJe viens tout juste de revenir de mon congé maternité "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "breast-feeding",
+                                "unicode": "1f931"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et me voilà déjà dans les starting blocks pour dénicher des talents "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_right",
+                                "unicode": "1f449"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Je cherche un "
+                            },
+                            {
+                                "type": "text",
+                                "text": "freelance Brand Designer",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour rejoindre Veesion en support sur Q4.\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dart",
+                                "unicode": "1f3af"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Objectif :",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " booster la production d’assets Paid, en particulier pour Meta (ads statiques, vidéos courtes, déclinaisons créatives).\nNous avons besoin de quelqu’un qui sache :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "itérer vite et tester de nouvelles créas,"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "renouveler en continu nos assets pour éviter la fatigue,"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "maîtriser les codes SMB \/ SaaS B2B international."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si vous avez un contact dispo rapidement, je suis preneuse "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02N2EVMFCG"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

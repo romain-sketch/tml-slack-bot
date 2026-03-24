@@ -1,0 +1,77 @@
+[
+    {
+        "user": "U017CURDPB5",
+        "type": "message",
+        "ts": "1760365698.931349",
+        "client_msg_id": "7d320f64-19ec-4b4f-bcf2-cb1f4bbfb75d",
+        "text": "Sinon quelqu'un a essayé <https:\/\/cluely.com\/> ? C'est comme Modjo mais ca donne les recos\/insights aux sales en temps reel (Modjo c'est asynchrone)",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "671ad569fbc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5982967598243_671ad569fbc40977de70_72.jpg",
+            "first_name": "David",
+            "real_name": "David Remaud",
+            "display_name": "David Remaud (iBanFirst)",
+            "team": "T017AGS2KE0",
+            "name": "david.remaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759735293.769739",
+        "parent_user_id": "U09BVQYR1GA",
+        "attachments": [
+            {
+                "image_url": "https:\/\/cluely.com\/social-previews\/index.jpg",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 74784,
+                "from_url": "https:\/\/cluely.com\/",
+                "service_icon": "https:\/\/cluely.com\/favicon\/light\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/cluely.com\/",
+                "fallback": "Cluely: Cluely - Live AI Meeting Assistant | Real-Time Meeting Notes and AI Insights",
+                "text": "AI meeting assistant that provides live meeting notes, instant answers, and real-time insights during calls. Unlike Otter or Granola, helps you during meetings, not just after.",
+                "title": "Cluely - Live AI Meeting Assistant | Real-Time Meeting Notes and AI Insights",
+                "title_link": "https:\/\/cluely.com\/",
+                "service_name": "Cluely"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a12Du",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sinon quelqu'un a essayé "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/cluely.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ? C'est comme Modjo mais ca donne les recos\/insights aux sales en temps reel (Modjo c'est asynchrone)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "x",
+                "users": [
+                    "U025AMSNGF8",
+                    "U063A8VPPG9"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

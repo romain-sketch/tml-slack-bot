@@ -1,0 +1,101 @@
+[
+    {
+        "user": "U01MVJPEEH3",
+        "type": "message",
+        "ts": "1751452464.556539",
+        "client_msg_id": "1EF3E441-A735-4E12-8569-CF762D8D51F0",
+        "text": "Hello, Alice Baleton qui me remplace en part time CMO serait intéressée pour rejoindre le groupe : <https:\/\/www.linkedin.com\/in\/alicebaleton?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=ios_app|https:\/\/www.linkedin.com\/in\/alicebaleton?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=ios_app>\nAvant d'être en free-lance, elle a travaillé chez Blablacar et a été CMO  de Clever Connect et Unow",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "b4a6a5004b64",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-06\/9627187901735_b4a6a5004b643abc6bec_72.png",
+            "first_name": "Camille",
+            "real_name": "Camille Moreau",
+            "display_name": "Camille Moreau (Mantu)",
+            "team": "T017AGS2KE0",
+            "name": "camille.moreau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/in\/alicebaleton?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+                "thumb_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/C4D03AQGjApWKCj-8-w\/profile-displayphoto-shrink_200_200\/profile-displayphoto-shrink_200_200\/0\/1561572668649?e=2147483647&v=beta&t=4dnTDbZCD-LNQ_eRlHJnQIx7ut2zlWDxkG3hxoNKJ7U",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/in\/alicebaleton?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=ios_app",
+                "fallback": "Alice Baleton - Self-employed | LinkedIn",
+                "text": "+ de 12 ans d&amp;#39;expérience en tant que CMO et membre de Comex, en B2C et B2B, de 15 à 500… · Expérience : Self-employed · Formation : HEC Paris · Lieu : Paris et périphérie · 500 relations ou plus sur LinkedIn. Consultez le profil de Alice Baleton sur LinkedIn, une communauté professionnelle d’un milliard de membres.",
+                "title": "Alice Baleton - Self-employed | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/in\/alicebaleton?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6fc+y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, Alice Baleton qui me remplace en part time CMO serait intéressée pour rejoindre le groupe : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/alicebaleton?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+                                "text": "https:\/\/www.linkedin.com\/in\/alicebaleton?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nAvant d'être en free-lance, elle a travaillé chez Blabl"
+                            },
+                            {
+                                "type": "text",
+                                "text": "acar et a été CMO  de Clever Connect et Unow"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U08PLD4KPS8",
+                    "U03P99RGMTN",
+                    "U092PH1F2CA"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U092U6UDLMN",
+                    "U067VEJFT5F",
+                    "U03P99RGMTN",
+                    "U06LENY5V6Z",
+                    "U06MHCCLQG3",
+                    "U06UK9NGTB4",
+                    "U06DYTRDLUD"
+                ],
+                "count": 7
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U017H09S857",
+                    "U04SM1RGPJB"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

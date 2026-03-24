@@ -1,0 +1,76 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U0946E8A2US",
+        "text": "<@U0946E8A2US> has joined the channel",
+        "type": "message",
+        "ts": "1752046183.312729"
+    },
+    {
+        "user": "U0177A5V42F",
+        "type": "message",
+        "ts": "1752130260.409849",
+        "client_msg_id": "4af098f3-3353-4b05-83f8-0c2955eec30d",
+        "text": "Hello, ma boîte est en sélection officielle du prix Galien (équivalent Nobel pour la pharma\/medtech) cette année !\nSi vous pouvez m'aider à faire un peu de bruit autour de notre dossier ce serait top.\nUn immense merci !\n<https:\/\/www.linkedin.com\/posts\/guillaumelaguette_prixgalien-medtech-innovationsantaez-activity-7348964929078460417-apux?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAALzGacBqX9hQ_X_FEccUnAvfwuZ3O9wiNc|https:\/\/www.linkedin.com\/posts\/guillaumelaguette_prixgalien-medtech-innovationsantaez[…]m=member_desktop&amp;rcm=ACoAAALzGacBqX9hQ_X_FEccUnAvfwuZ3O9wiNc>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "7ebca9b04129",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-17\/1245815650949_7ebca9b041296679a81d_72.jpg",
+            "first_name": "Guillaume",
+            "real_name": "Guillaume Laguette",
+            "display_name": "Guillaume Laguette (echOpen)",
+            "team": "T017AGS2KE0",
+            "name": "laguette.guillaume",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YME7q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, ma boîte est en sélection officielle du prix Galien (équivalent Nobel pour la pharma\/medtech) cette année !\nSi vous pouvez m'aider à faire un peu de bruit autour de notre dossier ce serait top.\nUn immense merci !\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/posts\/guillaumelaguette_prixgalien-medtech-innovationsantaez-activity-7348964929078460417-apux?utm_source=share&utm_medium=member_desktop&rcm=ACoAAALzGacBqX9hQ_X_FEccUnAvfwuZ3O9wiNc",
+                                "text": "https:\/\/www.linkedin.com\/posts\/guillaumelaguette_prixgalien-medtech-innovationsantaez[…]m=member_desktop&rcm=ACoAAALzGacBqX9hQ_X_FEccUnAvfwuZ3O9wiNc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U042GV737MX",
+                    "U03CY07UZJM",
+                    "U063A8VPPG9",
+                    "U01A4GMRRR9",
+                    "U08EN5T6F4L",
+                    "U01MVJPEEH3",
+                    "U06LENY5V6Z"
+                ],
+                "count": 7
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U0946E8A2US",
+                    "U08PLD4KPS8",
+                    "U01MVJPEEH3"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U088J9RFEH2",
+        "text": "<@U088J9RFEH2> has joined the channel",
+        "type": "message",
+        "ts": "1736843838.107909"
+    },
+    {
+        "user": "U023C4UJPGQ",
+        "type": "message",
+        "ts": "1736857200.286199",
+        "edited": {
+            "user": "U023C4UJPGQ",
+            "ts": "1736857223.000000"
+        },
+        "client_msg_id": "e5f5b758-57fe-465f-b50d-d1c94f85b1a7",
+        "text": "Hello à tous, besoin de love sur ce post svp <https:\/\/www.linkedin.com\/posts\/bouazizjonathan_loptimisation-des-tourn%C3%A9es-logistiques-na-activity-7284856815530475523-XT5a?utm_source=share&utm_medium=member_desktop|https:\/\/www.linkedin.com\/posts\/bouazizjonathan_loptimisation-des-tourn%C3%A9es-logist[…]815530475523-XT5a?utm_source=share&utm_medium=member_desktop>",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "9af156b2e525",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-21\/2089401596277_9af156b2e525439de884_72.jpg",
+            "first_name": "",
+            "real_name": "Perrine Texier",
+            "display_name": "Perrine Texier",
+            "team": "T017AGS2KE0",
+            "name": "perrine.texier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/media.licdn.com\/dms\/image\/v2\/D4E05AQFgDVhr3-VaSg\/videocover-high\/B4EZRfsu0OHMBs-\/0\/1736772355588?e=2147483647&v=beta&t=6hWo-kSVFJsdq-Q_hxdnB0z3-orJrcA_seejoQvtLr4",
+                "image_width": 404,
+                "image_height": 720,
+                "image_bytes": 18136,
+                "from_url": "https:\/\/www.linkedin.com\/posts\/bouazizjonathan_loptimisation-des-tourn%C3%A9es-logistiques-na-activity-7284856815530475523-XT5a?utm_source=share&utm_medium=member_desktop",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/posts\/bouazizjonathan_loptimisation-des-tourn%C3%A9es-logistiques-na-activity-7284856815530475523-XT5a?utm_source=share&amp;utm_medium=member_desktop",
+                "fallback": "Jonathan Bouaziz sur LinkedIn : L&amp;#39;optimisation des tournées logistiques n&amp;#39;a jamais fonctionné jusqu&amp;#39;à…",
+                "text": "L&amp;#39;optimisation des tournées logistiques n&amp;#39;a jamais fonctionné jusqu&amp;#39;à présent.\nParce que les algorithmes imposaient leurs règles sans comprendre la réalité du…",
+                "title": "Jonathan Bouaziz sur LinkedIn : L&amp;#39;optimisation des tournées logistiques n&amp;#39;a jamais fonctionné jusqu&amp;#39;à…",
+                "title_link": "https:\/\/www.linkedin.com\/posts\/bouazizjonathan_loptimisation-des-tourn%C3%A9es-logistiques-na-activity-7284856815530475523-XT5a?utm_source=share&utm_medium=member_desktop",
+                "service_name": "fr.linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8YRmV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello à tous, besoin de love sur ce post svp "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/posts\/bouazizjonathan_loptimisation-des-tourn%C3%A9es-logistiques-na-activity-7284856815530475523-XT5a?utm_source=share&utm_medium=member_desktop",
+                                "text": "https:\/\/www.linkedin.com\/posts\/bouazizjonathan_loptimisation-des-tourn%C3%A9es-logist[…]815530475523-XT5a?utm_source=share&utm_medium=member_desktop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

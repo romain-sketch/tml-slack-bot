@@ -1,0 +1,126 @@
+[
+    {
+        "user": "U032T5N7UTY",
+        "type": "message",
+        "ts": "1758613361.149829",
+        "client_msg_id": "6835d0c4-42e3-479e-827a-7c05c631cab1",
+        "text": "Présent le mardi 7 (pour une fois !).\n\nJe peux partager des REX sur mes sujets du moments, qui ne sont ne pas toujours communs pour nos boites tech :\n• marketing sportif (cf : <https:\/\/www.linkedin.com\/posts\/maximebaumard_meme-presentezvous-factureelectronique-activity-7369244077764034561-eyQZ?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAAJ906AB8ZB7N3DX_xaySYRM_K6aZNoQkIo|Pennylane x LNR>)\n• mass media, TV &amp; Radio (cf :<https:\/\/www.linkedin.com\/posts\/maximebaumard_quand-la-compta-va-tout-va-activity-7376129464742600704-9zOy?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAAJ906AB8ZB7N3DX_xaySYRM_K6aZNoQkIo| campagne actuelle)>\nCe qui me questionne actuellement :\n• usage des career path dans les équipes marketing\n• vision budget 2026",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "026d818af51e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-14\/3105470112116_026d818af51e6af78591_72.png",
+            "first_name": "Maxime",
+            "real_name": "Maxime Baumard",
+            "display_name": "Maxime Baumard (Pennylane)",
+            "team": "T017AGS2KE0",
+            "name": "maxime.baumard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757496166.772069",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YtQEx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Présent le mardi 7 (pour une fois !).\n\nJe peux partager des REX sur mes sujets du moments, qui ne sont ne pas toujours communs pour nos boites tech :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "marketing sportif (cf : "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.linkedin.com\/posts\/maximebaumard_meme-presentezvous-factureelectronique-activity-7369244077764034561-eyQZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAJ906AB8ZB7N3DX_xaySYRM_K6aZNoQkIo",
+                                        "text": "Pennylane x LNR"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ")"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "mass media, TV & Radio (cf :"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.linkedin.com\/posts\/maximebaumard_quand-la-compta-va-tout-va-activity-7376129464742600704-9zOy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAJ906AB8ZB7N3DX_xaySYRM_K6aZNoQkIo",
+                                        "text": " campagne actuelle)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nCe qui me questionne actuellement :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "usage des career path dans les équipes marketing"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "vision budget 2026"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U06DYTRDLUD"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

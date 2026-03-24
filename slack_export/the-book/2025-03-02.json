@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U02N2EVMFCG",
+        "type": "message",
+        "ts": "1740950829.598019",
+        "client_msg_id": "516793fb-80af-4277-80b2-ee4a38a8ff44",
+        "text": "J'ai créé une <https:\/\/www.notion.so\/hirondo\/Event-France-Digitale-Cercle-des-CMO-ft-TechMarketingLeaders-1a6d2e20ba2f80959f0aec2cce285790?pvs=4|page Notion> pour que vous puissiez mettre vos notes, je ne pourrai y contribuer qu'à partir de mercredi",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "5873209a162c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-06-06\/7219198594167_5873209a162c60dec6cc_72.png",
+            "first_name": "Yannig",
+            "real_name": "Yannig Roth",
+            "display_name": "Yannig (Hirondo, VirtualBrowser)",
+            "team": "T017AGS2KE0",
+            "name": "yannigroth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740410245.663669",
+        "parent_user_id": "U017H09S857",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YWBq5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai créé une "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/hirondo\/Event-France-Digitale-Cercle-des-CMO-ft-TechMarketingLeaders-1a6d2e20ba2f80959f0aec2cce285790?pvs=4",
+                                "text": "page Notion"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour que vous puissiez mettre vos notes, je ne pourrai y contribuer qu'à partir de mercredi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

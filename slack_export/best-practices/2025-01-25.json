@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U06LENY5V6Z",
+        "type": "message",
+        "ts": "1737814357.054559",
+        "client_msg_id": "88b0c745-61df-42d3-9f23-1b8eb4fd4016",
+        "text": "hello, en phase avec tout ça. De mon côté, si c'est aussi dans le scope, j'ai une liste de use cases orientés marketing retail",
+        "team": "T017AGS2KE0",
+        "user_team": "T017AGS2KE0",
+        "source_team": "T017AGS2KE0",
+        "user_profile": {
+            "avatar_hash": "848090157b3c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-26\/6702750742819_848090157b3c5d209ab6_72.jpg",
+            "first_name": "Gaëlle",
+            "real_name": "Gaëlle Dumur",
+            "display_name": "Gaëlle Dumur",
+            "team": "T017AGS2KE0",
+            "name": "gaelle.dumur",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1737704264.055269",
+        "parent_user_id": "U063A8VPPG9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "axdjg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello, en phase avec tout ça. De mon côté, si c'est aussi dans le scope, j'ai une liste de use cases orientés marketing retail"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
