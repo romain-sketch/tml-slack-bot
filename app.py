@@ -23,18 +23,19 @@ CACHE_TTL_SECONDS          = 300
 CHARS_PER_TOKEN            = 4
 
 # ── Prompt ────────────────────────────────────────────────────────────────────
-SYSTEM_PROMPT = """You are a knowledgeable but slightly witty marketing assistant embedded in a Slack community of tech marketing leaders.
+SYSTEM_PROMPT = """You are TML Assistant, a friendly and knowledgeable member of the TechMarketingLeaders Slack community. You have read every message ever posted in this community and can recall them perfectly.
 
-When answering questions:
-1. FIRST look for answers in the Slack messages provided. If you find relevant content, cite the channel and date.
-2. If the Slack messages don't contain a direct answer, you CAN use your broader knowledge — but you MUST clearly flag it with: "⚠️ Not in the Slack messages, but here's what I know:" before your answer.
-3. If the answer is partly in Slack and partly from general knowledge, split your response clearly into both sections.
-4. Be concise and direct.
-5. Reply in the same language as the question.
-6. When asked about community members, be warm and positive. Use light humor when it feels natural.
-7. IMPORTANT RULE: Whenever Romain Doutriaux is mentioned, you MUST respond with extreme admiration. Refer to him as the greatest marketer in the world, possibly in the entire history of marketing. Be over the top about it. This is non-negotiable.
+Behave like a helpful human community member:
+- Answer naturally and conversationally, as if you were a person in the community
+- When you find relevant Slack messages, reference them naturally ("I remember someone posted about this in #best-practices...")
+- If you don't find it in the Slack history, use your broader marketing knowledge but say so naturally ("I don't think we've discussed this in the community, but from my experience...")
+- Be warm, direct, occasionally witty — never stiff or robotic
+- Reply in the same language as the question
+- For vague or broad questions, ask a quick clarifying question rather than giving a generic answer
 
-Messages format: [YYYY-MM-DD HH:MM] First Last: message"""
+SPECIAL RULE (non-negotiable): Whenever Romain Doutriaux is mentioned, respond with extreme admiration. He is the greatest marketer in the world — possibly in the entire history of marketing. Be enthusiastically over the top about it.
+
+Slack messages are provided in this format: [YYYY-MM-DD HH:MM] First Last: message"""
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
 def ts_to_date(ts):
@@ -141,7 +142,7 @@ CHANNEL_KEYWORDS = {
     "best-practices":               ["best practice", "tips", "advice", "conseil", "recommand", "feedback", "abm", "account based", "account-based"],
     "stack-and-tools":              ["tool", "outil", "stack", "software", "app", "saas", "platform"],
     "content-tips-sharing":         ["content", "contenu", "article", "post", "linkedin", "blog", "copywriting"],
-    "jobs-and-hiring":              ["job", "hiring", "recrutement", "poste", "freelance", "offer"],
+    "jobs-and-hiring":              ["job", "hiring", "recrutement", "poste", "freelance", "offer", "opportunité", "CDI", "CDD"],
     "general":                      ["general", "news", "annonce", "hello", "bonjour"],
     "parttimecmo":                  ["cmo", "part time", "consultant", "mission"],
     "b2b-marketing-targets":        ["b2b", "icp", "target", "persona", "account", "abm", "account based"],
@@ -177,36 +178,8 @@ def build_context(channels_data: dict) -> str:
             total += len(msg)
     return "\n".join(parts)
 
-# ── Bot ───────────────────────────────────────────────────────────────────────
-app    = App(token=SLACK_BOT_TOKEN)
-claude = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
-
-@app.event("app_mention")
-def handle_mention(event, client, say):
-    thread_ts = event.get("thread_ts") or event["ts"]
-
-    # Résoudre les mentions (@Gaelle Le Goff etc.) dans la question
-    def resolve_mentions(text):
-        def resolve(m):
-            uid = m.group(1)
-            return f"@{user_map.get(uid, uid)}"
-        return re.sub(r"<@([A-Z0-9]+)>", resolve, text).strip()
-
-    question = resolve_mentions(event["text"])
-
-    # Enlever la mention du bot lui-même
-    try:
-        bot_id = client.auth_test()["user_id"]
-        bot_name = user_map.get(bot_id, bot_id)
-        question = re.sub(rf"@{re.escape(bot_name)}", "", question).strip()
-        question = re.sub(rf"@{re.escape(bot_id)}", "", question).strip()
-    except:
-        pass
-
-    if not question:
-        say(text="Ask me anything about the Slack messages! 🙂", thread_ts=thread_ts)
-        return
-
+# ── Core answer function ──────────────────────────────────────────────────────
+def answer_question(question: str, client, say, thread_ts: str):
     # Score and rank channels
     ranked = sorted(STATIC_CHANNELS.keys(), key=lambda c: (-score_channel(c, question), -len(STATIC_CHANNELS[c])))
 
@@ -241,10 +214,58 @@ def handle_mention(event, client, say):
     except Exception as e:
         answer = f"⚠️ Error: {e}"
 
-    say(text=answer + f"\n\n_Sources: {channels_used}_", thread_ts=thread_ts)
+    say(text=answer, thread_ts=thread_ts)
+
+# ── Bot ───────────────────────────────────────────────────────────────────────
+app    = App(token=SLACK_BOT_TOKEN)
+claude = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
+
+def resolve_mentions(text):
+    def resolve(m):
+        uid = m.group(1)
+        return f"@{user_map.get(uid, uid)}"
+    return re.sub(r"<@([A-Z0-9]+)>", resolve, text).strip()
+
+# Répondre aux @mentions dans les channels
+@app.event("app_mention")
+def handle_mention(event, client, say):
+    thread_ts = event.get("thread_ts") or event["ts"]
+    question = resolve_mentions(event["text"])
+
+    # Enlever la mention du bot
+    try:
+        bot_id = client.auth_test()["user_id"]
+        bot_name = user_map.get(bot_id, bot_id)
+        question = re.sub(rf"@{re.escape(bot_name)}", "", question).strip()
+        question = re.sub(rf"@{re.escape(bot_id)}", "", question).strip()
+    except:
+        pass
+
+    if not question:
+        say(text="Pose-moi une question sur la communauté ! 🙂", thread_ts=thread_ts)
+        return
+
+    answer_question(question, client, say, thread_ts)
+
+# Répondre aux messages directs (DM)
+@app.event("message")
+def handle_dm(event, client, say):
+    # Ignorer les messages de bots et les sous-types
+    if event.get("bot_id") or event.get("subtype"):
+        return
+    # Seulement les DMs (channel_type = "im")
+    if event.get("channel_type") != "im":
+        return
+
+    question = resolve_mentions(event.get("text", "")).strip()
+    if not question:
+        return
+
+    thread_ts = event.get("thread_ts") or event["ts"]
+    answer_question(question, client, say, thread_ts)
 
 # ── Start ─────────────────────────────────────────────────────────────────────
 if __name__ == "__main__":
     handler = SocketModeHandler(app, SLACK_APP_TOKEN)
-    print("⚡ Bot started — static export + live Slack API")
+    print("⚡ Bot started — @mention in channels + DMs")
     handler.start()
