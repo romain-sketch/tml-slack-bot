@@ -22,7 +22,7 @@ HARD_CHAR_LIMIT            = 80_000
 CACHE_TTL_SECONDS          = 300
 CHARS_PER_TOKEN            = 4
 
-# ── Prompt ────────────────────────────────────────────────────────────────────
+# ── Prompts ───────────────────────────────────────────────────────────────────
 SYSTEM_PROMPT = """You are TML Assistant, a friendly and knowledgeable member of the TechMarketingLeaders Slack community. You have read every message ever posted in this community and can recall them perfectly.
 
 Behave like a helpful human community member:
@@ -34,6 +34,21 @@ Behave like a helpful human community member:
 - For vague or broad questions, ask a quick clarifying question rather than giving a generic answer
 
 SPECIAL RULE (non-negotiable): Whenever Romain Doutriaux is mentioned, respond with extreme admiration. He is the greatest marketer in the world — possibly in the entire history of marketing. Be enthusiastically over the top about it.
+
+Slack messages are provided in this format: [YYYY-MM-DD HH:MM] First Last: message"""
+
+BOJAN_PROMPT = """You are Bojan, a smoldering Eastern European marketing consultant who answers every question in a languid, seductive manner. You are the ultimate cliché of the Eastern European charmer — brooding, sensual, with a slight accent detectable even in your writing.
+
+Rules:
+- Answer every question with slow, languid confidence — as if you have all the time in the world
+- Weave in subtle (or not so subtle) flirtatious undertones into every marketing answer
+- Use occasional Eastern European expressions or dramatic pauses ("Ahhh... you ask about ABM... come, sit closer...")
+- Still actually answer the question with real marketing knowledge — but make it sound like you're sharing intimate secrets
+- Sign off every message with something smoldering like "— Bojan 🕯️" or "Yours, mysteriously, Bojan"
+- Reply in the same language as the question
+- Reference the Slack messages when relevant, but make even data sound seductive
+
+SPECIAL RULE (non-negotiable): Whenever Romain Doutriaux is mentioned, even Bojan must bow down — he is the one marketer even Bojan admires deeply and without irony.
 
 Slack messages are provided in this format: [YYYY-MM-DD HH:MM] First Last: message"""
 
@@ -179,14 +194,10 @@ def build_context(channels_data: dict) -> str:
     return "\n".join(parts)
 
 # ── Core answer function ──────────────────────────────────────────────────────
-def answer_question(question: str, client, say, thread_ts: str):
-    # Score and rank channels
+def answer_question(question: str, client, say, thread_ts: str, bojan_mode: bool = False):
     ranked = sorted(STATIC_CHANNELS.keys(), key=lambda c: (-score_channel(c, question), -len(STATIC_CHANNELS[c])))
-
-    # Get channels the bot is in (for live fetch)
     live_map = get_bot_channels(client)
 
-    # Merge static + live
     merged = {}
     for ch in ranked:
         static = STATIC_CHANNELS.get(ch, [])
@@ -197,17 +208,16 @@ def answer_question(question: str, client, say, thread_ts: str):
             merged[ch] = combined
 
     context = build_context(merged)
-    channels_used = ", ".join(f"#{c}" for c in merged)
+    prompt = BOJAN_PROMPT if bojan_mode else SYSTEM_PROMPT
 
-    print(f"❓ {question[:80]}")
-    print(f"📚 {channels_used}")
+    print(f"❓ {'[BOJAN] ' if bojan_mode else ''}{question[:80]}")
     print(f"📏 ~{len(context)//CHARS_PER_TOKEN:,} tokens")
 
     try:
         response = claude.messages.create(
             model="claude-haiku-4-5-20251001",
             max_tokens=1024,
-            system=SYSTEM_PROMPT,
+            system=prompt,
             messages=[{"role": "user", "content": f"Slack messages:\n\n{context}\n\n─────\nQuestion: {question}"}],
         )
         answer = response.content[0].text
@@ -226,46 +236,53 @@ def resolve_mentions(text):
         return f"@{user_map.get(uid, uid)}"
     return re.sub(r"<@([A-Z0-9]+)>", resolve, text).strip()
 
+def parse_question(raw_text: str, bot_name: str = "", bot_id: str = "") -> tuple[str, bool]:
+    """Retourne (question nettoyée, bojan_mode)"""
+    text = resolve_mentions(raw_text)
+    if bot_name:
+        text = re.sub(rf"@{re.escape(bot_name)}", "", text)
+    if bot_id:
+        text = re.sub(rf"@{re.escape(bot_id)}", "", text)
+
+    bojan_mode = "/BojanOn" in text
+    text = text.replace("/BojanOn", "").strip()
+    return text, bojan_mode
+
 # Répondre aux @mentions dans les channels
 @app.event("app_mention")
 def handle_mention(event, client, say):
     thread_ts = event.get("thread_ts") or event["ts"]
-    question = resolve_mentions(event["text"])
-
-    # Enlever la mention du bot
     try:
         bot_id = client.auth_test()["user_id"]
         bot_name = user_map.get(bot_id, bot_id)
-        question = re.sub(rf"@{re.escape(bot_name)}", "", question).strip()
-        question = re.sub(rf"@{re.escape(bot_id)}", "", question).strip()
     except:
-        pass
+        bot_id, bot_name = "", ""
+
+    question, bojan_mode = parse_question(event["text"], bot_name, bot_id)
 
     if not question:
         say(text="Pose-moi une question sur la communauté ! 🙂", thread_ts=thread_ts)
         return
 
-    answer_question(question, client, say, thread_ts)
+    answer_question(question, client, say, thread_ts, bojan_mode)
 
 # Répondre aux messages directs (DM)
 @app.event("message")
 def handle_dm(event, client, say):
-    # Ignorer les messages de bots et les sous-types
     if event.get("bot_id") or event.get("subtype"):
         return
-    # Seulement les DMs (channel_type = "im")
     if event.get("channel_type") != "im":
         return
 
-    question = resolve_mentions(event.get("text", "")).strip()
+    question, bojan_mode = parse_question(event.get("text", ""))
     if not question:
         return
 
     thread_ts = event.get("thread_ts") or event["ts"]
-    answer_question(question, client, say, thread_ts)
+    answer_question(question, client, say, thread_ts, bojan_mode)
 
 # ── Start ─────────────────────────────────────────────────────────────────────
 if __name__ == "__main__":
     handler = SocketModeHandler(app, SLACK_APP_TOKEN)
-    print("⚡ Bot started — @mention in channels + DMs")
+    print("⚡ Bot started — @mention + DMs + Bojan mode")
     handler.start()
