@@ -67,7 +67,7 @@ def clean_text(text, user_map):
     text = re.sub(r"<(https?://[^>]+)>", r"\1", text)
     return text.strip()
 
-# ── Date extraction from question ─────────────────────────────────────────────
+# ── Date & channel extraction ─────────────────────────────────────────────────
 DAYS_PREFIX = r"(?:lundi|mardi|mercredi|jeudi|vendredi|samedi|dimanche|monday|tuesday|wednesday|thursday|friday|saturday|sunday)?\s*"
 
 MONTHS_FR = {
@@ -83,18 +83,42 @@ MONTHS_EN = {
 ALL_MONTHS = {**MONTHS_FR, **MONTHS_EN}
 MONTH_PATTERN = "|".join(ALL_MONTHS.keys())
 
+MONTH_TRIGGER_WORDS = [
+    "mois de", "sur le mois", "sur mars", "sur avril", "sur juin", "sur juillet",
+    "sur août", "sur septembre", "sur octobre", "sur novembre", "sur décembre",
+    "en janvier", "en février", "en mars", "en avril", "en mai", "en juin",
+    "en juillet", "en août", "en septembre", "en octobre", "en novembre", "en décembre",
+    "in january", "in february", "in march", "in april", "in may", "in june",
+    "in july", "in august", "in september", "in october", "in november", "in december",
+    "during", "throughout",
+]
+
+
+def extract_channel_filter(question: str, live_map: dict) -> str | None:
+    """
+    Détecte si la question porte sur un canal spécifique.
+    Retourne le nom du canal ou None.
+    """
+    q = question.lower()
+    # Cherche "#nom-canal" ou "channel nom-canal" ou "canal nom-canal"
+    mention = re.search(r"#([\w\-]+)", q)
+    if mention:
+        ch = mention.group(1)
+        if ch in live_map:
+            return ch
+
+    # Cherche le nom d'un canal connu dans la question
+    for ch_name in live_map:
+        if ch_name in q or ch_name.replace("-", " ") in q:
+            return ch_name
+
+    return None
+
 
 def extract_date_range(question: str) -> tuple:
     """
     Détecte une plage de dates dans la question.
     Retourne (oldest_ts, latest_ts) en timestamps Unix, ou (None, None).
-    Supporte :
-      - "du 23 mars au 29 mars"
-      - "lundi 23 mars au dimanche 29 mars"
-      - "semaine du 23 mars"
-      - "cette semaine" / "last week"
-      - "aujourd'hui" / "today"
-      - "hier" / "yesterday"
     """
     now = datetime.now(tz=timezone.utc)
     q = question.lower()
@@ -123,8 +147,29 @@ def extract_date_range(question: str) -> tuple:
         end = start + timedelta(days=1)
         return start.timestamp(), end.timestamp()
 
-    # Plage explicite avec ou sans jour de semaine :
-    # "du 23 mars au 29 mars" / "lundi 23 mars au dimanche 29 mars"
+    # "mois de mars 2026" / "en mars" / "in march 2026"
+    if any(x in q for x in MONTH_TRIGGER_WORDS):
+        month_pat = re.search(rf"({MONTH_PATTERN})\s*(\d{{4}})?", q)
+        if month_pat:
+            m_str, year_str = month_pat.groups()
+            if m_str in ALL_MONTHS:
+                m = ALL_MONTHS[m_str]
+                year = int(year_str) if year_str else now.year
+                try:
+                    start = datetime(year, m, 1, tzinfo=timezone.utc)
+                    if m == 12:
+                        end = datetime(year + 1, 1, 1, tzinfo=timezone.utc) - timedelta(seconds=1)
+                    else:
+                        end = datetime(year, m + 1, 1, tzinfo=timezone.utc) - timedelta(seconds=1)
+                    # Ne pas fetcher le futur
+                    if start <= now:
+                        end = min(end, now)
+                        return start.timestamp(), end.timestamp()
+                except:
+                    pass
+
+    # Plage explicite : "du/from [jour] 23 mars au/to [jour] 29 mars"
+    # Couvre aussi "lundi 23 mars au dimanche 29 mars" sans "du"
     range_pat = re.search(
         rf"(?:du|from)?\s*{DAYS_PREFIX}(\d{{1,2}})\s+({MONTH_PATTERN})?\s*"
         rf"(?:au|to|until)\s*{DAYS_PREFIX}(\d{{1,2}})\s+({MONTH_PATTERN})",
@@ -138,7 +183,6 @@ def extract_date_range(question: str) -> tuple:
         try:
             start = datetime(year, m1, int(d1), tzinfo=timezone.utc)
             end   = datetime(year, m2, int(d2), 23, 59, 59, tzinfo=timezone.utc)
-            # Si la plage est dans le futur, essaie l'année précédente
             if start > now:
                 start = start.replace(year=year - 1)
                 end   = end.replace(year=year - 1)
@@ -310,30 +354,49 @@ def answer_question(question: str, client, say, thread_ts: str, bojan_mode: bool
     oldest_ts, latest_ts = extract_date_range(question)
     date_query = oldest_ts is not None
 
-    ranked = sorted(STATIC_CHANNELS.keys(), key=lambda c: (-score_channel(c, question), -len(STATIC_CHANNELS[c])))
     live_map = get_bot_channels(client)
+    channel_filter = extract_channel_filter(question, live_map)
+
+    ranked = sorted(STATIC_CHANNELS.keys(), key=lambda c: (-score_channel(c, question), -len(STATIC_CHANNELS[c])))
 
     merged = {}
 
     if date_query:
         print(f"📅 Date range detected: {ts_to_date(oldest_ts)} → {ts_to_date(latest_ts)}")
-        for ch in live_map:
-            live = fetch_live(client, live_map[ch], ch, oldest=oldest_ts, latest=latest_ts)
-            if live:
-                merged[ch] = live
+        # Si canal spécifique, ne fetcher que lui
+        channels_to_fetch = [channel_filter] if channel_filter else list(live_map.keys())
+        for ch in channels_to_fetch:
+            if ch in live_map:
+                live = fetch_live(client, live_map[ch], ch, oldest=oldest_ts, latest=latest_ts)
+                if live:
+                    merged[ch] = live
     else:
-        for ch in ranked:
-            static = STATIC_CHANNELS.get(ch, [])
-            live   = fetch_live(client, live_map[ch], ch) if ch in live_map else []
+        if channel_filter:
+            # Question sur un canal spécifique sans date : statique + live récent
+            print(f"📌 Channel filter: #{channel_filter}")
+            static = STATIC_CHANNELS.get(channel_filter, [])
+            live   = fetch_live(client, live_map[channel_filter], channel_filter) if channel_filter in live_map else []
             seen   = set(static)
             combined = static + [m for m in live if m not in seen]
             if combined:
-                merged[ch] = combined
+                merged[channel_filter] = combined
+        else:
+            for ch in ranked:
+                static = STATIC_CHANNELS.get(ch, [])
+                live   = fetch_live(client, live_map[ch], ch) if ch in live_map else []
+                seen   = set(static)
+                combined = static + [m for m in live if m not in seen]
+                if combined:
+                    merged[ch] = combined
 
     context = build_context(merged)
     prompt = BOJAN_PROMPT if bojan_mode else SYSTEM_PROMPT
 
-    print(f"❓ {'[BOJAN] ' if bojan_mode else ''}{'[DATE] ' if date_query else ''}{question[:80]}")
+    flags = ""
+    if bojan_mode: flags += "[BOJAN] "
+    if date_query: flags += "[DATE] "
+    if channel_filter: flags += f"[CH:#{channel_filter}] "
+    print(f"❓ {flags}{question[:80]}")
     print(f"📏 ~{len(context)//CHARS_PER_TOKEN:,} tokens")
 
     try:
