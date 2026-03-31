@@ -3,7 +3,7 @@ import re
 import json
 import glob
 import time
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from slack_bolt import App
 from slack_bolt.adapter.socket_mode import SocketModeHandler
 import anthropic
@@ -17,7 +17,7 @@ SLACK_APP_TOKEN   = os.environ["SLACK_APP_TOKEN"]
 ANTHROPIC_API_KEY = os.environ["ANTHROPIC_API_KEY"]
 SLACK_EXPORT_DIR  = os.environ.get("SLACK_EXPORT_DIR", "./slack_export")
 
-LIVE_MESSAGES_PER_CHANNEL = 200
+LIVE_MESSAGES_PER_CHANNEL = 500   # augmenté (était 200)
 HARD_CHAR_LIMIT            = 80_000
 CACHE_TTL_SECONDS          = 300
 CHARS_PER_TOKEN            = 4
@@ -66,6 +66,90 @@ def clean_text(text, user_map):
     text = re.sub(r"<(https?://[^|>]+)\|([^>]+)>", r"\2 (\1)", text)
     text = re.sub(r"<(https?://[^>]+)>", r"\1", text)
     return text.strip()
+
+# ── Date extraction from question ─────────────────────────────────────────────
+def extract_date_range(question: str) -> tuple[float | None, float | None]:
+    """
+    Détecte une plage de dates dans la question.
+    Retourne (oldest_ts, latest_ts) en timestamps Unix, ou (None, None).
+    Supporte :
+      - "du 23 mars au 29 mars"
+      - "semaine du 23 mars"
+      - "cette semaine" / "last week" / "cette semaine"
+      - "aujourd'hui" / "today"
+      - "hier" / "yesterday"
+    """
+    now = datetime.now(tz=timezone.utc)
+    q = question.lower()
+
+    # "cette semaine" / "this week"
+    if any(x in q for x in ["cette semaine", "this week", "semaine en cours"]):
+        start = now - timedelta(days=now.weekday())
+        start = start.replace(hour=0, minute=0, second=0, microsecond=0)
+        return start.timestamp(), now.timestamp()
+
+    # "la semaine dernière" / "last week"
+    if any(x in q for x in ["semaine dernière", "last week", "semaine passée"]):
+        start = now - timedelta(days=now.weekday() + 7)
+        start = start.replace(hour=0, minute=0, second=0, microsecond=0)
+        end = start + timedelta(days=7)
+        return start.timestamp(), end.timestamp()
+
+    # "aujourd'hui" / "today"
+    if any(x in q for x in ["aujourd'hui", "today", "ce jour"]):
+        start = now.replace(hour=0, minute=0, second=0, microsecond=0)
+        return start.timestamp(), now.timestamp()
+
+    # "hier" / "yesterday"
+    if any(x in q for x in ["hier", "yesterday"]):
+        start = (now - timedelta(days=1)).replace(hour=0, minute=0, second=0, microsecond=0)
+        end = start + timedelta(days=1)
+        return start.timestamp(), end.timestamp()
+
+    # "du X mars au Y mars" ou "du X au Y mars/avril/..."
+    MONTHS_FR = {
+        "janvier": 1, "février": 2, "mars": 3, "avril": 4,
+        "mai": 5, "juin": 6, "juillet": 7, "août": 8,
+        "septembre": 9, "octobre": 10, "novembre": 11, "décembre": 12,
+    }
+    MONTHS_EN = {
+        "january": 1, "february": 2, "march": 3, "april": 4,
+        "may": 5, "june": 6, "july": 7, "august": 8,
+        "september": 9, "october": 10, "november": 11, "december": 12,
+    }
+    all_months = {**MONTHS_FR, **MONTHS_EN}
+    month_pattern = "|".join(all_months.keys())
+
+    # "du 23 mars au 29 mars" or "from march 23 to march 29"
+    range_pat = re.search(
+        rf"(?:du|from)\s+(\d{{1,2}})\s*({month_pattern})?\s*(?:au|to)\s+(\d{{1,2}})\s+({month_pattern})",
+        q
+    )
+    if range_pat:
+        d1, m1_str, d2, m2_str = range_pat.groups()
+        m2 = all_months.get(m2_str, now.month)
+        m1 = all_months.get(m1_str, m2) if m1_str else m2
+        year = now.year
+        try:
+            start = datetime(year, m1, int(d1), tzinfo=timezone.utc)
+            end   = datetime(year, m2, int(d2), 23, 59, 59, tzinfo=timezone.utc)
+            return start.timestamp(), end.timestamp()
+        except:
+            pass
+
+    # "semaine du 23 mars"
+    week_pat = re.search(rf"semaine\s+du\s+(\d{{1,2}})\s+({month_pattern})", q)
+    if week_pat:
+        d, m_str = week_pat.groups()
+        m = all_months.get(m_str, now.month)
+        try:
+            start = datetime(now.year, m, int(d), tzinfo=timezone.utc)
+            end   = start + timedelta(days=7)
+            return start.timestamp(), end.timestamp()
+        except:
+            pass
+
+    return None, None
 
 # ── Load static export ────────────────────────────────────────────────────────
 print("⏳ Loading Slack export...")
@@ -118,14 +202,36 @@ print(f"✅ {len(STATIC_CHANNELS)} channels — {sum(len(v) for v in STATIC_CHAN
 # ── Live fetch ────────────────────────────────────────────────────────────────
 _live_cache: dict = {}
 
-def fetch_live(client, channel_id: str, channel_name: str) -> list:
+def fetch_live(
+    client,
+    channel_id: str,
+    channel_name: str,
+    oldest: float | None = None,
+    latest: float | None = None,
+) -> list:
+    """
+    Fetch live messages from Slack API.
+    Si oldest/latest sont fournis, on bypass le cache et on fetch la plage exacte.
+    Sinon, on utilise le cache TTL standard.
+    """
+    cache_key = f"{channel_id}:{oldest}:{latest}"
     now = time.time()
-    if channel_id in _live_cache:
-        cached_at, cached_msgs = _live_cache[channel_id]
-        if now - cached_at < CACHE_TTL_SECONDS:
-            return cached_msgs
+
+    # Cache uniquement pour les fetches sans plage de date
+    if oldest is None and latest is None:
+        if cache_key in _live_cache:
+            cached_at, cached_msgs = _live_cache[cache_key]
+            if now - cached_at < CACHE_TTL_SECONDS:
+                return cached_msgs
+
     try:
-        result = client.conversations_history(channel=channel_id, limit=LIVE_MESSAGES_PER_CHANNEL)
+        kwargs = dict(channel=channel_id, limit=LIVE_MESSAGES_PER_CHANNEL)
+        if oldest is not None:
+            kwargs["oldest"] = str(oldest)
+        if latest is not None:
+            kwargs["latest"] = str(latest)
+
+        result = client.conversations_history(**kwargs)
         lines = []
         for msg in reversed(result.get("messages", [])):
             if msg.get("type") != "message":
@@ -138,9 +244,16 @@ def fetch_live(client, channel_id: str, channel_name: str) -> list:
             text = clean_text(text, user_map)
             author = user_map.get(msg.get("user", ""), "Unknown")
             lines.append(f"[{ts_to_date(msg.get('ts',''))}] {author}: {text}")
-        _live_cache[channel_id] = (now, lines)
-        print(f"  📡 Live #{channel_name}: {len(lines)} msgs")
+
+        if oldest is None and latest is None:
+            _live_cache[cache_key] = (now, lines)
+
+        label = f"#{channel_name}"
+        if oldest:
+            label += f" [{ts_to_date(oldest)} → {ts_to_date(latest or now)}]"
+        print(f"  📡 Live {label}: {len(lines)} msgs")
         return lines
+
     except Exception as e:
         print(f"  ⚠️ Live fetch failed for #{channel_name}: {e}")
         return []
@@ -195,22 +308,37 @@ def build_context(channels_data: dict) -> str:
 
 # ── Core answer function ──────────────────────────────────────────────────────
 def answer_question(question: str, client, say, thread_ts: str, bojan_mode: bool = False):
+    # Détecter si la question porte sur une plage de dates
+    oldest_ts, latest_ts = extract_date_range(question)
+    date_query = oldest_ts is not None
+
     ranked = sorted(STATIC_CHANNELS.keys(), key=lambda c: (-score_channel(c, question), -len(STATIC_CHANNELS[c])))
     live_map = get_bot_channels(client)
 
     merged = {}
-    for ch in ranked:
-        static = STATIC_CHANNELS.get(ch, [])
-        live   = fetch_live(client, live_map[ch], ch) if ch in live_map else []
-        seen   = set(static)
-        combined = static + [m for m in live if m not in seen]
-        if combined:
-            merged[ch] = combined
+
+    if date_query:
+        # Pour les questions avec plage de dates : live uniquement sur la période demandée,
+        # tous les canaux (résumé hebdo = tous les canaux)
+        print(f"📅 Date range detected: {ts_to_date(oldest_ts)} → {ts_to_date(latest_ts)}")
+        for ch in live_map:
+            live = fetch_live(client, live_map[ch], ch, oldest=oldest_ts, latest=latest_ts)
+            if live:
+                merged[ch] = live
+    else:
+        # Comportement standard : statique + live récent
+        for ch in ranked:
+            static = STATIC_CHANNELS.get(ch, [])
+            live   = fetch_live(client, live_map[ch], ch) if ch in live_map else []
+            seen   = set(static)
+            combined = static + [m for m in live if m not in seen]
+            if combined:
+                merged[ch] = combined
 
     context = build_context(merged)
     prompt = BOJAN_PROMPT if bojan_mode else SYSTEM_PROMPT
 
-    print(f"❓ {'[BOJAN] ' if bojan_mode else ''}{question[:80]}")
+    print(f"❓ {'[BOJAN] ' if bojan_mode else ''}{'[DATE] ' if date_query else ''}{question[:80]}")
     print(f"📏 ~{len(context)//CHARS_PER_TOKEN:,} tokens")
 
     try:
@@ -281,8 +409,16 @@ def handle_dm(event, client, say):
     thread_ts = event.get("thread_ts") or event["ts"]
     answer_question(question, client, say, thread_ts, bojan_mode)
 
-# ── Start ─────────────────────────────────────────────────────────────────────
+# ── Start avec auto-reconnect ─────────────────────────────────────────────────
+def run_bot():
+    while True:
+        try:
+            handler = SocketModeHandler(app, SLACK_APP_TOKEN)
+            print("⚡ Bot started — @mention + DMs + Bojan mode")
+            handler.start()
+        except Exception as e:
+            print(f"💀 Handler crashed: {e} — restarting in 5s...")
+            time.sleep(5)
+
 if __name__ == "__main__":
-    handler = SocketModeHandler(app, SLACK_APP_TOKEN)
-    print("⚡ Bot started — @mention + DMs + Bojan mode")
-    handler.start()
+    run_bot()
