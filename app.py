@@ -17,7 +17,7 @@ SLACK_APP_TOKEN   = os.environ["SLACK_APP_TOKEN"]
 ANTHROPIC_API_KEY = os.environ["ANTHROPIC_API_KEY"]
 SLACK_EXPORT_DIR  = os.environ.get("SLACK_EXPORT_DIR", "./slack_export")
 
-LIVE_MESSAGES_PER_CHANNEL = 500   # augmenté (était 200)
+LIVE_MESSAGES_PER_CHANNEL = 500
 HARD_CHAR_LIMIT            = 80_000
 CACHE_TTL_SECONDS          = 300
 CHARS_PER_TOKEN            = 4
@@ -68,14 +68,31 @@ def clean_text(text, user_map):
     return text.strip()
 
 # ── Date extraction from question ─────────────────────────────────────────────
-def extract_date_range(question: str) -> tuple[float | None, float | None]:
+DAYS_PREFIX = r"(?:lundi|mardi|mercredi|jeudi|vendredi|samedi|dimanche|monday|tuesday|wednesday|thursday|friday|saturday|sunday)?\s*"
+
+MONTHS_FR = {
+    "janvier": 1, "février": 2, "mars": 3, "avril": 4,
+    "mai": 5, "juin": 6, "juillet": 7, "août": 8,
+    "septembre": 9, "octobre": 10, "novembre": 11, "décembre": 12,
+}
+MONTHS_EN = {
+    "january": 1, "february": 2, "march": 3, "april": 4,
+    "may": 5, "june": 6, "july": 7, "august": 8,
+    "september": 9, "october": 10, "november": 11, "december": 12,
+}
+ALL_MONTHS = {**MONTHS_FR, **MONTHS_EN}
+MONTH_PATTERN = "|".join(ALL_MONTHS.keys())
+
+
+def extract_date_range(question: str) -> tuple:
     """
     Détecte une plage de dates dans la question.
     Retourne (oldest_ts, latest_ts) en timestamps Unix, ou (None, None).
     Supporte :
       - "du 23 mars au 29 mars"
+      - "lundi 23 mars au dimanche 29 mars"
       - "semaine du 23 mars"
-      - "cette semaine" / "last week" / "cette semaine"
+      - "cette semaine" / "last week"
       - "aujourd'hui" / "today"
       - "hier" / "yesterday"
     """
@@ -106,45 +123,39 @@ def extract_date_range(question: str) -> tuple[float | None, float | None]:
         end = start + timedelta(days=1)
         return start.timestamp(), end.timestamp()
 
-    # "du X mars au Y mars" ou "du X au Y mars/avril/..."
-    MONTHS_FR = {
-        "janvier": 1, "février": 2, "mars": 3, "avril": 4,
-        "mai": 5, "juin": 6, "juillet": 7, "août": 8,
-        "septembre": 9, "octobre": 10, "novembre": 11, "décembre": 12,
-    }
-    MONTHS_EN = {
-        "january": 1, "february": 2, "march": 3, "april": 4,
-        "may": 5, "june": 6, "july": 7, "august": 8,
-        "september": 9, "october": 10, "november": 11, "december": 12,
-    }
-    all_months = {**MONTHS_FR, **MONTHS_EN}
-    month_pattern = "|".join(all_months.keys())
-
-    # "du 23 mars au 29 mars" or "from march 23 to march 29"
+    # Plage explicite avec ou sans jour de semaine :
+    # "du 23 mars au 29 mars" / "lundi 23 mars au dimanche 29 mars"
     range_pat = re.search(
-        rf"(?:du|from)\s+(\d{{1,2}})\s*({month_pattern})?\s*(?:au|to)\s+(\d{{1,2}})\s+({month_pattern})",
+        rf"(?:du|from)?\s*{DAYS_PREFIX}(\d{{1,2}})\s+({MONTH_PATTERN})?\s*"
+        rf"(?:au|to|until)\s*{DAYS_PREFIX}(\d{{1,2}})\s+({MONTH_PATTERN})",
         q
     )
     if range_pat:
         d1, m1_str, d2, m2_str = range_pat.groups()
-        m2 = all_months.get(m2_str, now.month)
-        m1 = all_months.get(m1_str, m2) if m1_str else m2
+        m2 = ALL_MONTHS.get(m2_str, now.month) if m2_str else now.month
+        m1 = ALL_MONTHS.get(m1_str, m2) if m1_str else m2
         year = now.year
         try:
             start = datetime(year, m1, int(d1), tzinfo=timezone.utc)
             end   = datetime(year, m2, int(d2), 23, 59, 59, tzinfo=timezone.utc)
+            # Si la plage est dans le futur, essaie l'année précédente
+            if start > now:
+                start = start.replace(year=year - 1)
+                end   = end.replace(year=year - 1)
             return start.timestamp(), end.timestamp()
         except:
             pass
 
     # "semaine du 23 mars"
-    week_pat = re.search(rf"semaine\s+du\s+(\d{{1,2}})\s+({month_pattern})", q)
+    week_pat = re.search(rf"semaine\s+du\s+{DAYS_PREFIX}(\d{{1,2}})\s+({MONTH_PATTERN})", q)
     if week_pat:
         d, m_str = week_pat.groups()
-        m = all_months.get(m_str, now.month)
+        m = ALL_MONTHS.get(m_str, now.month)
         try:
             start = datetime(now.year, m, int(d), tzinfo=timezone.utc)
-            end   = start + timedelta(days=7)
+            if start > now:
+                start = start.replace(year=now.year - 1)
+            end = start + timedelta(days=7)
             return start.timestamp(), end.timestamp()
         except:
             pass
@@ -202,22 +213,10 @@ print(f"✅ {len(STATIC_CHANNELS)} channels — {sum(len(v) for v in STATIC_CHAN
 # ── Live fetch ────────────────────────────────────────────────────────────────
 _live_cache: dict = {}
 
-def fetch_live(
-    client,
-    channel_id: str,
-    channel_name: str,
-    oldest: float | None = None,
-    latest: float | None = None,
-) -> list:
-    """
-    Fetch live messages from Slack API.
-    Si oldest/latest sont fournis, on bypass le cache et on fetch la plage exacte.
-    Sinon, on utilise le cache TTL standard.
-    """
+def fetch_live(client, channel_id: str, channel_name: str, oldest=None, latest=None) -> list:
     cache_key = f"{channel_id}:{oldest}:{latest}"
     now = time.time()
 
-    # Cache uniquement pour les fetches sans plage de date
     if oldest is None and latest is None:
         if cache_key in _live_cache:
             cached_at, cached_msgs = _live_cache[cache_key]
@@ -308,7 +307,6 @@ def build_context(channels_data: dict) -> str:
 
 # ── Core answer function ──────────────────────────────────────────────────────
 def answer_question(question: str, client, say, thread_ts: str, bojan_mode: bool = False):
-    # Détecter si la question porte sur une plage de dates
     oldest_ts, latest_ts = extract_date_range(question)
     date_query = oldest_ts is not None
 
@@ -318,15 +316,12 @@ def answer_question(question: str, client, say, thread_ts: str, bojan_mode: bool
     merged = {}
 
     if date_query:
-        # Pour les questions avec plage de dates : live uniquement sur la période demandée,
-        # tous les canaux (résumé hebdo = tous les canaux)
         print(f"📅 Date range detected: {ts_to_date(oldest_ts)} → {ts_to_date(latest_ts)}")
         for ch in live_map:
             live = fetch_live(client, live_map[ch], ch, oldest=oldest_ts, latest=latest_ts)
             if live:
                 merged[ch] = live
     else:
-        # Comportement standard : statique + live récent
         for ch in ranked:
             static = STATIC_CHANNELS.get(ch, [])
             live   = fetch_live(client, live_map[ch], ch) if ch in live_map else []
@@ -364,7 +359,7 @@ def resolve_mentions(text):
         return f"@{user_map.get(uid, uid)}"
     return re.sub(r"<@([A-Z0-9]+)>", resolve, text).strip()
 
-def parse_question(raw_text: str, bot_name: str = "", bot_id: str = "") -> tuple[str, bool]:
+def parse_question(raw_text: str, bot_name: str = "", bot_id: str = "") -> tuple:
     """Retourne (question nettoyée, bojan_mode)"""
     text = resolve_mentions(raw_text)
     if bot_name:
@@ -394,7 +389,7 @@ def handle_mention(event, client, say):
 
     answer_question(question, client, say, thread_ts, bojan_mode)
 
-# Répondre aux messages directs (DM)
+# Répondre aux messages directs et group DMs
 @app.event("message")
 def handle_dm(event, client, say):
     if event.get("bot_id") or event.get("subtype"):
