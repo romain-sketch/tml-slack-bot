@@ -399,7 +399,7 @@ def handle_mention(event, client, say):
 def handle_dm(event, client, say):
     if event.get("bot_id") or event.get("subtype"):
         return
-    if event.get("channel_type") != "im":
+    if event.get("channel_type") not in ("im", "mpim"):
         return
 
     question, bojan_mode = parse_question(event.get("text", ""))
