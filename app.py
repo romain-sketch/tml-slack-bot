@@ -147,6 +147,29 @@ def extract_date_range(question: str) -> tuple:
         end = start + timedelta(days=1)
         return start.timestamp(), end.timestamp()
 
+    # Plage explicite : "du/from [jour] 23 mars au/to [jour] 29 mars"
+    # Couvre aussi "lundi 23 mars au dimanche 29 mars" sans "du"
+    # IMPORTANT: testé AVANT les trigger words pour éviter la capture prématurée d'un mois seul
+    range_pat = re.search(
+        rf"(?:du|from)?\s*{DAYS_PREFIX}(\d{{1,2}})\s+({MONTH_PATTERN})?\s*"
+        rf"(?:au|to|until)\s*{DAYS_PREFIX}(\d{{1,2}})\s+({MONTH_PATTERN})",
+        q
+    )
+    if range_pat:
+        d1, m1_str, d2, m2_str = range_pat.groups()
+        m2 = ALL_MONTHS.get(m2_str, now.month) if m2_str else now.month
+        m1 = ALL_MONTHS.get(m1_str, m2) if m1_str else m2
+        year = now.year
+        try:
+            start = datetime(year, m1, int(d1), tzinfo=timezone.utc)
+            end   = datetime(year, m2, int(d2), 23, 59, 59, tzinfo=timezone.utc)
+            if start > now:
+                start = start.replace(year=year - 1)
+                end   = end.replace(year=year - 1)
+            return start.timestamp(), end.timestamp()
+        except:
+            pass
+
     # "mois de mars 2026" / "en mars" / "in march 2026"
     if any(x in q for x in MONTH_TRIGGER_WORDS):
         month_pat = re.search(rf"({MONTH_PATTERN})\s*(\d{{4}})?", q)
@@ -167,28 +190,6 @@ def extract_date_range(question: str) -> tuple:
                         return start.timestamp(), end.timestamp()
                 except:
                     pass
-
-    # Plage explicite : "du/from [jour] 23 mars au/to [jour] 29 mars"
-    # Couvre aussi "lundi 23 mars au dimanche 29 mars" sans "du"
-    range_pat = re.search(
-        rf"(?:du|from)?\s*{DAYS_PREFIX}(\d{{1,2}})\s+({MONTH_PATTERN})?\s*"
-        rf"(?:au|to|until)\s*{DAYS_PREFIX}(\d{{1,2}})\s+({MONTH_PATTERN})",
-        q
-    )
-    if range_pat:
-        d1, m1_str, d2, m2_str = range_pat.groups()
-        m2 = ALL_MONTHS.get(m2_str, now.month) if m2_str else now.month
-        m1 = ALL_MONTHS.get(m1_str, m2) if m1_str else m2
-        year = now.year
-        try:
-            start = datetime(year, m1, int(d1), tzinfo=timezone.utc)
-            end   = datetime(year, m2, int(d2), 23, 59, 59, tzinfo=timezone.utc)
-            if start > now:
-                start = start.replace(year=year - 1)
-                end   = end.replace(year=year - 1)
-            return start.timestamp(), end.timestamp()
-        except:
-            pass
 
     # "semaine du 23 mars"
     week_pat = re.search(rf"semaine\s+du\s+{DAYS_PREFIX}(\d{{1,2}})\s+({MONTH_PATTERN})", q)
